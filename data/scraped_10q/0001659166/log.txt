@@ -1,0 +1,28 @@
+Scraping CIK: 0001659166
+Successfully reached browse base UrL
+Getting all documents for this CIK
+Got acc no. 0001659166-18-000260
+The file for date: 2018-07-26 exists, acc no.: 0001659166-18-000198
+The file for date: 2018-04-26 exists, acc no.: 0001659166-18-000129
+The file for date: 2017-10-26 exists, acc no.: 0001659166-17-000246
+The file for date: 2017-07-27 exists, acc no.: 0001659166-17-000200
+The file for date: 2017-04-27 exists, acc no.: 0001659166-17-000121
+Got acc no. 0001659166-16-000046
+The file for date: 2016-08-02 exists, acc no.: 0001659166-16-000036
+Some files failed to scrape
+8!=6
+==================================================
+Scraping CIK: 0001659166
+Successfully reached browse base UrL
+Getting all documents for this CIK
+Got acc no. 0001659166-18-000260
+Got 10Q for acc no. 0001659166-18-000260
+The file for date: 2018-07-26 exists, acc no.: 0001659166-18-000198
+The file for date: 2018-04-26 exists, acc no.: 0001659166-18-000129
+The file for date: 2017-10-26 exists, acc no.: 0001659166-17-000246
+The file for date: 2017-07-27 exists, acc no.: 0001659166-17-000200
+The file for date: 2017-04-27 exists, acc no.: 0001659166-17-000121
+Got acc no. 0001659166-16-000046
+Got 10Q for acc no. 0001659166-16-000046
+The file for date: 2016-08-02 exists, acc no.: 0001659166-16-000036
+==================================================
