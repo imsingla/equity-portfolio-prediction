@@ -5,6 +5,8 @@ This repo contains notebooks for the 4 modules described in the report linked he
 ## Modules:
 ### **SEC Scraper**
 
+Note: We have already scraped S&P 500 SEC filings. For testing purpose we are scraping the filings for just 2 tickers here as an example.
+
 - `scraping_cleaning_sec.ipynb` notebook is used to scrape all data from SEC EDGAR website. It also takes care of cleaning and parsing HTML into raw text files and checkpoints its progress so extraction can resume later.
 
 ### **Sentiment Analyzer**
