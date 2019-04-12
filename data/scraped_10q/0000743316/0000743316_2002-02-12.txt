@@ -1,0 +1,1132 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f79017e10-q.txt
+<DESCRIPTION>FORM 10-Q FOR PERIOD ENDED 12-29-01
+<TEXT>
+<PAGE>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+(MARK ONE)
+[X]        QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934
+           FOR THE QUARTERLY PERIOD ENDED DECEMBER 29, 2001
+
+                                       OR
+
+[ ]        TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934
+           FOR THE TRANSITION PERIOD FROM _________ TO _________
+
+                           COMMISSION FILE NO. 0-16538
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+             (Exact name of Registrant as specified in its charter)
+
+            DELAWARE                                           94-2896096
+(State or Other Jurisdiction of                       (I.R.S. Employer I.D. No.)
+Incorporation or Organization)
+
+           120 SAN GABRIEL DRIVE,
+           SUNNYVALE, CALIFORNIA                                 94086
+  (Address of Principal Executive Offices)                     (Zip Code)
+
+               Registrant's telephone number, including area code:
+                                 (408) 737-7600
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days:
+
+                                YES [X]   NO [ ]
+
+        CLASS: COMMON STOCK,                   OUTSTANDING AT FEB 1, 2002
+           $.001 PAR VALUE                         325,840,966 SHARES
+
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+INDEX
+
+
+<TABLE>
+<CAPTION>
+PART I. FINANCIAL INFORMATION                                               PAGE
+                                                                            ----
+<S>                                                                         <C>
+        ITEM 1. Financial Statements
+
+               Condensed Consolidated Balance Sheets
+                 as of December 29, 2001 and June 30, 2001                  3
+
+               Condensed Consolidated Statements of Income
+                 for the three and six months ended
+                 December 29, 2001 and December 30, 2000                    4
+
+               Condensed Consolidated Statements of Cash Flows
+                 for the six months ended December 29, 2001 and
+                 December 30, 2000                                          5
+
+               Notes to Condensed Consolidated Financial Statements         6-12
+
+        ITEM 2. Management's Discussion and Analysis of
+                Financial Condition and Results of Operations               13-18
+
+        ITEM 3. Quantitative and Qualitative Disclosures about
+                Market Risk                                                 18
+
+PART II. OTHER INFORMATION
+
+        ITEM 1. Legal Proceedings                                           18
+
+        ITEM 4. Submission of Matters to a Vote of Security Holders         19
+
+SIGNATURES                                                                  20
+</TABLE>
+
+
+
+                                                                               2
+<PAGE>
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+
+<TABLE>
+<CAPTION>
+==============================================================================
+                                                   December 29,      June 30,
+                                                       2001            2001
+(Amounts in thousands)                             (Unaudited)
+==============================================================================
+<S>                                                <C>              <C>
+ASSETS
+------------------------------------------------------------------------------
+Current assets:
+  Cash and cash equivalents                         $  158,728      $   93,796
+  Short-term investments                               938,479       1,126,556
+------------------------------------------------------------------------------
+   Total cash, cash equivalents and short-term
+     investments                                     1,097,207       1,220,352
+------------------------------------------------------------------------------
+  Accounts receivable, net                              94,754         152,488
+  Inventories                                          154,447         162,656
+  Deferred tax assets                                  126,310         103,205
+  Income tax refund receivable                          40,017          50,187
+  Other current assets                                   8,465          10,204
+------------------------------------------------------------------------------
+     Total current assets                            1,521,200       1,699,092
+------------------------------------------------------------------------------
+Property, plant and equipment, at cost, less
+     accumulated depreciation                          727,800         712,039
+Other assets                                            19,578          19,400
+------------------------------------------------------------------------------
+TOTAL ASSETS                                        $2,268,578      $2,430,531
+==============================================================================
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable                                  $   61,005      $  100,921
+  Income taxes payable                                  10,462           8,963
+  Accrued salary and related expenses                   70,907          75,992
+  Accrued expenses                                      92,426          94,105
+  Deferred income on shipments to distributors          31,154          45,396
+------------------------------------------------------------------------------
+     Total current liabilities                         265,954         325,377
+------------------------------------------------------------------------------
+Other liabilities                                        4,000           4,000
+------------------------------------------------------------------------------
+     Total liabilities                                 269,954         329,377
+------------------------------------------------------------------------------
+Stockholders' equity:
+  Common stock                                             325             330
+  Additional paid-in capital                           127,225         351,652
+  Retained earnings                                  1,869,486       1,745,638
+  Accumulated other comprehensive income                 1,588           3,534
+------------------------------------------------------------------------------
+     Total stockholders' equity                      1,998,624       2,101,154
+------------------------------------------------------------------------------
+TOTAL LIABILITIES & STOCKHOLDERS' EQUITY            $2,268,578      $2,430,531
+==============================================================================
+</TABLE>
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+                                                                               3
+<PAGE>
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------
+                                         Three Months Ended               Six Months Ended
+(Amounts in thousands, except per    ---------------------------    ----------------------------
+share data)                          December 29,   December 30,    December 29,    December 30,
+(Unaudited)                             2001            2000            2001            2000
+================================================================================================
+<S>                                  <C>            <C>             <C>             <C>
+Net revenues                          $247,108        $438,317        $486,534        $860,626
+Cost of goods sold                      73,961         154,112         145,806         302,527
+----------------------------------------------------------------------------------------------
+   Gross margin                        173,147         284,205         340,728         558,099
+----------------------------------------------------------------------------------------------
+Operating expenses:
+ Research and development               68,567          71,527         134,541         138,116
+ Selling, general and
+   administrative                       22,857          43,419          47,948          84,981
+----------------------------------------------------------------------------------------------
+   Total operating expenses             91,424         114,946         182,489         223,097
+----------------------------------------------------------------------------------------------
+   Operating income                     81,723         169,259         158,239         335,002
+Interest income, net                    11,641          14,912          26,608          28,295
+----------------------------------------------------------------------------------------------
+   Income before provision for
+     income taxes                       93,364         184,171         184,847         363,297
+Provision for income taxes              30,810          61,995          60,999         122,048
+----------------------------------------------------------------------------------------------
+   Net income                         $ 62,554        $122,176        $123,848        $241,249
+==============================================================================================
+Earnings per share:
+   Basic                              $   0.19        $   0.38        $   0.38        $   0.75
+   Diluted                            $   0.18        $   0.34        $   0.35        $   0.66
+==============================================================================================
+Shares used in the calculation
+  of earnings per share:
+   Basic                               323,897         324,491         327,304         323,719
+   Diluted                             355,799         361,563         357,649         363,028
+==============================================================================================
+Dividends declared per share          $     --        $  0.006        $     --        $  0.012
+==============================================================================================
+</TABLE>
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+                                                                               4
+<PAGE>
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                        MAXIM INTEGRATED PRODUCTS, INC.
+
+
+<TABLE>
+<CAPTION>
+==============================================================================================
+                                                                   For the Six Months Ended
+(Amounts in thousands)                                         -------------------------------
+(Unaudited)                                                    December 29,       December 30,
+Increase (decrease) in cash and cash equivalents                  2001                2000
+==============================================================================================
+<S>                                                            <C>                <C>
+Cash flows from operating activities:
+Net income                                                     $   123,848         $   241,249
+Adjustments to reconcile net income to net cash
+ provided by operating activities:
+   Depreciation, amortization and other                             28,519              47,513
+   Plant and equipment charges                                          --              31,865
+   Adjustment to conform fiscal period of pooled entity                 --               3,608
+   Changes in assets and liabilities:
+     Accounts receivable                                            57,734              20,760
+     Inventories                                                     8,209              (9,818)
+     Deferred taxes                                                (12,996)              7,495
+     Income tax refund receivable                                   10,170              (1,956)
+     Other current assets                                            1,350              10,107
+     Accounts payable                                              (39,916)             32,823
+     Income taxes payable                                           67,911              93,764
+     Deferred income on shipments to distributors                  (14,242)              8,216
+     All other accrued liabilities                                  (6,764)             (5,292)
+----------------------------------------------------------------------------------------------
+Net cash provided by operating activities                          223,823             480,334
+----------------------------------------------------------------------------------------------
+Cash flows from investing activities:
+   Additions to property, plant and equipment, net                 (44,280)           (194,830)
+   Other non-current assets                                           (178)             (2,823)
+   Purchases of available-for-sale securities                     (819,045)           (410,518)
+   Proceeds from sales/maturities of available-for-sale
+     securities                                                  1,004,361             290,919
+----------------------------------------------------------------------------------------------
+Net cash provided by (used in) investing activities                140,858            (317,252)
+----------------------------------------------------------------------------------------------
+Cash flows from financing activities:
+   Issuance of common stock                                         54,699              52,803
+   Repurchase of common stock                                     (354,448)           (205,304)
+   Dividends paid                                                       --              (3,936)
+----------------------------------------------------------------------------------------------
+Net cash used in financing activities                             (299,749)           (156,437)
+----------------------------------------------------------------------------------------------
+Net increase in cash and cash equivalents                           64,932               6,645
+Cash and cash equivalents:
+   Beginning of year                                                93,796              82,217
+----------------------------------------------------------------------------------------------
+   End of period                                               $   158,728         $    88,862
+==============================================================================================
+</TABLE>
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+                                                                               5
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE 1: BASIS OF PRESENTATION
+
+The unaudited condensed consolidated financial statements included herein have
+been prepared by the Company pursuant to the rules and regulations of the
+Securities and Exchange Commission. Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with generally
+accepted accounting principles have been condensed or omitted pursuant to such
+rules and regulations. In the opinion of management, all adjustments (consisting
+of normal recurring items) considered necessary for a fair presentation have
+been included. The results of operations for the three and six months ended
+December 29, 2001 are not necessarily indicative of the results to be expected
+for the entire year. These condensed consolidated financial statements should be
+read in conjunction with the consolidated financial statements and the notes
+thereto included in the Annual Report on Form 10-K for the year ended June 30,
+2001.
+
+The Company has a 52-to-53-week fiscal year that ends on the last Saturday in
+June. Accordingly, every sixth or seventh fiscal year will be a 53-week fiscal
+year. Fiscal year 2001 was a 53-week fiscal year. The three months ended
+December 30, 2000 consisted of 14 weeks. The impact of the extra week on the
+Company's operating results for the three months ended December 30, 2000
+consisted primarily of additional salary related expenses. These additional
+expenses were not material.
+
+NOTE 2: BUSINESS COMBINATION
+
+On April 11, 2001, the Company acquired Dallas Semiconductor Corporation (Dallas
+Semiconductor), a leading provider of specialty semiconductors. The Company
+issued approximately 41.0 million shares of its common stock in exchange for all
+the outstanding common stock of Dallas Semiconductor. In addition, the Company
+exchanged all options to purchase Dallas Semiconductor common stock for options
+to purchase approximately 5.9 million shares of the Company's common stock. The
+transaction was accounted for as a pooling-of-interests and qualifies as a
+tax-free reorganization.
+
+All financial data of the Company presented in these condensed consolidated
+financial statements has been restated to include the historical financial data
+of Dallas Semiconductor in accordance with accounting principles generally
+accepted in the United States and pursuant to Regulation S-X of the Securities
+and Exchange Commission. Adjustments relating to deferral of income on shipments
+to distributors were required to conform the accounting policies of the acquired
+company. The Company and Dallas Semiconductor had certain differences in the
+classification of revenues and expenses in their historical statements of
+operations and assets and liabilities in their historical balance sheets.
+Adjustments have been made to conform the combined companies' income statement
+and balance sheet classifications. In addition, the lives of the property, plant
+and equipment acquired as part of the merger with Dallas Semiconductor were
+conformed to the lives used by the Company as appropriate.
+
+The Company's statement of income for the three and six months ended December
+30, 2000 was combined with the Dallas Semiconductor statement of income for the
+three and six months ended December 31, 2000.
+
+
+
+                                                                               6
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+          NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONT'D)
+
+
+NOTE 3: INVENTORIES
+
+Inventories consist of (in thousands):
+
+<TABLE>
+<CAPTION>
+                     December 29,      June 30,
+                         2001            2001
+                     ------------      --------
+(Unaudited)
+<S>                  <C>               <C>
+
+Raw materials          $ 16,386        $ 21,893
+Work-in-process         103,679          91,727
+Finished goods           34,382          49,036
+                       --------        --------
+                       $154,447        $162,656
+                       ========        ========
+</TABLE>
+
+NOTE 4: EARNINGS PER SHARE
+
+Basic earnings per share are computed using the weighted average number of
+common shares outstanding during the period. Diluted earnings per share
+incorporates the incremental shares issuable upon the assumed exercise of stock
+options and other potentially dilutive securities. The number of incremental
+shares from the assumed issuance of stock options and other potentially dilutive
+securities is calculated applying the treasury stock method. The following table
+sets forth the computation of basic and diluted earnings per share.
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------
+                                             Three Months Ended               Six Months Ended
+(Amounts in thousands, except per        ----------------------------    ----------------------------
+ share data)                             December 29,    December 30,    December 29,    December 30,
+(Unaudited)                                  2001            2000            2001            2000
+=====================================================================================================
+<S>                                      <C>             <C>             <C>             <C>
+ Numerator for basic earnings per
+  share and diluted earnings per
+  share
+    Net income                             $ 62,554        $122,176        $123,848        $241,249
+=====================================================================================================
+ Denominator for basic earnings per
+  share                                     323,897         324,491         327,304         323,719
+    Effect of dilutive securities:
+      stock options and warrants             31,902          37,072          30,345          39,309
+                                           --------------------------------------------------------
+ Denominator for diluted earnings
+  per share                                 355,799         361,563         357,649         363,028
+=====================================================================================================
+Earnings per share:
+    Basic                                  $   0.19        $   0.38        $   0.38        $   0.75
+    Diluted                                $   0.18        $   0.34        $   0.35        $   0.66
+=====================================================================================================
+</TABLE>
+
+
+
+                                                                               7
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+          NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONT'D)
+
+
+NOTE 5: SHORT-TERM INVESTMENTS
+
+All short-term investments at December 29, 2001 are classified as
+available-for-sale and consist primarily of U.S. Treasury and Federal Agency
+debt securities maturing within one year. Unrealized gains and losses, net of
+tax, on securities in this category are included in accumulated other
+comprehensive income which is a separate component of stockholders' equity. The
+cost of securities sold is based on the specific identification method. Interest
+earned on securities is included in "Interest income, net" in the condensed
+consolidated statements of income.
+
+NOTE 6: SEGMENT INFORMATION
+
+The Company operates and tracks its results in one operating segment. The
+Company designs, develops, manufactures and markets a broad range of linear and
+mixed-signal integrated circuits. The Chief Executive Officer has been
+identified as the Chief Operating Decision Maker as defined by Statement of
+Financial Accounting Standard No. 131 (SFAS 131), "Disclosures about Segments of
+an Enterprise and Related Information."
+
+Enterprise-wide information is provided in accordance with SFAS 131.
+Geographical revenue information is based on the customer's ship-to location.
+Long-lived assets consist of property, plant and equipment. Property, plant and
+equipment information is based on the physical location of the assets at the end
+of each fiscal period.
+
+Net revenues from unaffiliated customers by geographic region were as follows:
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------
+                                 Three Months Ended               Six Months Ended
+                            ----------------------------    ----------------------------
+(Amounts in thousands)      December 29,    December 30,    December 29,    December 30,
+(Unaudited)                     2001            2000            2001            2000
+========================================================================================
+<S>                         <C>             <C>             <C>             <C>
+United States                 $ 95,936        $196,099        $182,691        $389,388
+Europe                          50,083         100,946         107,226         198,161
+Pacific Rim                     97,710         134,848         190,049         261,546
+Rest of World                    3,379           6,424           6,568          11,531
+--------------------------------------------------------------------------------------
+                              $247,108        $438,317        $486,534        $860,626
+======================================================================================
+</TABLE>
+
+Net long-lived assets by geographic region were as follows:
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------
+(Amounts in thousands)        December 29,      June 30,
+(Unaudited)                       2001            2001
+--------------------------------------------------------
+<S>                           <C>               <C>
+United States                   $662,152        $646,519
+Rest of World                     65,648          65,520
+--------------------------------------------------------
+                                $727,800        $712,039
+========================================================
+</TABLE>
+
+
+
+                                                                               8
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+          NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONT'D)
+
+
+NOTE 7: COMPREHENSIVE INCOME
+
+Comprehensive income (loss) consists of net income (loss) and net unrealized
+gains (losses) on available-for-sale investments and forward exchange contracts.
+The components of other comprehensive income (loss) and related tax effects were
+as follows:
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------
+                                               Three Months Ended               Six Months Ended
+                                         -----------------------------    -----------------------------
+(Amounts in thousands)                   December 29,     December 30,    December 29,     December 30,
+(Unaudited)                                  2001             2000            2001             2000
+=======================================================================================================
+<S>                                        <C>              <C>             <C>              <C>
+ Change in unrealized gains
+ (losses) on investments,
+  net of tax of $(962), $809,
+  $(1,070), and $809, respectively         $ (1,802)        $  1,377        $ (1,691)        $  1,377
+
+ Change in unrealized gains
+ (losses) on forward exchange
+  contracts, net of tax of $63, $0,
+  $(134), and $0, respectively                  127               --            (255)              --
+-----------------------------------------------------------------------------------------------------
+ Other comprehensive income (loss)         $ (1,675)        $  1,377        $ (1,946)        $  1,377
+=====================================================================================================
+</TABLE>
+
+Accumulated other comprehensive income presented in the accompanying condensed
+consolidated balance sheet consists of the accumulated net unrealized gain on
+available-for-sale investments and forward exchange contracts and the
+accumulated foreign currency translation adjustments. Foreign currency
+translation adjustments are not tax affected.
+
+
+
+                                                                               9
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+          NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONT'D)
+
+
+NOTE 8: MERGER AND SPECIAL CHARGES
+
+During the fourth quarter of fiscal 2001, the Company recorded merger costs in
+connection with the acquisition of Dallas Semiconductor of approximately $26.4
+million. These costs consist of approximately $14.1 million intended to satisfy
+the change in control payments under previously existing employment contracts
+and other non-employee director arrangements for which there was no future
+economic benefit; a $5.8 million payment to be made under a change in control
+provision in a previously existing life insurance arrangement for which there
+was no future economic benefit; and $6.5 million for fees related to investment
+banking, legal, accounting, filings with regulatory agencies, financial
+printing, and other related costs. It is expected that substantially all of
+these direct transaction costs will be paid out of existing cash reserves within
+12 months of the consummation of the merger.
+
+During the fourth quarter of fiscal 2001, the Company recorded special charges
+of $137.0 million. These special charges resulted from the significant decrease
+in demand that occurred during the fourth quarter of fiscal year 2001 for Dallas
+Semiconductor's products in combination with the Company's intention to close
+Dallas Semiconductor's 6-inch wafer manufacturing facility and dispose of the
+related equipment. The Company intends to complete construction of an 8-inch
+wafer manufacturing facility located in Dallas, Texas that was under
+construction when the merger was consummated. Once complete, the 8-inch wafer
+manufacturing facility will serve as Dallas Semiconductor's primary wafer
+manufacturing facility. In addition, the Company is concentrating test
+operations of the combined company at the Company's test facilities located in
+the Philippines and Thailand. Once complete, certain Dallas Semiconductor test
+equipment will be disposed of. The Company concluded that the above facts
+indicated that Dallas Semiconductor's long-lived assets might be impaired, and
+as required by accounting principles generally accepted in the United States,
+performed a cash flow analysis of the related assets. Based on the cash flow
+analysis, the cash flows expected to be generated by Dallas Semiconductor's
+long-lived assets during their estimated remaining useful lives are not
+sufficient to recover the net book value of the assets. Based on the cash flow
+analysis, an impairment charge of $124.4 million was recorded to reduce the net
+book value of Dallas Semiconductor's long-lived assets to fair value. In
+addition to the above, the Company recorded special charges of $12.6 million to
+reflect the reorganization of the Company's sales organization, purchase order
+cancellation fees, and the reduction in the Company's manufacturing workforce.
+The above actions directly impacted employees in the Company's sales, marketing,
+and manufacturing organizations.
+
+During the three months ended December 29, 2001, the Company recorded special
+charges of $1.4 million related to reductions in the Company's manufacturing
+workforce. It is expected that 201 employees will be terminated by these
+actions, of which 158 were terminated and $1.0 million of termination benefits
+were paid by December 29, 2001. In addition to the above, during the three
+months ended December 29, 2001, the Company paid $0.2 million of termination
+benefits related to special charges recorded during the fourth quarter of fiscal
+year 2001. The Company has terminated 391 employees and has paid $5.1 million of
+termination benefits related to the special charges recorded during the fourth
+quarter of fiscal year 2001.
+
+
+
+                                                                              10
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+          NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONT'D)
+
+
+Based on developments that occurred during the three months ended December 29,
+2001 related to the special charges recorded during the fourth quarter of fiscal
+2001, the Company revised its estimate of the reserve balance needed for
+purchase order cancellation fees. Based on the current status of negotiations
+with vendors regarding purchase order cancellation fees, the Company believes
+the amount which will ultimately be paid will be approximately $1.4 million less
+than the amount recorded for such charges at September 29, 2001. Accordingly,
+the Company decreased the amount recorded for purchase order cancellation fees
+by $1.4 million to reflect this change in estimate.
+
+The following table summarizes the activity related to the above actions for the
+six months ended December 29, 2001:
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------
+                                                            Purchase
+                                                              Order
+                            Merger                        Cancellation
+(Amount in thousands)       Costs           Severance          Fees            Other            Total
+-------------------------------------------------------------------------------------------------------
+<S>                        <C>              <C>           <C>                 <C>              <C>
+ Reserve balance at
+  June 30, 2001            $  8,141         $    553         $  7,513         $  2,244         $ 18,451
+ Adjustment                      --            2,581           (2,581)              --               --
+ Cash payments               (4,906)          (2,950)              --             (426)          (8,282)
+-------------------------------------------------------------------------------------------------------
+ Reserve balance at
+  September 29, 2001       $  3,235         $    184         $  4,932         $  1,818         $ 10,169
+ Special charges                 --            1,400               --               --            1,400
+ Adjustment                      --               --           (1,400)              --           (1,400)
+ Cash payments                   --           (1,167)              --               --           (1,167)
+-------------------------------------------------------------------------------------------------------
+ Reserve balance at
+  December 29, 2001        $  3,235         $    417         $  3,532         $  1,818         $  9,002
+=======================================================================================================
+</TABLE>
+
+The remaining merger and special charges reserve at December 29, 2001 is
+expected to be paid out by the end of fiscal year 2002.
+
+NOTE 9: CONTINGENCIES
+
+On September 21, 2001, the Federal District Court for the Northern District of
+California issued an order dismissing a patent litigation action by
+Linear Technology Corporation against the Company described in prior periodic
+reports to the SEC. The court found that the Company did not infringe any of the
+claims of the asserted patent. The suit had claimed that the Company infringed
+various "sleep mode" and "current reversal prevention" claims of U.S. Patent No.
+5,481,178. These claims were directed to the operation of switching voltage
+regulators, parts commonly used in laptop computers, cellular telephones and
+other applications. The Company moved for summary judgment on a number of
+subjects, including noninfringement, invalidity and unenforceability of the
+patent. The court found that the Company's remaining summary judgment motions
+were rendered moot by its noninfringement ruling. Linear Technology Corporation
+has appealed the decision. While the Company continues to believe the claims are
+without merit, no assurance can be given as to the outcome of the appeal.
+
+
+
+                                                                              11
+<PAGE>
+
+                         MAXIM INTEGRATED PRODUCTS, INC.
+
+          NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONT'D)
+
+
+NOTE 10: COMMON STOCK REPURCHASES
+
+Following the extraordinary events on September 11, 2001, the Securities and
+Exchange Commission issued an Emergency Order pursuant to Section 12(k)(2) of
+the Securities Exchange Act of 1934. This Emergency Order was issued to
+temporarily ease the restrictions of Rule 10 b-18 during the five business days
+following the opening of the U.S. securities market on September 17, 2001. The
+Emergency Order also provided that, despite pooling-of-interests provisions in
+Accounting Principles Board Opinion No. 16, Business Combinations, and the
+related interpretations of the American Institute of Certified Public
+Accountants, consensuses of the Financial Accounting Standards Board's Emerging
+Issues Task Force, rules and regulations of the Commission and interpretations
+by its staff, and other authoritative accounting guidance, a company could
+continue to account for its business combination transactions as a
+pooling-of-interests if it repurchased its own common stock pursuant to the
+Emergency Order. Subsequently, the Securities Exchange Commission extended this
+Emergency Order to September 28, 2001.
+
+As a result of the Emergency Order, the Company authorized the repurchase of up
+to 10 million shares of its common stock for the ten business days following the
+opening of the U.S. securities markets on September 17, 2001. During the period
+from September 17, 2001 to September 28, 2001, the Company repurchased 8.2
+million shares of its common stock for $286.6 million
+
+On September 28, 2001, the Securities and Exchange Commission issued an
+Exemptive Order to respond to market developments. Similar to its previously
+issued Emergency Order, the Exemptive Order eased the restrictions of Rule
+10 b-18 and provided that, despite pooling-of-interests provisions in Accounting
+Principles Board Opinion No. 16, Business Combinations, and the related
+interpretations of the American Institute of Certified Public Accountants,
+consensuses of the Financial Accounting Standards Board's Emerging Issues Task
+Force, rules and regulations of the Commission and interpretations by its staff,
+and other authoritative accounting guidance, a company could continue to account
+for its business combination transactions as a pooling-of-interests if it
+repurchased its own common stock pursuant to the Exemptive Order during the
+period from October 1, 2001 to October 12, 2001.
+
+On October 1, 2001 the Company increased the number of shares authorized to be
+repurchased to 15 million, and during the period from October 1, 2001 to October
+12, 2001, the Company repurchased 2.0 million shares of its common stock for
+$67.8 million. The Company does not anticipate any further common stock
+repurchases in fiscal year 2002, and, to the extent that the Board's
+authorization to repurchase shares was not fully executed by October 12, 2001,
+that authorization has been rescinded.
+
+
+
+                                                                              12
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+
+NET REVENUES
+
+Net revenues were $247.1 million and $438.3 million for the three months ended
+December 29, 2001 and December 30, 2000, respectively, a decrease of 43.6%. Net
+revenues were $486.5 million and $860.6 million for the six months ended
+December 29, 2001 and December 30, 2000, respectively, a decrease of 43.5%. The
+decrease in net revenues is due to downturns in certain industry segments and in
+the general economy.
+
+During the three and six months ended December 29, 2001, approximately 61% and
+62%, respectively, of net revenues were derived from customers outside of the
+United States. While the majority of these sales are denominated in US dollars,
+the Company enters into foreign currency forward contracts to mitigate its risks
+on firm commitments and net monetary assets denominated in foreign currencies.
+The impact of changes in foreign exchange rates on revenue and the Company's
+results of operations for the three and six months ended December 29, 2001 was
+immaterial.
+
+GROSS MARGIN
+
+Gross margin was 70.1% and 64.8% for the three months ended December 29, 2001
+and December 30, 2000, respectively. The increase in gross margin for the three
+months ended December 29, 2001 is attributable to cost reductions and charges
+recorded during the three months ended December 29, 2001 as compared to the
+three months ended December 30, 2000. Gross margin for the three months ended
+December 29, 2001 was negatively impacted due to $3.0 million recorded for
+inventory reserves. Gross margin for the three months ended December 30, 2000
+was negatively impacted due to $14.3 million recorded for inventory reserves and
+$11.6 million recorded to reduce the carrying value of plant and equipment that
+was abandoned, no longer in use, or whose estimated useful lives were shortened,
+resulting in accelerated depreciation.
+
+Gross margin was 70.0% and 64.8% for the six months ended December 29, 2001 and
+December 30, 2000, respectively. The increase in gross margin for the six months
+ended December 29, 2001 is attributable to cost reductions and charges recorded
+during the six months ended December 29, 2001 as compared to the six months
+ended December 30, 2000. Gross margin for the six months ended December 29, 2001
+was negatively impacted due to $6.5 million recorded for inventory reserves.
+Gross margin for the six months ended December 30, 2000 was negatively impacted
+due to $16.9 million recorded for inventory reserves and $26.5 million recorded
+to reduce the carrying value of plant and equipment that was abandoned, no
+longer in use, or whose estimated useful lives were shortened, resulting in
+accelerated depreciation.
+
+
+
+                                                                              13
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS (CONT'D)
+
+
+RESEARCH AND DEVELOPMENT
+
+Research and development expenses were $68.6 million and $71.5 million for the
+three months ended December 29, 2001, and December 30, 2000, respectively, which
+represented 27.7% and 16.3% of net revenues, respectively.
+
+Research and development expenses were $134.5 million and $138.1 million for the
+six months ended December 29, 2001, and December 30, 2000, respectively, which
+represented 27.7% and 16.0% of net revenues, respectively.
+
+The decrease in research and development expenses in absolute dollars for the
+three and six months ended December 29, 2001 as compared to the same periods in
+the prior year is due to $3.6 million and $7.1 million recorded during the three
+and six months ended December 30, 2000, respectively, to reduce the carrying
+value of plant and equipment that was abandoned, no longer in use, or whose
+estimated useful lives were shortened, resulting in accelerated depreciation.
+The decrease is somewhat offset primarily by increased headcount and related
+employee expenses to continue development of new products to support revenue
+growth.
+
+SELLING, GENERAL AND ADMINISTRATIVE
+
+Selling, general and administrative expenses were $22.8 million and $43.4
+million for the three months ended December 29, 2001, and December 30, 2000,
+respectively, which represented 9.2% and 9.9% of net revenues, respectively.
+
+Selling, general and administrative expenses were $47.9 million and $85.0
+million for the six months ended December 29, 2001, and December 30, 2000,
+respectively, which represented 9.9% and 9.9% of net revenues, respectively.
+
+The decrease in selling, general, and administrative expenses in absolute
+dollars for the three and six months ended December 29, 2001 as compared to the
+three and six months ended December 30, 2000 is due to lower sales
+representative commissions and decreased headcount related expenses due mainly
+to a reorganization of the combined Company's sales organization completed in
+the fourth quarter of fiscal year 2001. In addition, the Company recorded
+charges of $4.0 million and $7.0 million during the three and six months ended
+December 30, 2000, respectively, for technology licensing.
+
+INTEREST INCOME, NET
+
+Interest income, net was $11.6 million and $26.6 million for the three and six
+months ended December 29, 2001, respectively, compared to $14.9 million and
+$28.3 million for the three and six months ended December 30, 2000,
+respectively. The decrease in interest income, net for the three and six months
+ended December 29, 2001 as compared to the three and six months ended December
+30, 2000 is a result of decreased interest rates on invested amounts offset
+somewhat by higher levels of invested cash.
+
+INCOME TAXES
+
+The effective income tax rate for the three months ended December 29, 2001 and
+December 30, 2000 was 33.0% and 33.7%, respectively. The effective income tax
+rate for the six months ended December 29, 2001 and December 30, 2000 was 33.0%
+and 33.6%, respectively. These rates differ from the federal statutory rate
+primarily due to state income taxes and tax exempt earnings of the Company's
+Foreign Sales Corporation.
+
+
+
+                                                                              14
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS (CONT'D)
+
+
+OUTLOOK
+
+Second quarter bookings were approximately $230 million, a 9% increase over the
+first quarter's level of $211 million. Turns orders received during the quarter
+were $125 million, a 23% increase over the $102 million received in the prior
+quarter (turns orders are customer orders that are for delivery within the same
+quarter and may result in revenue within the same quarter if the Company has
+available inventory that matches those orders). Order cancellations were down
+39% from the first quarter and down 81% from the year ago level. Bookings
+increased in all geographic regions except the U.S., where bookings decreased
+slightly compared to the prior quarter. Bookings increased in most of the
+Company's 14 business units, with particular strength in those business units
+with products for portable equipment. Bookings were down from the first quarter
+for those business units with products for the test equipment, fiber and
+telecommunication equipment markets.
+
+Second quarter ending backlog shippable within the next 12 months was
+approximately $187 million, including $170 million requested for shipment in the
+third quarter of fiscal year 2002. The Company's first quarter ending backlog
+shippable within the next 12 months was approximately $196 million, including
+approximately $172 million requested for shipment in the second quarter of
+fiscal year 2002.
+
+The Company is confident that inventory levels for much of the end equipment
+that its products address are either significantly reduced or have moderated.
+The Company remains cautious about the short-term outlook for the telecom and
+ATE markets, where its customers are still working through inventories. Although
+the Company believes that its customers' visibility is better now than it has
+been in the past several quarters, turns orders remain high because of the
+Company's short lead times. As lead times increase, the Company expects
+customers to place orders beyond their immediate needs.
+
+The Company is encouraged by the continued increase in bookings during its
+second quarter. Although visibility remains limited, the Company currently
+expects bookings to increase again in the third quarter of fiscal year 2002.
+
+
+
+                                                                              15
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS (CONT'D)
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company's primary sources of funds for the six months ended December 29,
+2001 were from net cash generated from operating activities of $223.8 million,
+$185.3 million of net investment activities, and proceeds from the issuance of
+common stock of $54.7 million associated with the Company's stock option
+programs.
+
+The principal uses of funds were the repurchase of $354.4 million of common
+stock and the purchase of $44.3 million in property, plant and equipment. The
+Company believes that it possesses sufficient liquidity and capital resources to
+fund its property, plant and equipment purchases and operations for the next
+twelve months.
+
+The Company is subject to pending legal proceedings. For example, see Note 9 of
+Notes to Condensed Consolidated Financial Statements for information regarding a
+pending patent litigation. Although the results of such legal proceedings are
+unpredictable, the Company does not believe that any pending legal proceedings
+will have a material adverse impact on its liquidity or financial position. If,
+however, the court in the action brought by Linear Technology Corporation were
+to reverse its recent dismissal of the patent litigation claims brought by
+Linear Technology Corporation against the Company, and were Linear Technology
+Corporation to prevail in its claims against the Company, the Company's
+operating results could be adversely affected.
+
+In the past, it was the Company's policy to reduce the dilution effect from
+stock options by repurchasing its common stock from time to time in amounts
+based on estimates of proceeds from stock option exercises and of tax benefits
+related to such exercises. That stock repurchase policy was terminated in the
+third quarter of fiscal 2001. See Note 10 of Notes to Condensed Consolidated
+Financial Statements regarding repurchases of common stock in the first and
+second quarters of fiscal year 2002 and the subsequent termination of such
+repurchases.
+
+
+
+                                                                              16
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS (CONT'D)
+
+
+FORWARD-LOOKING INFORMATION AND RISK FACTORS
+
+This Report on Form 10-Q contains forward-looking statements, including
+statements regarding or implicating the Company's expectations, intentions,
+plans, goals and hopes regarding the future. Forward-looking statements in this
+report, including this Management's Discussion and Analysis section, involve
+risk and uncertainty. Forward-looking statements include the Company's
+expectations regarding future bookings, the Company's assessment of its
+customers' ability to forecast their future business and their willingness or
+unwillingness to commit to inventories and longer term orders, the Company's
+assessment of the outlook for the telecom and ATE markets and the Company's
+assessment of the sufficiency of its capital resources and liquidity. Results
+could differ materially from those forecasted based upon, among other things,
+the Company incorrectly assessing customer end-user demand and willingness to
+commit to inventories and orders, and order cancellation levels. Given the
+Company's backlog of orders at the end of December 2001, the Company's ability
+to increase revenues in the current quarter will depend on the amount of turns
+orders that it can generate and on its ability to match orders with available
+inventory. In addition, future business could be adversely affected by technical
+difficulties in bringing new products and processes to market in a timely
+manner; market developments that could adversely affect the growth of the
+mixed-signal analog market such as further declines in customer forecasts or
+greater than expected cyclical downturns within the mixed-signal analog segment
+of the semiconductor market or possible effects of capacity constraints
+affecting other suppliers to equipment manufacturers; the Company being unable
+to sustain its successes in recruiting and retaining high-quality personnel; and
+the Company's successes in the markets its products are introduced in, as well
+as other risks described in the Company's Form 10-K for the fiscal year ended
+June 30, 2001.
+
+Additional risk factors include whether, and the extent to which, demand for the
+Company's products increases and reflects real end-user demand; whether customer
+cancellations and delays of outstanding orders increase; whether the Company is
+able to manufacture in a correct mix to respond to orders on hand and new orders
+received in the future; whether the Company is able to achieve its new product
+development and introduction goals, including, without limitation, goals for
+recruiting, retaining, training, and motivating engineers, particularly design
+engineers, and goals for conceiving and introducing timely new products that are
+well received in the marketplace; whether the Company is able to effectively and
+successfully manage manufacturing operations during a period of diminished
+demand; and whether the Company is able to successfully commercialize its new
+technologies, such as its next-generation high-frequency technologies, that it
+has been investing in by designing and introducing new products based on these
+new technologies.
+
+In addition to the above, there are certain risks and uncertainties related to
+the Company's acquisition of Dallas Semiconductor (see Notes 2 and 8 of Notes to
+Condensed Consolidated Financial Statements). Although the process of
+integrating the personnel and operations of Dallas Semiconductor, with the goals
+of reducing cost and increasing efficiency and productivity, has been proceeding
+well in most regards, no assurance can be given that products, technologies,
+distribution channels, customer support operations, management information
+systems, key personnel and businesses of Dallas Semiconductor will be
+effectively assimilated into the Company's business or product offerings, or
+that such integration will be completed according to the Company's schedule, or
+that the results of the integration will be successful.
+
+
+
+                                                                              17
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS (CONT'D)
+
+
+Other important factors that could cause actual results to differ materially
+from those predicted or implied in this report include overall worldwide
+economic conditions; demand for electronic products and semiconductors
+generally; demand for the end-user products for which the Company's
+semiconductors are suited; timely availability of raw materials, equipment,
+supplies and services; unanticipated manufacturing problems; technological and
+product development risks; competitors that may outperform the Company; and
+other risk factors described in the Company's filings with the Securities and
+Exchange Commission and in particular its report on Form 10-K for the year ended
+June 30, 2001.
+
+All forward-looking statements included in this document are made as of the date
+hereof, based on the information available to the Company as of the date hereof,
+and the Company assumes no obligation to update any forward-looking statement,
+whether as a result of new information relating to existing conditions, future
+events or otherwise.
+
+ITEM 3: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company's market risk has not changed significantly from the risks disclosed
+in Item 7A of the Company's Annual Report on Form 10-K for the year ended June
+30, 2001.
+
+
+PART II. OTHER INFORMATION
+
+ITEM 1: LEGAL PROCEEDINGS
+
+On September 21, 2001, the Federal District Court for the Northern District of
+California issued an order dismissing a patent litigation action by
+Linear Technology Corporation against the Company described in prior periodic
+reports to the SEC. The court found that the Company did not infringe any of the
+claims of the asserted patent. The suit had claimed that the Company infringed
+various "sleep mode" and "current reversal prevention" claims of U.S. Patent No.
+5,481,178. These claims were directed to the operation of switching voltage
+regulators, parts commonly used in laptop computers, cellular telephones and
+other applications. The Company moved for summary judgment on a number of
+subjects, including noninfringement, invalidity and unenforceability of the
+patent. The court found that the Company's remaining summary judgment motions
+were rendered moot by its noninfringement ruling. Linear Technology Corporation
+has appealed the decision. While the Company continues to believe the claims are
+without merit, no assurance can be given as to the outcome of the appeal.
+
+
+
+                                                                              18
+<PAGE>
+
+ITEM 4:  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+The Company held its Annual Meeting of Stockholders on November 15, 2001. The
+following proposals were voted on by the Company's Stockholders and results
+obtained thereon:
+
+PROPOSAL 1: ELECTION OF DIRECTORS
+
+The following directors were elected as directors by the votes indicated:
+
+<TABLE>
+<CAPTION>
+Nominee                              Votes in Favor        Votes Withheld
+-------                              --------------        --------------
+<S>                                  <C>                   <C>
+James R. Bergman                      288,602,764             1,390,257
+John F. Gifford                       266,823,540            23,169,481
+B. Kipling Hagopian                   288,595,629             1,397,392
+Eric C. Karros                        288,170,508             1,822,513
+M.D. Sampels                          288,509,956             1,483,065
+A.R. Frank Wazzan                     288,580,220             1,412,801
+</TABLE>
+
+PROPOSAL 2: RATIFICATION AND APPROVAL OF THE COMPANY'S 1996 STOCK INCENTIVE
+PLAN, AS AMENDED, AND AMENDMENTS TO THE COMPANY'S 1987 EMPLOYEE STOCK
+PARTICIPATION PLAN, AS AMENDED, INCLUDING, WITHOUT LIMITATION, AMENDMENTS
+INCREASING THE NUMBER OF SHARES AVAILABLE FOR ISSUANCE BY 13,200,000 SHARES.
+
+The proposal was ratified and approved with 183,918,792 votes in favor,
+104,808,679 against, and 1,265,550 abstentions.
+
+PROPOSAL 3: RATIFICATION OF RETENTION OF INDEPENDENT AUDITORS
+
+The retention of Ernst & Young LLP as the Company's independent auditors for
+fiscal year 2002 was ratified with 288,344,759 votes in favor, 713,740 votes
+against, and 934,522 abstentions.
+
+
+ITEMS 2, 3, 5 AND 6 HAVE BEEN OMITTED AS THEY ARE NOT APPLICABLE.
+
+
+
+                                                                              19
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+FEBRUARY 12, 2002                       MAXIM INTEGRATED PRODUCTS, INC.
+-----------------                       -------------------------------
+  (Date)                                      (Registrant)
+
+
+
+
+                                        /s/ Carl W. Jasper
+                                        ------------------
+                                        CARL W. JASPER
+                                        Vice President and Chief Financial
+                                        Officer (For the Registrant and as
+                                        Principal Financial Officer)
+
+
+
+
+                                        /s/ Sharon E. Smith-Lenox
+                                        -------------------------
+                                        SHARON E. SMITH-LENOX
+                                        Corporate Controller (Principal
+                                        Accounting Officer)
+
+
+
+                                                                              20
+
+</TEXT>
+</DOCUMENT>

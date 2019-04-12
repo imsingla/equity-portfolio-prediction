@@ -1,0 +1,1336 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f67535e10-q.txt
+<DESCRIPTION>FORM 10-Q FOR QUARTERLY PERIOD ENDED OCT.27, 2000
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                 ---------------
+
+                                    FORM 10-Q
+                                 ---------------
+(MARK ONE)
+
+      [X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+
+                 FOR THE QUARTERLY PERIOD ENDED OCTOBER 27, 2000
+
+                                       OR
+
+      [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+
+          FOR THE TRANSITION PERIOD FROM ____________ TO ____________.
+
+                         COMMISSION FILE NUMBER 0-27130
+
+                             NETWORK APPLIANCE, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                                                                     <C>
+                        CALIFORNIA                                             77-0307520
+(STATE OR OTHER JURISDICTION OF INCORPORATION OR ORGANIZATION)          (IRS EMPLOYER IDENTIFICATION NO.)
+</TABLE>
+
+
+                              495 EAST JAVA DRIVE,
+                           SUNNYVALE, CALIFORNIA 94089
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, INCLUDING ZIP CODE)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (408) 822-6000
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+   Yes [X]     No [ ]
+
+   Number of shares outstanding of the registrant's class of common stock, as of
+the latest practicable date.
+
+<TABLE>
+<CAPTION>
+                            OUTSTANDING AT
+    CLASS                   OCTOBER 27, 2000
+    -----                   ----------------
+<S>                         <C>
+Common Stock.............        320,844,719
+</TABLE>
+
+
+================================================================================
+
+
+
+<PAGE>   2
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                PAGE NO.
+                                                                                                --------
+                             PART I -- FINANCIAL INFORMATION
+
+<S>                                                                                             <C>
+Item 1. Condensed Consolidated Financial Statements (Unaudited)
+          Condensed Consolidated Balance Sheets as of October 27, 2000 and April 30, 2000            2
+          Condensed Consolidated Statements of Income for the three and six-month periods
+            ended October 27, 2000 and October 29, 1999                                              3
+          Condensed Consolidated Statements of Cash Flows for the six-month periods ended
+            October 27, 2000 and October 29, 1999                                                    4
+          Notes to Condensed Consolidated Financial Statements                                       5
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations        9
+Item 3. Quantitative and Qualitative Disclosures About Market Risk                                  15
+
+                               PART II--OTHER INFORMATION
+
+Item 1. Legal Proceedings                                                                           17
+Item 2. Changes in Securities                                                                       17
+Item 3. Defaults Upon Senior Securities                                                             17
+Item 4. Submission of Matters to Vote of Securityholders                                            17
+Item 5. Other Information                                                                           17
+Item 6. Exhibits and Reports on Form 8-K                                                            17
+SIGNATURE                                                                                           18
+</TABLE>
+
+
+
+                                        1
+<PAGE>   3
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                             NETWORK APPLIANCE, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+
+<TABLE>
+<CAPTION>
+                                                       OCTOBER 27,      APRIL 30,
+                                                           2000           2000
+                                                       -----------    -----------
+                                                       (UNAUDITED)        **
+<S>                                                    <C>            <C>
+                       ASSETS
+CURRENT ASSETS:
+     Cash and cash equivalents                         $ 305,831      $ 279,014
+     Short-term investments                              142,244         74,477
+     Accounts receivable, net                            161,917        108,902
+     Inventories                                          22,867         20,434
+     Prepaid expenses and other assets                    21,955         27,958
+     Deferred income taxes                                25,477         22,215
+                                                       ---------      ---------
+         Total current assets                            680,291        533,000
+RESTRICTED CASH                                           63,150             --
+PROPERTY AND EQUIPMENT, NET                               81,595         47,949
+INTANGIBLE ASSETS, NET                                    22,636            389
+OTHER ASSETS                                               9,681         10,895
+                                                       ---------      ---------
+                                                       $ 857,353      $ 592,233
+                                                       =========      =========
+         LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+     Accounts payable                                  $  58,523      $  34,061
+     Accrued compensation and related benefits            66,025         34,902
+     Other accrued liabilities                            35,015         21,288
+     Deferred revenue                                     45,913         23,182
+                                                       ---------      ---------
+         Total current liabilities                       205,476        113,433
+LONG-TERM OBLIGATIONS                                         52             54
+                                                       ---------      ---------
+                                                         205,528        113,487
+                                                       ---------      ---------
+SHAREHOLDERS' EQUITY:
+     Common stock                                        480,861        351,519
+     Retained earnings                                   170,082        129,746
+     Cumulative other comprehensive income (loss)            882         (2,519)
+                                                       ---------      ---------
+         Total shareholders' equity                      651,825        478,746
+                                                       ---------      ---------
+                                                       $ 857,353      $ 592,233
+                                                       =========      =========
+</TABLE>
+
+** Derived from audited consolidated financial statements.
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+
+                                        2
+<PAGE>   4
+
+                             NETWORK APPLIANCE, INC.
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                   THREE MONTHS ENDED             SIX MONTHS ENDED
+                                               --------------------------     --------------------------
+                                               OCTOBER 27,    OCTOBER 29,     OCTOBER 27,    OCTOBER 29,
+                                                   2000          1999            2000           1999
+                                               -----------    -----------     -----------    -----------
+<S>                                            <C>            <C>             <C>            <C>
+NET SALES                                       $ 260,777      $ 124,712       $ 491,936      $ 227,991
+COST OF SALES                                      99,314         51,516         188,771         94,055
+                                                ---------      ---------       ---------      ---------
+       Gross Margin                               161,463         73,196         303,165        133,936
+                                                ---------      ---------       ---------      ---------
+OPERATING EXPENSES:
+       Sales and marketing                         72,445         32,548         136,504         59,432
+       Research and development                    28,357         13,462          52,062         24,682
+       General and administrative                  10,244          4,437          19,229          8,205
+       Amortization of intangible assets            1,273             50           1,939            100
+       In-process research and development             --             --          26,688             --
+                                                ---------      ---------       ---------      ---------
+          Total operating expenses                112,319         50,497         236,422         92,419
+                                                ---------      ---------       ---------      ---------
+INCOME FROM OPERATIONS                             49,144         22,699          66,743         41,517
+                                                ---------      ---------       ---------      ---------
+OTHER INCOME (EXPENSE):
+       Interest income                              5,309          2,537           9,573          4,643
+       Other income (expense), net                    202           (356)            318           (399)
+                                                ---------      ---------       ---------      ---------
+          Total other income, net                   5,511          2,181           9,891          4,244
+                                                ---------      ---------       ---------      ---------
+INCOME BEFORE INCOME TAXES                         54,655         24,880          76,634         45,761
+PROVISION FOR INCOME TAXES                         19,295          8,832          36,298         16,245
+                                                ---------      ---------       ---------      ---------
+NET INCOME                                      $  35,360      $  16,048       $  40,336      $  29,516
+                                                =========      =========       =========      =========
+NET INCOME PER SHARE(1):
+       Basic                                    $    0.11      $    0.05       $    0.13      $    0.10
+                                                =========      =========       =========      =========
+       Diluted                                  $    0.10      $    0.05       $    0.11      $    0.09
+                                                =========      =========       =========      =========
+SHARES USED IN PER SHARE CALCULATIONS(1):
+       Basic                                      318,223        296,488         315,891        294,432
+                                                =========      =========       =========      =========
+       Diluted                                    364,035        337,968         361,906        335,332
+                                                =========      =========       =========      =========
+</TABLE>
+
+(1)  Share and per share amounts have been adjusted to reflect the two-for-one
+     stock splits which were effective December 20, 1999 and March 22, 2000.
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+
+                                        3
+<PAGE>   5
+
+                             NETWORK APPLIANCE, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                         SIX MONTHS ENDED
+                                                                 -----------------------------------
+                                                                 OCTOBER 27, 2000   OCTOBER 29, 1999
+                                                                 ----------------   ----------------
+<S>                                                              <C>                <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net income                                                        $  40,336       $  29,516
+   Adjustments to reconcile net income to
+      net cash provided by operating activities:
+       Depreciation and amortization                                    13,466           5,871
+       In-process research and development                              26,688              --
+       Amortization of intangibles                                       1,939              --
+       Provision for doubtful accounts                                     813             723
+       Deferred income taxes                                            (6,356)        (10,000)
+       Deferred rent                                                        (2)            (40)
+       Changes in assets and liabilities:
+         Accounts receivable                                           (53,968)        (22,294)
+         Inventories                                                   (10,735)         (3,900)
+         Prepaid expenses and other assets                               2,696             871
+         Accounts payable                                               24,431          12,232
+         Income taxes payable                                           44,960          23,752
+         Accrued compensation and related benefits                      24,577           3,798
+         Other accrued liabilities                                      16,269             978
+         Deferred revenue                                               22,574           1,749
+                                                                     ---------       ---------
+            Net cash provided by operating activities                  147,688          43,256
+                                                                     ---------       ---------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Purchases of short-term investments                                (125,894)        (51,673)
+   Redemptions of short-term investments                                70,829           5,800
+   Purchases of property and equipment                                 (39,386)        (13,164)
+   Purchase of equity investment                                        (1,000)             --
+   Purchase of Orca Systems, net of cash acquired                       (2,161)             --
+   Payment/refund of deposits, net                                          --            (170)
+                                                                     ---------       ---------
+            Net cash used in investing activities                      (97,612)        (59,207)
+                                                                     ---------       ---------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Proceeds from sale of common stock, net                              39,891          15,495
+   Restricted cash                                                     (63,150)             --
+                                                                     ---------       ---------
+            Net cash provided by (used in) financing activities        (23,259)         15,495
+                                                                     ---------       ---------
+NET INCREASE IN CASH AND CASH EQUIVALENTS                               26,817            (456)
+CASH AND CASH EQUIVALENTS:
+   Beginning of period                                                 279,014         221,284
+                                                                     ---------       ---------
+   End of period                                                     $ 305,831       $ 220,828
+                                                                     =========       =========
+NONCASH INVESTING AND FINANCING ACTIVITIES:
+   Income tax benefit from employee stock transactions               $  41,000       $  24,400
+   Common stock issued and options assumed for Orca acquisition      $  47,579       $      --
+SUPPLEMENTAL CASH FLOW INFORMATION:
+   Income taxes paid net of refund                                   $  (3,946)      $   1,407
+</TABLE>
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+
+                                        4
+<PAGE>   6
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1.  CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+        The accompanying condensed consolidated financial statements have been
+prepared by Network Appliance, Inc. without audit and reflect all adjustments,
+which are, in the opinion of management, necessary for a fair presentation of
+our financial position and results of operations for the interim periods. The
+statements have been prepared in accordance with the regulations of the
+Securities and Exchange Commission (SEC). Accordingly, they do not include all
+information and footnotes required by generally accepted accounting principles.
+The results of operations for the three and six-month periods ended October 27,
+2000 are not necessarily indicative of the operating results to be expected for
+the full fiscal year or future operating periods. The information included in
+this report should be read in conjunction with the audited consolidated
+financial statements and notes thereto for the fiscal year ended April 30, 2000
+and the risk factors as set forth in our Annual Report on Form 10-K, including,
+without limitation, risks relating to fluctuating operating results, customer
+and market acceptance of new products, dependence on new products, rapid
+technological change, litigation, dependence on growth in the network file
+server market, expansion of international operations, product concentration,
+changing product mix, competition, management of expanding operations,
+dependence on high-quality components, dependence on proprietary technology,
+intellectual property rights, dependence on key personnel, volatility of stock
+price, shares eligible for future sale, effect of certain anti-takeover
+provisions and dilution.
+
+2. FISCAL PERIODS
+
+        We operate on a 52-week or 53-week year ending on the last Friday in
+April. Fiscal 2001 is a 52-week year. Fiscal 2000 was a 52-week year. The
+quarter ended October 27, 2000 includes 13 weeks of operating activity, compared
+to 13 weeks of activity for the corresponding period of the prior fiscal year.
+The six-months ended October 27, 2000 includes 26 weeks of activity, compared to
+26 weeks of activity for the corresponding period of the prior fiscal year.
+
+3. INVENTORIES
+
+        Inventories consist of the following:
+
+
+<TABLE>
+<CAPTION>
+                         OCTOBER 27,   APRIL 30,
+                            2000         2000
+                         -----------   ---------
+                             (IN THOUSANDS)
+<S>                      <C>           <C>
+Purchased components      $10,384      $ 9,230
+Work in process             2,769          646
+Finished goods              9,714       10,558
+                          -------      -------
+                          $22,867      $20,434
+                          =======      =======
+</TABLE>
+
+
+
+                                        5
+<PAGE>   7
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+4. NET INCOME PER SHARE
+
+        The following is a reconciliation of the numerators and denominators of
+the basic and diluted net income per share computations for the periods
+presented:
+
+<TABLE>
+<CAPTION>
+                                                          THREE MONTHS ENDED               SIX MONTHS ENDED
+                                                       OCTOBER 27,    OCTOBER 29,      OCTOBER 27,     OCTOBER 29,
+                                                          2000           1999             2000            1999
+                                                       -----------    -----------      -----------     -----------
+<S>                                                    <C>            <C>              <C>             <C>
+(IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+NET INCOME (NUMERATOR):
+    Net income, basic and diluted                      $  35,360       $  16,048       $  40,336       $  29,516
+                                                       =========       =========       =========       =========
+SHARES (DENOMINATOR):
+    Weighted average common shares outstanding           318,520         296,680         316,135         294,652
+    Weighted average common shares outstanding
+      subject to repurchase                                 (297)           (192)           (245)           (220)
+                                                       ---------       ---------       ---------       ---------
+    Shares used in basic computation                     318,223         296,488         315,890         294,432
+    Weighted average common shares outstanding
+      subject to repurchase                                  297             192             245             220
+    Common shares issuable upon exercise of stock
+      options                                             45,515          41,288          45,771          40,680
+                                                       ---------       ---------       ---------       ---------
+    Shares used in diluted computation                   364,035         337,968         361,906         335,332
+                                                       =========       =========       =========       =========
+NET INCOME PER SHARE:
+
+    Basic                                              $    0.11       $    0.05       $    0.13       $    0.10
+                                                       =========       =========       =========       =========
+    Diluted                                            $    0.10       $    0.05       $    0.11       $    0.09
+                                                       =========       =========       =========       =========
+</TABLE>
+
+
+5.  COMPREHENSIVE INCOME
+
+        The components of comprehensive income, net of tax, are as follows:
+
+<TABLE>
+<CAPTION>
+                                                    THREE MONTHS ENDED             SIX MONTHS ENDED
+                                                OCTOBER 27,    OCTOBER 29,    OCTOBER 27,    OCTOBER 29,
+                                                   2000           1999           2000           1999
+                                                -----------    -----------    -----------    -----------
+<S>                                             <C>            <C>            <C>            <C>
+    (IN THOUSANDS)
+
+Net income                                       $ 35,360       $ 16,048       $ 40,336       $ 29,516
+Foreign currency translation adjustment            (1,556)          (190)        (1,392)            74
+Unrealized gain on investments                     (6,674)            --          4,793             --
+                                                 --------       --------       --------       --------
+Comprehensive income                             $ 27,130       $ 15,858       $ 43,737       $ 29,590
+                                                 ========       ========       ========       ========
+</TABLE>
+
+
+
+                                        6
+<PAGE>   8
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+6. NEW ACCOUNTING PRONOUNCEMENTS
+
+        In June 1998, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 133, "Accounting for
+Derivative Instruments and Hedging Activities," which defines derivatives,
+requires that all derivatives be carried at fair value, and provides for hedge
+accounting when certain conditions are met. This statement is effective for all
+fiscal quarters of fiscal years beginning after June 15, 2000. Although we have
+not fully assessed the implications of this new statement, we do not believe
+adoption of this statement will have a material impact on our consolidated
+financial position, results of operations or cash flows.
+
+7. COMMITMENTS
+
+        During the second quarter of fiscal 2001, we have entered into a $126.0
+million operating lease which replaced the existing $62.0 million operating
+lease, to develop 363,500 square feet of buildings in our Sunnyvale headquarters
+facility. The lease is for five years and can be renewed for two five-year
+periods, subject to the approval of the third-party entity. At the expiration or
+termination of the lease, we have the option to either purchase the property for
+$126.0 million, or arrange for the sale of the property to a third party for at
+least $126.0 with a contingent liability for any deficiency. If the property is
+not purchased or sold as described above, we will be obligated for an additional
+lease payment of approximately $113.8 million. Restricted cash, classified as
+non-current assets collateralizing this lease was $63.2 million at October 27,
+2000.
+
+        Including the aforementioned lease, we have commitments related to
+operating lease arrangements, under which we have an option to purchase the
+Sunnyvale headquarters properties for an aggregate of $309.0 million, or arrange
+for the sale of the properties to a third party for at least the option price
+with a contingent liability for any deficiency. If the properties under these
+leases are not purchased or sold, we will be obligated for additional lease
+payments of approximately $276.6 million.
+
+        The lease payments under the $126.0 million operating lease,
+collateralized by restricted securities, will vary based on the London Interbank
+Offered Rate (LIBOR) plus a spread (6.9% at October 27, 2000). All of the
+remaining operating leases require monthly payments, which vary, based on LIBOR
+plus a spread (8.1% at October 27, 2000).
+
+        The operating leases mentioned above require us to maintain specified
+financial covenants with which we were in compliance as of October 27, 2000.
+
+8. ACQUISITION
+
+         In June 2000, we completed the acquisition of Orca Systems, Inc.
+(Orca), a developer of high performance Virtual Interface (VI) Architecture
+software for UNIX(R) and Windows NT(R) enterprise-class systems, based in
+Waltham, Massachusetts. The acquisition fits with our strategy of developing
+highly available and reliable intelligent storage solutions that improve the
+performance of today's Internet and enterprise applications and strengthen our
+ability to develop next generation storage networking architectures and
+protocols. The acquisition was accounted for as a purchase. Under terms of the
+agreement, we acquired Orca for $50.0 million in common stock, assumed options
+and cash, with an obligation to provide 264,497 shares of common stock (valued
+at $22.5 million based on our closing stock price on October 27, 2000), if
+certain performance criteria are achieved. We also paid certain transaction
+costs and assumed certain operating assets and liabilities.
+
+        The purchase price of the transaction was allocated to the acquired
+assets and liabilities based on their estimated fair values as of the date of
+the acquisition. Approximately $26.7 million was allocated to in-
+
+
+
+                                        7
+<PAGE>   9
+
+process research and development and charged to operations because the acquired
+technology had not reached technological feasibility and had no alternative
+uses. The value was determined by estimating the costs to develop the acquired
+in-process technology into commercially viable products, estimating the
+resulting net cash flows from such projects, and discounting the net cash flows
+back to their present value. The discount rate included a factor that took into
+account the uncertainty surrounding the successful development of the acquired
+in-process technology. These estimates are subject to change, given the
+uncertainties of the development process, and no assurance can be given that
+deviations from these estimates will not occur. Excluding the charge that may
+result from 264,497 contingently issuable common shares, research and
+development costs to bring the products from Orca to technological feasibility
+are not expected to have a material impact on our future results of operations
+or financial condition. Costs incurred prior to establishment of technological
+feasibility are charged to research and development expense and have not been
+material through October 27, 2000.
+
+         The total purchase price and final allocation among the tangible and
+intangible assets and liabilities acquired (including purchased in-process
+technology) is summarized as follows (in thousands):
+
+
+<TABLE>
+<CAPTION>
+Total Purchase Price:                                     Amortization Period
+                                                             (Years)
+                                                          ---------------
+<S>                                     <C>               <C>
+Total cash consideration                $ 2,000
+Shares issued                            23,526
+Value of options assumed                 24,053
+Transaction costs                           458
+                                        -------
+                                        $50,037
+                                        =======
+Purchase Price Allocation:
+
+Tangible assets                         $   353
+Intangible assets:
+              Existing Workforce            423                 3
+              Goodwill                   24,101                 5
+In-process R&D                           26,688              Expensed
+Tangible liabilities                     (1,359)
+Deferred tax liabilities                   (169)
+                                        -------
+                                        $50,037
+                                        =======
+</TABLE>
+
+
+        Pro forma results of operations have not been presented since the
+effects of the acquisition were not material to our consolidated financial
+position, results of operations or cash flows for the periods presented.
+
+9. SUBSEQUENT EVENT
+
+         In September 2000, we entered into a definitive agreement to acquire
+privately-held WebManage Technologies, Inc. ("WebManage"), a developer of
+content management, distribution, and analysis software solutions. In November
+2000, under terms of the agreement, we have completed the acquisition of
+WebManage for approximately $75.0 million in common stock, assumed options, and
+cash. The acquisition will be accounted for using the purchase method of
+accounting.
+
+
+
+                                        8
+<PAGE>   10
+
+        This Form 10-Q contains forward-looking statements about future results,
+which are subject to risks and uncertainties, including those discussed below.
+Our actual results may differ significantly from the results discussed in the
+forward-looking statements. We are subject to a variety of other additional risk
+factors, more fully described in our Annual Report on Form 10-K filed with the
+Securities and Exchange Commission.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+        The following table sets forth certain consolidated statements of income
+data as a percentage of net sales for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                               THREE MONTHS ENDED            SIX MONTHS ENDED
+                                           -------------------------   -------------------------
+                                           OCTOBER 27,   OCTOBER 29,   OCTOBER 27,   OCTOBER 29,
+                                               2000         1999          2000          1999
+                                           -----------   -----------   -----------   -----------
+<S>                                            <C>           <C>           <C>           <C>
+Net sales                                     100.0 %       100.0 %       100.0 %       100.0 %
+Cost of sales                                  38.1          41.3          38.4          41.3
+                                              -----         -----         -----         -----
+            Gross margin                       61.9          58.7          61.6          58.7
+                                              -----         -----         -----         -----
+Operating expenses:
+     Sales and marketing                       27.8          26.1          27.8          26.1
+     Research and development                  10.8          10.8          10.5          10.8
+     General and administrative                 3.9           3.6           3.9           3.6
+     Amortization of intangible assets          0.5            --           0.4            --
+     In-process research and development         --            --           5.4            --
+                                              -----         -----         -----         -----
+            Total operating expenses           43.0          40.5          48.0          40.5
+                                              -----         -----         -----         -----
+Income from operations                         18.9          18.2          13.6          18.2
+Total other income, net                         2.1           1.8           2.0           1.9
+                                              -----         -----         -----         -----
+Income before income taxes                     21.0          20.0          15.6          20.1
+Provision for income taxes                      7.4           7.1           7.4           7.1
+                                              -----         -----         -----         -----
+            Net income                         13.6 %        12.9 %         8.2 %        13.0 %
+                                              =====         =====         =====         =====
+</TABLE>
+
+
+         Business Combinations -- During the first quarter of fiscal 2001, we
+acquired Orca, for a purchase price of $50.0 million, including common stock,
+assumed options and cash, with an obligation to provide 264,497 shares of common
+stock, if certain performance criteria are achieved. We also paid certain
+transaction costs and assumed certain operating assets and liabilities. The
+acquisition was accounted for as a purchase. The purchase price of the
+transaction was allocated to the acquired assets and liabilities based on their
+estimated fair values as of the date of the acquisition. Amounts allocated to
+existing workforce and goodwill are being amortized on a straight-line basis
+over three- and five-year periods, respectively. Approximately $26.7 million was
+allocated to in-process research and development and charged to operations
+because the acquired technology had not reached technological feasibility and
+had no alternative uses.
+
+        Pro forma results of operations have not been presented since the
+effects of the acquisition were not material to our consolidated financial
+position, results of operations or cash flows for the periods presented.
+
+         Net Sales -- Net sales increased by 109.1% to $260.8 million for the
+three-month period ended October 27, 2000, from $124.7 million for the
+three-month period ended October 29, 1999. Net sales increased by 115.8% to
+$491.9 million for the six-months ended October 27, 2000, from $228.0 million
+for the six-months ended October 29, 1999. Net sales growth was across all
+geographies, products and
+
+
+
+                                        9
+<PAGE>   11
+
+markets. This increase in net sales was primarily attributable to a higher
+volume of units shipped, as compared to the corresponding period of the prior
+fiscal year. Factors impacting unit growth include:
+
+        -   strong demand for our F700 filers utilizing primarily fibre-channel
+            connectivity;
+
+        -   introduction of our new higher capacity F840 filer product;
+
+        -   increased worldwide demand for our NetCache(TM) solutions, a content
+            delivery network solution, including capabilities for providing
+            video-on-demand and content management across the Internet and
+            Intranet;
+
+        -   increased worldwide shipment of NetApp(R) Cluster Failover
+            solutions, which require another filer to take over in the event of
+            a hardware failure;
+
+        -   increased demand for the SnapMirror(TM) software option, which
+            requires multiple filers to provide remote mirroring of data for
+            quick disaster recovery and backup at remote sites;
+
+        -   expansion of our sales organization to 806 as of October 27, 2000
+            from 393 as of October 29, 1999; and
+
+        -   increased sales through indirect channels, including sales through
+            our OEM partners, representing 25.7% and 26.1% of total net sales
+            for the three and six-month periods ended October 27, 2000,
+            respectively, as compared to 32.5% and 31.5% of total net sales for
+            three and six-month periods ended October 29, 1999, respectively.
+
+        Net sales growth was also positively impacted by:
+
+        -   a higher average selling price due to the introduction of software
+            features: SnapMirror, SnapRestore(TM) and SnapManager(TM) for
+            Microsoft(R) Exchange and Cluster Failover, supporting
+            mission-critical applications;
+
+        -   a higher average selling price of our new high-end F840 filer;
+
+        -   the increase in storage capacity;
+
+        -   increased add-on software revenue from Multi-Protocol solutions; and
+
+        -   higher software subscription and service revenues to support a
+            growing installed base.
+
+        Overall net sales growth was partially offset by:
+
+        -   declining average selling price of the F700 filers and caching
+            products due to competitive pricing; and
+
+        -   declining unit sales of our older product family.
+
+        International net sales (including United States exports) grew by 146.5%
+and 151.4% for the three and six-month periods ended October 27, 2000, as
+compared to the comparable period of the prior fiscal year. International net
+sales were $84.4 million, or 32.4% of total net sales, and $157.5 million, or
+32.0% of total net sales, for the three and six-month periods ended October 27,
+2000. The increase in international sales for the three and six-month periods
+ended October 27, 2000, was primarily a result of European and Asia Pacific net
+sales growth, due to increased headcount in the direct sales force, increased
+indirect channel sales, increased shipments of filers, Cluster Failover
+solutions, NetCache appliances and increased sales of add-on software licenses,
+as compared to the corresponding periods of the prior fiscal year. We believe
+that our continued growth and profitability is dependent in part on the
+successful expansion of our international operations, and therefore, have
+committed significant resources to increase international sales.
+
+        We cannot assure you that our net sales will continue to increase in
+absolute dollars or at the rate at which they have grown in recent fiscal
+periods.
+
+        Gross Margin -- Gross margin increased to 61.9% for the three-month
+period ended October 27, 2000 from 58.7% for the three-month period ended
+October 29, 1999. Gross margin increased to 61.6% for the six-month period ended
+October 27, 2000 from 58.7% for the six-month period ended October 29, 1999.
+
+
+
+                                       10
+<PAGE>   12
+
+        Gross margin was favorably impacted by:
+
+        ~   increased licensing of add-on software options such as
+            Multi-Protocol, Cluster Failover, SnapMirror, SnapRestore and
+            SnapManager;
+
+        ~   growth in software subscriptions due primarily to a larger installed
+            base;
+
+        ~   lower costs of key components;
+
+        ~   the increase in product volume;
+
+        ~   increased manufacturing efficiencies; and
+
+        ~   a mix shift to high-end F840 systems sold as diskless upgrades,
+            carrying higher margin than configured systems.
+
+        Gross margin was negatively impacted by sales price reductions on
+storage products due to competitive pricing pressure from other storage vendors
+and increased investments in customer service.
+
+        Our gross margin has been and may continue to be affected by a variety
+of factors, including:
+
+        ~   competition;
+
+        ~   product configuration;
+
+        ~   direct versus indirect sales;
+
+        ~   the mix of software as a percentage of revenue;
+
+        ~   the mix and average selling prices of products;
+
+        ~   new product introductions and enhancements; and
+
+        ~   the cost of components, manufacturing labor and quality.
+
+         Sales and Marketing -- Sales and marketing expenses consist primarily
+of salaries, commissions, advertising and promotional expenses and certain
+customer service and support costs. Sales and marketing expenses increased
+122.6% to $72.4 million for the three-month period ended October 27, 2000 from
+$32.5 million for the three-month period ended October 29, 1999. Sales and
+marketing expenses increased 129.7% to $136.5 million for the six-month period
+ended October 27, 2000 from $59.4 million for the six-month period ended October
+29, 1999. These expenses were both 27.8% and 26.1% of net sales for the three
+and six-month periods ended October 27, 2000 and October 29, 1999, respectively.
+The increase in absolute dollars was primarily related to the continued
+worldwide expansion of our sales and customer service organizations, expansion
+of various marketing and industry initiatives and increased commission expenses.
+Sales and marketing headcount increased to 1,052 at October 27, 2000 from 524 at
+October 29, 1999. We expect to continue to increase our sales and marketing
+expenses in an effort to expand domestic and international markets, introduce
+new products, establish and expand new distribution channels and increase
+product and company awareness.
+
+        Research and Development -- Research and development expenses consist
+primarily of salaries and benefits, prototype expenses, non-recurring
+engineering charges and fees paid to outside consultants. Research and
+development expenses increased 110.6% to $28.4 million for the three-month
+period ended October 27, 2000 from $13.5 million for the three-month period
+ended October 29, 1999. These expenses represented 10.8% of net sales, for both
+the three-month periods ended October 27, 2000 and October 29, 1999. For the
+six-month periods, research and development expenses increased 110.9% to $52.1
+million in fiscal 2001 from $24.7 million in fiscal 2000, and represented 10.5%
+and 10.8% of net sales, respectively, for those periods. Research and
+development expenses increased in absolute dollars, primarily as a result of
+increased headcount, ongoing support of current and future product development
+and enhancement efforts, prototyping expenses and non-recurring engineering
+charges associated with the development of new products and technologies.
+Research and development headcount increased to 444 at October 27, 2000 from 233
+at October 29, 1999.
+
+         In the second quarter of fiscal 2001, we began shipping the F840
+high-end filer platform and Data ONTAP(TM) 6.0. The new products allow the
+company to offer increased capacity in a single filer, up to 6 terabytes and 12
+terabytes in a cluster failover F840c, configuration. Additionally, we enhanced
+our NetCache solution to allow enterprises and service providers the ability to
+efficiently manage, store, and deliver rich content across the network. The new
+
+
+
+                                       11
+<PAGE>   13
+
+NetCache high-performance content delivery platforms are comprised of two new
+content delivery appliances and software. The C6100 is the high-end content
+delivery appliance for back-end enterprise or content delivery network
+deployment and the low-profile C1105 is designed for remote offices around the
+globe, both of which support the new NetCache 5.0 software. The NetCache
+platform with NetCache 5.0 software offers live and video-on-demand capability.
+We also announced two new content management software offerings from the recent
+WebManage acquisition, ContentReporter(TM) and ContentDirector(TM), delivering
+an integrated solution for powerful tracking, analysis and content distribution
+across the network. In the first quarter of fiscal 2001, we began shipping the
+NetCache C1100, our low-end content delivery product designed for enterprise
+customers and Internet Service Providers.
+
+         In fiscal 2000, we began shipping new enterprise software offerings and
+data management tools with SnapManager for Microsoft Exchange 1.0 and
+ApplianceWatch(TM). We also introduced new caching products which included
+NetCache software release 4.0 and NetCache 4.1, adding streaming media support
+for MMS/RTSP protocols, Microsoft(R) Windows Media(TM), and Apple(R)
+Quicktime(TM), delivering live broadcasting on the Internet.
+
+        We believe that our future performance will depend in large part on our
+ability to maintain and enhance our current product line, develop new products
+that achieve market acceptance, maintain technological competitiveness and meet
+an expanding range of customer requirements. We intend to continuously expand
+our existing product offerings and introduce new products and expect that such
+expenditures will continue to increase in absolute dollars. For the three and
+six-month periods ended October 27, 2000 and October 29, 1999, no software
+development costs were capitalized.
+
+        General and Administrative -- General and administrative expenses
+increased 130.9% to $10.2 million for the three-month period ended October 27,
+2000, from $4.4 million for the three-month period ended October 29, 1999. These
+expenses represented 3.9% and 3.6% of net sales for the three-month periods
+ended for such periods. For the six-month periods, general and administrative
+expenses increased 134.4% to $19.2 million in fiscal 2001 from $8.2 million in
+fiscal 2000 and represented 3.9% and 3.6% of net sales, respectively, for those
+periods. Increases in absolute dollars were primarily due to increased
+headcount, expenses associated with initiatives to enhance enterprise-wide
+management information systems and increased professional service fees. General
+and administrative headcount increased to 204 at October 27, 2000 from 105 at
+October 29, 1999. We believe that our general and administrative expenses will
+increase in absolute dollars as we continue to build our infrastructure.
+
+         Amortization of Intangible Assets -- Amortization of intangible assets
+represents the excess of the aggregate purchase price over the fair value of the
+tangible and identifiable intangible assets acquired by us. Intangible assets as
+of October 27, 2000, including goodwill, are being amortized over the estimated
+useful life of three to five-year periods. We assess the recoverability of
+goodwill by determining whether the amortized asset over its useful life may be
+recovered through estimated useful cash flows. Amortization of intangible assets
+charged to operations was $1.3 million and $1.9 million, respectively, for the
+three and six-month periods ended October 27, 2000.
+
+        In-process Research and Development -- We incurred in-process research
+and development charges of approximately $26.7 million in the first quarter of
+fiscal 2001 related to the acquisition of Orca. The purchase price of the
+transaction was allocated to the acquired assets and liabilities based on their
+estimated fair values as of the date of the acquisition. Approximately $26.7
+million was allocated to in-process research and development and charged to
+operations, because the acquired technology had not reached technological
+feasibility and had no alternative uses. The value was determined by estimating
+the costs to develop the acquired in-process technology into commercially viable
+products, estimating the resulting net cash flows from such projects, and
+discounting the net cash flows back to their present value. The discount rate
+included a factor that took into account the uncertainty surrounding the
+successful development of the acquired in-process technology. These estimates
+are subject to change, given the uncertainties of the development process, and
+no assurance can be given that deviations from these estimates will not occur.
+Excluding the charge that may result from 264,497 contingently issuable common
+shares, research and development costs to bring the products from Orca to
+technological feasibility are not expected to have a material impact on our
+future results of operations or financial condition.
+
+
+
+                                       12
+<PAGE>   14
+        We believe we could utilize the Orca acquisition to develop the first
+virtual interface-based (VI) next generation of network attached storage
+systems. We are leveraging VI architecture to develop the Direct File Access
+System (DAFS) protocol. DAFS enables block data transfers straight from the file
+server, allowing clusters of application servers in heterogeneous environments
+to share data from the memory of one system to the memory of another without
+involving general-purpose operating systems, thereby improving CPU utilization
+and speeding up data access. We expect to continue the development of products
+using this protocol and believe that there is a reasonable chance of
+successfully completing such development efforts by approximately the middle of
+year 2001. However, there is risk associated with the completion of the
+in-process project and there can be no assurance that such project will meet
+with either technological or commercial success. Failure to successfully develop
+and commercialize this in-process project would result in the loss of the
+expected economic return inherent in the fair value allocation. Additionally,
+the value of other intangible assets acquired may become impaired. The risks
+associated with the research and development are still considered high and no
+assurance can be made that upcoming products will meet market expectations or
+gain market acceptance.
+
+        Total Other Income, net -- Total other income, net, was $5.5 million and
+$2.2 million for the three-month periods ended October 27, 2000 and October 29,
+1999, respectively. During the six-month period ended October 27, 2000, total
+other income, net, was $9.9 million, as compared to $4.2 million in the
+corresponding period of the prior year. The increase in interest income was
+primarily due to increased cash and short-term investments generated from
+operations, net proceeds from stock option exercises and net proceeds from the
+March 1999 follow-on public offering.
+
+        Provision for Income Taxes -- Our estimated effective tax rate for the
+three and six-month periods ended October 27, 2000 was 34.5%, excluding the
+effect of the write-off of acquired in-process research and development of $26.7
+million, which is not deductible for income tax purposes. The effective tax rate
+for the three and six-month periods ended October 29, 1999 was 35.5%. The
+effective tax rates differed from the U.S. statutory rate primarily due to state
+taxes, credits and tax exempt interest.
+
+CERTAIN RISK FACTORS
+
+        Although we have experienced significant revenue growth in recent
+periods, this growth may not be indicative of our future operating results. As a
+result, we believe that period-to-period comparisons of our results of operation
+are not necessarily meaningful and should not be relied upon as indicators of
+future performance. Many of the factors that could cause our quarterly operating
+results to fluctuate significantly in the future are beyond our control and
+include the following:
+
+        ~   the level of competition in our target product markets;
+
+        ~   the size, timing, and cancellation of significant orders;
+
+        ~   product configuration and mix;
+
+        ~   market acceptance of new products and product enhancements;
+
+        ~   new product announcements or introductions by us or our competitors;
+
+        ~   deferrals of customer orders in anticipation of new products or
+            product enhancements;
+
+        ~   changes in pricing by us or our competitors;
+
+        ~   our ability to timely develop, introduce and market new products and
+            enhancements;
+
+        ~   supply constraints;
+
+        ~   technological changes in our target product markets;
+
+        ~   the levels of expenditure on research and development and expansion
+            of our sales and marketing programs;
+
+        ~   seasonality; and
+
+        ~   general economic trends.
+
+         In addition, sales for any future quarter may vary and accordingly be
+inconsistent with our plans. We generally operate with limited order backlog
+because our products are typically shipped shortly after orders are received. As
+a result, product sales in any quarter are generally dependent on orders booked
+and
+
+
+
+                                       13
+<PAGE>   15
+
+shipped in that quarter. Product sales are difficult to forecast because the
+network attached storage market is rapidly evolving and our sales cycle varies
+substantially from customer to customer.
+
+        Due to all of the foregoing factors, it is possible that in one or more
+future quarters our results may fall below the expectations of public market
+analysts and investors. In such event, the trading price of our common stock
+would likely decrease.
+
+        We conduct business internationally. International sales (including U.S.
+exports) were approximately 32.4% and 32.0% of total net sales for the three and
+six-month periods ended October 27, 2000, respectively. Accordingly, our future
+operating results could be materially adversely affected by a variety of
+factors, some of which are beyond our control, including regulatory, political
+or economic conditions in a specific country or region, trade protection
+measures and other regulatory requirements and government spending patterns.
+
+        Our international sales are denominated in U.S. dollars and in foreign
+currencies. An increase in the value of the U.S. dollar relative to foreign
+currencies could make our products more expensive and, therefore, potentially
+less competitive in foreign markets. For international sales and expenditures
+denominated in foreign currencies, we are subject to risks associated with
+currency fluctuations. We hedge risks associated with foreign currency
+transactions in order to minimize the impact of changes in foreign currency
+exchange rates on earnings. We utilize forward contracts to hedge trade and
+intercompany receivables and payables. All hedge contracts are marked to market
+through earnings every period.
+
+        Additional risks inherent in our international business activities
+generally include, among others, longer accounts receivable payment cycles,
+difficulties in managing international operations and potentially adverse tax
+consequences. We cannot assure you that such factors will not materially
+adversely affect our future international sales and, consequently, our operating
+results.
+
+        Although operating results have not been materially and adversely
+affected by seasonality in the past, because of the significant seasonal effects
+experienced within the industry, particularly in Europe, we cannot assure you
+that our future operating results will not be adversely affected by seasonality.
+
+        We believe that continued growth and profitability will require
+successful expansion of our international operations and sales and therefore we
+have committed significant resources to such expansion. In order to successfully
+expand international sales in fiscal 2001 and subsequent periods, we must
+strengthen foreign operations, hire additional personnel and recruit additional
+international distributors and resellers. This will require significant
+management attention and financial resources and could materially adversely
+affect our operating results. To the extent that we are unable to effect these
+additions in a timely manner, our growth, if any, in international sales will be
+limited, and our operating results could be materially adversely affected. In
+addition, we cannot assure you that we will be able to maintain or increase
+international market demand for our products.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+        As of October 27, 2000, as compared to the April 30, 2000 balances, our
+cash, cash equivalents and short-term investments increased by $94.6 million to
+$448.1 million. Working capital increased by $55.2 million to $474.8 million.
+The increase was a result of unrealized gain on a publicly held investment. We
+generated cash from operating activities totaling $147.7 million and $43.3
+million for the six-month periods ended October 27, 2000 and October 29, 1999,
+respectively. Net cash provided by operating activities for the six-month period
+ended October 27, 2000 was principally related to net income of $40.3 million,
+increases in accounts payable, income taxes payable, accrued compensation and
+related benefits, deferred revenue and other accrued liabilities, decreases in
+prepaid expenses and other, coupled with depreciation and amortization,
+in-process research and development, partially offset by increases in accounts
+receivable, inventories and deferred income taxes.
+
+         We used $39.4 million and $13.2 million of cash during the six-month
+periods ended October 27, 2000 and October 29, 1999, respectively, for capital
+expenditures. The increase was primarily attributed to upgrades of software and
+computer equipment purchases and furniture and fixtures for the Sunnyvale
+
+
+
+                                       14
+<PAGE>   16
+
+headquarters facility. We have used $55.1 million and $45.9 million during the
+six-month periods ended October 27, 2000 and October 29, 1999, respectively, for
+net short-term investments. In June 2000, we acquired Orca for a purchase price
+of approximately $50.0 million, including common stock, contingently issuable
+common stock, assumed options, cash payments of $2.0 million and related
+transaction costs. Investing activities in the six-month period ended October
+27, 2000 also included an equity investment of $1.0 million, recorded at cost,
+which approximated fair market value.
+
+        We have used $23.3 million during the six-month period ended October
+27, 2000 for financing activities and received $15.5 million for the
+corresponding period of the prior fiscal year. The increase in cash provided by
+sales of common stock for the six-month period ended October 27, 2000, compared
+to the corresponding period of the prior fiscal year, was due to an increased
+quantity of stock options exercised at a higher average exercise price and a
+greater number of employees participating in the employee stock purchase plan.
+Offsetting this increase for the six-month period ended October 27, 2000 was
+restricted cash of $63.2 million used to collateralize the $126.0 million
+operating lease. See Note 7 to the Notes to the Condensed Consolidated
+Financial Statements.
+
+        Excluding the commitments related to operating lease arrangements for
+various properties in our Sunnyvale headquarters, which aggregate $309.0
+million, we currently have no significant commitments other than commitments
+under operating leases. We believe that our existing liquidity and capital
+resources, including the available amounts under our $5.0 million line of
+credit, are sufficient to fund our operations for at least the next twelve
+months.
+
+NEW ACCOUNTING STANDARDS
+
+        In June 1998, the FASB issued SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," which defines derivatives, requires that
+all derivatives be carried at fair value, and provides for hedging accounting
+when certain conditions are met. This statement is effective for all fiscal
+quarters of fiscal years beginning after June 15, 2000. Although we have not
+fully assessed the implications of this new statement, we do not believe
+adoption of this statement will have a material impact on our consolidated
+financial position, results of operations or cash flows.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+        We are exposed to market risk related to fluctuations in interest rates
+and in foreign currency exchange rates. We use certain derivative financial
+instruments to manage these risks. We do not use derivative financial
+instruments for speculative or trading purposes. All financial instruments are
+used in accordance with management-approved policies.
+
+Market Interest Risk
+
+        Short-term Investments - As of October 27, 2000, we had short-term
+investments of $142.2 million. Our investment portfolio consists of highly
+liquid investments with original maturities at the date of purchase between
+three and twelve months. These investments are subject to interest rate risk and
+will decrease in value if market interest rates increase. A hypothetical 10
+percent increase in market interest rates from levels at October 27, 2000, would
+cause the fair value of these short-term investments to decline by an immaterial
+amount. Because we have the ability to hold these investments until maturity we
+would not expect any significant decline in value of our investments caused by
+market interest rate changes. Declines in interest rates over time will,
+however, reduce our interest income. We do not use derivative financial
+instruments in our investment portfolio.
+
+        Our investment portfolio also includes common stock holdings in a
+certain publicly held technology company. We are exposed to fluctuations in the
+market price of our equity investment in this company. At the same time, we are
+precluded from selling the value of any of our holdings until December 2000, due
+to the typical 180 day lockup provision. As a result of these factors, the
+amount of income and cash flow that we ultimately realize from this investment
+in future periods may vary materially from the current unrealized amount.
+
+
+
+                                       15
+<PAGE>   17
+
+        Operating Lease Commitments - As of October 27, 2000, we have
+outstanding lease commitments to a third-party entity under operating lease
+agreements, which vary based on a monthly LIBOR rate plus a spread. A
+hypothetical 10 percent increase in interest rates would increase our annual
+rent expense under operating lease commitments by approximately $2.4 million.
+Increases in interest rates could, however, increase our rent expenses
+associated with future lease payments. We do not currently hedge against
+interest rate increases. Our investment portfolio offers a natural hedge against
+interest rate risk from our operating lease commitments in the event of a
+significant increase in the market interest rate. Moreover, the $126.0 million
+operating lease is collateralized with investments that have similar, and thus
+offsetting, interest rate characteristics.
+
+        The hypothetical changes and assumptions discussed above will be
+different from what actually occurs in the future. Furthermore, such
+computations do not anticipate actions that may be taken by management, should
+the hypothetical market changes actually occur over time. As a result, the
+effect on actual earnings in the future will differ from those described above.
+
+        Foreign Currency Exchange Rate Risk - We hedge risks associated with
+foreign currency transactions in order to minimize the impact of changes in
+foreign currency exchange rates on earnings. We utilize forward contracts to
+hedge against the short-term impact of foreign currency fluctuations on certain
+assets and liabilities denominated in foreign currencies. All hedge instruments
+are marked to market through earnings every period. We believe that these
+forward contracts do not subject us to undue risk due to foreign exchange
+movements because gains and losses on these contracts are offset by losses and
+gains on the underlying assets and liabilities.
+
+        All contracts have a maturity of less than one year and we do not defer
+any gains and losses, as they are all accounted for through earnings every
+period.
+
+        The following table provides information about our foreign exchange
+forward contracts outstanding on October 27, 2000, (in thousands):
+
+<TABLE>
+<CAPTION>
+               BUY/          FOREIGN         CONTRACT VALUE      FAIR VALUE
+CURRENCY       SELL      CURRENCY AMOUNT          USD              IN USD
+-----------------------------------------------------------------------------
+<S>            <C>       <C>                 <C>                 <C>
+AUD            Sell           6,711                $3,565           $3,497
+AUD            Buy            2,771                $1,444           $1,444
+CHF            Sell          18,665               $12,261          $12,256
+CHF            Buy           11,641                $7,665           $7,644
+GBP            Sell          31,233               $52,886          $53,942
+GBP            Buy           17,848               $29,820          $29,749
+EUR            Sell          57,248               $68,592          $68,924
+EUR            Buy          104,493              $123,285         $127,008
+</TABLE>
+
+
+
+                                       16
+<PAGE>   18
+
+                           PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+   None
+
+ITEM 2. CHANGES IN SECURITIES
+
+   None
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+   None
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   None
+
+ITEM 5. OTHER INFORMATION
+
+   None
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+    (a) EXHIBITS
+
+         10.67    Closing Certificate (Phase IV) and Agreement, dated October 2,
+                  2000, by and between BNP Leasing Corporation and the Company
+
+         10.68    Construction Management Agreement (Phase IV), dated October 2,
+                  2000, by and between BNP Leasing Corporation and the Company
+
+         10.69    Purchase Agreement (Phase IV - Land), dated October 2, 2000,
+                  by and between BNP Leasing Corporation and the Company
+
+         10.70    Pledge Agreement (Phase IV - Land), dated October 2, 2000, by
+                  and between BNP Leasing Corporation and the Company
+
+         10.71    Lease Agreement (Phase IV - Land), dated October 2, 2000, by
+                  and between BNP Leasing Corporation and the Company
+
+         10.72    Purchase Agreement (Phase IV - Improvements), dated October 2,
+                  2000, by and between BNP Leasing Corporation and the Company
+
+         10.73    Pledge Agreement (Phase IV - Improvements), dated October 2,
+                  2000, by and between BNP Leasing Corporation and the Company
+
+         10.74    Lease Agreement (Phase IV - Improvements), dated October 2,
+                  2000, by and between BNP Leasing Corporation and the Company
+
+         27       Financial Data Schedule
+
+
+    (b) REPORTS ON FORM 8-K
+
+       None
+
+
+
+                                       17
+<PAGE>   19
+
+                                    SIGNATURE
+
+   Pursuant to the requirements of the Securities and Exchange Act of 1934, as
+amended, the registrant duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+                                           NETWORK APPLIANCE INC.
+                                           (Registrant)
+
+                                             /s/    JEFFRY R. ALLEN
+                                           -------------------------------------
+                                                    Jeffry R. Allen
+                                           Executive Vice President Finance and
+                                           Operations, Chief Financial Officer
+                                           and Secretary
+
+
+Date: December 11, 2000
+
+
+
+                                       18
+<PAGE>   20
+
+<TABLE>
+<CAPTION>
+       EXHIBIT                          EXHIBIT INDEX
+       NUMBER                            DESCRIPTION
+       <S>           <C>                                                                     <C>
+         10.67       Closing Certificate (Phase IV) and Agreement, dated October 2,
+                     2000, by and between BNP Leasing Corporation and the Company
+
+         10.68       Construction Management Agreement (Phase IV), dated October 2,
+                     2000, by and between BNP Leasing Corporation and the Company
+
+         10.69       Purchase Agreement (Phase IV - Land), dated October 2, 2000,
+                     by and between BNP Leasing Corporation and the Company
+
+         10.70       Pledge Agreement (Phase IV - Land), dated October 2, 2000, by
+                     and between BNP Leasing Corporation and the Company
+
+         10.71       Lease Agreement (Phase IV - Land), dated October 2, 2000, by
+                     and between BNP Leasing Corporation and the Company
+
+
+         10.72       Purchase Agreement (Phase IV - Improvements), dated October 2,
+                     2000, by and between BNP Leasing Corporation and the Company
+
+         10.73       Pledge Agreement (Phase IV - Improvements), dated October 2,
+                     2000, by and between BNP Leasing Corporation and the Company
+
+         10.74       Lease Agreement (Phase IV - Improvements), dated October 2,
+                     2000, by and between BNP Leasing Corporation and the Company
+
+         27          Financial Data Schedule
+</TABLE>
+
+
+
+                                       19
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2390 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                                   FORM 10-Q
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+                  For the Quarterly Period Ended June 30, 2001
+
+                                       OR
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+            For the Transition Period from __________ to _________
+
+                          Commission File No. 0-17948
+
+                              ELECTRONIC ARTS INC.
+             (Exact name of registrant as specified in its charter)
+
+
+          Delaware                                   94-2838567
+          (State or other jurisdiction of            (I.R.S. Employer
+          incorporation or organization)             Identification No.)
+
+          209 Redwood Shores Parkway
+          Redwood City, California                   94065
+          (Address of principal executive offices)   (Zip Code)
+
+                                (650) 628-1500
+             (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                         YES    X                 NO
+                              -----                  -----
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+                                                       Outstanding at
+       Class of Common Stock          Par Value        August 9, 2001
+       ---------------------          ---------        --------------
+       Class A common stock           $0.01            136,624,162
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+
+                                     INDEX
+
+Part I - Financial Information                                            Page
+------------------------------                                            ----
+
+Item 1.     Consolidated Financial Statements
+
+              Consolidated Balance Sheets at
+               June 30, 2001 and March 31, 2001                             3
+
+              Consolidated Statements of Operations for the Three Months
+               Ended June 30, 2001 and 2000                                 4
+
+              Consolidated Statements of Cash Flows for
+               the Three Months Ended June 30, 2001 and 2000                5
+
+              Notes to Consolidated Financial Statements                    7
+
+Item 2.     Management's Discussion and Analysis of
+             Financial Condition and Results of Operations                 18
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk     38
+
+Part II - Other Information
+---------------------------
+
+Item 1.     Legal Proceedings                                              40
+
+Item 4.     Submission of Matters to a Vote of Security Holders            40
+
+Item 6.     Exhibits and Reports on Form 8-K                               40
+
+Signatures                                                                 41
+----------
+
+                                       2
+<PAGE>
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Consolidated Financial Statements
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                          CONSOLIDATED BALANCE SHEETS
+                            (Dollars in thousands)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                      June 30,       March 31,
+                                                                                        2001           2001
+                                                                                    ---------------------------
+<S>                                                                                  <C>            <C>
+                                     ASSETS
+
+Current assets:
+  Cash, cash equivalents and short-term investments                                  $  460,194      $  466,492
+  Marketable securities                                                                   8,768          10,022
+  Receivables, less allowances of $84,596 and $89,833, respectively                      76,991         174,449
+  Inventories, net                                                                       16,020          15,686
+  Deferred income taxes                                                                  56,807          57,082
+  Other current assets                                                                  114,826          94,996
+                                                                                     ----------      ----------
+   Total current assets                                                                 733,606         818,727
+
+Property and equipment, net                                                             337,358         337,199
+Long-term investments                                                                     8,400           8,400
+Investments in affiliates                                                                15,686          19,052
+Goodwill and other intangibles, net                                                     130,278         136,764
+Long-term deferred taxes                                                                  2,875           2,926
+Other assets                                                                             60,775          55,850
+                                                                                     ----------      ----------
+                                                                                     $1,288,978      $1,378,918
+                                                                                     ==========      ==========
+
+            LIABILITIES, MINORITY INTEREST AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                                                                   $   59,168      $   73,061
+  Accrued and other liabilities                                                         187,837         266,965
+                                                                                     ----------      ----------
+   Total current liabilities                                                            247,005         340,026
+
+Minority interest in consolidated joint venture                                           4,310           4,545
+
+Stockholders' equity:
+  Preferred stock, $0.01 par value.  Authorized 10,000,000 shares                             -               -
+  Common stock
+   Class A common stock, $0.01 par value.  Authorized 400,000,000 shares;
+    issued and outstanding 136,415,329 and 134,714,464 shares, respectively               1,364           1,347
+   Class B common stock, $0.01 par value.  Authorized 100,000,000 shares;
+    issued and outstanding 6,250,000 shares                                                  63              63
+  Paid-in capital                                                                       588,738         540,354
+  Retained earnings                                                                     460,032         505,286
+  Accumulated other comprehensive loss                                                  (12,534)        (12,703)
+                                                                                     ----------      ----------
+   Total stockholders' equity                                                         1,037,663       1,034,347
+                                                                                     ----------      ----------
+                                                                                     $1,288,978      $1,378,918
+                                                                                     ==========      ==========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                       3
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (In thousands, except per share data)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                  Three Months Ended
+                                                                                        June 30,
+                                                                                2001                   2000
+                                                                              -------------------------------
+<S>                                                                           <C>                    <C>
+Net revenues                                                                  $181,950               $154,799
+Cost of goods sold                                                              89,029                 77,952
+                                                                              --------               --------
+  Gross profit                                                                  92,921                 76,847
+                                                                              --------               --------
+Operating expenses:
+ Marketing and sales                                                            40,804                 35,193
+ General and administrative                                                     23,215                 22,209
+ Research and development                                                       90,805                 79,168
+ Amortization of intangibles                                                     6,475                  4,654
+                                                                              --------               --------
+   Total operating expenses                                                    161,299                141,224
+                                                                              --------               --------
+  Operating loss                                                               (68,378)               (64,377)
+Interest and other income, net                                                   2,717                  3,836
+                                                                              --------               --------
+  Loss before benefit from income taxes and minority interest                  (65,661)               (60,541)
+Benefit from income taxes                                                      (20,355)               (18,768)
+                                                                              --------               --------
+  Loss before minority interest                                                (45,306)               (41,773)
+Minority interest in consolidated joint venture                                     52                   (498)
+                                                                              --------               --------
+      Net loss                                                                $(45,254)              $(42,271)
+                                                                              =========              ========
+Class A common stock:
+Net loss:
+ Basic                                                                        $(39,375)              $(38,614)
+                                                                              =========              ========
+ Diluted                                                                      $(45,254)              $(42,271)
+                                                                              =========              ========
+Net loss per share:
+ Basic                                                                        $  (0.29)              $  (0.30)
+ Diluted                                                                      $  (0.33)              $  (0.33)
+Number of shares used in computation:
+ Basic                                                                         135,730                129,135
+ Diluted                                                                       136,382                129,787
+
+Class B common stock:
+Net loss, net of retained interest in EA.com                                  $ (5,879)              $ (3,657)
+                                                                              =========              ========
+Net loss per share:
+ Basic                                                                        $  (0.98)              $  (0.61)
+ Diluted                                                                      $  (0.98)              $  (0.61)
+Number of shares used in computation:
+ Basic                                                                           6,020                  6,000
+ Diluted                                                                         6,020                  6,000
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                       4
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in thousands)
+                                  (unaudited)
+<TABLE>
+<CAPTION>
+                                                                            Three Months
+                                                                            Ended June 30,
+                                                                    2001                 2000
+                                                                    ---------------------------
+<S>                                                                 <C>                <C>
+
+Operating activities:
+ Net loss                                                           $(45,254)          $(42,271)
+  Adjustments to reconcile net loss to net cash provided by
+   (used in) operating activities:
+     Minority interest in consolidated joint venture                     (52)               498
+     Equity in net loss of affiliates                                    290                600
+     Gain on sale of affiliate                                          (200)                 -
+     Depreciation and amortization                                    22,889             15,024
+     Carriage fee amortization                                         4,466                  -
+     Loss on sale of fixed assets                                        221                108
+     Provision for doubtful accounts                                   1,144                725
+     Tax benefit from exercise of stock options                       14,441                  -
+     Change in assets and liabilities:
+       Receivables                                                    96,314            148,388
+       Inventories                                                      (334)            (2,719)
+       Other assets                                                  (29,275)            (2,382)
+       Accounts payable                                              (13,893)           (50,130)
+       Accrued and other liabilities                                 (81,003)           (65,640)
+       Deferred income taxes                                              61                 84
+                                                                    --------           --------
+         Net cash provided by (used in) operating activities         (30,185)             2,285
+                                                                    --------           --------
+Investing activities:
+ Proceeds from sale of property and equipment                            165                317
+ Purchase of marketable securities, net                                    -                (12)
+ Proceeds from sale of affiliate                                         570                  -
+ Capital expenditures                                                (15,030)           (50,668)
+ Investment in affiliates, net                                         3,021              2,221
+ Change in short-term investments, net                               (16,375)             1,018
+                                                                    --------           --------
+         Net cash used in investing activities                       (27,649)           (47,124)
+                                                                    --------           --------
+Financing activities:
+ Proceeds from sales of Class A shares through employee stock
+      plans and other plans                                           33,960              6,577
+                                                                    --------           --------
+         Net cash provided by financing activities                    33,960              6,577
+                                                                    --------           --------
+Translation adjustment                                                 1,285             (3,547)
+                                                                    --------           --------
+Decrease in cash and cash equivalents                                (22,589)           (41,809)
+Beginning cash and cash equivalents                                  419,812            246,265
+                                                                    --------           --------
+Ending cash and cash equivalents                                     397,223            204,456
+Short-term investments                                                62,971             92,488
+                                                                    --------           --------
+Ending cash, cash equivalents and short-term investments            $460,194           $296,944
+                                                                    ========           ========
+</TABLE>
+                                       5
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+               CONSOLIDATED STATEMENTS OF CASH FLOWS (continued)
+                             (Dollars in thousands)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                            Three Months
+                                                                            Ended June 30,
+                                                                    2001                 2000
+                                                                    ---------------------------
+<S>                                                                 <C>                <C>
+Supplemental cash flow information:
+----------------------------------
+ Cash paid during the year for income taxes                         $ 2,719            $ 3,641
+                                                                    =======            =======
+Non-cash investing activities:
+-----------------------------
+ Change in unrealized appreciation of investments and marketable
+  securities                                                        $(1,883)           $(1,116)
+                                                                    =======            =======
+</TABLE>
+
+
+          See accompanying notes to consolidated financial statements.
+
+                                       6
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+
+
+Note 1. Basis of Presentation
+
+The condensed consolidated financial statements are unaudited and reflect all
+adjustments (consisting only of normal recurring accruals) that, in the opinion
+of management, are necessary for a fair presentation of the results for the
+interim periods presented.  The results of operations for the current interim
+period are not necessarily indicative of results to be expected for the current
+year or any other period.  Certain amounts have been reclassified to conform to
+the fiscal 2002 presentation.
+
+These condensed consolidated financial statements should be read in conjunction
+with the consolidated financial statements and notes thereto included in the
+Electronic Arts Inc. (the "Company") Annual Report on Form 10-K for the fiscal
+year ended March 31, 2001 as filed with the Securities and Exchange Commission
+("Commission") on June 29, 2001.
+
+Note 2. Fiscal Year and Fiscal Quarter
+
+The Company's fiscal year is reported on a 52/53-week period that ends on the
+Saturday nearest to March 31 in each year. The results of operations for fiscal
+2002 will contain 52 weeks. The results of operations for fiscal 2001 contained
+53 weeks. Accordingly, the results of operations for the fiscal quarters ended
+June 30, 2001 and 2000 contain 13 weeks and 14 weeks, respectively. For clarity
+of presentation, all fiscal periods are treated as ending on a calendar month
+end.
+
+Note 3. Tracking Stock
+
+On March 22, 2000, the shareholders of Electronic Arts authorized the issuance
+of a new series of common stock, designated as Class B common stock ("Tracking
+Stock"). The Tracking Stock is intended to reflect the performance of Electronic
+Arts' online and e-Commerce division ("EA.com"). As a result of the approval of
+the Tracking Stock Proposal, Electronic Arts' existing common stock has been re-
+classified as Class A common stock and that stock reflects the performance of
+Electronic Arts' other businesses ("EA Core").
+
+Note 4. Common Stock
+
+Stock Split
+
+On August 14, 2000, the Company's Board of Directors authorized a two-for-one
+stock split of its Class A common stock which was distributed on September 8,
+2000 in the form of a stock dividend for shareholders of record at the close of
+business on August 25, 2000.  All authorized and outstanding share and per share
+amounts of Class A common stock in the accompanying consolidated financial
+statements for all periods have been restated to reflect the stock split.
+
+                                       7
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+Class A Equity Incentive Plan
+
+At the Company's Annual Meeting of Stockholders, held on August 1, 2001, the
+stockholders elected to amend the 2000 Class A Equity Incentive Plan to increase
+by 6,000,000 the number of shares of the Company's Class A common stock reserved
+for issuance under the Plan.
+
+Note 5. Prepaid Royalties
+
+Prepaid royalties consist primarily of prepayments for manufacturing royalties,
+original equipment manufacturer (OEM) fees and license fees paid to celebrities
+and professional sports organizations for use of their trade name.   Also
+included in prepaid royalties are prepayments made to independent software
+developers under development arrangements that have alternative future uses.
+Prepaid royalties are expensed at the contractual or effective royalty rate as
+cost of goods sold based on actual net product sales.  Management evaluates the
+future realization of prepaid royalties quarterly and charges to the Statement
+of Operations any amounts that management deems unlikely to be realized through
+product sales.  Royalty advances are classified as current and non-current
+assets based upon estimated net product sales for the following year. The
+current portion of prepaid royalties, included in other current assets, was
+$65,029,000 and $46,264,000 at June 30, 2001 and March 31, 2001, respectively.
+The long-term portion of prepaid royalties, included in other assets, was
+$17,150,000 and $9,664,000 at June 30, 2001 and March 31, 2001, respectively.
+
+Note 6. Inventories
+
+Inventories are stated at the lower of cost or market.  Inventories at June 30,
+2001 and March 31, 2001 consisted of (in thousands):
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+                                              June 30, 2001      March 31, 2001
+<S>                                           <C>                <C>
+Raw materials and work in process                   $ 1,276             $   976
+Finished goods                                       14,744              14,710
+--------------------------------------------------------------------------------
+                                                    $16,020             $15,686
+--------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       8
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+Note 7. Accrued and Other Liabilities
+
+Accrued and other liabilities at June 30, 2001 and March 31, 2001 consisted of
+(in thousands):
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+                                                June 30, 2001    March 31, 2001
+<S>                                             <C>              <C>
+Accrued expenses                                     $ 60,489          $ 67,957
+Accrued compensation and benefits                      51,496            75,603
+Accrued royalties                                      48,966            55,997
+Deferred revenue                                       14,964            16,967
+Warranty reserve                                        7,972             8,070
+Accrued income taxes                                    3,950            42,371
+--------------------------------------------------------------------------------
+                                                     $187,837          $266,965
+--------------------------------------------------------------------------------
+</TABLE>
+
+Note 8. Segment Information
+
+Statement of Financial Accounting Standards ("SFAS") No. 131, "Disclosures About
+Segments of An Enterprise And Related Information", establishes standards for
+the reporting by public business enterprises of information about operating
+segments, product lines, geographic areas and major customers.  The method for
+determining what information to report is based on the way that management
+organizes the operating segments within the Company for making operational
+decisions and assessments of financial performance.
+
+The Company's chief operating decision maker is considered to be the Company's
+Chief Executive Officer ("CEO"). The CEO reviews financial information presented
+on a consolidated basis accompanied by disaggregated information about revenues
+by geographic region and by product lines for purposes of making operating
+decisions and assessing financial performance.
+
+The Company operates in two principal business segments globally:
+
+ . EA Core business segment: creation, marketing and distribution of
+     entertainment software.
+
+ . EA.com business segment: creation, marketing and distribution of
+     entertainment software which can be played or sold online, ongoing
+     management of subscriptions of online games and website advertising.
+
+Please see the discussion regarding segment reporting in the MD&A.
+
+                                       9
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+
+Information about the Company's business segments is presented below for the
+three months ended June 30, 2001 and 2000 (in thousands):
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------------------------
+                                                                 Three Months Ended June 30, 2001
+                                                   EA Core                        Adjustments and
+                                            (excl. EA.com)           EA.com          Eliminations         Electronic Arts
+----------------------------------------------------------------------------------------------------------------------------
+<S>                                            <C>                 <C>                  <C>                    <C>
+Net revenues from unaffiliated customers       $  165,551          $ 16,399             $      -               $  181,950
+Group sales                                           518                 -                 (518)    (a)                -
+----------------------------------------------------------------------------------------------------------------------------
+     Total net revenues                           166,069            16,399                 (518)                 181,950
+----------------------------------------------------------------------------------------------------------------------------
+Cost of goods sold from unaffiliated customers     85,937             3,092                    -                   89,029
+Group cost of goods sold                                -               518                 (518)    (a)                -
+----------------------------------------------------------------------------------------------------------------------------
+     Total cost of goods sold                      85,937             3,610                 (518)                  89,029
+----------------------------------------------------------------------------------------------------------------------------
+Gross profit                                       80,132            12,789                    -                   92,921
+Operating expenses:
+     Marketing and sales                           30,831             5,507                4,466     (c)           40,804
+     General and administrative                    20,267             2,948                    -                   23,215
+     Research and development                      55,383            15,633               19,789     (b)           90,805
+     Network development and support                    -            16,875              (16,875)    (b)                -
+     Customer relationship management                   -             2,914               (2,914)    (b)                -
+     Carriage fee                                       -             4,466               (4,466)    (c)                -
+     Amortization of intangibles                    3,205             3,270                    -                    6,475
+----------------------------------------------------------------------------------------------------------------------------
+Total operating expenses                          109,686            51,613                    -                  161,299
+----------------------------------------------------------------------------------------------------------------------------
+Operating loss                                    (29,554)          (38,824)                   -                  (68,378)
+Interest and other income (expense), net            3,089              (372)                   -                    2,717
+----------------------------------------------------------------------------------------------------------------------------
+Loss before benefit from income
+      taxes and minority interest                 (26,465)          (39,196)                   -                  (65,661)
+Benefit from income taxes                         (20,355)                -                    -                  (20,355)
+----------------------------------------------------------------------------------------------------------------------------
+Loss before minority interest                      (6,110)          (39,196)                   -                  (45,306)
+Minority interest in consolidated joint
+ venture                                               52                 -                    -                       52
+----------------------------------------------------------------------------------------------------------------------------
+Net loss before retained interest in EA.com    $   (6,058)         $(39,196)            $      -               $  (45,254)
+============================================================================================================================
+Interest income                                $    5,168          $     19             $      -               $    5,187
+Depreciation and amortization                      11,463            11,426                    -                   22,889
+Identifiable assets                             1,083,923           205,055                    -                1,288,978
+Capital expenditures                                7,833             7,197                    -                   15,030
+</TABLE>
+
+                                       10
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------------------------
+                                                                 Three Months Ended June 30, 2000
+                                                   EA Core                        Adjustments and
+                                            (excl. EA.com)           EA.com          Eliminations         Electronic Arts
+----------------------------------------------------------------------------------------------------------------------------
+<S>                                              <C>               <C>                    <C>                  <C>
+Net revenues from unaffiliated customers         $146,046          $  8,753               $     -              $  154,799
+Group sales                                           360                 -                  (360)    (a)               -
+----------------------------------------------------------------------------------------------------------------------------
+     Total net revenues                           146,406             8,753                  (360)                154,799
+----------------------------------------------------------------------------------------------------------------------------
+Cost of goods sold from unaffiliated customers     76,499             1,453                     -                  77,952
+Group cost of goods sold                                -               360                  (360)    (a)               -
+----------------------------------------------------------------------------------------------------------------------------
+     Total cost of goods sold                      76,499             1,813                  (360)                 77,952
+----------------------------------------------------------------------------------------------------------------------------
+Gross profit                                       69,907             6,940                     -                  76,847
+Operating expenses:
+     Marketing and sales                           33,260             1,933                     -                  35,193
+     General and administrative                    19,747             2,462                     -                  22,209
+     Research and development                      53,659            16,492                 9,017     (b)          79,168
+     Network development and support                    -             7,438                (7,438)    (b)               -
+     Customer relationship management                   -             1,579                (1,579)    (b)               -
+     Amortization of intangibles                    3,240             1,414                     -                   4,654
+----------------------------------------------------------------------------------------------------------------------------
+Total operating expenses                          109,906            31,318                     -                 141,224
+----------------------------------------------------------------------------------------------------------------------------
+Operating loss                                    (39,999)          (24,378)                    -                 (64,377)
+Interest and other income (expense), net            3,841                (5)                    -                   3,836
+----------------------------------------------------------------------------------------------------------------------------
+Loss before benefit from income
+      taxes and minority interest                 (36,158)          (24,383)                    -                 (60,541)
+Benefit from income taxes                         (18,768)                -                     -                 (18,768)
+----------------------------------------------------------------------------------------------------------------------------
+Loss before minority interest                     (17,390)          (24,383)                    -                 (41,773)
+Minority interest in consolidated joint
+ venture                                             (498)                -                     -                    (498)
+----------------------------------------------------------------------------------------------------------------------------
+Net loss before retained interest in EA.com      $(17,888)         $(24,383)              $     -              $  (42,271)
+============================================================================================================================
+Interest income                                  $  4,317          $     28               $     -              $    4,345
+Depreciation and amortization                      10,164             4,860                     -                  15,024
+Identifiable assets                               892,731           144,263                     -               1,036,994
+Capital expenditures                               14,130            36,538                     -                  50,668
+</TABLE>
+
+     (a)  Represents elimination of intercompany sales of EA Core packaged goods
+          products to EA.com, and represents elimination of royalties paid to EA
+          Core by EA.com for intellectual property rights.
+     (b)  Represents reclassification of Network Development and Support and
+          Customer Relationship Management to Research and Development.
+     (c)  Represents reclassification of amortization of the Carriage Fee to
+          Marketing and Sales.
+
+                                       11
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+Information about the Company's operations in the North America and foreign
+areas for the three months ended June 30, 2001 and 2000 is presented below:
+
+<TABLE>
+<CAPTION>
+
+---------------------------------------------------------------------------------------------------------------------
+(In thousands)                                                        Asia
+                                                                   Pacific
+                                        North                   (excluding
+                                      America      Europe           Japan)     Japan    Eliminations         Total
+                                   ----------------------------------------------------------------------------------
+<S>                                  <C>         <C>               <C>       <C>            <C>         <C>
+Three months ended June 30, 2001
+--------------------------------
+Net revenues from unaffiliated
+ customers                           $103,062    $ 59,812          $10,051   $ 9,025        $      -    $  181,950
+Intercompany revenues                   1,515       4,552            1,373      (176)         (7,264)            -
+                                   ----------------------------------------------------------------------------------
+  Total net revenues                  104,577      64,364           11,424     8,849          (7,264)      181,950
+                                   ----------------------------------------------------------------------------------
+Operating income (loss)               (65,718)     (3,640)               4       160             816       (68,378)
+Interest income                         4,583         536               68         -               -         5,187
+Depreciation and amortization          19,815       2,760              166       148               -        22,889
+Identifiable assets                   971,686     277,142           20,883    19,267               -     1,288,978
+Capital expenditures                   13,523       1,053              152       302               -        15,030
+Long-lived assets                     351,942     155,718            4,094     4,154               -       515,908
+
+Three months ended June 30, 2000
+--------------------------------
+Net revenues from unaffiliated
+ customers                           $ 71,756    $ 51,894          $12,112   $19,037        $      -    $  154,799
+Intercompany revenues                   3,976       4,481            4,018         -         (12,475)            -
+                                   ----------------------------------------------------------------------------------
+  Total net revenues                   75,732      56,375           16,130    19,037         (12,475)      154,799
+                                   ----------------------------------------------------------------------------------
+Operating income (loss)               (46,500)    (22,869)           1,417     2,597             978       (64,377)
+Interest income                         3,134       1,106              105         -               -         4,345
+Depreciation and amortization          12,470       2,249              138       167               -        15,024
+Identifiable assets                   669,655     316,441           25,532    25,366               -     1,036,994
+Capital expenditures                   41,793       8,425              376        74               -        50,668
+Long-lived assets                     285,386     154,849            3,928     4,111               -       448,274
+---------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Information about the Company's net revenues by product line for the three
+months ended June 30, 2001 and 2000 is presented below:
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------
+(In thousands)                            Three Months Ended
+                                                June 30,
+                                          2001            2000
+----------------------------------------------------------------
+<S>                                   <C>             <C>
+PC                                    $ 70,074        $ 70,357
+PlayStation 2                           50,519          10,281
+PlayStation                             14,042          29,501
+Online Subscriptions                     7,956           8,311
+Advertising                              7,661               -
+License, OEM and Other                   4,290           3,424
+N64                                      2,402             606
+Affiliated label                        25,006          32,319
+----------------------------------------------------------------
+                                      $181,950        $154,799
+----------------------------------------------------------------
+</TABLE>
+
+                                       12
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+Note 9. Comprehensive Loss
+
+The components of comprehensive loss, net of tax, for the three months ended
+June 30, 2001 and 2000 were as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+                                                         Three Months Ended
+                                                               June 30,
+                                                          2001            2000
+--------------------------------------------------------------------------------
+<S>                                                   <C>             <C>
+Net loss                                              $(45,254)       $(42,271)
+--------------------------------------------------------------------------------
+Other comprehensive income (loss):
+ Change in unrealized depreciation of
+  investments, net of tax benefit of $(584) and
+  $(346)                                                (1,299)           (770)
+ Foreign currency translation adjustments                1,468          (3,570)
+--------------------------------------------------------------------------------
+Total other comprehensive income (loss)                    169          (4,340)
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Total comprehensive loss                              $(45,085)       $(46,611)
+--------------------------------------------------------------------------------
+</TABLE>
+
+The currency translation adjustments are not adjusted for income taxes as they
+relate to indefinite investments in non-U.S. subsidiaries.
+
+Note 10. Net Loss Per Share
+
+The following summarizes the computations of Basic Earnings Per Share ("EPS")
+and Diluted EPS. Basic EPS is computed as net earnings divided by the weighted-
+average number of common shares outstanding for the period. Diluted EPS reflects
+the potential dilution that could occur from common shares issuable through
+stock-based compensation plans including stock options, restricted stock awards,
+warrants and other convertible securities using the treasury stock method.
+
+Net loss per share is computed individually for Class A common stock and Class B
+common stock. Please see the discussion regarding segment reporting in the MD&A.
+
+                                       13
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+(in thousands, except per share amounts):
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------
+                                                     Three months ended June 30, 2001
+                                         Class A common         Class A common           Class B
+                                          stock-Basic           stock-Diluted           common stock
+----------------------------------------------------------------------------------------------------
+<S>                                      <C>                    <C>                     <C>
+Net loss before retained
+  interest in EA.com                          $ (6,058)              $(45,254)           $(39,196)
+Net loss related to retained interest
+  in EA.com                                    (33,317)                     -              33,317
+----------------------------------------------------------------------------------------------------
+Net loss                                      $(39,375)              $(45,254)           $ (5,879)
+----------------------------------------------------------------------------------------------------
+Shares used to compute net
+  loss per share:
+Weighted-average common shares                 135,730                135,730               6,020
+Dilutive stock equivalents                           -                    652                   -
+----------------------------------------------------------------------------------------------------
+Dilutive potential common shares               135,730                136,382               6,020
+====================================================================================================
+Net loss per share:
+Basic                                           $(0.29)                   N/A              $(0.98)
+Diluted                                            N/A                 $(0.33)             $(0.98)
+----------------------------------------------------------------------------------------------------
+</TABLE>
+
+(in thousands, except per share amounts):
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------
+                                                     Three months ended June 30, 2000
+                                         Class A common         Class A common          Class B
+                                          stock-Basic           stock-Diluted         common stock
+----------------------------------------------------------------------------------------------------
+<S>                                      <C>                    <C>                   <C>
+Net loss before retained
+  interest in EA.com                         $(17,888)              $(42,271)           $(24,383)
+Net loss related to retained interest
+   in EA.com                                  (20,726)                     -              20,726
+----------------------------------------------------------------------------------------------------
+Net loss                                     $(38,614)              $(42,271)           $ (3,657)
+----------------------------------------------------------------------------------------------------
+
+Shares used to compute net
+     loss per share:
+Weighted-average common shares                129,135                129,135               6,000
+Dilutive stock equivalents                          -                    652                   -
+----------------------------------------------------------------------------------------------------
+Dilutive potential common shares              129,135                129,787               6,000
+====================================================================================================
+----------------------------------------------------------------------------------------------------
+Net loss per share:
+Basic                                          $(0.30)                   N/A              $(0.61)
+Diluted                                           N/A                 $(0.33)             $(0.61)
+----------------------------------------------------------------------------------------------------
+</TABLE>
+
+The Diluted EPS calculation for Class A common stock, presented above, includes
+the potential dilution from the conversion of Class B common stock to Class A
+common stock in the event that the initial public offering for Class B common
+stock does not occur. Net loss
+
+                                       14
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+used for the calculation of Diluted EPS for Class A common stock was $45,254,000
+and $42,271,000 for the three months ended June 30, 2001 and 2000, respectively.
+This net loss includes the remaining 15% interest in EA.com, which is directly
+attributable to outstanding Class B shares owned by third parties, which would
+be included in the Class A common stock EPS calculation in the event that the
+initial public offering for Class B common stock does not occur.
+
+Due to the net loss attributable for the three months ended June 30, 2001 and
+2000 on a diluted basis to Class A Stockholders, stock options have been
+excluded from the Diluted EPS calculation as their inclusion would have been
+antidilutive. Had net income been reported for these periods, an additional
+6,115,000 and 4,991,000 shares would have been added to diluted potential common
+shares for Class A common stock for the three months ended June 30, 2001 and
+2000, respectively.
+
+Due to the net loss attributable for the three months ended June 30, 2001 and
+2000 on a diluted basis to Class B Stockholders, stock options have been
+excluded from the Diluted EPS calculation as their inclusion would have been
+antidilutive. Had net income been reported for the three months ended June 30,
+2001, an additional 932,000 shares would have been added to diluted potential
+common shares for Class B common stock. For the three months ended June 30,
+2000, no additional shares would have been added to diluted potential common
+shares for Class B common stock.
+
+                                       15
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+Note 11. Impact of Recently Issued Accounting Standards
+
+In June 1998, the Financial Accounting Standards Board ("FASB") issued SFAS 133
+"Accounting for Derivative Instruments and Hedging Activities", as amended by
+SFAS 137 "Accounting for Derivative Instruments and Hedging Activities -
+Deferral of the Effective Date of FASB Statement No. 133 - an Amendment of FASB
+Statement No. 133" and SFAS 138 "Accounting for Certain Derivative Instruments
+and Certain Hedging Activities - an Amendment of FASB Statement No. 133" which
+establishes accounting and reporting standards for derivative instruments and
+hedging activities.  The terms of SFAS 133 and SFAS 138 are effective as of the
+beginning of the first quarter of the fiscal year beginning after June 15, 2000.
+SFAS 133, as amended, requires that all derivative instruments be recorded on
+the balance sheet at their fair value.  Changes in the fair value of derivatives
+are recorded each period in current earnings or other comprehensive income,
+depending on whether a derivative is designated as part of a hedge transaction
+and, if it is, the type of hedge transaction. The Company utilizes fair value
+foreign exchange contracts to hedge foreign currency exposures of underlying
+assets and liabilities, primarily certain intercompany receivables that are
+denominated in foreign currencies. The Company adopted SFAS 133 on April 1,
+2001.  The adoption of SFAS 133 did not have a material impact on the Company's
+consolidated financial position or results of operations.
+
+In April 2001, the Emerging Issues Task Force issued No. 00-25 ("EITF 00-25"),
+"Accounting for Consideration from a Vendor to a Retailer in Connection with the
+Purchase or Promotion of the Vendor's Products", which states that consideration
+from a vendor to a reseller of the vendor's products is presumed to be a
+reduction of the selling prices of the vendor's products and, therefore, should
+be characterized as a reduction of revenue when recognized in the vendor's
+income statement.  That presumption is overcome and the consideration can be
+categorized as a cost incurred if, and to the extent that, a benefit is or will
+be received from the recipient of the consideration.  That benefit must meet
+certain conditions described in EITF 00-25.  The consensus should be applied no
+later than in annual or interim financial statements for periods beginning after
+December 15, 2001.  The Company is currently evaluating the impact of this
+consensus on its Statements of Operations.
+
+In June 2001, the FASB issued SFAS 141 "Business Combinations", which addresses
+financial accounting and reporting for business combinations and supersedes
+Accounting Principles Board Opinion No. 16 ("APB 16"), "Business Combinations",
+and SFAS 38, "Accounting for Preacquisition Contingencies of Purchased
+Enterprises". All business combinations in the scope of SFAS 141 are to be
+accounted for using one method, the purchase method. This Statement requires
+that intangible assets be recognized as assets apart from goodwill if they meet
+one of two criteria--the contractual-legal criterion or the separability
+criterion. SFAS 141 also requires disclosure of the primary reasons for a
+business combination and the allocation of the purchase price paid to the assets
+acquired and liabilities assumed by major balance sheet caption. This Statement
+does not change many of the provisions of APB 16 and SFAS 38 related to the
+application of the
+
+                                       16
+<PAGE>
+
+                     ELECTRONIC ARTS INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+                                  (continued)
+
+purchase method.  Also, SFAS 141 does not change the requirement to write off
+certain research and development assets acquired in a business combination as
+required by FASB Interpretation No. 4, "Applicability of FASB Statement No. 2 to
+Business Combinations Accounted for by the Purchase Method". The provisions of
+SFAS 141 apply to all business combinations initiated after June 30, 2001 and
+applies to all business combinations accounted for using the purchase method for
+which the date of acquisition is July 1, 2001, or later.
+
+In June 2001, the FASB issued SFAS 142, "Goodwill and Other Intangible Assets",
+which supersedes APB 17, "Intangible Assets".  SFAS 142 addresses the accounting
+treatment for goodwill and other intangible assets acquired individually or with
+a group of other assets upon their acquisition, but not acquired in a business
+combination.  This statement also addresses how goodwill and other intangible
+assets should be accounted for after they have been initially recognized in the
+financial statements. With the adoption of SFAS 142, goodwill is no longer
+subject to amortization over its estimated useful life; rather, goodwill will be
+subject to at least an annual assessment for impairment by applying a fair-
+value-based test. However, equity-method goodwill is not subject to the new
+impairment rules. Also, if the benefit of an intangible asset is obtained
+through contractual or other legal rights, or if the intangible asset can be
+sold, transferred, licensed, rented or exchanged, an acquired intangible asset
+should be separately recognized.  The terms of SFAS 142 are effective as of the
+beginning of the first quarter of the fiscal year beginning after December 15,
+2001.  Certain provisions of SFAS 142 shall be applied to goodwill and other
+acquired intangible assets for which the acquisition date is after June 30,
+2001. The Company is currently determining the effect of SFAS 142 on its
+financial statements.
+
+                                       17
+<PAGE>
+
+ITEM 2:  Management's Discussion and Analysis Of Financial Condition and Results
+Of Operations
+
+This Quarterly Report, on Form 10-Q and, in particular, the following
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" contains forward-looking statements about circumstances that have
+not yet occurred. All statements, trend analysis and other information contained
+below relating to markets, our products and trends in revenue, as well as other
+statements including words such as "anticipate", "believe" or "expect" and
+statements in the future tense are forward-looking statements. These forward-
+looking statements are subject to business and economic risks and actual events
+or our actual future results could differ materially from those set forth in the
+forward-looking statements due to such risks and uncertainties. We will not
+necessarily update information if any forward-looking statement later turns out
+to be inaccurate. Risks and uncertainties that may affect our future results and
+performance include, but are not limited to, those discussed under the heading
+"Risk Factors" at pages 30 to 37, as well as in our Annual Report on Form 10-K
+for the fiscal year ended March 31, 2001 as filed with the Securities and
+Exchange Commission on June 29, 2001 and other documents filed with the
+Commission.
+
+We derive revenues primarily from shipments of entertainment software, which
+includes EA Studio products for dedicated entertainment systems (that we call
+video game systems or consoles such as PlayStation, PlayStation 2 and Nintendo
+64), EA Studio personal computer products (or PC), Co-Publishing products that
+are co-published and distributed by us, and Affiliated Label (or AL) products
+that are published by third parties and distributed by us.  We also derive
+revenues from licensing of EA Studio products and AL products through hardware
+companies (or OEM), selling subscriptions on our online gaming service, selling
+advertisements on our online web pages and selling our packaged goods through
+our online store.
+
+Information about our net revenues for North America and foreign areas for the
+three months ended June 30, 2001 and 2000 is summarized below (in thousands):
+
+<TABLE>
+<CAPTION>
+                           June 30,      June 30,     Increase/
+                             2001          2000      (Decrease)     % change
+-----------------------------------------------------------------------------
+<S>                        <C>           <C>         <C>           <C>
+
+North America              $103,062      $ 71,756     $ 31,306          43.6%
+-----------------------------------------------------------------------------
+
+Europe                       59,812        51,894        7,918          15.3%
+Asia Pacific                 10,051        12,112       (2,061)        (17.0%)
+Japan                         9,025        19,037      (10,012)        (52.6%)
+-----------------------------------------------------------------------------
+International                78,888        83,043       (4,155)         (5.0%)
+-----------------------------------------------------------------------------
+Consolidated Net Revenues  $181,950      $154,799     $ 27,151          17.5%
+=============================================================================
+</TABLE>
+
+North America Net Revenues
+
+The increase in North America net revenues for the three months ended June 30,
+2001 compared to the same period last year was primarily attributable to:
+
+ .  PlayStation 2 revenues of $35,754,000 for the quarter from titles such as
+   NBA Street, Rumble Racing, Madden NFL 2001 and Tiger Woods PGA Tour 2001.
+
+                                       18
+<PAGE>
+
+ .  Advertising revenues of $7,661,000 were generated for the quarter. We
+   commenced generating advertising revenues immediately following the launch of
+   our gamesite on the world wide web in October 2000. In addition, advertising
+   revenues were generated from Pogo Corporation's ("Pogo") websites subsequent
+   to the February 2001 acquisition.
+
+ .  These increases were partially offset by a decrease in AL revenues
+   primarily due to the strong shipment of titles published by Square EA in the
+   prior year.
+
+International Net Revenues
+
+The decrease in international net revenues for the three months ended June 30,
+2001 compared to the three months ended June 30, 2000 was attributable to the
+following:
+
+ .  Japan's net revenues decreased 53% compared to the prior year primarily due
+   to no new products shipping in the quarter and the strong sales of our first
+   PlayStation 2 title FIFA Soccer World Championship in the prior year, as well
+   as a significant decrease in PlayStation revenues due to the console
+   transition, no new products for the PlayStation and weakness in the Yen
+   currency. Japan did not benefit from our primary PlayStation 2 release during
+   the quarter, NBA Street, which did not ship in their market.
+
+ .  Asia Pacific's net revenues decreased as PlayStation 2 revenues did not
+   offset the decline in PlayStation revenues. Asia Pacific did not benefit from
+   our primary PlayStation 2 release during the quarter, NBA Street, which did
+   not ship in their market. In addition, revenues were negatively affected by
+   exchange rate differences relative to the dollar.
+
+ .  Offset by Europe's increase in net revenue by 15% primarily due to
+   PlayStation 2 sales and higher AL sales partially offset by the expected
+   decrease of revenues from PlayStation.
+
+Information about our worldwide net revenues by product line for the three
+months ended June 30, 2001 and 2000 is presented below (in thousands):
+
+<TABLE>
+<CAPTION>
+                              June 30,      June 30,     Increase/
+                                2001          2000      (Decrease)    % change
+                             ---------------------------------------------------
+<S>                           <C>           <C>         <C>           <C>
+EA Studio:
+----------
+PC                            $ 70,074      $ 70,357     $   (283)       (0.4%)
+PlayStation 2                   50,519        10,281       40,238       391.4%
+PlayStation                     14,042        29,501      (15,459)      (52.4%)
+Online Subscriptions             7,956         8,311         (355)       (4.3%)
+Advertising                      7,661             -        7,661         N/A
+N64                              2,402           606        1,796       296.4%
+License, OEM and Other           4,290         3,424          866        25.3%
+                             ---------------------------------------------------
+                               156,944       122,480       34,464        28.1%
+Affiliated Label:               25,006        32,319       (7,313)      (22.6%)
+-----------------            ---------------------------------------------------
+Consolidated Net Revenues     $181,950      $154,799     $ 27,151        17.5%
+                             ===================================================
+</TABLE>
+
+Personal Computer Product Net Revenues
+
+PC sales in the quarter were relatively flat compared to the same quarter last
+year.  The release of Emperor: Battle for Dune in addition to the strong
+catalogue sales of Black & White and The Sims: House Party compared to strong
+sales of The Sims, Euro 2000, SimCity 3000 Unlimited and Shogun: Total War in
+the prior year.  In addition, we released one PC title in the first quarter of
+the current fiscal year compared to four PC titles for the same period last
+year.
+
+                                       19
+<PAGE>
+
+Due to the sales of The Sims in fiscal 2001, we expect revenues from PC products
+to be flat or lower in fiscal 2002.
+
+PlayStation 2 Product Net Revenues
+
+We released two titles in North America and Europe in the first quarter of
+fiscal 2002 compared to one title released only in Japan for the same period
+last year for the PlayStation 2. Releases for the quarter were NBA Street and
+Rumble Racing.   Revenues increased due to the higher number of new and
+catalogue titles shipping worldwide in the current quarter compared to the one
+title shipping in Japan in the same period last year. We expect revenues from
+PlayStation 2 products to continue to grow in fiscal 2002.
+
+PlayStation Product Net Revenues
+
+We did not release any titles for the PlayStation console during the first
+quarter of fiscal 2002 compared to one title released in the first quarter of
+fiscal 2001. The expected decrease in PlayStation product sales was attributable
+to no new titles released during the first quarter of the current year as
+compared to one title shipped in the same period last year and general
+PlayStation market decline as this platform is replaced by the PlayStation 2.
+
+Sony released the PlayStation 2 worldwide in the prior year. Although our
+PlayStation products are playable on the PlayStation 2 console, we expect sales
+of current PlayStation products to continue to decline significantly in fiscal
+2002.  We expect to ship significantly fewer products for the PlayStation than
+in the prior year.
+
+Under the terms of a licensing agreement entered into with Sony Computer
+Entertainment of America in July 1994 (the "Sony Agreement"), as amended, we are
+authorized to develop and distribute CD-based software products compatible with
+the PlayStation.  Furthermore, under the terms of an additional licensing
+agreement entered into with Sony Computer Entertainment of America as of April
+2000 (the "PlayStation 2 Agreement"), as amended, we are authorized to develop
+and distribute DVD-based software products compatible with the PlayStation 2.
+Pursuant to these agreements, we engage Sony to supply its PlayStation and
+PlayStation 2 CD's for distribution by us.  Accordingly, we have limited ability
+to control our supply of PlayStation and PlayStation 2 CD products or the timing
+of their delivery.
+
+Online Subscription Net Revenues
+The slight decrease in online revenues for the three months ended June 30, 2001
+as compared to the three months ended June 30, 2000 was attributable to the
+following:
+
+     . A decrease for Kesmai and Worldplay online games. Revenues associated
+       with these services declined as the majority of the products have been
+       converted into our advertising-supported free offerings, incorporated
+       into our bundled subscription offerings, or gradually shut-down.
+
+     . Offset by an increase of online subscription revenues primarily from
+       Ultima Online and other products. At the end of the quarter, there were
+       approximately 210,000 subscribers to Ultima Online compared to
+       approximately 160,000 subscribers in the prior year.
+
+                                       20
+<PAGE>
+
+Advertising Revenues
+
+We commenced generating advertising revenues in the third quarter of the prior
+fiscal year following the launch of our gamesite on the world wide web in
+October 2000.  We also generated advertising revenues from Pogo's websites
+subsequent to the February 2001 acquisition.
+
+Nintendo 64 Product Net Revenues
+
+The increase in N64 revenues for the three months ended June 30, 2001 compared
+to the same period last year was primarily due to the strong catalogue sales of
+The World Is Not Enough. Although revenues increased in the current quarter
+compared to the same period in the prior year, we expect revenues from N64
+products to decline significantly in fiscal 2002.
+
+Under the terms of the N64 Agreement, we engage Nintendo to manufacture our N64
+cartridges for distribution by us.  Accordingly, we have little ability to
+control our supply of N64 cartridges or the timing of their delivery.  A
+shortage of microchips or other factors outside our control could impair our
+ability to obtain an adequate supply of cartridges.
+
+License, OEM and Other Revenues
+
+The increase in license, OEM and other revenues was primarily a result of higher
+revenues from sales of cluebooks.
+
+Affiliated Label Product Net Revenues
+
+AL product sales decreased during the current quarter compared to the same
+period last year due to lower sales in North America partially offset by higher
+sales in Europe.  This decrease was mainly due to a decrease in revenues
+generated from the distribution of titles by Square EA and fewer titles released
+in the current year as compared to the same period last year.
+
+Operations by Segment
+
+The series of common stock designated as Class B (see Note 3) was approved to
+reflect the performance of EA.com. Accordingly, management considers EA.com to
+be a separate reportable segment. We operate in two principal business segments
+globally:
+
+     . Electronic Arts Core ("EA Core") business segment: creation, marketing
+       and distribution of entertainment software.
+
+     . EA.com business segment: creation, marketing and distribution of
+       entertainment software which can be played or sold online, ongoing
+       management of subscriptions of online games and website advertising.
+
+EA.com, a division of Electronic Arts Inc., represents Electronic Arts' online
+and e-Commerce businesses. EA.com's business includes subscription revenues
+collected for Internet game play on our websites, website advertising, sales of
+packaged goods for Internet-only based games and sales of Electronic Arts games
+sold through the EA.com web store. The Consolidated Statements of Operations
+includes all revenues and costs directly attributable to EA.com, including
+charges for shared facilities, functions and services used by EA.com and
+provided by EA Core. Certain costs and expenses have been allocated based on
+management's estimates of the cost of services provided to EA.com by EA Core.
+
+                                       21
+<PAGE>
+
+Information about our operations by segment for the three months ended June 30,
+2001 and 2000 is presented below (in thousands):
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------------------------------------------
+                                                                  Three Months Ended June 30, 2001
+                                                    EA Core                    Adjustments and
+                                             (excl. EA.com)          EA.com       Eliminations       Electronic Arts
+--------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>                   <C>         <C>                   <C>
+Net revenues from unaffiliated customers           $165,551        $ 16,399           $      -              $181,950
+Group sales                                             518               -               (518)  (a)               -
+--------------------------------------------------------------------------------------------------------------------
+     Total net revenues                             166,069          16,399               (518)              181,950
+--------------------------------------------------------------------------------------------------------------------
+Cost of goods sold from unaffiliated customers       85,937           3,092                  -                89,029
+Group cost of goods sold                                  -             518               (518)  (a)               -
+--------------------------------------------------------------------------------------------------------------------
+     Total cost of goods sold                        85,937           3,610               (518)               89,029
+--------------------------------------------------------------------------------------------------------------------
+Gross profit                                         80,132          12,789                  -                92,921
+Operating expenses:
+   Marketing and sales                               30,831           5,507              4,466   (c)          40,804
+   General and administrative                        20,267           2,948                  -                23,215
+   Research and development                          55,383          15,633             19,789   (b)          90,805
+   Network development and support                        -          16,875            (16,875)  (b)               -
+   Customer relationship management                       -           2,914             (2,914)  (b)               -
+   Carriage fee                                           -           4,466             (4,466)  (c)               -
+   Amortization of intangibles                        3,205           3,270                  -                 6,475
+--------------------------------------------------------------------------------------------------------------------
+Total operating expenses                            109,686          51,613                  -               161,299
+--------------------------------------------------------------------------------------------------------------------
+Operating loss                                      (29,554)        (38,824)                 -               (68,378)
+Interest and other income (expense), net              3,089            (372)                 -                 2,717
+--------------------------------------------------------------------------------------------------------------------
+Loss before benefit from income
+  taxes and minority interest                       (26,465)        (39,196)                 -               (65,661)
+Benefit from income taxes                           (20,355)              -                  -               (20,355)
+--------------------------------------------------------------------------------------------------------------------
+Loss before minority interest                        (6,110)        (39,196)                 -               (45,306)
+Minority interest in consolidated joint venture          52               -                  -                    52
+--------------------------------------------------------------------------------------------------------------------
+Net loss before retained interest in EA.com        $ (6,058)       $(39,196)          $      -              $(45,254)
+====================================================================================================================
+</TABLE>
+
+Allocation of retained interest (in thousands):
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------
+                                                                  Three Months Ended June 30, 2001
+                                                       EA Core                    Adjustments and
+                                                (excl. EA.com)          EA.com       Eliminations       Electronic Arts
+-----------------------------------------------------------------------------------------------------------------------
+<S>                                             <C>                    <C>        <C>                   <C>
+Net loss before retained interest in EA.com          $ (6,058)         $(39,196)          $     -              $(45,254)
+Net loss related to retained interest in EA.com       (33,317)           33,317                 -                     -
+-----------------------------------------------------------------------------------------------------------------------
+Net loss                                             $(39,375)         $ (5,879)          $     -              $(45,254)
+=======================================================================================================================
+</TABLE>
+
+                                       22
+<PAGE>
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------
+                                                                  Three Months Ended June 30, 2000
+                                                     EA Core                  Adjustments and
+                                              (excl. EA.com)         EA.com      Eliminations       Electronic Arts
+-------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>                  <C>        <C>                   <C>
+Net revenues from unaffiliated customers            $146,046       $  8,753           $     -              $154,799
+Group sales                                              360              -              (360)  (a)               -
+-------------------------------------------------------------------------------------------------------------------
+     Total net revenues                              146,406          8,753              (360)              154,799
+-------------------------------------------------------------------------------------------------------------------
+Cost of goods sold from unaffiliated customers        76,499          1,453                 -                77,952
+Group cost of goods sold                                   -            360              (360)  (a)               -
+-------------------------------------------------------------------------------------------------------------------
+     Total cost of goods sold                         76,499          1,813              (360)               77,952
+-------------------------------------------------------------------------------------------------------------------
+Gross profit                                          69,907          6,940                 -                76,847
+Operating expenses:
+  Marketing and sales                                 33,260          1,933                 -                35,193
+  General and administrative                          19,747          2,462                 -                22,209
+  Research and development                            53,659         16,492             9,017   (b)          79,168
+  Network development and support                          -          7,438            (7,438)  (b)               -
+  Customer relationship management                         -          1,579            (1,579)  (b)               -
+  Amortization of intangibles                          3,240          1,414                 -                 4,654
+-------------------------------------------------------------------------------------------------------------------
+Total operating expenses                             109,906         31,318                 -               141,224
+-------------------------------------------------------------------------------------------------------------------
+Operating loss                                       (39,999)       (24,378)                -               (64,377)
+Interest and other income (expense), net               3,841             (5)                -                 3,836
+-------------------------------------------------------------------------------------------------------------------
+Loss before benefit from income
+  taxes and minority interest                        (36,158)       (24,383)                -               (60,541)
+Benefit from income taxes                            (18,768)             -                 -               (18,768)
+-------------------------------------------------------------------------------------------------------------------
+Loss before minority interest                        (17,390)       (24,383)                -               (41,773)
+Minority interest in consolidated joint venture         (498)             -                 -                  (498)
+-------------------------------------------------------------------------------------------------------------------
+Net loss before retained interest in EA.com         $(17,888)      $(24,383)           $    -              $(42,271)
+===================================================================================================================
+</TABLE>
+
+Allocation of retained interest (in thousands):
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------
+                                                                  Three Months Ended June 30, 2000
+                                                     EA Core                  Adjustments and
+                                              (excl. EA.com)         EA.com      Eliminations       Electronic Arts
+-------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>                 <C>        <C>                   <C>
+Net loss before retained interest in EA.com         $(17,888)      $(24,383)            $   -              $(42,271)
+Net loss related to retained interest in EA.com      (20,726)        20,726                 -                     -
+-------------------------------------------------------------------------------------------------------------------
+Net loss                                            $(38,614)      $ (3,657)            $   -              $(42,271)
+===================================================================================================================
+</TABLE>
+
+(a) Represents elimination of intercompany sales of EA Core packaged goods
+    products to EA.com, and represents elimination of royalties paid to EA Core
+    by EA.com for intellectual property rights.
+(b) Represents reclassification of Network Development and Support and Customer
+    Relationship Management to Research and Development.
+(c) Represents reclassification of amortization of the Carriage Fee to Marketing
+    and Sales.
+
+                                       23
+<PAGE>
+
+The following table presents pro-forma results of operations allocating taxes
+between EA Core and EA.com. Consolidated taxes have been allocated to EA Core
+and EA.com on a pro rata basis based on the consolidated effective tax rates,
+thereby giving EA.com the tax benefit of its losses which is utilized by the
+consolidated group.  Such tax benefit could not be recognized by EA.com on a
+stand-alone basis. The sum of tax expense and tax benefit for EA Core and EA.com
+is the same as consolidated tax expense and tax benefit.  This presentation
+represents how management analyzes each segment of the business (in thousands):
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------
+                                                                  Three Months Ended June 30, 2001
+                                                     EA Core                  Adjustments and
+                                              (excl. EA.com)         EA.com      Eliminations       Electronic Arts
+-------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>                 <C>        <C>                   <C>
+Loss before benefit from income taxes and
+ minority interest                                  $(26,465)      $(39,196)           $    -              $(65,661)
+Benefit from income taxes                             (8,204)       (12,151)                -               (20,355)
+-------------------------------------------------------------------------------------------------------------------
+Loss before minority interest                        (18,261)       (27,045)                -               (45,306)
+Minority interest in consolidated joint
+ venture                                                  52              -                 -                    52
+-------------------------------------------------------------------------------------------------------------------
+Net loss                                            $(18,209)      $(27,045)           $    -              $(45,254)
+===================================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------
+                                                                  Three Months Ended June 30, 2000
+                                                     EA Core                  Adjustments and
+                                              (excl. EA.com)         EA.com      Eliminations       Electronic Arts
+-------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>                 <C>        <C>                   <C>
+Loss before benefit from income taxes and
+ minority interest                                  $(36,158)      $(24,383)           $    -              $(60,541)
+Benefit from income taxes                            (11,209)        (7,559)                -               (18,768)
+-------------------------------------------------------------------------------------------------------------------
+Loss before minority interest                        (24,949)       (16,824)                -               (41,773)
+Minority interest in consolidated joint venture         (498)             -                 -                  (498)
+-------------------------------------------------------------------------------------------------------------------
+Net loss                                            $(25,447)      $(16,824)           $    -              $(42,271)
+===================================================================================================================
+</TABLE>
+
+Costs and Expenses, Interest and Other Income, Net, Income Taxes and Net Loss
+-----------------------------------------------------------------------------
+for both EA Core and EA.com Segments
+------------------------------------
+
+Cost of Goods Sold.   Cost of goods sold for our packaged goods business
+consists of actual product costs, royalties expense for celebrities,
+professional sports organizations and independent software developers,
+manufacturing royalties, expense for defective products and operations expense.
+Cost of goods sold for our subscription business consists primarily of data
+center and bandwidth costs associated with hosting our websites, credit card
+fees and royalties for use of EA and third party properties.
+
+Marketing and Sales.  Marketing and sales expenses consist of personnel related
+costs, advertising and marketing and promotional expenses.  In addition,
+marketing and sales includes the amortization of the AOL carriage and revenue
+share fees ("Carriage Fee"), which began with the launch of EA.com in October
+2000.  The Carriage Fee is being amortized straight line over the term of the
+AOL agreement.
+
+General and Administrative.  General and administrative expenses consist of
+personnel and related expenses of executive and administrative staff, fees for
+professional services such as legal and accounting and allowances for bad debts.
+
+                                       24
+<PAGE>
+
+Research and Development.  Research and development expenses consist of
+personnel related costs, consulting and equipment depreciation, and customer
+relationship management expenses associated with Electronic Arts' product and
+online games. EA.com has research and development expenses incurred by
+Electronic Arts' studios consisting of direct development costs and related
+overhead costs (facilities, network and development management and supervision)
+in connection with the development and production of EA.com online games.
+
+Network Development and Support.  Network development and support costs consist
+of expenses associated with development of web content, depreciation on server
+equipment to support online games, network infrastructure direct expenses and
+depreciation, software licenses and maintenance, and network and management
+overhead.
+
+Cost of Goods Sold. Cost of goods sold as a percentage of revenues decreased to
+49% for the three months ended June 30, 2001 as compared to 50% for the three
+months ended June 30, 2000 due to:
+
+ .  An increase, as a percentage of revenues, of higher margin PlayStation 2
+   products as compared to the prior year.
+ .  High margin advertising revenues for the three months ended June 30, 2001.
+ .  Offset by lower revenues and margins on the PlayStation products.
+ .  Offset by lower margins on PC products compared to the prior year due to
+   high royalties on key products such as Black & White.
+
+Marketing and Sales. Marketing and sales expenses increased in absolute dollars
+by 16% primarily attributed to:
+
+ .  Higher EA.com marketing and sales expenses due to increased staff required
+   to support the live game sites, increased advertising campaigns promoting the
+   Games Channel, and increased marketing and sales related headcount and
+   expenditures associated with Pogo.
+ .  The amortization of the AOL carriage fee which began with the launch of
+   EA.com in October 2000.
+ .  Offset by lower advertising in Japan and Europe, due to large programs in
+   the prior year for FIFA Soccer World Championship and Euro 2000.
+
+General and Administrative. General and administrative expenses increased in
+absolute dollars by 5% primarily due to:
+
+ .  Additional staff and administrative related costs associated with the
+   acquisition of Pogo in February 2001.
+ .  An increase in the bad debt provision due to higher revenues in the current
+   quarter compared to the same period last year.
+
+Research and Development (excluding Network Development and Support and Customer
+Relationship Management). The increase in absolute dollars by 1% for research
+and development expenses (excluding network development and support and customer
+relationship management) was due to a slight increase in development spending
+for next generation console products including development for the PlayStation
+2, Xbox and Nintendo Gamecube,
+
+                                       25
+<PAGE>
+
+offset by a slight decrease in write-offs of royalty advances as compared to the
+same period in the prior fiscal year.
+
+Network Development and Support.  Network development and support expenses
+increased in absolute dollars by 127% due to:
+
+ .  Increased spending on our network infrastructure to support the growth of
+   our live game sites.
+ .  Increased headcount and network-related costs associated with Pogo.
+ .  Depreciation of capitalized costs associated with the pre-launch network
+   infrastructure build.
+ .  Immediate expense recognition of network infrastructure costs compared to the
+   capitalization of costs prior to the EA.com gamesite launch in October 2000
+   as required under Statement of Position 98-1.
+
+Customer Relationship Management.  Customer relationship management expenses
+increased 85% due to the increased headcount to support the growth in the Ultima
+Online subscriber base and the increase in the number of free games and
+subscription offerings.
+
+Amortization of Intangibles. The amortization of intangibles results primarily
+from the acquisitions of Westwood, Pogo, Kesmai, Dreamworks, ABC Software and
+other acquisitions. Amortization of intangibles was $3,205,000 for EA Core and
+$3,270,000 for EA.com for the three months ended June 30, 2001.  The increase in
+the current quarter was due to the acquisition of Pogo.
+
+Interest and Other Income, Net. Interest and other income, net, decreased in
+absolute dollars primarily due to a write-off of an investment in an affiliate
+in the current quarter.
+
+Income Taxes. Our effective tax rate was 31% for the three months ended June 30,
+2001 and 2000.
+
+Net Loss. In absolute dollars, reported net loss increased primarily related to
+higher costs and expenses compared to the same period last year. The increase in
+expenses was due to the development of next generation console products in the
+Core business and the investment in EA.com, including higher network development
+and support costs for new online products and our game site and the Games
+Channel on the AOL service.
+
+Excluding goodwill and non-cash charges in the amount of $4,949,000, net of
+taxes, in the current quarter, net loss would have been $40,305,000. Excluding
+goodwill and non-cash charges in the amount of $3,598,000, net of taxes in the
+prior year, net loss would have been $38,673,000.
+
+                                       26
+<PAGE>
+
+--------------------------------------------------------------------------------
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+  As of June 30, 2001, our working capital was $486,601,000 compared to
+$478,701,000 at March 31, 2001.  Cash, cash equivalents and short-term
+investments decreased by approximately $6,298,000 during the three months ended
+June 30, 2001.  We used $30,185,000 of cash from operations, $15,030,000 of cash
+in capital expenditures, offset by $33,960,000 of cash generated through the
+sale of equity securities under our stock plans during the three months ended
+June 30, 2001.
+
+  Reserves for bad debts and sales returns decreased from $89,833,000 at March
+31, 2001 to $84,596,000 at June 30, 2001. Reserves have been charged for returns
+of product and price protection credits issued for products sold in prior
+periods. Management believes these reserves are adequate based on historical
+experience and its current estimate of potential returns and allowances.
+
+  Our principal source of liquidity is $460,194,000 in cash, cash equivalents
+and short-term investments and $8,768,000 in marketable securities.  Management
+believes the existing cash, cash equivalents, short-term investments, marketable
+securities and cash generated from operations will be sufficient to meet cash
+and investment requirements on both a short-term and long-term basis.
+
+  Included in the amounts above is the following for the EA.com business:
+
+ .  With the exception of the proceeds from the sale of stock and warrant to AOL
+   in fiscal 2000 in the amount of $20,000,000, to date, EA.com has been funded
+   solely by Electronic Arts. This funding has been accounted for as capital
+   contributions from Electronic Arts. Excess cash generated from operations is
+   transferred to Electronic Arts, and has been accounted for as a return of
+   capital. We anticipate these funding procedures will continue in the near-
+   term. However, Electronic Arts may, at its discretion, provide funds to
+   EA.com under a debt arrangement, instead of treating such funding as a
+   capital contribution.
+
+ .  During the three months ended June 30, 2001, EA.com used $28,670,000 of cash
+   in operations, $7,197,000 in capital expenditures for computer equipment,
+   network infrastructure, internal use software and related third party
+   software, offset by $36,349,000 provided through the capital contributions
+   from Electronic Arts. As a result of the net operating loss generated, we
+   realized a tax benefit of approximately $12,151,000.
+
+ .  During the three months ended June 30, 2000, EA.com used $33,942,000 of cash
+   in operations, $36,538,000 in capital expenditures for computer equipment,
+   network infrastructure and related software (including $15,243,000 of
+   consulting hardware, software and direct payroll and payroll-related costs
+   associated with the implementation of customized internal-use software),
+   offset by $68,543,000 provided through the capital contributions from
+   Electronic Arts. As a result of the net operating loss generated, we realized
+   a tax benefit of approximately $7,559,000.
+
+                                       27
+<PAGE>
+
+  Under the AOL agreement entered into in November 1999, EA.com is required to
+pay $50,000,000 to AOL as a carriage fee and $31,000,000 as a minimum guaranteed
+revenue share for revenues generated by subscriptions and other certain
+commercial transactions on the EA.com site. Of these amounts, $25,000,000 in
+carriage fee and $11,000,000 in revenue share were paid upon signing the
+agreement with the remainder of the respective items due in four equal annual
+installments beginning with the first anniversary of the initial payments.
+EA.com paid AOL the first annual carriage payment of $6,250,000 and the first
+annual revenue share payment of $5,000,000 in fiscal 2001.  No payments were
+made to AOL in the three months ended June 20, 2001.
+
+  EA.com also made a commitment to spend $15,000,000 in offline media
+advertisements promoting our online games, including those on the AOL service,
+during the term of the AOL agreement.
+
+  Future liquidity needs of EA.com will be met by Electronic Arts as Electronic
+Arts intends to continue to fund the cash requirements of EA.com for the
+foreseeable future.
+
+
+Impact of Recently Issued Accounting Standards
+
+In June 1998, the Financial Accounting Standards Board ("FASB") issued Statement
+of Financial Accounting Standards No. 133 ("SFAS 133") "Accounting for
+Derivative Instruments and Hedging Activities", as amended by SFAS 137
+"Accounting for Derivative Instruments and Hedging Activities - Deferral of the
+Effective Date of FASB Statement No. 133 - an Amendment of FASB Statement No.
+133" and SFAS 138 "Accounting for Certain Derivative Instruments and Certain
+Hedging Activities - an Amendment of FASB Statement No. 133" which establishes
+accounting and reporting standards for derivative instruments and hedging
+activities.  The terms of SFAS 133 and SFAS 138 are effective as of the
+beginning of the first quarter of the fiscal year beginning after June 15, 2000.
+SFAS 133, as amended, requires that all derivative instruments be recorded on
+the balance sheet at their fair value.  Changes in the fair value of derivatives
+are recorded each period in current earnings or other comprehensive income,
+depending on whether a derivative is designated as part of a hedge transaction
+and, if it is, the type of hedge transaction. The Company utilizes fair value
+foreign exchange contracts to hedge foreign currency exposures of underlying
+assets and liabilities, primarily certain intercompany receivables that are
+denominated in foreign currencies. The Company adopted SFAS 133 on April 1,
+2001.  The adoption of SFAS 133 did not have a material impact on the Company's
+consolidated financial position or results of operations.
+
+In April 2001, the Emerging Issues Task Force issued No. 00-25 ("EITF 00-25"),
+"Accounting for Consideration from a Vendor to a Retailer in Connection with the
+Purchase or Promotion of the Vendor's Products", which states that consideration
+from a vendor to a reseller of the vendor's products is presumed to be a
+reduction of the selling prices of the vendor's products and, therefore, should
+be characterized as a reduction of revenue when recognized in the vendor's
+income statement.  That presumption is overcome and the consideration can be
+categorized as a cost incurred if, and to the extent that, a benefit is or will
+be received from the recipient of the consideration.  That benefit must meet
+certain conditions described in EITF 00-25.  The consensus should be applied no
+later than in annual or interim financial statements for periods beginning after
+December 15, 2001.  The Company is currently evaluating the impact of this
+consensus on its Statements of Operations.
+
+                                       28
+<PAGE>
+
+In June 2001, the FASB issued SFAS 141 "Business Combinations", which addresses
+financial accounting and reporting for business combinations and supersedes
+Accounting Principles Board Opinion No. 16 ("APB 16"), "Business Combinations",
+and SFAS 38, "Accounting for Preacquisition Contingencies of Purchased
+Enterprises". All business combinations in the scope of SFAS 141 are to be
+accounted for using one method, the purchase method. This Statement requires
+that intangible assets be recognized as assets apart from goodwill if they meet
+one of two criteria--the contractual-legal criterion or the separability
+criterion. SFAS 141 also requires disclosure of the primary reasons for a
+business combination and the allocation of the purchase price paid to the assets
+acquired and liabilities assumed by major balance sheet caption. This Statement
+does not change many of the provisions of APB 16 and SFAS 38 related to the
+application of the purchase method. Also, SFAS 141 does not change the
+requirement to write off certain research and development assets acquired in a
+business combination as required by FASB Interpretation No. 4, "Applicability of
+FASB Statement No. 2 to Business Combinations Accounted for by the Purchase
+Method". The provisions of SFAS 141 apply to all business combinations initiated
+after June 30, 2001 and applies to all business combinations accounted for using
+the purchase method for which the date of acquisition is July 1, 2001, or later.
+
+In June 2001, the FASB issued SFAS 142, "Goodwill and Other Intangible Assets",
+which supersedes APB 17, "Intangible Assets".  SFAS 142 addresses the accounting
+treatment for goodwill and other intangible assets acquired individually or with
+a group of other assets upon their acquisition, but not acquired in a business
+combination.  This statement also addresses how goodwill and other intangible
+assets should be accounted for after they have been initially recognized in the
+financial statements. With the adoption of SFAS 142, goodwill is no longer
+subject to amortization over its estimated useful life; rather, goodwill will be
+subject to at least an annual assessment for impairment by applying a fair-
+value-based test. However, equity-method goodwill is not subject to the new
+impairment rules. Also, if the benefit of an intangible asset is obtained
+through contractual or other legal rights, or if the intangible asset can be
+sold, transferred, licensed, rented or exchanged, an acquired intangible asset
+should be separately recognized.  The terms of SFAS 142 are effective as of the
+beginning of the first quarter of the fiscal year beginning after December 15,
+2001.  Certain provisions of SFAS 142 shall be applied to goodwill and other
+acquired intangible assets for which the acquisition date is after June 30,
+2001. The Company is currently determining the effect of SFAS 142 on its
+financial statements.
+
+                                       29
+<PAGE>
+
+--------------------------------------------------------------------------------
+RISK FACTORS
+
+Electronic Arts' business is subject to many risks and uncertainties which may
+affect our future financial performance. Some of those important risks and
+uncertainties which may cause our operating results to vary or which may
+materially and adversely affect our operating results are as follows:
+
+                   Risk Factors Relating to Our Core Business
+
+Platform Transitions Such as the One Now Occurring Typically Depress the Market
+for Video Game Software Until New Platforms Achieve a Wide Market Acceptance
+
+  When new video game platforms are announced or introduced into the market,
+consumers typically reduce their purchases of video games for current platforms
+in anticipation of new platforms being available. During that period, sales of
+our video game products can be expected to slow or even decline until new
+platforms have achieved a wide market and consumer acceptance. We are currently
+in such a transition. Sony shipped its PlayStation 2 product in Japan, North
+America and Europe in calendar year 2000. Nintendo announced that its new
+console system, Nintendo GameCube, will be released in calendar year 2001 in
+Japan and North America and in calendar year 2002 in Europe. Microsoft announced
+that its new console system, Xbox, will be initially released in calendar year
+2001 in North America, followed by releases in Japan and Europe. Delays in the
+launch or shortages of these platforms could also adversely affect our sales of
+products for these platforms. Current sales of our products for the existing
+PlayStation and Nintendo 64 platforms have been adversely affected (by the
+pending introduction of new platforms). We expect this trend to continue until
+one or more of these new consoles achieve a wide installed base of consumers.
+
+New Video Game Platforms Create Additional Technical and Business Model
+Uncertainties
+
+  Large portions of our revenues are derived from the sale of products for play
+on proprietary video game platforms such as the Sony PlayStation. The success of
+our products is significantly affected by acceptance of the new video game
+hardware systems and the life span of older hardware platforms and our ability
+to accurately predict which platforms will be most successful.
+
+  Sometimes we will spend development and marketing resources on products
+designed for new video game systems that have not yet achieved large installed
+bases or will continue product development for older hardware platforms that may
+have shorter life cycles than we expected. Conversely, if we do not develop for
+a platform that achieves significant market acceptance, or discontinue
+development for a platform that has a longer life cycle than expected, our
+revenue growth may be adversely affected.
+
+  For example, the Sega Dreamcast console launched in Japan in early 1999 and in
+the United States in September of 1999. We have developed no products for this
+platform. Had this platform achieved wide market acceptance, our revenue growth
+would have been adversely affected. Similarly, we released a variety of products
+for the new Sony platform, the PlayStation 2.  The shortages of PlayStation 2
+units have adversely affected our results, and if that platform does not achieve
+wide acceptance by consumers, we will have spent a disproportionate amount of
+our resources for this platform.  Similarly, we are developing products for the
+Xbox and Nintendo GameCube.  If these platforms do not achieve wide commercial
+acceptance, our revenue growth will be adversely impacted.
+
+                                       30
+<PAGE>
+
+Product Development Schedules Are Frequently Unreliable and Make Predicting
+Quarterly Results Difficult
+
+  Product development schedules, particularly for new hardware platforms and
+high-end multimedia personal computers, or PCs, are difficult to predict because
+they involve creative processes, use of new development tools for new platforms
+and the learning process, research and experimentation associated with
+development for new technologies. For example, EMPEROR: Battle for Dune for the
+PC, which was expected to ship in fiscal 2001 was not released until the first
+quarter of fiscal 2002 due to development delays. Also, Agent Under Fire for the
+PS2, which was expected to ship in fiscal 2001, is not planned for release until
+fiscal 2002 due to development delays.  Additionally, development risks for CD-
+ROM and DVD products can cause particular difficulties in predicting quarterly
+results because brief manufacturing lead times allow finalizing products and
+projected release dates late in a quarter. Our revenues and earnings are
+dependent on our ability to meet our product release schedules, and our failure
+to meet those schedules could result in revenues and earnings which fall short
+of analysts' expectations for any individual quarter and the fiscal year.
+
+Our Business Is Both Seasonal and Cyclical
+
+  Our business is highly seasonal with a significant percentage of our revenues
+occurring in the December quarter. In fiscal 2002, we expect these seasonal
+trends to be magnified by general industry factors, including the current
+platform transition, anticipated fall launches of the Xbox and Nintendo GameCube
+in North America and the economic slowdown in the United States and other
+territories. In addition, we are continuing to invest significantly in our
+online operation, EA.com. Our business is also cyclical; video game platforms
+have historically had a life cycle of four to six years, and decline as more
+advanced platforms are being introduced. As one group of platforms is reaching
+the end of its cycle and new platforms are emerging, buying patterns may change.
+Purchases of products for older platforms may slow at a faster rate than sales
+of new platforms. We are currently in such a platform transition. Sega
+introduced its latest platform in calendar year 1999, and Sony shipped its
+PlayStation 2 console in Japan, North America and Europe in calendar year 2000.
+Nintendo announced that its new console system, Nintendo GameCube, will be
+released in calendar year 2001 in Japan and North America and in calendar year
+2002 in Europe.  Microsoft announced that its new console system, Xbox, will be
+released in calendar year 2001 in North America and followed by releases in
+Japan and Europe.  Sales of our current products for the current Nintendo and
+Sony platforms have already been adversely affected, and we expect this trend to
+continue.
+
+The Impact of e-Commerce and Online Games on Our Business Is Not Known
+
+  While we do not currently derive significant revenues from online sales of our
+packaged products, we believe that such form of distribution will become a more
+significant factor in our business in the future. E-Commerce is becoming an
+increasingly popular method for conducting business with consumers. How that
+form of distribution will affect the more traditional retail distribution, at
+which we have historically had success, and over what time period, is uncertain.
+In addition, we expect the number and popularity of online games to increase and
+become a significant factor in the interactive games business generally. We do
+not know how that increase generally, or the emerging business of EA.com
+specifically, will affect the sales of packaged goods.
+
+Our Business, Our Products, and Our Distribution Are Subject to Increasing
+Regulation in Key Territories
+
+  Legislation is increasingly introduced which may affect the content of our
+products and their distribution. For example, privacy rules in the United States
+and Europe impose various restrictions on our web sites. Those rules vary by
+territory while of course the Internet recognizes no geographical boundaries.
+Other countries such as Germany have adopted laws regulating content transmitted
+over
+
+                                       31
+<PAGE>
+
+the Internet that are stricter than current United States laws. In the United
+States, in response to recent events, the federal and several state governments
+are considering content restrictions on products such as those made by us as
+well as restrictions on distribution of such products. Any one or more of these
+factors could harm our business.
+
+Our Platform Licensors Are Our Chief Competitors and Frequently Control the
+Manufacturing of Our Video Game Products
+
+  Our agreements with hardware licensors, which are also our chief competitors,
+typically give significant control to the licensor over the approval and
+manufacturing of our products. This fact could, in certain circumstances, leave
+us unable to get our products approved, manufactured and shipped to customers.
+In most events, control of the approval and manufacturing process by the
+platform licensors increases both our manufacturing lead times and costs as
+compared to those we can achieve independently. For example, in prior years, we
+experienced delays in obtaining approvals for and manufacturing of PlayStation
+products which caused delays in shipping those products. The potential for
+additional delay or refusal to approve or manufacture our products continues
+with our platform licensors. Such occurrences would harm our business and
+adversely affect our financial performance. Additionally, we have not negotiated
+a publishing agreement with Nintendo for the Nintendo GameCube platform and we
+do not know whether the terms of this agreement will be favorable.
+
+Proliferation and Assertion of Patents Poses Serious Risks to our Business
+
+  Many patents have been issued that may apply to widely used game technologies.
+Additionally, many recently issued patents are now being asserted against
+Internet implementations of existing games. Several such patents have been
+asserted against us. Such claims can harm our business. We will incur
+substantial expenses in evaluating and defending against such claims, regardless
+of the merits of the claims. In the event that there is a determination that we
+have infringed a third party patent, we could incur significant monetary
+liability and be prevented from using the rights in the future.
+
+
+                  Risk Factors Relating to Our Online Business
+
+Because of EA.com's Limited Operating History, It Will Be Difficult To Evaluate
+its Business and Prospects
+
+  EA.com's business is still in the developing stages, so evaluating its
+business and prospects will be more difficult than would be the case for a more
+mature business. We will continue to encounter the risks and difficulties faced
+in launching a new business, and we may not achieve our goals or may be
+compelled to change the manner in which we seek to develop the business. These
+uncertainties as to the future operations of EA.com will increase the difficulty
+we face in completing and pursuing the essential plans for the development of
+the business and will also make it more difficult for our stockholders and
+securities analysts to predict the operating results of this business.
+
+EA.com Has a History of Losses and Expects To Continue To Incur Losses and May
+Never Achieve Profitability
+
+  EA.com has incurred substantial losses to date, including the first quarter of
+fiscal year 2002. We expect EA.com to continue to incur losses as it develops
+its business. EA.com will be required to maintain the significant support,
+service and product enhancement demands of online users, and we cannot be
+certain that EA.com will produce sufficient revenues from its operations to
+support these costs. Even if profitability is achieved, EA.com may not be able
+to sustain it over a period of time.
+
+                                       32
+<PAGE>
+
+Our Agreements with America Online May Not Prove Successful to the Development
+of EA.com's Business
+
+   We have a series of agreements with America Online ("AOL") for the offering
+of our games for online play. These agreements require that we make substantial
+guaranteed payments to AOL and that we commit our resources to the pursuit of
+the online game opportunity. We cannot be assured that the substantial costs
+associated with the AOL agreements will be justified by the revenues generated
+from that relationship. In addition, restrictions included in the AOL agreements
+limiting other channels we may develop for offering online games may limit our
+ability to diversify our online distribution strategies. The success for us of
+the AOL agreements will also be a result of AOL's performance under the
+agreements, a factor over which we will have very little control.
+
+We Have Very Limited Experience with Online Games and May Not Be Able To Operate
+This Business Effectively
+
+  Offering games solely for online play is a substantial departure from our
+traditional business of selling packaged software games. We have employed
+various pricing models, including subscription fees, ''pay to play fees'' and
+advertising. We have very little experience with developing optimal pricing
+strategies for online games and no experience in ''pay to play'' pricing or in
+securing advertising revenues for online services. Similarly, we are
+inexperienced in predicting usage patterns for our games. Because of our
+inexperience in this area, we may not be effective in achieving success that may
+otherwise be attainable from offering our games online.
+
+Online Games Have Risks That Are Not Associated with Our Traditional Business
+
+  Online games, particularly multiplayer games, pose risks to player enjoyment
+that do not generally apply to packaged game sales.  Players frequently would
+not be acquainted with other players, which may adversely affect the playing
+experience. Social issues raised by a player's conduct may impact the experience
+for other players. We have not determined whether or how we might monitor or
+proctor player behavior that impairs the game experience. In addition, there are
+substantial technical challenges to be met both in the introduction of our games
+online and in maintaining an effective game playing environment over time. Also,
+hacking and spamming has become a serious problem for online sites, and
+significant hacking and spamming could seriously interfere with online game
+play. If these risks are not successfully controlled and technical challenges
+resolved, potential customers for our games may be unwilling to play in
+sufficient volume to allow us to attain or sustain profitability.
+
+We May Not Be Able To Obtain the Required Licenses To Offer Our Games Online
+
+  If we are unable to reach terms with certain licensors for our games, we will
+not be able to offer certain of our games for online play. Many of Electronic
+Arts' most popular games feature characters, trademarks, people or concepts for
+which we have licenses from third parties. As an example, our EA SPORTS products
+typically contain content licensed from a sports and players' association. In
+certain instances, the terms of these licenses will not allow us to offer the
+games for online play without negotiating an additional license. We cannot be
+certain that the licensors will be amenable to a license for online games
+involving their content or, even if they are, that we will be able to reach
+terms with them for such use. We may be forced to agree to terms that ultimately
+materially impair the economic value to us of the online game market.
+
+Proliferation and Assertion of Patents Poses Serious Risks to the Business of
+EA.com
+
+  Many patents have been issued that may apply to widely used Internet
+technologies. Additionally, many recently issued patents are now being asserted
+against Internet implementations of older technologies. Several such patents
+have been asserted against us.  Such claims can harm our business.
+
+                                       33
+<PAGE>
+
+We will incur substantial expenses in evaluating and defending against such
+claims, regardless of the merits of the claims. In the event that there is a
+determination that we have infringed a third party patent, we could incur
+significant monetary liability and be prevented from using the rights in the
+future.
+
+Development of EA.com's Business Will Require Significant Capital, and We Cannot
+Be Assured That It Will Be Available
+
+  EA.com will not be successful if it does not receive the very substantial
+financing that will be required to develop its business. Electronic Arts has
+agreed to provide a limited amount of funding to EA.com, but this financing
+alone may not be sufficient for the development of EA.com's business. Any
+additional funding that is obtained from EA may either be treated as a revolving
+credit advance or would increase EA's retained interest in EA.com and
+correspondingly decrease the interest of the holders of outstanding shares of
+Class B common stock. The attraction of additional equity or debt financing for
+EA.com from third parties may not be possible or may only be possible on terms
+that result in significant dilution to Class A and Class B common stockholders
+or interest or other costs and debt-related restrictions on the operation of the
+business.  To date, nearly all funding (except warrants and cash from revenues)
+has been provided by EA.
+
+If Use of the Internet Does Not Continue To Develop and Reliably Support the
+Demands Placed on It by Electronic Commerce, EA.com's Business Will Be Harmed
+
+  EA.com's success depends upon growth in the use of the Internet as a medium
+for playing games. The use of the Internet for sophisticated games like ours is
+relatively new. Our business would be seriously harmed if:
+
+  . use of the Internet does not continue to increase or increases more slowly
+    than expected,
+
+  . the infrastructure for the Internet does not effectively support online
+    game play,
+
+  . concerns over the secure transmission of confidential information over
+    public networks inhibit the growth of the Internet as a means of conducting
+    commercial transactions, or
+
+  . government regulations regarding Internet content, privacy or other
+    conditions impede the effectiveness of the Internet to users.
+
+Capacity Restraints May Restrict the Use of the Internet as a Forum for Game
+Play, Resulting in Decreased Demand for Our Products
+
+  The Internet infrastructure may not be able to support the demands placed on
+it by increased usage or the limited capacity of networks to transmit large
+amounts of data. Other risks associated with commercial use of the Internet
+could slow its growth, including:
+
+  . outages and other delays resulting from the inadequate reliability of the
+    network infrastructure,
+
+  . slow development of enabling technologies and complementary products, and
+
+  . limited availability of cost-effective, high speed access.
+
+  Delays in the development or adoption of new equipment standards or protocols
+required to handle increased levels of Internet activity, or increased
+governmental regulation, would cause the Internet to fail to gain, or lose,
+viability as a means of game playing. If these or any other factors cause
+
+                                       34
+<PAGE>
+
+use of the Internet for commerce to slow or decline, the Internet may not prove
+viable as a commercial marketplace. This, in turn, would result in decreased
+demand for EA.com's products and services.
+
+To Become and Remain Competitive, EA.com Must Continually Develop and Expand New
+Content. This Is Inherently Risky and Expensive.
+
+  EA.com's success depends on our ability to develop products and services for
+the EA.com site and our ability to continually expand the content on that site.
+Our agreement with AOL requires us to develop new games under our relationship
+with AOL. We cannot assure you that products will be developed on time, in a
+cost effective manner, or that they will be successful.
+
+We May Not Be Able To Respond to Rapid Technological Change
+
+  The market for Internet products and services is characterized by rapid
+technological change and evolving industry standards. Both in completing the
+design and implementation of our network infrastructure and thereafter, we will
+be required to continually improve performance, features, reliability and
+capacity of our network infrastructure. We cannot assure you that we will be
+successful in responding rapidly or in a cost effective manner to such
+developments.
+
+Increasing Governmental Regulation of the Internet Could Limit the Market for
+Our Products
+
+  As Internet commerce continues to evolve, we expect that federal, state and
+foreign governments will adopt laws and regulations covering issues such as user
+privacy, taxation of goods and services provided over the Internet, pricing,
+content and quality of products and services. It is possible that legislation
+could expose companies involved in electronic commerce to liability, taxation or
+other increased costs, any of which could limit the growth of electronic
+commerce generally. Legislation could dampen the growth in Internet usage and
+decrease its acceptance as a communications and commercial medium. If enacted,
+these laws and regulations could limit the market for EA.com's products.
+
+Our Revenues Have Been Heavily Dependent on a Single Product and Would Be
+Adversely Affected if That Product's Popularity Were To Decline
+
+  In the near term, EA.com's revenues to date have consisted primarily of
+revenues from sales of our online product Ultima Online, and we would be
+adversely affected if revenues from that product were to decline for any reason
+and not be replaced. We expect the online game market to become increasingly
+competitive, and it is possible that other producer's current or future games
+could cause our revenue from Ultima Online to decline. In addition, popularity
+of Ultima Online could decline over time simply because of consumer preference
+for new game experiences.
+
+We Invest Very Heavily in Research and Development and Network Technology and
+Operations for EA.com, and We Cannot Be Assured That We Will Achieve Revenues
+That Validate This Level of Spending
+
+   We have invested, and expect to continue to invest, very heavily in research
+and development and network technology and operations for our website and online
+games. We will need to expand EA.com's revenues substantially for it to achieve
+profitability with these levels of expenditure being required, and we may not be
+able to do so. If we cannot increase revenues to profitable levels, the value of
+EA.com will be impaired. In order to develop the broad game offerings that we
+envision for our online operations it will be necessary to engage in significant
+developmental efforts both to adapt existing EA games to the online format and
+to create new online games. Our agreements with AOL require us to maintain a
+substantial commitment to online game development and we cannot be assured that
+we will realize acceptable returns from this investment.
+
+                                       35
+<PAGE>
+
+Online Product Development Schedules Are Unreliable and Make Predicting
+Quarterly Results Difficult
+
+  Online product development schedules, particularly for Internet based games
+are difficult to predict because they involve creative processes, use of new
+development tools, Internet latency issues, a learning process to better
+understand Internet based game mechanics, and research and experimentation
+associated with development for new online technologies. Additionally,
+development risks for Internet based products can cause particular difficulties
+in predicting quarterly results because of the challenges associated with game
+testing, live Beta testing, integration into network servers and integration on
+to the Games web site and may impact the release ("go live") dates of products
+during a particular quarter. Several online products currently under development
+are experiencing development delays and will be released later than planned. Our
+revenues and operating costs are dependent on our ability to meet our product
+"go live" schedules, and our failure to meet those schedules could result in
+revenues falling short of analysts' expectations, with no corresponding decrease
+in expenses, resulting in increased operating losses for EA.com.
+
+
+                              General Risk Factors
+
+Because of the Intense Competition for Qualified Technical, Creative, Marketing
+and Other Personnel, We May Not Be Able To Attract and Retain the Personnel
+Necessary for our Businesses
+
+  The market for technical, creative, marketing and other personnel essential to
+the development of online businesses and management of our online and core
+businesses continues to be extremely competitive, and we may not be able to
+attract and retain the employees we need.  In addition, the cost of real estate
+in the San Francisco Bay area - the location of our headquarters and largest
+studio has increased dramatically, and has made recruiting from other areas and
+relocating employees to our headquarters more difficult.  If we cannot
+successfully recruit and retain the employees we need, our ability to develop
+and manage our businesses will be impaired.
+
+Foreign Sales and Currency Fluctuations
+
+  For the three months ended June 30, 2001 international net revenues comprised
+43% of total consolidated net revenues. For the fiscal year ended March 31,
+2001, international net revenues comprised 37% of total consolidated net
+revenues. We expect foreign sales to continue to account for a significant and
+growing portion of our revenues. Such sales are subject to unexpected regulatory
+requirements, tariffs and other barriers. Additionally, foreign sales are
+primarily made in local currencies which may fluctuate.  While we hedge against
+foreign currency fluctuations, we cannot control translation issues. For
+example, our Japan and Asia Pacific revenues in the first quarter of fiscal 2002
+were adversely impacted by a devaluation of the Yen and Australian Dollar as
+compared to the prior year. The devaluation had an adverse effect for the
+quarter on our sales and net income.  Any of these factors may significantly
+harm our business.
+
+Increased Difficulties in Forecasting Results
+
+   During platform transition periods, where the success of our products is
+significantly impacted by the changing market for our products, forecasting our
+revenues and earnings is more difficult than in more stable or rising product
+markets.   The demand for our products may decline during a transition faster
+than we anticipate, negatively impacting both revenues and earnings. At launch,
+Sony shipped only half of the number of PlayStation 2 units to retail in North
+America than it had originally planned,
+
+                                       36
+<PAGE>
+
+and it shipped significantly fewer units than planned at launch in Europe as
+well. Shortages were announced as being caused by shortages of components for
+manufacturing. Due to these shortages, our results of operations for fiscal 2001
+were adversely affected. Consequently, if Microsoft or Nintendo does not ship
+the number of units planned for the Xbox and Nintendo Gamecube, our sales of
+these products may be adversely affected in fiscal 2002.
+
+  We cannot predict the impact of recent actions and comments by the Securities
+and Exchange Commission (SEC) and FASB
+
+  Recent actions and comments from the SEC have focused on the integrity of
+financial reporting. In addition, the FASB and other regulatory accounting
+agencies have recently introduced several new or proposed accounting standards,
+some of which represent a significant change from current industry practices.
+For example, in April 2001, the Emerging Issues Task Force issued No. 00-25
+("EITF 00-25"), "Accounting for Consideration from a Vendor to a Retailer in
+Connection with the Purchase or Promotion of the Vendor's Products".  EITF 00-25
+states that consideration from a vendor to a reseller of the vendor's products
+is presumed to be a reduction of the selling prices of the vendor's products
+and, therefore, should be characterized as a reduction of revenue when
+recognized in the vendor's income statement.  That presumption is overcome and
+the consideration can be categorized as a cost incurred if, and to the extent
+that, a benefit is or will be received from the recipient of the consideration.
+That benefit must meet certain conditions described in EITF 00-25.  The
+consensus should be applied no later than in annual or interim financial
+statements for periods beginning after December 15, 2001.  The Company is
+currently evaluating the impact of this consensus on its Statement of
+Operations.
+
+  Fluctuations in Stock Price
+
+   Due to analysts' expectations of continued growth and other factors, any
+shortfall in earnings could have an immediate and significant adverse effect on
+the trading price of our common stock in any given period.   As a result of the
+factors discussed in this report and other factors that may arise in the future,
+the market price of our common stock historically has been, and we expect will
+continue to be, subject to significant fluctuations over a short period of time.
+These fluctuations may be due to factors specific to us, to changes in analysts'
+earnings estimates, or to factors affecting the computer, software, Internet,
+entertainment, media or electronics businesses or the securities markets in
+general.  For example, during the fiscal year ended March 31, 2001, the price
+per share of our Class A common stock ranged from $26.59 to $56.13 and $48.31 to
+$63.04 during the three months ended June 30, 2001.
+
+
+Because of these and other factors affecting our operating results and financial
+condition, past financial performance should not be considered a reliable
+indicator of future performance, and investors should not use historical trends
+to anticipate results or trends in future periods.
+
+                                       37
+<PAGE>
+
+Item 3:   Quantitative and Qualitative Disclosures About Market Risk
+
+MARKET RISK
+-----------
+We are exposed to various market risks, including the changes in foreign
+currency exchange rates and interest rates. Market risk is the potential loss
+arising from changes in market rates and prices.  Foreign exchange contracts
+used to hedge foreign currency exposures and short-term investments are subject
+to market risk.  We do not consider our cash and cash equivalents to be subject
+to interest rate risk due to their short maturities. We do not enter into
+derivatives or other financial instruments for trading or speculative purposes.
+
+Foreign Currency Exchange Rate Risk
+
+We utilize foreign exchange contracts to hedge foreign currency exposures of
+underlying assets and liabilities, primarily certain intercompany receivables
+that are denominated in foreign currencies, thereby, limiting our risk.  Gains
+and losses on foreign exchange contracts are reflected in the income statement.
+At June 30, 2001, we had foreign exchange contracts, all with maturities of less
+than four months to purchase and sell approximately $204,110,000 in foreign
+currencies, primarily British Pounds, European Currency Units ("Euros"),
+Canadian Dollars, Japanese Yen and other currencies.
+
+Fair value represents the difference in value of the contracts at the spot rate
+and the forward rate. The counterparties to these contracts are substantial and
+creditworthy multinational commercial banks. The risks of counterparty
+nonperformance associated with these contracts are not considered to be
+material. Notwithstanding our efforts to manage foreign exchange risks, there
+can be no assurances that our hedging activities will adequately protect us
+against the risks associated with foreign currency fluctuations.
+
+The following table below provides information about our foreign currency
+forward exchange contracts at June 30, 2001. The information is provided in U.S.
+dollar equivalents and presents the notional amount (forward amount), the
+weighted average contractual foreign currency exchange rates and fair value.
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------
+                                                                             Weighted-Average
+                                                    Contract Amount            Contract Rate             Fair Value
+-----------------------------------------------------------------------------------------------------------------------
+                                                      (In thousands)                                  (In thousands)
+<S>                                                   <C>                            <C>              <C>
+Foreign currency to be sold under contract:
+  British Pound                                            $122,486                    1.4210                $  715
+  Canadian Dollar                                            22,092                    1.5164                     5
+  Euro                                                       20,766                    0.8652                   385
+  Japanese Yen                                               11,854                  119.7900                   359
+  South African Rand                                          4,351                    8.0448                     -
+  Swedish Krona                                               2,056                   10.6990                    28
+  Norwegian Krone                                             1,519                    9.2169                    18
+  Danish Krone                                                1,035                    8.6956                     8
+  Australian Dollar                                             417                    0.5214                     8
+-----------------------------------------------------------------------------------------------------------------------
+Total                                                      $186,576                                          $1,526
+-----------------------------------------------------------------------------------------------------------------------
+Foreign currency to be purchased under
+ contract:
+  British Pound                                            $ 17,534                    1.4166                $  127
+-----------------------------------------------------------------------------------------------------------------------
+Total                                                      $ 17,534                                          $  127
+-----------------------------------------------------------------------------------------------------------------------
+Grand total                                                $204,110                                          $1,653
+-----------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                                       38
+<PAGE>
+
+While the contract amounts provide one measurement of the volume of these
+transactions, they do not represent the amount of our exposure to credit risk.
+The amounts (arising from the possible inabilities of counterparties to meet the
+terms of their contracts) are generally limited to the amounts, if any, by which
+the counterparties' obligations exceed our obligations as these contracts can be
+settled on a net basis at our option.  We control credit risk through credit
+approvals, limits and monitoring procedures.
+
+Interest Rate Risk
+
+Our exposure to market rate risk for changes in interest rates relates primarily
+to our investment portfolio. We do not use derivative financial instruments in
+our investment portfolio. We manage our interest rate risk by maintaining an
+investment portfolio primarily consisting of debt instruments of high credit
+quality and relatively short average maturities. We also manage our interest
+rate risk by maintaining sufficient cash and cash equivalent balances such that
+we are typically able to hold our investments to maturity. At June 30, 2001, our
+cash equivalents, short-term and long-term investments included debt securities
+of $391,256,000. Notwithstanding our efforts to manage interest rate risks,
+there can be no assurances that we will be adequately protected against the
+risks associated with interest rate fluctuations.
+
+The table below presents the amounts and related weighted average interest rates
+of our investment portfolio at June 30, 2001:
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------
+                                Average
+                          Interest Rate            Cost      Fair Value
+-----------------------------------------------------------------------
+                                  (Dollars in thousands)
+<S>                       <C>                  <C>           <C>
+Cash equivalents
+  Fixed rate                      0.00%        $      -        $      -
+  Variable rate                   3.11%        $319,885        $319,885
+Short-term investments
+  Fixed rate                      4.15%        $ 62,470        $ 62,971
+  Variable rate                   0.00%        $      -        $      -
+Long-term investments
+  Fixed rate                      0.00%        $      -        $      -
+  Variable rate                   6.35%        $  8,400        $  8,621
+-----------------------------------------------------------------------
+</TABLE>
+
+Maturity dates for short-term investments range from 3 months to 13 months.
+
+                                       39
+<PAGE>
+
+PART II - OTHER INFORMATION
+
+Item 1.   Legal Proceedings
+
+          The Company is subject to pending claims and litigation.  Management,
+          after review and consultation with counsel, considers that any
+          liability from the disposition of such lawsuits in the aggregate would
+          not have a material adverse effect upon the consolidated financial
+          position or results of operations of the Company.
+
+
+Item 4.   Submission of Matters to a Vote of Security Holders
+
+          At the Company's Annual Meeting of Stockholders, held on August 1,
+          2001, the stockholders elected the following individuals for one-year
+          terms to the Board of Directors: M. Richard Asher, William J. Byron,
+          Daniel H. Case III, Gary M. Kusin, Timothy Mott, Lawrence F. Probst
+          III, Leonard S. Coleman and Linda J. Srere. These individuals have
+          received a plurality of the votes eligible to vote, voting either in
+          person or by proxy.
+
+          In addition, the following matters were voted upon by the
+          Stockholders:
+
+
+          To amend the 2000 Class A Equity Incentive Plan to increase by
+          6,000,000 the number of shares of the Company's Class A common stock
+          reserved for issuance under the Plan.
+
+<TABLE>
+<CAPTION>
+                                       Votes
+          -----------------------------------------------------------------
+               For                    Against                  Abstain
+               ---                    -------                  -------
+          <S>                       <C>                        <C>
+          70,315,745                56,079,376                 55,395
+</TABLE>
+
+          To ratify the appointment of KPMG LLP as our independent auditors for
+          the current fiscal year.
+
+<TABLE>
+<CAPTION>
+                                       Votes
+          -----------------------------------------------------------------
+               For                    Against                  Abstain
+               ---                    -------                  -------
+          <S>                         <C>                       <C>
+          126,225,725                 211,389                   13,402
+</TABLE>
+
+Item 6.   Exhibits and Reports on Form 8-K
+
+(a)       Exhibits:  None
+(b)       Reports on Form 8-K:  None
+
+                                       40
+<PAGE>
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                                      ELECTRONIC ARTS INC.
+                                      (Registrant)
+
+
+                                      /s/ E. STANTON MCKEE
+                                      ---------------------------------
+DATED:                                E. STANTON MCKEE
+August 14, 2001                       Executive Vice President and
+                                      Chief Financial and Administrative Officer
+
+
+                                       41
+
+</TEXT>
+</DOCUMENT>

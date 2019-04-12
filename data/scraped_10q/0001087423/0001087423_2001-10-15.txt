@@ -1,0 +1,1242 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-Q
+
+
+(Mark One)
+   X        QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+            For the quarter ended August 31, 2001
+                                       OR
+            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+            For the transition period from          to          .
+
+
+
+                        Commission File Number: 0-26281
+
+                                 RED HAT, INC.
+             (Exact name of registrant as specified in its charter)
+
+                                    Delaware
+                            (State of Incorporation)
+
+                                   06-1364380
+                      (I.R.S. Employer Identification No.)
+
+              2600 Meridian Parkway, Durham, North Carolina 27713
+          (Address of principal executive offices, including Zip Code)
+
+                                 (919) 547-0012
+              (Registrant's telephone number, including area code)
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X No
+                                       -
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date:
+
+As of August 31, 2001, there were 170,059,052 shares of common stock
+outstanding.
+<PAGE>
+
+                                 RED HAT, INC.
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                        Page
+                                                                        ----
+
+<S>                                                                     <C>
+PART I - FINANCIAL INFORMATION:
+
+ITEM 1:  FINANCIAL STATEMENTS
+
+
+  Consolidated Balance Sheets at August 31, 2001 (unaudited) and
+  February 28, 2001                                                      3
+
+  Consolidated Statements of Operations for the three and six months
+  ended August 31, 2001 and 2000 (unaudited)                             4
+
+  Consolidated Statements of Cash Flows for the three and six months
+  ended August 31, 2001 and 2000 (unaudited)                             5
+
+  Notes to Consolidated Financial Statements (unaudited)                 6
+
+ITEM 2:  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS                                               11
+
+ITEM 3:  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK     19
+
+PART II - OTHER INFORMATION:
+
+ITEM 5:  OTHER INFORMATION                                              19
+
+SIGNATURES
+</TABLE>
+<PAGE>
+
+PART 1- FINANCIAL INFORMATION
+
+ITEM 1: FINANCIAL STATEMENTS
+
+                                 RED HAT, INC.
+                          CONSOLIDATED BALANCE SHEETS
+                                (In thousands)
+
+<TABLE>
+<CAPTION>
+                                               ASSETS
+                                                                            August, 31          February 28,
+                                                                               2001                 2001
+                                                                           (unaudited)
+                                                                          --------------       ---------------
+<S>                                                                       <C>                  <C>
+Assets:
+   Cash and cash equivalents                                               $    106,534         $     85,213
+   Investments in debt securities
+                                                                                 20,872               62,911
+   Accounts receivable, net                                                      19,207               25,204
+   Subcontractor receivable                                                         557                3,441
+   Inventory                                                                        774                  740
+   Prepaid expenses and other assets                                              3,818                2,172
+                                                                           ------------         ------------
+       Total current assets                                                     151,762              179,681
+   Property and equipment, net                                                   16,741               14,591
+   Goodwill and intangibles, net                                                 82,369              147,397
+   Investments in debt securities                                               172,507              154,557
+   Other assets, net                                                              4,868                9,025
+                                                                           ------------         ------------
+       Total assets                                                        $    428,247         $    505,251
+                                                                           ============         ============
+                                 LIABILITIES AND STOCKHOLDERS' EQUITY
+Liabilities:
+   Accounts payable                                                        $      8,316         $      9,681
+   Accrued expenses                                                               9,892               15,916
+   Deferred revenue                                                               9,425               12,151
+   Short term payable                                                            10,000                2,750
+   Current portion of capital lease obligations                                     537                  194
+                                                                           ------------         ------------
+       Total current liabilities                                                 38,170               40,692
+Capital lease obligations                                                           616                  277
+Commitments and contingencies                                                         -                    -
+Stockholders' equity:
+   Noncontrolling interest in subsidiary                                             63                    -
+   Preferred stock, 5,000,000 shares authorized, none outstanding                     -                    -
+   Common stock, $0.0001 par value, 225,000,000 shares authorized,
+     170,059,052 and 168,485,899 shares issued and outstanding at
+     August 31, 2001 and February 28, 2001, respectively                             17                   17
+   Additional paid-in capital                                                   627,220              643,712
+   Deferred compensation                                                        (11,610)             (36,051)
+   Accumulated deficit                                                         (226,498)            (143,589)
+   Accumulated other comprehensive income (loss)                                    269                  193
+                                                                           ------------         ------------
+       Total stockholders' equity                                               389,461              464,282
+                                                                           ------------         ------------
+       Total liabilities and stockholders' equity                          $    428,247         $    505,251
+                                                                           ============         ============
+</TABLE>
+
+ The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+<PAGE>
+
+                                 RED HAT, INC.
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                   (In thousands - except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                      Three Months Ended                 Six Months Ended
+                                                                 ---------------------------       -----------------------------
+                                                                  August 31,      August 31,        August 31,       August 31,
+                                                                     2001           2000              2001              2000
+                                                                 -----------     -----------       -----------      ------------
+                                                                          (Unaudited)                       (Unaudited)
+<S>                                                              <C>             <C>               <C>              <C>
+Subscription and services revenue:
+    Subscription                                                   $   9,995     $    10,690       $    21,349            20,459
+    Services:
+      Network consulting                                               3,682           6,461             8,878            12,142
+      Embedded development services                                    3,538           4,436             8,236             8,678
+      Open source services                                             3,910           3,367             8,265             5,385
+                                                                   ---------     -----------        ----------      ------------
+      Total subscription and services revenue                         21,125          24,954            46,728            46,664
+                                                                   ---------     -----------        ----------      ------------
+Cost of subscription and services revenue:
+    Subscription                                                       2,472           3,611             5,597             7,361
+    Services                                                           5,526           8,803            13,531            15,896
+    Stock-based services (income) expense                                 (5)              3               (37)               20
+                                                                   ---------     -----------        ----------      ------------
+      Total cost of subscription and services revenue                  7,993          12,417            19,091            23,277
+                                                                   ---------     -----------        ----------      ------------
+Gross profit on subscription and services revenue                     13,132          12,537            27,637            23,387
+                                                                   ---------     -----------        ----------      ------------
+Hardware resale revenue                                                    -              99                 -               548
+Cost of hardware resale revenue                                            -              91                 -               452
+                                                                   ---------     -----------        ----------      ------------
+      Gross profit on hardware resale revenue                              -               8                 -                96
+                                                                   ---------     -----------        ----------      ------------
+Operating expense:
+    Sales and marketing                                                9,329          11,656            20,013            23,818
+    Research and development                                           4,213           3,672             8,510             6,943
+    General and administrative                                         4,223           8,069            14,750            16,094
+    Stock-based sales and marketing expense                              746           1,568             1,837             2,964
+    Stock-based research and development expense                       1,676             223             3,225               509
+    Stock-based general and administrative expense                       754           1,707             1,822             3,634
+    Write-down of Red Hat Venture investments                              -               -             4,250                 -
+    Amortization of goodwill and intangibles                          14,911          11,245            27,989            17,955
+    Restructuring charges                                             36,614               -            36,614                 -
+                                                                   ---------     -----------        ----------      ------------
+      Total operating expense                                         72,466          38,140           119,010            71,917
+                                                                   ---------     -----------        ----------      ------------
+Loss from operations                                                 (59,334)        (25,595)          (91,373)          (48,434)
+                                                                   ---------     -----------        ----------      ------------
+Other income (expense), net                                            4,045           5,624             8,525            11,105
+                                                                   ---------     -----------        ----------      ------------
+Loss before income taxes                                             (55,289)        (19,971)          (82,848)          (37,329)
+Provision for income taxes                                                61              35                61                99
+                                                                   ---------     -----------        ----------      ------------
+Net loss                                                           $ (55,350)    $   (20,006)       $  (82,909)     $    (37,428)
+                                                                   =========     ===========        ==========      ============
+
+Net loss per common share:                                            ($0.33)         ($0.12)           ($0.49)           ($0.23)
+          Basic                                                       ($0.33)         ($0.12)           ($0.49)           ($0.23)
+          Diluted
+Weighted average shares outstanding:
+          Basic                                                      169,968         163,976           169,486           161,720
+          Diluted                                                    169,968         163,976           169,486           161,720
+</TABLE>
+
+ The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+<PAGE>
+
+                                 RED HAT, INC.
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                (In thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                               Three Months Ended
+                                                                                        --------------------------------
+                                                                                          August 31,         August 31,
+                                                                                            2001               2000
+                                                                                         (unaudited)        (unaudited)
+                                                                                        ------------        ------------
+<S>                                                                                     <C>                 <C>
+Cash flows from operating activities:
+      Net loss                                                                            $ (55,350)         $ (20,006)
+Adjustments to reconcile net loss to net cash used in operating activities:
+      Depreciation and amortization                                                          16,368             12,424
+      Non-cash restructuring charges                                                         33,737                  -
+      Write-down of investments                                                                   -                  -
+      Stock-based compensation expense                                                        3,165              3,082
+      Noncontrolling interest in subsidiary                                                      25                  -
+      Provision for doubtful accounts                                                           579                715
+      Provision for inventory obsolescence                                                        -                379
+      Loss on sale of property and equipment                                                      -                 33
+ Changes in operating assets and liabilities:
+      Accounts receivable                                                                     1,196             (9,170)
+      Inventory                                                                                 583                830
+      Prepaid expenses                                                                         (666)               (40)
+      Intangibles and other assets                                                              352               (210)
+      Accounts payable                                                                        3,742             (1,079)
+      Accrued expenses                                                                       (3,412)             2,483
+      Deferred revenue                                                                       (3,213)            (1,503)
+                                                                                          ---------          ---------
+      Net cash used in operating activities                                                  (2,894)           (12,062)
+                                                                                          ---------          ---------
+Cash flows from investing activities:
+    Purchase of investment securities                                                       (91,366)            (1,297)
+    Proceeds from sales and maturities of investment securities                             120,389             15,250
+    Acquisitions of businesses, net of cash acquired                                              -               (557)
+    Purchase of property and equipment                                                       (1,603)            (4,885)
+    Proceeds from sale of equipment                                                               -                 30
+                                                                                          ---------          ---------
+      Net cash (used in) provided by investing activities                                    27,420              8,541
+                                                                                          ---------          ---------
+Cash flows from financing activities:
+    Decrease in stockholders' notes receivable                                                    -                  -
+    Proceeds from notes payable                                                              10,000              3,500
+    Repayments of notes payable                                                                   -               (507)
+    Issuance of notes receivable                                                               (866)
+    Proceeds from issuance of common stock by PTI                                                 -                (56)
+    Proceeds from issuance of common stock under Employee Stock Purchase Plan                     -                  -
+    Proceeds from exercise of common stock options and warrants                                 470              1,038
+    Payment of dividends to PTI shareholders                                                      -                  -
+    Payments on capital lease obligations                                                      (159)               (52)
+                                                                                          ---------          ---------
+      Net cash provided by financing activities                                               9,445              3,923
+                                                                                          ---------          ---------
+
+Effect of foreign currency exchange rates on cash and cash equivalents                          104               (546)
+Net (decrease) increase in cash and cash equivalents                                         34,075               (144)
+Cash and cash equivalents at beginning of the period                                         72,459            109,990
+                                                                                          ---------          ---------
+Cash and cash equivalents at end of period                                                $ 106,534          $ 109,846
+                                                                                          =========          =========
+<CAPTION>
+                                                                                              Six Months Ended
+                                                                                      --------------------------------
+                                                                                        August 31,       August 31,
+                                                                                          2001             2000
+                                                                                       (unaudited)      (unaudited)
+                                                                                      -------------    --------------
+<S>                                                                                   <C>              <C>
+Cash flows from operating activities:
+      Net loss                                                                          $ (82,909)        $ (37,428)
+Adjustments to reconcile net loss to net cash used in operating activities:
+      Depreciation and amortization                                                        34,376            20,098
+      Non-cash restructuring charges                                                       33,737                 -
+      Write-down of investments                                                             4,250                 -
+      Stock-based compensation expense                                                      6,678             6,145
+      Noncontrolling interest in subsidiary                                                    62                 -
+      Provision for doubtful accounts                                                         805             1,837
+      Provision for inventory obsolescence                                                      -               545
+      Loss on sale of property and equipment                                                    -                74
+ Changes in operating assets and liabilities:
+      Accounts receivable                                                                   8,741           (17,607)
+      Inventory                                                                               (35)             (190)
+      Prepaid expenses                                                                       (781)              (96)
+      Intangibles and other assets                                                           (240)           (3,132)
+      Accounts payable                                                                     (2,030)           (6,908)
+      Accrued expenses                                                                     (5,069)            7,572
+      Deferred revenue                                                                     (2,725)              714
+                                                                                        ---------         ---------
+      Net cash used in operating activities                                                (5,140)          (28,376)
+                                                                                        ---------         ---------
+Cash flows from investing activities:
+    Purchase of investment securities                                                    (178,414)         (228,092)
+    Proceeds from sales and maturities of investment securities                           202,955           116,363
+    Acquisitions of businesses, net of cash acquired                                         (994)            4,907
+    Purchase of property and equipment                                                     (4,229)           (7,268)
+    Proceeds from sale of equipment                                                             -                30
+                                                                                        ---------         ---------
+      Net cash (used in) provided by investing activities                                  19,318          (114,060)
+                                                                                        ---------         ---------
+Cash flows from financing activities:
+    Decrease in stockholders' notes receivable                                                  -                67
+    Proceeds from notes payable                                                            10,000             3,500
+    Repayments of notes payable                                                            (2,750)             (507)
+    Issuance of notes receivable                                                             (866)                -
+    Proceeds from issuance of common stock by PTI                                               -             1,208
+    Proceeds from issuance of common stock under Employee Stock Purchase Plan                   -                97
+    Proceeds from exercise of common stock options and warrants                             1,271             3,877
+    Payment of dividends to PTI shareholders                                                    -            (3,850)
+    Payments on capital lease obligations                                                    (138)              (92)
+                                                                                        ---------         ---------
+      Net cash provided by financing activities                                             7,517             4,300
+                                                                                        ---------         ---------
+Effect of foreign currency exchange rates on cash and cash equivalents                       (374)             (448)
+Net (decrease) increase in cash and cash equivalents                                       21,321          (138,584)
+Cash and cash equivalents at beginning of the period                                       85,213           248,430
+                                                                                        ---------         ---------
+Cash and cash equivalents at end of period                                              $ 106,534         $ 109,846
+                                                                                        =========         =========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+<PAGE>
+
+NOTE 1-Organization
+
+Red Hat, Inc. and its subsidiaries ("Red Hat" or the "Company") offer users one
+single, trusted point of contact and a common platform for developing, deploying
+and managing open source software across Internet infrastructure and devices
+that connect to the Internet, ranging from small embedded devices to high
+availability clusters and the mainframe computer.  The Red Hat Network, Red
+Hat's unique web based system management technology, helps companies worldwide
+easily manage all of their Red Hat Linux servers and appliances by delivering
+open source products, service, support and information on-line in real-time.
+Red Hat was incorporated in Connecticut in March 1993 as ACC Corp., Inc.  In
+September 1995, the Company changed its name to Red Hat Software, Inc.  In
+September 1998, the Company reincorporated in Delaware.  In June 1999, the
+Company changed its name to Red Hat, Inc.
+
+
+NOTE 2-Summary of Significant Accounting Policies
+
+Unaudited Interim Financial Information
+
+The interim consolidated financial statements as of August 31, 2001 have been
+prepared by the Company pursuant to the rules and regulations of the Securities
+and Exchange Commission (the "SEC") for interim financial reporting.  These
+consolidated statements are unaudited and, in the opinion of management, include
+all adjustments (consisting of normal recurring adjustments and accruals)
+necessary to present fairly the consolidated balance sheets, consolidated
+operating results, and consolidated cash flows for the periods presented in
+accordance with generally accepted accounting principles.  The consolidated
+balance sheet at February 28, 2001 has been derived from the audited
+consolidated financial statements at that date.  Operating results for the three
+and six month periods ended August 31, 2001 are not necessarily indicative of
+the results that may be expected for the year ending February 28, 2002.  Certain
+information and footnote disclosures normally included in financial statements
+prepared in accordance with generally accepted accounting principles have been
+omitted in accordance with the rules and regulations of the SEC.  These interim
+consolidated financial statements should be read in conjunction with the
+consolidated financial statements and notes thereto for the year ended February
+28, 2001.
+
+Principles of Consolidation
+
+The accompanying consolidated financial statements include the accounts of the
+Company and all of its wholly-owned subsidiaries.  All significant intercompany
+accounts and transactions are eliminated in consolidation.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Revenue Recognition
+
+Subscription revenue includes revenue from the sale of software products for
+which no technical support is provided and is generally recognized upon shipment
+of the products, net of a reserve for estimated returns.  A reserve for sales
+returns is recognized for sales of software products to distributors, who have a
+right of return, based on the Company's historical experience of sell-through to
+the end user by the distributor.
+
+The Company provides certain support and subscription services with Red Hat
+Linux for a period of time,
+<PAGE>
+
+not exceeding six months, from the date of registration of the software products
+for no additional fee. In accordance with the provisions of Statement of
+Position No. 97-2, "Software Revenue Recognition" ("SOP 97-2") as amended by SOP
+98-4 and SOP 98-9, the Company is recognizing all of the revenue from the sale
+of Red Hat Linux ratably over the period that the support and subscription
+services are provided.
+
+Web advertising revenue, which is included in subscription revenue, is
+recognized ratably in the period in which the advertisement is displayed,
+provided that the Company has no significant remaining obligations, at the
+lesser of the ratio of connections to the advertiser's website delivered over
+total guaranteed connections to the advertiser's website or the straight line
+basis over the term of the contract. If minimum guaranteed connections are not
+met, the Company defers recognition of the corresponding revenue until the
+guaranteed connections are achieved.
+
+Network consulting revenue is comprised of revenue for planning, design, and
+implementation of computer network systems.  Network consulting revenue is
+recognized as the consultants provide services.  Provisions for estimated losses
+on uncompleted contracts are made in the period in which such losses are
+determined.
+
+Embedded development services is comprised of revenue for software compiling,
+debugging and optimization contracts ("Development Contracts").  Revenue for
+Development Contracts is recognized on the percentage-of-completion method,
+provided that the fee for such services is fixed or determinable and the
+collection of the resulting receivable is probable.
+
+Open source services is comprised of revenue for migration assessment services,
+customer training and education, and royalty revenue.  Revenue for migration
+assessment services are recognized as the services are performed.  Revenue from
+customer training and education and other services is recognized at the date the
+services are performed.  Royalty revenue is recognized when received.
+
+Hardware resale revenue was recognized based on the shipping terms of the
+product.  Effective February 28, 2001, the Company migrated from a value added
+reseller to a pure professional services company.  Therefore, no hardware resale
+revenue was generated in fiscal 2002.
+
+Net Loss Per Common Share
+
+The Company computes net loss per common share in accordance with Statement of
+Financial Accounting Standards No. 128, "Earnings Per Share" ("SFAS 128"), and
+SEC Staff Accounting Bulletin No. 98 ("SAB 98").  Under the provisions of SFAS
+128 and SAB 98, basic net loss per common share ("Basic EPS") is computed by
+dividing net loss available to common stockholders by the weighted average
+number of common shares outstanding.  Diluted net loss available to common
+stockholders per common share ("Diluted EPS") is computed by dividing net loss
+by the weighted average number of common shares outstanding and dilutive
+potential common share equivalents.  Potential common shares consist of shares
+issuable upon the exercise of stock options and warrants and shares issuable
+upon conversion of outstanding mandatorily redeemable preferred stock.  The
+calculation of net loss per share available to common stockholders does not
+include 8,283,496 and 16,014,207 potential shares of common stock equivalents
+for the three month periods ended August 31, 2001 and 2000, respectively, and
+8,406,021 and 16,353,799 potential shares of common stock equivalents for the
+six month periods ended August 31, 2001 and 2000, respectively, as their impact
+would be antidilutive.
+<PAGE>
+
+Segment Reporting
+
+Management identifies its operating segments primarily based on differences in
+the nature of its products and services and on geographical location.  The
+Company's operating segments are subscription, network consulting, embedded
+development services, and open source services.  Performance of these segments
+is evaluated based on their respective gross margins.  The following table
+presents the revenues, costs and gross margins of network consulting, embedded
+development services, and open source services for the three and six month
+periods ended August 31, 2001 and 2000, respectively.
+
+<TABLE>
+<CAPTION>
+                    (In thousands)                        Three Months       Three Months
+                                                              Ended             Ended
+                                                         August 31, 2001   August 31, 2000
+                                                        -----------------  ----------------
+
+<S>                                                     <C>                <C>
+Network consulting revenue............................             $3,682            $6,461
+Cost of network consulting revenue....................              2,305             4,625
+                                                       ------------------------------------
+Gross margin..........................................             $1,377            $1,836
+
+Embedded development services revenue.................             $3,538            $4,436
+Cost of embedded development services revenue.........              1,320             2,628
+                                                       ------------------------------------
+Gross margin..........................................             $2,218            $1,808
+
+Open source services..................................             $3,910            $3,367
+Cost of open source services revenue..................              1,901             1,550
+                                                       ------------------------------------
+Gross margin..........................................             $2,009            $1,817
+
+<CAPTION>
+
+                                                        Six Months Ended   Six Months Ended
+                                                         August 31, 2001   August 31, 2000
+                                                        -----------------  ----------------
+<S>                                                     <C>                <C>
+Network consulting revenue............................             $8,878           $12,142
+Cost of network consulting revenue....................              5,417             8,105
+                                                       ------------------------------------
+Gross margin..........................................             $3,461           $ 4,037
+
+Embedded development services revenue.................             $8,236           $ 8,678
+Cost of embedded development services revenue.........              3,737             5,044
+                                                       ------------------------------------
+Gross margin..........................................             $4,499           $ 3,634
+
+Open source services..................................             $8,265           $ 5,385
+Cost of open source services revenue..................              4,377             2,747
+                                                       ------------------------------------
+Gross margin..........................................             $3,888           $ 2,638
+</TABLE>
+
+
+Information on the subscription segment is presented on the Consolidated
+Statement of Operations.
+
+Management evaluates the Company's assets on a consolidated basis only.
+Accordingly, no information has been provided and no allocations have been made
+related to segment assets.  There were no transactions entered into between the
+Company's operating segments.
+<PAGE>
+
+The Company has international sales offices in the United Kingdom, Ireland,
+Germany, Hong Kong, Australia, and Japan. The following disclosure aggregates
+individually immaterial international operations and separately discloses the
+significant international operations at and for the three and six month periods
+ended August 31, 2001.
+
+(In thousands)
+
+<TABLE>
+<CAPTION>
+                              North                               Asia Pacific
+                             America              Europe           and Japan                         Total
+                             -------              ------           ---------                         -----
+
+                                                Three Months Ended August 31, 2001
+                                                ----------------------------------
+<S>                                    <C>                 <C>                  <C>                   <C>
+Revenues from unaffiliated             $ 16,102            $2,996               $ 2,027               $ 21,125
+ customers....................
+Net loss available to common           $(54,248)           $  (81)              $(1,021)              $(55,350)
+ stockholders.................
+Total assets..................         $418,685            $7,104               $ 2,458               $428,247
+
+<CAPTION>
+                                                 Six Months Ended August 31, 2001
+                                                 --------------------------------
+<S>                                    <C>                 <C>                   <C>                  <C>
+Revenues from unaffiliated             $ 36,052            $6,102                $4,574               $ 46,728
+ customers....................
+Net loss available to common           $(81,094)           $ (884)               $ (931)              $(82,909)
+ stockholders.................
+Total assets..................         $418,685            $7,104                $2,458               $428,247
+</TABLE>
+
+
+Comprehensive Income
+
+The Company's items of accumulated other comprehensive income (loss) during the
+three months ended August 31, 2001 totaled $269,348 and are comprised of an
+unrealized gain on investments in marketable securities of $1,728,456 and a
+foreign currency translation adjustment of ($1,459,108).  The Company's items of
+other comprehensive income (loss) during the three months ended August 31, 2000
+totaled ($541,145) and are comprised of an unrealized loss on investments in
+marketable securities of ($153,219) and a foreign currency translation
+adjustment of ($387,926).
+
+Recent Accounting Pronouncements
+
+In July 2001, the Financial Accounting Standards Board (FASB) issued Statement
+of Financial Accounting Standards (SFAS) No. 141, "Business Combinations," and
+SFAS No. 142, "Goodwill and Other Intangible Assets."  These standards become
+effective for fiscal years beginning after December 15, 2001.  Beginning in the
+first quarter of fiscal 2003, goodwill will no longer be amortized but will be
+subject to annual impairment tests.  All other intangible assets will continue
+to be amortized over their estimated useful lives.  The new rules also require
+business combinations initiated after June 30, 2001 to be
+<PAGE>
+
+accounted for using the purchase method of accounting and goodwill acquired
+after June 30, 2001 will not be amortized. Goodwill existing at June 30, 2001,
+will continue to be amortized through the end of fiscal 2002. Through the end of
+fiscal 2002, the Company will test goodwill for impairment using the current
+method, which uses an undiscounted cash flow test. During fiscal 2003, the
+Company will begin to test goodwill for impairment under the new rules, applying
+a fair-value-based test. Based on acquisitions completed as of June 30, 2001,
+application of the goodwill non-amortization provisions of these rules is
+expected to result in a material increase in net income in fiscal 2003.
+
+In October 2001, the FASB issued SFAS No. 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets."  This standard becomes effective for fiscal
+years beginning after December 15, 2001.  This Statement supersedes SFAS No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to Be Disposed Of", and the accounting and reporting provisions of
+Accounting Principles Board Opinion No. 30, "Reporting the Results of Operations
+-- Reporting the Effects of Disposal of a Segment of a Business, and
+Extraordinary, Unusual and Infrequently Occurring Events and Transactions", for
+the disposal of a segment of a business.  This Statement requires that one
+accounting model be used for long-lived assets to be disposed of by sale,
+whether previously held and used or newly acquired, and by broadening the
+presentation of discontinued operations to include more disposal transactions.
+The adoption of this standard is not expected to have a material effect on the
+Company's results of operations, financial position or cash flow.
+
+
+NOTE 3-Restructuring Charges
+
+In August 2001, the Company recorded a restructuring charge of $36.6 million.
+This restructuring charge was primarily due to a sharpening of the Company's
+focus on two primary areas, UNIX to Linux migration opportunities in significant
+enterprises and delivering complete solutions for the embedded system market.
+The restructuring charge consists of an impairment of $33.8 million in the
+carrying value of goodwill and intangibles related to acquisitions made in prior
+periods and $2.8 million in severance and related expenses.  Substantially all
+of the severance and related expenses were paid by the Company as of August 31,
+2001.
+
+
+NOTE 4-Short Term Payable
+
+In August 2001, the Company entered into a $10.0 million line of credit with a
+financial institution.  This line of credit is secured by certain of our fixed-
+income investments.  The line bears interest at monthly LIBOR plus 1%.  This
+line is available to the Company for up to 12 months and is to be used to
+provide additional working capital liquidity.  At August 31, 2001, $10.0 million
+was outstanding under the line of credit, all of which was repaid subsequent to
+August 31, 2001.
+
+
+NOTE 5-Legal Contingencies
+
+Planning Technologies, Inc. ("PTI"), a wholly-owned subsidiary of the Company
+acquired in February, 2001, along with its former directors and some of its
+former principal shareholders is a defendant in a suit brought by a former
+employee.  The plaintiff asserts, among other things, breach of various
+employment agreements.  The Company believes the claims are without merit and is
+vigorously defending itself and the former directors of PTI.  The Company
+further believes that that likelihood of a material loss is remote.
+
+Subsequent to the end of fiscal 2001, the Company and certain of its officers
+and directors were named as defendants in a class action suit.  The plaintiff
+contends that the defendants violated federal securities laws by issuing a
+registration statement and prospectus that contained materially false and
+misleading information and failed to disclose material information.  The
+prospectus was issued in connection with the Company's initial public offering
+in August 1999. The Company believes that the complaints are without merit and
+intends to vigorously defend itself and its officers and directors. The Company
+further believes that that likelihood of a material loss is remote.
+<PAGE>
+
+ITEM 2 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations contains forward-looking statements that involve known and unknown
+risks and uncertainties, including statements regarding Red Hat's strategy,
+financial performance, and revenue sources.  These risks and uncertainties may
+cause Red Hat's actual results to differ materially from any forward-looking
+statements.  These risks and uncertainties include, without limitation, the
+risks detailed below and in Red Hat's other filings with the Securities and
+Exchange Commission (the "SEC"), copies of which may be accessed through the
+SEC's web site at http://www.sec.gov.
+                  ------------------
+
+
+Three Months Ended August 31, 2001 and August 31, 2000
+
+
+Total revenue
+
+Total revenue decreased 15.7% to $21.1 million in the three months ended August
+31, 2001 from $25.1 million in the three months ended August 31, 2000.  Revenue
+from international operations totaled $5.0 million during the three months ended
+August 31, 2001 as compared to $3.6 million for the three months ended August
+31, 2000.
+
+Subscription revenue
+
+Subscription revenue is comprised primarily of revenue from sales of Red Hat
+Linux and related software products, sales of software development tools,
+technical support and maintenance fees, and web advertising revenue.
+Subscription revenue decreased 6.5% to $10.0 million in the three months ended
+August 31, 2001 from $10.7 million in the three months ended August 31, 2000.
+This decrease was primarily due to the timing of the release of Version 7.1 of
+Red Hat Linux in April 2001.  Sales of the latest version of Red Hat Linux
+typically decline in the second quarter of a release's product life.  As a
+percentage of total revenue, subscription revenue increased to 47.3% in the
+three months ended August 31, 2001 from 42.7% in the three months ended August
+31, 2000.  The increase in subscription revenue as a percentage of total revenue
+is primarily a result of services revenues decreasing at a faster rate than
+subscription revenues.
+
+Services revenue
+
+Services revenue is primarily comprised of network consulting, embedded
+development services, and open source services revenues.  Services revenue
+decreased 22.0% to $11.1 million in the three months ended August 31, 2001 from
+$14.3 million in the three months ended August 31, 2000.  As a percentage of
+total revenue, services revenue decreased to 52.7% in the three months ended
+August 31, 2001 from 56.9% in the three months ended August 31, 2000.  The
+decrease in services revenue in total and as a percentage of total revenue
+resulted primarily from a decrease in network consulting and embedded
+development services revenues.  The decrease in network consulting revenue is
+related to several factors which include a decrease in investment by corporate
+customers in information technology systems and the concentration of our selling
+efforts on higher margin strategic consulting projects.  The decrease in
+embedded development services is primarily due to the continued weak performance
+of the semiconductor industry which has impacted research and development
+spending.
+
+Cost of revenue
+
+Cost of subscription revenue
+
+Cost of subscription revenue consists of expenses we incur to manufacture,
+package and distribute our
+<PAGE>
+
+products and related documentation. These costs include expenses for physical
+media, literature and packaging, fulfillment and shipping, and labor related
+costs to provide technical support and maintenance. Also included are the cost
+of developing advertising on our web site and royalties we pay for licensing
+third-party applications included in our software products. Cost of subscription
+revenue decreased 31.5% to $2.5 million in the three months ended August 31,
+2001 from $3.6 million in the three months ended August 31, 2000. As a
+percentage of subscription revenue, cost of subscription revenue decreased to
+24.7% in the three months ended August 31, 2001 from 33.8% in the three months
+ended August 31, 2000. These decreases were directly related to a reduction in
+expenses incurred for physical media, literature, packaging and fulfillment, as
+well as efficiencies gained in providing technical support and maintenance of
+our products on-line and through global consolidation of our support and
+maintenance function.
+
+Cost of services revenue
+
+Cost of services revenue is primarily comprised of salaries and related costs--
+including non-cash, stock-based compensation charges--incurred for our personnel
+to deliver embedded development, network consulting and engineering, and open
+source services.  Cost of services revenue decreased 37.2% to $5.5 million in
+the three months ended August 31, 2001 from $8.8 million in the three months
+ended August 31, 2000.  This decrease was primarily due to the reduction of
+personnel to provide embedded development, network consulting and engineering,
+and the development of our open source services organization.  As a percentage
+of services revenue, cost of services revenue decreased to 49.6% in the three
+months ended August 31, 2001 from 61.7% in the three months ended August 31,
+2000.  This decrease was primarily due to an increase in the utilization rate of
+our network consulting and engineering personnel.
+
+Gross Profit
+
+Gross profit increased 4.7% to $13.1 million in the three months ended August
+31, 2001 from $12.5 million in the three months ended August 31, 2000.  As a
+percentage of total revenue, gross profit increased to 62.2% in the three months
+ended August 31, 2001 from 50.1% in the three months ended August 31, 2000.
+These increases were primarily the result of our focus on operational efficiency
+and in selling more strategic, higher margin project offerings to major
+enterprise customers.  The increase in gross profit as a percentage of total
+revenue is also due to the decreasing reliance upon hardware resale revenue, as
+these revenues generate significantly lower margins than do the Company's other
+sources of revenue.
+
+Operating expense
+
+Sales and marketing
+
+Sales and marketing expense consists primarily of salaries and other related
+costs--including non-cash, stock-based compensation charges--for sales and
+marketing personnel, sales commissions, travel, public relations and marketing
+materials and tradeshows.  Sales and marketing expense decreased 23.8% to $10.1
+million in the three months ended August 31, 2001 from $13.2 million in the
+three months ended August 31, 2000.  As a percentage of total revenue, sales and
+marketing expense decreased to 47.7% in the three months ended August 31, 2001
+from 52.8% in the three months ended August 31, 2000.  These decreases in sales
+and marketing expense were primarily due to a reduction in redundant marketing
+personnel and variable costs.  These personnel came from acquisitions completed
+in late fiscal 2001.
+
+Research and development
+
+Research and development expense consists primarily of personnel and related
+costs--including non-cash, stock-based compensation charges--for development of
+our software products and web site.  Research and development expense increased
+51.2% to $5.9 million in the three months ended August 31, 2001 from $3.9
+million in the three months ended August 31, 2000.  As a percentage of total
+revenue, research and development expense increased to 27.9% in the three months
+ended August 31, 2001 from
+<PAGE>
+
+15.5% in the three months ended August 31, 2000. The increase in research and
+development expense resulted from increased spending related to the development
+of our e-commerce and database solutions, costs incurred to complete the
+development of Version 7.2 of Red Hat Linux, and an increase in stock-based
+compensation expense related to amortization of deferred compensation associated
+with acquisitions made in late fiscal 2001.
+
+General and administrative
+
+General and administrative expense consists primarily of personnel and related
+costs--including non-cash, stock-based compensation charges--for general
+corporate functions, including finance, accounting, legal, human resources,
+facilities and information systems expenses and merger and acquisition costs.
+General and administrative expense decreased 54.8% to $4.4 million in the three
+months ended August 31, 2001 from $9.8 million in the three months ended August
+31, 2000.  This decrease resulted from:
+
+     .    a decrease in payroll-related information systems expenses;
+
+     .    a reduction in redundant general and administrative personnel
+          resulting from acquisitions completed in fiscal 2001;
+
+     .    a decrease in merger and acquisition expense; and
+
+     .    a decrease in stock-based compensation expense.
+
+As a percentage of total revenue, general and administrative expense decreased
+to 20.9% in the three months ended August 31, 2001 from 39.0% in the three
+months ended August 31, 2000.  We expect general and administrative expense,
+excluding merger and acquisition costs, to decrease as a percentage of revenue
+as our revenues continue to increase.
+
+Amortization of goodwill and intangibles
+
+Amortization of goodwill and intangibles consists of the amortization of
+goodwill and other intangible assets.  Goodwill, which represents the excess of
+acquisition cost over the net assets acquired in business combinations, is
+amortized over its estimated useful life which is three years.  Costs incurred
+for acquiring trademarks, copyrights and patents are capitalized and amortized
+using the straight line method over their estimated useful lives, which range
+from three to five years.  Amortization of goodwill and intangibles increased
+32.6% to $14.9 million in the three months ended August 31, 2001 from $11.2
+million in the three months ended August 31, 2000.  As a percentage of total
+revenue, amortization of goodwill and intangibles expense increased to 70.6% in
+the three months ended August 31, 2001 from 44.9% in the three months ended
+August 31, 2000.  These increases were primarily due to acquisitions completed
+in the fiscal year ended February 28, 2001.  Based on acquisitions completed as
+of August 31, 2001, amortization of goodwill and intangibles is expected to
+$10.9 million in the third and fourth quarters of the fiscal year ended February
+28, 2002.  Beginning in the first quarter of fiscal 2003, goodwill will no
+longer be amortized but will be subject to annual impairment tests.  All other
+intangible assets will continue to be amortized over their estimated useful
+lives.
+
+Restructuring charges
+
+Restructuring charges consists of an impairment of $33.8 million in the carrying
+value of goodwill and intangibles related to acquisitions made in prior periods
+and $2.8 in severance and related expenses.  Restructuring charges increased to
+$36.6 million in the three months ended August 31, 2001, excluding $0.5 million
+in mergers and acquisitions expense, from zero in the three months ended August
+31, 2001.  As a percentage of total revenue, restructuring charges increased to
+176.0% in the three months ended August 31, 2001 from zero in the three months
+ended August 31, 2000.  These restructuring costs were incurred primarily due to
+a sharpening of the Company's focus on two primary areas, UNIX to Linux
+<PAGE>
+
+migration opportunities with major enterprise customers and delivering complete
+solutions for the embedded system market.
+
+Other income (expense), net
+
+Other income (expense), net consists of interest income earned on cash deposited
+in money market accounts and other short and long-term investments, net of
+interest expense incurred on capital leases and net foreign currency
+gains/losses.  Other income (expense), net decreased 28.1% to income of $4.0
+million in the three months ended August 31, 2001 from income of $5.6 million in
+the three months ended August 31, 2000.  As a percentage of total revenue, other
+income (expense), net decreased to 19.1% in the three months ended August 31,
+2001 from 22.4% in the three months ended August 31, 2000.  These decreases
+resulted from lower average cash and investment balances in the three months
+ended August 31, 2001 as compared to the three months ended August 31, 2000 due
+primarily to the use of a portion of the proceeds from the sale of common stock
+in our initial and secondary public offerings in August 1999 and February 2000
+to fund operations and reductions in short-term interest rates resulting from
+actions taken by the Federal Reserve Board during the second quarter of fiscal
+2002 as compared to the second quarter of fiscal 2001.
+
+Provision for income taxes
+
+Provision for income taxes increased to $61,000 for the three months ended
+August 31, 2001 from $35,000 in the three months ended August 31, 2000.  The
+increase in provision for income taxes for the three months ended August 31,
+2001 was primarily due to a increase in foreign taxes paid.
+
+
+Six Months Ended August 31, 2001 and August 31, 2000
+
+
+Total revenue
+
+Total revenue decreased 1.0% to $46.7 million in the six months ended August 31,
+2001 from $47.2 million in the six months ended August 31, 2000.  Revenue from
+international operations totaled $10.7 million during the six months ended
+August 31, 2001 as compared to $6.7 million for the six months ended August 31,
+2000.
+
+Subscription revenue
+
+Subscription revenue increased 4.4% to $21.3 million in the six months ended
+August 31, 2001 from $20.5 million in the six months ended August 31, 2000.
+This increase was primarily due to the release of Version 7.1 of Red Hat Linux
+in April 2001, growth of our international operations, and introduction of new
+open source offerings during the six months ended August 31, 2001.  As a
+percentage of total revenue, subscription revenue increased to 45.7% in the six
+months ended August 31, 2001 from 43.3% in the six months ended August 31, 2000.
+This increase in subscription revenue as a percentage of total revenue is
+primarily a result of the timing of our product releases and the growth in our
+support revenue.
+
+Services revenue
+
+Services revenue decreased 3.2% to $25.4 million in the six months ended August
+31, 2001 from $26.2 million in the six months ended August 31, 2000.  As a
+percentage of total revenue, services revenue decreased to 54.3% in the six
+months ended August 31, 2001 from 55.5% in the six months ended August 31, 2000.
+The decrease in services revenue in total and as a percentage of total revenue
+resulted primarily from a decrease in network consulting and embedded
+development services revenues.  The decrease in network consulting revenue is
+related to several factors which include a decrease in investment by corporate
+customers in information technology systems and the concentration of our selling
+<PAGE>
+
+efforts on higher margin strategic consulting projects.  The decrease in
+embedded development services is primarily due to the continued weak performance
+of the semiconductor industry which has impacted research and development
+spending.  This decrease was partially offset by an increase in open source
+services resulting from increase enrollment in our Red Hat Certified Engineer
+program.
+
+Cost of revenue
+
+Cost of subscription revenue
+
+Cost of subscription revenue decreased 24.0% to $5.6 million in the six months
+ended August 31, 2001 from $7.4 million in the six months ended August 31, 2000.
+As a percentage of subscription revenue, cost of subscription revenue decreased
+to 26.2% in the six months ended August 31, 2001 from 36.0% in the six months
+ended August 31, 2000.  These decreases were directly related to a reduction in
+expenses incurred for physical media, literature, packaging and fulfillment, as
+well as efficiencies gained in providing technical support and maintenance of
+our products on-line and through global consolidation of our support and
+maintenance function.
+
+Cost of services revenue
+
+Cost of services revenue decreased 14.9% to $13.5 million in the six months
+ended August 31, 2001 from $15.9 million in the six months ended August 31,
+2000.  This decrease was primarily due to the reduction of personnel to provide
+embedded development, network consulting and engineering, and the development of
+our open source services organization.  As a percentage of services revenue,
+cost of services revenue decreased to 53.3% in the six months ended August 31,
+2001 from 60.7% in the six months ended August 31, 2000.  This decrease was
+primarily due to an increase in the utilization rate of our network consulting
+and engineering personnel.
+
+Gross Profit
+
+Gross profit increased 17.7% to $27.6 million in the six months ended August 31,
+2001 from $23.5 million in the six months ended August 31, 2000.  As a
+percentage of total revenue, gross profit increased to 59.1% in the six months
+ended August 31, 2001 from 49.7% in the six months ended August 31, 2000.  These
+increases were primarily the result of our focus on operational efficiency and
+in selling more strategic, higher margin project offerings to major enterprise
+customers.  The increase in gross profit as a percentage of total revenue is
+also due to the decreasing reliance upon hardware resale revenue, as these
+revenues generate significantly lower margins than do the Company's other
+sources of revenue.
+
+Operating expense
+
+Sales and marketing
+
+Sales and marketing expense decreased 18.4% to $21.9 million in the six months
+ended August 31, 2001 from $26.8 million in the six months ended August 31,
+2000.  As a percentage of total revenue, sales and marketing expense decreased
+to 46.8% in the six months ended August 31, 2001 from 56.7% in the six months
+ended August 31, 2000.  These decreases in sales and marketing expense were
+primarily due to a reduction in redundant marketing personnel and variable
+costs.  These personnel came from acquisitions completed in late fiscal 2001.
+
+Research and development
+
+Research and development expense increased 57.5% to $11.7 million in the six
+months ended August 31, 2001 from $7.5 million in the six months ended August
+31, 2000.  As a percentage of total revenue, research and development expense
+increased to 25.1% in the six months ended August 31, 2001 from 15.8% in the six
+months ended August 31, 2000.  The increase in research and development expense
+<PAGE>
+
+resulted from increased spending related to the development of our e-commerce
+and database solutions, costs incurred to complete the development of Version
+7.2 of Red Hat Linux, and an increase in stock-based compensation expense
+related to amortization of deferred compensation associated with acquisitions
+made in late fiscal 2001.
+
+General and administrative
+
+General and administrative expense decreased 18.8% to $16.0 million in the six
+months ended August 31, 2001 from $19.7 million in the six months ended August
+31, 2000.  This decrease resulted from:
+
+     .  a decrease in payroll-related information systems expenses;
+
+     .  a reduction in redundant general and administrative personnel resulting
+        from acquisitions completed in fiscal 2001;
+
+     .  a decrease in merger and acquisition expense; and
+
+     .  a decrease in stock-based compensation expense.
+
+As a percentage of total revenue, general and administrative expense decreased
+to 34.3% in the six months ended August 31, 2001 from 41.8% in the six months
+ended August 31, 2000.  We expect general and administrative expense, excluding
+merger and acquisition costs, to decrease as a percentage of revenue as our
+revenues continue to increase.
+
+Write-down of investments
+
+Write-down of investments consists of the non-cash write-down of investments in
+non-marketable equity securities.  Fair value for non-marketable equity
+securities is estimated based on prices recently paid for shares in that
+company, as well as changes in market conditions.  The estimated fair values are
+not necessarily representative of the amounts that the Company could realize in
+a current transaction.  Write-down of investments increased to $4.3 million in
+the six months ended August 31, 2001 from zero in the six months ended August
+31, 2000.  As a percentage of total revenue, write-down of investments increased
+to 9.1% in the six months ended August 31, 2001 from zero in the six months
+ended August 31, 2000.
+
+Amortization of goodwill and intangibles
+
+Amortization of goodwill and intangibles expense increased to $28.0 million in
+the six months ended August 31, 2001 from $18.0 million in the six months ended
+August 31, 2000.  As a percentage of total revenue, amortization of goodwill and
+intangibles expense increased to 59.9% in the six months ended August 31, 2001
+from 38.0% in the six months ended August 31, 2000.  These increases were
+primarily due to acquisitions completed in the fiscal year ended February 28,
+2001.
+
+Restructuring charges
+
+Restructuring charges consists of an impairment of $33.8 million in the carrying
+value of goodwill and intangibles related to acquisitions made in prior periods
+and $2.8 in severance and related expenses.  Restructuring charges increased to
+$36.6 million in the six months ended August 31, 2001, excluding $0.5 million in
+mergers and acquisitions expense, from zero in the six months ended August 31,
+2001.  As a percentage of total revenue, restructuring charges increased to
+78.4% in the six months ended August 31, 2001 from zero in the six months ended
+August 31, 2000.  These restructuring costs were incurred primarily due to a
+sharpening of the Company's focus on two primary areas, UNIX to Linux migration
+opportunities with major enterprise customers and delivering complete solutions
+for the embedded system market.
+<PAGE>
+
+Other income (expense), net
+
+Other income (expense), net decreased to income of $8.5 million in the six
+months ended August 31, 2001 from income of $11.1 million in the six months
+ended August 31, 2000.  As a percentage of total revenue, other income
+(expense), net increased to 18.2% in the six months ended August 31, 2001 from
+23.5% in the six months ended August 31, 2000.  These decreases resulted from
+lower average cash and investment balances in the six months ended August 31,
+2001 as compared to the six months ended August 31, 2000 due primarily to the
+use of a portion of the proceeds from the sale of common stock in our initial
+and secondary public offerings in August 1999 and February 2000 to fund
+operations and due to reductions in short-term interest rates resulting from
+actions taken by the Federal Reserve Board during the second quarter of fiscal
+2002 as compared to the second quarter of fiscal 2001.
+
+Provision for income taxes
+
+Provision for income taxes decreased to $61,000 for the six months ended August
+31, 2001 from $99,000 in the six months ended August 31, 2000.  The decrease in
+provision for income taxes for the six months ended August 31, 2001 was
+primarily due to a decrease in foreign taxes paid.
+
+
+Liquidity and Capital Resources
+
+We have historically derived a significant portion of our liquidity and
+operating capital from the sale of equity securities, including private sales of
+preferred stock and the sale of common stock in our initial and secondary public
+offerings, and cash flows from operations.  At August 31, 2001, we had total
+cash and investments of $299.9 million, which is comprised of $106.5 million in
+cash and cash equivalents, $20.9 million of short-term, fixed-income investments
+and $172.5 million of long-term, fixed-income investments.
+
+At August 31, 2001, cash and cash equivalents totaled $106.5 million, an
+increase of $21.3 million as compared to February 28, 2001.  The increase in
+cash and cash equivalents resulted from the sale and maturities of fixed-income
+investments of $203 million, $10.0 million in proceeds from a short-term payable
+and $1.3 million in proceeds from the exercise of common stock options and
+warrants.  This was offset by the purchase of $178.4 million in fixed-income
+investments, $5.1 million used in operations, $4.2 million used to purchase
+property and equipment and $2.8 million used to repay a note payable.
+
+Cash used in operations of $5.1 million in the six months ended August 31, 2001,
+include the net loss of $3.0 million, adjusted to exclude the impact of non-cash
+revenues and expenses which totaled $79.9 million.  Changes in working capital
+items that brought this use to $5.1 million include an $8.7 million decrease in
+accounts receivable offset by an increase in prepaid expenses, a decrease in
+accounts payable of $2.0 million, a decrease in accrued expenses of $5.0 and a
+decrease in deferred revenue of $2.7 million.
+
+Cash used in operations includes $6.7 million representing costs incurred
+related to merger and acquisition activities.  Excluding these costs, our
+recurring operations generated positive cash flow of $1.6 million during the six
+months ended August 31, 2001.  Merger and acquisition costs is a non-GAAP
+measure and includes costs incurred in connection with investigating potential
+acquisitions and costs incurred related to completed acquisitions.  Non-GAAP
+information is not prepared in accordance with GAAP and is not intended to be
+superior to GAAP information.
+
+Cash used in investing activities of $19.3 million for the six months ended
+August 31, 2001 was comprised of the sale and maturities of fixed-income
+investments, net of purchases, of $24.5 million, purchases of property and
+equipment totaling $4.2 million and $1.0 million used in the acquisition of
+businesses.
+
+Cash provided by financing activities of $7.5 million for the six months ended
+August 31, 2001 was
+<PAGE>
+
+primarily comprised of $10.0 million in proceeds from the issuance of a note
+payable and $1.3 million in proceeds from the exercise of stock options and
+warrants. This was partially offset by a repayment of notes payable of Planning
+Technologies, Inc., which we acquired in January 2001 in a transaction accounted
+for as a pooling of interests, of $2.8 million and $.9 million used in the
+issuance of notes receivable.
+
+In August 2001, we entered into a $10.0 million line of credit with a financial
+institution. This line of credit is secured by certain of our fixed-income
+investments. The line bears interest at monthly LIBOR plus 1%. This line is
+available to the Company for up to 12 months and is to be used to provide
+additional working capital liquidity. At August 31, 2001, $10.0 million was
+outstanding under the line of credit.
+
+                       Factors Affecting Future Results
+
+There are numerous factors that affect the Company's future results. For a
+discussion of these and other factors affecting the Company's business, see
+"Item 7 -- Management's Discussion and Analysis of Financial Condition and
+Results of Operations -- Factors Affecting Future Results" in the Company's
+Annual Report on Form 10-K for the fiscal year ended February 28, 2001.
+<PAGE>
+
+ITEM 3:   Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+
+The primary objective of Red Hat's investment activities is to preserve
+principal and liquidity while at the same time maximizing yields without
+significantly increasing risk.  To achieve this objective, the Company maintains
+its portfolio of cash equivalents, short-term and long-term investments in a
+variety of fixed-income securities, including both government and corporate
+obligations and money market funds.
+
+Red Hat did not hold derivative financial instruments as of August 31, 2001, and
+has not held such investments in the past.
+
+Foreign Currency Risk
+
+Approximately 33.0% of the Company's revenues for the six months ended August
+31, 2001 were generated by sales outside the United States. The Company is
+exposed to significant risks of foreign currency fluctuation primarily from
+receivables denominated in foreign currency and are subject to transaction gains
+and losses, which are recorded as a component in determining net income.
+Additionally, the assets and liabilities of the Company's non-U.S. operations
+are translated into U.S. dollars at exchange rates in effect as of the
+applicable balance sheet dates, and revenue and expense accounts of these
+operations are translated at average exchange rates during the month the
+transactions occur. Unrealized translation gains and losses will be included as
+an adjustment to stockholders' equity
+
+
+PART II - OTHER INFORMATION
+
+ITEM 5:  OTHER INFORMATION
+
+On September 17, 2001, the Board of Directors authorized a stock repurchase
+program covering up to the lesser of 10% of Red Hat's outstanding common shares
+or $10.0 million.  The timing and amount of shares actually repurchased during
+the 12 month duration of the program will be determined by management's
+discretion and will depend on market conditions.
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+Date:  October 12, 2001             RED HAT, INC.
+
+
+
+                                    By:  /s/  MATTHEW J. SZULIK
+                                       ------------------------
+                                           Matthew J. Szulik
+                                           President and Chief Executive Officer
+                                           (Officer on behalf of the Registrant)
+
+                                    By:  /s/  KEVIN B. THOMPSON
+                                       ------------------------
+                                           Kevin B. Thompson
+                                           Chief Financial Officer
+                                           (Principal Financial Officer)
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1968 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f75758e10-q.txt
+<DESCRIPTION>FORM 10-Q QUARTERLY PERIOD ENDED JULY 31, 2001
+<TEXT>
+<PAGE>   1
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(MARK ONE)
+
+     [X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934
+
+                  FOR THE QUARTERLY PERIOD ENDED JULY 31, 2001
+
+                                       OR
+
+     [ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+          EXCHANGE ACT OF 1934
+
+                   FOR THE TRANSITION PERIOD FROM      TO
+
+                         COMMISSION FILE NUMBER: 0-19807
+
+                                ----------------
+
+                                 SYNOPSYS, INC.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                                      <C>
+           DELAWARE                                            56-1546236
+-------------------------------                          ----------------------
+(State or other jurisdiction of                             (I.R.S. Employer
+ incorporation or organization)                          Identification Number)
+</TABLE>
+
+                            700 EAST MIDDLEFIELD ROAD
+                             MOUNTAIN VIEW, CA 94043
+                    (Address of principal executive offices)
+
+                            TELEPHONE: (650) 584-5000
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (l) has filed all reports required
+to be filed by Section 13, or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                 Yes [X] No [ ]
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+            59,302,014 shares of Common Stock as of September 8, 2001
+
+
+                                       1
+<PAGE>   2
+
+                                 SYNOPSYS, INC.
+                          QUARTERLY REPORT ON FORM 10-Q
+                                  JULY 31, 2001
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>       <C>                                                                <C>
+PART I.   FINANCIAL INFORMATION
+
+ITEM 1.   FINANCIAL STATEMENTS.............................................   3
+
+          CONDENSED CONSOLIDATED BALANCE SHEETS............................   3
+
+          UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF INCOME............   4
+
+          UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS........   5
+
+          NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS...   6
+
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+          AND RESULTS OF OPERATIONS........................................  14
+
+ITEM 3.   QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK........  25
+
+PART II.  OTHER INFORMATION
+
+ITEM 6.   EXHIBITS AND REPORTS ON FORM 8-K.................................  25
+
+SIGNATURES.................................................................  26
+</TABLE>
+
+
+                                       2
+<PAGE>   3
+
+PART I
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                                 SYNOPSYS, INC.
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                      (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                                     JULY 31,        OCTOBER 31,
+                                                                       2001              2000
+                                                                   -----------       -----------
+                                                                   (UNAUDITED)
+<S>                                                                <C>               <C>
+ASSETS
+Current assets:
+    Cash and cash equivalents                                      $   134,504       $   153,120
+    Short-term investments                                             174,371           282,519
+                                                                   -----------       -----------
+         Total cash and short-term investments                         308,875           435,639
+    Accounts receivable, net of allowances of $8,660 and
+         $9,539, respectively                                          131,721           146,449
+    Prepaid expenses, deferred taxes and other                          98,557           102,433
+                                                                   -----------       -----------
+         Total current assets                                          539,153           684,521
+
+Property and equipment, net                                            173,661           157,243
+Long-term investments                                                   88,222           126,741
+Intangible assets, net                                                  39,428            51,776
+Other assets                                                            53,570            30,712
+                                                                   -----------       -----------
+         Total assets                                              $   894,034       $ 1,050,993
+                                                                   ===========       ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+    Accounts payable and accrued liabilities                       $   120,980       $   139,290
+    Current portion of long-term debt                                      535             6,416
+    Accrued income taxes                                                36,690            56,304
+    Deferred revenue                                                   250,752           150,654
+                                                                   -----------       -----------
+         Total current liabilities                                     408,957           352,664
+                                                                   -----------       -----------
+
+Long-term debt                                                             123               564
+Deferred compensation                                                   17,717            14,936
+Other liability                                                          7,161                --
+
+Stockholders' equity:
+    Preferred stock, $.01 par value; 2,000 shares authorized;
+         no shares outstanding                                              --                --
+    Common stock, $.01 par value; 200,000 shares authorized:
+         58,963 and 62,877 shares outstanding, respectively                590               629
+    Additional paid-in capital                                         573,787           558,716
+    Retained earnings                                                  421,507           405,419
+    Treasury stock, at cost                                           (552,174)         (329,493)
+    Accumulated other comprehensive income                              16,366            47,558
+                                                                   -----------       -----------
+         Total stockholders' equity                                    460,076           682,829
+                                                                   -----------       -----------
+         Total liabilities and stockholders' equity                $   894,034       $ 1,050,993
+                                                                   ===========       ===========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                       3
+<PAGE>   4
+
+                                 SYNOPSYS, INC.
+              UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                      (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                     THREE MONTHS ENDED            NINE MONTHS ENDED
+                                                          JULY 31,                      JULY 31,
+                                                  ------------------------      -------------------------
+                                                     2001           2000           2001            2000
+                                                  ---------      ---------      ---------       ---------
+<S>                                               <C>            <C>            <C>             <C>
+Revenue:
+      Product                                     $  44,858      $ 143,348      $ 117,152       $ 396,930
+      Service                                        81,430         85,487        259,900         253,626
+      Ratable license                                49,822             --        119,736              --
+                                                  ---------      ---------      ---------       ---------
+           Total revenue                            176,110        228,835        496,788         650,556
+                                                  ---------      ---------      ---------       ---------
+
+Cost of revenue:
+      Product                                         6,086         10,169         17,616          31,108
+      Service                                        19,158         21,851         58,427          59,723
+      Ratable license                                 7,476             --         19,689              --
+                                                  ---------      ---------      ---------       ---------
+           Total cost of revenue                     32,720         32,020         95,732          90,831
+                                                  ---------      ---------      ---------       ---------
+
+Gross margin                                        143,390        196,815        401,056         559,725
+                                                  ---------      ---------      ---------       ---------
+
+Operating expenses:
+      Research and development                       49,382         50,323        143,239         140,552
+      Sales and marketing                            68,954         73,709        207,735         211,100
+      General and administrative                     19,140         15,973         50,933          42,255
+      Amortization of intangible assets               4,163          3,745         12,514          10,956
+      In-process research and development                --             --             --           1,750
+                                                  ---------      ---------      ---------       ---------
+           Total operating expenses                 141,639        143,750        414,421         406,613
+                                                  ---------      ---------      ---------       ---------
+
+Operating income (loss)                               1,751         53,065        (13,365)        153,112
+Other income, net                                    19,499          8,797         66,901          27,431
+                                                  ---------      ---------      ---------       ---------
+
+Income before provision for income taxes             21,250         61,862         53,536         180,543
+Provision for income taxes                            6,800         20,491         17,132          60,495
+                                                  ---------      ---------      ---------       ---------
+Net income                                        $  14,450      $  41,371      $  36,404       $ 120,048
+                                                  =========      =========      =========       =========
+
+Basic earnings per share                          $    0.24      $    0.61      $    0.60       $    1.71
+                                                  =========      =========      =========       =========
+Weighted average common shares
+      outstanding                                    60,048         68,278         61,050          70,026
+                                                  =========      =========      =========       =========
+
+Diluted earnings per share                        $    0.22      $    0.59      $    0.56       $    1.65
+                                                  =========      =========      =========       =========
+Weighted average common shares
+      and dilutive stock options outstanding         64,887         69,603         65,362          72,591
+                                                  =========      =========      =========       =========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                       4
+<PAGE>   5
+
+                                 SYNOPSYS, INC.
+            UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                             NINE MONTHS ENDED
+                                                                                  JULY 31,
+                                                                       -----------------------------
+                                                                           2001              2000
+                                                                       -----------       -----------
+<S>                                                                    <C>               <C>
+CASH FLOWS PROVIDED BY OPERATING ACTIVITIES:
+Net income                                                             $    36,404       $   120,048
+Adjustments to reconcile net income to net cash flows provided by
+     operating activities:
+     Depreciation and amortization                                          48,149            46,583
+     Tax benefit associated with stock options                              14,603            10,408
+     Provision for doubtful accounts and sales returns                       2,237             1,788
+     Interest accretion on notes payable                                       306               601
+     Gain on sale of long-term investments                                 (43,128)           (7,060)
+     Write-down of long-term investments                                     4,348                --
+     Gain on sale of silicon libraries business                            (10,580)               --
+     In-process research and development                                        --             1,750
+     Net changes in operating assets and liabilities:
+         Accounts receivable                                                12,491           (49,114)
+         Prepaid expenses and other current assets                          (2,366)              468
+         Other assets                                                         (414)          (14,737)
+         Accounts payable and accrued liabilities                          (22,008)           16,581
+         Accrued income taxes                                              (19,614)           14,497
+         Deferred revenue                                                  100,153            20,576
+         Deferred compensation                                               2,781             5,420
+                                                                       -----------       -----------
+              Net cash provided by operating activities                    123,362           167,809
+                                                                       -----------       -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+     Expenditures for property and equipment                               (51,980)          (45,232)
+     Purchases of short-term investments                                (1,656,744)       (1,989,729)
+     Proceeds from sales and maturities of short-term investments        1,764,892         2,196,283
+     Purchases of long-term investments                                    (11,000)           (9,498)
+     Proceeds from sale of long-term investments                            62,446            11,515
+     Proceeds from the sale of silicon libraries business                    4,122                --
+     Acquisitions, net of cash acquired                                         --            (8,592)
+     Capitalization of software development costs                             (750)             (500)
+     Intangible assets, net                                                   (166)              684
+                                                                       -----------       -----------
+              Net cash provided by investing activities                    110,820           154,931
+                                                                       -----------       -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+     Payments of debt obligations                                           (6,468)          (14,000)
+     Issuances of long-term debt                                                --               727
+     Issuances of common stock                                              89,310            47,008
+     Purchases of treasury stock                                          (331,878)         (211,301)
+                                                                       -----------       -----------
+              Net cash used in financing activities                       (249,036)         (177,566)
+                                                                       -----------       -----------
+Effect of exchange rate changes on cash                                     (3,762)           (3,601)
+                                                                       -----------       -----------
+Net (decrease) increase in cash and cash equivalents                       (18,616)          141,573
+Cash and cash equivalents, beginning of period                             153,120           309,394
+                                                                       -----------       -----------
+Cash and cash equivalents, end of period                               $   134,504       $   450,967
+                                                                       ===========       ===========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                       5
+<PAGE>   6
+
+                                 SYNOPSYS, INC.
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. DESCRIPTION OF COMPANY AND BASIS OF PRESENTATION
+
+        Synopsys, Inc. (Synopsys or the Company) is a leading supplier of
+electronic design automation (EDA) software to the global electronics industry.
+The Company develops, markets, and supports a wide range of integrated circuit
+(IC) design products that are used by designers of advanced ICs, including
+system-on-a-chip ICs, and the electronic systems (such as computers, cell
+phones, and internet routers) that use such ICs, to automate significant
+portions of their design process. Synopsys' products offer its customers the
+opportunity to design ICs that are optimized for speed, area, power consumption
+and production cost, while reducing overall design time. The Company also
+provides consulting services to help its customers improve their IC design
+processes and, where requested, to assist them with their IC designs, as well as
+training and support services.
+
+        The Company's fiscal year ends on the Saturday nearest October 31.
+Fiscal year 2000 was a 52-week year and fiscal year 2001 will be a 53-week year
+with the extra week added to the first quarter. For presentation purposes, the
+unaudited condensed consolidated financial statements and notes refer to the
+calendar month end.
+
+        The unaudited condensed consolidated financial statements include the
+accounts of Synopsys and its wholly owned subsidiaries. All significant
+intercompany accounts and transactions have been eliminated. In the opinion of
+management, all adjustments (consisting of normal recurring adjustments)
+necessary for a fair presentation of the financial position and results of
+operations of the Company have been made. Operating results for the interim
+periods are not necessarily indicative of the results that may be expected for
+any future period or the full fiscal year. The unaudited condensed consolidated
+financial statements and notes included herein should be read in conjunction
+with the consolidated financial statements and notes thereto for the fiscal year
+ended October 31, 2000, included in the Company's 2000 Annual Report on Form
+10-K.
+
+        The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the unaudited condensed
+consolidated financial statements and accompanying notes. A change in the facts
+and circumstances surrounding these estimates and assumptions could result in a
+change to the estimates and assumptions and impact future operating results.
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+
+REVENUE RECOGNITION AND COST OF REVENUE
+
+        Revenue consists of fees for perpetual and time-based licenses for the
+Company's software products, sales of hardware system products, post-contract
+customer support (PCS), customer training and consulting. The Company classifies
+its revenues as product, service or ratable license. Product revenue consists
+primarily of perpetual and non-ratable time-based license revenue. Service
+revenue consists of PCS under perpetual and non-ratable time-based licenses and
+fees for consulting services and training. Ratable license revenue is all fees
+related to time-based licenses bundled with post-contract customer support (PCS)
+and sold as a single package (commonly referred to by the Company as a
+Technology Subscription License or TSL) and time-based licenses that include
+extended payment terms or unspecified additional products.
+
+        Cost of product revenue includes cost of production personnel, product
+packaging, documentation, amortization of capitalized software development costs
+and purchased technology, and costs of the Company's systems products. Cost of
+service revenue includes personnel and the related costs associated with
+providing training, consulting and PCS. Cost of ratable license revenue includes
+the cost of products and services related to time-based licenses bundled with
+PCS and sold as a single package and to time-based licenses that include
+extended payment terms or unspecified additional products.
+
+
+                                       6
+<PAGE>   7
+
+        The Company recognizes revenue in accordance with SOP 97-2, Software
+Revenue Recognition (SOP 97-2), as amended by SOP 98-9, and generally recognizes
+revenue when all of the following criteria are met as set forth in paragraph 8
+of SOP 97-2:
+
+        -   Persuasive evidence of an arrangement exists,
+
+        -   Delivery has occurred,
+
+        -   The vendor's fee is fixed or determinable, and
+
+        -   Collectibility is probable.
+
+        The Company defines each of the four criteria above as follows:
+
+        Persuasive Evidence of an Arrangement Exists. It is the Company's
+        customary practice to have a written contract, which is signed by both
+        the customer and Synopsys, or a purchase order from those customers that
+        have previously negotiated a standard end-user license arrangement or
+        volume purchase agreement, prior to recognizing revenue on an
+        arrangement.
+
+        Delivery Has Occurred. The Company's software may be either physically
+        or electronically delivered to its customers. For those products that
+        are delivered physically, the Company's standard transfer terms are FOB
+        shipping point. For an electronic delivery of software, delivery is
+        considered to have occurred when the customer has been provided with the
+        access codes that allow the customer to take immediate possession of the
+        software on its hardware.
+
+        If undelivered products or services exist in an arrangement that are
+        essential to the functionality of the delivered product, delivery is not
+        considered to have occurred.
+
+        The Vendor's Fee is Fixed or Determinable. The fee the Company's
+        customers pay for its products is negotiated at the outset of an
+        arrangement, and is generally based on the specific volume of products
+        to be delivered. The Company's license fees are not a function of
+        variable-pricing mechanisms such as the number of units distributed or
+        copied by the customer, or the expected number of users in an
+        arrangement. Therefore, except in cases where the Company grants
+        extended payment terms to a specific customer, the Company's fees are
+        considered to be fixed or determinable at the inception of its
+        arrangements.
+
+        The Company's customary payment terms are such that a minimum of 75% of
+        the arrangement revenue is due within one year or less. Arrangements
+        with payment terms extending beyond the customary payment terms are
+        considered not to be fixed or determinable. Revenue from such
+        arrangements is recognized at the lesser of the aggregate of amounts due
+        and payable or the amount of the arrangement fee that would have been
+        recognized if the fees had been fixed or determinable.
+
+        Collectibility is Probable. Collectibility is assessed on a
+        customer-by-customer basis. The Company typically sells to customers for
+        which there is a history of successful collection. New customers are
+        subjected to a credit review process, which evaluates the customers'
+        financial positions and ultimately their ability to pay. New customers
+        are typically assigned a credit limit based on a formulated review of
+        their financial position. Such credit limits are only increased after a
+        successful collection history with the customer has been established. If
+        it is determined from the outset of an arrangement that collectibility
+        is not probable based upon the Company's credit review process, revenue
+        is recognized on a cash-collected basis.
+
+        Multiple-Element Arrangements. The Company allocates revenue on software
+arrangements involving multiple elements to each element based on the relative
+fair values of the elements. The Company's determination of fair value of each
+element in multiple-element arrangements is based on vendor-specific objective
+evidence (VSOE). The Company limits its assessment of VSOE for each element to
+the price charged when the same element is sold separately.
+
+        The Company has analyzed all of the elements included in its
+multiple-element arrangements and determined that it has sufficient VSOE to
+allocate revenue to the PCS components of its perpetual license products and
+consulting. Accordingly, assuming all other revenue recognition criteria are
+met, revenue from perpetual licenses is
+
+
+                                       7
+<PAGE>   8
+
+recognized upon delivery using the residual method in accordance with SOP 98-9,
+and revenue from PCS is recognized ratably over the PCS term. The Company
+recognizes revenue from TSLs over the term of the ratable license period, as the
+license and PCS portions of a TSL are bundled and not sold separately. Revenue
+from contracts with extended payment terms are recognized as the lesser of
+amounts due and payable or the amount of the arrangement fee that would have
+been recognized if the fee were fixed or determinable.
+
+        Certain of the Company's time-based licenses include unspecified
+additional products. The Company recognizes revenue from time-based licenses
+that include unspecified additional software products and from licenses sold
+with extended payment terms that are not considered to be fixed and determinable
+in an amount that is the lesser of amounts due and payable or the ratable
+portion of the entire fee. Revenue from contracts with unspecified additional
+software products is recognized ratably over the contract term.
+
+        Consulting Services. The Company provides design methodology assistance,
+specialized services relating to telecommunication systems design and turnkey
+design services. The Company's consulting services generally are not essential
+to the functionality of the software. The Company's software products are fully
+functional upon delivery and implementation does not require any significant
+modification or alteration. The Company's services to its customers often
+include assistance with product adoption and integration and specialized design
+methodology assistance. Customers typically purchase these professional services
+to facilitate the adoption of the Company's technology and dedicate personnel to
+participate in the services being performed, but they may also decide to use
+their own resources or appoint other professional service organizations to
+provide these services. Software products are billed separately and
+independently from consulting services, which are generally billed on a
+time-and-materials or milestone-achieved basis. The Company generally recognizes
+revenue from consulting services as the services are performed.
+
+        Exceptions to the general rule above involve arrangements where the
+Company has committed to significantly alter the features and functionality of
+its software or build complex interfaces necessary for the Company's software to
+function in the customer's environment. These types of services are considered
+to be essential to the functionality of the software. Accordingly, contract
+accounting is applied to both the software and service elements included in
+these arrangements.
+
+ADOPTION OF SFAS 133
+
+        On November 1, 2000, Synopsys adopted Statement of Financial Accounting
+Standards No. 133 (SFAS 133), Accounting for Derivative Instruments and Hedging
+Activities, as amended. SFAS 133 establishes accounting and reporting standards
+for derivative instruments and hedging activities. SFAS 133 requires that all
+derivatives be recognized as either assets or liabilities at fair value.
+Derivatives that are not designated as hedging instruments are adjusted to fair
+value through earnings. If the derivative is designated as a hedging instrument,
+depending on the nature of the exposure being hedged, changes in fair value will
+either be offset against the change in fair value of the hedged asset,
+liability, or firm commitment through earnings, or recognized in other
+comprehensive income until the hedged anticipated transaction affects earnings.
+The ineffective portion of the hedge is recognized in earnings immediately. Upon
+adoption of SFAS 133, the cumulative transition adjustment was insignificant.
+
+FOREIGN EXCHANGE CONTRACTS
+
+        The Company operates internationally and therefore is exposed to
+potentially adverse movements in foreign currency rates. The Company has entered
+into foreign exchange forward contracts to reduce its exposure to foreign
+currency rate changes on non-functional currency denominated balance sheet
+positions. The objective of these contracts is to neutralize the impact of
+foreign currency rate movements on the Company's operating results.
+
+        Foreign exchange forward contracts require the Company to exchange
+currencies at rates agreed upon at the inception of the contracts. These
+contracts reduce the exposure to fluctuations in exchange rates because the
+gains and losses associated with foreign currency balances and transactions are
+generally offset with the gains and losses of the hedge contracts. Because the
+impact of movements in currency exchange rates on forward contracts offsets the
+related impact on the underlying items being hedged, these financial instruments
+help alleviate the risk that might otherwise result from changes in currency
+exchange rates.
+
+
+                                       8
+<PAGE>   9
+
+3. SALE OF SILICON LIBRARIES BUSINESS
+
+        On January 4, 2001, the Company sold the assets of its silicon libraries
+business to Artisan Components, Inc. (Artisan) for a total sales price of $15.5
+million, including common stock with a fair value on the date of sale of $11.4
+million, and cash of $4.1 million. The net book value of the assets sold was
+$1.4 million. In connection with the sale, the Company subcontracted certain
+performance obligations under existing contracts to Artisan. The Company
+estimated the costs associated with the completion of these subcontract
+agreements to be approximately $750,000. Expenses incurred in connection with
+the sale were $2.8 million. The Company recorded a gain on the sale of the
+business of $10.6 million which is included in other income and expense on the
+accompanying unaudited condensed consolidated statement of operations. The
+subcontract agreements were completed during the third quarter of fiscal 2001 at
+a total cost of $1.4 million. Direct revenue for the silicon libraries business
+was $0.2 million and $3.9 million for the nine-month periods ended July 31, 2001
+and 2000, respectively. Direct revenue for this business was $4.3 million in
+fiscal 2000.
+
+4. STOCK REPURCHASE PROGRAM
+
+        In August 2000, the Company established a stock repurchase program under
+which Synopsys common stock with an aggregate market value up to $500 million
+may be acquired in the open market. This program followed the completion of a
+$200 million stock repurchase program authorized in June 1999. In July 2001, the
+Company completed the August 2000 stock repurchase program and the Board of
+Directors authorized a new stock repurchase program under which Synopsys common
+stock with a market value up to $500 million could be acquired in the open
+market through October 31, 2002. Common shares repurchased are intended to be
+used for ongoing stock issuances under the Company's employee stock plans and
+for other corporate purposes. Under the share repurchase programs, for the
+three- and nine-month periods ended July 31, 2001, the Company purchased 2.4
+million and 6.6 million shares, respectively, of Synopsys common stock in the
+open market, at average prices of $53 per share and $50 per share, respectively.
+For the three- and nine-month periods ended July 31, 2000, the Company purchased
+0.7 million and 4.4 million shares, respectively, of Synopsys common stock in
+the open market under the June 1999 share repurchase program, at average prices
+of $40 per share and $48 per share, respectively. At July 31, 2001, $481.9
+million remained available for repurchases under the July 2001 program.
+
+5. COMPREHENSIVE INCOME
+
+        The following table sets forth the components of comprehensive income,
+net of income tax expense:
+
+<TABLE>
+<CAPTION>
+                                           THREE MONTHS ENDED              NINE MONTHS ENDED
+                                                JULY 31,                        JULY 31,
+                                       -------------------------       -------------------------
+(in thousands)                            2001            2000            2001            2000
+                                       ---------       ---------       ---------       ---------
+<S>                                    <C>             <C>             <C>             <C>
+Net income                             $  14,450       $  41,371       $  36,404       $ 120,048
+     Foreign currency translation
+          adjustment                        (936)         (1,120)         (3,763)         (3,601)
+     Unrealized gain (loss) on
+          investments                      1,803          24,624          (1,863)         40,903
+     Reclassification adjustment
+          for realized gains on
+          investments                     (7,967)         (1,181)        (25,566)         (4,237)
+                                       ---------       ---------       ---------       ---------
+Total comprehensive income             $   7,350       $  63,694       $   5,212       $ 153,113
+                                       =========       =========       =========       =========
+</TABLE>
+
+
+6. EARNINGS PER SHARE
+
+        Basic earnings per share is computed using the weighted-average number
+of common shares outstanding during the period. Diluted earnings per share is
+computed using the weighted-average number of common shares and dilutive
+employee stock options outstanding during the period. The dilutive effect of the
+weighted-average number of employee stock options outstanding is computed using
+the treasury stock method.
+
+
+                                       9
+<PAGE>   10
+
+        The following table sets forth the computation of basic and diluted
+earnings per share:
+
+<TABLE>
+<CAPTION>
+                                               THREE MONTHS ENDED          NINE MONTHS ENDED
+                                                    JULY 31,                    JULY 31,
+                                             ----------------------      ----------------------
+                                               2001          2000          2001          2000
+                                             --------      --------      --------      --------
+(in thousands, except per share amounts)
+<S>                                          <C>           <C>           <C>           <C>
+NUMERATOR:
+     Net income                              $ 14,450      $ 41,371      $ 36,404      $120,048
+                                             ========      ========      ========      ========
+
+DENOMINATOR:
+     Weighted-average common
+          shares outstanding                   60,048        68,278        61,050        70,026
+     Effect of dilutive employee
+           stock options                        4,839         1,325         4,312         2,565
+                                             --------      --------      --------      --------
+Diluted common shares                          64,887        69,603        65,362        72,591
+                                             ========      ========      ========      ========
+
+Basic earnings per share                     $   0.24      $   0.61      $   0.60      $   1.71
+                                             ========      ========      ========      ========
+
+Diluted earnings per share                   $   0.22      $   0.59      $   0.56      $   1.65
+                                             ========      ========      ========      ========
+</TABLE>
+
+        The effect of dilutive employee stock options excludes approximately
+3,577,000 and 5,598,000 stock options for the three-month periods ended July 31,
+2001 and 2000, respectively, and 3,513,000 and 3,366,000 for the nine-month
+periods ended July 31, 2001 and 2000, respectively, which were anti-dilutive for
+earnings per share calculations.
+
+7. SEGMENT DISCLOSURE
+
+        Statement of Financial Accounting Standards No. 131, Disclosures about
+Segments of an Enterprise and Related Information (SFAS 131), requires
+disclosures of certain information regarding operating segments, products and
+services, geographic areas of operation and major customers. The method for
+determining what information to report under SFAS 131 is based upon the
+"management approach," or the way that management organizes the operating
+segments of the Company that have separate financial information available that
+is evaluated regularly by the Chief Operating Decision Maker (CODM) in deciding
+how to allocate resources and in assessing performance. Synopsys' CODM is the
+Chief Executive Officer and Chief Operating Officer.
+
+        The Company provides comprehensive design technology products and
+consulting services in the EDA software industry and has determined that it
+operates in only one segment. The CODM evaluates the performance of the Company
+based on profit or loss from operations before income taxes and excluding
+merger-related costs, in-process research and development and amortization of
+intangible assets. For the purpose of making operating decisions, the CODM
+primarily considers financial information presented on a consolidated basis
+accompanied by disaggregated information about revenues by geographic region.
+Because the Company operates in only one segment, there are no differences
+between the accounting policies used to measure profit and loss for the Company
+segment and those used on a consolidated basis. Revenue is defined as revenues
+from external customers.
+
+
+                                       10
+<PAGE>   11
+        The disaggregated financial information reviewed by the CODM is as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                      THREE MONTHS ENDED             NINE MONTHS ENDED
+                                                           JULY 31,                       JULY 31,
+                                                  ------------------------       -------------------------
+(in thousands)                                       2001           2000            2001            2000
+                                                  ---------      ---------       ---------       ---------
+<S>                                               <C>            <C>             <C>             <C>
+Revenue:
+     Product                                      $  44,858      $ 143,348       $ 117,152       $ 396,930
+     Service                                         81,430         85,487         259,900         253,626
+     Ratable license                                 49,822             --         119,736              --
+                                                  ---------      ---------       ---------       ---------
+          Total revenue                           $ 176,110      $ 228,835       $ 496,788       $ 650,556
+                                                  =========      =========       =========       =========
+
+Gross margin                                      $ 143,390      $ 196,815       $ 401,056       $ 559,725
+
+ Operating income (loss) before amortization
+     of intangible assets, and in-process
+     research and development                     $   5,914      $  56,810       $    (851)      $ 165,818
+</TABLE>
+
+        There were no merger related costs in the periods presented.
+
+        Reconciliation of the Company's segment profit and loss to the Company's
+operating income (loss) before provision for income taxes is as follows:
+
+<TABLE>
+<CAPTION>
+                                                     THREE MONTHS ENDED              NINE MONTHS ENDED
+                                                          JULY 31,                        JULY 31,
+                                                 -------------------------       -------------------------
+(in thousands)                                      2001            2000            2001            2000
+                                                 ---------       ---------       ---------       ---------
+<S>                                              <C>             <C>             <C>             <C>
+Operating income (loss) before amortization
+     of intangible assets, and in-process
+     research and development                    $   5,914       $  56,810       $    (851)      $ 165,818
+Amortization of intangible assets                   (4,163)         (3,745)        (12,514)        (10,956)
+In-process research and development                     --              --              --          (1,750)
+                                                 ---------       ---------       ---------       ---------
+Operating income (loss)                          $   1,751       $  53,065       $ (13,365)      $ 153,112
+                                                 =========       =========       =========       =========
+</TABLE>
+
+        Revenue and long-lived assets related to operations in the United States
+and other geographic areas are as follows:
+
+<TABLE>
+<CAPTION>
+                                   THREE MONTHS ENDED          NINE MONTHS ENDED
+                                        JULY 31,                    JULY 31,
+                                ----------------------      ----------------------
+(in thousands)                  2001          2000          2001          2000
+                                --------      --------      --------      --------
+<S>                             <C>           <C>           <C>           <C>
+Revenue:
+     United States              $110,770      $121,758      $306,650      $374,750
+     Europe                       33,460        34,967        91,214       119,879
+     Japan                        18,405        56,971        53,060       110,720
+     Other                        13,475        15,139        45,864        45,207
+                                --------      --------      --------      --------
+
+              Consolidated      $176,110      $228,835      $496,788      $650,556
+                                ========      ========      ========      ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                        JULY 31,     OCTOBER 31,
+(in thousands)            2001          2000
+                        --------      --------
+<S>                     <C>          <C>
+Long-lived assets:
+     United States      $158,992      $140,923
+     Other                14,669        16,320
+                        --------      --------
+     Consolidated       $173,661      $157,243
+                        ========      ========
+</TABLE>
+
+        Geographic revenue data for multi-region, multi-product transactions
+reflect internal allocations and is therefore subject to certain assumptions and
+to the Company's methodology. Revenue is not reallocated among geographic
+regions to reflect any re-mixing of licenses between different regions following
+the initial product shipment.
+
+
+                                       11
+<PAGE>   12
+
+        The Company segregates revenue into five categories for purposes of
+internal management reporting: IC Implementation, including both the Design
+Compiler (DC) Family and Physical Synthesis; Verification and Test; Intellectual
+Property (IP) and System Level Design; Transistor Level Design; and Professional
+Services. Revenue for each of the categories is as follows:
+
+<TABLE>
+<CAPTION>
+                                       THREE MONTHS ENDED          NINE MONTHS ENDED
+                                            JULY 31,                    JULY 31,
+                                    ----------------------      ----------------------
+(in thousands)                        2001          2000          2001          2000
+                                    --------      --------      --------      --------
+<S>                                 <C>           <C>           <C>           <C>
+Revenue:
+    IC Implementation
+         DC Family                  $ 55,510      $ 85,985      $162,933      $227,856
+         Physical Synthesis           13,212         7,443        29,867        24,406
+    Verification and Test             52,013        66,973       141,556       198,300
+    IP and System Level Design        23,206        30,763        61,585        91,245
+    Transistor Level Design           14,203        17,789        38,398        48,601
+    Professional Services             17,966        19,882        62,449        60,148
+                                    --------      --------      --------      --------
+         Consolidated               $176,110      $228,835      $496,788      $650,556
+                                    ========      ========      ========      ========
+</TABLE>
+
+        No single customer accounted for more than ten percent of the Company's
+consolidated revenue in the three-month periods ended July 31, 2001 and 2000 or
+for the nine-month periods ended July 31, 2001 and 2000.
+
+8. DERIVATIVE FINANCIAL INSTRUMENTS
+
+        The Company currently uses derivative instruments, designated as cash
+flow hedges, to hedge the variability of cash flows attributable to the
+forecasted sale of available-for-sale (AFS) securities accounted for under
+Statement of Financial Accounting Standards No. 115, Accounting for Certain
+Investments in Debt and Equity Securities (SFAS 115). In accounting for a
+derivative designated as a cash flow hedge, the effective portion of the change
+in fair value of the derivative is initially recorded in other comprehensive
+income (OCI) and reclassified into earnings when the hedged anticipated
+transaction affects earnings. The ineffective portion of the change in the fair
+value of the derivative is recognized in earnings immediately.
+
+        AFS investments accounted for under SFAS 115 are subject to market price
+risk. From time to time, the Company enters into and designates forward
+contracts to hedge variable cash flows from anticipated sales of these
+investments. The Company's objective for entering into derivative contracts is
+to lock in the price of selected equity holdings while maintaining the rights
+and benefits of ownership until the anticipated sale occurs. The forecasted sale
+selected for hedging is determined by market conditions, up-front costs, and
+other relevant factors. The Company has generally selected forward sale
+contracts to hedge its market price risk.
+
+        Changes in the spot rate of the forward sale contracts designated and
+qualifying as cash flow hedges of the forecasted sale of AFS investments
+accounted for under SFAS 115 are reported in OCI. The notional amount of the
+forward designated as the hedging instrument is equal to the AFS securities
+being hedged. In addition, hedge effectiveness is assessed based on the changes
+in spot prices. As such, the hedging relationship is perfectly effective, both
+at inception of the hedge and on an on-going basis. The difference between the
+contract price and the forward price, which is generally not material, is
+reflected in other income.
+
+        During the three- and nine-month periods ended July 31, 2001, the
+Company physically settled certain forward contracts. The net gain on the
+forward contracts was offset by the net loss on the related AFS investment since
+inception of the hedge, with any gain or loss reclassified from OCI to other
+income.
+
+        The Company recorded a net realized gain on the sale of the
+available-for-sale investments of $13.1 million and $41.9 million (net of
+premium amortization), respectively, during the three- and nine-month periods
+ending July 31, 2001. As of July 31, 2001, the Company has recorded a liability
+of $7.2 million due to unrealized losses on forward contracts. As of July 31,
+2001, the Company has recorded $30.7 million in long-term investments due to
+locked-in unrealized gains on the AFS investments. As of July 31, 2001, the
+maximum length of time over which the Company is hedging its exposure to the
+variability in future cash flows associated with the forward sale contracts is
+13 months.
+
+
+                                       12
+<PAGE>   13
+
+9. PROPOSED ACQUISITION OF IKOS SYSTEMS, INC.
+
+        On July 2, 2001, the Company entered into an Agreement and Plan of
+Merger with IKOS Systems, Inc. (IKOS). The Agreement provides for the
+acquisition of all outstanding shares of IKOS common stock by Synopsys. The
+merger is expected to be completed in August 2002, however, under certain
+circumstances the merger may close prior to June 30, 2002. The Company will
+account for the merger under the purchase method of accounting.
+
+        Upon completion of the merger, holders of IKOS common stock will be
+entitled to receive Synopsys common stock with a value between $6 and $20 in
+exchange for each share of IKOS common stock owned at the time of completion of
+the merger. The exact amount per share will depend upon the financial
+performance of IKOS during the 12-month measurement period ending June 30, 2002
+and will be calculated based on formulas contained in the merger agreement. The
+formulas contained in the merger agreement provide for proportionate increases
+in the purchase price per IKOS share as IKOS' revenue, revenue plus change in
+backlog, as defined, or profit (loss) before tax (PBT) increase from one level
+to the next. If the merger closes before June 30, 2002, holders of IKOS common
+stock on the closing date will receive Synopsys common stock with a value of $15
+for each share of IKOS common stock, regardless of IKOS' financial performance
+up to the date of closing. Regardless of when the merger closes, the purchase
+price per IKOS share is subject to reduction if the number of outstanding IKOS
+shares and options immediately before the effective time of the merger exceeds
+an agreed-upon level. However, the purchase price per IKOS share will not be
+less than $6.
+
+        The actual number of shares of Synopsys common stock to be issued in the
+merger and the aggregate purchase price at the effective time of the merger
+cannot be determined until the date on which the number of Synopsys shares to be
+issued becomes fixed.
+
+        The merger is subject to certain conditions, including IKOS achieving
+revenue of at least $50 million and losses before tax not exceeding $10 million
+during the twelve-month period ending June 30, 2002, expiration or termination
+of a Synopsys emulation non-compete agreement, IKOS stockholder approval,
+retention of certain employees, compliance with regulatory requirements and
+customary closing conditions.
+
+10. OPERATING LEASES
+
+        In July 2001, the Company amended certain non-cancelable leases related
+to its corporate office facilities. The leases, originally scheduled to expire
+in February 2003 have been extended to February 2015. Monthly lease payments are
+approximately $0.8 million per month in the first year of the extended term
+escalating to $1.1 million per month in the last year of the extended term.
+
+11. EFFECT OF NEW ACCOUNTING STANDARDS
+
+        During fiscal 2000, the Securities and Exchange Commission issued Staff
+Accounting Bulletin No. 101, Revenue Recognition in Financial Statements (SAB
+101). The objective of SAB 101 is to provide further guidance on revenue
+recognition issues in the absence of authoritative literature addressing a
+specific arrangement or a specific industry. The Company is required to adopt
+the guidance in SAB 101 no later than the fourth quarter of fiscal 2001.
+Adoption of this guidance is not expected to have a material impact on the
+Company's financial position or results of operations.
+
+        In July 2001, the Financial Accounting Standards Board issued Statements
+of Financial Accounting Standards No. 141, Business Combinations, (SFAS 141) and
+No. 142, Goodwill and Other Intangible Assets (SFAS 142). SFAS 141 requires that
+the purchase method of accounting be used for all business combinations
+initiated after June 30, 2001 and specifies criteria intangible assets acquired
+in a purchase method business combination must meet to be recognized apart from
+goodwill. SFAS 142 requires that goodwill and intangible assets with indefinite
+useful lives no longer be amortized, but instead tested for impairment at least
+annually in accordance with the provisions of SFAS 142.
+
+        The Company is required to adopt the provisions of SFAS 141 immediately.
+Under SFAS 141, goodwill and intangible assets determined to have indefinite
+useful lives acquired in a purchase business combination completed after June
+30, 2001, but before SFAS 142 is adopted will not be amortized, but will
+continue to be evaluated for impairment in accordance with SFAS 121. Goodwill
+and intangible assets acquired in business combinations
+
+
+                                       13
+<PAGE>   14
+completed before July 1, 2001 will continue to be amortized and tested for
+impairment in accordance with current accounting guidance until the date of
+adoption of SFAS 142.
+
+       Upon adoption of SFAS 142, SFAS 141 requires that the Company evaluate
+its existing intangible assets and goodwill that were acquired in prior purchase
+business combinations, and make any necessary reclassifications in order to
+conform with the new criteria in SFAS 141 for recognition apart from goodwill.
+Upon adoption of SFAS 142, the Company will be required to reassess the useful
+lives and residual values of all intangible assets acquired, and make any
+necessary amortization period adjustments. In addition, the Company will be
+required to test intangible assets with indefinite useful lives and goodwill for
+impairment in accordance with the provisions of SFAS 142 within the six-month
+period following adoption. Any impairment loss will be measured as of the date
+of adoption and recognized immediately as the cumulative effect of a change in
+accounting principle. Any subsequent impairment losses will be included in
+operating activities.
+
+       The Company expects to adopt SFAS 142 on November 1, 2002. As of July 31,
+2001, unamortized goodwill is $39.4 million which, in accordance with the
+Statements, will continue to be amortized until the date of adoption of SFAS
+142. Related amortization expense for the nine-month period ended July 31, 2001
+is $12.5 million. Because of the extensive effort needed to comply with adopting
+SFAS 141 and 142, it is not practicable to reasonably estimate the impact of
+adopting these Statements on the Company's financial statements at the date of
+this report, including whether the Company will be required to recognize any
+transitional impairment losses.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+        The following discussion contains forward-looking statements within the
+meaning of Section 21E of the Securities Exchange Act of 1934. Such
+forward-looking statements include the statements concerning effects of foreign
+currency hedging, adequacy of our cash as well as statements including the words
+"projects," "expects," "believes," "anticipates" or similar expressions. Actual
+results could differ materially from those anticipated in such forward-looking
+statements as a result of certain factors, including those set forth under
+"Factors That May Affect Future Results."
+
+RESULTS OF OPERATIONS
+
+        Sale of Silicon Libraries Business. On January 4, 2001, we sold the
+assets of the our silicon libraries business to Artisan Components, Inc.
+(Artisan) for a total sales price of $15.5 million, including common stock with
+a fair value on the date of sale of $11.4 million, and cash of $4.1 million. The
+net book value of the assets sold was $1.4 million. In connection with the sale,
+we subcontracted certain performance obligations under existing contracts to
+Artisan. We estimated the costs associated with the completion of these
+subcontract agreements to be approximately $750,000. Expenses incurred in
+connection with the sale were $2.8 million. On the date of sale, the Company
+recorded a gain on the sale of the business of $10.6 million which is included
+in other income and expense on the accompanying unaudited condensed consolidated
+statement of operations. The subcontract agreements were completed during the
+third quarter of fiscal 2001 at a total cost of $1.4 million. Direct revenue for
+the silicon libraries business was $0.2 million and $3.9 million for the
+nine-month periods ended July 31, 2001 and 2000, respectively. Direct revenue
+for this business was $4.3 million in fiscal 2000.
+
+        Introduction of Technology Subscription Licenses (TSLs). On July 31,
+2000, we introduced TSLs, which are time-limited rights to use our software.
+Since TSLs include bundled product and services, both product and service
+revenue is generally recognized ratably over the term of the license, or, if
+later, as payments become due. The terms of TSLs, and the payments due thereon,
+may be structured flexibly to meet the needs of the customer. With minor
+exceptions, under TSLs, customers cannot obtain major new products developed or
+acquired during the term of their license without making an additional purchase.
+Overall, we believe that TSLs have enabled us to (i) offer customers technology
+and terms that more closely match their needs; (ii) have greater visibility into
+our earnings stream; (iii) resist customer requests for special
+end-of-the-quarter discounts; and (iv) roll out our new technologies in a more
+planned manner.
+
+        The replacement of the prior form of time-based licenses by TSLs has
+impacted and will continue to impact our reported revenue. Under a ratable
+license, relatively little revenue is recognized during the quarter the product
+is delivered, and the remaining amount is recorded as deferred revenue, to the
+extent that the license fee has been paid or invoiced, to be recognized over the
+term of the license or will be considered backlog by the Company. Backlog is
+
+
+
+                                       14
+<PAGE>   15
+not recorded on our balance sheet. Under the prior form of time-based licenses,
+a high proportion of all license revenue was recognized in the quarter that the
+product was delivered, with relatively little recorded as deferred revenue or as
+backlog. Therefore, an order for a TSL will result in significantly lower
+current-quarter revenue than an equal-sized order under the prior form of
+time-based licenses.
+
+       We set revenue targets for any given quarter based, in part, upon an
+assumption that we will achieve a certain license mix of perpetual licenses and
+TSLs. The actual mix of licenses sold affects the revenue we recognize in the
+period. If we are unable to achieve our target license mix, we may not meet our
+revenue targets. Through the third quarter of 2001, our target license mix for
+new orders included 20% to 30% perpetual licenses. Since the introduction of
+TSLs, new product orders consisted of approximately 21% perpetual licenses and
+79% TSLs. In the third quarter of 2001, the license mix was approximately 29%
+perpetual licenses and 71% TSLs. Notwithstanding the license mix in the third
+quarter, based on our experience in selling TSLs during the four quarter period
+since their introduction, we believe that the demand for TSLs versus perpetual
+license is stronger than originally anticipated, and have adjusted our target
+license mix accordingly. We expect that for the fourth quarter of 2001 and for
+fiscal 2002 perpetuals will comprise 15% to 20% of our license mix. Given the
+difference in the revenue profile of TSLs and perpetuals, this shift in license
+mix will reduce revenue in the short-term.
+
+        Revenue. Revenue consists of fees for perpetual and ratable licenses of
+the Company's software products, sales of hardware system products,
+post-contract customer support (PCS), customer training and consulting. We
+classify revenues as product, service or ratable license. Product revenue
+consists primarily of perpetual and non-ratable time-based license revenue
+(there were no non-ratable time-based licenses in fiscal 2001). Service revenue
+consists of PCS under perpetual and non-ratable time-based licenses and fees for
+consulting services and training. Ratable license revenue consists of all fees
+related to time-based licenses bundled with PCS and sold in a single package and
+time-based licenses that include extended payment terms or unspecified
+additional products.
+
+        As expected, revenue for the third quarter of fiscal 2001 decreased 23%
+to $176.1 million as compared to $228.8 million for the third quarter of fiscal
+2000. For the nine-month periods ended July 31, 2001 and 2000, revenue decreased
+24% to $496.8 million from $650.6 million, respectively. The decrease in revenue
+in 2001 compared to 2000 is due to the introduction and utilization for the full
+2001 period of the ratable license model and the related inherent decrease in
+revenue due to the timing of revenue recognition under this license model. Since
+the introduction of the ratable license model, total revenues have increased
+sequentially on a quarterly basis as follows: $133.2 million in the fourth
+quarter of 2000, and $157.2 million, $163.5 million and $176.1 million for the
+first, second and third quarters of 2001, respectively.
+
+        Product revenue was $44.9 million for the third quarter of fiscal 2001,
+compared to $143.3 million for the third quarter of fiscal 2000, and $117.2
+million and $396.9 million for the nine-month periods ended July 2001 and 2000,
+respectively. The decrease in product revenue during fiscal 2001 compared to
+fiscal 2000 is primarily due to the adoption of TSLs, which are reported
+separately as ratable license revenue, and the inherent decrease in revenue due
+to the timing of revenue recognition under this license model.
+
+        Ratable license revenue was $49.8 million for the third quarter of
+fiscal 2001 and $119.7 million for the nine-month period ended July 31, 2001.
+For the first three quarters of fiscal 2001, ratable revenue has increased, on a
+sequential quarter-to-quarter basis, amounting to: $31.0 million, $38.9 million
+and $49.8 million for the first, second and third quarters of 2001,
+respectively.
+
+        Service revenue was $81.4 million and $85.5 million for the third
+quarters of 2001 and 2000, respectively, and $259.9 million and $253.6 million
+for the nine-month periods ended July 31, 2001 and 2000, respectively. Service
+revenues have increased for the nine-month period ended July 31, 2001 compared
+to the same period during fiscal 2000 as a result of greater utilization of the
+our professional services consultants in the first two quarters of fiscal 2001.
+During fiscal 2000, the Company made a concerted effort to hire more
+professional services consultants in order to support the rollout of its
+Physical Synthesis products. For the third quarter of 2001, service revenue
+declined 5% compared to the third quarter of fiscal 2000. Service revenue was
+not affected by the change in the license model because service revenue is
+recognized ratably for maintenance or on the performance of services. The
+decline in revenue from the third quarter of 2000 to the third quarter of 2001
+is due to the softening economy. Cost-cutting efforts by customers led to
+rescheduling of delivery dates on certain consulting projects and cancellation
+of others. As a result, projects anticipated to produce revenue in the third
+quarter of 2001 were not completed. Assuming no improvement in the current
+economic climate, the Company anticipates that customers will continue to review
+their engagements with outside consultants, and may eliminate or defer those
+determined to be non-critical.
+
+
+
+                                       15
+<PAGE>   16
+        International Revenue. The following table summarizes the performance of
+the various regions as a percent of total Company revenue:
+
+
+
+<TABLE>
+<CAPTION>
+                                 THREE MONTHS ENDED                   NINE MONTHS ENDED
+                                    JULY 31,                              JULY 31,
+                            -----------------------               -----------------------
+                            2001              2000                2001               2000
+                            -----             -----               -----              ----
+<S>                         <C>               <C>                 <C>                <C>
+North America                63%                53%                62%                58%
+Europe                       19%                15%                18%                18%
+Japan                        10%                25%                11%                17%
+Other                         8%                 7%                 9%                 7%
+                            ---                ---                ---                ---
+Total                       100%               100%               100%               100%
+                            ===                ===                ===                ===
+</TABLE>
+
+        International revenue as a percentage of total revenue for the quarter
+ended July 31, 2001 decreased to 37% from 47% for the quarter ended July 31,
+2000. International revenues as a percentage of total revenue decreased to 38%
+from 42% for the nine-month periods ended July 31, 2001 and 2000, respectively.
+In any given period, the geographic mix of revenue is influenced by the
+particular contracts closed during the quarter. There was a decline in the
+revenue contribution from Japan in fiscal 2001 primarily as a result of an
+exceptionally high revenue contribution from Japan for the third quarter of
+fiscal 2000. The majority of our international sales are denominated in the U.S.
+dollar. There were no foreign exchange gains or losses that were material to our
+financial results during the three- and nine-month periods ended July 31, 2001
+and 2000.
+
+        Revenue - Product Groups. For management reporting purposes, our
+products have been organized into four distinct product groups -- IC
+Implementation, Verification and Test, Intellectual Property and System Level
+Design, Transistor Level Design -- and a services group -- Professional
+Services. The following table summarizes the revenue attributable to the various
+groups and as a percentage of total company revenue for the last five quarters:
+
+<TABLE>
+<CAPTION>
+                                 Q3-2001              Q2-2001            Q1-2001               Q4-2000             Q3-2000
+                           ------------------   ------------------   ------------------   ------------------   --------------
+<S>                        <C>           <C>    <C>           <C>    <C>           <C>    <C>           <C>    <C>        <C>
+Revenue
+   IC Implementation
+     DC Family             $ 55,510       32%   $ 53,578       33%   $ 53,845       34%   $ 44,657       33%   $ 85,985    38%
+     Physical Synthesis      13,212        7      10,495        6       6,160        4       8,189        6       7,443     3
+                           --------      ---    --------      ---    --------      ---    --------      ---    --------   ---
+                             68,722       39      64,073       39      60,005       38      52,846       39      93,428    41
+   Verification and Test     52,013       30      45,321       28      44,222       28      34,685       26      66,973    29
+   IP and System
+     Level Design            23,206       13      19,938       12      18,441       12      18,729       14      30,763    13
+   Transistor Level
+     Design                  14,203        8      10,730        7      13,465        9       9,058        7      17,789     8
+   Professional Services     17,966       10      23,462       14      21,021       13      17,904       14      19,882     9
+                           --------      ---    --------      ---    --------      ---    --------      ---    --------   ---
+     Total Company         $176,110      100%   $163,524      100%   $157,154      100%   $133,222      100%   $228,835   100%
+                           ========      ===    ========      ===    ========      ===    ========      ===    ========   ===
+</TABLE>
+
+        IC Implementation. IC implementation includes two product categories,
+the Design Compiler (DC) Family and Physical Synthesis. The DC Family includes
+Design Compiler, our core logic synthesis product, Power Compiler, which
+provides "push-button" power optimization and early analysis for the design of
+low power circuits, and Module Compiler, which is used in the design of complex
+datapaths.
+
+        Quarterly revenue from the DC Family has increased since the
+introduction of our ratable license model, from $44.7 million in the fourth
+quarter of 2000 to $55.5 million in the third quarter of 2001. This increase is
+driven by a continued increase in revenues from the DC Compiler. The decrease in
+revenue from the third quarter of 2000 to the fourth quarter of 2000 principally
+reflects the impact of our change in license strategy. As a percentage of total
+revenue, the DC Family has remained relatively flat over the last four quarters,
+ranging from 32% to 34%. While we expect the relative revenue contribution from
+the DC Family to decline over time as our customers transition from the DC
+Family products to Physical Synthesis products, Design Compiler remains one of
+our top-selling products.
+
+        Included in the Physical Synthesis family are Physical Compiler, a
+product that unifies synthesis, placement and global routing, Chip Architect, a
+chip floor-planning product, Flex Route, a high-level router, and our detailed
+routing technology. This product group, introduced in fiscal 2000, has achieved
+22% revenue growth for the nine-month period ended July 31, 2001 compared to the
+same period in 2000. Quarterly revenue from this product family has increased
+sequentially over the last five quarters with the exception of the first quarter
+of 2001. The decrease in revenue in the first quarter of 2001 compared to the
+fourth quarter of 2000 is due to the mix of license types sold in the quarter,
+specifically; fewer perpetual licenses were sold in that quarter compared to the
+preceding and following quarters. We expect to see continued increases in
+revenue from this product group for the remainder of fiscal 2001.
+
+
+
+
+                                       16
+<PAGE>   17
+        Verification and Test. Verification and Test includes our simulation,
+timing analysis, formal verification and test products. Revenue has increased in
+each quarter since the introduction of our ratable license model. This increase
+is primarily due to a growth in subscription revenue for our Verilog simulator,
+VCS, our static verification tool, and Prime Time. The decrease in revenue from
+the third quarter of 2000 to the fourth quarter of 2000 principally reflects the
+impact of our change in license strategy. We expect demand for verification
+products to increase as both semiconductor and systems companies encounter
+increasingly difficult verification challenges as chipmaking technology advances
+and ICs become more complex.
+
+        Intellectual Property and System Level Design (IP&SG). Our IP&SG
+products include the DesignWare library of design components and verification
+models, and system design products. Revenue has increased throughout fiscal
+2001, primarily due to increased DesignWare revenue. We expect to see continued
+increases in revenue for this product group over the remainder of fiscal year
+2001. During the first quarter of fiscal 2001, we sold our silicon libraries
+business, which had contributed direct revenue of $0.2 million, $0.5 million,
+and $0.1 million, in the first quarter of 2001, and the fourth and third
+quarters of fiscal 2000, respectively.
+
+        Transistor Level Design. Our transistor level design product group
+includes tools that are used in transistor-level simulation and analysis.
+Revenue from this product group has fluctuated since the introduction of TSLs as
+a result of the mix of license types of orders received. Because this is a
+relatively small product group, the revenue fluctuations have resulted in a
+trend in revenue as a percent of total revenue that is relatively flat over the
+last five quarters. We expect to see increases in revenue from this product
+group for the remainder of fiscal 2001.
+
+        Professional Services. The Professional Services group includes
+consulting and training. This group provides consulting services, including
+design methodology assistance, specialized telecommunications systems design
+services and turnkey design. Revenue from professional services increased
+quarterly from the fourth quarter of 2000 to the second quarter of 2001 as a
+result of increased sales of our turnkey design and wireless and broadband
+consulting services. However, in the third quarter of 2001, revenue from
+professional services declined 23% in comparison to the previous quarter. During
+the quarter, certain consulting projects were not completed as delivery dates
+were pushed out to future periods or canceled by customers which we believe to
+have been caused by the tightening economy. We anticipate that this revenue
+group will remain relatively flat for the remainder of fiscal 2001.
+
+       Cost of Revenue. Cost of product revenue includes personnel and related
+costs, production costs, product packaging, documentation, amortization of
+capitalized software development costs and purchased technology, and costs of
+the components of our hardware system products. The cost of internally developed
+capitalized software is amortized based on the greater of the ratio of current
+product revenue to the total of current and anticipated product revenue or the
+straight-line method over the software's estimated economic life of
+approximately two years. Cost of product revenue was 14% and 15% of total
+product revenue for the three and nine months ended July 31, 2001, as compared
+to 7% and 8% for the same periods during 2000. This increase is due to the
+decrease in the Company's revenues as a result of the change in license
+strategy. For the remainder of fiscal 2001, we expect the cost of product
+revenue as a percentage of revenue to remain relatively flat.
+
+        Cost of service revenue includes personnel and related costs associated
+with providing training and consulting services. Cost of service revenue as a
+percentage of total service revenue was 24% and 26% for the third quarters of
+fiscal 2001 and 2000, respectively, and 22% and 24% for each of the nine-month
+periods ended July 31, 2001 and 2000, respectively. The decrease in overall
+expense during fiscal 2001 is due to the replacement of contract personnel with
+permanent employees. On a sequential quarter basis in fiscal 2001, employee
+utilization declined in the third quarter due to the softening of demand for
+consulting services caused by the tightening economy. We anticipate that cost of
+service, as a percent of service revenue, will be flat or increase slightly for
+the remainder of fiscal 2001.
+
+        Since TSLs include bundled product and services, cost of ratable license
+revenue includes the costs of product and services related to our TSLs. Cost of
+ratable license revenue was 15% in the third quarter of fiscal 2001 and 16% for
+the nine-month period ended July 31, 2001. We do not expect significant
+fluctuations in the cost of TSL revenue as a percentage of revenue in fiscal
+2001.
+
+        Research and Development. Research and development expenses decreased by
+2% to $49.4 million in the third quarter of fiscal 2001, from $50.3 million in
+the same quarter of last year, both net of capitalized software development
+costs. This decrease is due to the consolidation of certain remote facilities,
+offset by an increase in
+
+
+
+                                       17
+<PAGE>   18
+compensation and compensation-related costs, including recruiting costs, related
+to higher levels of research and development staffing.
+
+        Research and development expenses were $143.2 million for the nine-month
+period ended July 31, 2001 and $140.6 million for the nine-month period ended
+July 31, 2000. The increase of $2.6 million is due to the increase in
+compensation and compensation-related costs, including recruiting costs, related
+to higher levels of research and development staffing, and, as a result of the
+way in which we determine our fiscal calendar, to the effect of one extra week
+of operations in fiscal 2001 compared to fiscal 2000. We believe that to
+maintain our competitive position in a market characterized by rapid rates of
+technological advancement, we must continue to invest significant resources in
+new systems and software, and continue to enhance existing products. We
+anticipate that we will continue to commit substantial resources to research and
+development in the future. If we determine that we are unable to enter a
+particular market in a timely manner, we may license technology from other
+businesses or acquire other businesses as an alternative to internal research
+and development. We expect research and development costs to remain relatively
+flat for the remainder of fiscal 2001.
+
+        Sales and Marketing. Sales and marketing expenses decreased by 6% to
+$69.0 million in the third quarter of fiscal 2001 from $73.7 million in the same
+quarter last year. Sales and marketing expenses were $207.7 million and $211.1
+million for the nine-month periods ended July 31, 2001 and 2000, respectively.
+The decrease in the three-month and the nine-month periods in comparison to
+fiscal 2000 resulted from decreases in communications costs, recruiting costs,
+consulting expenses, and costs associated with sales functions, offset by
+increases in compensation and compensation-related costs due to the additional
+week of operations during the current fiscal year. In line with historical
+results, we expect sales and marketing expenses to increase in the fourth
+quarter of fiscal 2001, principally attributable to increased commissions.
+Commission expense typically increases in the fourth quarter because we expense
+sales commissions upon product shipment and the fourth quarter is historically
+our largest quarter for shipments.
+
+        General and Administrative. General and administrative expenses
+increased to $19.1 million in the third quarter of fiscal 2001, compared to
+$16.0 million in the same quarter last year. For the nine-month periods ended
+July 31, 2001 and 2000, general and administrative expenses were $50.9 million
+and $42.3 million, respectively. The increase in the three-month and the
+nine-month periods in comparison to fiscal 2000 is primarily due to increases in
+personnel costs as a result of the additional week of operations in the first
+quarter of fiscal 2001 and an increase in infrastructure costs due to upgrades
+to current computer systems, offset by our efforts to contain general and
+administrative costs. In the third quarter of 2001, we began a project to
+upgrade the internal company-wide software system. During the third quarter, the
+majority of the costs associated with this upgrade were expensed as our efforts
+focused primarily on project planning and performance requirements. General and
+administrative expenses are expected to remain relatively flat for the remainder
+of fiscal 2001.
+
+        Amortization of Intangible Assets. Intangible assets represent the
+excess of the aggregate purchase price over the fair value of the tangible and
+identifiable intangible assets we have acquired, or goodwill. Intangible assets
+are amortized over their estimated useful life of three to five years. We assess
+the recoverability of goodwill by estimating whether the unamortized cost will
+be recovered through estimated future undiscounted cash flows. Amortization of
+intangible assets charged to operations in the third quarter of fiscal 2001 was
+$4.2 million compared to $3.7 million for the same period last year. For the
+nine-month periods ended July 31, 2001 and 2000, amortization of intangible
+assets charged to operations was $12.5 million and $11.0 million, respectively.
+The Financial Accounting Standards Board recently issued new guidance with
+respect to the amortization and evaluation of goodwill. This new guidance is
+discussed below under Effect of New Accounting Standards.
+
+        In-Process Research and Development. Purchased in-process research and
+development (IPRD) of $1.7 million in the nine-month period ended July 31, 2000
+represents the write-off of in-process technologies associated with our
+acquisition of Leda, S.A. in January 2000. At the date of the acquisition, the
+projects associated with the IPRD efforts had not yet reached technological
+feasibility and the research and development in process had no alternative
+future uses. Accordingly, this amount was expensed on the acquisition date.
+
+        Other Income, Net. Other income, net was $19.5 million in the third
+quarter of fiscal 2001, as compared to $8.8 million in the same quarter in the
+prior year. The quarter-over-quarter increase is due primarily to $13.1 million
+of gains recognized on the sale of securities as compared to $2.0 for the same
+period during 2000. Further, rental income was $2.5 million for the third
+quarter of fiscal 2001 as compared to zero for the same period during 2000.
+
+
+
+                                       18
+<PAGE>   19
+Interest income for the third quarter of 2001 of $2.7 million compared to $6.9
+million for the third quarter of 2000. Our stock repurchase program has led to
+lower cash balances, which resulted in the decrease in interest income.
+
+        Other income, net increased to $66.9 million for the nine months ended
+July 31, 2001 from $27.4 million for the same period during 2000. The nine-month
+increase is due in part to realized gains on investments, which were $43.1
+million for fiscal 2001 as compared to $7.1 million for fiscal 2000 and in part
+to the gain of $10.6 million on the sale of our silicon libraries business to
+Artisan. These gains were partially offset by the write-down of certain assets
+in our venture portfolio in the amount of $4.3 million for the nine months of
+fiscal 2001. Further, rental income was $6.2 million and zero for the nine-month
+periods ended July 31, 2001 and 2000, respectively. Interest income in the nine
+months ended July 31, 2001 was $10.5 million, as compared to $22.0 million in
+the same quarter last year. This decrease primarily reflects our lower cash
+balances, which results from the continuation of our stock repurchase program.
+
+        For the fourth quarter of 2001, we expect gains from the sale of
+investments held by the Company to be approximately $13.0 million.
+
+        During the nine months ended July 31, 2001, we determined that certain
+of the assets held in our venture fund were impaired and that the impairment was
+other than temporary. Accordingly, we recorded a charge of approximately $4.3
+million, which is included in the accompanying condensed consolidated statements
+of operations in other income, net. The impairment charge relates to certain
+investments in non-public companies and represents management's estimate of the
+impairment incurred during the period as a result of specific analysis of each
+investment, considering the activities of and events occurring at each of the
+underlying portfolio companies during the quarter. Our portfolio companies
+operate in industries that are rapidly evolving and extremely competitive. For
+equity investments in non-public companies for which there is not a market in
+which their value is readily determinable, we review each investment for
+indicators of impairment on a regular basis based primarily on achievement of
+business plan objectives and current market conditions, among other factors. The
+primary business plan objectives we consider include, among others, those
+related to financial performance such as achievement of planned financial
+results or completion of capital raising activities, and those that are not
+primarily financial in nature such as the launching of technology or the hiring
+of key employees.
+
+        Interest Rate Risk. Our exposure to market risk for a change in interest
+rates relates to our investment portfolio. We place our investments in a mix of
+short-term tax exempt and taxable instruments that meet high credit quality
+standards, as specified in our investment policy. This policy also limits the
+amount of credit exposure to any one issue, issuer and type of instrument. We do
+not anticipate any material losses with respect to our investment portfolio.
+
+        The following table presents the carrying value and related
+weighted-average interest rates for our investment portfolio. The carrying value
+approximates fair value at July 31, 2001. In accordance with our investment
+policy, the weighted-average duration of our invested funds portfolio does not
+exceed one year.
+
+        Principal (Notional) Amounts in U.S. Dollars:
+
+
+<TABLE>
+<CAPTION>
+                                                                         AVERAGE
+                                                   CARRYING             AFTER TAX
+(IN THOUSANDS, EXCEPT INTEREST RATES)               AMOUNT            INTEREST RATE
+                                                   --------           -------------
+<S>                                                <C>                <C>
+Short-term investments -- fixed rate                174,371               4.50%
+Money market funds -- variable rate                  68,601               2.71%
+                                                   --------               ----
+     Total interest bearing instruments            $242,972               4.00%
+                                                   ========               ====
+</TABLE>
+
+        Foreign Currency Risk. At the present time, we do not generally hedge
+anticipated foreign currency cash flows but hedge only those currency exposures
+associated with certain assets and liabilities denominated in nonfunctional
+currencies. Hedging activities undertaken are intended to offset the impact of
+currency fluctuations on these balances. The success of this activity depends
+upon the accuracy of our estimates of balances denominated in various
+currencies, primarily the euro, Japanese yen, Taiwan dollar, British pound
+sterling, Canadian dollar, and Singapore dollar. We had contracts for the sale
+and purchase of foreign currencies with a notional value expressed in U.S.
+dollars of $63.7 million as of July 31, 2001. Looking forward, we do not
+anticipate any material adverse effect on our consolidated financial position,
+results of operations, or cash flows resulting from the use of these
+instruments. There can be no assurance that these hedging transactions will be
+effective in the future.
+
+
+
+                                       19
+<PAGE>   20
+        The following table provides information about our foreign exchange
+forward contracts at July 31, 2001. Due to the short-term nature of these
+contracts, the contract rate approximates the weighted-average contractual
+foreign currency exchange rate at July 31, 2001. These forward contracts mature
+in approximately thirty days.
+
+        Short-Term Forward Contracts to Sell and Buy Foreign Currencies in U.S.
+Dollars:
+
+<TABLE>
+<CAPTION>
+                                                   USD AMOUNT             CONTRACT RATE
+                                                   ----------             -------------
+(IN THOUSANDS, EXCEPT FOR CONTRACT RATES)
+<S>                                                <C>                    <C>
+Forward Net Contract Values:
+    Euro                                           $  42,611                   1.1456
+    Japanese yen                                       6,541                 124.5343
+    Taiwan Dollar                                      1,303                    34.86
+    British pound sterling                             2,805                   0.7028
+    Canadian dollar                                    4,782                  1.52894
+    Singapore dollar                                   1,223                   1.8012
+    Euro/Japanese yen                                  4,469                   107.50
+                                                   ---------
+                                                   $  63,734
+                                                   =========
+</TABLE>
+
+        The unrealized gains/losses on the outstanding forward contracts at July
+31, 2001 were immaterial to our consolidated financial statements. The realized
+gain/losses on these contracts as they matured were not material to our
+consolidated financial position, results of operations or cash flows for the
+periods presented.
+
+        On November 1, 2000, we adopted Statement of Financial Accounting
+Standards No. 133 (SFAS 133), Accounting for Derivative Instruments and Hedging
+Activities, as amended. SFAS 133 establishes accounting and reporting standards
+for derivative instruments and hedging activities. SFAS 133 requires that all
+derivatives be recognized as either assets or liabilities at fair value.
+Derivatives that are not designated as hedging instruments are adjusted to fair
+value through earnings. If the derivative is designated as a hedging instrument,
+depending on the nature of the exposure being hedged, changes in fair value will
+either be offset against the change in fair value of the hedged asset,
+liability, or firm commitment through earnings, or recognized in other
+comprehensive income until the hedged anticipated transaction affects earnings.
+The ineffective portion of the hedge is recognized in earnings immediately. Upon
+adoption of FAS 133, the cumulative transition adjustment was insignificant. We
+do not believe that ongoing application of SFAS 133 will significantly alter our
+hedging strategies. However, its application may increase the volatility of
+other income and expense and other comprehensive income. Apart from our foreign
+currency hedging and forward sales of certain equity investments, we do not use
+derivative financial instruments. In particular, we do not use derivative
+financial instruments for speculative or trading purposes.
+
+       Effect of New Accounting Standards. In July 2001, the Financial
+Accounting Standards Board issued Statements of Financial Accounting Standards
+No. 141, Business Combinations, (SFAS 141) and No. 142, Goodwill and Other
+Intangible Assets (SFAS 142). SFAS 141 requires that the purchase method of
+accounting be used for all business combinations initiated after June 30, 2001
+and specifies criteria intangible assets acquired in a purchase method business
+combination must meet to be recognized apart from goodwill. SFAS 142 requires
+that goodwill and intangible assets with indefinite useful lives no longer be
+amortized, but instead tested for impairment at least annually in accordance
+with the provisions of SFAS 142.
+
+       The Company is required to adopt the provisions of SFAS 141 immediately.
+Under SFAS 141, goodwill and intangible assets determined to have indefinite
+useful lives acquired in a purchase business combination completed after June
+30, 2001, but before SFAS 142 is adopted will not be amortized, but will
+continue to be evaluated for impairment in accordance with SFAS 121. Goodwill
+and intangible assets acquired in business combinations completed before July 1,
+2001 will continue to be amortized and tested for impairment in accordance with
+current accounting guidance until the date of adoption of SFAS 142.
+
+        Upon adoption of SFAS 142, SFAS 141 requires that the Company evaluate
+its existing intangible assets and goodwill that were acquired in prior purchase
+business combinations, and make any necessary reclassifications in order to
+conform with the new criteria in SFAS 141 for recognition apart from goodwill.
+Upon adoption of SFAS 142, the Company will be required to reassess the useful
+lives and residual values of all intangible assets acquired, and make any
+necessary amortization period adjustments. In addition, the Company will be
+required to test intangible assets with indefinite useful lives and goodwill for
+impairment in accordance with the provisions of SFAS 142 within the six-month
+period following adoption. Any impairment loss will be measured as of the date
+of
+
+
+
+                                       20
+<PAGE>   21
+adoption and recognized immediately as the cumulative effect of a change in
+accounting principle. Any subsequent impairment losses will be included in
+operating activities.
+
+       The Company expects to adopt SFAS 142 on November 1, 2002. As of July 31,
+2001, unamortized goodwill is $39.4 million. which, in accordance with the
+Statements, will continue to be amortized until the date of adoption of SFAS
+142. Related amortization expense for the nine-month period ended July 31, 2001
+is $12.5 million. Because of the extensive effort needed to comply with adopting
+SFAS 141 and 142, it is not practicable to reasonably estimate the impact of
+adopting these Statements on the Company's financial statements at the date of
+this report, including whether the Company will be required to recognize any
+transitional impairment losses.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+        Cash, cash equivalents and short-term investments were $308.9 million at
+July 31, 2001, a decrease of $126.8 million, or 29%, from October 31, 2000. Cash
+provided by operating activities was $123.4 million for the nine months ended
+July 31, 2001 compared to $167.8 million for the same period in the prior year.
+
+        Cash provided by investing activities was $110.8 million in the first
+nine months of 2001 compared to $154.9 million provided by investing activities
+during same period in 2000. The decrease in cash provided by investing
+activities of $44.1 million is due to net proceeds from the sale of short- and
+long-term investments totaling $159.6 million for the nine months ended July 31,
+2001 as compared to net proceeds of investments totaling $208.6 million for the
+same period during 2000. The cash received from the sales of investments during
+fiscal 2001 was primarily used to purchase treasury stock. Capital expenditures
+totaled $52.0 million in the first nine months of fiscal 2001 as we continue to
+invest in fixed assets, primarily related to construction of our Oregon
+facilities and computing equipment to support our growth and expand our
+infrastructure.
+
+        We used $249.0 million in net cash for financing activities for the nine
+months ended July 31, 2001 compared to $177.6 for the same period during fiscal
+2000. The primary financing uses of cash during 2001 were for the repurchase of
+6.6 million shares of common stock for approximately $50 per share and payments
+on debt obligations totaling $6.5 million. Financing proceeds from the sale of
+shares pursuant to our employee stock plans during the nine months ended July
+31, 2001 were $89.3 million compared to $47.0 for the nine months ended July 31,
+2000.
+
+        Accounts receivable decreased 10%, from $146.4 million at October 31,
+2000 to $131.7 million at July 31, 2001. Days sales outstanding decreased to 68
+days as of July 31, 2001 from 99 days at October 31, 2000 as a result of a
+reduction in accounts receivable and an increase in revenues in the quarter
+ended July 31, 2001 compared to the quarter ended October 31, 2000.
+
+        We believe that our current cash, cash equivalents, short-term
+investments, lines of credit, and cash generated from operations will satisfy
+our business requirements for at least the next twelve months.
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+       As used in this section, the terms "we," "us" and "our" refers to
+Synopsys, Inc. and its subsidiaries at the date of this proxy
+statement/prospectus.
+
+       Synopsys' revenue and earnings may fluctuate. Many factors affect our
+revenue and earnings, which makes it difficult to achieve predictable revenue
+and earnings growth. Among these factors are customer product and service
+demand, product license terms, and the timing of revenue recognition on products
+and services sold. The following specific factors could affect our revenue and
+earnings in a particular quarter or over several quarterly or annual periods:
+
+        -       Like all companies, our business is linked to the health of the
+                U.S. and international economies. Economic growth has slowed
+                significantly, and some commentators believe the U.S. economy
+                will experience a recession. The recent terrorist attacks in New
+                York and Washington may also have an adverse affect on the
+                economy, at least in the near term. Weakness in the U.S. and
+                world economy could have an adverse effect on our orders and
+                revenue.
+
+        -       Our products are complex, and before buying them customers spend
+                a great deal of time reviewing and testing them. Our customers'
+                evaluation and purchase cycles do not necessarily match our
+                quarterly periods.
+
+
+
+                                       21
+<PAGE>   22
+                In the past, we have received a disproportionate volume of
+                orders in the last week of a quarter. In addition, a large
+                proportion of our business is attributable to our largest
+                customers. As a result, if any order, and especially a large
+                order, is delayed beyond the end of a fiscal period, our orders
+                for that period could be below our plan and our revenue could be
+                below any targets we may have published.
+
+        -       Accounting rules determine when revenue is recognized on our
+                products, TSLs and service contracts, and therefore impact how
+                much revenue we will report in any given fiscal period. The
+                authoritative literature under which Synopsys recognizes revenue
+                has been, and is expected to continue to be, the subject of much
+                interpretative guidance. In general, after the adoption of TSLs
+                in the fourth quarter of fiscal 2000, most orders for our
+                products and services yield revenue over multiple quarters or
+                years or upon completion of performance rather than at the time
+                the contract is executed. For any given order, however, the
+                specific terms agreed to with a customer may have the effect of
+                requiring deferral or acceleration of revenue in whole or in
+                part. Therefore, for any given fiscal period it is possible for
+                us to fall short in our revenue and/or earnings plan even while
+                orders and backlog remain on plan or, conversely, to meet or
+                exceed our revenue and/or earnings plan because of backlog and
+                deferred revenue, while orders are under plan.
+
+        -       In fiscal 2000, we modified the license and pricing structure
+                for our software products, adopting TSLs, for which revenue is
+                recognized over multiple quarters or upon completion of
+                performance rather than at the time the contract is executed.
+                Our revenue target for any given quarter is based, in part, upon
+                an assumption that we will achieve a license mix of perpetual
+                licenses (on which revenue is generally recognized in the
+                quarter shipped) and TSLs that includes 15% to 20% perpetual
+                licenses. If we are unable to achieve a mix in this range our
+                ability to achieve short-term or long-term revenue growth
+                targets may be impaired.
+
+       Weakness in the semiconductor and electronics businesses may negatively
+impact Synopsys' business. Synopsys' business depends on the semiconductor and
+electronics businesses. Purchases of our products are largely dependent upon the
+commencement of new design projects by semiconductor manufacturers and their
+customers, the number of design engineers and the increasing complexity of
+designs. Though we do not directly benefit from increases in the volume of chips
+produced, our business has benefited from the rapid worldwide growth of the
+semiconductor industry. Since the end of 2000, however, the semiconductor
+industry has experienced a sharp decline in orders and revenue.
+
+       Many semiconductor manufacturers and vendors of products incorporating
+semiconductors have announced earnings shortfalls and employee layoffs.
+
+       Customer spending has become more tightly controlled and spending
+decisions, particularly relating to consulting services, are more carefully
+scrutinized, and this have negatively affected our business. Demand for our
+products and services may also be affected by mergers in the semiconductor and
+systems industries, which may reduce the aggregate level of purchases of our
+products and services by the combined company. Continuation or worsening of the
+current conditions in the semiconductor industry, and the related impacts on
+customers' operating budgets and spending decisions, and continued consolidation
+among our customers, all could have a material adverse effect on our business,
+financial condition and results of operations.
+
+       Synopsys' industry is highly competitive. The EDA industry is highly
+competitive. We compete against other EDA vendors, and with customers'
+internally developed design tools and internal design capabilities, for a share
+of the overall EDA budgets of our potential customers. In general, competition
+is based on product quality and features, post-sale support, price and, as
+discussed below, the ability to offer a complete design flow. Our competitors
+include companies that offer a broad range of products and services, such as
+Cadence Design Systems, Inc., Mentor Graphics Corporation and Avant!
+Corporation, as well as companies, including numerous start-up companies, that
+offer products focused on a discrete phase of the integrated circuit design
+process. In certain situations, Synopsys' competitors have been offering
+aggressive discounts on certain of their products, in particular simulation and
+synthesis products. As a result, average prices for these products may fall.
+
+        Technology advances and customer requirements continue to fuel a change
+in the nature of competition among EDA vendors. Increasingly, EDA companies
+compete on the basis of "design flows" involving integrated logic and physical
+design products (referred to as "physical synthesis" products) rather than on
+the basis of individual "point" tools performing a discrete phase of the design
+process. The need to offer physical synthesis products will become increasingly
+important as ICs grow more complex. Our principal physical synthesis product was
+fully released in June 2000, and has been well received by customers. We are
+working on completing our design flow, and recently
+
+
+
+                                       22
+<PAGE>   23
+announced two additional products addressing the physical design phase of IC
+design, but there is no guarantee that we will be able to offer a competitive
+complete design flow to customers. The market for physical design tools is
+dominated by Cadence and Avant!, both of which offer products linking logic and
+physical design. If we are unsuccessful in developing a complete design flow on
+a timely basis or in convincing customers to adopt our integrated logical and
+physical design products and methodology, our competitive position could be
+significantly weakened.
+
+       Synopsys' revenue growth depends on new and non-synthesis products.
+Historically, much of our growth has been attributable to the strength of our
+logic synthesis products. These products accounted for 32.8% of revenue in the
+second fiscal quarter of 2001. We believe that orders and revenue for our
+flagship logic synthesis product, Design Compiler, and the DC Family have
+peaked. Over the long term, we expect the contribution from the DC Family to
+decline as our customers transition from the DC Family to Physical Synthesis
+products. In order to meet our revenue plan, revenue from our physical synthesis
+products, our non-synthesis products and professional services must grow faster
+than our overall revenue growth target. Among the products that we expect to be
+the most important contributors to revenue growth are our Physical Compiler
+physical synthesis, VCS Verilog simulation and DesignWare IP library products.
+If revenue growth for these products fails to meet our goals, it is unlikely
+that we will meet our overall revenue growth target.
+
+       In order to sustain revenue growth, we will have to enhance our existing
+products and introduce new products that are accepted by a broad range of
+customers, and to continue the growth in our consulting services business.
+Product success is difficult to predict. The introduction of new products and
+growth of a market for such products cannot be assured. In the past we, like all
+companies, have introduced new products that have failed to meet our revenue
+expectations. Expanding revenue from consulting services may be difficult in the
+current economic environment. It will also require us to continue to develop
+effective management controls on bidding and executing on consulting
+engagements. Increasing consulting orders and revenue while maintaining an
+adequate level of profit can be difficult. There can be no assurance that we
+will be successful in expanding revenue from existing or new products at the
+desired rate or in expanding our services business, and the failure to do so
+would have a material adverse effect on our business, financial condition and
+results of operations.
+
+       Businesses that Synopsys has acquired or may acquire in the future may
+not perform as projected. We have acquired or merged with a number of companies
+in recent years, and as part of our efforts to increase revenue and expand our
+product and services offerings we may acquire additional companies. In addition
+to direct costs, acquisitions pose a number of risks, including potential
+dilution of earnings per share, problems in integrating the acquired products
+and employees into our business, the failure to realize expected synergies or
+cost savings, the failure of acquired products to achieve projected sales, the
+drain on management time for acquisition-related activities, adverse effects on
+customer buying patterns and assumption of unknown liabilities. While we attempt
+to review proposed acquisitions carefully and negotiate terms that are favorable
+to us, there is no assurance that any acquisition will have a positive effect on
+our performance.
+
+       Stagnation of international economies would adversely affect our
+performance. During the third quarter of fiscal 2001, 37% of our revenue was
+derived from outside North America, as compared to 47% during fiscal 2000.
+International sales are vulnerable to regional or worldwide economic or
+political conditions and to changes in foreign currency exchange rates. Economic
+conditions in Europe, Japan and the rest of Asia have deteriorated in recent
+quarters, and the longer this weakness persists the more likely it is to have a
+negative impact on our business. In particular, a number of our largest European
+customers are in the telecommunications equipment business, which has weakened
+considerably this year. The Japanese economy has been stagnant for several
+years, and may now be entering a recession. If the Japanese economy remains
+weak, revenue and orders from Japan, and perhaps the rest of Asia, could be
+adversely affected. In addition, the yen-dollar and euro-dollar exchange rates
+remain subject to unpredictable fluctuations. Weakness of the yen could
+adversely affect revenue and orders from Japan during future quarters. Asian
+countries other than Japan also have experienced economic and currency problems
+in recent years, and in most cases they have not fully recovered. If such
+conditions persist or worsen, orders and revenues from the Asia Pacific region
+would be adversely affected.
+
+        Synopsys' success depends on recruiting and retaining key personnel. Our
+success is dependent on technical and other contributions of key employees. We
+participate in a dynamic industry, with significant start-up activity, and our
+headquarters is in Silicon Valley, where skilled technical, sales and management
+employees are in high demand. There are a limited number of qualified EDA and IC
+design engineers, and the competition for such individuals is intense.
+Experience at Synopsys is highly valued in the EDA industry and the general
+electronics industry, and our
+
+
+
+                                       23
+<PAGE>   24
+employees are recruited aggressively by our competitors and by start-up
+companies in many industries. In the past, we have experienced, and may continue
+to experience, significant employee turnover. There can be no assurance that we
+can continue to recruit and retain the technical and managerial personnel we
+need to run our business. Failure to do so could have a material adverse effect
+on our business, financial condition and results of operations.
+
+       Synopsys is dependent on its proprietary technology. Our success is
+dependent, in part, upon our proprietary technology and other intellectual
+property rights. We rely on agreements with customers, employees and others, and
+intellectual property laws, to protect our proprietary technology. There can be
+no assurance that these agreements will not be breached, that we would have
+adequate remedies for any breach or that our trade secrets will not otherwise
+become known or be independently developed by competitors. Moreover, effective
+intellectual property protection may be unavailable or limited in certain
+foreign countries. Failure to obtain or maintain appropriate patent, copyright
+or trade secret protection, for any reason, could have a material adverse effect
+on our business, financial condition and results of operations. In addition,
+there can be no assurance that infringement claims will not be asserted against
+us and any such claims could require us to enter into royalty arrangements or
+result in costly and time-consuming litigation or could subject us to damages or
+injunctions restricting our sale of products or could require us to redesign
+products.
+
+       Our operating expenses do not fluctuate proportionately with fluctuations
+in revenues. Our operating expenses are based in part on our expectations of
+future revenue, and expense levels are generally committed in advance of
+revenue. Since only a small portion of our expenses varies with revenue, a
+shortfall in revenue translates directly into a reduction in net income. For
+fiscal 2001, our target for total expenses is $663-666 million. If we are
+unsuccessful in generating anticipated revenue or maintaining expenses within
+this range, however, our business, financial condition and results of operations
+could be materially adversely affected.
+
+       Synopsys has adopted anti-takeover provisions which may have the effect
+of delaying or preventing changes of control or management. We have adopted a
+number of provisions that could have anti-takeover effects. Our board of
+directors has adopted a Preferred Shares Rights Plan, commonly referred to as a
+"poison pill." In addition, our board of directors has the authority, without
+further action by its stockholders, to issue additional shares of Common Stock
+and to fix the rights and preferences of, and to issue authorized but
+undesignated shares of Preferred Stock. These and other provisions of Synopsys'
+Restated Certificate of Incorporation and Bylaws and the Delaware General
+Corporation Law may have the effect of deterring hostile takeovers or delaying
+or preventing changes in control or management of Synopsys, including
+transactions in which the stockholders of Synopsys might otherwise receive a
+premium for their shares over then current market prices.
+
+       Synopsys is subject to changes in financial accounting standards. We
+prepare our financial statements in conformity with accounting principles
+generally accepted in the United States (GAAP). GAAP are subject to
+interpretation by the Financial Accounting Standards Board, the American
+Institute of Certified Public Accountants (AICPA), the SEC and various bodies
+appointed by these organizations to interpret existing rules and create new
+accounting policies. In particular, a task force of the Accounting Standards
+Executive Committee, a subgroup of the AICPA, meets on a quarterly basis to
+review various issues arising under the existing software revenue recognition
+rules, and issues interpretations of these rules. Additional interpretations
+issued by the task force may have an adverse effect on how we report revenue or
+on the way we conduct our business in the future.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+        Information relating to quantitative and qualitative disclosure about
+market risk is set forth under the captions "Interest Rate Risk" and "Foreign
+Currency Risk" in Item 2, Management's Discussion and Analysis of Financial
+Condition and Results of Operations. Such information is incorporated herein by
+reference.
+
+
+
+                                       24
+<PAGE>   25
+PART II. OTHER INFORMATION
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+       (a.)       Exhibits
+
+                  10.1 1992 Stock Option Plan, as amended through May 25, 2001
+
+       (b.)       Reports on Form 8-k
+
+                  None.
+
+
+
+                                   SIGNATURES
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                       SYNOPSYS, INC.
+
+                                       By:   /s/ Robert B. Henske
+                                            ------------------------------------
+                                            Robert B. Henske
+                                            Senior Vice President, Finance and
+                                            Operations, and Chief Financial
+                                            Officer
+                                            (Principal Financial Officer)
+
+                                            Date: September 14, 2001
+
+
+
+                                       25
+<PAGE>   26
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+          EXHIBIT
+           NUMBER        DESCRIPTION
+          -------        -----------
+<S>                      <C>
+           10.1          1992 Stock Option Plan, as amended through May 25, 2001
+</TABLE>
+
+
+
+
+                                       26
+
+</TEXT>
+</DOCUMENT>

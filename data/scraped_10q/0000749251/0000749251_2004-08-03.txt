@@ -1,0 +1,2040 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>y99641e10vq.txt
+<DESCRIPTION>10-Q
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(MARK ONE)
+
+     [X]          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                           THE SECURITIES EXCHANGE ACT OF 1934.
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2004
+
+                                       OR
+
+     [ ]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                          THE SECURITIES EXCHANGE ACT OF 1934.
+
+                      FOR THE TRANSITION PERIOD FROM        TO
+
+                         COMMISSION FILE NUMBER 1-14443
+
+                                 GARTNER, INC.
+             (Exact name of Registrant as specified in its charter)
+
+            Delaware                                           04-3099750
+(State or other jurisdiction of                             (I.R.S.  Employer
+incorporation or organization)                            Identification Number)
+
+          56 Top Gallant Road                                   06904-2212
+             P.O. Box 10212                                     (Zip Code)
+             Stamford, CT
+(Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (203) 316-1111
+
+         Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES [X] NO [ ].
+
+         Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Exchange Act Rule 12b-2) YES [X] NO [ ].
+
+         The number of shares outstanding of the Registrant's capital stock as
+of July 26, 2004 was 105,950,856 shares of Class A Common Stock and 28,118,443
+shares of Class B Common Stock.
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                           Page
+<S>                                                                                        <C>
+PART I                   FINANCIAL INFORMATION
+
+     ITEM 1:             FINANCIAL STATEMENTS
+
+                         Condensed Consolidated Balance Sheets at June 30, 2004 and
+                           December 31, 2003                                                 3
+
+                         Condensed Consolidated Statements of Operations for the
+                           Three and Six Months Ended June 30, 2004 and 2003                 4
+
+                         Condensed Consolidated Statements of Cash Flows for the
+                           Six Months Ended June 30, 2004 and 2003                           5
+
+                         Notes to Condensed Consolidated Financial Statements                6
+
+     ITEM 2:             MANAGEMENT'S DISCUSSION AND ANALYSIS
+                           OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS                 14
+
+     ITEM 3:             QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT
+                           MARKET RISK                                                      29
+
+     ITEM 4:             CONTROLS AND PROCEDURES                                            30
+
+PART II                  OTHER INFORMATION
+
+     ITEM 2:             CHANGES IN SECURITIES AND USE OF PROCEEDS                          31
+
+     ITEM 6:             EXHIBITS AND REPORTS ON FORM 8-K                                   32
+</TABLE>
+
+                                       2
+<PAGE>
+
+PART I                   FINANCIAL INFORMATION
+ITEM 1.                  FINANCIAL STATEMENTS
+
+                                  GARTNER, INC.
+                      Condensed Consolidated Balance Sheets
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                        June 30,   December 31,
+                                                         2004         2003
+                                                      -----------  ------------
+                                                      (unaudited)
+<S>                                                   <C>          <C>
+ASSETS
+Current assets:
+   Cash and cash equivalents                          $ 290,997    $ 229,962
+   Fees receivable, net                                 214,086      266,122
+   Deferred commissions                                  25,720       27,751
+   Prepaid expenses and other current assets             24,845       25,642
+                                                      ---------    ---------
+Total current assets                                    555,648      549,477
+Property, equipment and leasehold improvements, net      61,388       66,541
+Goodwill                                                229,555      230,387
+Intangible assets, net                                      594          985
+Other assets                                             68,052       69,874
+                                                      ---------    ---------
+TOTAL ASSETS                                          $ 915,237    $ 917,264
+                                                      =========    =========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+   Accounts payable and accrued liabilities           $ 144,141    $ 175,609
+   Deferred revenues                                    295,109      315,524
+                                                      ---------    ---------
+Total current liabilities                               439,250      491,133
+Other liabilities                                        50,239       50,385
+                                                      ---------    ---------
+TOTAL LIABILITIES                                       489,489      541,518
+
+STOCKHOLDERS' EQUITY
+   Preferred stock                                            -            -
+   Common stock                                              74           72
+   Additional paid-in capital                           449,070      408,504
+   Unearned compensation, net                            (3,471)      (1,846)
+   Accumulated other comprehensive income, net            2,724        1,530
+   Accumulated earnings                                 185,428      173,936
+   Treasury stock, at cost                             (208,077)    (206,450)
+                                                      ---------    ---------
+TOTAL STOCKHOLDERS' EQUITY                              425,748      375,746
+                                                      ---------    ---------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY            $ 915,237    $ 917,264
+                                                      =========    =========
+</TABLE>
+
+ See the accompanying notes to the condensed consolidated financial statements.
+
+                                       3
+<PAGE>
+
+                                  GARTNER, INC.
+                 Condensed Consolidated Statements of Operations
+               (Unaudited, in thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                Three Months Ended         Six Months Ended
+                                                     June 30,                  June 30,
+                                                2004          2003        2004          2003
+                                              ---------    ---------    ---------    ---------
+<S>                                           <C>          <C>          <C>          <C>
+Revenues:
+   Research                                   $ 118,966    $ 117,793    $ 241,208    $ 233,517
+   Consulting                                    67,609       66,525      132,235      128,304
+   Events                                        37,211       25,292       55,382       48,801
+   Other                                          4,071        3,708        7,699        6,978
+                                              ---------    ---------    ---------    ---------
+Total revenues                                  227,857      213,318      436,524      417,600
+Costs and expenses:
+   Cost of services and product development     114,386      103,440      209,862      205,773
+   Selling, general and administrative           81,588       80,730      169,222      164,234
+   Depreciation                                   6,844        8,964       14,781       18,789
+   Amortization of intangibles and goodwill
+   impairments                                      190          338        1,126          743
+   Other charges                                  9,063           --       19,576        5,426
+                                              ---------    ---------    ---------    ---------
+Total costs and expenses                        212,071      193,472      414,567      394,965
+                                              ---------    ---------    ---------    ---------
+Operating income                                 15,786       19,846       21,957       22,635
+Income from investments                              19        5,491           39        5,522
+Interest income (expense), net                      370       (5,542)         615      (11,154)
+Other (expense) income, net                        (323)         (39)      (3,436)         496
+                                              ---------    ---------    ---------    ---------
+Income before income taxes                       15,852       19,756       19,175       17,499
+Provision for income taxes                        4,824        6,902        7,683        6,157
+                                              ---------    ---------    ---------    ---------
+Net income                                    $  11,028    $  12,854    $  11,492    $  11,342
+                                              =========    =========    =========    =========
+Income per common share:
+   Basic                                      $    0.08    $    0.16    $    0.09    $    0.14
+   Diluted                                    $    0.08    $    0.13    $    0.09    $    0.14
+
+Weighted average shares outstanding:
+   Basic                                        132,129       79,234      131,183       79,863
+   Diluted                                      135,335      127,959      134,242      128,260
+</TABLE>
+
+ See the accompanying notes to the condensed consolidated financial statements.
+
+                                       4
+<PAGE>
+
+                                  GARTNER, INC.
+                 Condensed Consolidated Statements of Cash Flows
+                            (Unaudited, in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                   Six Months Ended
+                                                                                        June 30,
+                                                                                   2004          2003
+                                                                                 ---------    ---------
+<S>                                                                              <C>          <C>
+OPERATING ACTIVITIES:
+Net income                                                                       $  11,492    $  11,342
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+   Depreciation and amortization, including goodwill impairments                    15,907       19,532
+   Non-cash compensation                                                             1,198          511
+   Tax benefit associated with employees' exercise of stock options                  4,377            -
+   Deferred taxes                                                                      408           68
+   Gain from investments                                                               (39)      (5,522)
+   Accretion of interest and amortization of debt issue costs                          602       11,781
+   Non-cash charges associated with South America closings                           2,943            -
+Changes in assets and liabilities:
+   Fees receivable, net                                                             50,141       64,051
+   Deferred commissions                                                              1,896        3,345
+   Prepaid expenses and other current assets                                           523        5,089
+   Other assets                                                                        366       (1,543)
+   Deferred revenues                                                               (17,720)     (26,314)
+   Accounts payable and accrued liabilities                                        (30,787)      (4,166)
+                                                                                 ---------    ---------
+CASH PROVIDED BY OPERATING ACTIVITIES                                               41,307       78,174
+                                                                                 ---------    ---------
+INVESTING ACTIVITIES:
+Proceeds from insurance recovery                                                         -        5,464
+Investments                                                                              -       (1,500)
+Additions to property, equipment and leasehold improvements                         (9,197)      (9,765)
+                                                                                 ---------    ---------
+CASH USED IN INVESTING ACTIVITIES                                                   (9,197)      (5,801)
+                                                                                 ---------    ---------
+FINANCING ACTIVITIES:
+Proceeds from stock issued for stock plans                                          37,852        2,575
+Payments for debt issuance costs                                                         -         (220)
+Purchases of treasury stock                                                         (6,113)     (23,504)
+                                                                                 ---------    ---------
+CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES                                     31,739      (21,149)
+                                                                                 ---------    ---------
+NET INCREASE IN CASH AND CASH EQUIVALENTS                                           63,849       51,224
+EFFECTS OF EXCHANGE RATES ON CASH AND CASH EQUIVALENTS                              (2,814)       5,804
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD                                     229,962      109,657
+                                                                                 ---------    ---------
+CASH AND CASH EQUIVALENTS, END OF PERIOD                                         $ 290,997    $ 166,685
+                                                                                 =========    =========
+</TABLE>
+
+ See the accompanying notes to the condensed consolidated financial statements.
+
+                                       5
+<PAGE>
+
+                                  GARTNER, INC.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 - Basis of Presentation
+
+These interim condensed consolidated financial statements have been prepared in
+accordance with generally accepted accounting principles ("GAAP") for interim
+financial information and with the instructions to Form 10-Q and should be read
+in conjunction with the consolidated financial statements and related notes of
+the Company filed in our Annual Report on Form 10-K for the year ended December
+31, 2003. The preparation of financial statements in conformity with GAAP
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities, the disclosure of contingent assets and
+liabilities, and the reported amounts of operating revenues and expenses. These
+estimates are based on management's knowledge and judgments. In the opinion of
+management, all adjustments (consisting of normal recurring adjustments)
+considered necessary for a fair presentation of financial position, results of
+operations and cash flows at the dates and for the periods presented have been
+included. The results of operations for the three and six months ended June 30,
+2004 may not be indicative of the results of operations for the remainder of
+2004. Certain prior year amounts have been reclassified to conform to the
+current year presentation.
+
+Note 2 - Comprehensive Income
+
+The components of comprehensive income for the three and six months ended June
+30, 2004 and 2003 are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                              Three Months Ended      Six Months Ended
+                                                                    June 30,               June 30,
+                                                               2004         2003        2004        2003
+                                                             ---------    --------    --------    --------
+<S>                                                          <C>          <C>         <C>         <C>
+Net income                                                   $  11,028    $ 12,854    $ 11,492    $ 11,342
+Other comprehensive (loss) income:
+   Foreign currency translation adjustments                     (1,671)      5,756      (1,775)      5,955
+   Reclassification adjustment of foreign currency
+    translation adjustments to net income upon closing
+    of foreign operations                                            -           -       2,943           -
+   Net unrealized (losses) gain on investments, net of tax          (2)        (11)         26          (7)
+                                                             ---------    --------    --------    --------
+Other comprehensive (loss) income                               (1,673)      5,745       1,194       5,948
+                                                             ---------    --------    --------    --------
+Comprehensive income                                         $   9,355    $ 18,599    $ 12,686    $ 17,290
+                                                             =========    ========    ========    ========
+</TABLE>
+
+The balance of unrealized holding losses on investments, net of tax, at June 30,
+2004 was immaterial. During the six months ended June 30, 2004, we reclassified
+$2.9 million of accumulated translation adjustments associated with certain
+operations in South America into net income as a result of our closure of
+operations. The reclassification adjustment was recorded as a loss within Other
+(expense) income, net.
+
+                                                                               6
+<PAGE>
+
+Note 3 - Computations of Income per Share of Common Stock
+
+The following table sets forth the reconciliation of the basic and diluted
+income per share (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                                      Three Months Ended                Six Months Ended
+                                                                           June 30,                         June 30,
+                                                                       2004           2003             2004            2003
+                                                                    ----------     ----------       ----------      ----------
+<S>                                                                 <C>            <C>              <C>             <C>
+NUMERATOR:
+Net income used for calculating basic income per share              $   11,028     $   12,854       $   11,492      $   11,342
+After-tax interest on convertible long-term debt                             -          3,323                -           6,567
+                                                                    ----------     ----------       ----------      ----------
+Income used for calculating diluted income per share                $   11,028     $   16,177       $   11,492      $   17,909
+                                                                    ==========     ==========       ==========      ==========
+
+DENOMINATOR:
+Weighted average number of common shares used in
+    the calculation of basic income per share                          132,129         79,234          131,183          79,863
+      Common stock equivalents associated with stock
+         compensation plans                                              3,206            413            3,059             440
+      Weighted average number of shares associated
+         with convertible long-term debt                                     -         48,312                -          47,957
+                                                                    ----------     ----------       ----------      ----------
+Shares used in the calculation of diluted income per share             135,335        127,959          134,242         128,260
+                                                                    ==========     ==========       ==========      ==========
+
+Basic income per share                                              $     0.08     $     0.16       $     0.09      $     0.14
+                                                                    ==========     ==========       ==========      ==========
+Diluted income per share                                            $     0.08     $     0.13       $     0.09      $     0.14
+                                                                    ==========     ==========       ==========      ==========
+</TABLE>
+
+For the three and six months ended June 30, 2004 and 2003, unvested restricted
+stock awards were not included in the computation of diluted income per share
+because the effect would have been anti-dilutive. For the three months ended
+June 30, 2004 and 2003, options to purchase 11.2 million and 31.9 million
+shares, respectively, of Class A Common Stock of the Company were not included
+in the computation of diluted income per share because the effect would have
+been anti-dilutive. For the six months ended June 30, 2004 and 2003, options to
+purchase 11.4 million and 32.2 million shares, respectively, of Class A Common
+Stock of the Company were not included in the computation of diluted income per
+share because the effect would have been anti-dilutive.
+
+Note 4 - Accounting for Stock-Based Compensation
+
+The Company has several stock-based compensation plans. The Company applies APB
+Opinion No. 25 "Accounting for Stock Issued to Employees" ("APB 25") in
+accounting for its employee stock options and purchase rights and applies
+Statement of Financial Accounting Standards No. 123 "Accounting for Stock Issued
+to Employees" ("SFAS 123") for disclosure purposes only. Under APB 25, the
+intrinsic value method is used to account for stock-based employee compensation
+plans. The SFAS 123 disclosures include pro forma net loss and loss per share as
+if the fair value-based method of accounting had been used.
+
+If compensation for employee options had been determined based on SFAS 123, the
+Company's pro forma net income, and pro forma income per share would have been
+as follows (in thousands, except per share data):
+
+                                                                               7
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                              Three Months Ended                  Six Months Ended
+                                                                    June 30,                           June 30,
+                                                              2004            2003               2004            2003
+                                                          -----------      -----------       -----------      -----------
+<S>                                                       <C>              <C>               <C>              <C>
+Net income as reported                                    $    11,028      $    12,854       $    11,492      $    11,342
+      Add: Stock-based compensation expense
+         included in net income as reported                       464              169               779              332
+      Deduct: Pro forma employee stock-based
+          compensation cost, net of tax                        (2,727)          (3,603)           (5,217)          (9,300)
+                                                          -----------      -----------       -----------      -----------
+Pro forma income                                          $     8,765      $     9,420       $     7,054      $     2,374
+                                                          ===========      ===========       ===========      ===========
+
+Basic income per share:
+      As reported                                         $      0.08      $      0.16       $      0.09      $      0.14
+      Pro forma                                           $      0.07      $      0.12       $      0.05      $      0.03
+
+Diluted income per share:
+      As reported                                         $      0.08      $      0.13       $      0.09      $      0.14
+      Pro forma                                           $      0.06      $      0.10       $      0.05      $      0.03
+</TABLE>
+
+The fair value of the Company's stock plans was estimated on the date of grant
+using the Black-Scholes option-pricing model with the following weighted-average
+assumptions:
+
+<TABLE>
+<CAPTION>
+                                        Three Months Ended                  Six Months Ended
+                                             June 30,                            June 30,
+                                       2004             2003              2004             2003
+                                      ------           -----              ----             ----
+<S>                                   <C>              <C>                <C>              <C>
+Expected dividend yield                   0%              0%                 0%              0%
+Expected stock price volatility          42%             41%                42%             43%
+Risk-free interest rate                 3.1%            1.7%               3.0%            1.9%
+Expected life in years                  3.7             3.4                3.7             3.4
+</TABLE>
+
+The weighted average fair values of our stock options granted during the three
+months ended June 30, 2004 and 2003 were $4.35, $2.46. The weighted average fair
+values of our stock options granted during the six months ended June 30, 2004
+and 2003 were $4.27 and $2.50, respectively.
+
+Note 5 - Segment Information
+
+The Company manages its business in three reportable segments organized on the
+basis of differences in its products and services: Research, Consulting, and
+Events. Research consists primarily of subscription-based research products.
+Consulting consists primarily of consulting and measurement engagements. Events
+consist of various symposia, expositions and conferences.
+
+The Company evaluates reportable segment performance and allocates resources
+based on gross contribution margin. Gross contribution, as presented below, is
+the profit or loss from operations before interest income and expense, certain
+selling, general and administrative costs, amortization, income taxes, other
+expenses, and foreign exchange gains and losses. The accounting policies used by
+the reportable segments are the same as those used by the Company.
+
+The Company does not identify or allocate assets, including capital
+expenditures, by operating segment. Accordingly, assets are not reported by
+segment because the information is not available and is not reviewed in the
+evaluation of segment performance.
+
+                                                                               8
+<PAGE>
+
+The following tables present information about reportable segments (in
+thousands). The "Other" column consists primarily of software sales and certain
+other revenues and related expenses that do not meet the segment reporting
+quantitative thresholds. There are no inter-segment revenues.
+
+<TABLE>
+<CAPTION>
+                                          Research         Consulting           Events            Other         Consolidated
+                                          --------         ----------          --------          -------        ------------
+<S>                                       <C>              <C>                 <C>               <C>            <C>
+      THREE MONTHS ENDED
+       JUNE 30, 2004:
+Revenues                                   $118,966          $ 67,609          $ 37,211          $ 4,071          $ 227,857
+Gross Contribution                           73,004            24,835            16,858            3,614            118,311
+Corporate and other expenses                                                                                       (102,525)
+                                                                                                                  ---------
+Operating income                                                                                                  $  15,786
+                                                                                                                  =========
+
+      THREE MONTHS ENDED
+       JUNE 30, 2003:
+Revenues                                   $117,793          $ 66,525          $ 25,292          $ 3,708          $ 213,318
+Gross Contribution                           75,401            22,743            10,532            2,592            111,268
+Corporate and other expenses                                                                                        (91,422)
+                                                                                                                  ---------
+Operating income                                                                                                  $  19,846
+                                                                                                                  =========
+
+      SIX MONTHS ENDED
+       JUNE 30, 2004:
+Revenues                                   $241,208          $132,235          $ 55,382          $ 7,699          $ 436,524
+Gross Contribution                          152,031            50,079            23,965            6,771            232,846
+Corporate and other expenses                                                                                       (210,889)
+                                                                                                                  ---------
+Operating income                                                                                                  $  21,957
+                                                                                                                  =========
+
+      SIX MONTHS ENDED
+       JUNE 30, 2003:
+Revenues                                   $233,517          $128,304          $ 48,801          $ 6,978          $ 417,600
+Gross Contribution                          149,051            43,628            18,932            4,960            216,571
+Corporate and other expenses                                                                                       (193,936)
+                                                                                                                  ---------
+Operating income                                                                                                  $  22,635
+                                                                                                                  =========
+</TABLE>
+
+                                                                               9
+<PAGE>
+
+Note 6 - Goodwill and Intangible Assets
+
+The changes in the carrying amount of goodwill, by reporting segment, for the
+six months ended June 30, 2004 are as follows:
+
+<TABLE>
+<CAPTION>
+                                          Balance                                       Currency                Balance
+                                       December 31,                                    Translation             June 30,
+                                           2003                Impairments             Adjustments               2004
+                                      ---------------        ---------------         ---------------        ---------------
+<S>                                   <C>                    <C>                     <C>                    <C>
+Research                              $       128,896        $             -         $          (400)       $       128,496
+Consulting                                     68,803                   (739)                    307                 68,371
+Events                                         30,606                      -                       -                 30,606
+Other                                           2,082                      -                       -                  2,082
+                                      ---------------        ---------------         ---------------        ---------------
+Total goodwill                        $       230,387        $          (739)        $           (93)       $       229,555
+                                      ===============        ===============         ===============        ===============
+</TABLE>
+
+During the first quarter of 2004, we recorded a $0.7 million impairment loss for
+goodwill recorded for certain operations in South America as a result of our
+decision to close those operations.
+
+The following table presents the Company's intangible assets subject to
+amortization (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                                         June 30,             December 31,
+                                                                                           2004                   2003
+                                                                                     --------------          --------------
+<S>                                                                                  <C>                     <C>
+Non-compete agreements:
+   Gross cost                                                                        $       13,155          $       13,257
+   Accumulated amortization                                                                 (12,808)                (12,599)
+                                                                                     --------------          --------------
+Non-compete agreements, net                                                                     347                     658
+Trademarks and tradenames:
+   Gross cost                                                                                 1,808                   1,811
+   Accumulated amortization                                                                  (1,561)                 (1,484)
+                                                                                     --------------          --------------
+Trademarks and tradenames, net                                                                  247                     327
+                                                                                     --------------          --------------
+Intangible assets, net                                                               $          594          $          985
+                                                                                     ==============          ==============
+</TABLE>
+
+Aggregate amortization expense for the three month period ended June 30, 2004
+and 2003 was $0.2 million and $0.3 million, respectively. Aggregate amortization
+expense for the six month period ended June 30, 2004 and 2003 was $0.4 million
+and $0.7 million, respectively. The estimated future amortization expense of
+purchased intangibles is as follows (in thousands):
+
+<TABLE>
+<S>                              <C>
+2004 (remaining six months)      $ 294
+2005                               229
+2006                                60
+2007                                10
+2008                                 1
+                                 -----
+                                 $ 594
+                                 =====
+</TABLE>
+
+                                                                              10
+<PAGE>
+
+Note 7 - Other Charges
+
+On April 29, 2004, Michael Fleisher, our Chairman and CEO, announced his
+intention to leave Gartner sometime prior to the end of 2004. In conjunction
+with his departure, Mr. Fleisher entered into an amendment to his employment
+agreement pursuant to which he has agreed that he will continue to serve in the
+capacity of Chief Executive Officer for up to six months. In satisfaction of
+existing obligations under his original employment agreement and in
+consideration of his assistance during this transition period, the Board of
+Directors agreed that Mr. Fleisher will receive: (a) payments totaling $4.3
+million, which includes his 2003 bonus and compensation in respect of the
+transition period; (b) at our cost, group health benefits pursuant to our
+standard programs for himself, his spouse and any children for two years or
+until he obtains other employment, if that occurs sooner; and (c) reasonable
+office support for one year, or until he obtains other employment, if that
+occurs sooner. The majority of these costs, excluding compensation during the
+transition period, have been recognized during the second quarter of 2004 as an
+expense within Other charges.
+
+In addition, in accordance with his previously existing employment agreement
+with regards to equity arrangements, Mr. Fleisher will receive (a) acceleration
+in full of vesting of all equity arrangements subject to vesting and granted
+prior to October 1, 2002; (b) continued vesting until October 29, 2006 of all
+outstanding equity awards granted on or after October 1, 2002; and (c) the
+ability to exercise all equity arrangements granted after October 1, 2001 until
+October 29, 2007 and all equity arrangements granted on or prior to October 1,
+2001 until October 29, 2005. The Company recorded a non-cash charge of $0.4
+million related to the acceleration of equity arrangements in the second quarter
+of 2004.
+
+During the second quarter of 2004, the Company recorded other charges of $9.1
+million, which included a majority of the costs noted above, as well as costs
+associated with the realignment of the Company's workforce. This workforce
+realignment resulted in the termination of an additional 30 employees during the
+second quarter of 2004.
+
+During the first quarter of 2004, the Company recorded other charges of $10.5
+million, of which $10.4 million was associated with the realignment of our
+workforce and $0.1 million was associated with costs to close certain operations
+in South America. The workforce realignment portion of the charge is for costs
+for employee severance payments and related benefits. This workforce realignment
+was a continuation of the action plan initiated during the fourth quarter of
+2003 and resulted in the termination of 132 employees during the first quarter
+of 2004.
+
+During the first quarter of 2003, the Company recorded other charges of $5.4
+million associated with workforce reductions. The charge related to costs
+associated with employee termination severance payments and related benefits.
+This workforce reduction resulted in the termination of 92 employees during the
+three months ended March 31, 2003.
+
+                                                                              11
+<PAGE>
+
+The following table summarizes the activity related to the liability for the
+restructuring and other severance programs recorded as other charges (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                                         Workforce           Excess
+                                                         Reduction         Facilities
+                                                           Costs              Costs              Other                Total
+                                                        -----------        -----------        -----------         -----------
+<S>                                                     <C>                <C>                <C>                 <C>
+Accrued Liability at December 31, 2002                       11,723             15,936                  -              27,659
+Charges during six months ended
+June 30, 2003                                                 5,426                  -                  -               5,426
+Payments                                                    (12,627)            (3,882)                 -             (16,509)
+                                                        -----------        -----------        -----------         -----------
+Accrued Liability at June 30, 2003                            4,522             12,054                  -              16,576
+Charges during remainder of 2003                             14,574              9,716                  -              24,290
+Non-cash charges                                               (123)                 -                  -                (123)
+Payments                                                     (6,157)            (2,611)                 -              (8,768)
+                                                        -----------        -----------        -----------         -----------
+Accrued Liability at December 31, 2003                       12,816             19,159                  -              31,975
+Charges during six months ended
+June 30, 2004                                                19,473                  -                103              19,576
+Non-cash charges                                               (496)                 -                (66)               (562)
+Payments                                                    (20,840)            (2,663)               (37)            (23,540)
+                                                        -----------        -----------        -----------         -----------
+Accrued Liability at June 30, 2004                      $    10,953        $    16,496        $         -         $    27,449
+                                                        ===========        ===========        ===========         ===========
+</TABLE>
+
+The non-cash charges for workforce reductions result from the establishment of a
+new measurement date for certain equity compensation arrangements upon the
+modification of the terms of the related agreement. The accrued severance of
+$11.0 million at June 30, 2004 is expected to be paid by March 31, 2005. We will
+fund these costs from existing cash.
+
+Note 8 - Stock Programs
+
+Tender Offer
+
+On June 22, 2004, we initiated a "Dutch Auction Tender Offer" to repurchase
+approximately 11.3 million of our Class A Common Stock and approximately 5.5
+million shares of our Class B Common Stock, with the price for each Class to be
+between $12.50 and $13.50 per share. Additionally, the Company announced that it
+would repurchase approximately 9.2 million shares of Class A Common Stock from
+Silver Lake Partners at the same price per Class A Share as is paid in the
+tender offer. In the event the tender offer is undersubscribed, Silver Lake
+Partners will sell additional Class A Shares to the Company up to an aggregate
+maximum of 12.0 million shares. Upon the closing of this purchase, which is
+scheduled to occur eleven business days following completion of the tender
+offer, Silver Lake Partners' percentage of ownership interest in our outstanding
+shares will be approximately equal to or below its current level, depending of
+the level of stockholder participation in the tender offer.
+
+If we purchase the maximum number of shares of each Class, the total cost will
+be between $210 million and $227 million, or between $325 million and $351
+million including the repurchase of shares from Silver Lake Partners.
+
+Stock Repurchase Program
+
+On July 17, 2001, the Board of Directors approved the repurchase of up to $75
+million of our Common Stock. On July 25, 2002, the Board of Directors increased
+the authorized stock repurchase program from the previously approved $75 million
+to up to $125 million of our Common Stock. On July 24, 2003, the Board of
+Directors authorized an additional increase of $75 million in the stock
+repurchase program
+
+                                                                              12
+<PAGE>
+
+bringing the total authorization to $200 million. During the six months ended
+June 30, 2004, the Company repurchased 413,225 shares of its Class A Common
+Stock and 114,600 shares of its Class B Common Stock at an aggregate cost of
+$6.1 million under this program. On a cumulative basis at June 30, 2004, the
+Company has purchased $133.2 million of our Common Stock under this program. In
+conjunction with the tender offer, the Board of Directors terminated this Stock
+Repurchase Program during June 2004.
+
+Restricted Stock Award
+
+During the first quarter of 2004, we awarded 175,000 shares of restricted stock
+on which the restrictions will lapse after a three-year period in the event that
+certain revenue and earnings metrics are achieved. During the second quarter of
+2004, we awarded 33,000 shares of restricted stock on which the restrictions
+lapse ratably over a three-year period.
+
+Note 9 - Contingencies
+
+The Company is involved in legal proceedings and litigation arising in the
+ordinary course of business. The Company believes the outcome of all current
+proceedings, claims and litigation will not have a material effect on our
+financial position or results of operations when resolved in future periods.
+
+The Company has various agreements in which we may be obligated to indemnify the
+other party with respect to certain matters. Generally, these indemnification
+provisions are included in contracts arising in the normal course of business.
+We customarily agree to hold the other party harmless against losses arising
+from a breach of representations related to such matters as title to assets sold
+and licensed or certain intellectual property rights. It is not possible to
+predict the maximum potential amount of future payments under these
+indemnification provisions due to the conditional nature of our obligations and
+the unique facts of each particular agreement. Historically, payments made by
+the Company under these agreements have not been material. As of June 30, 2004,
+the Company is not aware of any indemnification agreements that would require
+material payments.
+
+Note 10 - Subsequent Event
+
+On July 23, 2004, the Company announced that the Board of Directors named Eugene
+Hall as Chief Executive Officer. Mr. Hall will succeed Michael Fleisher, who had
+previously announced his intention to depart as Gartner's chairman and chief
+executive officer after a transition period. Additionally, James C. Smith, a
+current member of the Company's Board of Directors, has been appointed
+non-executive Chairman of the Board.
+
+In connection with the Tender Offer discussed in Note 8, we received a $75.0
+million bridge loan from JPMorgan Chase Bank on July 30, 2004. We intend to pay
+off the bridge loan in full upon the signing of a 225.0 million credit agreement
+with a syndicate of lenders. The agreement, expected to be entered into in
+August, will provide for a five year $125.0 million term A loan facility and a
+five year $100 million revolving credit facility. The facilities will bear
+interest equal to LIBOR plus an applicable margin which will vary based on
+specified leverage ratios. The term A loan facility will be payable in equal
+quarterly installment over a five year period. The credit facilities are subject
+to mandatory prepayments from a portion of proceeds from assets sale and
+proceeds from certain future debt issuances. The credit agreement includes
+customary affirmative, negative and financial covenants primarily based on our
+financial results and other measures such as contract value. We believe that our
+ability to draw down the full amount available under the facilities will not be
+restricted by these covenants on the date we sign them. The facilities also
+include commitment fees on the unused portion of the revolving credit facility
+not subject to letters of credit.
+
+                                                                              13
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+The purpose of the following Management's Discussion and Analysis (MD&A) is to
+help facilitate the understanding of significant factors influencing the
+operating results, financial condition and cash flows of Gartner, Inc.
+Additionally, the MD&A also conveys our expectations of the potential impact of
+known trends, events or uncertainties that may impact future results. You should
+read this discussion in conjunction with our condensed consolidated financial
+statements and related notes included in this report and in our Annual Report on
+Form 10-K for the year ended December 31, 2003. Historical results and
+percentage relationships are not necessarily indicative of operating results for
+future periods.
+
+References to "the Company," "we," "our," and "us" are to Gartner, Inc. and its
+subsidiaries.
+
+FORWARD-LOOKING STATEMENTS
+
+In addition to historical information, this Quarterly Report contains
+forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934,
+as amended. Forward-looking statements are any statements other than statements
+of historical fact, including statements regarding our expectations, beliefs,
+hopes, intentions or strategies regarding the future. In some cases,
+forward-looking statements can be identified by the use of words such as "may,"
+"will," "expects," "should," "believes," "plans," "anticipates," "estimates,"
+"predicts," "potential," "continue," or other words of similar meaning.
+Forward-looking statements are subject to risks and uncertainties that could
+cause actual results to differ materially from those discussed in, or implied
+by, the forward-looking statements. Factors that might cause such a difference
+include, but are not limited to, those discussed in "Factors That May Affect
+Future Performance" and elsewhere in this report and in our Annual Report on
+Form 10-K for the year ended December 31, 2003. Readers should not place undue
+reliance on these forward-looking statements, which reflect management's opinion
+only as of the date on which they were made. Except as required by law, we
+disclaim any obligation to review or update these forward-looking statements to
+reflect events or circumstances as they occur. Readers also should review
+carefully any risk factors described in other reports filed by us with the
+Securities and Exchange Commission.
+
+OVERVIEW
+
+With the convergence of IT and business, technology has become increasingly more
+important - not just to technology professionals, but also to business
+executives. We are an independent and objective research and advisory firm that
+helps IT and business executives use technology to build, guide and grow their
+enterprises.
+
+We employ a diversified business model that leverages the breadth and depth of
+our research intellectual capital while enabling us to maintain and grow our
+market-leading position and brand franchise. Our strategy is to align our
+resources and our infrastructure to leverage that intellectual capital into
+additional revenue streams through effective packaging, campaigning and
+cross-selling of our products and services. Our diversified business model
+provides multiple entry points and synergies that facilitate increased client
+spending on our research, consulting and events. A key strategy is to increase
+business volume with our most valuable clients, identifying relationships with
+the greatest sales potential and expanding those relationships by offering
+strategically relevant research and analysis.
+
+We intend to maintain a balance between (1) pursuing opportunities and applying
+resources with a strict focus on growing our businesses and (2) generating
+profitability through a streamlined cost structure.
+
+We have been organized into three business segments: research, consulting and
+events.
+
+                                                                              14
+<PAGE>
+
+-    RESEARCH products and services highlight industry developments, review new
+     products and technologies, provide quantitative market research, and
+     analyze industry trends within a particular technology or market sector.
+
+-    CONSULTING consists primarily of consulting, measurement engagements and
+     strategic advisory services (paid one-day analyst engagements) ("SAS"),
+     which provide assessments of cost, performance, efficiency and quality
+     focused on the IT industry.
+
+-    EVENTS consists of various symposia, conferences and exhibitions focused on
+     the IT industry.
+
+We have recently begun to undertake a plan to ensure that our business units are
+closely aligned with client need and market opportunity. As part of that
+process, we have begun to reorganize our business in to three distinct business
+units:
+
+-    GARTNER INTELLIGENCE delivers content and advice to IT professionals,
+     technology vendors and investors through vehicles such as Research, Events
+     and SAS.
+
+-    GARTNER EXECUTIVE PROGRAMS offers membership and peer-networking services
+     for chief information officers (CIOs) and other key executives, through
+     offerings such as our EXP membership program.
+
+-    GARTNER CONSULTING focuses on customized engagements that allow CIOs and
+     their counterparts to apply Gartner's knowledge to their specific business
+     situations, with an emphasis on areas such as outsourcing and IT
+     management.
+
+Organizing our business units around distinct client segments will allow us to
+make our existing products more relevant, accelerate the development of new
+products that provide solutions for specific client needs, and increase the
+Gartner value proposition overall.
+
+As part of implementing this plan, we continue to analyze whether or not it
+impacts how we report on our business segments. We will continue to report our
+segment information as we have historically until we complete the alignment of
+our financial reporting to this new structure and can then analyze what impact,
+if any, this alignment will have.
+
+We believe the following business measurements are important performance
+indicators for our business segments.
+
+<TABLE>
+<CAPTION>
+BUSINESS SEGMENT                           BUSINESS MEASUREMENTS
+----------------           -----------------------------------------------------
+<S>                        <C>
+Research                   CONTRACT VALUE represents the value attributable to
+                           all of our subscription-related research products
+                           that recognize revenue on a ratable basis. Contract
+                           value is calculated as the annualized value of all
+                           subscription research contracts in effect at a
+                           specific point in time, without regard to the
+                           duration of the contract.
+
+                           CLIENT RETENTION RATE represents a measure of client
+                           satisfaction and renewed business relationships at a
+                           specific point in time. Client retention is
+                           calculated on a percentage basis by dividing our
+                           current clients, who were also clients a year ago, by
+                           all clients from a year ago.
+
+                           WALLET RETENTION RATE represents a measure of the
+                           amount of contract value we have retained with
+                           clients over a twelve-month period. Wallet retention
+                           is calculated on a percentage basis by dividing the
+                           contract value of clients, who were clients one year
+                           earlier, by the total contract value from a year
+                           earlier. When wallet retention exceeds client
+                           retention, it is an indication of retention of
+                           higher-spending clients.
+</TABLE>
+
+                                                                              15
+<PAGE>
+
+<TABLE>
+<S>                        <C>
+Consulting                 CONSULTING BACKLOG represents future revenue to be
+                           derived from in-process consulting, measurement and
+                           SAS engagements.
+
+                           UTILIZATION RATES represent a measure of productivity
+                           of our consultants. Utilization rates are calculated
+                           for billable headcount on a percentage basis by
+                           dividing total hours billed by total hours available
+                           to bill.
+
+Events                     NUMBER OF EVENTS represents the total number of
+                           hosted events completed during the period.
+</TABLE>
+
+EXECUTIVE SUMMARY OF OPERATIONS AND FINANCIAL POSITION
+
+Technology spending has decreased steadily over the past few years. As a result,
+sales of our IT related research have declined as well. During this period, we
+have been focused on stabilizing and then growing revenue in our core Research
+business. This continued focus began to yield the desired outcome during the
+latter half of 2003. We ended the latter half of 2003 with two consecutive
+quarters of sequential increases in contract value after seven consecutive
+quarters of sequentially decreasing contract value. Contract value increased
+sequentially again in the first quarter of 2004, but decreased slightly during
+the second quarter of 2004. However, contract value increased 4% on a
+year-over-year comparison. Our research client retention rates maintained the
+strong rate of 78% from December 2003 during the second quarter of 2004. We
+believe the technology market is showing signs of a recovery, and that the
+realignment of our business units discussed previously will help us grow during
+this expected recovery.
+
+Our Consulting business ended 2003 with a positive trend, showing two
+consecutive quarters of sequential increases in backlog after five consecutive
+quarters of sequential decreases. As we noted in our Annual Report on Form 10-K,
+we have been exiting certain less profitable consulting practices and
+geographies as part of the realignment previously discussed. Due to this plan of
+exiting certain practices and geographies, consulting backlog decreased to $92
+million at March 31, 2004 from $100 million at December 31, 2003, but backlog
+has quickly recovered to $98 million at June 30, 2004 as business has ramped up
+in our areas of focus. We also mentioned in our Annual Report on Form 10-K that
+we expect this realignment to address our sub-optimal utilization rates and our
+lack of scale in some regions. During the second quarter of 2004, our consultant
+utilization rates increased to approximately 66% as compared to approximately
+55% and 54% during the second and fourth quarter of 2003, respectively.
+
+Our Events business continues to deliver strong results, particularly in an
+environment where few competitors have survived. Our emphasis on managing the
+Events portfolio to retain our long-time successful events and introduce
+promising new events has resulted in improved revenue performance. During the
+second quarter of 2004, revenues from events that were held in the same quarter
+last year increased approximately 31%. Revenues recognized during the first six
+months of 2004 were higher than the prior year period despite hosting 12% or
+four fewer events than during the first six months of 2003 due to increased
+participation.
+
+During the fourth quarter of 2003, we made an important change to our capital
+structure. Our 6% convertible notes were converted into Class A Common Stock.
+This eliminated all of our outstanding debt, and the related interest expense.
+We ended the second quarter of 2004 with $426 million of stockholders' equity.
+In addition, our cash increased from $230 million at December 31, 2003 to $291
+million at June 30, 2004.
+
+During the second quarter of 2004, we initiated another important change to our
+capital structure. We
+
+                                                                              16
+<PAGE>
+
+commenced a Dutch auction self-tender offer for up to 11,298,630 shares of our
+Class A Common Stock and up to 5,505,305 shares of our Class B Common Stock with
+the price for each Class to be between $12.50 to $13.50 per share. If we
+purchase the maximum number of shares of each Class, the total purchase price
+will be between approximately $210 Million and $227 Million. We also entered
+into an agreement with Silver Lake Partners, L.P. and certain of its affiliates
+("Silver Lake"), which collectively own approximately 44.4% of Gartner's Class A
+Common Stock and are affiliated with two members of our Board of Directors, to
+purchase from Silver Lake approximately 9.2 million shares of Class A Common
+Stock, subject to adjustment if the number of Class A Shares sought in the
+tender offer is increased or decreased. Additionally, if the tender offer for
+the shares of Class A Common Stock is not fully subscribed, then the number of
+shares of Class A Common Stock purchased from Silver Lake will be increased by
+that number of Class A Shares equal to the difference between the number of
+Class A Shares sought in the tender offer and the actual number of Class A
+Shares tendered and accepted for payment in the tender offer (provided that in
+no event will more than 12 million Class A Shares be purchased from Silver
+Lake). The purchase of shares from Silver Lake will be at the same price per
+Class A Share as is paid in the tender offer. Silver Lake has also agreed not to
+tender any of its shares in the tender offer. If the maximum number of shares
+are purchased as a result of the tender offer and this agreement, the total
+purchase price will be between approximately $325 million and $351 million.
+
+We believe that the tender offer is a prudent use of our financial resources
+given our business profile and assets, and we believe that investing in our own
+shares is an attractive use of capital and an efficient means to provide value
+to our stockholders. As of June 30, 2004, we had no debt. In connection with the
+tender offer and the Silver Lake agreement, we plan to incur approximately $200
+million of non-convertible debt and use up to approximately $150 million of our
+cash on hand. We anticipate that we will have adequate cash generating capacity
+and no immediate need for the accumulation of cash, and expect that our current
+cash balances, anticipated cash flows from operations and borrowing capacity
+exceed our capital requirements for normal operations, capital expenditures and
+acquisitions and other opportunities for growth that may arise. We believe the
+tender offer, if completed, will be accretive to currently projected earnings
+per share, although there can be no assurance of this.
+
+CRITICAL ACCOUNTING POLICIES
+
+The preparation of financial statements requires the application of appropriate
+accounting policies. The policies discussed below are considered by management
+to be critical to an understanding of Gartner's financial statements because
+their application requires the most significant management judgments. Specific
+risks for these critical accounting policies are described below.
+
+REVENUE RECOGNITION - We recognize revenue in accordance with SEC Staff
+Accounting Bulletin ("SAB") No. 101, Revenue Recognition in Financial
+Statements, and SAB No. 104, Revenue Recognition. Revenue by significant source
+is accounted for as follows:
+
+-    Research revenues are derived from subscription contracts for research
+     products. Revenues from research products are deferred and recognized
+     ratably over the applicable contract term;
+
+-    Consulting revenues are based primarily on fixed fees or time and materials
+     for discrete projects. Revenues for such projects are recognized as work is
+     delivered and/or services are provided and are evaluated on a contract by
+     contract basis;
+
+-    Events revenues are deferred and recognized upon the completion of the
+     related symposium, conference or exhibition; and
+
+                                                                              17
+<PAGE>
+
+-    Other revenues, principally software licensing fees, are recognized when a
+     signed non-cancelable software license exists, delivery has occurred,
+     collection is probable, and the fees are fixed or determinable. Revenue
+     from software maintenance is deferred and recognized ratably over the term
+     of the maintenance agreement, which is typically twelve months.
+
+The majority of research contracts are billable upon signing, absent special
+terms granted on a limited basis from time to time. All research contracts are
+non-cancelable and non-refundable, except for government contracts that have a
+30-day cancellation clause, but have not produced material cancellations to
+date. It is our policy to record the entire amount of the contract that is
+billable as a fee receivable at the time the contract is signed with a
+corresponding amount as deferred revenue, since the contract represents a
+legally enforceable claim. For those government contracts that permit
+termination, the Company bills the client the full amount billable under the
+contract but only records a receivable equal to the earned portion of the
+contract. In addition, the Company only records deferred revenue on these
+government contracts when cash is received. Deferred revenues attributable to
+government contracts were $35.0 million and $38.6 million at June 30, 2004 and
+December 31, 2003, respectively. In addition, at June 30, 2004 and December 31,
+2003, the Company had not recognized uncollected receivables or deferred
+revenues, relating to government contracts that permit termination, of $4.4
+million and $6.6 million, respectively.
+
+UNCOLLECTIBLE FEES RECEIVABLE - Provisions for bad debts are recognized as
+incurred. The measurement of likely and probable losses and the allowance for
+uncollectible fees receivable is based on historical loss experience, aging of
+outstanding receivables, an assessment of current economic conditions and the
+financial health of specific clients. This evaluation is inherently judgmental
+and requires material estimates. These valuation reserves are periodically
+re-evaluated and adjusted as more information about the ultimate collectibility
+of fees receivable becomes available. Circumstances that could cause our
+valuation reserves to increase include changes in our clients' liquidity and
+credit quality, other factors negatively impacting our clients' ability to pay
+their obligations as they come due, and the effectiveness of our collection
+efforts. Total trade receivables at June 30, 2004 were $223.1 million, offset by
+an allowance for losses of approximately $9.0 million. Total trade receivables
+at December 31, 2003 were $275.1 million, offset by an allowance for losses of
+approximately $9.0 million.
+
+IMPAIRMENT OF GOODWILL AND OTHER INTANGIBLE ASSETS - The evaluation of goodwill
+is performed in accordance with SFAS No. 142, "Goodwill and Other Intangible
+Assets." Among other requirements, this standard eliminated goodwill
+amortization upon adoption and required an initial assessment for goodwill
+impairment within six months of adoption and at least annually thereafter. The
+evaluation of other intangible assets is performed on a periodic basis. These
+assessments require us to estimate the fair value of our reporting units based
+on estimates of future business operations and market and economic conditions in
+developing long-term forecasts. If we determine the fair values are less than
+the carrying amount of goodwill recorded on our Consolidated Balance Sheets, we
+must recognize an impairment charge, for the associated goodwill of that
+reporting unit, to earnings in our financial statements. Goodwill is evaluated
+for impairment at least annually, or whenever events or changes in circumstances
+indicate that the carrying value may not be recoverable. Factors we consider
+important that could trigger a review for impairment include the following:
+significant under-performance relative to historical or projected future
+operating results, significant changes in the manner of our use of acquired
+assets or the strategy for our overall business, and significant negative
+industry or economic trends.
+
+Due to the numerous variables associated with our judgments and assumptions
+relating to the valuation of the reporting units and the effects of changes in
+circumstances affecting these valuations, both the precision and reliability of
+the resulting estimates are subject to uncertainty, and as additional
+information
+
+                                                                              18
+<PAGE>
+
+becomes known, we may change our estimates. During the first quarter of 2004, we
+recorded an impairment charge of $0.7 million relating to goodwill associated
+with certain operations in South America that we decided to close.
+
+ACCOUNTING FOR INCOME TAXES - As we prepare our consolidated financial
+statements, we estimate our income taxes in each of the jurisdictions where we
+operate. This process involves estimating our current tax exposure together with
+assessing temporary differences resulting from differing treatment of items for
+tax and accounting purposes. These differences result in deferred tax assets and
+liabilities, which are included within our consolidated balance sheet. We record
+a valuation allowance to reduce our deferred tax assets when future realization
+is in question. We consider future taxable income and ongoing prudent and
+feasible tax planning strategies in assessing the need for the valuation
+allowance. In the event we determine that we would be able to realize our
+deferred tax assets in the future in excess of our net recorded amount, an
+adjustment to the deferred tax asset would increase income in the period such
+determination was made. Likewise, should we determine that we would not be able
+to realize all or part of our net deferred tax asset in the future, an
+adjustment to the deferred tax asset would be charged to income in the period
+such determination was made.
+
+CONTINGENCIES AND OTHER LOSS RESERVES AND ACCRUALS - We establish reserves for
+severance costs, lease costs associated with excess facilities, contract
+terminations and asset impairments as a result of actions we undertake to
+streamline our organization, reposition certain businesses and reduce ongoing
+costs. Estimates of costs to be incurred to complete these actions, such as
+future lease payments, sublease income, the fair value of assets, and severance
+and related benefits, are based on assumptions at the time the actions are
+initiated. To the extent actual costs differ from those estimates, reserve
+levels may need to be adjusted. In addition, these actions may be revised due to
+changes in business conditions that we did not foresee at the time such plans
+were approved. Additionally, we record accruals for estimated discretionary
+incentive compensation costs during the year. Amounts accrued at the end of each
+reporting period are based on our estimates and may require adjustments as the
+ultimate amount paid associated with these incentives are sometimes not known
+until after year-end.
+
+IMPAIRMENT OF INVESTMENT SECURITIES - A charge to earnings is made when a market
+decline below cost is other than temporary. Management regularly reviews each
+investment security for impairment based on criteria that include: the length of
+time and the extent to which market value has been less than cost, the financial
+condition and near-term prospects of the issuer, the valuation of comparable
+companies, and our intent and ability to retain the investment for a period of
+time sufficient to allow for any anticipated recovery in market value. Future
+adverse changes in market conditions or poor operating results of underlying
+investments could result in losses or an inability to recover the carrying value
+of the investments that may not be reflected in an investment's current carrying
+value, thereby possibly requiring an impairment charge in the future. Total
+investments in equity securities were $10.3 million and $10.9 million at June
+30, 2004 and December 31, 2003, respectively.
+
+RESULTS OF OPERATIONS
+
+OVERALL RESULTS
+
+TOTAL REVENUES increased 7% in the second quarter of 2004 to $227.9 million
+compared to $213.3 million for the second quarter of 2003 and increased 5% when
+comparing the first six months of 2004 to the first six months of 2003. Revenues
+for the second quarter of 2004 benefited partially by the timing of events as
+several events held in the first quarter of 2003 were held in the second quarter
+of 2004, including the attendee portion of our Spring Symposium in North
+America, which was completed in the second quarter of 2004. The effects of
+foreign currency translation had approximately a 2% positive effect on
+
+                                                                              19
+<PAGE>
+
+revenues for the second quarter and a 3% positive effect on revenues on a
+year-to-date basis. Please refer to the section of this MD&A entitled "Segment
+Results" for a further discussion of revenues by segment.
+
+COST OF SERVICES AND PRODUCT DEVELOPMENT increased $10.9 million, or 11%, to
+$114.4 million in the second quarter of 2004 from $103.4 million in the second
+quarter of 2003 and increased 2% when comparing the first six months of 2004
+with the first six months of 2003. Excluding the effects of foreign currency
+translation, cost of services and product development would have increased by
+approximately 7% during the second quarter and would have decreased 2% during
+the first six months of 2004 as compared to the first six months of 2003. The
+increase in cost of services and product development on a year-to-date basis
+resulted primarily from increased investment in our Research business. The
+increase in cost of services and product development during the second quarter
+was caused primarily by the timing of events, most significantly the attendee
+portion of Spring Symposium which occurred during the second quarter of 2004 as
+compared to the first quarter in 2003. Additionally, cost of services and
+product development during 2004 benefited by the reversal, $1.7 million during
+the second quarter and $3.5 million during the first six months, of prior years'
+discretionary incentive compensation programs. As a percentage of sales, cost of
+services and product development increased to 50% during the second quarter of
+2004 from 48% during the second quarter of 2003 as a result of the shift in our
+Events delivery calendar. For the first six months of 2004, cost of services and
+product development as a percentage of sales decreased to 48% from 49% in 2003
+primarily due to improved Consulting margins in 2004.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES increased $0.9 million, or 1%, to
+$81.6 million in the second quarter of 2004 from $80.7 million in the second
+quarter of 2003. SG&A increased 3% when comparing the first six months of 2004
+to the first six months of 2003. These increases were primarily due to the
+effects of foreign currency translation. Excluding the effects of foreign
+currency translation, SG&A expenses would have decreased 2% for the second
+quarter of 2004 compared to the second quarter of 2003 and would have decreased
+1% for the first six months of 2004 compared to the first six months of 2003.
+During the second quarter and first six months of 2004, SG&A expenses benefited
+by the reversal of $2.6 million and $3.3 million, respectively, of prior year's
+discretionary incentive compensation programs. Additionally, the Company reduced
+its allowance for doubtful accounts by $1.5 million in the second quarter of
+2004 as a result of increased collections and a decline in write-offs.
+
+DEPRECIATION EXPENSE for the second quarter of 2004 decreased 24% to $6.8
+million, compared to $9.0 million for the second quarter of 2003 and decreased
+21% when comparing the first six months of 2004 to the first six months of 2003.
+The decrease was due to a reduction in capital spending during 2002 and 2003
+relative to the capital spending in 2000 and 2001.
+
+AMORTIZATION OF INTANGIBLES AND GOODWILL IMPAIRMENTS of $0.2 million for the
+second quarter of 2004 decreased from $0.3 million for the second quarter of
+2003 due to certain intangible assets having been fully amortized since the
+second quarter of 2003. Amortization of intangibles and goodwill impairments
+increased during the first six months of 2004 as compared to the same period in
+2003 due to the recognition of impairment of goodwill of $0.7 million associated
+with certain operations in South America as a result of our decision to close
+those operations.
+
+OTHER CHARGES of $9.1 million during the second quarter of 2004 includes
+severance costs associated with the departure of our CEO of $3.8 million, as
+well as costs associated with the termination of 30 additional employees. The
+annualized savings from the termination of these 30 employees would be
+approximately $8.3 million. However, the Company plans to reinvest a significant
+portion of these savings into improving its products, processes and
+infrastructure to help drive future growth. During the first quarter of 2004,
+other charges of $10.5 million were primarily associated with a realignment of
+our workforce. This workforce realignment was a continuation of the action plan
+initiated during the fourth quarter of 2003 and has resulted in the termination
+of 132 employees, or approximately 4% of our workforce, bringing the total
+terminations to 262 employees associated with the action plan announced in
+December 2003. Other charges of $5.4 million during the
+
+                                                                              20
+<PAGE>
+
+first quarter of 2003 were for costs for employee severance payments and
+benefits associated with workforce reductions. This workforce reduction resulted
+in the termination of 92 employees, or approximately 2% of the Company's
+workforce at the time.
+
+During the first six months of 2004, we recorded charges of $15.6 million
+related to the realignment of our workforce, excluding costs related to the
+departure of our Chairman and CEO. The realignment resulted in the termination
+of 162 employees during the first six months of 2004. The annualized savings
+from the termination of these employees would be approximately $17.5 million.
+However, the Company plans to reinvest a significant portion of these savings
+into improving its products, processes, and infrastructure to help drive future
+growth.
+
+INTEREST INCOME (EXPENSE), NET was income of $0.4 million during the second
+quarter of 2004 and $0.6 million during the first six months of 2004 as compared
+to expense of $5.5 million and $11.2 million, respectively, in 2003. The
+conversion of our outstanding convertible debt to equity during the fourth
+quarter of 2003 has substantially eliminated our interest expense.
+
+OTHER (EXPENSE) INCOME, NET for the first six months of 2004 includes the
+non-cash write-off of $2.9 million of our accumulated foreign currency
+translation adjustments associated with certain of our operations in South
+America that we have decided to close. As a result of this decision we were
+required to reclassify these currency adjustments that have been accumulated
+within equity to earnings, in accordance with Statement of Financial Accounting
+Standards No. 52 "Foreign Currency Translation." Other (expense) income, net for
+the second quarter of 2004 and the second quarter and first six months of 2003
+consists primarily of net foreign currency exchange gains and losses.
+
+PROVISION FOR INCOME TAXES was 30.4% and 34.9% of income before income taxes for
+the second quarter of 2004 and 2003, respectively. Provision for income taxes
+was 40.1% and 35.2% during the first six months of 2004 and 2003, respectively.
+Our projected effective tax rates for full year 2004 is 33%, which is consistent
+with 2003. The effective tax rate was lower than the projected effective tax
+rate during the second quarter of 2004 due to a higher tax benefit than the
+effective tax rate recorded on the severance costs due to the local tax rate
+where the costs occurred. The effective tax rate was higher than the projected
+effective tax rate during the first six months of 2004 due to certain expenses,
+the goodwill impairment and the non-cash write-off of our accumulated foreign
+currency translation adjustments associated with certain of our operations in
+South America discussed previously, receiving no tax benefit. The effective tax
+rate was higher than the projected effective tax rate during 2003 due to the
+insurance recovery received during 2003.
+
+SEGMENT RESULTS
+
+We evaluate reportable segment performance and allocate resources based on gross
+contribution margin. Gross contribution is defined as operating income excluding
+certain selling, general and administrative expenses, depreciation, amortization
+of intangibles and other charges. Gross contribution margin is defined as gross
+contribution as a percentage of revenues.
+
+Research
+
+Research revenues increased 1% when comparing the second quarters of 2004 and
+2003 and increased 3% when comparing the first six months of 2004 and 2003. The
+increases were due primarily to the positive effects of foreign currency
+translation.
+
+                                                                              21
+<PAGE>
+
+Research gross contribution of $73.0 million for the second quarter of 2004
+decreased 3% from $75.4 million for the second quarter of 2003, while gross
+contribution margin for the second quarter of 2004 decreased to 61% from 64% in
+the prior year period. For the six months ended June 30, 2004, gross
+contribution increased to $152 million, or a 63% contribution margin, from
+$149.1 million, or a 64% contribution margin. The decrease in gross contribution
+margin during 2004 was due primarily to continued investments in our people,
+products and processes required to provide future Research growth.
+
+Research contract value increased 4% to $488.7 million at June 30, 2004 from
+$468.5 million at June 30, 2003 primarily due to the effects of foreign
+currency. Client retention rates increased three percentage points to 78% at
+June 30, 2004 from 75% at June 30, 2003, and wallet retention rates increased to
+93% during the second quarter of 2004 from 83% during the second quarter of
+2003. The stabilization of contract value and the increase in client and wallet
+retention rates reflect the beginning stages of what we believe to be an upturn
+in demand in the technology market.
+
+Consulting
+
+Consulting revenues increased 2% to $67.6 million for the second quarter of 2004
+and increased 3% to $132.2 million for the first six months of 2004 as compared
+to the same periods of 2003. Excluding the effects of foreign currency
+translation, Consulting revenues would have been relatively consistent in
+comparing the second quarter of 2004 with 2003 and would have decreased by
+approximately 1% for the six months of 2004. Consulting revenue has remained
+relatively stable with the prior year period despite the realignment of our
+business to exit certain less profitable consulting practices and geographies,
+which has reduced our billable headcount by approximately 17% during the 2004
+periods as compared to the 2003 periods.
+
+Consulting gross contribution of $24.8 million for the second quarter of 2004
+increased 9.2% from $22.7 million for the second quarter of 2003, and
+contribution margin for the second quarter of 2004 increased to 37% from 34% in
+the prior year quarter. Gross contribution of $50.1 million for the first six
+months of 2004 increased 15% from $43.6 million for the same period of 2003,
+with contribution margin for the period increasing to 38% from 34%. The increase
+in gross contribution margin was driven by higher consultant utilization rates,
+as we realigned our workforce and reduced headcount, and the increasing demand
+in focus practice areas.
+
+Consulting backlog, which represents future revenues to be recognized from
+in-process consulting, measurement and SAS, increased 7% to $97.7 million at
+June 30, 2004, compared to $91.0 million at June 30, 2003. This increase was
+primarily due to the increasing demand in focus practice areas.
+
+Events
+
+For the six months ended June 30, 2004, Events revenues increased 13% to $55.4
+million compared to $48.8 million for the same period of 2003 despite having 12%
+or four fewer events due to increased participation. The average revenue per
+event increased during 2004 due to the strong performance of our recurring
+events, as well as the addition of new events in 2004 that had higher revenues
+than the events that were eliminated. Revenues during the first six months of
+2004 benefited from the positive effects of foreign currency translation by
+approximately 3%. The comparison of the second quarter of 2004 with the second
+quarter of 2003 also benefited from the timing of the attendee portion of Spring
+Symposium, which was completed during the second quarter of 2004 as compared to
+the first quarter of 2003.
+
+Gross contribution of $24.0 million, or 43% of revenues, for the first six
+months of 2004 increased from $18.9 million, or 39% of revenues, for the first
+six months of 2003. For the second quarter of 2004, Gross
+
+                                                                              22
+<PAGE>
+
+contribution of $16.9 million, or 45% of revenues, increased from $10.5 million,
+or 42% of revenues, for the second quarter of 2003. As we manage our Events
+portfolio, we have eliminated certain less profitable events during 2004. Also
+during 2003, we invested more in marketing and promoting our events to maintain
+our attendance levels during a weaker economy, especially in the technology
+sector.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash provided by operating activities totaled $41.3 million for the six months
+ended June 30, 2004 compared to $78.2 million for the six months ended June 30,
+2003. The net decrease in cash flow from operating activities of $36.9 million
+was due primarily to payments of our 2003 bonuses during 2004. No bonuses were
+paid during the first half of 2003 as they had previously been paid during the
+quarter ended December 31, 2002 but are now being paid during the first half of
+the year as a result of our change in fiscal year that became effective January
+1, 2003. Additionally, we paid approximately $8.0 million more in severance
+during 2004.
+
+Cash used in investing activities increased to $9.2 million during the first six
+months of 2004 as compared to $5.8 million during the first six months of 2003.
+Capital expenditures in the first six months of both years were relatively
+consistent. During the first six months of 2003, we received an insurance
+recovery of $5.5 million, and we funded $1.5 million of our capital commitment
+to SI II.
+
+Cash provided by financing activities totaled $31.7 million for the six months
+ended June 30, 2004, compared to cash used in financing activities of $21.1
+million for the six months ended June 30, 2003. We purchased $6.1 million of our
+common stock for treasury during the first six months of 2004 as compared to
+$23.5 million during the same period in the prior year. In conjunction with the
+tender offer, the Board of Directors terminated the stock repurchase program
+during June 2004. We received proceeds from stock issued for stock plans of
+$37.9 million during the first six months of 2004 as compared to $2.6 million
+during the same period in the prior year. This increase is a result of increased
+stock option exercises by our employees as increases in our stock price caused a
+significantly higher percentage of our vested stock options to be in the money
+during the first half of 2004 as compared to 2003.
+
+OBLIGATIONS AND COMMITMENTS
+
+We had a $200.0 million unsecured senior revolving credit facility led by
+JPMorgan Chase Bank. At June 30, 2004, there were no amounts outstanding under
+the facility. We were subject to certain customary affirmative, negative and
+financial covenants under this credit facility, and continued compliance with
+these covenants precluded us from borrowing the maximum amount of the credit
+facility from time to time. These covenants were primarily based on financial
+results and other measures such as contract value. As a result of those
+covenants, our borrowing availability at June 30, 2004 was $168.0 million. This
+credit facility expired on July 16, 2004.
+
+During the second quarter of 2004, we initiated a Dutch auction self-tender
+offer for up to 11,298,630 shares of its Class A Common Stock and up to
+5,505,305 shares of its Class B Common Stock with the price for each Class to be
+between $12.50 to $13.50 per share. If we purchase the maximum number of shares
+of each Class, the total purchase price will be between approximately $210
+Million and $227 Million. We also entered into an agreement with Silver Lake,
+which collectively own approximately 44.4% of Gartner's Class A Common Stock, to
+purchase from Silver Lake approximately 9.2 million shares of Class A Common
+Stock, subject to adjustment if the number of Class A Shares sought in the
+tender offer is increased or decreased. Additionally, if the tender offer for
+the shares of Class A Common Stock is not fully subscribed, then the number of
+shares of Class A Common Stock purchased from Silver Lake will be increased by
+that number of Class A Shares equal to the difference between the number of
+Class A Shares sought in the tender offer and the actual number of Class A
+Shares tendered and accepted
+
+                                                                              23
+<PAGE>
+
+for payment in the tender offer (provided that in no event will more than 12
+million Class A Shares be purchased from Silver Lake). The purchase of shares
+from Silver Lake will be at the same price per Class A Share as is paid in the
+tender offer. Silver Lake has also agreed not to tender any of its shares in the
+tender offer. If the maximum number of shares are purchased as a result of the
+tender offer and this agreement, the total purchase price will be between
+approximately $325 million and $351 million.
+
+In connection with the tender offer, discussed in Note 8, we received a $75.0
+million bridge loan from JPMorgan Chase Bank on July 30, 2004. We intend to pay
+off the bridge loan in full upon the signing of a $225.0 million credit
+agreement with a syndicate of lenders. The agreement, expected to be entered
+into in August, will provide for a five year $125.0 million term A loan facility
+and a five year $100 million revolving credit facility. The facilities will bear
+interest equal to LIBOR plus an applicable margin which will vary based on
+specified leverage ratios. The term A loan facility will be payable in equal
+quarterly installments over a five year period. The credit facilities are
+subject to mandatory prepayments from a portion of proceeds from assets sale and
+proceeds from certain future debt issuances. The credit agreement includes
+customary affirmative, negative and financial covenants primarily based on our
+financial results and other measures such as contract value. We believe that our
+ability to draw down the full amount available under the facilities will not be
+restricted by these covenants on the date that we sign them. The facilities also
+include commitment fees on the unused portion of the revolving credit facility
+not subject to letters of credit.
+
+We believe that the tender offer is a prudent use of our financial resources. As
+of June 30, 2004, we have no debt. However, in connection with the tender offer
+and the Silver Lake agreement, we plan to incur approximately $200 million of
+non-convertible debt under the facilities described above and use up to
+approximately $150 million of our cash on hand. We anticipate that we will have
+adequate cash generating capacity and no immediate need for the accumulation of
+cash, and expect that our current cash balances, anticipated cash flows from
+operations and borrowing capacity exceed our capital requirements for normal
+operations, capital expenditures and acquisitions and other opportunities for
+growth that may arise. If we were to require substantial amounts of additional
+capital to pursue business opportunities that may arise involving substantial
+investments of additional capital, there can be no assurances that such capital
+will be available to us or will be available on commercially reasonable terms.
+
+Stock Repurchase Program
+
+On July 17, 2001, the Board of Directors approved the repurchase of up to $75.0
+million of our Common Stock. On July 25, 2002, the Board of Directors increased
+the authorized stock repurchase program from the previously approved $75 million
+to up to $125 million of our common stock. On July 24, 2003, the Company's Board
+of Directors authorized an additional increase of $75 million in the stock
+repurchase program bringing the total authorization to date to $200 million.
+During the six months ended June 30, 2004, we repurchased 413,225 shares of our
+Class A Common Stock and 114,600 shares of our Class B Common Stock at an
+aggregate cost of $6.1 million under this program. On a cumulative basis at June
+30, 2004, we have purchased $133.2 million of our stock under this stock
+repurchase program. In conjunction with the tender offer, the Board of Directors
+terminated this Stock Repurchase Program during June 2004.
+
+BUSINESS AND TRENDS
+
+Our quarterly and annual revenue and operating income fluctuate as a result of
+many factors, including the timing of the execution of research contracts, the
+extent of completion of consulting engagements, the timing of Symposia and other
+events, all of which occur to a greater extent in the fourth quarter, as well as
+the amount of new business generated, the mix of domestic and international
+business, changes in market demand for our products and services, the timing of
+the development, introduction and marketing of new
+
+                                                                              24
+<PAGE>
+
+products and services, and competition in the industry. The potential
+fluctuations in our operating income could cause period-to-period comparisons of
+operating results not to be meaningful and could provide an unreliable
+indication of future operating results.
+
+Over the past few years we have seen a decrease in overall technology spending
+due to the economic environment. In response to the decrease in technology
+spending we have attempted to constrain spending and have implemented cost
+reduction programs to reduce workforce and facilities costs. The timing of the
+cost reductions does not necessarily coincide with the timing of decreases in
+revenues, but is anticipated to provide future benefit in the form of lower
+expenses. While we have reduced certain costs, we also plan to maintain a level
+of spending sufficient for us to be in a strong position to grow as economic
+conditions continue to improve.
+
+FACTORS THAT MAY AFFECT FUTURE PERFORMANCE.
+
+We operate in a very competitive and rapidly changing environment that involves
+numerous risks and uncertainties, some of which are beyond our control. In
+addition, we and our clients are affected by the economy. The following section
+discusses many, but not all, of these risks and uncertainties.
+
+Economic Conditions. Our revenues and results of operations are influenced by
+economic conditions in general and more particularly by business conditions in
+the IT industry. A general economic downturn or recession, anywhere in the
+world, could negatively affect demand for our products and services and may
+substantially reduce existing and potential client information
+technology-related budgets. The economic downturn in the United States and
+globally has led to constrained IT spending, which has impacted our business and
+may materially and adversely affect our business, financial condition and
+results of operations, including our ability to: maintain client retention,
+wallet retention and consulting utilization rates, and achieve contract value
+and consulting backlog. To the extent our clients are in the IT industry, the
+severe decline in that sector has also had a significant impact on their
+spending.
+
+Acts of Terrorism or War. Acts of terrorism, acts of war and other unforeseen
+events, may cause damage or disruption to our properties, business, employees,
+suppliers, distributors and clients, which could have an adverse effect on our
+business, financial condition and operating results. Such events may also result
+in an economic slowdown in the United States or elsewhere, which could adversely
+affect our business, financial condition and operating results.
+
+Competitive Environment. We face direct competition from a significant number of
+independent providers of information products and services, including
+information that can be found on the Internet free of charge. We also compete
+indirectly against consulting firms and other information providers, including
+electronic and print media companies, some of which may have greater financial,
+information gathering and marketing resources than we do. These indirect
+competitors could choose to compete directly with us in the future. In addition,
+limited barriers to entry exist in the markets in which we do business. As a
+result, additional new competitors may emerge and existing competitors may start
+to provide additional or complementary services. Additionally, technological
+advances may provide increased competition from a variety of sources. However,
+we believe the breadth and depth of our research assets position us well versus
+our competition. Increased competition may result in loss of market share,
+diminished value in our products and services, reduced pricing and increased
+marketing expenditures. We may not be successful if we cannot compete
+effectively on quality of research and analysis, timely delivery of information,
+customer service, the ability to offer products to meet changing market needs
+for information and analysis, or price.
+
+                                                                              25
+<PAGE>
+
+Renewal of Research Business by Existing Clients. Some of our success depends on
+renewals of our subscription-based research products and services, which
+constituted 55% of our revenues for the first six months of 2004 and 56% for the
+six months of 2003. These research subscription agreements have terms that
+generally range from twelve to thirty months. Our ability to maintain contract
+renewals is subject to numerous factors, including those described in this
+Quarterly Report. Additionally, as we implement our strategy to realign our
+business to client needs, we may shift the type and pricing of our products
+which could impact client renewal rates. While client retention rates were 78%
+at June 30, 2004 and 75% at June 30, 2003, there can be no guarantee that we
+will continue to have this level of client renewals. Any material decline in
+renewal rates could have an adverse impact on our revenues and financial
+condition.
+
+Non-Recurring Consulting Engagements. Consulting segment revenues constituted
+30% of our revenues for the first six months of 2004 and 31% for the first six
+months of 2003. These consulting engagements typically are project-based and
+non-recurring. Our ability to replace consulting engagements is subject to
+numerous factors, including those described in this Quarterly Report. Any
+material decline in our ability to replace consulting arrangements could have an
+adverse impact on our revenues and financial condition.
+
+Restructuring, Reorganization and Management Team. Our future success depends,
+in significant part, upon the continued service and performance of our senior
+management and other key personnel. We have recently reorganized our business
+around specific client needs. As part of this reorganization, a number of key
+management positions have been filled by the promotion of current employees or
+the hiring of new employees. Additionally, we have restructured our workforce in
+order to streamline operations and strengthen key consulting practices. If the
+reorganization and restructuring of our business do not lead to the results we
+expect, our ability to effectively deliver our products, manage our company and
+carry out our business plan may be impaired. On July 23, 2004, we announced that
+the Board of Directors named Eugene Hall as Chief Executive Officer. Mr. Hall
+will succeed Michael Fleisher, who had previously announced his intention to
+depart as Gartner's chairman and chief executive officer, after a transition
+period. Additionally, James C. Smith, a current Board member, has been named
+non-executive chairman of the Board of Directors. If we cannot successfully
+integrate our Chief Executive Officer into our senior management team, then our
+ability to effectively deliver our products, manage our company and carry out
+our business plan may be impaired.
+
+Hiring and Retention of Employees. Our success depends heavily upon the quality
+of our senior management, research analysts, consultants, sales and other key
+personnel. We face competition for the limited pool of these qualified
+professionals from, among others, technology companies, market research firms,
+consulting firms, financial services companies and electronic and print media
+companies, some of which have a greater ability to attract and compensate these
+professionals. Some of the personnel that we attempt to hire are subject to
+non-compete agreements that could impede our short-term recruitment efforts. Any
+failure to retain key personnel or hire and train additional qualified personnel
+as required to support the evolving needs of our clients or growth in our
+business, could adversely affect the quality of our products and services, and
+therefore, our future business and operating results.
+
+Maintenance of Existing Products and Services. We operate in a rapidly evolving
+market, and our success depends upon our ability to deliver high quality and
+timely research and analysis to our clients. Any failure to continue to provide
+credible and reliable information that is useful to our clients could have a
+material adverse effect on future business and operating results. Further, if
+our predictions prove to be wrong or are not substantiated by appropriate
+research, our reputation may suffer and demand for our products and services may
+decline. In addition, we must continue to improve our methods for delivering our
+products and services in a cost-effective manner. Failure to increase and
+improve our electronic delivery capabilities could adversely affect our future
+business and operating results.
+
+                                                                              26
+<PAGE>
+
+Introduction of New Products and Services. The market for our products and
+services is characterized by rapidly changing needs for information and
+analysis. To maintain our competitive position, we must continue to enhance and
+improve our products and services, develop or acquire new products and services
+in a timely manner, and appropriately position and price new products and
+services relative to the marketplace and our costs of producing them. Any
+failure to achieve successful client acceptance of new products and services
+could have a material adverse effect on our business, results of operations or
+financial position.
+
+International Operations. A substantial portion of our revenues is derived from
+sales outside of North America. As a result, our operating results are subject
+to the risks inherent in international business activities, including general
+political and economic conditions in each country, changes in market demand as a
+result of exchange rate fluctuations and tariffs and other trade barriers,
+challenges in staffing and managing foreign operations, changes in regulatory
+requirements, compliance with numerous foreign laws and regulations, different
+or overlapping tax structures, higher levels of United States taxation on
+foreign income, and the difficulty of enforcing client agreements, collecting
+accounts receivable and protecting intellectual property rights in international
+jurisdictions. We rely on local distributors or sales agents in some
+international locations. If any of these arrangements are terminated, we may not
+be able to replace the arrangement on beneficial terms or on a timely basis.
+Additionally, clients of the local distributor or sales agent may not want to
+continue to do business with us or our new agent.
+
+Branding. We believe that our "Gartner" brand is critical to our efforts to
+attract and retain clients and that the importance of brand recognition will
+increase as competition increases. We may expand our marketing activities to
+promote and strengthen the Gartner brand and may need to increase our marketing
+budget, hire additional marketing and public relations personnel, expend
+additional sums to protect the brand and otherwise increase expenditures to
+create and maintain client brand loyalty. If we fail to effectively promote and
+maintain the Gartner brand, or incur excessive expenses in doing so, our future
+business and operating results could be materially and adversely impacted.
+
+Indebtedness. We have a $75.0 million bridge loan and anticipate borrowing
+approximately $200.0 million in order to fund our tender offer. The affirmative,
+negative and financial covenants of the bridge loan and the credit facility we
+intend to enter into could limit our future financial flexibility. The
+associated debt service costs could impair future operating results. Our
+outstanding debt may limit the amount of cash or additional credit available to
+us, which could restrain our ability to expand or enhance products and services,
+respond to competitive pressures or pursue future business opportunities
+requiring substantial investments of additional capital.
+
+Organizational and Product Integration Related to Acquisitions. We have made and
+may continue to make acquisitions of, or significant investments in, businesses
+that offer complementary products and services. The risks involved in each
+acquisition or investment include the possibility of paying more than the value
+we derive from the acquisition, dilution of the interests of our current
+stockholders or decreased working capital, increased indebtedness, the
+assumption of undisclosed liabilities and unknown and unforeseen risks, the
+ability to integrate successfully the operations and personnel of the acquired
+business, the ability to retain key personnel of the acquired company, the time
+to train the sales force to market and sell the products of the acquired
+company, the potential disruption of our ongoing business and the distraction of
+management from our business. The realization of any of these risks could
+adversely affect our business.
+
+Enforcement of Our Intellectual Property Rights. We rely on a combination of
+copyright, patent, trademark, trade secret, confidentiality, non-compete and
+other contractual provisions to protect our intellectual property rights.
+Despite our efforts to protect our intellectual property rights, unauthorized
+
+                                                                              27
+<PAGE>
+
+third parties may obtain and use technology or other information that we regard
+as proprietary. Our intellectual property rights may not survive a legal
+challenge to their validity or provide significant protection for us. The laws
+of certain countries do not protect our proprietary rights to the same extent as
+the laws of the United States. Accordingly, we may not be able to protect our
+intellectual property against unauthorized third-party copying or use, which
+could adversely affect our competitive position. Our employees are subject to
+non-compete agreements. When the non-competition period expires, former
+employees may compete against us. If a former employee chooses to compete
+against us prior to the expiration of the non-competition period, there is no
+assurance that we will be successful in our efforts to enforce the non-compete
+provision.
+
+Possibility of Infringement Claims. Third parties may assert infringement claims
+against us. Regardless of the merits, responding to any such claim could be time
+consuming, result in costly litigation and require us to enter into royalty and
+licensing agreements which may not be offered or available on reasonable terms.
+If a successful claim is made against us and we fail to develop or license a
+substitute technology at a reasonable cost, our business, results of operations
+or financial position could be materially adversely affected.
+
+Potential Fluctuations in Operating Results. Our quarterly and annual operating
+income may fluctuate in the future as a result of many factors, including the
+timing of the execution of research contracts, which typically occurs in the
+fourth calendar quarter, the extent of completion of consulting engagements, the
+timing of symposia and other events, which also occur to a greater extent in the
+fourth calendar quarter, the amount of new business generated, the mix of
+domestic and international business, changes in market demand for our products
+and services, the timing of the development, introduction and marketing of new
+products and services, and competition in the industry. An inability to generate
+sufficient earnings and cash flow, and achieve our forecasts, may impact our
+operating and other activities. The potential fluctuations in our operating
+income could cause period-to-period comparisons of operating results not to be
+meaningful and may provide an unreliable indication of future operating results.
+
+Significant Stockholder. Silver Lake Partners, L.P. ("SLP") and its affiliates
+own approximately 44.4% of our outstanding Class A Common Stock and
+approximately 35% on a combined basis with our outstanding Class B Common Stock
+as of June 30, 2004. Currently, the owners of our Class A Common Stock are only
+entitled to vote for two of the ten members of our Board of Directors and vote
+together with the holders of the Class B Common Stock as a single class on all
+other matters coming before the stockholders. SLP is restricted from purchasing
+additional stock without our consent pursuant to the terms of a Securityholders'
+Agreement. This Securityholders' Agreement also provides that we cannot take
+certain actions, including acquisitions and sales of stock and/or assets without
+SLP's consent. While SLP does not hold a majority of our outstanding shares, it
+may be able to exercise significant influence over matters requiring stockholder
+approval, including the election of directors and the approval of mergers,
+consolidations and sales of our assets. SLP's interests may differ from the
+interests of other stockholders.
+
+Anti-takeover Protections. Provisions of our certificate of incorporation and
+bylaws and Delaware law may make it difficult for any party to acquire control
+of us in a transaction not approved by the requisite number of directors. These
+provisions include:
+
+     -    The presence of a classified board of directors;
+
+     -    The existence of two classes of common stock with our Class B Common
+          Stock having the ability to elect 80% of our Board of Directors;
+
+     -    The ability of the Board of Directors to issue and determine the terms
+          of preferred stock;
+
+     -    The existence of a stockholder rights plan;
+
+     -    Advance notice requirements for inclusion of stockholder proposals at
+          stockholder meetings; and
+
+     -    The anti-takeover provisions of Delaware law.
+
+                                                                              28
+<PAGE>
+
+These provisions could delay or prevent a change of control or change in
+management that might provide stockholders with a premium to the market price of
+their Common Stock.
+
+                                                                              29
+<PAGE>
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+
+As of June 30, 2004, we had limited exposure to market risk for changes in
+interest rates since our long-term debt was converted to equity during the
+fourth quarter of 2003. Additionally, we had no borrowings under our $200.0
+million unsecured senior revolving credit facility that existed at June 30,
+2004. Under the revolving credit facility, the interest rate on borrowings was
+LIBOR plus an additional 100 to 200 basis points based on our debt-to-EBITDA
+ratio. We believe that an increase or decrease of 10% in the effective interest
+rate on available borrowings from our senior revolving credit facility, if fully
+utilized, would not have a material effect on our future results of operations.
+Each 25 basis point increase or decrease in interest rates would have an
+approximate $0.5 million annual effect under the revolving credit facility if
+fully utilized. This credit facility expired on July 16, 2004.
+
+Investment Risk
+
+We are exposed to market risk as it relates to changes in the market value of
+our equity investments. We invest in equity securities of public and private
+companies directly and through SI I, a wholly-owned affiliate, and SI II, of
+which we own 29%. SI I and SI II are engaged in making venture capital
+investments in early to mid-stage IT-based or Internet-enabled companies. As of
+June 30, 2004, we had investments in equity securities totaling $10.3 million.
+Unrealized gains and losses were insignificant. These investments are inherently
+risky as the businesses are typically in early development stages and may never
+develop. Further, certain of these investments are in publicly traded companies
+whose shares are subject to significant market price volatility. Adverse changes
+in market conditions and poor operating results of the underlying investments
+may result in us incurring additional losses or an inability to recover the
+original carrying value of our investments. If there were a 100% adverse change
+in the value of our equity portfolio as of June 30, 2004, this would result in a
+non-cash impairment charge of $10.3 million. Additionally, we have an
+outstanding capital commitment to SI II in the amount of $4.0 million.
+
+Foreign Currency Exchange Risk
+
+We face two risks related to foreign currency exchange: translation risk and
+transaction risk. Amounts invested in our foreign operations are translated into
+U.S. dollars at the exchange rates in effect at the balance sheet date. The
+resulting translation adjustments are recorded as a component of accumulated
+other comprehensive income, net in the stockholders' equity section of the
+Consolidated Balance Sheets. Our foreign subsidiaries generally collect revenues
+and pay expenses in currencies other than the United States dollar. Since the
+functional currencies of our foreign operations are generally denominated in the
+local currency of our subsidiaries, the foreign currency translation adjustments
+are reflected as a component of stockholders' equity and do not impact operating
+results. Revenues and expenses in foreign currencies translate into higher or
+lower revenues and expenses in U.S. dollars as the U.S. dollar weakens or
+strengthens against other currencies. Therefore, changes in exchange rates may
+affect our consolidated revenues and expenses (as expressed in U.S. dollars)
+from foreign operations. Currency transaction gains or losses arising from
+transactions in currencies other than the functional currency are included in
+results of operations
+
+From time to time we enter into foreign currency forward contracts or other
+derivative financial instruments to hedge the effects of adverse fluctuations in
+foreign currency exchange rates. At June 30, 2004, we had one foreign currency
+forward contract outstanding. Foreign currency forward contracts are reflected
+at fair value with gains and losses recorded currently in earnings.
+
+                                                                              30
+<PAGE>
+
+The following table presents information about our foreign currency forward
+contract outstanding as of June 30, 2004, expressed in U.S. dollar equivalents.
+
+<TABLE>
+<CAPTION>
+                                                                Forward
+Currency                                      Contract          Exchange          Unrealized
+Purchased            Currency Sold             Amount             Rate               Gain          Expiration Date
+---------            -------------            --------          --------          ----------       ---------------
+<S>                  <C>                      <C>               <C>               <C>              <C>
+Euros                U.S. Dollars              $4,340            1.2110              $  8           July 23, 2004
+</TABLE>
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+We have established disclosure controls and procedures that are designed to
+ensure that the information we are required to disclose in our reports filed
+under the Securities Exchange Act of 1934, as amended (the "Act"), is recorded,
+processed, summarized and reported in a timely manner. Specifically, these
+controls and procedures ensure that the information is accumulated and
+communicated to our executive management team, including our chief executive
+officer and our chief financial officer, to allow timely decisions regarding
+required disclosure.
+
+Management conducted an evaluation, as of June 30, 2004, of the effectiveness
+and design of our disclosure controls and procedures, under the supervision and
+with the participation of our chief executive officer and chief financial
+officer. Based upon that evaluation, our chief executive officer and chief
+financial officer have concluded that the Company's disclosure controls and
+procedures are effective in alerting them in a timely manner to material Company
+information required to be disclosed by us in reports filed under the Act.
+
+In addition, there have been no significant changes in the Company's internal
+control over financial reporting that have materially affected, or are
+reasonably likely to materially affect, the Company's internal control over
+financial reporting.
+
+                                                                              31
+<PAGE>
+
+PART II  OTHER INFORMATION
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+(e)  Below is a summary of stock repurchases for the quarter ended June 30,
+     2004. See Note 8 of our Notes to Condensed Consolidated Financial
+     Statements for information regarding our stock repurchase program.
+
+<TABLE>
+<CAPTION>
+                       Class A Common Stock             Class B Common Stock           Shares          Value of Shares
+                     ---------------------------     --------------------------       Purchased         that may yet
+                       Total          Average          Total          Average           Under           be Purchased
+                      Shares         Price Paid        Shares        Price Paid       Announced          Under Plan
+                     Purchased       per Share       Purchased       per Share          Plan           (in thousands)
+                     ---------       -----------     ----------      ----------       ----------       --------------
+<S>                  <C>             <C>             <C>             <C>              <C>              <C>
+April 2004                   -       $         -              -      $        -                -
+May 2004               120,300             11.93         56,700           11.95          177,000
+June 2004                    -                 -              -               -                -
+                     ---------       -----------     ----------      ----------       ----------       --------------
+Total quarter          120,300       $     11.93         56,700      $    11.95          177,000       $            -
+                     =========       ===========     ==========      ==========       ==========       ==============
+</TABLE>
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+The 2004 Annual Meeting of Shareholders of Gartner, Inc. was held on June 30.
+
+A total of 94,648,721 of the Company's Class A shares and 21,797,339 Class B
+shares were present or represented by proxy at the meeting. This represented
+more than 91.4% and 85.9% of the Company's Class A and Class B shares
+outstanding, respectively.
+
+The individual named below was elected to a three-year term as a Class II Common
+A Director:
+
+<TABLE>
+<CAPTION>
+     Name                Votes Received           Votes Withheld
+     ----                --------------           --------------
+<S>                      <C>                      <C>
+Maynard G. Webb            92,737,486                1,911,235
+</TABLE>
+
+The individuals named below were elected to a three-year term as a Class II
+Common B Director:
+
+<TABLE>
+<CAPTION>
+     Name                Votes Received           Votes Withheld
+     ----                --------------           --------------
+<S>                      <C>                      <C>
+Anne Suherland Fuch        21,121,842                675,497
+
+Jefrey W. Ubben            21,104,894                692,445
+</TABLE>
+
+                                                                              32
+<PAGE>
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                                                  DESCRIPTION OF DOCUMENT
+-------               ---------------------------------------------------------------------------------------
+<S>                   <C>
+ 31.1                 Certification of chief executive officer under Section 302 of the Sarbanes-Oxley Act of
+                      2002.
+
+ 31.2                 Certification of chief financial officer under Section 302 of the Sarbanes-Oxley Act of
+                      2002.
+
+ 32                   Certification under Section 906 of the Sarbanes-Oxley Act of 2002.
+</TABLE>
+
+(b) Reports on Form 8-K
+
+     The Company filed a Report on Form 8-K dated April 29, 2004 to furnish the
+Company's press release issued April 29, 2004, with respect to:
+
+      -    Financial results for Gartner, Inc. (the "Company") for the quarter
+           ended March 31, 2004; and
+
+      -    The announcement that Michael Fleisher, Chairman and CEO, intends to
+           leave the Company.
+
+Items 1, 3, and 5 of Part II are not applicable and have been omitted.
+
+                                                                              33
+<PAGE>
+
+                                    SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+
+                                                    Gartner, Inc.
+
+Date August 3, 2004                                 /s/ Christopher Lafond
+                                                    ----------------------------
+                                                    Christopher Lafond
+                                                    Executive Vice President
+                                                    and Chief Financial Officer
+                                                    (Principal Financial and
+                                                    Accounting Officer)
+
+                                                                              34
+
+
+</TEXT>
+</DOCUMENT>

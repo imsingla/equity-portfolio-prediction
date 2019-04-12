@@ -1,0 +1,1842 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>MARCH 30, 2001
+<TEXT>
+
+<PAGE>
+
+================================================================================
+
+                                 UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                 ______________
+
+                                   FORM 10-Q
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                 For the quarterly period ended March 30, 2001
+                                      or
+
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+            For the transition period from __________ to __________
+
+                         Commission File Number 1-7598
+
+
+                          VARIAN MEDICAL SYSTEMS, INC.
+             (Exact Name of Registrant as Specified in Its Charter)
+
+           Delaware                                           94-2359345
+(State or other jurisdiction of                             (I.R.S. Employer
+Incorporation or Organization)                            Identification Number)
+
+         3100 Hansen Way,
+      Palo Alto, California                                     94304-1030
+(Address of principal executive offices)                        (Zip Code)
+
+                                (650) 493-4000
+             (Registrant's telephone number, including area code)
+          Securities registered pursuant to Section 12(b) of the Act:
+
+    Title of each class                Name of each exchange on which registered
+  Common Stock, $1 par value                     New York Stock Exchange
+Preferred Stock Purchase Rights                     Pacific Exchange
+
+       Securities registered pursuant to Section 12(g) of the Act:  None
+
+   Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X]  No [_]
+
+   Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date: 33,212,312 shares of Common
+Stock, par value $1 per share, outstanding as of May 9, 2001.
+
+                                www.varian.com
+                                  (NYSE: VAR)
+
+================================================================================
+<PAGE>
+
+                               TABLE OF CONTENTS
+
+
+<TABLE>
+<S>        <C>                                                                                                 <C>
+Part I.    Financial Information.............................................................................      3
+
+Item 1.    Financial Statements (unaudited)..................................................................      3
+           Consolidated Statements of Earnings...............................................................      3
+           Consolidated Balance Sheets.......................................................................      4
+           Consolidated Statements of Cash Flows.............................................................      5
+           Notes to the Consolidated Financial Statements....................................................      6
+
+Item 2.    Management's Discussion and Analysis of Financial Condition
+           and Results of Operations.........................................................................     15
+
+Item 3.    Quantitative and Qualitative Disclosures about Market Risk........................................     22
+
+Part II.   Other Information.................................................................................     24
+
+Item 1.    Legal Proceedings.................................................................................     24
+
+Item 2.    Changes in Securities and Use of Proceeds.........................................................     24
+
+Item 4.    Submission of Matters to a Vote of Security Holders...............................................     24
+
+Item 6.    Exhibits and Reports on Form 8-K..................................................................     25
+</TABLE>
+<PAGE>
+
+                          FORWARD-LOOKING STATEMENTS
+
+   Except for historical information, this quarterly report on Form 10-Q
+contains "forward-looking" statements within the meaning of the Private
+Securities Litigation Reform Act of 1995 which provides a "safe harbor" about
+future events, products and future financial performance that are based on the
+beliefs of, estimates made by and information currently available to our
+management. The outcome of the events described in these forward-looking
+statements is subject to risks and uncertainties. Actual results and the timing
+of certain events may differ significantly from those projected in these
+forward-looking statements and reported results should not be considered an
+indication of future performance due to the factors listed below, under
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Certain Factors Affecting Our Business" in our Annual Report on
+Form 10-K for the fiscal year ended September 29, 2000, and from time to time in
+our other filings with the Securities and Exchange Commission. For this purpose,
+statements concerning industry outlook, including market acceptance of or
+transition to new products or technology such as IMRT, brachytherapy, software,
+treatment techniques, and advanced X-ray products; growth drivers; Varian
+Medical Systems, Inc.'s ("VMS," "we" or "our") orders, sales, backlog or
+earnings growth; future financial results and any statements using the terms
+"aiming," "believe," "can," "should," "will," "hope," or similar statements are
+forward-looking statements that involve risks and uncertainties that could cause
+our actual results to differ materially from those projected or management's
+current expectations. Such risks and uncertainties include, without limitation,
+market acceptance, demand for and possible obsolescence of our products; our
+ability to successfully develop and commercialize new products; the impact on
+our sales and margins of competitive products and pricing; the effect of general
+economic conditions and foreign currency exchange rates; consistent availability
+of electric power and natural gas for our California and our suppliers'
+operations; our ability to increase operating margins on higher sales while
+controlling costs; our ability to maintain manufacturing capacity to meet
+demand, including the potential risk of earthquake damage to our existing
+facilities; the effect of environmental claims and clean-up expenses on our
+costs; our ability to protect our intellectual property and the related
+competitive advantages of our products; our reliance on sole source or a limited
+number of suppliers; the impact of managed care initiatives or other healthcare
+reforms in the U.S. on our capital expenditures and/or limitations on third
+party reimbursements and the resulting pressure on medical equipment pricing and
+user demand for our products; our ability to meet U.S. Food and Drug
+Administration and other domestic or foreign regulatory requirements or product
+clearances which might limit the products we can sell or subject us to fines or
+other regulatory actions; our use of distributors for a portion of our sales,
+the loss of which could reduce sales and harm our financial results; continued
+consolidation in the X-ray tubes market; the possibility that material product
+liability claims could harm our future sales, or require us to pay uninsured
+claims; the availability and adequacy of our insurance to cover future material
+liabilities, including any material product liability or product recall of
+General Electric manufactured products for which we provide customer service and
+have assumed such liabilities; our ability to attract and retain key employees
+in a highly competitive employment market; the effect that  fluctuations in our
+operating results may have on the price of our common stock; the possibility
+that certain provisions of our Certificate of Incorporation and its stockholder
+rights plan might discourage a takeover and therefore limit the price of our
+common stock; our ability to meet time requirements for, and implement
+conversion to, the Euro currency in our business dealings and operations in
+certain European countries; the effect of price transparency on our business
+dealings in countries of the European Union following implementation of Euro
+currency regulations; the effect on our profit margins of product recycling and
+related regulatory requirements in European and other countries; our potential
+responsibility for additional tax obligations and other liabilities arising out
+of the spin-off of segments of our former businesses; and the effect on our
+revenue recognition of changes in accounting standards. By making forward-
+looking statements, we have not assumed any obligation to, and you should not
+expect us to, update or revise those statements because of new information,
+future events or otherwise.
+<PAGE>
+
+                                     PART I
+
+                             FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+                VARIAN MEDICAL SYSTEMS AND SUBSIDIARY COMPANIES
+
+                      CONSOLIDATED STATEMENTS OF EARNINGS
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                          Three Months Ended                  Six Months Ended
+                                                                      ----------------------------     -----------------------------
+                                                                       March 30,        March 31,        March 30,         March 31,
+                                                                          2001             2000             2001              2000
+                                                                      -----------      -----------     ------------     ------------
+<S>                                                                   <C>              <C>             <C>               <C>
+                                                                             (Amounts in thousands, except per share amounts)
+
+Sales...........................................................        $192,775         $169,795         $354,181         $311,045
+                                                                     -----------      -----------     ------------      ------------
+Operating Costs and Expenses
+ Cost of sales..................................................         121,324          108,751          226,249          199,603
+ Research and development.......................................          10,937           11,455           22,106           21,711
+ Selling, general and administrative............................          36,100           31,973           66,659           62,227
+ Reorganization.................................................             275               --              312               --
+                                                                     -----------      -----------     ------------      ------------
+
+   Total Operating Costs and Expenses...........................         168,636          152,179          315,326          283,541
+                                                                     -----------      -----------     ------------      ------------
+
+Operating Earnings..............................................          24,139           17,616           38,855           27,504
+Interest expense................................................          (1,025)          (1,268)          (2,025)          (2,854)
+Interest income.................................................           1,574              211            2,775              277
+                                                                     -----------      -----------     ------------      ------------
+
+Earnings Before Taxes...........................................          24,688           16,559           39,605           24,927
+Taxes on earnings...............................................           9,140            6,210           14,730            9,350
+                                                                     -----------      -----------     ------------      ------------
+
+Earnings before Cumulative Effect of Change in Accounting
+ Principle......................................................          15,548           10,349           24,875           15,577
+Cumulative Effect of Change in Accounting
+ Principle--Net of Taxes........................................              --               --              121               --
+                                                                     -----------      -----------     ------------      ------------
+
+      Net Earnings..............................................        $ 15,548         $ 10,349         $ 24,996         $ 15,577
+                                                                     ===========      ===========     ============      ============
+
+Net Earnings Per Share--Basic
+ Earnings before Cumulative Effect of Change in Accounting
+  Principle.....................................................        $   0.48         $   0.33         $   0.77         $   0.51
+ Cumulative Effect of Change in Accounting Principle--Net of
+  Taxes.........................................................              --               --               --               --
+                                                                     -----------      -----------     ------------      ------------
+
+      Net Earnings Per Share--Basic.............................        $   0.48         $   0.33         $   0.77         $   0.51
+                                                                     ===========      ===========     ============      ============
+
+Net Earnings Per Share--Diluted
+ Earnings before Cumulative Effect of Change in Accounting
+  Principle.....................................................        $   0.45         $   0.32         $   0.74         $   0.49
+ Cumulative Effect of Change in Accounting
+  Principle--Net of Taxes.......................................              --               --               --               --
+                                                                     -----------      -----------     ------------      ------------
+
+      Net Earnings Per Share--Diluted...........................        $   0.45         $   0.32         $   0.74         $   0.49
+                                                                     ===========      ===========     ============      ============
+
+Shares Used in the Calculation of Net Earnings Per Share:
+    Weighted Average Shares Outstanding--Basic..................          32,731           30,899           32,416           30,770
+                                                                     ===========      ===========     ============      ============
+
+    Weighted Average Shares Outstanding--Diluted................          34,395           32,520           33,927           31,809
+                                                                     ===========      ===========     ============      ============
+
+</TABLE>
+
+
+        See accompanying notes to the consolidated financial statements
+
+                                       3
+<PAGE>
+
+             VARIAN MEDICAL SYSTEMS, INC. AND SUBSIDIARY COMPANIES
+                          CONSOLIDATED BALANCE SHEETS
+
+
+<TABLE>
+<CAPTION>
+(Dollars in thousands, except par values)                                                  March 30,             September 29,
+                                                                                             2001                    2000
+                                                                                       -----------------     -----------------
+                                                                                           (Unaudited)
+
+                                      Assets
+Current Assets
+<S>                                                                                      <C>                   <C>
+  Cash and cash equivalents........................................................            $ 151,657             $  83,321
+  Accounts receivable, net.........................................................              207,569               226,442
+  Inventories......................................................................              109,890                92,482
+  Other current assets.............................................................               50,908                48,343
+                                                                                             -----------          ------------
+      Total Current Assets.........................................................              520,024               450,588
+                                                                                             -----------          ------------
+
+Property, Plant and Equipment......................................................              208,018               206,614
+  Accumulated depreciation and amortization........................................             (128,613)             (126,515)
+                                                                                             -----------          ------------
+      Net Property, Plant and Equipment............................................               79,405                80,099
+                                                                                             -----------          ------------
+Other Assets.......................................................................               71,255                71,863
+                                                                                             -----------          ------------
+      Total Assets.................................................................            $ 670,684             $ 602,550
+                                                                                             ===========          ============
+
+                       Liabilities and Stockholders' Equity
+Current Liabilities
+  Notes payable....................................................................            $     428             $     616
+  Accounts payable--trade..........................................................               45,130                41,351
+  Accrued expenses.................................................................              120,470               128,391
+  Product warranty.................................................................               20,844                19,975
+  Advance payments from customers..................................................               66,898                59,563
+                                                                                             -----------          ------------
+
+      Total Current Liabilities....................................................              253,770               249,896
+Long-Term Accrued Expenses and Other...............................................               21,941                23,795
+Long-Term Debt.....................................................................               58,500                58,500
+                                                                                             -----------          ------------
+      Total Liabilities............................................................              334,211               332,191
+                                                                                             -----------          ------------
+
+Commitments and Contingencies
+Stockholders' Equity
+  Preferred stock
+     Authorized 1,000,000 shares, par value $1, issued and outstanding none........                   --                    --
+  Common stock
+     Authorized 99,000,000 shares, par value $1, issued and outstanding                           33,006                31,769
+      33,006,000 shares at March 30, 2001 and 31,769,000 shares at
+     September 29, 2000............................................................
+  Capital in excess of par value...................................................               95,539                50,869
+  Deferred stock compensation......................................................               (4,789)                   --
+  Retained earnings................................................................              212,717               187,721
+                                                                                             -----------          ------------
+      Total Stockholders' Equity...................................................              336,473               270,359
+                                                                                             -----------          ------------
+      Total Liabilities and Stockholders' Equity...................................            $ 670,684             $ 602,550
+                                                                                             ===========          ============
+</TABLE>
+
+        See accompanying notes to the consolidated financial statements
+
+                                       4
+<PAGE>
+
+                VARIAN MEDICAL SYSTEMS AND SUBSIDIARY COMPANIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                                                  Six Months Ended
+                                                                                               ---------------------
+                                                                                           March 30,            March 31,
+                                                                                             2001                 2000
+                                                                                         ------------         ------------
+                                                                                              (Dollars in thousands)
+<S>                                                                                     <C>                   <C>
+Operating Activities
+Net Cash Provided by Operating Activities.........................................           $ 53,716             $ 24,804
+                                                                                         ------------         ------------
+
+Investing Activities
+Purchase of property, plant and equipment.........................................             (9,817)             (11,434)
+Proceeds from the sale of property, plant and equipment...........................                 51                  574
+Purchase of businesses, net of cash acquired......................................                571                   --
+Increase in cash surrender value of life insurance................................             (2,696)                  --
+Other, net........................................................................                397               (1,081)
+                                                                                         ------------         ------------
+   Net Cash Used by Investing Activities..........................................            (11,494)             (11,941)
+
+Financing Activities
+Net repayments on short-term obligations..........................................               (188)             (30,075)
+Proceeds from common stock issued to employees....................................             25,898               10,331
+Purchase of common stock..........................................................                (24)                  --
+                                                                                         ------------         ------------
+   Net Cash Provided/(Used) by Financing Activities...............................             25,686              (19,744)
+                                                                                         ------------         ------------
+
+Effects of Exchange Rate Changes on Cash..........................................                428                4,242
+                                                                                         ------------         ------------
+
+   Net Increase/(Decrease) in Cash and Cash Equivalents...........................             68,336               (2,639)
+   Cash and Cash Equivalents at Beginning of Period...............................             83,321               25,126
+                                                                                         ------------         ------------
+   Cash and Cash Equivalents at End of Period.....................................           $151,657             $ 22,487
+                                                                                         ============         ============
+
+Detail of Net Cash Provided by Operating Activities
+Net Earnings......................................................................           $ 24,996             $ 15,577
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+   Depreciation...................................................................              9,461                8,715
+   Allowance for doubtful accounts................................................                898                  239
+   Loss from sale of property, plant and equipment................................                566                    6
+   Amortization of intangibles....................................................              1,761                2,119
+   Amortization of deferred stock compensation....................................                449                   --
+   Deferred taxes.................................................................                 90                   --
+   Non-cash stock-based compensation..............................................                 53                   --
+   Cumulative effect of change in accounting principle............................               (121)                  --
+   Net change in fair value of derivatives and underlying commitments.............             (2,868)                  --
+   Change in assets and liabilities:                                                                                    --
+      Accounts receivable.........................................................             19,496                6,251
+      Inventories.................................................................            (17,408)             (21,061)
+      Other current assets........................................................                612               (1,197)
+      Accounts payable-trade......................................................              3,815                  331
+      Accrued expenses............................................................             (9,878)                (122)
+      Product warranty............................................................              1,005                1,206
+      Advance payments from customers.............................................              7,316               11,135
+      Long-term accrued expenses and other........................................             (1,984)              (1,334)
+      Tax benefits from employee stock option exercises...........................             14,742                2,603
+   Other..........................................................................                715                  336
+                                                                                         ------------         ------------
+   Net Cash Provided by Operating Activities......................................           $ 53,716             $ 24,804
+                                                                                         ============         ============
+                                  See accompanying notes to the consolidated financial statements
+</TABLE>
+
+                                       5
+<PAGE>
+
+                VARIAN MEDICAL SYSTEMS AND SUBSIDIARY COMPANIES
+
+                 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+NOTE 1:   The consolidated financial statements include the accounts of Varian
+          Medical Systems, Inc. (the "Company" or "VMS") and its subsidiaries
+          and have been prepared by the Company pursuant to the rules and
+          regulations of the Securities and Exchange Commission (the "SEC").
+          Certain information and footnote disclosures normally included in
+          financial statements prepared in accordance with generally accepted
+          accounting principles have been condensed or omitted pursuant to such
+          rules and regulations. The September 29, 2000 balance sheet data was
+          derived from audited financial statements, but does not include all
+          disclosures required by generally accepted accounting principles. It
+          is suggested that these financial statements be read in conjunction
+          with the financial statements and the notes thereto included in the
+          Company's latest Annual Report on Form 10-K. In the opinion of
+          management, the interim consolidated financial statements include all
+          normal recurring adjustments necessary to present fairly the
+          information required to be set forth therein. Certain financial
+          statement items have been reclassified to conform to the current
+          quarter's format. These reclassifications had no impact on previously
+          reported net earnings. The results of operations for the three and six
+          months ended March 30, 2001 are not necessarily indicative of the
+          results to be expected for a full year or for any other periods.
+
+NOTE 2:   On April 2, 1999, Varian Associates, Inc. reorganized into three
+          separate publicly traded companies by spinning off, through a tax-free
+          distribution, two of its businesses to its stockholders (the
+          "Distribution"). The Distribution resulted in the following three
+          companies: 1) the Company (renamed from Varian Associates, Inc. to
+          Varian Medical Systems, Inc. following the Distribution); 2) Varian,
+          Inc. ("VI"); and 3) Varian Semiconductor Equipment Associates, Inc.
+          ("VSEA"). The Distribution resulted in a non-cash dividend to
+          stockholders.
+
+          In connection with the Distribution, the Company, VI and VSEA also
+          entered into various agreements that set forth the principles to be
+          applied in separating the companies and allocating certain related
+          costs and specified portions of contingent liabilities. The Company
+          may be required to make cash payments to VI or VSEA, or may be
+          entitled to receive cash payments from VI or VSEA as a result of these
+          arrangements. The Company does not believe that any future payments
+          would be material to the Company's consolidated financial statements.
+
+          During fiscal year 1999, the Company recognized net reorganization and
+          related charges as a result of the Distribution and the restructuring
+          of its X-ray Products segment. The following table sets forth certain
+          details associated with the net reorganization charges associated with
+          the Distribution as of March 30, 2001 (in thousands of dollars):
+
+
+<TABLE>
+<CAPTION>
+                                                                      Accrual at                                          Accrual at
+                                                                     September 29,         Cash       Reclassifications/   March 30,
+                                                                         2000            Payments        Adjustments         2001
+                                                                     -------------       --------     ------------------  ----------
+ <S>                                                                 <C>                  <C>           <C>                <C>
+Retention bonuses, severance, and executive compensation.......             $1,583         $ (230)                $  (65)     $1,288
+Legal, accounting, printing and investment
+ banking fees..................................................                100           (100)                    --          --
+Foreign taxes (excluding income taxes).........................                676           (475)                    --         201
+                                                                         ---------       ---------                -------    -------
+                                                                            $2,359         $ (805)                $  (65)     $1,489
+                                                                         =========       =========                =======    =======
+
+</TABLE>
+
+                                       6
+<PAGE>
+
+NOTE 3:   Inventories are valued at the lower of cost or market (realizable
+          value) using last-in, first-out ("LIFO") cost for the U.S. inventories
+          (except X-ray Products). All other inventories are valued principally
+          at average cost. If the first-in, first-out ("FIFO") method had been
+          used for those operations valuing inventories on a LIFO basis,
+          inventories would have been higher than reported by $15.3 million at
+          March 30, 2001 and $14.9 million at September 29, 2000. The main
+          components of inventories are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                                               March 30,       September 29,
+                                                                                                  2001             2000
+                                                                                               ---------       -------------
+<S>                                                                                              <C>                <C>
+                                                                                                   (Dollars in millions)
+      Raw materials and parts......................................................             $ 80.3            $67.4
+      Work-in-process..............................................................               12.1             10.7
+      Finished goods...............................................................               17.5             14.4
+                                                                                             ---------          -------
+           Total Inventories.......................................................             $109.9            $92.5
+                                                                                             =========          =======
+</TABLE>
+
+NOTE 4:   In the first quarter of fiscal 2001, the Company adopted Statement of
+          Financial Accounting Standards No. 133 ("SFAS 133"), "Accounting for
+          Derivative Instruments and Hedging Activities," which establishes
+          accounting and reporting standards for derivative instruments and
+          hedging activities. SFAS 133 requires that all derivatives be measured
+          at fair value on the consolidated balance sheets. The accounting for
+          gains or losses resulting from changes in the fair values of those
+          derivatives would be dependent upon the use of the derivative and
+          whether it qualifies for hedge accounting. Changes in the fair value
+          of derivatives that do not qualify for hedge accounting treatment must
+          be recognized in earnings, together with elements excluded from
+          effectiveness testing and the ineffective portion of a particular
+          hedge. Upon initial adoption of SFAS 133 on September 30, 2000, the
+          Company recorded a cumulative after-tax increase to net income of
+          approximately $121,000, reflecting the time value on forward contracts
+          that the Company has elected to exclude from effectiveness testing
+          under SFAS 133.
+
+          The Company has significant international transactions in foreign
+          currencies and addresses certain financial exposures through a
+          controlled program of risk management that includes the use of
+          derivative financial instruments. The Company enters into foreign
+          currency forward exchange contracts primarily to reduce the effects of
+          fluctuating foreign currency exchange rates. The forward exchange
+          contracts generally range from one to twelve months in original
+          maturity. The Company does not have any forward exchange contract with
+          an original maturity greater than one year.
+
+          The Company currently uses only derivatives that are designated as
+          fair value hedges as prescribed by SFAS 133. For each derivative
+          contract into which it enters, the Company formally documents at the
+          hedge's inception the relationship between the hedging instrument
+          (forward contract) and hedged item (international firmly committed
+          sales order), the nature of the risk being hedged, as well as its risk
+          management objective and strategy for undertaking the hedge. This
+          process includes linking all derivatives that are designated as fair
+          value hedges to specific firm commitments. The Company also formally
+          assesses, both at the hedge's inception and on an ongoing basis,
+          whether the derivatives that are used in hedging transactions are
+          highly effective in offsetting changes in fair values of hedged items.
+          As the terms of the forward contract and the underlying transaction
+          are matched at inception, forward contract effectiveness is calculated
+          by comparing the period-to-period change in the fair value of the
+          forward contract to the change in the spot rates of the related firm
+          commitment. If a derivative qualifies as a fair value hedge, changes
+          in the fair value of the derivative are offset against changes in the
+          fair value of the underlying firm commitment, the difference of which
+          is recognized currently in "cost of sales." Furthermore, the Company
+          has elected to exclude time value on forward contracts from
+          effectiveness testing, and the excluded component is recognized
+          currently in "cost of sales." The Company could experience
+          ineffectiveness on any specific hedge transaction if the hedged item
+          (a previously firmly committed sales order) is cancelled or if the
+          delivery date is re-scheduled. The Company recorded an immaterial loss
+          due to hedge ineffectiveness during the second quarter of fiscal year
+          2001 as a result of a cancelled order. No other ineffectiveness was
+          recognized in the first half of fiscal 2001.
+
+          The Company also hedges balance sheet exposures from its various
+          foreign subsidiaries and business units. The Company enters into
+          foreign exchange forward contracts to minimize the short-term impact
+
+                                       7
+<PAGE>
+
+          of foreign currency fluctuations on assets and liabilities denominated
+          in currencies other than the U.S. dollar functional currency. These
+          hedges of foreign-currency-denominated assets and liabilities do not
+          qualify for hedge accounting treatment under SFAS 133. For derivative
+          instruments not designated as hedging instruments, changes in their
+          fair values are recognized in "selling, general and administrative
+          expenses" in the current period.
+
+          Beyond foreign exchange hedging activities, the Company has no other
+          freestanding or embedded derivative instruments.
+
+NOTE 5:   During the six months ended March 30, 2001, the Company granted 90,908
+          restricted performance shares to several of its senior executives and
+          3,000 shares of restricted common stock to a senior executive under
+          the Company's Omnibus Stock Plan and the 2000 Stock Option Plan. The
+          restricted performance shares will vest 100% five years from the date
+          of grant subject to the employees' having satisfied defined
+          performance objectives. Upon vesting, the Company will deliver one
+          share of common stock for each performance share granted to the
+          employee. The restricted common stock will vest in the following
+          manner: the first one-third three months from the date of grant; the
+          second one-third fifteen months from the date of grant; and the last
+          one-third twenty-seven months from the date of grant. In the event
+          that the Company terminates an employee's service prior to the end of
+          the vesting period or an employee retires three years prior to the end
+          of the vesting period, any unvested performance shares are forfeited.
+          However, if the employee's termination is by reason of death or
+          disability or by the Company for any other reason other than for
+          cause, the performance shares will become immediately vested. In the
+          event that the Company terminates the employee's service prior to the
+          end of the vesting period or the employee retires three years prior to
+          the end of the vesting period, any unvested restricted common stock is
+          forfeited and automatically transferred to and reacquired by the
+          Company at no cost to the Company. An employee may not sell or
+          otherwise transfer unvested shares. Deferred stock compensation for
+          both the restricted performance shares and the restricted common stock
+          is measured at the stock's fair value on the date of grant and is
+          being amortized over their respective vesting periods. In connection
+          with these grants, the Company recorded deferred stock compensation of
+          $5.2 million. For the six months ended March 30, 2001, the Company
+          recognized in "selling, general and administrative expenses"
+          amortization of deferred stock compensation of $0.4 million. The
+          remaining deferred compensation of approximately $4.8 million at March
+          30, 2001 will be amortized as follows: $0.6 million during the
+          remainder of fiscal year 2001, $1.0 million during each of fiscal
+          years 2002 through 2005, and $0.2 million during fiscal year 2006. The
+          amount of deferred compensation expense recorded and to be recorded in
+          future periods could decrease if restricted awards for which accrued
+          but unvested compensation has been recorded are forfeited.
+
+                                       8
+<PAGE>
+
+NOTE 6:   Earnings per share ("EPS") is computed under two methods, basic and
+          diluted. Basic net earnings per share is computed by dividing net
+          earnings by the weighted average number of common shares outstanding
+          for the period. Diluted earnings per share is computed by dividing net
+          earnings by the sum of the weighted average number of common shares
+          outstanding and potential common shares (when dilutive). A
+          reconciliation of the numerator and denominator used in the earnings
+          per share calculations is presented as follows (in thousands, except
+          per share amounts):
+
+
+<TABLE>
+<CAPTION>
+                                                                                      Three Months Ended        Six Months Ended
+                                                                                    ----------------------    ----------------------
+                                                                                    March 30,    March 31,    March 30,    March 31,
+                                                                                       2001        2000         2001         2000
+                                                                                    ---------   ----------    ----------   ---------
+<S>                                                                                   <C>          <C>          <C>          <C>
+Numerator--Basic and Diluted:
+Earnings before Cumulative Effect of Change in Accounting Principle...........        $15,548      $10,349      $24,875      $15,577
+Cumulative Effect of Change in Accounting Principle--Net of Taxes.............             --           --          121           --
+                                                                                    ---------     --------     --------     --------
+          Net Earnings........................................................        $15,548      $10,349      $24,996      $15,577
+                                                                                    =========     ========     ========     ========
+Denominator--Basic:
+Average shares outstanding....................................................         32,731       30,899       32,416       30,770
+                                                                                    =========     ========     ========     ========
+
+Net Earnings Per Share--Basic:
+Earnings before Cumulative Effect of Change in Accounting Principle...........        $  0.48      $  0.33      $  0.77      $  0.51
+Cumulative Effect of Change in Accounting Principle--Net of Taxes.............             --           --           --           --
+                                                                                    ---------     --------     --------     --------
+          Net Earnings Per Share--Basic.......................................        $  0.48      $  0.33      $  0.77      $  0.51
+                                                                                    =========     ========     ========     ========
+Denominator--Diluted:
+Average shares outstanding....................................................         32,731       30,899       32,416       30,770
+Dilutive stock options........................................................          1,649        1,621        1,503        1,039
+Dilutive restricted performance shares and restricted common stock............             15           --            8           --
+                                                                                    ---------     --------     --------     --------
+                                                                                       34,395       32,520       33,927       31,809
+                                                                                    =========     ========     ========     ========
+
+Net Earnings Per Share--Diluted:
+Earnings before Cumulative Effect of Change in Accounting Principle...........        $  0.45      $  0.32      $  0.74      $  0.49
+Cumulative Effect of Change in Accounting Principle--Net of Taxes.............             --           --           --           --
+                                                                                    ---------     --------     --------     --------
+          Net Earnings Per Share--Diluted.....................................        $  0.45      $  0.32      $  0.74      $  0.49
+                                                                                    =========     ========     ========     ========
+
+</TABLE>
+
+       Options to purchase 20,099 shares at an average exercise price of $65.14
+       and options to purchase 10,049 shares at an average exercise price of
+       $65.14 were outstanding on a weighted average basis during the three
+       months and six months ended March 30, 2001, but were not included in the
+       computation of diluted EPS because the options' exercise prices were
+       greater than the average market price of the shares.
+
+       Options to purchase 32,423 shares at an average exercise price of $41.25
+       and options to purchase 17,069 shares at an average exercise price of
+       $40.79 were outstanding on a weighted average basis during the three
+       months and six months ended March 31, 2000, but were not included in the
+       computation of diluted EPS because the options' exercise prices were
+       greater than the average market price of the shares.
+
+                                       9
+<PAGE>
+
+NOTE 7:   The Company's operations are grouped into two reportable segments:
+          Oncology Systems and X-ray Products. These segments were determined
+          based on how management views and evaluates the Company's operations.
+          The Company's Ginzton Technology Center ("GTC"), including its
+          brachytherapy business, is reflected in an "other" category. Other
+          factors included in segment determination were similar economic
+          characteristics, distribution channels, manufacturing environment,
+          technology and customers. The Company evaluates performance and
+          allocates resources primarily based on earnings before interest and
+          taxes.
+
+          Information about Profit/(Loss)
+<TABLE>
+<CAPTION>
+
+                                                                                                            Earnings Before
+                                                                       Sales                              Interest and Taxes
+                                                       --------------------------------------    ----------------------------------
+                                                                  Three Months Ended                       Three Months Ended
+                                                       --------------------------------------    ----------------------------------
+                                                           March 30,            March 31,            March 30,           March 31,
+                                                              2001                2000                 2001                2000
+                                                       ---------------        ---------------    ---------------        -----------
+                                                                                   (Dollars in millions)
+<S>                                                      <C>                  <C>                  <C>                    <C>
+Oncology Systems...................................              $ 151                  $ 131              $  28              $  21
+X-ray Products.....................................                 37                     35                  5                  4
+Other..............................................                  5                      4                 (1)                (2)
+                                                               -------               --------           --------            -------
+   Total Industry Segments.........................                193                    170                 32                 23
+Corporate..........................................                 --                     --                 (8)                (5)
+                                                               -------               --------           --------            -------
+   Total Company...................................              $ 193                  $ 170              $  24              $  18
+                                                               =======               ========           ========            =======
+
+
+                                                                                                          Earnings Before
+                                                                        Sales                            Interest and Taxes
+                                                       --------------------------------------    ----------------------------------
+                                                                   Six Months Ended                       Six Months Ended
+                                                       --------------------------------------    ----------------------------------
+                                                           March 30,            March 31,             March 30,          March 31,
+                                                             2001                 2000                  2001                2000
+                                                       ---------------        ---------------    ----------------       -----------
+                                                                                    (Dollars in millions)
+Oncology Systems...................................              $ 275                  $ 237              $  44              $  34
+X-ray Products.....................................                 70                     65                  8                  7
+Other..............................................                  9                      9                 (2)                (3)
+                                                               -------               --------           --------            -------
+   Total Industry Segments.........................                354                    311                 50                 38
+Corporate..........................................                 --                     --                (11)               (10)
+                                                               -------               --------           --------            -------
+   Total Company...................................              $ 354                  $ 311              $  39              $  28
+                                                               =======               ========           ========            =======
+</TABLE>
+
+                                       10
+<PAGE>
+
+NOTE 8:   In June 2000, the SEC issued Staff Accounting Bulletin No. 101B ("SAB
+          101B"), "Second Amendment: Revenue Recognition in Financial
+          Statements." SAB 101B amends Staff Accounting Bulletin No. 101 ("SAB
+          101") "Revenue Recognition in Financial Statements," to defer the
+          implementation date of SAB 101 for registrants until no later than the
+          fourth fiscal quarter of fiscal years beginning after December 15,
+          1999. SAB 101 outlines the basic criteria that must be met to
+          recognize revenue and provides guidance for disclosures related to
+          revenue recognition policies. In October 2000, the SEC released
+          written guidance to assist with implementing this staff accounting
+          bulletin. The Company is required to adopt SAB 101 in the fourth
+          quarter of its fiscal year ending September 28, 2001. The Company is
+          required to adopt SAB 101 retroactive to September 30, 2000, including
+          recording the effect of any prior year revenue transactions affected
+          as a "cumulative effect of a change in accounting principle" as of
+          September 30, 2000. Upon adoption of SAB 101 in the fourth quarter of
+          fiscal year 2001, quarterly financial statements within fiscal year
+          2001 will be restated to conform to SAB 101 as necessary. Management
+          is currently reviewing SAB 101 and the associated SEC guidance, in
+          particular as it relates to installation and related obligations, the
+          areas most likely to have a potential impact on the Company, and is
+          evaluating the potential effect of the implementation of SAB 101 on
+          its financial condition and results of operations. The implementation
+          of SAB 101 could result in changes to the timing of revenue
+          recognition practices, and therefore could have an effect on the
+          Company's financial condition and results of operations in the period
+          of implementation and going forward.
+
+NOTE 9:   In May 1999, the Company agreed to invest $5 million in a consortium
+          to participate in the acquisition of a minority interest in dpiX LLC
+          ("dpiX"), which supplies the Company with amorphous silicon based
+          thin-film transistor arrays for its X-ray Products' digital imaging
+          subsystems and for its Oncology System's PortalVision imaging systems.
+          The Company invested $2.5 million in July 1999 and the remaining $2.5
+          million in July 2000. These amounts are included in "Other Assets" on
+          the Company's consolidated balance sheets. The investment is accounted
+          for under the equity method. Under the agreement governing the
+          consortium, each equity partner absorbs the consortium's share of the
+          gains and losses of dpiX based on a designated sequential order. The
+          Company is required to absorb its portion of the consortium's
+          cumulative share of dpiX's losses when the consortium's cumulative
+          share of dpiX's losses exceeds $20 million. Based on information
+          provided by dpiX, management currently believes it is reasonably
+          possible that it will recognize a loss of up to $5 million on this
+          investment beginning in the fourth quarter of fiscal year 2001 and
+          continuing through fiscal year 2002. The $5 million represents the
+          maximum share of the consortium's losses that the Company is obligated
+          to record based on the initial level of contributions into the
+          consortium.
+
+NOTE 10:  The Company has been named by the U.S. Environmental Protection Agency
+          or third parties as a potentially responsible party under the
+          Comprehensive Environmental Response Compensation and Liability Act of
+          1980, as amended ("CERCLA"), at eight sites where Varian Associates,
+          Inc. is alleged to have shipped manufacturing waste for recycling or
+          disposal. The Company is overseeing environmental cleanup projects and
+          as applicable, reimbursing third parties for cleanup activities. The
+          cleanup projects that the Company is overseeing are conducted under
+          the direction of, or in consultation with, federal, state and/or local
+          agencies at certain current VMS or former Varian Associates, Inc.
+          facilities (including facilities disposed of in connection with the
+          Company's sale of its electron devices business during 1995, and the
+          sale of its thin film systems business during 1997). Under the terms
+          of the agreement governing the Distribution, VI and VSEA are each
+          obligated to indemnify the Company for one-third of these
+          environmental cleanup costs (after adjusting for any insurance
+          proceeds realized or tax benefits recognized by the Company).
+          Expenditures for environmental investigation and remediation amounted
+          to $0.3 million and $0.7 million (net of amounts borne by VI and VSEA)
+          for the second quarter of fiscal years 2001 and 2000, respectively,
+          and $0.7 million and $1.2 million (net of amounts borne by VI and
+          VSEA) for the first half of fiscal years 2001 and 2000, respectively.
+
+          For certain of these sites and facilities, various uncertainties make
+          it difficult to assess the likelihood and scope of further cleanup
+          activities or to estimate the future costs of such activities
+          (including cleanup costs, reimbursements to third parties, project
+          management costs and legal costs) if undertaken. As of March 30, 2001,
+          the Company nonetheless estimated that the Company's future exposure
+          (net of VI's and VSEA's indemnification obligations) to complete the
+          cleanup projects for
+
+                                       11
+<PAGE>
+
+          these sites ranged in the aggregate from $4.6 million to $14.4
+          million. The time frame over which the Company expects to complete the
+          cleanup projects varies with each site, ranging up to approximately 30
+          years as of March 30, 2001. Management believes that no amount in the
+          foregoing range of estimated future costs is more probable of being
+          incurred than any other amount in such range and therefore accrued
+          $4.6 million as of March 30, 2001. The amount accrued has not been
+          discounted to present value.
+
+          As to other sites and facilities, the Company has gained sufficient
+          knowledge to be able to better estimate the scope and costs of future
+          cleanup activities. As of March 30, 2001, the Company estimated that
+          the Company's future exposure (net of VI's and VSEA's indemnification
+          obligations) to complete the cleanup projects, including paying third
+          party claims, for these sites and facilities ranged in the aggregate
+          from $22.6 million to $51.8 million. The time frame over which these
+          cleanup projects are expected to be complete varies with each site and
+          facility, ranging up to approximately 30 years as of March 30, 2001.
+          As to each of these sites and facilities, management determined that a
+          particular amount within the range of estimated costs was a better
+          estimate of the future environmental liability than any other amount
+          within the range, and that the amount and timing of these future costs
+          were reliably determinable. Together, these amounts totaled $35.6
+          million at March 30, 2001. The Company accordingly accrued $17.6
+          million, which represents its best estimate of the future costs
+          discounted at 4%, net of inflation. This accrual is in addition to the
+          $4.6 million described in the preceding paragraph.
+
+          The foregoing amounts are only estimates of anticipated future
+          environmental-related costs to cover the known cleanup projects, and
+          the amounts actually spent may be greater or less than such estimates.
+          The aggregate range of cost estimates reflects various uncertainties
+          inherent in many environmental cleanup activities, the large number of
+          sites and facilities involved and the amount of third party claims.
+          The Company believes that most of these cost ranges will narrow as
+          cleanup activities progress. The Company believes that its reserves
+          are adequate, but as the scope of its obligations becomes more clearly
+          defined, these reserves (and the associated indemnification
+          obligations of VI and VSEA) may be modified and related charges
+          against earnings may be made.
+
+          Although any ultimate liability arising from environmental-related
+          matters described herein could result in significant expenditures
+          that, if aggregated and assumed to occur within a single fiscal year,
+          would be material to the Company's financial statements, the
+          likelihood of such occurrence is considered remote. Based on
+          information currently available to management and its best assessment
+          of the ultimate amount and timing of environmental-related events (and
+          assuming VI and VSEA satisfy their indemnification obligations),
+          management believes that the costs of these environmental-related
+          matters are not reasonably likely to have a material adverse effect on
+          the consolidated financial statements of the Company.
+
+          The Company evaluates its liability for environmental-related
+          investigation and cleanup costs in light of the liability and
+          financial wherewithal of potentially responsible parties and insurance
+          companies with respect to which the Company believes that it has
+          rights to contribution, indemnity and/or reimbursement (in addition to
+          the obligations of VI and VSEA). Claims for recovery of environmental
+          investigation and cleanup costs already incurred, and to be incurred
+          in the future, have been asserted against various insurance companies
+          and other third parties. In 1992, the Company filed a lawsuit against
+          36 insurance companies with respect to most of the above-referenced
+          sites and facilities. The Company received certain cash settlements
+          during fiscal years 1995, 1996, 1997 and 1998 from defendants in that
+          lawsuit. The Company has also reached an agreement with another
+          insurance company under which the insurance company has agreed to pay
+          a portion of the Company's past and future environmental-related
+          expenditures, and the Company therefore has a $4.5 million receivable
+          in Other Assets at March 30, 2001. The Company believes that this
+          receivable is recoverable because it is based on a binding, written
+          settlement agreement with a solvent and financially viable insurance
+          company. Although the Company intends to aggressively pursue
+          additional insurance and other recoveries, the Company has not reduced
+          any liability in anticipation of recovery with respect to claims made
+          against third parties.
+
+          The Company is a party to three related federal actions involving
+          claims by independent service organizations ("ISOs") that the
+          Company's policies and business practices relating to replacement
+
+
+                                       12
+<PAGE>
+
+          parts violate the antitrust laws (the "ISOs Litigation"). The ISOs
+          purchase replacement parts from the Company and compete with it for
+          the servicing of linear accelerators made by the Company. In response
+          to several threats of litigation regarding the legality of the
+          Company's parts policy, the Company filed a declaratory judgment
+          action in the U. S. District Court for the Northern District of
+          California in 1996 seeking a determination that its new policies are
+          legal and enforceable and damages against two of the ISOs for
+          misappropriation of the Company's trade secrets, unfair competition,
+          copyright infringement and related claims. Subsequently, four of the
+          defendants filed separate claims in other jurisdictions raising issues
+          allegedly related to those in the declaratory relief action and
+          seeking injunctive relief against the Company and damages against the
+          Company in the amount of $10 million for each plaintiff. The
+          defendants' motion for a preliminary injunction in U. S. District
+          Court in Texas with respect to the Company's policies was defeated.
+          The ISOs defendants amended the complaint to include class action
+          allegations, allege a variety of other anti-competitive business
+          practices and filed a motion for class certification, which was heard
+          by the U. S. District Court in Texas in July 1999. No decision,
+          however, has been entered. The parties have agreed to consolidate its
+          claims from the Northern District of California to the action in the
+          District Court in Texas.
+
+          Following the Distribution, the Company retained the liabilities
+          related to the medical systems business prior to the Distribution,
+          including the ISOs Litigation. In addition, the Company agreed to
+          manage and defend liabilities related to legal proceedings and
+          environmental matters arising from corporate or discontinued
+          operations of the Company prior to the Distribution. VI and VSEA
+          generally are each obligated to indemnify the Company for one-third of
+          these liabilities (after adjusting for any insurance proceeds realized
+          or tax benefits recognized by the Company), including certain
+          environmental-related liabilities described above, and to fully
+          indemnify the Company for liabilities arising from the operations of
+          the business transferred to each prior to the Distribution. The
+          availability of such indemnities will depend upon the future financial
+          strength of VI and VSEA. Given the long-term nature of some of the
+          liabilities, the relevant company may be unable to fund the
+          indemnities in the future. It is also possible that a court would
+          disregard this contractual allocation of indebtedness, liabilities and
+          obligations among the parties and require the Company to assume
+          responsibility for obligations allocated to another party,
+          particularly if such other party were to refuse or was unable to pay
+          or perform any of its allocated obligations. In addition, the
+          agreement governing the Distribution generally provides that if a
+          court prohibits a company from satisfying its indemnification
+          obligations, then the indemnification obligations will be shared
+          equally between the two other companies.
+
+          The Company is also involved in other legal proceedings arising in the
+          ordinary course of its business. While there can be no assurances as
+          to the ultimate outcome of any litigation involving the Company,
+          management does not believe any pending legal proceeding will result
+          in a judgment or settlement that will have a material adverse effect
+          on the Company's financial position, results of operations or cash
+          flows.
+
+                                       13
+<PAGE>
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+To the Board of Directors and
+Stockholders of Varian Medical Systems, Inc.:
+
+We have reviewed the accompanying consolidated balance sheet of Varian Medical
+Systems, Inc. and its subsidiaries as of March 30, 2001, and the related
+consolidated statements of earnings for each of the three-month and six-month
+periods ended March 30, 2001 and March 31, 2000 and the consolidated statements
+of cash flows for the six-month periods ended March 30, 2001 and March 31, 2000.
+These financial statements are the responsibility of the Company's management.
+
+We conducted our review in accordance with standards established by the American
+Institute of Certified Public Accountants.  A review of interim financial
+information consists principally of applying analytical procedures to financial
+data and making inquiries of persons responsible for financial and accounting
+matters.  It is substantially less in scope than an audit conducted in
+accordance with generally accepted auditing standards, the objective of which is
+the expression of an opinion regarding the financial statements taken as a
+whole.  Accordingly, we do not express such an opinion.
+
+Based on our review, we are not aware of any material modifications that should
+be made to the accompanying consolidated interim financial statements for them
+to be in conformity with accounting principles generally accepted in the United
+States of America.
+
+We previously audited in accordance with auditing standards generally accepted
+in the United States of America, the consolidated balance sheet as of September
+29, 2000, and the related consolidated statements of earnings, of stockholders'
+equity and of cash flows for the year then ended (not presented herein), and in
+our report dated November 9, 2000 we expressed an unqualified opinion on those
+consolidated financial statements.  In our opinion, the information set forth in
+the accompanying consolidated balance sheet as of September 29, 2000 is fairly
+stated in all material respects in relation to the consolidated balance sheet
+from which it has been derived.
+
+
+
+/s/ PricewaterhouseCoopers LLP
+
+
+San Jose, California
+April 20, 2001
+
+                                       14
+<PAGE>
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+Overview
+
+     VMS is a world leader in the design and manufacture of integrated cancer
+therapy systems, as well as high-quality, cost-effective X-ray tubes for
+original equipment manufacturers, replacement X-ray tubes and imaging
+subsystems. Our oncology systems line encompasses a fully integrated system of
+products embracing not only linear accelerators but also sophisticated ancillary
+products and services. Our linear accelerators and simulators are in service
+around the world, treating cancer patients daily. Our X-ray tubes are sold to
+most major diagnostic equipment manufacturers and cover a range of applications
+including CT scanning, radioscopic/fluoroscopic imaging, special procedures and
+mammography. In addition, we are pursuing technologies and products to improve
+disease management by investigating the interaction of targeted energy and
+biological molecules in our research facility, the Ginzton Technology Center
+("GTC"). GTC sales consist primarily of brachytherapy products and, to a lesser
+extent, payments from research contracts.
+
+     This discussion and analysis of financial condition and results of
+operations is based upon and should be read in conjunction with the consolidated
+financial statements and the notes included elsewhere in this report, as well as
+the information contained under "Management's Discussion and Analysis of
+Financial Condition and Results of Operations - Certain Factors Affecting Our
+Business" in our Annual Report on Form 10-K for the fiscal year ended September
+29, 2000.
+
+Results of Operations
+
+  Fiscal Year
+
+     Our fiscal year is the 52- or 53-week period ending on the Friday nearest
+September 30. Fiscal year 2001 is the 52-week period ending September 28, 2001,
+and fiscal year 2000 was the 52-week period ended September 29, 2000. The fiscal
+quarters ended March 30, 2001 and March 31, 2000 were both 13 weeks long. The
+six-month periods ended March 30, 2001 and March 31, 2000 were both 26 weeks
+long.
+
+  Second Quarter of Fiscal Year 2001 Compared to Second Quarter of Fiscal Year
+   2000
+
+     Sales: Our sales of $193 million in the second quarter of fiscal year 2001
+     were 14% higher than our sales of $170 million in the second quarter of
+     fiscal year 2000. International sales were $85 million (44% of sales) in
+     the second quarter of fiscal year 2001, compared to $70 million (41% of
+     sales) in the second quarter of fiscal year 2000.
+
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------
+           SALES (by region)                Second quarter 2001           Second quarter 2000
+           <S>                                             <C>                           <C>
+----------------------------------------------------------------------------------------------------------
+           Oncology systems:
+           -- North America                 $   91 million                $   86 million
+           -- Europe                            42 million                    24 million
+           -- Asia                              13 million                    14 million
+           -- Rest of the world                  5 million                     7 million
+                                           ---------------               ---------------
+           Total oncology systems           $  151 million                $  131 million
+----------------------------------------------------------------------------------------------------------
+           X-ray tubes and imaging
+           subsystems:
+           -- North America                 $   13 million                $   10 million
+           -- Europe                             5 million                     5 million
+           -- Asia                              18 million                    19 million
+           -- Rest of the world                  1 million                     1 million
+                                           ---------------               ---------------
+               Total X-ray tubes and        $   37 million                $   35 million
+               imaging subsystems
+----------------------------------------------------------------------------------------------------------
+           GTC                              $    5 million                $    4 million
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                                       15
+<PAGE>
+
+     Oncology systems         Oncology systems sales increased 15% to $151
+     sales:                   million (78% of sales) in the second quarter of
+                              fiscal year 2001, compared to $131 million (77% of
+                              sales) in the second quarter of fiscal year 2000.
+                              International sales during the second quarter of
+                              fiscal year 2001 increased significantly compared
+                              to the second quarter of fiscal year 2000, due
+                              primarily to unseasonably low shipments in Europe
+                              during the second quarter of fiscal year 2000 and
+                              timing in shipments as a result of customer
+                              requested delivery schedules. North American sales
+                              increased slightly compared to a very strong year-
+                              ago quarter.
+
+     X-ray tubes and imaging
+     subsystems sales:        X-ray tubes and imaging subsystems sales increased
+                              6% to $37 million (19% of sales) in the second
+                              quarter of fiscal year 2001, compared to $35
+                              million (21% of sales) in the second quarter of
+                              fiscal year 2000. The increase was primarily
+                              attributable to increased sales of our glass tube
+                              products, and to a lesser extent, increased sales
+                              of CT tube products.
+
+     GTC sales:               GTC sales were $5 million in the second quarter of
+                              fiscal year 2001, compared to $4 million in the
+                              second quarter of fiscal year 2000. Higher second
+                              quarter fiscal year 2001 sales stemmed from
+                              increased sales of treatment planning software for
+                              low dose rate brachytherapy as well as payments
+                              under new research contracts.
+
+     Gross Profit: We recorded gross profit of $71 million in the second quarter
+     of fiscal year 2001 and $61 million in the second quarter of fiscal year
+     2000. As a percentage of sales, gross profit was 37% in the second quarter
+     of fiscal year 2001 and 36% in the second quarter of fiscal year 2000.
+     Gross profit as a percentage of sales of oncology systems was 38% for the
+     second quarter of fiscal year 2001 compared to 37% for the second quarter
+     of fiscal year 2000.  This margin increase resulted primarily from
+     increased sales of higher margin ancillary products, partially offset by
+     the geographical mix shift toward international sales, which typically have
+     lower margins. Gross profit as a percentage of sales of X-ray tubes and
+     imaging subsystems decreased to 30% in the second quarter of fiscal year
+     2001 from 32% in the second quarter of fiscal year 2000.  The decline
+     stemmed primarily from a sales mix shift toward lower margin glass tube
+     products. For fiscal year 2001, we currently expect gross profit as a
+     percentage of sales to be slightly higher than the 37% achieved in fiscal
+     year 2000.
+
+     Research and Development: Research and development expenses were $11
+     million (6% of sales) in the second quarter of fiscal year 2001 compared to
+     $11 million (7% of sales) in the second quarter of fiscal year 2000.
+
+     Selling, General and Administrative: Selling, general and administrative
+     expenses were $36 million (19% of sales) in the second quarter of fiscal
+     year 2001 compared to $32 million (19% of sales) in the second quarter of
+     fiscal year 2000. The increase (in absolute dollars) in selling, general
+     and administrative expenses in the second quarter of fiscal year 2001 was
+     largely attributable to increased spending on information systems and
+     patents, amortization of deferred stock compensation related to the
+     restricted stock awards granted to our senior executives in fiscal year
+     2001, and foreign currency hedging losses related to hedges of our foreign-
+     currency-denominated assets and liabilities during the quarter.
+
+     Interest (Income)/Expense, Net: Net interest income was $0.5 million for
+     the second quarter of fiscal year 2001, compared to $1.1 million of net
+     interest expense for the second quarter of fiscal year 2000. The change
+     reflected a combination of a $0.2 million decrease in interest expense
+     associated with lower levels of debt in the second quarter of fiscal year
+     2001 and a $1.4 million increase in interest income associated with
+     increased cash levels in the second quarter of fiscal year 2001.
+
+     Taxes on Earnings: Our estimated effective tax rate for the second quarter
+     of fiscal year 2001 was 37%, compared to 37.5% for the second quarter of
+     fiscal year 2000.  For fiscal year 2001, we estimate that our effective tax
+     rate will be approximately 37%.
+
+                                       16
+<PAGE>
+
+  First Half of Fiscal Year 2001 Compared to First Half of Fiscal Year 2000
+
+     Sales: Our sales of $354 million in the first half of fiscal year 2001 were
+     14% higher than our sales of $311 million in the first half of fiscal year
+     2000. International sales were $175 million (49% of sales) in the first
+     half of fiscal year 2001, compared to $140 million (45% of sales) in the
+     first half of fiscal year 2000.
+
+
+<TABLE>
+<CAPTION>
+
+----------------------------------------------------------------------------------------------------------
+           SALES (by region)                       First half 2001               First half 2000
+----------------------------------------------------------------------------------------------------------
+<S>                                             <C>                           <C>
+           Oncology systems:
+           -- North America                        $ 150 million                 $ 144 million
+           -- Europe                                  79 million                    54 million
+           -- Asia                                    35 million                    22 million
+           -- Rest of the world                       11 million                    17 million
+                                                  --------------              ----------------
+           Total oncology systems                  $ 275 million                 $ 237 million
+----------------------------------------------------------------------------------------------------------
+           X-ray tubes and imaging
+           subsystems:
+           -- North America                        $  23 million                 $  20 million
+           -- Europe                                   9 million                     9 million
+           -- Asia                                    36 million                    34 million
+           -- Rest of the world                        2 million                     2 million
+                                                  --------------              ----------------
+               Total X-ray tubes and               $  70 million                 $  65 million
+               imaging subsystems
+----------------------------------------------------------------------------------------------------------
+           GTC                                     $   9 million                 $   9 million
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+     Oncology systems sales:   Oncology systems sales increased 16% to $275
+                               million (78% of sales) in the first half of
+                               fiscal year 2001, compared to $237 million (76%
+                               of sales) in the first half of fiscal year 2000.
+                               International sales during the first half of
+                               fiscal year 2001 increased significantly compared
+                               to the same period of fiscal year 2000, due
+                               primarily to timing in shipments as a result of
+                               customer requested delivery schedules. North
+                               American sales increased slightly compared to a
+                               very strong first half of fiscal year 2000.
+
+     X-ray tubes and imaging
+     subsystems sales:         X-ray tubes and imaging subsystems sales
+                               increased 8% between periods to $70 million (20%
+                               of sales) in the first half of fiscal year 2001,
+                               compared to $65 million (21% of sales) in the
+                               first half of fiscal year 2000. The increase was
+                               a combination of increased sales of our CT tube
+                               products, particularly to a large customer in
+                               Japan, and increased sales of our glass tube
+                               products.
+
+     GTC sales:                GTC sales were $9 million for the first half of
+                               both fiscal years 2001 and 2000.
+
+     Gross Profit: We recorded gross profit of $128 million in the first half of
+     fiscal year 2001 and $111 million in the first half of fiscal year 2000. As
+     a percentage of sales, gross profit was 36% for both periods. Gross profit
+     as a percentage of sales of oncology systems was 38% for the first half of
+     fiscal year 2001 compared to 37% for the same period in prior year. This
+     margin increase resulted primarily from increased sales of higher margin
+     ancillary products, partially offset by the geographical mix shift toward
+     international sales, which typically have lower margins.  Gross profit as a
+     percentage of sales of X-ray tubes and imaging subsystems decreased to 30%
+     in the first half of fiscal year 2001 from 32% in the first half of fiscal
+     year 2000.  The decline stemmed primarily from a sales mix shift toward
+     lower margin glass tube products. For fiscal year 2001, we currently expect
+     gross profit as a percentage of sales to be slightly higher than the 37%
+     achieved in fiscal year 2000.
+
+     Research and Development: Research and development expenses were $22
+     million (6% of sales) in the first half of fiscal year 2001 compared to $22
+     million (7% of sales) in the same period of fiscal year 2000.
+
+     Selling, General and Administrative: Selling, general and administrative
+     expenses were $67 million (19% of sales) in the first half of fiscal year
+     2001 compared to $62 million (20% of sales) in the same
+
+                                       17
+<PAGE>
+
+     period of fiscal year 2000. The increase (in absolute dollars) in selling,
+     general and administrative expenses in the first half of fiscal year 2001
+     was largely attributable to increased spending on information systems and
+     patents, and amortization of deferred stock compensation related to the
+     restricted stock awards granted to our senior executives in fiscal year
+     2001.
+
+     Interest (Income)/Expense, Net: Net interest income was $0.8 million for
+     the first half of fiscal year 2001, compared to $2.6 million of net
+     interest expense for the same period in fiscal year 2000. The change
+     reflected a combination of a $0.8 million decrease in interest expense
+     associated with lower levels of debt in the first half of fiscal year 2001
+     and a $2.5 million increase in interest income associated with higher cash
+     levels in the first half of fiscal year 2001.
+
+     Taxes on Earnings: Our estimated effective tax rate for the first half of
+     fiscal year 2001 was slightly above 37%, compared to 37.5% for the first
+     half of fiscal year 2000.  For fiscal year 2001, we estimate that our
+     effective tax rate will be approximately 37%.
+
+     Cumulative Effect of Change in Accounting Principle-Net of Taxes: We
+     recorded a $0.1 million credit to earnings related to the adoption of
+     Statement of Financial Accounting Standards No. 133 ("SFAS 133"),
+     "Accounting for Derivative Instruments and Hedging Activities," in the
+     first quarter of fiscal year 2001.  For a discussion of SFAS 133, see Note
+     4 of the Notes to Consolidated Financial Statements.
+
+Liquidity and Capital Resources
+
+   Liquidity is the measurement of our ability to meet potential cash
+requirements, including ongoing commitments to repay borrowings, purchases of
+business assets and funding of continuing operations. Our sources of cash
+include sales, net interest income and borrowings under short-term notes payable
+and long-term loans. Our liquidity is actively managed on a daily basis to
+ensure the maintenance of sufficient funds to meet our needs.
+
+   At March 30, 2001, we had $59 million of long-term loans and $0.4 million of
+short-term notes payable. Interest rates on the outstanding long-term loans on
+this date range from 6.70% to 7.15% with a weighted average interest rate of
+6.82%. As of March 30, 2001, the weighted average interest rate on the short-
+term notes payable was 5.23%. The long-term loans currently contain covenants
+that limit future borrowings and cash dividends payments. The covenants also
+require us to maintain specified levels of working capital and operating
+results.
+
+   At March 30, 2001, we had $152 million in cash and cash equivalents
+(approximately 33% of which was held abroad and would be subject to additional
+taxation if it was repatriated to the U.S.) compared to $83 million at September
+29, 2000.
+
+   Our primary cash inflows and outflows for the first half of fiscal year 2001
+and 2000 were as follows:
+
+
+   .  We generated net cash from operating activities of $54 million during the
+      first half of fiscal year 2001, compared to the $25 million we generated
+      from operating activities in the first half of fiscal year 2000. The
+      primary contributor to the increase in operating cash flow period over
+      period was our increase in net earnings to $25 million in the first half
+      of fiscal year 2001 from $16 million in the first half of fiscal year
+      2000. In addition to net earnings, net cash provided by operating
+      activities in the first half of fiscal year 2001 related primarily to: $10
+      million in net non-cash charges including depreciation, amortization,
+      write-offs and other, $19 million reduction in accounts receivable net of
+      foreign currency adjustments, $11 million increase in trade accounts
+      payable and advance payments from customers net of foreign currency
+      adjustments, and $15 million of tax benefits from employee stock option
+      exercises, partially offset by additions to inventory of $17 million and a
+      decrease in accrued expenses of $10 million, both of which are also net of
+      foreign currency adjustments.
+
+   .  Investing activities used $11 million of net cash in the first half of
+      fiscal year 2001 compared to the $12 million in net cash used by investing
+      activities in the first half of fiscal year 2000. Net cash used in
+      investing activities in both the first half of fiscal year 2001 and the
+      first half of fiscal year 2000 was primarily to purchase property, plant
+      and equipment.
+
+   .  Financing activities provided net cash of $26 million in the first half of
+      fiscal year 2001 compared to using net cash of $20 million in the same
+      period of fiscal year 2000. Net cash provided by financing
+
+                                       18
+<PAGE>
+
+      activities in the first half of fiscal year 2001 related primarily to
+      proceeds from stock option exercises. Net cash used by financing
+      activities in the first half of fiscal year 2000 consisted primarily of
+      payments on short-term debt, partially offset by proceeds from stock
+      option exercises.
+
+   Total debt as a percentage of total capital improved to 15% at March 30, 2001
+from 18% at fiscal year end 2000 largely due to the increase of our
+stockholders' equity during the first half of the year. The ratio of current
+assets to current liabilities improved to 2.05 to 1 at March 30, 2001 from 1.80
+to 1 at fiscal year end 2000. At March 30, 2001, we had $87 million available in
+unused uncommitted lines of credit as well as an additional $50 million in an
+unused committed revolving credit facility.
+
+   In May 1999, we agreed to invest $5 million in a consortium to participate in
+the acquisition of a minority interest in dpiX LLC ("dpiX"), which supplies us
+with amorphous silicon based thin-film transistor arrays for our X-ray Products'
+digital imaging subsystems and for our Oncology System's PortalVision imaging
+systems. We invested $2.5 million in July 1999 and the remaining $2.5 million in
+July 2000. The investment was recorded under the equity method of accounting.
+Under the agreement governing the consortium, each equity partner absorbs the
+consortium's share of the gains and losses of dpiX based on a designated
+sequential order. We are required to absorb our portion of the consortium's
+cumulative share of dpiX's losses when the consortium's cumulative share of
+dpiX's losses exceeds $20 million. Based on information provided by dpiX,
+management currently believes it is reasonably possible that we will recognize a
+loss of up to $5 million on this investment beginning in the fourth quarter of
+fiscal year 2001 and continuing through fiscal year 2002. The $5 million
+represents the maximum share of the consortium's losses that we are obligated to
+record based on the initial level of contributions into the consortium.
+
+   We are a party to three related federal actions involving claims by
+independent service organizations ("ISOs") that our policies and business
+practices relating to replacement parts violate the antitrust laws (the "ISOs
+Litigation"). ISOs purchase replacement parts from us and compete with us in
+servicing the linear accelerators we manufacture. In response to several threats
+of litigation regarding the legality of our parts policy, we filed a declaratory
+judgment action in the U. S. District Court for the Northern District of
+California in 1996 asking for a determination that our new policies are legal
+and enforceable and damages against two of the ISOs for misappropriation of our
+trade secrets, unfair competition, copyright infringement and related claims.
+Later, four defendants filed separate claims in other jurisdictions raising
+issues allegedly related to those in the declaratory relief action and seeking
+injunctive relief and damages against us for $10 million for each plaintiff. We
+defeated the defendants' motion for a preliminary injunction in U. S. District
+Court in Texas about our policies. The ISOs defendants amended the complaint to
+include class action allegations, alleged a variety of other anti-competitive
+business practices and filed a motion for class certification, which the U. S.
+District Court in Texas heard in July 1999. No decision, however, has been
+entered. The parties have agreed to consolidate our claims from the Northern
+District of California to the action in the U.S. District Court in Texas.
+
+   After the Distribution, we retained the liabilities related to the medical
+systems business before the spin-offs, including the ISOs Litigation. In
+addition, under the agreement governing the Distribution, we agreed to manage
+and defend liabilities related to legal proceedings and environmental matters
+arising from corporate or discontinued operations. Each of VI and VSEA must
+generally indemnify us for one-third of these liabilities (after adjusting for
+any insurance proceeds we realize or tax benefits we receive), including
+specified environmental-related liabilities described below, and to fully assume
+and indemnify us for liabilities arising from each of their operations before
+the Distribution. The availability of the indemnities will depend upon the
+future financial strength of VI and VSEA. Given the long-term nature of some of
+the liabilities, the relevant company may be unable to fund indemnities in the
+future. A court could also disregard the contractual allocation of indebtedness,
+liabilities and obligations among the parties and require us to assume
+responsibility for obligations allocated to another party, particularly if the
+other party were to refuse or was unable to pay or perform any of its allocated
+obligations. In addition, the agreement governing the Distribution generally
+provides that if a court prohibits any of the companies from satisfying its
+indemnification obligations, then the indemnification obligations will be shared
+equally between the two other companies.
+
+   From time to time, we are involved in other legal proceedings arising in the
+ordinary course of our business. While we cannot be certain about the ultimate
+outcome of any litigation, management does not believe any pending legal
+proceeding will result in a judgment or settlement that will have a material
+adverse effect on our financial position, results of operations or cash flows.
+
+                                       19
+<PAGE>
+
+   Our liquidity is affected by many factors, some of which are based on the
+normal ongoing operations of our business and some of which arise from
+uncertainties and conditions in the U.S. and global economies. Although our cash
+requirements will fluctuate (positively and negatively) as a result of the
+shifting influences of these factors, we believe that existing cash and cash
+equivalents, cash to be generated from operations and our borrowing capability
+will be sufficient to satisfy anticipated commitments for capital expenditures
+and other cash requirements through fiscal year 2002.
+
+Deferred Stock Compensation
+
+      During the six months ended March 30, 2001, we granted 90,908 restricted
+performance shares to several of our senior executives and 3,000 shares of
+restricted common stock to a senior executive under the our Omnibus Stock Plan
+and our 2000 Stock Option Plan. The restricted performance shares will vest 100%
+five years from the date of grant subject to the employees' having satisfied
+defined performance objectives. Upon vesting, we will deliver one share of our
+common stock for each performance share granted to the employee. The restricted
+common stock will vest in the following manner: the first one-third three months
+from the date of grant; the second one-third fifteen months from the date of
+grant; and the last one-third twenty-seven months from the date of grant. In the
+event that we terminate an employee's service prior to the end of the vesting
+period or an employee retires three years prior to the end of the vesting
+period, any unvested performance shares are forfeited. However, if the
+employee's termination is by reason of death or disability or if we terminate
+the employee for any other reason other than for cause, the performance shares
+will become immediately vested. In the event that we terminate the employee's
+service prior to the end of the vesting period or the employee retires three
+years prior to the end of the vesting period, any unvested restricted common
+stock is forfeited and we will automatically reacquire the unvested restricted
+stock at no cost. An employee may not sell or otherwise transfer unvested
+shares. We measure deferred stock compensation for both the restricted
+performance shares and the restricted common stock based on the stock's fair
+value on the date of grant and we amortize the deferred stock compensation over
+the stocks' respective vesting periods. In connection with these grants, we
+recorded deferred stock compensation of $5.2 million. For the six months ended
+March 30, 2001, we recognized in "selling, general and administrative expenses"
+amortization of deferred stock compensation of $0.4 million. We estimated that
+we will amortize the remaining deferred compensation of approximately $4.8
+million at March 30, 2001 we as follows: $0.6 million during the remainder of
+fiscal year 2001, $1.0 million during each of fiscal years 2002 through 2005,
+and $0.2 million during fiscal year 2006. The amount of deferred compensation
+expense recorded and to be recorded in future periods could decrease if the
+restricted awards are forfeited.
+
+Recent Accounting Pronouncement
+
+     In June 2000, the Securities and Exchange Commission ("SEC") issued Staff
+Accounting Bulletin No. 101B ("SAB 101B"), "Second Amendment: Revenue
+Recognition in Financial Statements." SAB 101B amends Staff Accounting Bulletin
+No. 101 ("SAB 101") "Revenue Recognition in Financial Statements," to defer the
+implementation date of SAB 101 for registrants until no later than the fourth
+fiscal quarter of fiscal years beginning after December 15, 1999. SAB 101
+outlines the basic criteria that must be met to recognize revenue and provides
+guidance for disclosures related to revenue recognition policies. In October
+2000, the SEC released written guidance to assist with implementing this staff
+accounting bulletin. We are required to adopt SAB 101 in the fourth quarter of
+our fiscal year ending September 28, 2001. SAB 101 requires that we comply with
+its revenue recognition guidance retroactive to the beginning of the fiscal year
+of adoption, or September 30, 2000, including recording the effect of any prior
+year revenue transactions affected as a "cumulative effect of a change in
+accounting principle" as of the September 30, 2000. Upon adoption of SAB 101 in
+the fourth quarter of fiscal year 2001, quarterly financial statements within
+fiscal year 2001 will be restated to conform to SAB 101 as necessary. We are
+currently reviewing SAB 101 and the associated SEC guidance, in particular as it
+relates to installation and related obligations, the areas most likely to have a
+potential impact on us, and are evaluating the potential effect of the
+implementation of SAB 101 on our financial condition and results of operations.
+The implementation of SAB 101 could result in changes to the timing of revenue
+recognition practices, and therefore could have an effect on our financial
+condition and results of operations in the period of implementation and going
+forward.
+
+                                       20
+<PAGE>
+
+Environmental Matters
+
+   There are a variety of environmental laws around the world regulating the
+handling, storage, transport and disposal of hazardous materials that do or may
+create increased costs for some of our operations. In addition, several
+countries are proposing to require manufacturers to take back, recycle and
+dispose of products at the end of the equipment's useful life. These laws create
+increased costs for our operations.
+
+   From the time we began operating, we handled and disposed of hazardous
+materials and wastes following procedures that were considered appropriate under
+regulations, if any, existing at the time. We also hired companies to dispose of
+wastes generated by our operations. Under various laws (such as the federal
+"Superfund" law) and under our obligations concerning operations before the
+spin-offs, we are overseeing environmental cleanup projects from our pre-spun-
+off operations and as applicable reimbursing third parties (such as the U.S.
+Environmental Protection Agency or other responsible parties) for cleanup
+activities. Under the terms of agreement governing the Distribution, we are
+obligated to pay one-third of specified environmental liabilities caused by
+operations before the spin-offs, with VI and VSEA obligated for the balance. The
+cleanup projects we are overseeing are being conducted under the direction of or
+in consultation with relevant regulatory agencies. We estimated these cleanup
+projects would take up to 30 years to complete. As described below, we have
+accrued a total of $22.2 million to cover our liabilities for these cleanup
+projects:
+
+      .  We have developed a range of potential costs covering a variety of
+         cleanup activities, including three cleanup projects, reimbursements to
+         third parties, project management costs and legal costs. There are,
+         however, various uncertainties in these estimates that make it
+         difficult to develop a best estimate. Our estimate of future costs to
+         complete these cleanup activities ranges from $4.6 million to $14.4
+         million. For these estimates, we have not discounted the costs to
+         present dollars because of the uncertainties that make it difficult to
+         develop a best estimate and have accrued $4.6 million, which is the
+         amount at the low end of the range.
+
+      .  For seven cleanup projects, we have sufficient knowledge to develop
+         better estimates of our future costs. While our estimate of future
+         costs to complete these cleanup projects, including third party claims,
+         ranges from $22.6 million to $51.8 million, our best estimate within
+         that range is $35.6 million. For these projects we have accrued $17.6
+         million; which is our best estimate of the $35.6 million discounted to
+         present dollars at 4%, net of inflation.
+
+     When we developed the estimates above, we considered the financial strength
+of other potentially responsible parties. These amounts are, however, only
+estimates and may be revised in the future as we get more information on these
+projects. We may also spend more or less than these estimates. Based on current
+information, we believe that our reserves are adequate. At this time, management
+believes that it is remote that any single environmental event would have a
+materially adverse impact on our financial statements in any single fiscal year.
+We spent $0.3 million and $0.7 million during the second quarter of fiscal years
+2001 and 2000, respectively, and $0.7 million and $1.2 million during the first
+six months of fiscal years 2001 and 2000, respectively.
+
+     In 1992, we filed a lawsuit against 36 insurance companies for recovery of
+our environmental investigation, cleanup and third party claim costs. We reached
+cash settlements with various insurance companies in 1995, 1996, 1997 and 1998.
+In addition, we have an agreement with an insurance company to pay a portion of
+our past and future expenditures. As a result of this agreement, we have
+included a $4.5 million receivable in Other Assets as of March 30, 2001. We
+believe that this receivable is recoverable because it is based on a binding,
+written settlement agreement with a financially viable insurance company.
+Although we continue to aggressively pursue additional insurance recoveries, we
+have not reduced our liability in anticipation of recovery from third parties
+for claims that we made.
+
+     Our present and past facilities have been in operation for many years, and
+over that time in the course of those operations, these facilities have used
+substances which are or might be considered hazardous, and we have generated and
+disposed of wastes which are or might be considered hazardous. Therefore, it is
+possible that additional environmental issues may arise in the future that we
+cannot now predict.
+
+                                       21
+<PAGE>
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+We are exposed to two primary types of market risks: foreign currency exchange
+rate risk and interest rate risk.
+
+Foreign Currency Exchange Rate Risk
+
+   As a global concern, we are exposed to adverse movements in foreign currency
+exchange rates. These exposures may change over time as business practices
+evolve and could have a material adverse impact on our financial results.
+Historically, our primary exposures related to non-U.S. dollar denominated sales
+and purchases throughout Europe, Asia and Australia. On January 1, 1999, eleven
+of the fifteen member countries of the European Monetary Union adopted the Euro
+as their common legal currency. Following the introduction of the Euro, the
+local currencies of the participating countries are scheduled to remain legal
+tender until June 30, 2002. During this transition period, goods and services
+may be paid for in either Euro or the participating country's local currencies.
+Thereafter, only the Euro will be the legal tender in the participating
+countries. We continue to evaluate, among other issues, the impact of the Euro
+conversion on our foreign currency exposure. Based on our evaluation to date, we
+do not expect the Euro conversion to create any change in currency exposure due
+to our existing hedging practices.
+
+   We have significant international transactions in foreign currencies and
+address related financial exposures through a controlled program of risk
+management that includes the use of derivative financial instruments. We sell
+products throughout the world, often in the currency of the customer's economy,
+and adhere to a policy of hedging foreign currency exposures that result from
+international firmly committed sales orders with forward exchange contracts. We
+primarily enter into foreign currency forward exchange contracts to reduce the
+effects of fluctuating foreign currency exchange rates. We do not enter into
+forward exchange contracts for trading purposes. The forward exchange contracts
+generally range from one to twelve months in original maturity. We do not have
+any forward exchange contract with an original maturity greater than one year.
+We also hedge the balance sheet exposures from our various foreign subsidiaries
+and business units having U.S. dollar functional currencies.  We enter into
+these foreign exchange forward contracts to minimize the short-term impact of
+foreign currency fluctuations on assets and liabilities denominated in
+currencies other than the U.S. dollar functional currency.
+
+   Forward exchange contracts outstanding as of March 30, 2001 are summarized as
+follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                         Notional Value         Notional Value
+                                                                              Sold                 Purchased
+                                                                        ---------------         --------------
+                                                                               (Dollars in thousands)
+            <S>                                                         <C>                   <C>
+           Australian dollar.....................................              $  3,574                $    --
+           Brazilian real........................................                    --                    610
+           British pound.........................................                42,338                  9,903
+           Canadian dollar.......................................                25,448                  2,269
+           Danish krona..........................................                 3,875                  1,442
+           Euro..................................................                55,873                 14,392
+           Japanese yen..........................................                24,275                     --
+           Norwegian krone.......................................                   116                    723
+           Swedish krona.........................................                 2,109                     --
+           Swiss franc...........................................                    --                  8,696
+           Thailand baht.........................................                 1,545                     --
+                                                                            -----------            -----------
+           Totals................................................              $159,153                $38,035
+                                                                            ===========            ===========
+</TABLE>
+
+   The notional amounts of forward exchange contracts are not a measure of our
+exposure.
+
+Interest Rate Risk
+
+   Our exposure to market risk for changes in interest rates relates primarily
+to our investment portfolio and notes payable. We do not use derivative
+financial instruments in our investment portfolio, and the investment portfolio
+only includes highly liquid instruments in short-term investments. We primarily
+enter into debt obligations to support general corporate purposes, including
+working capital requirements, capital expenditures and acquisitions.
+
+                                       22
+<PAGE>
+
+   The fair value of our investment portfolio or related income would not be
+significantly impacted by interest rates since the investment maturities are
+short. Our long-term debt of $58.5 million at March 30, 2001 carries a weighted
+average fixed interest rate of 6.82% with principal payments due in various
+installments over a thirteen-year period, beginning in 2005. Our notes payable
+to bank of $0.4 million at March 30, 2001 carried a weighted average interest
+rate of 5.23%.
+
+   The table below presents principal amounts and related weighted average
+interest rates by year for our cash and cash equivalents and debt obligations.
+
+
+<TABLE>
+<CAPTION>
+                                  Balance at
+                                   March 30,                                     Fiscal Year
+                                                -----------------------------------------------------------------------------------
+                                     2001          2001        2002        2003         2004        2005        Thereafter    Total
+                                  ----------    ----------   ----------  ---------    ---------  ----------     -----------   -----
+                                                                           (Dollars in millions)
+<S>                             <C>                   <C>             <C>            <C>            <C>            <C>      <C>
+Assets
+ Cash and cash equivalents....       $151.7       $ 151.7          --         --           --           --           --      $151.7
+ Average interest rate........         4.69%         4.69%                                                                     4.69%
+
+
+Liabilities
+ Notes payable................       $   0.4      $   0.4          --         --           --           --           --      $  0.4
+ Average interest rate........          5.23%        5.23%         --         --           --           --           --        5.23%
+
+
+ Long-term debt...............       $  58.5           --          --         --           --          $ 5.3       $53.2     $ 58.5
+ Average interest rate........          6.82%          --          --         --           --           6.76%       6.82%      6.82%
+
+</TABLE>
+
+   The estimated fair value of our cash and cash equivalents (a portion of which
+was held abroad at March 30, 2001 and would be subject to additional taxation if
+it was repatriated in the U.S.) approximates the principal amounts reflected
+above based on the short maturities of these financial instruments.
+
+   Although payments under some of our operating leases for our facilities are
+tied to market indices, we are not exposed to material interest rate risk
+associated with our operating leases.
+
+                                       23
+<PAGE>
+
+                                    PART II
+
+                               OTHER INFORMATION
+
+Item 1.  Legal Proceedings.
+
+     Information related to Item 1 is disclosed in Part I, Item 1 (Note 10 to
+the interim consolidated financial statements) and in Part I, Item 2
+(Management's Discussion and Analysis of Financial Condition).
+
+Item 2.  Changes in Securities and Use of Proceeds
+
+     On October 2, 2000, the Company added to the investment alternatives
+under the Varian Medical Systems, Inc. Retirement Plan (the "401(k) Plan") a
+unitized Company common stock fund.  From that date to the date of the filing of
+a Form S-8 registration statement with respect to the 401(k) Plan, Fidelity
+Investments purchased on the open market, in ordinary brokerage transactions,
+for the accounts of participants an aggregate of 42,706 shares of the Company's
+common stock.  The consideration received from 401(k) Plan participants for whom
+such shares were purchased totaled $2,213,000.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+     At the Company's Annual Meeting of Stockholders held on February 8, 2001
+(the "Stockholders' Meeting"), the stockholders of Varian Medical Systems, Inc.
+voted on the following proposals:
+
+       PROPOSAL ONE: Election of three directors to the Company's Board of
+   Directors for three-year terms.  The voting on each such nominee for director
+   was as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                                                       Broker
+                               Director                             Votes For           Withheld      Non-votes (1)
+                               --------                             ---------           --------      ------------
+        <S>                                                   <C>                <C>                <C>
+       John Seely Brown....................................         29,554,210            176,785         N/A
+       Samuel Hellman......................................         29,557,341            173,654         N/A
+       Terry R. Lautenbach.................................         29,553,621            177,374         N/A
+       </TABLE>
+   ________
+   (1) Pursuant to the rules of the New York Stock Exchange, this election of
+       directors constituted a routine matter.  Therefore, brokers were
+       permitted to vote without receipt of instructions from beneficial owners.
+
+       PROPOSAL TWO: Approval of the adoption by the Company of the Company's
+   Amended and Restated Employee Stock Purchase Plan.  The voting on the
+   proposal was as follows:
+
+<TABLE>
+<CAPTION>
+                                                                        Broker
+          Votes For             Votes Against      Abstentions       Non-votes (2)        Outcome
+          ---------             -------------      -----------       -------------        --------
+         <S>                    <C>                <C>               <C>                  <C>
+         27,255,620                 2,299,150          176,225            N/A              Passed
+</TABLE>
+   ________
+   (2) Pursuant to the rules of the New York Stock Exchange, this approval of
+       the adoption of the Company's Amended and Restated Employee Stock
+       Purchase Plan constituted a routine matter.  Therefore, brokers were
+       permitted to vote without receipt of instructions from beneficial owners.
+
+                                       24
+<PAGE>
+
+Item 6.    Exhibits and Reports on Form 8-K.
+
+   (a) Exhibits required to be filed by Item 601 of Regulation S-K:
+
+   Exhibit
+     No.        Description
+   -------      -----------
+
+     15         Letter Regarding Unaudited Interim Financial Information.
+
+
+(b)  The Company did not file any reports on Form 8-K during the quarter ended
+     March 30, 2001.
+
+                                       25
+<PAGE>
+
+                                   SIGNATURES
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, Varian
+Medical Systems, Inc. has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+
+                                   VARIAN MEDICAL SYSTEMS, INC.
+                                          (Registrant)
+
+Dated: May 11, 2001                     By: /s/ Elisha W. Finney
+                                            -------------------------------
+                                                  Elisha W. Finney
+                                            Vice President, Finance and
+                                             Chief Financial Officer
+                                            (Duly authorized officer and
+                                            Principal Financial Officer)
+
+                                       26
+<PAGE>
+
+                               INDEX TO EXHIBITS
+
+
+   Exhibit
+     No.        Description
+   -------      -----------
+
+     15         Letter Regarding Unaudited Interim Financial Information.
+
+                                       27
+</TEXT>
+</DOCUMENT>

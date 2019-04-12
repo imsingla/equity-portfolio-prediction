@@ -1,0 +1,1581 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>b313655_10q.txt
+<DESCRIPTION>QUARETERLY REPORT
+<TEXT>
+<PAGE>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                    FORM 10-Q
+
+(Mark One)
+[x] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF l934.
+
+                  For the quarterly period ended July 31, 2001
+
+OR
+
+[ ] TRANSISTION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934.
+
+              For the transition period from __________to__________
+
+
+                         Commission file number 0-29230
+
+                       TAKE-TWO INTERACTIVE SOFTWARE, INC.
+                  (Exact Name of Registrant as Specified in Its
+                                    Charter)
+
+Delaware                                    51-0350842
+(State or Other Jurisdiction of             (I.R.S. Employer Identification No.)
+ Incorporation or Organization)
+
+575 Broadway, New York, NY                  10012
+(Address of principal executive offices)    (Zip Code)
+
+Registrant's Telephone Number, Including Area Code (212) 334-6633
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months, and(2) has been subject to such filing requirements for
+the past 90 days. Yes X No__
+
+As of September 12, 2001, there were 36,631,308 shares of the registrant's
+Common Stock outstanding.
+
+
+<PAGE>
+
+                      TAKE-TWO INTERACTIVE SOFTWARE, INC.
+                          QUARTER ENDED JULY 31, 2001
+
+                                     INDEX
+
+<TABLE>
+<S>           <C>
+PART I.       FINANCIAL INFORMATION
+
+Item 1.       Financial Statements
+
+              Consolidated Condensed Balance Sheets - As of July 31, 2001 and October 31, 2000 (unaudited)              1
+
+              Consolidated Condensed Statements of Operations - For the three
+                   months ended July 31, 2001 and 2000 and the nine months
+                   ended July 31, 2001 and 2000 (unaudited)                                                             2
+
+              Consolidated Condensed Statements of Cash Flows - For the nine months
+                   ended July 31, 2001 and 2000 (unaudited)                                                             3
+
+              Consolidated Condensed Statements of Stockholders' Equity -
+                  For the year ended October 31, 2000 and the nine months ended July 31, 2001 (unaudited)               4
+
+              Notes to Consolidated Condensed Financial Statements                                                      5
+
+Item 2.       Management's Discussion and Analysis of Financial Condition and Results of Operations                    12
+
+Item 3.       Quantitative and Qualitative Disclosures about Market Risk                                               20
+
+PART II.      OTHER INFORMATION
+
+Item 1.       Legal Proceedings                                                                                        22
+
+Item 2.       Changes in Securities                                                                                    22
+
+Item 4.       Submission of Matters to a Vote of Security Holders                                                      22
+
+Item 6.       Exhibits and Reports on Form 8-K                                                                         22
+</TABLE>
+
+
+<PAGE>
+
+TAKE-TWO INTERACTIVE SOFTWARE, INC. and SUBSIDIARIES
+Consolidated Condensed Balance Sheets
+As of July 31, 2001 and October 31, 2000 (unaudited)
+(In thousands, except share data)
+
+
+<TABLE>
+<CAPTION>
+ASSETS:                                                                    July 31, 2001   October 31, 2000
+                                                                           -------------   ----------------
+<S>                                                                        <C>             <C>
+Current assets:
+     Cash and cash equivalents                                                 $  15,346          $   5,245
+     Accounts receivable, net of allowances of $15,735 and $9,102                 86,380            129,733
+     Inventories, net                                                             52,674             44,922
+     Prepaid royalties                                                            26,172             19,721
+     Prepaid expenses and other current assets                                    14,987             10,387
+     Investments                                                                   2,808              2,926
+     Deferred tax asset                                                            8,345                666
+                                                                               ---------          ---------
+             Total current assets                                                206,712            213,600
+
+
+Fixed assets, net                                                                 10,397              5,260
+Prepaid royalties                                                                  9,174              1,303
+Capitalized software development costs, net                                       10,526              9,613
+Investments                                                                        5,007             28,487
+Intangibles, net                                                                 112,994             90,505
+Other assets                                                                       5,399              2,557
+                                                                               ---------          ---------
+             Total assets                                                      $ 360,209          $ 351,325
+                                                                               =========          =========
+
+LIABILITIES and STOCKHOLDERS' EQUITY:
+
+Current liabilities:
+     Accounts payable                                                          $  35,275          $  46,566
+     Accrued expenses                                                             15,568             20,884
+     Lines of credit, current portion                                             69,085             84,605
+                                                                               ---------          ---------
+             Total current liabilities                                           119,928            152,055
+
+Loan payable, net of discount                                                         --             12,268
+                                                                               ---------          ---------
+             Total liabilities                                                   119,928            164,323
+                                                                               ---------          ---------
+
+Commitments and contingencies
+
+Stockholders' equity
+     Common stock, par value $.01 per share; 50,000,000 shares authorized;
+         36,241,766 and 31,172,866 shares issued and outstanding                     362                312
+     Additional paid-in capital                                                  210,196            157,738
+     Deferred compensation                                                            --                 (5)
+     Retained earnings                                                            39,600             43,365
+     Accumulated other comprehensive loss                                         (9,877)           (14,408)
+                                                                               ---------          ---------
+             Total stockholders' equity                                          240,281            187,002
+                                                                               ---------          ---------
+             Total liabilities and stockholders' equity                        $ 360,209          $ 351,325
+                                                                               =========          =========
+
+</TABLE>
+         The accompanying notes are an integral part of the consolidated
+                         condensed financial statements.
+
+         Certain amounts have been reclassified for comparative purposes
+
+<PAGE>
+
+TAKE-TWO INTERACTIVE SOFTWARE, INC. and SUBSIDIARIES
+Consolidated Condensed Statements of Operations
+For the three months ended July 31, 2001 and 2000 (unaudited)
+ and the nine months ended July 31, 2001 and 2000 (unaudited)
+ (In thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+
+                                                                            Three months ended July 31,   Nine months ended July 31,
+                                                                                2001           2000          2001           2000
+                                                                            ---------------------------   --------------------------
+                                                                                      (Unaudited)               (Unaudited)
+
+<S>                                                                           <C>            <C>           <C>            <C>
+Net sales                                                                     $  84,502      $  71,472     $ 309,048      $ 264,398
+Cost of sales (includes impairment charge on Internet assets of $3,786
+     for the nine months ended July 31, 2001)                                    51,229         40,100       201,609        168,155
+                                                                              ---------      ---------     ---------      ---------
+         Gross profit                                                            33,273         31,372       107,439         96,243
+                                                                              ---------      ---------     ---------      ---------
+
+Operating expenses:
+     Selling and marketing (includes impairment charge on Internet assets
+         of $401 for the nine months ended July 31, 2001)                        12,057          9,055        36,886         34,243
+     General and administrative                                                  11,297          9,106        30,915         25,726
+     Research and development costs                                               1,984          1,657         4,985          4,646
+     Depreciation and amortization                                                3,821          3,822        11,043          7,398
+     One time charge related to abandoned offering                                   --          1,103            --          1,103
+                                                                              ---------      ---------     ---------      ---------
+         Total operating expenses                                                29,159         24,743        83,829         73,116
+
+         Income from operations                                                   4,114          6,629        23,610         23,127
+
+Interest expense                                                                  1,964          1,635         7,249          4,516
+Gain on sale of subsidiary                                                         (651)            --          (651)            --
+Loss on impairment of available-for-sale Internet securities                         --             --        20,754             --
+                                                                              ---------      ---------     ---------      ---------
+         Total interest expense, gain on sale and loss on impairment              1,313          1,635        27,352          4,516
+
+         Income (loss) before equity in loss of affiliate, income taxes
+             and extraordinary item                                               2,801          4,994        (3,742)        18,611
+
+Equity in loss of affiliate                                                          --             --            --            763
+                                                                              ---------      ---------     ---------      ---------
+         Income (loss) before income taxes and extraordinary item                 2,801          4,994        (3,742)        17,848
+
+Provision (benefit) for income taxes                                                882          1,545        (1,487)         6,258
+                                                                              ---------      ---------     ---------      ---------
+         Income (loss) before extraordinary item                                  1,919          3,449        (2,255)        11,590
+
+Extraordinary loss on early extinguishment of debt, net of taxes of $925          1,510             --         1,510             --
+                                                                              ---------      ---------     ---------      ---------
+
+         Net income (loss)                                                    $     409      $   3,449     $  (3,765)     $  11,590
+                                                                              =========      =========     =========      =========
+
+
+Per share data:
+
+     Basic:
+         Weighted average common shares outstanding                              34,293         29,061        33,098         25,981
+                                                                              =========      =========     =========      =========
+
+         Net income (loss) before extraordinary item per share                $    0.06      $    0.12     $   (0.07)     $    0.45
+         Extraordinary loss per share                                             (0.04)            --         (0.05)            --
+                                                                              ---------      ---------     ---------      ---------
+         Net income (loss) per share - Basic                                  $    0.01      $    0.12     $   (0.11)     $    0.45
+                                                                              =========      =========     =========      =========
+
+
+     Diluted:
+         Weighted average common shares outstanding                              35,769         29,879        33,098         26,992
+                                                                              =========      =========     =========      =========
+
+         Net income (loss) before extraordinary item per share                $    0.05      $    0.12     $   (0.07)     $    0.43
+         Extraordinary loss per share                                             (0.04)            --         (0.05)            --
+                                                                              ---------      ---------     ---------      ---------
+         Net income (loss) per share - Diluted                                $    0.01      $    0.12     $   (0.11)     $    0.43
+                                                                              =========      =========     =========      =========
+</TABLE>
+
+         The accompanying notes are an integral part of the consolidated
+                         condensed financial statements.
+
+         Certain amounts have been reclassified for comparative purposes
+
+<PAGE>
+
+TAKE-TWO INTERACTIVE SOFTWARE, INC. and SUBSIDIARIES
+Consolidated Condensed Statements of Cash Flows For the nine months ended July
+31, 2001 and 2000 (unaudited)
+
+(In thousands)
+<TABLE>
+<CAPTION>
+                                                                                          Nine months ended July 31,
+                                                                                          --------------------------
+                                                                                             2001           2000
+                                                                                           --------       ---------
+
+<S>                                                                                        <C>            <C>
+Cash flows from operating activities:
+     Net (loss) income                                                                     $ (3,765)      $ 11,590
+     Adjustment to reconcile net income to net cash used in operating activities:
+         Depreciation and amortization                                                       11,043          7,398
+         Loss on disposal of fixed assets                                                       172            247
+         Gain on sale of subsidiary                                                            (651)            --
+         Net gain from eUniverse transactions                                                    --         (2,801)
+         Loss on impairment of available-for-sale Internet securities                        20,754             --
+         Impairment charge on Internet assets                                                 4,187             --
+         Equity in loss of affiliate                                                             --            763
+         Extraordinary loss on early extinguishment of debt, net of taxes                     1,510             --
+         Change in deferred tax asset                                                        (7,679)          (353)
+         Provision for doubtful accounts                                                      8,539         (1,732)
+         Provision for Inventory                                                               (203)            (3)
+         Amortization of various expenses and discounts                                         983            284
+         Tax benefit from exercise of stock options                                           5,053          1,941
+         Changes in operating assets and liabilities, net of effects of acquisitions:
+            Decrease in accounts receivable                                                  43,248         30,009
+            (Increase) decrease in inventories, net                                          (3,337)            88
+            Increase in prepaid royalties                                                   (15,208)       (16,127)
+            Increase in prepaid expenses and other current assets                            (4,593)        (2,166)
+            Increase in capitalized software development costs                               (1,302)        (7,570)
+            Increase in other assets                                                         (4,326)          (977)
+            Decrease in accounts payable                                                    (23,437)       (39,767)
+            Decrease in accrued expenses                                                     (6,740)        (8,082)
+                                                                                           --------       --------
+                        Net cash provided by (used in) operating activities                  24,248        (27,258)
+                                                                                           --------       --------
+
+Cash flows from investing activities:
+     Net purchase of fixed assets                                                            (5,076)        (2,406)
+     Other investment                                                                            --         (1,432)
+     Acquisitions, net of cash acquired                                                      (4,069)        (4,262)
+     Additional cash paid for prior acquisition                                                  --         (1,531)
+                                                                                           --------       --------
+                        Net cash used in investing activities                                (9,145)        (9,631)
+                                                                                           --------       --------
+
+Cash flows from financing activities:
+     Net proceeds from private placements                                                    20,842         19,689
+     Net repayments under lines of credit                                                   (28,848)        (9,658)
+     (Repayment) Proceeds from loan payable                                                 (15,000)        15,000
+     Proceeds from exercise of stock options and warrants                                    19,942          5,919
+     Proceeds from issuance of stock of subsidiary                                               --          1,500
+     Repayment of capital lease obligation                                                      (49)           (56)
+                                                                                           --------       --------
+                        Net cash (used in) provided by financing activities                  (3,113)        32,394
+                                                                                           --------       --------
+
+Effect of foreign exchange rates                                                             (1,889)        (3,248)
+                                                                                           --------       --------
+
+                        Net increase (decrease) in cash for the period                       10,101         (7,743)
+Cash and cash equivalents, beginning of the period                                            5,245         10,374
+                                                                                           --------       --------
+Cash and cash equivalents, end of the period                                               $ 15,346       $  2,631
+                                                                                           ========       ========
+
+
+Supplemental disclosure of non-cash operating activities:
+     Gain from Jack of All Games UK transaction                                            $   (651)      $     --
+                                                                                           ========       ========
+     Tax benefit from exercise of stock options                                            $  5,053       $  1,941
+                                                                                           ========       ========
+</TABLE>
+
+         The accompanying notes are an integral part of the consolidated
+                         condensed financial statements.
+
+         Certain amounts have been reclassified for comparative purposes
+
+<PAGE>
+
+
+TAKE-TWO INTERACTIVE SOFTWARE, INC. and SUBSIDIARIES
+Consolidated Condensed Statements of Cash Flows For the nine months ended July
+31, 2001 and 2000 (unaudited)
+
+(In thousands)
+<TABLE>
+<CAPTION>
+                                                                                          Nine months ended July 31,
+                                                                                          --------------------------
+                                                                                             2001           2000
+                                                                                           --------       ---------
+
+<S>                                                                                        <C>            <C>
+Supplemental information on businesses acquired:
+     Fair value of assets acquired
+         Cash                                                                              $    332       $    196
+         Accounts receivables, net                                                            8,223          4,646
+         Inventories, net                                                                     4,213             --
+         Prepaid expenses and other assets                                                       94            643
+         Prepaid royalties                                                                     (707)            --
+         Property and equipment, net                                                            769          1,077
+         Intangible asset                                                                    10,381             --
+         Goodwill                                                                            44,601         90,391
+     Less, liabilities assumed
+         Line of credit                                                                     (13,330)            --
+         Accounts payable                                                                   (13,115)        (7,268)
+         Accrued expenses                                                                    (3,078)          (449)
+         Deferred royalties                                                                      --        (15,927)
+         Other current liabilities                                                               --         (8,167)
+         Stock and warrants issued                                                          (13,952)       (56,566)
+         Warrants issued                                                                          0
+         Value of asset recorded                                                            (19,829)            --
+         Direct transaction costs                                                              (201)          (154)
+         Investment interest and purchase option                                                 --         (3,964)
+                                                                                           --------       --------
+Cash paid                                                                                     4,401          4,458
+     Less, cash acquired                                                                       (332)          (196)
+                                                                                           --------       --------
+Net cash paid                                                                              $  4,069       $  4,262
+                                                                                           ========       ========
+</TABLE>
+
+During the nine months ended July 31, 2000, the Company paid $1,531 in cash and
+issued $161 in common stock related to a prior period acquisition. Such payments
+were capitalized and recorded as Goodwill.
+
+
+         The accompanying notes are an integral part of the consolidated
+                         condensed financial statements.
+
+         Certain amounts have been reclassified for comparative purposes
+
+
+<PAGE>
+
+TAKE-TWO INTERACTIVE SOFTWARE, INC. and SUBSIDIARIES
+Consolidated Condensed Statements of Stockholders' Equity
+For the year ended October 31, 2000 and the nine months ended July 31, 2001
+(unaudited)
+
+(In thousands)
+<TABLE>
+<CAPTION>
+                                                                                   Common Stock          Additional
+                                                                             -----------------------      Paid-in       Deferred
+                                                                               Shares        Amount       Capital     Compensation
+                                                                             ---------     ---------     ---------    ------------
+
+
+<S>                                                                          <C>           <C>           <C>          <C>
+Balance, November 1, 1999                                                       23,086     $     231     $  67,345     $     (48)
+
+Proceeds from exercise of stock options and warrants                             1,373            13         6,963            --
+
+Amortization of deferred compensation                                               --            --            --            43
+
+Issuance of common stock in connection with acquisitions                         4,222            43        55,218            --
+
+Issuance of common stock in connection with private placements,
+    net of issuance costs                                                        2,422            24        21,261            --
+
+Issuance of common stock and warrants in connection with a debt financing          168             2         5,455            --
+
+Retirement of common stock                                                         (98)           (1)       (1,249)           --
+
+Tax benefit in connection with the exercise of stock options                        --            --         2,745            --
+
+Foreign currency translation adjustment                                             --            --            --            --
+
+Net unrealized loss on investments                                                  --            --            --            --
+
+Net income                                                                          --            --            --            --
+                                                                             ---------     ---------     ---------     ---------
+
+Balance, October 31, 2000                                                       31,173     $     312     $ 157,738     $      (5)
+
+Proceeds from exercise of stock options and warrants                             2,867            28        19,914            --
+
+Amortization of deferred compensation                                               --            --            --             5
+
+Issuance of common stock in connection with acquisitions                         1,466            14        13,967            --
+
+Issuance of common stock in connection with private placements,
+   net of issuance costs                                                         1,300            13        20,829
+
+Acquisition of Treasury shares                                                    (564)           (5)       (7,305)           --
+
+Tax benefit in connection with the exercise of stock options                        --            --         5,053            --
+
+Foreign currency translation adjustment                                             --            --            --            --
+
+Net unrealized gain on investments                                                  --            --            --            --
+
+Net loss                                                                            --            --            --            --
+                                                                             ---------     ---------     ---------     ---------
+
+Balance, July 31, 2001                                                          36,242     $     362     $ 210,196     $      --
+                                                                             =========     =========     =========     =========
+
+
+<CAPTION>
+                                                                                         Accumualted
+                                                                                            Other
+                                                                            Retained    Comprehensive                 Comprehensive
+                                                                            Earnings       Income                        Income
+                                                                           (Deficit)       (Loss)         Total          (Loss)
+                                                                           ---------      ---------   -------------   -------------
+
+
+<S>                                                                        <C>           <C>           <C>            <C>
+Balance, November 1, 1999                                                  $  18,402     $    (827)    $  85,103      $  15,512
+
+Proceeds from exercise of stock options and warrants                              --            --         6,976
+
+Amortization of deferred compensation                                             --            --            43
+
+Issuance of common stock in connection with acquisitions                          --            --        55,261
+
+Issuance of common stock in connection with private placements,
+    net of issuance costs                                                         --            --        21,285
+
+Issuance of common stock and warrants in connection with a debt financing         --            --         5,457
+
+Retirement of common stock                                                        --            --        (1,250)
+
+Tax benefit in connection with the exercise of stock options                      --            --         2,745
+
+Foreign currency translation adjustment                                           --        (9,014)       (9,014)        (9,014)
+
+Net unrealized loss on investments                                                --        (4,567)       (4,567)        (4,567)
+
+Net income                                                                    24,963            --        24,963         24,963
+                                                                           ---------     ---------     ---------      ---------
+
+Balance, October 31, 2000                                                  $  43,365     $ (14,408)    $ 187,002      $  11,382
+
+Proceeds from exercise of stock options and warrants                              --            --        19,942
+
+Amortization of deferred compensation                                             --            --             5
+
+Issuance of common stock in connection with acquisitions                          --            --        13,981
+
+Issuance of common stock in connection with private placements,
+   net of issuance costs                                                                                  20,842
+
+Acquisition of Treasury shares                                                    --            --        (7,310)
+
+Tax benefit in connection with the exercise of stock options                      --            --         5,053
+
+Foreign currency translation adjustment                                           --        (1,509)       (1,509)        (1,509)
+
+Net unrealized gain on investments                                                --         6,040         6,040          6,040
+
+Net loss                                                                      (3,765)           --        (3,765)        (3,765)
+                                                                           ---------     ---------     ---------      ---------
+
+Balance, July 31, 2001                                                     $  39,600     $  (9,877)    $ 240,281      $     766
+                                                                           =========     =========     =========      =========
+
+</TABLE>
+
+         The accompanying notes are an integral part of the consolidated
+                         condensed financial statements.
+
+         Certain amounts have been reclassified for comparative purposes
+
+<PAGE>
+
+
+              TAKE-TWO INTERACTIVE SOFTWARE, INC. AND SUBSIDIARIES
+         Notes to Unaudited Consolidated Condensed Financial Statements
+
+
+
+1.       Organization
+
+Take-Two Interactive Software, Inc. (the "Company") develops, publishes and
+distributes interactive software games designed for PCs and video game console
+platforms.
+
+2.   Significant Accounting Policies and Transactions
+
+Basis of Presentation
+
+The unaudited Consolidated Condensed Financial Statements of the Company have
+been prepared in accordance with the instructions to Form 10-Q and Article 10 of
+Regulation S-X. Accordingly, the financial statements do not include all
+information and disclosures necessary for a presentation of the Company's
+financial position, results of operations and cash flows in conformity with
+generally accepted accounting principles. In the opinion of management, the
+financial statements reflect all adjustments (consisting only of normal
+recurring accruals) necessary for a fair presentation of the Company's financial
+position, results of operations and cash flows. The results of operations for
+any interim periods are not necessarily indicative of the results for the full
+year. The financial statements should be read in conjunction with the audited
+financial statements and notes thereto contained in the Company's Annual Report
+on Form 10-K for the fiscal year ended October 31, 2000.
+
+Certain amounts in the financial statements of the prior years have been
+reclassified to conform to the current year presentation for comparative
+purposes.
+
+
+Risk and Uncertainties
+
+The Company's revenues are derived from software publishing and distribution
+activities, which are subject to increasing competition, rapid technological
+change and evolving consumer preferences, often resulting in the frequent
+introduction of new products and short product lifecycles. Accordingly, the
+Company's profitability and growth prospects depend upon its ability to
+continually acquire, develop and market new, commercially successful software
+products and obtain adequate financing, if required. If the Company fails to
+continue to acquire, develop and market commercially successful software
+products, its operating results and financial condition could be materially
+adversely affected in the near future.
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the dates of the financial statements and
+the reported amounts of revenues and expenses during the reported periods. The
+most significant estimates and assumptions relate to the recoverability of
+prepaid royalties, capitalized software development costs and other intangibles
+and investments, valuation of inventories and the adequacy of allowances for
+returns and doubtful accounts. Actual amounts could differ significantly from
+these estimates.
+
+
+                                       5
+<PAGE>
+
+
+Prepaid Royalties and Capitalized Software Development Costs
+
+The Company's agreements with licensors and developers generally require it to
+make advance royalty payments and pay royalties based on product sales. Prepaid
+royalties are amortized at the contractual royalty rate as cost of sales based
+on actual net product sales. The Company continually evaluates the future
+realization of prepaid royalties, and charges to cost of sales any amount that
+management deems unlikely to be realized at the contractual royalty rate.
+Prepaid royalties are classified as current and non-current assets based upon
+estimated net product sales within the next year. No prepaid royalties were
+written down for the three months ended July 31, 2001 and July 31, 2000. For the
+nine months ended July 31, 2001 and 2000, prepaid royalties were written down by
+$75,000 and $110,000, respectively, to estimated net realizable value.
+Amortization of prepaid royalties amounted to $3,836,000 and $3,743,000 for the
+three months ended July 31, 2001 and 2000, respectively, and $9,640,000 and
+$11,647,000 for the nine months ended July 31, 2001 and 2000, respectively.
+
+The Company capitalizes internal software development costs subsequent to
+establishing technological feasibility of a title. Amortization of such costs as
+cost of sales is based on the greater of the proportion of current year sales to
+total estimated sales commencing with the title's release or the straight-line
+method. The Company continually evaluates the recoverability of capitalized
+costs. No capitalized software costs were written off for the three months ended
+July 31, 2001 while $389,000 was written off as part of an impairment charge for
+the nine months ended July 31, 2001. No capitalized software costs were written
+off for the three months ended July 31, 2000 while $249,000 were written off for
+the nine months ended July 31, 2000. Amortization of capitalized software costs
+amounted to $863,000 and $143,000 for the three months ended July 31, 2001 and
+2000, respectively, and $2,804,000 and $472,000 for the nine months ended July
+31, 2001 and 2000, respectively.
+
+Revenue Recognition
+
+Distribution revenue is derived from the sale of third-party software products,
+accessories and hardware and is recognized when the ownership and risk of loss
+pass to customers upon receipt of products by customers. Distribution revenue
+was $34,643,000 and $29,444,000 for the three months ended July 31, 2001 and
+2000, respectively, and $149,090,000 and $123,418,000 for the nine months ended
+July 31, 2001 and 2000, respectively.
+
+Publishing revenue is derived from the sale of internally developed software
+products or from the sale of products licensed from third-party developers and
+is recognized when the ownership and risk of loss pass to customers upon receipt
+of products by customers. Publishing revenue was $49,859,000 and $42,028,000 for
+the three months ended July 31, 2001 and 2000, respectively, and $159,958,000
+and $140,980,000 the nine months ended July 31, 2001 and 2000, respectively.
+
+In October 1997, the American Institute of Certified Public Accountants
+("AICPA") issued Statement of Position ("SOP") 97-2 "Software Revenue
+Recognition." SOP 97-2 provides guidance on applying generally accepted
+accounting principles in recognizing revenue on software transactions. The
+Company recognizes revenue upon persuasive evidence of an arrangement, the
+Company's fulfillment of its obligations under any such arrangement, and
+determination that collection is probable. The Company's payment arrangements
+with its customers are fixed at the time of sale, with primarily 60 day term
+and, to a limited extent, 30, 90 and 120 day terms to certain customers.
+
+The AICPA issued SOP 98-9 Modification of SOP 97-2, "Software Revenue
+Recognition with respect to Certain Transactions." SOP 98-9 deals with the
+determination of vendor specific objective evidence of fair value in multiple
+element arrangements, such as maintenance agreements sold in conjunction with
+software packages. The adoption of SOP 98-9 did not have a material impact on
+the Company's financial statement.
+
+                                       6
+<PAGE>
+
+The Company's distribution arrangements with customers generally do not give
+them the right to return products; however, the Company accepts product returns
+for stock balancing or defective products. In addition, the Company sometimes
+negotiates accommodations to customers, including price discounts, credits and
+product returns, when demand for specific products falls below expectations. The
+Company's publishing arrangements require the Company to accept product returns.
+The Company establishes a reserve for future returns based primarily on its
+return policies, markdown allowances and historical return rates, and recognizes
+sales net of product returns and allowances.
+
+Recently Issued Accounting Pronouncement
+In December 1999, the Securities and Exchange Commission ("SEC") issued Staff
+Accounting Bulletin 101 ("SAB 101"), "Revenue Recognition." SAB 101 summarizes
+certain of the staff's views in applying generally accepted accounting
+principles to revenue recognition in financial statements. The Company has
+adopted SAB 101 and it has not had a material impact on the Company's results of
+operations.
+
+In July 2001, the FASB issued Statement of Financial Accounting Standard No.
+141, "Business Combinations" ("SFAS 141") and Statement of Financial Accounting
+Standard No. 142, "Goodwill and Other Intangible Assets" (SFAS 142").
+
+SFAS 141 establishes accounting and reporting for business combinations by
+requiring that all business combinations be accounted for under the purchase
+method. Use of the pooling-of-interests method is no longer permitted. SFAS 141
+requires that the purchase method be used for business combinations initiated
+after June 30, 2001. The Company is currently evaluating the expected impact of
+the adoption of SFAS 141 on the Company's financial condition and result of
+operations.
+
+SFAS 142 requires that goodwill no longer be amortized to earnings, but instead
+be reviewed for impairment. The provision of SFAS 142 will be effective for
+fiscal year beginning after December 15, 2001; however, early adoption is
+permitted in certain instances. The Company is currently evaluating the expected
+impact of the adoption of SFAS 142 on the Company's financial condition and
+results of operations.
+
+Income Taxes
+
+The provisions for income taxes for the three and nine months ended July 31,
+2001 and 2000 are based on the Company's estimated annualized tax rate for the
+respective years after giving effect to the utilization of available tax credits
+and tax planning opportunities.
+
+3.   Business Acquisition
+
+In July 2001, the Company acquired all of the outstanding capital stock of
+Techcorp Limited, a Hong Kong based design and engineering firm specializing in
+video game accessories. In consideration, the Company issued 30,000 shares
+of restricted common stock (valued at $572,000) and paid $100,000 in cash. In
+connection with the acquisition, the Company recorded an intangible asset of
+$2,676,000 on a preliminary basis. The purchase of Techcorp Limited is not
+expected to have a significant effect on the Company's future operating results.
+The acquisition has been accounted for as a purchase.
+
+
+                                       7
+<PAGE>
+
+
+4.       Business Disposition
+
+In July 2001, the Company sold all of the outstanding capital stock of Jack of
+All Games UK, a video game distributor, to Jay Two Limited, an unaffiliated
+third-party controlled by Freightmasters Ltd., for approximately $215,000. In
+connection with the sale, the purchaser assumed net liabilities (net of
+expenses) of $436,000. The Company recorded a non-operating gain of $651,000 net
+of taxes relating to the sale. The sale of Jack of All Games UK is not expected
+to have a significant effect on the Company's future operating results.
+
+
+5.   Income (Loss) per Share before Extraordinary Item
+
+The following table provides a reconciliation of basic earnings per share to
+dilutive earnings per share for the three and nine months ended July 31, 2001
+and 2000 (in thousands, except per share data).
+
+<TABLE>
+<CAPTION>
+                                                       Income
+                                                    (Loss) from
+                                                       before
+                                                   Extraordinary                        Per Share
+                                                        Item             Shares          Amount
+                                                   -------------       ---------       -----------
+
+<S>                                                    <C>                <C>            <C>
+Three Months Ended July 31, 2001:
+  Basic                                                $  1,919           34,293         $   0.06
+  Effect of dilutive securities - Stock options
+     and warrants
+                                                             --            1,476            (0.01)
+                                                       --------         --------         --------
+  Diluted                                              $  1,919           35,769         $   0.05
+                                                       ========         ========         ========
+
+Three Months Ended July 31, 2000:
+  Basic                                                $  3,449           29,061         $   0.12
+
+ Effect of dilutive securities - Stock options
+     and warrants                                            --              818               --
+                                                       --------         --------         --------
+  Diluted                                              $  3,449           29,879         $   0.12
+                                                       ========         ========         ========
+
+Nine Months Ended July 31, 2001:
+  Basic                                                $ (2,255)          33,098         $  (0.07)
+  Effect of dilutive securities - Stock options
+     and warrants                                            --               --               --
+                                                       --------         --------         --------
+  Diluted                                              $ (2,255)          33,098         $  (0.07)
+                                                       ========         ========         ========
+
+Nine Months Ended July 31, 2000:
+  Basic                                                $ 11,590           25,981         $   0.45
+  Effect of dilutive securities - Stock options
+     and warrants                                            --            1,011            (0.02)
+                                                       --------         --------         --------
+  Diluted                                              $ 11,590           26,992         $   0.43
+                                                       ========         ========         ========
+</TABLE>
+
+
+As the Company reported loss for the nine months ended July 31, 2001,
+1,186,000 (calculated based on a weighted average) of the total options and
+warrants outstanding for this period were anti-dilutive, and therefore, there
+was no reconciling items between basic and dilutive loss per share. The
+computation for diluted number of shares excludes unexercised stock options and
+warrants which are anti-dilutive.
+
+
+
+                                       8
+<PAGE>
+
+
+6.   Extraordinary Net Loss on Early Extinguishment of Debt
+
+In July 2001, the Company prepaid in full the outstanding subordinated
+indebtedness of $15 million and recorded an extraordinary charge of $1,510,000,
+net of taxes, or $0.04 per fully-diluted share during the quarter related to
+deferred financing costs and discount associated with this indebtedness.
+
+7.       Inventory
+
+As of July 31, 2001 and October 31, 2000, finished product inventory, net of
+allowance, consisted of $51,857,000 and $44,426,000, respectively. Parts and
+supplies consisted of $817,000 and $496,000 at July 31, 2001 and October 31,
+2000, respectively.
+
+8.   Private Placement
+
+ In July 2001, the Company consummated the sale of 1,300,000 shares of common
+stock to institutional investors and received net proceeds of approximately
+$20,842,000.
+
+9.       Investments
+
+Investments are comprised of equity securities and are classified as current and
+non-current assets. Investments are accounted for under the average cost method
+as "available-for-sale" in accordance with Statement of Financial Standards
+Board No. 115 "Accounting for Certain Investments in Debt and Equity
+Securities." Investments are stated at fair value, with unrealized appreciation
+(loss) reported as a separate component of accumulated other comprehensive
+income (loss) in stockholders' equity.
+
+As of July 31, 2001 and October 31, 2000, investments were summarized as follows
+(in thousands):
+
+<TABLE>
+<CAPTION>
+                                       July 31, 2001                 October 31, 2000
+                                 -------------------------      --------------------------
+                                 Current       Non-Current       Current       Non-Current
+                                 --------      -----------      --------       -----------
+
+<S>                              <C>             <C>             <C>             <C>
+Average cost                     $  2,206        $  4,136        $  2,896        $ 33,084
+
+Unrealized gains (losses)             602             871              30          (4,597)
+                                 --------        --------        --------        --------
+Fair value                       $  2,808        $  5,007           2,926        $ 28,487
+                                 ========        ========        ========        ========
+</TABLE>
+
+
+                                       9
+<PAGE>
+
+10.  Segment Reporting
+
+The Company has adopted Statement of Financial Accounting Standards No. 131,
+"Disclosures about Segments of an Enterprise and Related Information" ("SFAS No.
+131"), which establishes standards for reporting by public business enterprises
+of information about product lines, geographic areas and major customers. The
+method for determining what information to report is based on the way management
+organizes the Company for making operational decisions and assessment of
+financial performance. The Company's chief operating decision maker is
+considered to be the Company's Chief Executive Officer ("CEO"). The CEO reviews
+financial information presented on a consolidated basis accompanied by
+disaggregated information about sales by geographic region and by product lines.
+The Company's Board of Directors reviews consolidated financial information. The
+Company's operations employ the same products, cost structures, margins and
+customers worldwide. The Company's product development, publishing and marketing
+activities are centralized in the United States under one management team, with
+distribution activities managed geographically. Accordingly, the Company's
+operations fall within one reportable segment as defined in SFAS No. 131.
+
+Information about the Company's non-current assets in the United States and
+international areas as of July 31, 2001 and October 31, 2000 are presented below
+(in thousands):
+
+                                     July 31, 2001    October 31, 2000
+                                     -------------    ----------------
+      Total Non-current Assets:
+       United States                   $ 99,753           $ 87,018
+
+       International
+             United Kingdom              22,893             20,865
+             All other Europe            22,897             25,924
+             Other                        7,954              3,918
+                                       --------           --------
+                                       $153,497           $137,725
+                                       ========           ========
+
+Information about the Company's net sales in the United States and international
+areas for the three and nine months ended July 31, 2001 and 2000 are presented
+below (net sales are attributed to geographic areas based on product
+destination, in thousands):
+
+
+<TABLE>
+<CAPTION>
+
+                                         Three Months Ended              Nine Months Ended
+                                              July 31                         July 31
+                                   -------------------------        ------------------------
+     Net Sales:                        2001           2000            2001             2000
+                                       ----           ----            ----             ----
+<S>                                 <C>             <C>             <C>             <C>
+      United States                 $ 63,049        $ 48,624        $228,870        $168,469
+      Canada                           4,509           2,644          13,381           9,111
+      International
+            United Kingdom             4,369           6,500          18,281          19,156
+            All other Europe           9,568           7,874          39,071          56,767
+            Asia Pacific               2,385           5,352           8,522          10,218
+            Other                        622             478             923             677
+                                    --------        --------        --------        --------
+                                    $ 84,502        $ 71,472        $309,048        $264,398
+                                    ========        ========        ========        ========
+
+</TABLE>
+
+
+
+                                       10
+<PAGE>
+
+
+Information about the Company's net sales by product platforms for the three and
+nine months ended July 31, 2001 and 2000 are presented below (in thousands):
+
+
+<TABLE>
+<CAPTION>
+                                                      Three Months Ended            Nine Months Ended
+                                                           July 31                      July 31
+                                                 ---------------------------   ---------------------------
+Platforms:                                           2001           2000           2001           2000
+                                                 ------------   ------------   ------------   ------------
+<S>                                              <C>            <C>            <C>            <C>
+PC                                               $     27,209   $     27,553   $     73,598   $     70,306
+Sony PlayStation 2                                     17,445             --         73,709             --
+Sony PlayStation                                       13,328         14,234         59,221         81,801
+Nintendo GameBoy Color,
+GameBoy Advance and 64                                  9,343         11,694         26,561         44,013
+Sega Dreamcast                                          1,169          4,713          9,609         14,327
+Accessories                                             4,425          3,424         27,322         25,416
+Hardware                                               11,583          9,854         39,028         28,535
+                                                 ------------   ------------   ------------   ------------
+                                                 $     84,502   $     71,472   $    309,048   $    264,398
+                                                 ============   ============   ============   ============
+</TABLE>
+
+
+                                       11
+<PAGE>
+
+
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations.
+
+Safe Harbor Statement under the Securities Litigation Reform Act of 1995: The
+Company makes statements in this report that are considered forward-looking
+statements under federal securities laws. Such forward-looking statements are
+based on the beliefs of management as well as assumptions made by and
+information currently available to them. The words "expect," "anticipate,"
+"believe," "may," "estimate," "intend" and similar expressions are intended to
+identify such forward looking statements. Forward looking statements involve
+risks, uncertainties and assumptions including, but not limited to: risks
+associated with future growth and operating results; the Company's ability to
+continue to successfully manage growth and integrate the operations of acquired
+businesses; the availability of adequate financing to fund periodic cash flow
+shortages; credit risks; seasonal factors; inventory obsolescence; technological
+change; competitive factors; product returns; failure of retailers to
+sell-through the Company's products; the timing of the introduction and
+availability of new hardware platforms; market and industry factors adversely
+affecting the carrying value of the Company's investments; and unfavorable
+general economic conditions (including the current economic downturn), any or
+all of which could have a material adverse effect on the Company's business,
+operating results and financial condition. Actual operating results may vary
+significantly from such forward-looking statements.
+
+Overview
+
+The Company's principal sources of revenues are derived from publishing and
+distribution operations. Publishing revenues are derived from the sale of
+internally developed software or software licensed from third parties.
+Distribution revenues are derived from the sale of third-party software,
+accessories and hardware. Publishing activities generally generate significantly
+higher margins than distribution activities, with sales of PC software resulting
+in higher margins than sales of CDs or cartridges designed for video game
+consoles. The Company recognizes revenues from software sales upon receipt of
+products by customers.
+
+The Company's arrangements with customers for published titles require it to
+accept returns for stock balancing, markdowns or defects. The Company
+establishes a reserve for future returns of published titles based primarily on
+historical return rates and current known circumstances, and recognizes revenues
+net of returns.
+
+The Company's distribution arrangements with customers generally do not give
+them the right to return titles or to cancel firm orders. However, the Company
+sometimes accepts returns for stock balancing and negotiates accommodations to
+customers, which includes price discounts, credits and returns, when demand for
+specific titles fall below expectations. The Company's historical product return
+rate for its distribution business has been substantially less than for its
+publishing business.
+
+Sales returns and allowances for the three months ended July 31, 2001 and 2000,
+were $11,427,000 and $6,146,000, respectively. The increase in sales returns and
+allowances was attributable to a change in product and customer mix, primarily
+an increase in publishing activities and an increase in the Company's North
+American customer base.
+
+At July 31, 2001, the company's reserve against accounts receivable for returns,
+customer accommodations and doubtful accounts was $15,735,000, which the Company
+believes is adequate based on the size and nature of the its receivables at that
+date. However, if future returns and allowances significantly exceed the
+Company's reserves, the Company's operating results would be adversely affected.
+
+
+                                       12
+<PAGE>
+
+
+The Company's agreements with licensors and developers generally require it to
+make advance royalty payments and pay royalties based on product sales. Prepaid
+royalties are amortized at the contractual royalty rate as cost of sales based
+on actual net product sales. At July 31, 2001, the Company had prepaid royalties
+of $35,346,000, including $9,174,000 classified as non-current. The Company also
+capitalizes internal software development costs subsequent to establishing
+technological feasibility of a title. Amortization of such costs as cost of
+sales is based on the greater of the proportion of current year sales to total
+estimated sales commencing with the title's release or the straight-line method.
+At July 31, 2001, the Company had capitalized software development costs of
+$10,526,000. The Company continually evaluates the recoverability of capitalized
+costs. If the Company were required to write-off these payments or capitalized
+costs to a material extent in future periods, the Company's results of
+operations would be adversely affected.
+
+
+
+                                       13
+<PAGE>
+
+
+Results of Operations
+
+The following table sets forth for the periods indicated the percentage of net
+sales represented by certain items reflected in the Company's statement of
+operations, and sets forth net sales by territory and platform:
+
+<TABLE>
+<CAPTION>
+                                                     Three Months Ended July 31,    Nine Months Ended July 31,
+                                                     --------------------------     -------------------------
+
+                                                        2001            2000           2001           2000
+                                                     ----------      ----------     ----------     ----------
+
+<S>                                                  <C>             <C>            <C>            <C>
+OPERATING DATA:
+
+  Net sales                                             100.0%         100.0%         100.0%         100.0%
+
+  Cost of sales                                          60.6           56.1           65.2           63.6
+
+  Selling and marketing                                  14.3           12.7           11.9           13.0
+
+  General and administrative                             13.4           12.7           10.0            9.7
+
+  Research and development                                2.3            2.3            1.6            1.8
+
+  Depreciation and amortization                           4.5            5.3            3.6            2.8
+
+  Interest expense                                        2.3            2.3            2.3            1.7
+
+  Impairment charge                                      --             --              6.7           --
+
+  Provision (benefit) for income
+  taxes                                                   1.0            2.2           (0.5)           2.4
+
+  Extraordinary net loss on early
+  extinguishment of debt                                  1.8           --              0.5           --
+
+  Net income (loss)                                       0.5            4.8           (1.2)           4.4
+
+NET SALES BY TERRITORY:
+   North America                                         79.9%          71.7%          78.4%          67.2%
+
+   International                                         20.1           28.3           21.6           32.8
+
+PLATFORM MIX (publishing):
+
+     Console                                             39.4%          26.5%          52.6%          40.9%
+
+     PC                                                  52.7           53.1           39.8           41.6
+
+     Hand-held                                           --              9.3            1.6            8.3
+
+    Accessories                                           7.9           11.1            6.0            9.2
+</TABLE>
+
+
+                                       14
+<PAGE>
+
+
+Three Months Ended July 31, 2001 and 2000
+
+Net Sales. Net sales increased by $13,030,000, or 18.2%, to $84,502,000 for the
+three months ended July 31, 2001 from $71,472,000 for the three months ended
+July 31, 2000. The increase was attributable to growth in both publishing and
+distribution operations.
+
+Publishing revenues increased by $7,831,000, or 18.6%, to $49,859,000 for the
+three months ended July 31, 2001 from $42,028,000 for the three months ended
+July 31, 2000. The increase was primarily attributable to the release of Max
+Payne for the PC and Rune: Viking Warlords for Sony PlayStation 2 during the
+current period. For the three months ended July 31, 2001, publishing activities
+accounted for approximately 59.0% of net sales.
+
+For the current period, software products designed for PC platforms accounted
+for approximately 52.7% of publishing revenues as compared to 53.1% for the
+prior comparable period. Software products designed for video game console
+platforms accounted for 39.4% of publishing revenues as compared to 26.5% for
+the prior comparable period. The increase was primarily attributable to the
+continued sell-through of Sony PlayStation 2 titles, such as Midnight Club and
+Smuggler's Run. The Company expects that sales of video game console products
+will continue to account for a significant portion of its publishing revenues.
+
+Distribution revenues increased by $5,199,000, or 17.7%, to $34,643,000 for the
+three months ended July 31, 2001 from $29,444,000 for the three months ended
+July 31, 2000. The increase was primarily attributable to the acquisition of VLM
+Entertainment Group, Inc. in November 2000. The Company expects that its
+distribution operations will continue to expand as a result of the anticipated
+introduction of next-generation hardware and software and the continued rollout
+of Sony PlayStation 2. For the three months ended July 31, 2001, distribution
+activities accounted for approximately 41.0% of net sales.
+
+International operations accounted for approximately $16,944,000 or 20.1% of net
+sales for the three months ended July 31, 2001 compared to $20,204,000 or 28.3%
+for the three months ended July 31, 2000. The decrease in revenues from
+international operations was primarily attributable to a decrease in
+distribution revenues as a result of the Company's increase emphasis on
+expanding publishing activities in Europe, and the delay of the release of Rune:
+Viking Warlords during the quarter. The Company expects that international sales
+will continue to account for a significant portion of its revenue.
+
+Cost of Sales. Cost of sales increased by $11,129,000, or 27.8%, to $51,229,000
+for the three months ended July 31, 2001 from $40,100,000 for the three months
+ended July 31, 2000. The increase was attributable to the Company's expanded
+operations and was commensurate with increased net sales. Cost of sales as a
+percentage of net sales increased to 60.6% for the three months ended July 31,
+2001 from 56.1% for the prior comparable period. The increase in cost of sales
+as a percentage of net sales was due to higher margin licensing revenues
+generated in the quarter ended July 31, 2000. In future periods, cost of sales
+may be adversely affected by manufacturing and other costs, price competition
+and by changes in product and sales mix and distribution channels.
+
+Selling and Marketing. Selling and marketing expenses increased by $3,002,000 to
+$12,057,000 for the three months ended July 31, 2001 from $9,055,000 for the
+three months ended July 31, 2000. Selling and marketing expenses as a percentage
+of net sales increased to 14.3% from 12.7% for the three months ended July 31,
+2000. The increases in net sales were primarily attributable to increased
+advertising activities as a result of the Company's increase publishing
+activities.
+
+
+                                       15
+<PAGE>
+
+General and Administrative. General and administrative expenses increased by
+$2,191,000 to $11,297,000 for the three months ended July 31, 2001 from
+$9,106,000 for the three months ended July 31, 2000. General and administrative
+expenses as a percentage of net sales remained relatively constant.
+The increase in absolute dollars was attributable to increased salaries and rent
+necessary to support the Company's expanded operations. Included in general and
+administrative expenses were bad debt expense related to the bankruptcy of a
+customer.
+
+Research and Development. Research and development costs increased by $327,000
+to $1,984,000 for the three months ended July 31, 2001 from $1,657,000 for the
+three months ended July 31, 2000. Research and development costs as a percentage
+of net sales remained relatively constant. A substantial portion of the
+Company's research and development cost is expensed as cost of goods sold.
+
+Depreciation and Amortization. Depreciation and amortization expense of
+$3,821,000 for the three months ended July 31, 2001 remained relatively
+constant.
+
+Interest Expense. Interest expense increased by $329,000 to $1,964,000 for the
+three months ended July 31, 2001 from $1,635,000 for the three months ended July
+31, 2000. The increase was attributable to increased borrowings.
+
+Income Taxes. Income tax expense decreased by $663,000 to $882,000 for the three
+months ended July 31, 2001 from $1,545,000 for the three months ended July 31,
+2000. The decrease was primarily attributable to lower pre-tax income.
+
+Gain on Sale of Subsidiary. The Company recorded a non-operating gain of
+$651,000 on the sale of its Jack of All Games UK subsidiary during the quarter.
+
+Extraordinary Loss on Early Extinguishment of Debt. The Company incurred an
+extraordinary charge of $1,510,000, net of taxes, upon the early repayment of
+$15 million of subordinated indebtedness during the quarter.
+
+For the three months ended July 31, 2001, the Company achieved net income of
+$409,000 as compared to net income of $3,449,000 for the three months ended
+July 31, 2000. Excluding the extraordinary charge and the gain on sale described
+above, the Company achieved net income of $1,268,000 for the three months ended
+July 31, 2001.
+
+Nine Months Ended July 31, 2001 and 2000
+
+Net Sales. Net sales increased by $44,650,000, or 16.9%, to $309,048,000 for the
+nine months ended July 31, 2001 from $264,398,000 for the nine months ended July
+31, 2000. The increase in net sales was attributable to growth in both the
+publishing and distribution operations.
+
+Publishing revenues increased by $18,978,000, or 13.5%, to $159,958,000 for the
+nine months ended July 31, 2001 from $140,980,000 for the nine months ended July
+31, 2000. This increase was primarily attributable to increased sales of Sony
+PlayStation 2 titles. For the nine months ended July 31, 2001, publishing
+activities accounted for approximately 51.8% of net sales.
+
+For the nine months, software products designed for PC platforms accounted for
+approximately 39.8% of publishing revenues as compared to 41.6% for the prior
+comparable period. For the nine months ended
+
+
+                                       16
+<PAGE>
+
+
+July 31, 2001, software products designed for video game console platforms
+accounted for 52.6% of the Company's publishing revenues as compared to 40.9%
+for the nine months ended July 31, 2000.
+
+Distribution revenues increased by $25,672,000, or 20.8%, to $149,090,000 for
+the nine months ended July 31, 2001 from $123,418,000 for the nine months ended
+July 31, 2000. This increase was primarily attributable to the acquisition of
+VLM Entertainment Group, Inc. in November 2000. For the nine months ended July
+31, 2001, distribution activities accounted for approximately 48.2% of net
+sales.
+
+International operations accounted for approximately $66,797,000 or 21.6% of the
+net sales for the nine months ended July 31, 2001 compared to $86,818,000 or
+32.8% for the nine months ended July 31, 2000. The decrease in revenues from
+international operations was primarily attributable to a decrease in
+distribution revenues as a result of the Company's increase emphasis on
+expanding publishing activities in Europe.
+
+Cost of Sales. Cost of sales increased by $33,454,000, or 19.9%, to $201,609,000
+for the nine months ended July 31, 2001 from $168,155,000 for the nine months
+ended July 31, 2000. This increase was attributable to the Company's expanded
+operations and was commensurate with increased net sales. During the nine months
+ended July 31, 2001, the Company also included as cost of sales a non-cash
+impairment charges of $3,786,000 relating to a reduction in the value of certain
+Internet assets. Cost of sales as a percentage of net sales remained relatively
+constant.
+
+Selling and Marketing. Selling and marketing expenses increased by $2,634,000 to
+$36,886,000 for the nine months ended July 31, 2001 from $34,243,000 for the
+nine months ended July 31, 2000. Selling and marketing expenses as a percentage
+of net sales decreased to 11.9% for the nine months ended July 31, 2001 from
+13.0% for the nine months ended July 31, 2000.
+
+General and Administrative. General and administrative expenses increased by
+$5,189,000 to $30,915,000 for the nine months ended July 31, 2001 from
+$25,726,000 for the nine months ended July 31, 2000. The increase was
+attributable to increased salaries, rent, and professional fees to support the
+Company's expanded operations. General and administrative expenses as a
+percentage of net sales remained relatively constant.
+
+Research and Development. Research and development costs increased by $339,000
+to $4,985,000 for the nine months ended July 31, 2001 from $4,646,000 for the
+nine months ended July 31, 2000 and remained relatively constant as a percentage
+of net sales.
+
+Depreciation and Amortization. Depreciation and amortization expense increased
+by $3,645,000 to $11,043,000 for the nine months ended July 31, 2001 from
+$7,398,000 for the nine months ended July 31, 2000. The increase was due to
+higher amortization of intangible assets from acquisitions.
+
+Interest Expense. Interest expense increased by $2,733,000 to $7,249,000 for the
+nine months ended July 31, 2001 from $4,516,000 for the nine months ended July
+31, 2000. The increase was attributable to increased borrowings.
+
+Loss on Impairment of Available-For-Sale Internet Securities. During the nine
+months ended July 31, 2001, the Company incurred a non-recurring non-cash
+impairment charge of $20,754,000 relating to its investments in Gameplay,
+eUniverse and Entertainment Brands. The loss was attributable to an other than
+temporary decline in the value of these investments.
+
+
+                                       17
+<PAGE>
+
+
+Income Taxes. For the nine months ended July 31, 2001, the Company recorded a
+net income tax benefit of $1,487,000 as compared to a net income tax provision
+of $6,258,000 for the nine months ended July 31, 2000. This decrease resulted
+from a tax benefit recorded relating to the impairment charges described above.
+
+Gain on Sale of Subsidiary. During the nine months ended July 31, 2001, the
+Company recorded a non-operating gain of $651,000 on the sale of Jack of All
+Games UK.
+
+Extraordinary Loss on Early Extinguishment of Debt. During the nine months ended
+July 31, 2001, the Company incurred an extraordinary charge of $1,510,000, net
+of taxes, upon the early repayment of $15 million of subordinated indebtedness.
+
+For the nine months ended July 31, 2001, the Company incurred a net loss of
+$3,765,000 as compared to net income of $11,590,000 for the nine months ended
+July 31, 2000. Excluding the non-cash impairment charges, the extraordinary
+charge and the gain on sale described above, the Company achieved net income of
+$12,890,000 for the nine months ended July 31, 2001.
+
+Liquidity and Capital Resources
+
+The Company's primary cash requirements have been and will continue to be to
+fund the acquisition, development, manufacture, distribution and publishing of
+software products. The Company has historically satisfied its working capital
+requirements primarily through the cash flow from operations, issuance of debt
+and equity securities and bank borrowings. At July 31, 2001, the Company had
+working capital of $86,784,000 as compared to working capital of $61,545,000 at
+October 31, 2000.
+
+The Company's cash and cash equivalents increased $10,101,000, to $15,346,000 at
+July 31, 2001, from $5,245,000 at October 31, 2000. The increase is primarily
+attributable to $24,248,000 of cash provided by operating activities, partially
+offset by $9,145,000 used in investing activities and $3,113,000 used in
+financing activities.
+
+Net cash provided by operating activities for the nine months ended July 31,
+2001 was $24,248,000 compared to net cash used in operating activities of
+$27,258,000 for the nine months ended July 31, 2000. The increase in net cash
+was primarily attributable to decreased accounts receivable and prepaid
+royalties as well as an increase in accounts payable. Net cash used in investing
+activities for the nine months ended July 31, 2001 was $9,145,000 as compared to
+net cash used in investing activities of $9,631,000 for the nine months ended
+July 31, 2000. Net cash used in investing activities reflects the Company's
+continued investment in product development. Net cash used in financing
+activities for the nine months ended July 31, 2001 was $3,113,000 as compared to
+net cash provided by financing activities of $32,394,000 for the nine months
+ended July 31, 2000. The increase in net cash used in financing activities was
+primarily attributable to the repayment of indebtedness.
+
+In February 2001, the Company's European subsidiary, entered into a credit
+facility agreement with Lloyds TSB Bank plc ("Lloyds") under which Lloyds agreed
+to make available borrowings of up to $25,000,000. The outstanding balance and
+available credit under the revolving line of credit was $13,085,000 and $24,000
+respectively, as of July 31, 2001. Advances under the credit facility bear
+interest at the rate of 1.25% per annum over the bank's base rate, and are
+guaranteed by the Company. The credit facility expires in December 2001.
+
+
+                                       18
+<PAGE>
+
+
+In December 1999, the Company entered into a credit agreement with a group of
+lenders led by Bank of America, N.A., as agent, which currently provides for
+borrowings of up to $75,000,000. The Company may increase the credit line up to
+$85,000,000 subject to certain conditions. Interest accrues on advances at the
+bank's prime rate plus 0.5% or at LIBOR plus 2.5%. Borrowings under the line of
+credit are collaterized by substantially all of the Company's assets. In
+addition to certain financial covenants, the loan agreement limits or prohibits
+the Company from declaring or paying cash dividends, merging or consolidating
+with another corporation, selling assets (other than in the ordinary course of
+business), creating liens or incurring additional indebtedness. The line of
+credit expires on December 7, 2002. The outstanding balance and available credit
+under the revolving line of credit was $56,000,000 and $17,620,000,
+respectively, as of July 31, 2001.
+
+In July 2001, the Company consummated the sale of 1,300,000 shares of common
+stock and received net proceeds of approximately $20.8 million. The Company used
+the proceeds to repay in full $15 million of subordinated indebtedness bearing
+interest at the rate of 12.5% per annum, and reduced its other indebtedness.
+
+During the nine months ended July 31, 2001, the proceeds generated from the
+exercise of stock options and warrants were $19,942,000.
+
+The Company's accounts receivable less allowance at July 31, 2001 was
+$86,380,000. No single customer accounted for more than 10% of the receivable
+balance at July 31, 2001. Most of the Company's receivables are covered by
+insurance and generally the Company has been able to collect its receivables in
+the ordinary course of business. The Company does not hold any collateral to
+secure payment from customers. As a result, the Company is subject to credit
+risks, particularly in the event that any of the receivables represent a limited
+number of retailers or are concentrated in foreign markets. If the Company is
+unable to collect its accounts receivable as they become due and such accounts
+are not covered by insurance, the Company could be required to increase its
+allowance for doubtful accounts, which could adversely affect its liquidity and
+working capital position.
+
+The Company's inventory less allowance at July 31, 2001 was $52,674,000. The
+Company has purchased increased levels of inventory to support an expanding
+customer base in North America.
+
+The Company expects to incur costs and expenses of approximately $2 million
+during fiscal 2001 associated with software and hardware upgrades to its
+accounting systems. In addition, the Company expects to spend approximately $1
+million in connection with various leasehold improvements to its facilities.
+Other than the foregoing, the Company has no material commitments for capital
+expenditures.
+
+Based on its currently proposed operating plans and assumptions, the Company
+believes that projected revenues from operations and available cash resources,
+including amounts available under its line of credit, will be sufficient to
+satisfy its cash requirements for the reasonably foreseeable future.
+
+Fluctuations in Operating Results and Seasonality
+
+The Company has experienced fluctuations in quarterly operating results as a
+result of the timing of the introduction of new titles; variations in sales of
+titles developed for particular platforms; market acceptance of the Company's
+titles; development and promotional expenses relating to the introduction of new
+titles, sequels or enhancements of existing titles; projected and actual changes
+in platforms; the timing and success of title introductions by the Company's
+competitors; product returns; changes in pricing policies by
+
+
+                                       19
+<PAGE>
+
+
+the Company and its competitors; the accuracy of retailers' forecasts of
+consumer demand; the size and timing of acquisitions; the timing of orders from
+major customers; and order cancellations and delays in product shipment. Sales
+of the Company's titles are also seasonal, with peak shipments typically
+occurring in the fourth calendar quarter (the Company's fourth and first fiscal
+quarters) as a result of increased demand for titles during the holiday season.
+Accordingly, quarterly comparisons of operating results are not necessarily
+indicative of future operating results.
+
+International Operations
+
+Sales in international markets, principally in the United Kingdom and other
+countries in Europe, have accounted for a significant portion of the Company's
+net sales. For the three months ended July 31, 2001, and 2000, sales in
+international markets accounted for approximately 20.1% and 28.3%, respectively,
+of the Company's net sales. For the nine months ended July 31, 2001, and 2000,
+sales in international markets accounted for approximately 21.6% and 32.8%,
+respectively, of the Company's net sales. The Company is subject to risks
+inherent in foreign trade, including increased credit risks, tariffs and duties,
+fluctuations in foreign currency exchange rates, shipping delays and
+international political, regulatory and economic developments, all of which can
+have a significant impact on the Company's operating results.
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+
+The Company is subject to market risks in the ordinary course of its business,
+primarily risks associated with interest rate and foreign currency fluctuations
+and possible impairment of the carrying values of the Company's investments.
+
+Historically, fluctuations in interest rates have not had a significant impact
+on the Company's operating results. At July 31, 2001, the Company had
+$69,085,000 in outstanding variable rate indebtedness. A hypothetical 1%
+increase in the interest rate of the Company's variable rate debt would increase
+annual interest expense by approximately $691,000 as of July 31, 2001.
+
+The Company transacts business in foreign currencies and is exposed to risk
+resulting from fluctuations in foreign currency exchange rates. Accounts
+relating to foreign operations are translated into United States dollars using
+prevailing exchange rates at the relevant fiscal quarter. Translation
+adjustments are included as a separate component of stockholders' equity. For
+the nine months ended July 31, 2001, the Company's foreign currency translation
+adjustment loss was $1,509,000. A hypothetical 10% change in applicable currency
+exchange rates at July 31, 2001 would result in a material translation
+adjustment. The Company purchases currency forward contracts to a limited extent
+to seek to minimize the Company's exposure to fluctuations in foreign currency
+exchange rates.
+
+In addition, the Company may be exposed to risk of loss associated with
+fluctuations in the value of its investments. The Company's investments are
+stated at fair value, with net unrealized appreciation and loss included as a
+separate component of stockholders' equity. The Company regularly reviews the
+carrying values of its investments to identify and record impairment losses when
+events or circumstances indicate that such investments may be permanently
+impaired.
+
+At July 31, 2001, the Company held 8,869,407 shares of common stock of
+Gameplay.com plc with a fair value of approximately $193,000 and was recorded as
+non-current. The Company recorded an unrealized loss of $160,000 as a separate
+component of accumulated other comprehensive income (loss) in stockholders'
+equity.
+
+
+                                       20
+<PAGE>
+
+
+At July 31, 2001, the Company held 2,269,333 shares of eUniverse Inc. with fair
+value of approximately $7,622,000, $2,808,000 of which was recorded as current
+and $4,814,000 was recorded as non-current. The Company recorded an unrealized
+gain of $1,633,000 as a separate component of accumulated other comprehensive
+income (loss) in stockholders' equity.
+
+
+                                       21
+<PAGE>
+
+
+
+PART II - OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+The Company is not involved in any material legal proceedings.
+
+Item 2.  Changes in Securities
+
+From May 2001 to July 2001, 544,000 options from the 1997 Stock Option Plan were
+granted at exercise prices ranging from $13.9 to $15.5.
+
+In July 2001, the Company issued 30,000 shares in connection with the
+acquisition of Techcorp Limited.
+
+In July 2001, the Company issued 1,300,000 shares of common stock in a private
+placement to nine institutional investors and received proceeds of $20.8 million
+net of $1.4 million of selling commissions and offering expenses. Commerzbank
+Securities and Gerard Klauer Mattison & Co., Inc acted as placement agents in
+connection with the offering.
+
+In connection with the above securities issuances, the Company relied on Section
+4(2) and Regulation D promulgated under the Securities Act of 1933, as amended.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+The Company held its Annual Meeting on June 21, 2001. At the meeting Ryan A.
+Brant, Kelly Sumner, Paul Eibeler, Oliver R. Grace, Jr., Mark Lewis, Don Leeds
+and Robert Flug were elected as directors. Mr. Brant received 17,492,608 votes
+for and 2,856,190 votes withheld; Mr. Sumner received 20,286,840 votes for and
+61,958 votes withheld; Mr. Eibeler received 17,493,008 votes for and 2,855,790
+votes withheld; Mr. Grace received 20,286,540 votes for and 62,258 votes
+withheld; Mr. Lewis received 20,286,840 votes for and 61,958 votes withheld; Mr.
+Leeds received 17,493,308 votes for and 2,855,290 votes withheld; and Mr. Flug
+received 17,493,008 votes for and 2,855,790 votes withheld. In addition, the
+stockholders voted 16,017,723 for and 3,833,179 against, with 497,896
+abstentions, to increase the number of shares of common stock available under
+the Company's 1997 Stock Option Plan from 5,000,000 to 6,500,000.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+         (a) Exhibits
+         None
+
+         (b)Reports on Form 8-K
+         None
+
+
+                                       22
+<PAGE>
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, Take-Two Interactive Software, Inc. has duly caused this report to
+be signed on its behalf by the undersigned thereunto duly authorized on this
+14 day of September 2001.
+
+                                        TAKE-TWO INTERACTIVE SOFTWARE, INC.
+
+
+                                        By: /s/ Kelly Sumner
+                                            -------------------------------
+                                            Kelly Sumner
+                                            Chief Executive Officer
+                                            (Principal Executive Officer)
+
+
+                                        By: /s/ James H. David Jr.
+                                            -------------------------------
+                                            James H. David Jr.
+                                            Chief Financial Officer
+                                            (Principal Financial Officer)
+
+
+
+                                       23
+
+</TEXT>
+</DOCUMENT>

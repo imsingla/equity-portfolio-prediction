@@ -1,0 +1,3146 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>snps-q203_10q.txt
+<DESCRIPTION>FY03 2ND QRTR 10Q
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+   (MARK ONE)
+
+        (X)           QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+                      FOR THE QUARTERLY PERIOD ENDED APRIL 30, 2003
+
+                                       OR
+
+        (   )         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+                      FOR THE TRANSITION PERIOD FROM              TO
+
+                         COMMISSION FILE NUMBER: 0-19807
+                                ----------------
+
+                                 SYNOPSYS, INC.
+             (Exact name of registrant as specified in its charter)
+
+                   DELAWARE                                  56-1546236
+        (State or other jurisdiction of                   (I.R.S. Employer
+         incorporation or organization)                Identification Number)
+
+                            700 EAST MIDDLEFIELD ROAD
+                             MOUNTAIN VIEW, CA 94043
+          (Address of principal executive offices, including zip code)
+
+                            TELEPHONE: (650) 584-5000
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (l) has filed all reports required
+to be filed by  Section  13,  or 15(d) of the  Securities  Exchange  Act of 1934
+during the preceding 12 months (or for such shorter  period that the  registrant
+was  required  to file such  reports),  and (2) has been  subject to such filing
+requirements for the past 90 days.
+
+                                 Yes [X] No [  ]
+
+Indicate  by check mark  whether  the  registrant  is an  accelerated  filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+                                 Yes [X] No [  ]
+
+Indicate the number of shares  outstanding  of each of the  issuer's  classes of
+common stock, as of the latest practicable date.
+
+              77,659,063 shares of Common Stock as of June 6, 2003
+
+
+<PAGE>
+
+
+
+                                 SYNOPSYS, INC.
+                          QUARTERLY REPORT ON FORM 10-Q
+                                 APRIL 30, 2003
+
+                                TABLE OF CONTENTS
+
+PART I. FINANCIAL INFORMATION
+ITEM 1.    FINANCIAL STATEMENTS................................................2
+           CONDENSED CONSOLIDATED BALANCE SHEETS...............................2
+           UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF INCOME...............3
+           UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF
+             CASH FLOWS........................................................4
+           NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS......5
+ITEM 2.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                 AND RESULTS OF OPERATIONS....................................17
+ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK..........34
+ITEM 4.    CONTROLS AND PROCEDURES............................................35
+
+PART II. OTHER INFORMATION
+ITEM 1.   LEGAL PROCEEDINGS...................................................35
+ITEM 5.   OTHER INFORMATION...................................................35
+ITEM 6.   EXHIBITS AND REPORTS ON FORM 8-K....................................39
+SIGNATURES....................................................................41
+CERTIFICATIONS................................................................42
+
+
+
+
+                                       1
+<PAGE>
+
+
+
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+
+                                 SYNOPSYS, INC.
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                      (in thousands, except par value data)
+<TABLE>
+<CAPTION>
+
+                                                                   APRIL 30,       OCTOBER 31,
+                                                                     2003              2002
+                                                                ---------------- -----------------
+                                                                  (unaudited)
+<S>                                                             <C>              <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents                                     $      268,822    $    312,580
+  Short-term investments                                               123,277         102,153
+                                                                ---------------- -----------------
+     Total cash and short-term investments                             392,099         414,733
+  Accounts receivable, net of allowances of $10,760 and
+     $11,565, respectively                                             246,006         207,206
+  Deferred taxes                                                       270,058         282,867
+  Prepaid expenses and other                                            22,202          24,509
+                                                                ---------------- -----------------
+     Total current assets                                              930,365         929,315
+
+Property and equipment, net                                            180,122         185,040
+Long-term investments                                                   25,567          39,386
+Goodwill, net                                                          548,746         434,554
+Intangible assets, net                                                 345,403         355,334
+Other assets                                                            34,149          35,085
+                                                                ---------------- -----------------
+     Total assets                                               $    2,064,352    $  1,978,714
+                                                                ================ =================
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable and accrued liabilities                      $      168,516    $    246,789
+  Current portion of long-term debt                                         28           1,423
+  Accrued income taxes                                                 153,780         169,912
+  Deferred revenue                                                     445,189         359,245
+                                                                ---------------- -----------------
+     Total current liabilities                                         767,513         777,369
+
+Deferred compensation and other liabilities                             65,946          36,387
+Long-term deferred revenue                                              32,053          51,477
+
+Stockholders' equity:
+  Common stock, $0.01 par value; 400,000 shares
+     authorized; 73,967 and 73,562 shares
+     outstanding, respectively                                             740             735
+  Additional paid-in capital                                         1,063,828       1,039,386
+  Retained earnings                                                    236,114         198,863
+  Treasury stock, at cost                                             (101,573)       (116,499)
+
+  Deferred stock compensation                                          (10,844)         (8,858)
+  Accumulated other comprehensive income (loss)                         10,575            (146)
+                                                                ---------------- -----------------
+     Total stockholders' equity                                      1,198,840       1,113,481
+                                                                ---------------- -----------------
+     Total liabilities and stockholders' equity                 $    2,064,352    $  1,978,714
+                                                                ================ =================
+
+</TABLE>
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+
+
+                                       2
+<PAGE>
+
+
+
+                                 SYNOPSYS, INC.
+              UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                      (in thousands, except per share data)
+<TABLE>
+<CAPTION>
+                                                             THREE MONTHS ENDED               SIX MONTHS ENDED
+                                                                  APRIL 30,                       APRIL 30,
+                                                       -------------------------------- ------------------------------
+                                                            2003             2002           2003            2002
+                                                       ---------------- --------------- -------------- ---------------
+<S>                                                     <C>               <C>             <C>           <C>
+Revenue:
+   Product                                                $   82,000       $   52,293      $  136,520     $   91,848
+   Service                                                    61,967           65,765         134,354        134,858
+   Ratable license                                           148,061           67,580         289,290        134,477
+                                                       ---------------- --------------- -------------- ---------------
+     Total revenue                                           292,028          185,638         560,164        361,183
+
+Cost of revenue:
+   Product                                                     3,845            3,221           7,598          7,287
+   Service                                                    17,750           17,391          39,770         38,075
+   Ratable license                                            13,472           13,780          26,258         24,220
+   Amortization of intangible assets and
+     deferred stock compensation                              24,309               --          45,102             --
+                                                       ---------------- --------------- -------------- ---------------
+     Total cost of revenue                                    59,376           34,392         118,728         69,582
+                                                       ---------------- --------------- -------------- ---------------
+
+Gross margin                                                 232,652          151,246         441,436        291,601
+
+Operating expenses:
+   Research and development                                   68,612           46,649         135,881         95,355
+   Sales and marketing                                        80,970           63,201         152,208        123,000
+   General and administrative                                 24,240           17,537          46,791         36,245
+
+     In-process research & development                        18,250               --          18,250             --
+   Amortization of goodwill, intangible
+     assets and deferred stock compensation                    9,169            4,356          17,159          8,400
+                                                       ---------------- --------------- -------------- ---------------
+     Total operating expenses                                201,241          131,743         370,289        263,000
+                                                       ---------------- --------------- -------------- ---------------
+
+Operating income                                              31,411           19,503          71,147         28,601
+Other income, net                                              7,515           11,213          16,725         22,294
+                                                       ---------------- --------------- -------------- ---------------
+
+Income before provision for income taxes                      38,926           30,716          87,872         50,895
+Provision for income taxes                                    16,637            9,336          31,198         15,463
+                                                       ---------------- --------------- -------------- ---------------
+Net income                                                $   22,289       $   21,380      $   56,674     $   35,432
+                                                       ================ =============== ============== ===============
+
+Basic earnings per share:
+Net income per share                                      $     0.30       $     0.35      $     0.76     $     0.58
+Weighted-average common shares                                74,351           61,232          74,220         60,670
+                                                       ================ =============== ============== ===============
+
+Diluted earnings per share:
+Net income per share                                      $     0.29       $     0.33      $     0.74     $     0.55
+Weighted-average common shares and dilutive
+   stock options outstanding                                  76,517           64,934          76,551         64,956
+                                                       ================ =============== ============== ===============
+</TABLE>
+
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+
+
+                                       3
+<PAGE>
+
+
+
+                                 SYNOPSYS, INC.
+            UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+<TABLE>
+<CAPTION>
+
+                                                                        SIX MONTHS ENDED
+                                                                            APRIL 30,
+                                                                ----------------------------------
+                                                                      2003             2002
+                                                                ----------------- ----------------
+<S>                                                             <C>               <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income                                                        $     56,674      $     35,432
+Adjustments to reconcile net income to net cash
+   provided by (used in) operating activities:
+   In-process research and development                                  18,250                --
+   Amortization and depreciation                                        90,874            34,266
+   Provision for doubtful accounts and sales returns                     2,423             1,767
+
+   Write-down of long-term investments                                   2,065             3,500
+   Gain on sale of long-term investments                               (12,310)          (11,062)
+   Net change in unrecognized gains and losses on
+     foreign exchange contracts                                         18,874            (1,353)
+    Deferred taxes                                                      39,994            (3,191)
+   Deferred rent                                                         1,351             1,736
+    Tax benefit associated with stock options                            3,226            12,222
+   Net changes in operating assets and liabilities:
+     Accounts receivable                                               (41,565)           (7,426)
+     Prepaid expenses and other current assets                           3,132           (11,506)
+     Other assets                                                        3,259            (5,993)
+     Accounts payable and accrued liabilities                          (65,433)          (26,931)
+     Accrued income taxes                                              (36,823)          (54,805)
+     Deferred revenue                                                   62,893            18,458
+     Deferred compensation                                               4,623             5,256
+                                                                ----------------- ----------------
+   Net cash provided by (used in) operating activities                 151,507            (9,630)
+                                                                ----------------- ----------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Proceeds from sales and maturities of short-term
+     investments                                                       112,621           659,931
+   Purchases of short-term investments                                (135,940)         (504,788)
+   Proceeds from sale of long-term investments                          18,497            20,024
+   Purchases of long-term investments                                     (800)           (3,205)
+   Purchases of property and equipment                                 (19,705)          (26,542)
+   Cash paid for acquisitions, net of cash received                   (162,461)               --
+   Capitalization of software development costs                         (1,308)             (796)
+                                                                ----------------- ----------------
+   Net cash (used in) provided by investing activities                (189,096)          144,624
+                                                                ----------------- ----------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+    Issuances of common stock                                           63,419            76,395
+   Purchases of treasury stock                                         (67,795)               --
+                                                                ----------------- ----------------
+     Net cash (used in) provided by financing
+       activities                                                       (4,376)           76,395
+Effect of exchange rate changes on cash                                 (1,793)              485
+                                                                ----------------- ----------------
+Net (decrease) increase in cash and cash equivalents                   (43,758)          211,874
+Cash and cash equivalents, beginning of period                         312,580           271,696
+                                                                ----------------- ----------------
+Cash and cash equivalents, end of period                          $    268,822      $    483,570
+                                                                ================= ================
+</TABLE>
+
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+
+
+                                       4
+<PAGE>
+
+
+
+                                 SYNOPSYS, INC.
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  BASIS OF PRESENTATION
+
+    Synopsys,  Inc.  (Synopsys or the  Company)  has  prepared the  accompanying
+unaudited condensed consolidated financial statements pursuant to the Securities
+and Exchange  Commission's  (SEC) rules and regulations.  Pursuant to such rules
+and  regulations,  the Company has condensed or omitted certain  information and
+footnote  disclosures  normally  included in consolidated  financial  statements
+prepared  in  accordance  with  generally  accepted  accounting  principles.  In
+management's  opinion, the Company has made all adjustments  (consisting only of
+normal,  recurring  adjustments)  necessary  to  fairly  present  the  financial
+position, results of operations and cash flows. Interim period operating results
+do not  necessarily  indicate  the results  that may be  expected  for any other
+interim  period or for the full fiscal  year.  These  financial  statements  and
+accompanying notes should be read in conjunction with the consolidated financial
+statements  and notes  thereto  in  Synopsys'  Annual  Report on Form  10-K,  as
+amended, for the fiscal year ended October 31, 2002.
+
+    To prepare  financial  statements  in  conformity  with  generally  accepted
+accounting  principles,  management  must make  estimates and  assumptions  that
+affect the amounts reported in the unaudited  condensed  consolidated  financial
+statements  and  accompanying  notes.  Actual  results  could  differ from those
+estimates.
+
+    Synopsys' fiscal year and second quarter end on the Saturday nearest October
+31 and April 30, respectively.  Fiscal 2003 and 2002 are both 52-week years. For
+presentation purposes, the unaudited condensed consolidated financial statements
+and accompanying notes refer to the applicable calendar month end.
+
+Accounting for Stock-Based Compensation
+
+    In accordance  with  Accounting  Principles  Board Opinion No. 25 (APB 25),
+Accounting  for Stock Issued to  Employees,  the Company  applies the  intrinsic
+value method in accounting for employee stock options.  Accordingly, the Company
+generally  recognizes no compensation expense with respect to stock-based awards
+to  employees.  The  Company  has  determined  unaudited  pro forma  information
+regarding  net income and earnings per share as if the Company had accounted for
+employee  stock  options under the fair value method as required by Statement of
+Financial  Accounting  Standards No. 123 (SFAS 123),  Accounting for Stock-Based
+Compensation,  and  Statement of Financial  Accounting  Standards  No. 148 (SFAS
+148),  Accounting for Stock-Based  Compensation  Transition and Disclosure.  The
+weighted-average  expected life,  risk-free interest rate and volatility for the
+three- and  six-month  periods  ended April 30, 2003 and for the same periods in
+fiscal 2002 are comparable to that for the year ended October 31, 2002.
+
+
+
+
+                                       5
+<PAGE>
+
+
+
+     The  Company's  unaudited  pro forma net income and earnings per share data
+under SFAS No. 123 is as follows:
+<TABLE>
+<CAPTION>
+
+                                                      THREE MONTHS ENDED                   SIX MONTHS ENDED
+                                                           APRIL 30,                           APRIL 30,
+                                              ----------------------------------- -----------------------------------
+                                                    2003              2002             2003              2002
+                                              ----------------- ----------------- ---------------- ------------------
+                                                             (in thousands, except per share amounts)
+<S>                                           <C>               <C>               <C>              <C>
+Net income, as reported                        $     22,289      $     21,380      $     56,674     $     35,432
+Add: Stock-based employee
+  compensation included in net income                 1,288                --             2,615               --
+Deduct: Stock-based employee
+  compensation expense determined
+  under the fair value based  method for all
+  awards, net of related tax effects                 30,643            22,605            61,906           44,997
+Pro forma net (loss) under SFAS 123            $     (7,066)     $     (1,225)     $     (2,617)    $     (9,565)
+Earnings (loss) per share-- basic
+  As reported under APB 25                     $       0.30      $       0.35      $       0.76     $       0.58
+  Pro forma under SFAS 123                     $      (0.10)     $      (0.02)     $      (0.04)    $      (0.16)
+Earnings (loss) per share-- diluted
+  As reported under APB 25                     $       0.29      $       0.33      $       0.74     $       0.55
+  Pro forma under SFAS 123                     $      (0.10)     $      (0.02)     $      (0.04)    $      (0.16)
+</TABLE>
+
+
+Effect of New Accounting Standards
+
+     In May  2003,  the  Financial  Accounting  Standards  Board  (FASB)  issued
+Statement of Financial Accounting  Standards No. 150 (SFAS 150),  Accounting for
+Certain  Financial  Instruments  with  Characteristics  of both  Liabilities and
+Equity. SFAS 150 establishes standards for how an issuer classifies and measures
+certain  financial  instruments  with  characteristics  of both  liabilities and
+equity. SFAS 150 is effective for financial instruments entered into or modified
+after May 31, 2003,  and  otherwise  is effective at the  beginning of the first
+interim period  beginning  after June 15, 2003. SFAS 150 is to be implemented by
+reporting  the  cumulative  effect of a change in an  accounting  principle  for
+financial  instruments  created  before the issuance  date of the  statement and
+still existing at the beginning of the interim  period of adoption.  The Company
+does not expect the  adoption  of SFAS 150 to have a  significant  impact on its
+financial position or results of operations.
+
+     In April 2003, the FASB issued Statements of Financial Accounting Standards
+No. 149 (SFAS 149),  Amendment of Statement  133 on Derivative  Instruments  and
+Hedging  Activities.  SFAS 149 amends and  clarifies  financial  accounting  and
+reporting for derivative  instruments,  including certain derivative instruments
+embedded in other contracts and for hedging  activities  under FASB Statement of
+Financial  Accounting  Standards No. 133, Accounting for Derivative  Instruments
+and Hedging  Activities.  SFAS 149 is generally  effective for contracts entered
+into or modified after June 30, 2003, and for hedging  relationships  designated
+after June 30,  2003.  The Company  does not expect the  adoption of SFAS 149 to
+have a significant impact on its financial position or results of operations.
+
+    In July  2001,  the  Financial  Accounting  Standards  Board  (FASB)  issued
+Statements  of  Financial  Accounting  Standards  No. 141 (SFAS  141),  Business
+Combinations,  and Financial  Accounting  Standards No. 142 (SFAS 142), Goodwill
+and Other  Intangible  Assets.  SFAS 141  requires  issuers to use the  purchase
+method of  accounting  for all business  combinations  initiated  after June 30,
+2001, and specifies  criteria  intangible  assets  acquired in a purchase method
+business combination must meet to be recognized apart from goodwill.  Under SFAS
+141, the Company must  reclassify to goodwill any intangible  assets it acquired
+prior to July 1, 2001  that do not meet SFAS  141's  criteria  for  recognition.
+Applying   SFAS  141,   the   Company   was  not   required  to  make  any  such
+reclassifications.
+
+
+
+
+
+                                       6
+<PAGE>
+
+
+    The  Company  adopted  SFAS 142 on  November  1, 2002 and  pursuant  to that
+standard  ceased  amortizing  goodwill  recorded for business  combinations  the
+Company consummated prior to July 1, 2001. In addition,  as of November 1, 2002,
+the  Company  assessed  the useful  lives and  residual  values of all  acquired
+intangible  assets  recorded on the balance  sheet and also tested  goodwill for
+impairment per that standard. In the Company's impairment analysis,  the Company
+determined  it has one  reporting  unit.  The  Company  completed  the  goodwill
+impairment  review as of the beginning of fiscal 2003 and found no indicators of
+impairment. This impairment review was based on the fair value of the Company as
+determined  by its  market  capitalization.  As of April 30,  2003,  unamortized
+goodwill was $548.7  million,  which,  in accordance  with SFAS 142, the Company
+will no longer amortize.
+
+Reclassification
+
+     Certain prior period amounts have been  reclassified  to conform to current
+period presentation.
+
+2.  BUSINESS COMBINATIONS
+
+Acquisition of Numerical Technologies, Inc. (Numerical)
+
+     On March 1, 2003, the Company completed its acquisition of Numerical.
+
+     Reasons for the Acquisition. In approving the merger agreement,  management
+considered a number of factors, including its opinion that combining Numerical's
+sub-wavelength  lithography-enabling  solutions  with  Synopsys'  leading design
+solutions would enable Synopsys to further reduce costs and  manufacturing  risk
+for its customers as they create smaller, faster and more power-efficient chips.
+
+     Purchase  Price.  The Company paid Numerical  common stock holders $7.00 in
+cash in exchange for each share of Numerical common stock owned as of the merger
+date,  or  approximately  $240.7  million.  The  total  purchase   consideration
+consisted of:
+
+(in thousands)
+Cash paid for Numerical common stock                       $    240,722
+Acquisition related costs                                        10,044
+Fair value of options to purchase Synopsys
+  common stock issued, less $5.2 million
+  representing the portion of the intrinsic value
+  of Numerical's unvested options applicable to the
+  remaining vesting period                                       16,500
+                                                          ----------------
+                                                           $    267,266
+                                                          ================
+
+    Acquisition-related  costs of $10.0 million  consist  primarily of legal and
+accounting fees of $2.7 million,  and other directly  related charges  including
+approximately $5.2 million in restructuring costs and approximately $1.6 million
+in directors and officers  insurance costs incurred to cover Numerical's  former
+officers and Board of Directors as required by the merger agreement. As of April
+30, 2003, the Company had paid $5.1 million of the acquisition-related costs. Of
+the balance  remaining at April 30, 2003,  $4.0 million  represents  outstanding
+restructuring costs.
+
+
+
+
+                                       7
+<PAGE>
+
+
+
+    The Company has allocated  total  purchase  consideration  to the assets and
+liabilities acquired,  including identifiable  intangible assets, based on their
+respective fair values at the acquisition date,  resulting in goodwill of $140.6
+million.  The following unaudited condensed balance sheet data presents the fair
+value of the assets and liabilities acquired.
+
+(in thousands)
+Assets acquired
+   Cash, cash equivalents and short-term investments          $   79,461
+   Accounts receivable                                             4,904
+   Prepaid expenses and other current assets                       3,368
+   Identifiable intangible assets                                 47,570
+   Goodwill                                                      140,626
+   Other assets                                                    4,827
+                                                           ----------------
+     Total assets acquired                                   $   280,756
+                                                           ================
+Liabilities acquired
+   Accounts payable and accrued liabilities                 $     17,432
+   Deferred revenue                                                3,627
+   Deferred tax liabilities                                       20,691
+                                                           ----------------
+     Total liabilities acquired                               $   41,750
+                                                           ================
+
+     Goodwill and Intangible  Assets.  Goodwill,  representing the excess of the
+purchase  consideration  over  the  fair  value  of  tangible  and  identifiable
+intangible  assets  acquired in the  merger,  will not be  amortized  and is not
+deductible  for tax  purposes.  The Company  allocated a portion of the purchase
+price to the following identifiable intangible assets:
+
+(in thousands)
+                                                     Estimated
+Intangible Asset                                    Useful Life
+------------------------------------ ------------- --------------
+Core/developed technology            $    22,580         3
+Customer relationships               $    20,120         6
+Customer backlog                     $     4,870         3
+
+     Except for amortization of the core/developed technology (which is included
+in cost of revenue in the statement of operations for the period ended April 30,
+2003), the Company included  amortization of the intangible  assets in operating
+expenses in its statement of operations for the period ended April 30, 2003.
+
+
+
+
+                                       8
+<PAGE>
+
+
+
+     Unaudited Pro Forma Results of  Operations.  The following  table  presents
+unaudited  pro forma  results of  operations  and gives effect to the  Numerical
+acquisition  as if the  acquisition  was  consummated  at the  beginning of each
+fiscal  period  presented.  The Company's  results of  operations  may have been
+different than those shown below if the Company had actually acquired  Numerical
+at the beginning of each fiscal period presented; further, the pro forma results
+below do not necessarily indicate future operating results.
+
+<TABLE>
+<CAPTION>
+                                             THREE MONTHS ENDED                   SIX MONTHS ENDED
+                                                  APRIL 30,                          APRIL 30,
+                                      ---------------------------------- -----------------------------------
+                                            2003             2002             2003              2002
+                                      ----------------- ---------------- ---------------- ------------------
+                                                    (in thousands, except per share amounts)
+<S>                                   <C>               <C>              <C>              <C>
+Revenue(1)                             $       297,399   $   198,732      $      576,725   $       388,462
+Net income(2)                          $        15,392   $    19,814      $       45,812   $        30,545
+Basic earnings per share               $          0.21   $      0.32      $         0.62   $          0.50
+Weighted average common
+  shares outstanding(3)                         74,351        61,232              74,220            60,670
+Diluted earnings per share             $          0.20   $      0.31      $         0.60   $          0.47
+Weighted average common
+  shares and dilutive stock
+  options outstanding(3)                        76,517        64,839               76,551           64,874
+</TABLE>
+
+
+   (1)    The 2002  unaudited  pro forma  results of  operations  and the 2003
+          unaudited  pro forma  results  of  operations  for the  period  from
+          November  1, 2002  through  February  28, 2003  include  Numerical's
+          reported revenue in the periods Numerical  recognized such revenues.
+          However,  the purchase  method of  accounting  requires  Synopsys to
+          reduce  Numerical's  reported deferred revenue to an amount equal to
+          the fair value of the legal liability, resulting in lower revenue in
+          periods following the merger than Numerical would have achieved as a
+          separate company.  Therefore,  revenues from Numerical  products for
+          the period  from  March 1, 2003 to April 30,  2003  included  in the
+          unaudited  pro  forma  results  of  operations   reflect  the  lower
+          amortization  of  deferred   revenue  stemming  from  this  purchase
+          accounting adjustment.
+   (2)    Net income for the three and six months ended April 30, 2003 includes
+          in-process  research and  development  costs from the Numerical
+          acquisition totaling $18, 250.
+   (3)    The calculations of the weighted  average common shares  outstanding
+          and  weighted  average  common  shares and  dilutive  stock  options
+          outstanding for the three and six months ended April 30, 2002 do not
+          include the impact of the shares issued in the acquisition of Avant!
+          as discussed below.
+
+Acquisition of Avant!, inSilicon and Co-Design
+
+    Avant!.  On June 6, 2002,  the  Company  completed  its merger  with  Avant!
+Corporation  (Avant!),  a leading  developer  of software  used in the  physical
+design and physical  verification  phases of chip design.  The Company  recorded
+goodwill  of $342.8  million as a result of the merger,  which  reflects a $31.6
+million decrease in facilities closure costs during the second quarter of fiscal
+2003 as described  below. As reflected in Note 3, "Goodwill and Other Intangible
+Assets,  Net" below, the decrease in goodwill for the second quarter  associated
+with the Avant!  merger  was  partially  offset by a $4.3  million  increase  in
+goodwill  resulting  from the  reduction  of  unbilled  receivables  recorded in
+connection  with the Avant!  acquisition.  These  amounts  related to  long-term
+library  business  service  contracts  under which Avant!  had not yet performed
+services,  and, as such,  represent  executory  contracts  rather than  unbilled
+receivables.  The amount  assigned  to the  intangible  asset was not  material.
+During the first  quarter of fiscal 2003,  goodwill  associated  with the Avant!
+acquisition  increased  $1.0  million for  estimated  costs of certain  contract
+termination liabilities.  The Company included Avant!'s results of operations in
+the accompanying  unaudited condensed  consolidated  statement of income for the
+period from November 1, 2002 through April 30, 2003.
+
+
+
+
+                                       9
+<PAGE>
+
+
+
+    The following  table  presents the components of  acquisition-related  costs
+recorded in the Avant!  transaction,  along with amounts paid through the period
+ended April 30, 2003.
+<TABLE>
+<CAPTION>
+
+                                    Balance at                                     Balance at
+                                    October 31,                                    April 30,
+(in thousands)                         2002          Payments       Reversals         2003
+                                   -------------- --------------- --------------- -------------
+<S>                               <C>            <C>              <C>            <C>
+ Acquisition related costs         $      3,840   $        992               -    $    2,848
+ Facilities closure costs                57,261         24,734          31,578           949
+ Employee severance costs                   290            155               -           135
+                                   -------------- --------------- --------------- -------------
+Total                              $     61,391   $     25,881    $     31,578    $    3,932
+                                   ============== =============== =============== =============
+</TABLE>
+
+
+    The remaining acquisition related costs of $2.8 million consist primarily of
+legal and accounting fees.
+
+    Facilities  closure costs at October 31, 2002 related  primarily to Avant!'s
+corporate  headquarters.  After the merger, the Company  consolidated  functions
+performed in these  buildings  into Synopsys'  corporate  facilities and stopped
+paying  rent on such  buildings,  pending  negotiation  of  lease  terminations.
+Synopsys  settled claims of one of the two landlords of these  buildings  during
+the three months ended  January 31, 2003 for $7.4 million and settled the claims
+of the other  landlord  during the three  months  ended April 30, 2003 for $15.0
+million.  Resolving these contingencies reduced the amount allocated to goodwill
+by $31.6  million.  The $0.9 million  remaining  facilities  closure cost is the
+present value of the future  obligations  under certain of Avant!'s  other lease
+agreements  which the  Company  has or intends to  terminate  under an  approved
+facilities  exit  plan,  plus  additional  costs the  Company  expects  to incur
+directly related to vacating such facilities.
+
+    inSilicon and Co-Design. In fiscal 2002, the Company also acquired inSilicon
+Corporation  (inSilicon) and Co-Design Automation,  Inc. (Co-Design).  inSilicon
+developed, marketed and licensed an extensive portfolio of complex "intellectual
+property blocks." Co-Design developed simulation software used in the high level
+verification  stage of the chip design  process and a new design  language  that
+permits  designers to describe the behavior of their chips more efficiently than
+current standard languages. The Company has included inSilicon's and Co-Design's
+results of  operations  in the  accompanying  unaudited  condensed  consolidated
+statement of income for the period from November 1, 2002 through April 30, 2003.
+
+    In  connection  with  the  inSilicon   acquisition,   the  Company  incurred
+acquisition-related  costs of $6.2  million,  consisting  primarily of legal and
+accounting  fees of $1.8  million,  other  directly  related  charges  including
+contract   termination  costs  of  $3.3  million,  and  restructuring  costs  of
+approximately $0.8 million.  As of April 30, 2003,  remaining accrued and unpaid
+acquisition-related  costs of $0.7 million  consisted  primarily of  outstanding
+contract   termination   costs.   There  are  no  remaining  accrued  or  unpaid
+acquisition-related costs for Co-Design.
+
+
+
+
+                                       10
+<PAGE>
+
+
+
+     Unaudited Pro Forma Results of  Operations.  The following  table  presents
+unaudited  pro forma results of  operations  and gives effect to the Avant!  and
+inSilicon  acquisitions  as if the mergers were  consummated at the beginning of
+each fiscal period presented.  Amounts shown for the three and six month periods
+ended April 30, 2003 are the combined  Company's  actual  results of operations.
+The Company has not included Co-Design in the 2002 pro forma results because the
+effect was not  material.  The  Company's  results of  operations  may have been
+different if the Company had actually acquired Avant! or inSilicon,  or both, at
+the  beginning of each fiscal period  presented.  The pro forma results below do
+not necessarily indicate future operating results.
+
+<TABLE>
+<CAPTION>
+                                             THREE MONTHS ENDED              SIX MONTHS ENDED
+                                                  APRIL 30,                      APRIL 30,
+                                      ------------------------------ -------------------------------
+                                           2003             2002          2003             2002
+                                      ---------------- ------------- ---------------- --------------
+                                                    (in thousands, except per share amounts)
+   <S>                                <C>             <C>             <C>            <C>
+    Revenue(1)                         $    292,028    $   305,056     $    560,164    $   593,564
+    Net income                         $     22,289    $    36,242     $     56,674    $    64,298
+    Basic earnings per share           $       0.30    $      0.48     $       0.76    $      0.86
+    Weighted average common
+      shares outstanding                     74,351         75,763           74,220         75,201
+    Diluted earnings per share         $       0.29    $      0.46     $       0.74    $      0.81
+    Weighted average common
+      shares and dilutive stock
+      options outstanding                    76,517         79,284           76,551         79,329
+</TABLE>
+
+
+
+     (1)  The 2002  unaudited pro forma results of operations  include  Avant!'s
+          and inSilicon's  reported  revenue in the periods Avant! and inSilicon
+          recognized such revenues.  However,  the purchase method of accounting
+          requires Synopsys to reduce Avant!'s and inSilicon's reported deferred
+          revenue  subsequent  to the  merger,  resulting  in lower  revenue  in
+          periods  following  the merger than Avant!  and  inSilicon  would have
+          achieved as separate  companies.  Therefore,  revenues from Avant! and
+          inSilicon for the periods  subsequent to the  respective  merger dates
+          reflect this reduction to revenue.
+
+    The  unaudited  pro forma  results  of  operations  for each of the  periods
+presented  exclude  non-recurring  merger  costs of $21.0  million for  Avant!'s
+pre-merger  litigation  settlements and other related costs Avant!  incurred for
+the six months ended April 30, 2002.  The Company has,  however,  included these
+expenses in its historical unaudited condensed consolidated statement of income.
+
+
+
+
+                                       11
+<PAGE>
+
+
+
+3.  GOODWILL AND OTHER INTANGIBLE ASSETS, NET
+
+    The following  table rolls forward the carrying  value of goodwill and other
+intangibles, net, from October 31, 2002 to April 30, 2003:
+<TABLE>
+<CAPTION>
+
+                                 Amortization    Balance at                                               Balance at
+                                    Period      October 31,                                               April 30,
+(in thousands)                     (Years)          2002       Additions(1)  Reversals(2) Amortization       2003
+                                 ------------- --------------- ------------- ------------ ------------- ---------------
+<S>                             <C>           <C>             <C>           <C>          <C>           <C>
+Goodwill                                       $     434,554   $   141,867   $    27,675  $         --  $    548,746
+                                               =============== ============= ============ ============= ===============
+
+Intangibles:
+   Contract rights intangible         3        $      44,519   $        --   $        --  $     8,616   $     35,903
+   Core/developed technology         3-10            186,766        23,194            --       36,679        173,281
+   Covenant not-to-compete            4                8,152           154            --        1,144          7,162
+   Customer backlog                   3                3,267         4,870            --          839          7,298
+   Customer relationship              6               95,782        20,581            --        9,409        106,954
+   Trademark and tradename            3               15,242           307            --        2,959         12,590
+                                               --------------- ------------- ------------ ------------- ---------------
+Total intangible assets                        $     353,728   $    49,106   $        --  $    59,646   $    343,188
+                                               =============== ============= ============ ============= ===============
+</TABLE>
+
+
+          (1)  Additions include goodwill and intangible assets acquired as part
+               of the  Numercial  acquisition,  assets  acquired  as  part of an
+               immaterial   acquisition   made  during  the  quarter,   contract
+               termination   costs  and  amounts  related  to  foreign  currency
+               fluctuations  for  goodwill  which  are  not  denominated  in  US
+               dollars.
+          (2)  Reversals primarily include $31.6 million related to Avant!
+               facilities   discussed  under  "Acquisition  of Avant!, inSilicon
+               and Co-Design"  above,  offset by the reduction of $4.3 million
+               in Avant! unbilled receivables.
+
+         Total  amortization  expense  related to goodwill and other  intangible
+assets is set forth in the table below:
+<TABLE>
+<CAPTION>
+                                            THREE MONTHS ENDED               SIX MONTHS ENDED
+                                                APRIL 30,                       APRIL 30,
+                                      ------------------------------- -------------------------------
+                                            2003            2002            2003            2002
+                                      --------------- --------------- --------------- ---------------
+                                                              (in thousands)
+
+   <S>                               <C>             <C>             <C>             <C>
+   Goodwill                           $         --    $      3,892    $          --   $       7,784
+                                      =============== =============== =============== ===============
+   Intangibles:
+     Contract rights intangible       $      4,308    $         --    $       8,616   $          --
+     Core/developed technology              19,128             464           36,679             616
+     Covenants not-to-compete                  575              --            1,144              --
+     Customer backlog                          681              --              839              --
+     Customer relationships                  5,133              --            9,409              --
+     Trademark and tradename                 1,484              --            2,959              --
+                                      --------------- --------------- --------------- ---------------
+     Total intangible assets          $     31,309    $        464    $      59,646   $         616
+                                      =============== =============== =============== ===============
+</TABLE>
+
+
+    The following table presents the estimated future  amortization of the other
+intangibles (in thousands):
+
+                   Fiscal Year
+                   2003 - remainder of fiscal year          $     63,219
+                   2004                                          125,862
+                   2005                                           90,065
+                   2006                                           25,567
+                   2007                                           21,173
+                   2008 and thereafter                            17,302
+                                                            --------------
+                   Total estimated future amortization of
+                     other intangibles                      $    343,188
+                                                            ==============
+
+
+
+
+                                       12
+<PAGE>
+
+
+
+
+    The  following  table  reflects  adjusted  net income  per share,  excluding
+amortization of goodwill,  for fiscal 2002 periods as if the Company had adopted
+SFAS 142 as of July 1, 2001.  The Company's  actual  results of  operations  are
+shown for the three- and six-month periods ended April 30, 2003.
+<TABLE>
+<CAPTION>
+                                                THREE MONTHS ENDED                    SIX MONTHS ENDED
+                                                    APRIL 30,                            APRIL 30,
+                                              2003              2002              2003               2002
+                                        ------------------ ---------------- ------------------ ------------------
+                                                        (in thousands, except per share amounts)
+<S>                                     <C>                <C>              <C>                <C>
+Net income                               $        22,289    $       21,380   $       56,674    $        35,432
+Add: Amortization of goodwill                         --             3,892               --              7,784
+                                        ------------------ ---------------- ------------------ ------------------
+Adjusted net income                      $        22,289    $       25,272   $       56,674    $        43,216
+                                        ================== ================ ================== ==================
+                                         $          0.30    $         0.41   $         0.76    $          0.71
+Basic earnings per share
+Weighted average common shares
+   outstanding                                    74,351            61,232           74,220             60,670
+
+Diluted earnings per share               $          0.29    $         0.39   $         0.74    $          0.67
+Weighted average common shares
+   and dilutive stock options
+   outstanding                                    76,517            64,934           76,551             64,956
+</TABLE>
+
+
+4.   LEGAL PROCEEDINGS
+
+     Prior to the Avant!  acquisition,  Avant! leased five buildings in Fremont,
+California for its  headquarters.  After the merger,  Synopsys  consolidated the
+functions  performed  in the  buildings  into its  Mountain  View and  Sunnyvale
+facilities, the Fremont buildings were closed, and Avant! stopped paying rent on
+the underlying leases,  pending negotiation of lease  terminations.  In November
+2002,  Synopsys  settled  all claims of the  landlord  on two of the  buildings.
+Effective April 24, 2003, Synopsys and the landlord of the remaining  facilities
+settled all claims with respect to these facilities. Accordingly, all litigation
+against  Avant!  with  respect  to  landlord  claims  have  been  released  with
+prejudice.
+
+     On August 10, 2001,  Silicon  Valley  Research,  Inc. (SVR) filed an action
+against Avant! in the United States District Court for the Northern  District of
+California.  The complaint  asserted  claims for statutory  unfair  competition,
+receipt, sale and concealment of stolen property,  interference with prospective
+economic advantage,  conspiracy, false advertising,  violation of the Lanham Act
+and violation of 18 U.S.C.A. ss. 1962 (R.I.C.O.).  In the complaint, SVR alleged
+that  Avant!'s use of trade  secrets  misappropriated  by Avant!  damaged SVR by
+allowing  Avant! to develop and market products more quickly and cheaply than it
+could have otherwise. On May 7, 2003, the District Court granted Avant!'s motion
+to dismiss  and motion for summary  judgment,  thereby  dismissing  all of SVR's
+claims.  The Company has received  notice that SVR has appealed this judgment in
+the Ninth Circuit Court of Appeals.  Avant!  continues to believe the SVR claims
+are without merit and intends to defend this appeal vigorously.
+
+    Part I, Item 3 of Synopsys' Annual Report on Form 10-K, as amended,  for the
+fiscal year ended  October 31, 2002  includes a full  discussion  of each of the
+legal proceedings listed above.
+
+5.       STOCK REPURCHASE PROGRAM
+
+    In  December  2002,  the  Company's  Board of  Directors  renewed  its stock
+repurchase program originally  approved in July 2001. Under the renewed program,
+the Company may acquire up to $500 million of Synopsys  common stock in the open
+market. This renewed stock repurchase program replaced all prior  Board-approved
+repurchase  programs.  The Company intends to use all common shares  repurchased
+for ongoing  stock  issuances  such as existing  employee  stock  option  plans,
+
+
+
+
+                                       13
+<PAGE>
+
+
+
+existing  stock  purchase  plans and  acquisitions.  The Company  purchased  1.5
+million  shares during the three months ended April 30, 2003 at an average price
+of $44 per share.  The Company did not  repurchase  any shares during the three-
+and six-month  periods  ended April 30, 2002.  At April 30, 2003,  approximately
+$432.2 million remained available for repurchase under the program.
+
+6.  COMPREHENSIVE INCOME
+
+    The following table sets forth the components of comprehensive  income,  net
+of income tax expense:
+
+<TABLE>
+<CAPTION>
+                                                      THREE MONTHS ENDED                  SIX MONTHS ENDED
+                                                          APRIL 30,                           APRIL 30,
+                                              ----------------------------------- ----------------------------------
+                                                    2003              2002             2003              2002
+                                              ----------------- ----------------- ---------------- -----------------
+                                                                         (in thousands)
+<S>                                          <C>               <C>               <C>              <C>
+
+Net income                                    $        22,289   $      21,380     $      56,674    $      35,432
+   Foreign currency translation adjustment               (169)         (2,113)             (947)             454
+   Unrealized gain (loss) on investments               (2,730)          1,032             7,065            6,704
+   Reclassification adjustment for realized
+      gains (loss) on investments                       2,305          (2,873)            4,603           (5,842)
+                                              ----------------- ----------------- ---------------- -----------------
+Total comprehensive income                    $        21,695   $      17,426     $      67,395    $      36,748
+                                              ================= ================= ================ =================
+</TABLE>
+
+
+7.  EARNINGS PER SHARE
+
+    The Company  computes  basic  earnings per share using the  weighted-average
+number of common  shares  outstanding  during the period.  The Company  computes
+diluted  earnings per share using the  weighted-average  number of common shares
+and  dilutive  stock  options  outstanding  during  the  period;  the  number of
+weighted-average  dilutive  stock  options  outstanding  is  computed  using the
+treasury stock method.
+
+    The table  below  reconciles  the  weighted-average  common  shares  used to
+calculate  basic net income per share with the  weighted-average  common  shares
+used to calculate diluted net income per share.
+
+<TABLE>
+<CAPTION>
+                                              THREE MONTHS ENDED                 SIX MONTHS ENDED
+                                                   APRIL 30,                         APRIL 30,
+                                        -------------------------------- ----------------------------------
+                                             2003            2002              2003             2002
+                                        --------------- ---------------- ----------------- ----------------
+                                                                  (in thousands)
+<S>                                     <C>             <C>             <C>               <C>
+Weighted-average common shares for
+   basic net income per share                74,351          61,232           74,220            60,670
+Weighted-average dilutive stock
+   options outstanding under the
+   treasury stock method                      2,166           3,702            2,331             4,286
+                                        --------------  ---------------- ----------------- ----------------
+Weighted-average common shares for
+   diluted net income per share              76,517          64,934           76,551            64,956
+                                        ==============  ================ ================= ================
+</TABLE>
+
+
+    The effect of dilutive stock options outstanding excludes approximately 11.7
+million and 5.5 million  stock options for the three months ended April 30, 2003
+and 2002,  respectively,  and 11.1 million and 4.6 million stock options for the
+six months ended April 30, 2003 and 2002, respectively, which were anti-dilutive
+for net income per share calculations.
+
+
+8.  SEGMENT DISCLOSURE
+
+    Statement of Financial Accounting Standards No. 131 (SFAS 131),  Disclosures
+about Segments of an Enterprise and Related Information, requires disclosures of
+certain  information  regarding  operating  segments,   products  and  services,
+geographic areas of operation and major  customers.  SFAS 131 reporting is based
+upon the "management approach": how management organizes the Company's operating
+segments for which separate  financial  information (i) is available and (ii) is
+evaluated regularly by the Chief Operating Decision Maker (CODM) in deciding how
+to allocate  resources  and in assessing  performance.  Synopsys'  CODMs are the
+Company's Chief Executive Officer and Chief Operating Officer.
+
+
+
+
+                                       14
+<PAGE>
+
+
+
+    The Company provides  comprehensive  design software products and consulting
+services  in the  electronic  design  automation  software  industry.  In making
+operating  decisions,   the  CODMs  primarily  consider  consolidated  financial
+information,   accompanied  by  disaggregated   information  about  revenues  by
+geographic region. The Company operates in a single segment.  Revenue is defined
+as revenues from external customers.
+
+    Revenue and  long-lived  assets  related to operations in the United States
+and other geographic areas were:
+
+<TABLE>
+<CAPTION>
+                                   THREE MONTHS ENDED                     SIX MONTHS ENDED
+                                       APRIL 30,                              APRIL 30,
+                         --------------------------------------- ------------------------------------
+                                2003                2002               2003              2002
+                         -------------------- ------------------ ----------------- ------------------
+                                                       (in thousands)
+<S>                     <C>                  <C>                <C>               <C>
+Revenue:
+   United States         $      127,301       $      127,319     $     293,423     $     236,028
+   Europe                        42,692               29,524            84,981            63,592
+   Japan                        102,139               17,007           135,035            34,025
+   Other                         19,896               11,788            46,725            27,538
+                         -------------------- ------------------ ----------------- ------------------
+     Consolidated        $      292,028       $      185,638     $     560,164     $     361,183
+                         ==================== ================== ================= ==================
+</TABLE>
+
+
+
+                                                APRIL 30,        OCTOBER 31,
+                                                  2003              2002
+                                            ---------------- -----------------
+                                                     (in thousands)
+Long-lived assets:
+  United States                              $    157,061       $    162,360
+  Other                                            23,061             22,680
+                                            ---------------- -----------------
+     Consolidated                            $    180,122       $    185,040
+                                            ================ =================
+
+    Geographic revenue data for multi-region, multi-product transactions reflect
+internal  allocations and is therefore subject to certain assumptions and to the
+Company's  methodology.  Beginning in fiscal 2003,  geographic  revenue reflects
+reconfiguration. The Company had two customers that each accounted for more than
+ten percent of the Company's  total revenue for the three months ended April 30,
+2003, and no customers that accounted for more than ten percent of the Company's
+total  revenue  for the six months  ended  April 30,  2003.  No single  customer
+accounted for more than ten percent of the Company's  total revenue for the same
+periods in the prior fiscal year.
+
+
+
+
+                                       15
+<PAGE>
+
+
+
+
+    The Company segregates revenue into five categories for purposes of internal
+management  reporting purposes:  Design  Implementation,  Verification and Test,
+Design  Analysis,  Intellectual  Property (IP) and  Professional  Services.  The
+following table  summarizes the revenue  attributable to each category.  Revenue
+for the three and six  months  ended  April 30,  2002 does not  include  revenue
+attributable  to  products  acquired  from  Numerical,   Avant!,  inSilicon  and
+Co-Design,  since the acquisitions of these companies  occurred after such date.
+Revenue  attributable  to products  acquired from these companies is included in
+the three and six months ended April 30, 2003,  limited in the case of Numerical
+products to revenue  attributable to the period from March 1, 2003 through April
+30, 2003. Due to a business unit  reorganization  in the first quarter of fiscal
+2003, the Company  realigned  certain of its products,  with the majority of the
+shift  occurring   between  IP  and  Verification  and  Test.  The  Company  has
+reclassified  prior  period  amounts  to  reflect  this  shift and to  provide a
+consistent presentation.
+
+<TABLE>
+<CAPTION>
+                                           THREE MONTHS ENDED                     SIX MONTHS ENDED
+                                                APRIL 30,                             APRIL 30,
+                                  -------------------------------------- ------------------------------------
+                                         2003               2002               2003              2002
+                                  ------------------- ------------------ ----------------- ------------------
+                                                                (in thousands)
+<S>                              <C>                 <C>                  <C>              <C>
+Revenue:
+   Design Implementation          $     141,672       $      78,381        $   258,057       $   148,904
+   Verification and Test                 68,834              64,320            139,514           130,085
+   Design Analysis                       61,733              10,516            115,397            21,134
+   IP                                    13,208              16,161             28,980            30,958
+   Professional Services                  6,581              16,260             18,216            30,102
+                                  ------------------- ------------------ ----------------- ------------------
+     Consolidated                   $   292,028         $   185,638        $   560,164       $   361,183
+                                  =================== ================== ================= ==================
+</TABLE>
+
+
+    Beginning in fiscal 2003, product revenue reflects reconfiguration.
+
+
+
+                                       16
+<PAGE>
+
+
+
+
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+
+    This Management's Discussion and Analysis of Financial Condition and Results
+of  Operations  as of April 30,  2003 and for the three- and  six-month  periods
+ended  April  30,  2003 and  April  30,  2002,  respectively,  should be read in
+conjunction with our financial  statements  included in this Quarterly Report on
+Form 10-Q, and with Management's  Discussion and Analysis of Financial Condition
+and Results of Operations  and our financial  statements  included in our Annual
+Report on Form 10-K for the year ended October 31, 2002.
+    The following  discussion contains  "forward-looking  statements" as defined
+under  Section  21E  of  the  Securities  Exchange  Act of  1934.  For  example,
+statements   including   terms  such  as  "projects,"   "expects,"   "believes,"
+"anticipates"  or "targets," and similar such words denoting future events,  are
+forward-looking  statements.  Actual results could differ  materially from those
+anticipated in such  forward-looking  statements as a result of certain factors,
+including  those set forth under "Factors That May Affect Future Results" below.
+The cautionary  statements made in this report should be read as applying to all
+related forward-looking statements wherever they appear in this report.
+
+Overview
+
+    Synopsys  is a  leading  supplier  of  electronic  design  automation  (EDA)
+software to the global electronics  industry.  We develop,  market and support a
+wide range of integrated circuit (IC) design software products that designers of
+advanced ICs, and the electronic  systems (such as computers,  cell phones,  and
+internet  routers)  that  incorporate  such  ICs,  use to  automate  significant
+portions  of their IC design  process.  Our  products  enable our  customers  to
+optimize  their IC designs for speed,  size,  power  consumption  and production
+cost, while reducing overall design time. We also provide consulting services to
+help our customers  improve their IC design processes and, where  requested,  to
+assist them with their IC designs, as well as training and support services.
+
+Acquisitions
+
+     On March 1, 2003, we completed our  acquisition of Numerical  Technologies,
+Inc.  (Numerical) to expand our offerings of design for manufacturing  products.
+We include  Numerical's  results of operations for the period from March 1, 2003
+through  April 30, 2003 in the  accompanying  unaudited  condensed  consolidated
+statement of income for the three months ended April 30, 2003.
+
+     In fiscal 2002, we completed the  acquisitions  of: (i) Avant!  Corporation
+(Avant!),  a leading  developer  of  software  used in the  physical  design and
+physical  verification  phases of chip design; (ii) Co-Design  Automation,  Inc.
+(Co-Design),  a  developer  of  simulation  software  used  in  the  high  level
+verification stage of the chip design process;  and (iii) inSilicon  Corporation
+(inSilicon),  which developed,  marketed and licensed an extensive  portfolio of
+complex "intellectual property blocks." We include the results of operations for
+these  acquisitions  in  the  accompanying   unaudited  condensed   consolidated
+statements  of income for the period  from  November 1, 2002  through  April 30,
+2003.
+
+Critical Accounting Policies
+
+    We base the discussion  and analysis of our financial  condition and results
+of operations upon our unaudited condensed  consolidated  financial  statements,
+which we prepare in accordance with accounting  principles generally accepted in
+the United States of America. In preparing these financial  statements,  we must
+make  estimates  and  judgments  that  affect  the  reported  amounts of assets,
+liabilities,  revenues and expenses and related  disclosure of contingent assets
+and  liabilities.  On an on-going  basis,  we evaluate our estimates,  including
+those  related to  revenue  recognition,  valuation  of  strategic  investments,
+allowance  for  doubtful  accounts,  income taxes and  valuation  of  intangible
+assets.  We base our  estimates on  historical  experience  and on various other
+assumptions we believe are reasonable  under the  circumstances.  Actual results
+may differ from these estimates.
+
+
+
+                                       17
+<PAGE>
+
+
+
+    The accounting  policies that most  frequently  require us to make estimates
+and judgments,  and that are therefore  critical to understanding our results of
+operations, are:
+
+          o    Revenue  recognition;
+          o    Valuation  of strategic  investments;
+          o    Allowance for doubtful accounts;
+          o    Income taxes; and
+          o    Valuation of intangible assets.
+
+Revenue Recognition
+
+     Our revenue  recognition  policies  have been designed and  implemented  in
+accordance with Statement of Position (SOP) 97-2, Software Revenue  Recognition,
+as amended by SOP 98-9,  Modification of SOP 97-2, Software Revenue Recognition,
+With Respect to Certain  Transactions,  and SOP 98-4,  Deferral of the Effective
+Date of a Provision of SOP 97-2, Software Revenue Recognition.
+
+     We report revenue in three categories:  ratable, product and services.
+
+          o    Ratable  license  revenue  consists   primarily  of  fees  for
+               Technology   Subscription   Licenses   (TSLs)   bundled   with
+               post-contract  customer  support  (we  refer to  post-contract
+               customer  support as  maintenance or PCS) and sold as a single
+               package.  We refer to these  licenses  as TSLs.  Assuming  all
+               other  revenue  recognition  criteria  are met,  we  typically
+               recognize TSL revenue ratably over the term of the license and
+               maintenance  period as the fair  value of  maintenance  is not
+               known.
+
+               We recognize  revenue from  contracts  with  extended  payment
+               terms as the lesser of amounts due and payable,  or the amount
+               of the  arrangement fee that would have been recognized if the
+               fee were fixed or  determinable.  We  recognize  revenue  from
+               contracts with the rights to unspecified  additional  software
+               products ratably over the contract term. We recognize  revenue
+               from  TSLs  that  include  both  extended  payment  terms  and
+               unspecified  additional  software  products,  and that are not
+               considered to be fixed or  determinable,  in an amount that is
+               the lesser of amounts due and  payable or the ratable  portion
+               of the entire fee. In all of these  cases,  we  recognize  the
+               maintenance portion ratably over the contract term.
+
+          o    Product  revenue  consists  primarily  of fees  from  sales of
+               perpetual  licenses.  Assuming all other  revenue  recognition
+               criteria are met, we recognize  license revenue from perpetual
+               licenses upon delivery using the residual method.
+
+          o    Services  revenue  consists  of  fees  for  consulting  services,
+               training and maintenance  associated with perpetual licenses.  We
+               generally recognize revenue from consulting and training services
+               as they  are  performed.  We  generally  recognize  revenue  from
+               maintenance  associated with perpetual  licenses ratably over the
+               maintenance  term.  Maintenance  sold with perpetual  licenses is
+               generally   renewable,   after  any  bundled  maintenance  period
+               expires,  in one-year  increments  for a fixed  percentage of the
+               perpetual list price. Since the second quarter of fiscal 2002, we
+               have  calculated  the price of maintenance as a percentage of the
+               net license fee for certain  customers  that  purchase  perpetual
+               licenses  in  excess  of $2.0  million,  resulting  in  different
+               maintenance charges for different  customers.  In general,  under
+               this method,  the price of maintenance for these  customers,  and
+               therefore  the  services  revenue  from  arrangements  with these
+               customers,  has been substantially  lower than it would have been
+               if we had  calculated  maintenance  as a fixed  percentage of the
+               perpetual price.
+
+
+                                       18
+<PAGE>
+
+
+
+    Customers  occasionally  request the right to convert their existing TSLs to
+perpetual  licenses.  These requests  generally  occur toward the end of the TSL
+term.  Customers  pay an  incremental  fee to  convert  the  TSL to a  perpetual
+license,  which we recognize upon contract  signing,  assuming all other revenue
+recognition  criteria have been met, in accordance with AICPA Technical Practice
+Aid (TPA)  5100.74.  In some  situations,  the contract  converting the TSL to a
+perpetual  license is modified (e.g.  new  technology,  a significant  change in
+total  technology under license,  a substantial  increase or decrease in license
+fees, modified  reconfiguration  rights, etc.) such that the TSL contract has in
+substance been  terminated and replaced with a new perpetual  license.  In these
+situations,  we  account  for  all of the  arrangement  fees as a new  sale  and
+recognize revenue when all other revenue recognition  criteria have been met. We
+have a policy that defines the  circumstances  under which such transactions are
+accounted for as a new perpetual license sale. Our policy incorporates  elements
+such as length of the original TSL, the  remaining  TSL term,  the extent of the
+increase  or  decrease  in the total  technology  under  license,  the change in
+payment terms, and other pertinent factors.
+
+    We make significant judgments related to revenue recognition.  Specifically,
+in connection with each  transaction  involving our products  (referred to as an
+"arrangement"  in the  accounting  literature),  we must evaluate  whether:  (i)
+persuasive evidence of an arrangement exists, (ii) delivery has occurred,  (iii)
+our fee is "fixed or determinable,"  and (iv)  "collectibility  is probable." We
+apply these criteria as discussed below.
+
+          o    Persuasive  Evidence  of an  Arrangement  Exists.  Our  customary
+               practice  is to have a  written  contract,  signed  by  both  the
+               customer and us, or a purchase  order from those  customers  that
+               have   previously   negotiated   a  standard   end-user   license
+               arrangement or volume  purchase  agreement,  prior to recognizing
+               revenue on an arrangement.
+
+          o    Delivery  Has  Occurred.  We deliver  software  to our  customers
+               physically  or  electronically.   For  physical  deliveries,  our
+               standard  transfer  terms are typically FOB shipping  point.  For
+               electronic  deliveries,  delivery  occurs  when  we  provide  the
+               customer  access codes that allow the customer to take  immediate
+               possession of the software on its hardware.
+
+          o    The Fee is  Fixed  or  Determinable.  Our  determination  that an
+               arrangement fee is fixed or determinable  depends  principally on
+               the  arrangement's  payment  terms.  Our  historical,   customary
+               payment  terms require 75% or more of the  arrangement  fee to be
+               paid within one year or less.  Where these terms apply, we regard
+               the fee as fixed or  determinable  and we recognize  revenue upon
+               delivery of software (assuming other revenue recognition criteria
+               are met).  Arrangements  with payment terms extending  beyond the
+               customary  payment  terms  are  considered  not  to be  fixed  or
+               determinable.  We then recognize revenue in each quarter (subject
+               to  application  of other  revenue  recognition  criteria) as the
+               lesser of the  aggregate of amounts due and payable or the amount
+               of the  arrangement  fee that would have been  recognized  if the
+               fees had been fixed or  determinable.  A determination of whether
+               the  arrangement  fee is fixed or  determinable  is  particularly
+               relevant to revenue recognition on perpetual licenses.
+
+          o    Collectibility is Probable.  To recognize revenue,  we must judge
+               collectibility  of  the  arrangement  fees,  which  we  do  on  a
+               customer-by-customer  basis pursuant to our credit review policy.
+               We  typically  sell to  customers  with whom we have a history of
+               successful  collection.  For  a new  customer,  we  evaluate  the
+               customer's  financial  position and ability to pay, and typically
+               assign a credit  limit  based on that  review.  We  increase  the
+               credit  limit  only  after  we  have   established  a  successful
+               collection history with the customer. If we determine at any time
+               that  collectibility is not probable based upon our credit review
+               process, we recognize revenue on a cash-collected basis.
+
+
+
+
+                                       19
+<PAGE>
+
+
+
+Valuation of Strategic Investments
+
+    We review our  investments in non-public  companies on a quarterly basis and
+estimate the amount of any impairment  incurred  during the current period based
+on a specific  analysis of each  investment,  considering  the activities of and
+events  occurring  at each of the  underlying  portfolio  companies  during  the
+quarter. Our portfolio companies operate in industries that are rapidly evolving
+and extremely competitive.  For equity investments in non-public companies where
+market  value  is not  readily  determinable,  we  assess  each  investment  for
+indicators of impairment at each quarter end based  primarily on  achievement of
+business plan objectives and current market conditions, among other factors, and
+information available to us at the time of assessment. The primary business plan
+objectives  we  consider  include  achievement  of  planned  financial  results,
+completion  of capital  raising  activities,  the launching of  technology,  the
+hiring of key  employees  and the portfolio  company's  overall  progress on its
+business plan. If we determine an investment in a portfolio company is impaired,
+absent quantitative valuation metrics management estimates the impairment and/or
+the net  realizable  value of the  portfolio  investment  based on  public-  and
+private-company  market  comparable  information  and  valuations  completed for
+companies similar to our portfolio  companies.  Future adverse changes in market
+conditions,   poor  operating  results  of  underlying   investments  and  other
+information  obtained after our quarterly  assessment could result in additional
+losses or an inability to recover the current  carrying value of the investments
+thereby requiring a further impairment charge in the future.
+
+Allowance For Doubtful Accounts
+
+     Management  estimates  the  collectibility  of  accounts  receivable  on an
+account-by-account  basis, and establishes a specific reserve for any particular
+receivable when we determine  collectibility  is not probable.  In addition,  we
+provide a general  reserve on all accounts  receivable,  which we calculate as a
+percentage,   determined   within  a  specified  range  of  percentages  of  the
+outstanding  balance in each aged group.  In  determining  this  percentage,  we
+specifically  analyze  accounts  receivable and historical bad debt  experience,
+customer  creditworthiness,  current  economic trends,  international  exposures
+(such as currency  devaluation),  and changes in our customer  payment  terms to
+evaluate the adequacy of the allowance for doubtful  accounts.  If the financial
+condition  of our  customers  deteriorates,  impairing  their  ability  to  make
+payments, we may need to establish additional allowances.
+
+Income Taxes
+
+     The relative  proportions  of our  domestic and foreign  revenue and income
+directly affect our effective tax rate. We are also subject to changing tax laws
+in the multiple jurisdictions in which we operate. As of April 30, 2003, current
+net deferred tax assets and long-term  liabilities  totaled  $270.1  million and
+$31.2  million,  respectively.  We believe it is more  likely  than not that our
+results of future operations will generate  sufficient taxable income to utilize
+our net deferred tax assets.  While we have considered future taxable income and
+ongoing  prudent and feasible tax planning  strategies in assessing the need for
+any valuation allowance,  if we determine we would not be able to realize all or
+part of our net deferred tax assets in the future,  we would charge to income an
+adjustment to the deferred tax assets in the period we make that determination.
+
+Valuation of Goodwill and Intangible Assets
+
+    We periodically evaluate our intangible assets for indications of impairment
+whenever events or changes in circumstances indicate that the carrying value may
+not be recoverable.  Intangible assets consist of purchased technology, contract
+rights  intangible,   customer  installed  base/relationships,   trademarks  and
+tradenames, covenants not to compete, customer backlog and capitalized software.
+Factors we consider  important which could trigger an impairment  review include
+significant  under-performance  relative to  expected  historical  or  projected
+future operating  results,  significant  changes in the manner of our use of the
+acquired assets or the strategy for our overall business or significant negative
+industry or economic trends. If this evaluation  indicates that the value of the
+intangible asset may be impaired, we make an assessment of the recoverability of
+the net carrying  value of the asset over its  remaining  useful  life.  If this
+assessment indicates that the intangible asset is not recoverable,  based on the
+
+
+
+                                       20
+<PAGE>
+
+
+estimated  undiscounted  future cash flows of the acquired  entity or technology
+over the remaining amortization period, we will reduce the net carrying value of
+the  related  intangible  asset  to fair  value  and may  adjust  the  remaining
+amortization  period.  Any such impairment charge could be significant and could
+have a material adverse effect on our reported financial statements.
+
+     We periodically  evaluate goodwill for an indication of impairment whenever
+events or changes in  circumstances  indicate that the carrying value may not be
+recoverable.  At a minimum,  we complete  this  evaluation on an annual basis in
+accordance  with Statement of Financial  Standards No. 142 (SFAS 142),  Goodwill
+and Other Intangible Assets. If this evaluation  indicates that the value of the
+goodwill  may be  impaired,  we  make an  assessment  of the  impairment  of the
+goodwill using the two step method  prescribed by SFAS 142. Any such  impairment
+charge  could be  significant  and could have a material  adverse  effect on our
+reported financial statements.
+
+Results of Operations
+
+     Adoption of Subscription  Licenses;  Impact on Revenue. Prior to the fourth
+quarter of fiscal 2000,  we  principally  licensed  our  software via  perpetual
+licenses and "term" licenses (a type of time-based  license),  with  maintenance
+purchased separately.  We generally recognize revenue from these licenses in the
+quarter  we ship  the  product  (or "up  front"),  and  recognize  revenue  from
+maintenance ratably over the support period.
+
+    In the fourth  quarter of fiscal 2000,  we  discontinued  term  licenses and
+introduced  technology  subscription  licenses (TSLs). A TSL is a license to use
+one or more of our  software  products  for a  specified  period  of time and to
+receive support  services (such as hotline support and updates) for a concurrent
+period of time. Since products and maintenance are bundled in TSLs, we generally
+recognize  both  product and service  TSL revenue  ratably  over the term of the
+license, or, if later, as payments become due. Accordingly, when a customer buys
+a TSL, we recognize  relatively  little  revenue during the quarter we initially
+deliver the product.  We either  record the remaining  amount not  recognized as
+deferred  revenue on our balance sheet,  or consider it operational or financial
+backlog  and do not  record it on the  balance  sheet.  The amount  recorded  as
+deferred revenue is equal to the portion of the license fee invoiced or paid but
+not  recognized.  The amount  considered  backlog  moves out of  backlog  and is
+recorded as deferred  revenue when invoiced or as additional  payments are made.
+We reduce  deferred  revenue as we recognize  revenue.  Because under  perpetual
+licenses,  we recognize a high  proportion of all license revenue in the quarter
+we  deliver  the  product,  a TSL  order  will  result  in  significantly  lower
+current-period  revenue  than an  equal-sized  order for a  perpetual  or a term
+license.  Conversely,  an  order  for a  TSL  will  result  in  higher  revenues
+recognized in future periods than an  equal-sized  order for a perpetual or term
+license.  For example,  a $120,000 order for a perpetual  license will result in
+$120,000  of revenue  recognized  in the  quarter  the product is shipped and no
+revenue  in future  quarters.  The same  order for a 3-year  TSL  shipped at the
+beginning  of the quarter  will result in $10,000 of revenue  recognized  in the
+quarter the product is shipped and in each of the 11 succeeding quarters.
+
+    On an aggregate basis,  introducing TSLs has had, and will continue to have,
+a significant impact on our reported revenue. When we adopted TSLs in the fourth
+quarter of fiscal 2000,  our reported  revenue  dropped  significantly.  In each
+quarter since  adoption,  our ratable  revenue has grown as TSL orders  received
+each quarter  contribute  revenue that is "layered" over the revenue  recognized
+from TSL orders received in prior quarters.  This effect will repeat itself each
+quarter in varying  degrees  until the TSL model is fully phased in; during this
+transition  period  ratable  revenue  will  continue to grow even if the overall
+level of TSL orders does not grow,  and could grow even if the overall  level of
+TSL  orders  declines.  The phase in period  of the TSL  model is  difficult  to
+predict.  Since our  introduction  of TSLs,  the average TSL  duration  has been
+approximately 13 quarters.  Therefore, absent any acquisitions,  the model would
+have  been  substantially  phased  in by the  end of  fiscal  2003.  The  Avant!
+acquisition  extended  the phase in period  due to  Avant!'s  heavier  weighting
+towards  perpetual  licenses.  The phase in could be  further  extended  to some
+extent by any future acquisitions we make of companies whose license mix is more
+heavily weighted toward perpetual licenses than ours. Over the long term, as the
+TSL model becomes more fully phased in,  average  revenue  growth should closely
+track average orders growth.
+
+
+
+                                       21
+<PAGE>
+
+
+    Synopsys'  revenue in any given quarter depends upon the volume of perpetual
+orders  shipped  during the quarter,  the amount of TSL revenue  amortized  from
+deferred  revenue (or recognized out of backlog from TSL licenses shipped during
+a prior quarter),  and, to a small degree,  the amount of revenue  recognized on
+TSL orders received during the quarter. We set our revenue targets for any given
+period based,  in part,  upon an assumption that we will achieve a certain level
+of orders and a certain  license mix of perpetual  licenses and TSLs. The actual
+mix of licenses sold in any quarter, and more precisely, the amount of perpetual
+licenses  sold  during the  quarter,  affects the  revenue we  recognize  in the
+period. If we achieve the target level of total orders but are unable to achieve
+our target license mix, we may fall short of our revenue  targets (if TSL orders
+are higher than expected),  or may exceed them (if perpetual licenses are higher
+than  expected).  If we achieve the target  license mix but the overall level of
+orders is below the target level, then we will not meet our revenue targets.
+
+    The precise mix of orders is subject to substantial fluctuation in any given
+quarter or multiple quarter periods.  Our historical  license order mix from our
+adoption of TSLs in August 2000 to the present has been 23%  perpetual  licenses
+and 77% ratable licenses,  although the percentage of perpetual  licenses in any
+given quarter has been as high as 28% and as low as 13%. The license mix for the
+three  months  ended April 30, 2003 was 26%  perpetual  licenses and 74% TSLs as
+compared to 21%  perpetual  licenses  and 79% TSLs for the same period in fiscal
+2002.  Our target  license mix for new software  orders for the third quarter of
+fiscal 2003 is 20% to 25%  perpetual  licenses and 75% to 80% ratable  licenses.
+Our target  license  mix for new  software  orders for fiscal 2003 is 20% to 25%
+perpetual licenses and 75% to 80% ratable licenses.
+
+Revenue
+
+    Total  revenue for the three  months ended April 30, 2003  increased  57% to
+$292.0 million as compared to $185.6 million for the same period in fiscal 2002.
+Total  revenue for the six months ended April 30, 2003  increased  55% to $560.2
+million as compared to $361.2  million for the same period in fiscal  2002.  The
+increase in total revenue in the current  periods is primarily due to the Avant!
+acquisition in June 2002, to the additional  quarters that the TSL license model
+has been in  effect  and to  significant  product  revenue  from  the our  Japan
+operations  during the second quarter of fiscal 2003. For the three months ended
+April 30,  2003 our  operations  in Japan  contributed  $102.1  million to total
+revenue,  as compared to $17.0  million for the same period in fiscal 2002.  The
+increased  contribution  from Japan was due  principally  to the  renewal of our
+license  arrangements  with  many  of our  largest  Japanese  customers  and the
+relatively  high  proportion  of  Japanese  customers  who  purchased  perpetual
+licenses.  We expect the contribution  from Japan to return to historical levels
+in the third quarter and beyond.
+
+    Ratable  license revenue for the three months ended April 30, 2003 increased
+119% to $148.1  million as  compared  to $67.6  million  for the same  period in
+fiscal  2002.  Ratable  license  revenue for the six months ended April 30, 2003
+increased  115% to $289.3  million as  compared  to $134.5  million for the same
+period in fiscal  2002.  The increase in ratable  license  revenue is due to the
+additional  quarters  that  the TSL  license  model  has  been  used  and to the
+increased volume of ratable license sales resulting from the Avant! merger.
+
+    Product  revenue for the three months ended April 30, 2003  increased 57% to
+$82.0  million as compared to $52.3  million for the same period in fiscal 2002.
+Product  revenue for the six months ended April 30, 2003 increased 49% to $136.5
+million as compared to $91.8  million  for the same period in fiscal  2002.  The
+increase  in  product  revenue  is  primarily  due to the  increased  volume  of
+perpetual licenses  resulting from the Avant!  merger delivered during the three
+and six month periods as compared to the same periods in fiscal 2002. During the
+second  quarter  of  fiscal  2002,  we  began  offering   variable   maintenance
+arrangements to certain customers that entered into perpetual license technology
+arrangements  in  excess  of $2.0  million.  These  arrangements  accounted  for
+approximately  89% and 78% of our  product  sales for the  three and six  months
+ended April 30, 2003, respectively, as compared to approximately 56% and 32% for
+the same periods in fiscal 2002, respectively.
+
+    Service  revenue for the three months  ended April 30, 2003  decreased 6% to
+$62.0  million as compared to $65.8  million for the same period in fiscal 2002.
+Service revenue for the six months ended April 30, 2003 remained relatively flat
+at $134.4  million as compared  to $134.9  million for the same period in fiscal
+2002. The decline in service  revenue is due to several  factors we believe will
+
+
+                                       22
+<PAGE>
+
+
+
+result in a continued year-over-year decline in service revenue during the third
+and fourth quarters of fiscal 2003.  First,  our new licenses are  predominately
+TSLs rather than perpetual licenses.  With TSLs, maintenance is bundled with the
+software and recognized as ratable license revenue, not service revenue.
+
+    Second,  our  introduction of variable  maintenance in the second quarter of
+fiscal 2002 for technology commitments in excess of $2.0 million has resulted in
+substantially  lower  maintenance  fees on  these  licenses  than  on  perpetual
+licenses with  maintenance  rates  calculated as a fixed  percentage of the list
+price.
+
+    Third,  economic conditions have negatively  affected,  and will continue to
+negatively  affect our service  revenue.  Some  customers  have sought to reduce
+their costs by curtailing  their use of outside  consultants or by discontinuing
+maintenance on their perpetual licenses. As a result, both new consulting orders
+and  maintenance  renewal  orders have been,  and are expected to continue to be
+lower in fiscal 2003 than they were in fiscal 2002.  Customers have also reduced
+expenditures on training,  which has accordingly  reduced revenue from training.
+We expect these  conditions to continue at least until research and  development
+spending by the semiconductor industry recovers.
+
+    Revenue  Seasonality.  Orders and revenue are typically  lowest in our first
+fiscal quarter and highest in our fourth fiscal quarter, with a material decline
+between the fourth  quarter of one fiscal year and the first quarter of the next
+fiscal  year.  The  difference  in  revenue  is driven  largely by the volume of
+perpetual  licenses we ship during the quarter,  which,  following  the seasonal
+pattern of overall  orders,  typically  declines from the fourth  quarter to the
+first quarter.
+
+    Revenue - Product Groups. For management reporting purposes, we organize our
+products into four distinct product groups - Design Implementation, Verification
+and Test, Design Analysis, Intellectual Property (IP) and Professional Services.
+The following table  summarizes the license and associated  maintenance  revenue
+attributable  to these groups as a percentage of total  Company  revenue for the
+last eight  quarters.  Revenue from  companies or products  acquired  during the
+periods covered are included from the original  acquisition date through the end
+of the  period.  As a result of the Avant!  merger,  we  redefined  our  product
+groups,  effective  in the third  quarter of fiscal 2002.  We have  reclassified
+prior period amounts to reflect this  reclassification  and provide a consistent
+presentation.
+
+<TABLE>
+<CAPTION>
+
+                          Q2-2003   Q1-2003    Q4-2002   Q3-2002    Q2-2002    Q1-2002   Q4-2001    Q3-2001
+                         ---------- --------- ---------- --------- ---------- ---------- --------- ----------
+<S>                     <C>        <C>        <C>       <C>        <C>        <C>       <C>        <C>
+Revenue
+
+  Design Implementation      49%        44%       46%        44%      42%         40%        42%       39%
+  Verification and Test      24         26        26         27       34          38         34        34
+  Design Analysis            21         20        19         17        6           6          6         6
+  IP                          4          6         5          5        9           8          9        10
+  Professional Services       2          4         4          7        9           8          9        11
+                         ---------- --------- ---------- --------- ---------- ---------- --------- ----------
+   Total Company            100%       100%      100%       100%     100%        100%       100%      100%
+                         ========== ========= ========== ========= ========== ========== ========= ==========
+</TABLE>
+
+
+    Design  Implementation.  Design  Implementation  includes  products  used to
+design a chip from a high level functional description to a complete description
+of the  transistors  and  connections  that implement such functions that can be
+delivered to a semiconductor  company for manufacturing.  Design  Implementation
+technologies  include logic synthesis,  physical  synthesis,  floor planning and
+place-and-route  products  and  technologies.  Our  principal  products  in this
+category  at April 30,  2003  were  Design  Compiler,  Physical  Compiler,  Chip
+Architect,  Floorplan  Compiler,  Jupiter,  Apollo and Astro. As a percentage of
+total  revenue,  Design  Implementation  fluctuated  between  39% and 49% in the
+period  from the third  quarter of fiscal  2001  through  the second  quarter of
+fiscal 2003.  Between any two quarters,  this  percentage may fluctuate based on
+the  configuration  of perpetual  license  orders  received  during the quarter.
+During  the  eight  quarter  period,  however,  Design  Implementation  products
+generally  increased as a percentage  of total  revenue  reflecting  our growing
+portfolio of Design Implementation products during the period, most notably with
+the Avant! merger, the addition of Apollo and Astro to our product portfolio and
+the introduction of Physical Compiler.
+
+    Verification  and Test.  Verification  and Test  includes  products used for
+verification and analysis performed at the system level, register transfer level
+and gate  level  of  design,  including  simulation,  system  level  design  and
+
+
+
+                                       23
+<PAGE>
+
+
+verification,  timing analysis, formal verification,  test and related products.
+Our  principal  products in this  category  are VCS,  Polaris,  Vera,  PathMill,
+CoCentric System Studio,  PrimeTime,  Formality,  Design Verifyer, DFT Compiler,
+TetraMax and SoCBIST, which are used in several different phases of chip design.
+As a percentage of total revenue,  revenue from this product  family  fluctuated
+between 24% and 38% in the period from the third  quarter of fiscal 2001 through
+the  second  quarter  of fiscal  2003,  principally  attributable  to the mix of
+perpetual  versus TSL orders received for  Verification and Test products during
+any given quarter.  Beginning in the third quarter of fiscal 2002,  Verification
+and Test revenues as a percent of total company revenue were lower,  principally
+because the former Avant!  products  included few verification  products and may
+also be due to price competition in the market for logic simulation products.
+
+    Design Analysis. Design Analysis includes products used for verification and
+analysis performed  principally  during the physical  verification phase of chip
+design,  including  analog and mixed  signal  circuit  simulation,  design  rule
+checking,  power analysis,  customer design,  semiconductor process modeling and
+reliability  analysis.  Our  principal  products in this  category  are NanoSim,
+StarSim, HSPICE, StarRC, Arcadia, TCAD, Hercules, Venus, Proteus, PrimePower and
+Cosmos. The increase in revenue from this product group as a percentage of total
+revenue  increased  from a steady  level of 6% to 17% in the  third  quarter  of
+fiscal 2002  primarily due to the Avant!  acquisition,  as the products added to
+our Design Analysis category  represented the second largest portion of Avant!'s
+revenue before the acquisition,  after design  implementation  tools. We believe
+that the  continued  increase in  contribution  from these  products  since that
+quarter  primarily  reflects  customers'  growing  acceptance of design analysis
+technologies to address their design challenges.
+
+    Intellectual  Property. Our IP products include the DesignWare library of IC
+design components and verification  models,  and products acquired in the merger
+with inSilicon in September 2002. As a percentage of total revenue, revenue from
+this product group was  relatively  stable from the third quarter of fiscal 2001
+through the second quarter of fiscal 2002, reflecting growth consistent with our
+average.  Beginning  in the  third  quarter  of fiscal  2002,  IP  revenue  as a
+percentage  of total  revenue  decreased  principally  because the former Avant!
+products included few IP offerings.
+
+    Professional  Services.  The Professional Services group includes consulting
+and training  activities.  This group provides  consulting  services,  including
+design methodology  assistance,  specialized  telecommunications  systems design
+services and turnkey design. As a percentage of total revenue, revenue from this
+product group has declined from 11% in the third quarter of fiscal 2001 to 2% in
+the second quarter of fiscal 2003,  reflecting the fact that Avant! did not have
+a  significant  professional  services  business  and, as described  above under
+"Revenue," the impact of the economic environment.
+
+Cost of Revenue
+
+     Total cost of revenue as a percentage of total revenue for the three months
+ended  April 30,  2003 was 20% as  compared to 19% for the same period in fiscal
+2002.  Total cost of revenue as a percentage of total revenue for the six months
+ended  April 30,  2003 was 21% as  compared to 19% for the same period in fiscal
+2002. These results occurred even though  amortization of intangible  assets and
+deferred  stock  compensation  increased as a percentage of total revenue due to
+the  increase in quarterly  amortization  of deferred  revenue and  backlog,  an
+inherent  result  of the  ratable  license  model;  other  cost  of  goods  sold
+components  remained  relatively  stable. Our total product costs are relatively
+fixed and do not fluctuate  significantly  with changes in revenue or changes in
+revenue recognition methods.
+
+     The dollar  increase  in total cost of revenue for the three  months  ended
+April 30, 2003 to $59.4 million as compared to $34.4 million for the same period
+in  fiscal  2002  is due to an  increase  in  amortization  of  contract  rights
+intangible  and   core/developed   technology   recorded  as  a  result  of  our
+acquisitions  in fiscal  2003 and 2002.  The  dollar  increase  in total cost of
+revenue for the six months ended April 30, 2003 to $118.7 million as compared to
+$69.6  million  for the same  period in  fiscal  2002 is due to an  increase  in
+amortization  of  contract  rights  intangible  and  core/developed   technology
+recorded as a result of our  acquisitions  in fiscal  2003 and 2002,  additional
+royalties of $1.5 million and other special termination  benefits,  as discussed
+below under "Work Force Reduction," of $1.2 million.
+
+
+
+                                       24
+<PAGE>
+
+
+     Cost of  revenue  amortization  of  intangible  assets and  deferred  stock
+compensation  includes  the  amortization  of  the  contract  rights  intangible
+associated  with certain  executory  contracts  related to the  acquisitions  of
+Avant!,   inSilicon  and  Numerical,  and  the  amortization  of  core/developed
+technology related to the acquisitions of Avant!, inSilicon and Co-Design. Total
+amortization  of  intangible  assets  included in cost of revenues for the three
+months ended April 30, 2003 was $24.3 million,  which includes $19.2 million and
+$5.0  million for  core/developed  technology  and contract  rights  intangible,
+respectively.  Total  amortization  of  intangible  assets  included  in cost of
+revenues  for the six  months  ended  April 30,  2003 was $45.1  million,  which
+includes  $35.4  million and $9.4  million  for  core/developed  technology  and
+contract rights intangible, respectively.
+
+Work Force Reduction
+
+    We reduced  our  workforce  during the first  quarter of fiscal 2003 and the
+second quarter of fiscal 2002. The purpose was to reduce  expenses by decreasing
+the number of employees in all departments in domestic and foreign locations. As
+a result,  we decreased  our  workforce by  approximately  200 and 175 employees
+during the first  quarter of fiscal 2003 and the second  quarter of fiscal 2002,
+respectively.  The associated charge for the six months ended April 30, 2003 was
+$4.4 million as compared to $3.9 million for the same period in fiscal 2002. The
+charge  consists of  severance  and other  special  termination  benefits and is
+reflected  in the  unaudited  condensed  consolidated  statement  of  income  as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                THREE MONTHS ENDED             SIX MONTHS ENDED
+                                                    APRIL 30,                     APRIL 30,
+                                           ----------------------------- ----------------------------
+                                                2003          2002            2003           2002
+                                           ------------ ---------------  -------------- -------------
+                                                               (in thousands)
+<S>                                       <C>           <C>            <C>            <C>
+Cost of revenue                            $         --  $        678   $      1,167   $        678
+Research and development                             --         1,081          1,388          1,081
+Sales and marketing                                  --         1,078          1,239          1,078
+General and administrative                           --         1,033            630          1,033
+                                           ------------- -------------- -------------- --------------
+Total                                      $         --  $      3,870   $      4,424   $      3,870
+                                           ============= ============== ============== ==============
+</TABLE>
+
+
+Research and Development
+
+     Research and development expenses for the three months ended April 30, 2003
+increased  47% to $68.6 million as compared to $46.6 million for the same period
+in fiscal 2002. The increase consists primarily of $14.4 million in research and
+development  personnel and related costs as a result of  acquisitions  in fiscal
+2002 and 2003, and $7.6 million in human resources,  information  technology and
+facilities costs as a result of the increased research and development staffing.
+
+     Research and  development  expenses for the six months ended April 30, 2003
+increased 43% to $135.9 million as compared to $95.4 million for the same period
+in fiscal 2002. The increase consists primarily of $23.5 million in research and
+development  personnel and related costs as a result of  acquisitions  in fiscal
+2002 and 2003, and $15.0 million in increased  allocations  of human  resources,
+information  technology  and facilities  costs to research and  development as a
+result of the increase in research and development  headcount as a percentage of
+total headcount.
+
+Sales and Marketing
+
+    Sales and  marketing  expenses  for the three  months  ended  April 30, 2003
+increased  28% to $81.0 million as compared to $63.2 million for the same period
+in fiscal 2002. The increase  consists  primarily of $18.4 million in additional
+sales and marketing  personnel and related costs as a result of  acquisitions in
+fiscal 2002 and 2003.
+
+    Sales and  marketing  expenses  for the six  months  ended  April  30,  2003
+increased  24% to $152.2  million as  compared  to $123.0  million  for the same
+period in fiscal 2002.  The  increase  consists  primarily  of $29.5  million in
+
+
+
+                                       25
+<PAGE>
+
+
+additional  sales  and  marketing  personnel  and  related  costs as a result of
+acquisitions in fiscal 2002 and 2003.
+
+General and Administrative
+
+    General and  administrative  expenses  for the three  months ended April 30,
+2003  increased  38% to $24.2  million as compared to $17.5 million for the same
+period in fiscal  2002.  The  increase  consists  primarily  of $5.2  million in
+additional general and administrative personnel and related costs as a result of
+acquisitions  in fiscal 2002 and 2003,  $2.0 million in facilities  costs,  $1.9
+million in bad debt expense and $1.5 million in  depreciation on upgrades to our
+information technology infrastructure. These increases were offset by a decrease
+of $5.4 million in  allocations  of human  resources,  technology and facilities
+costs to  general  and  administrative  expenses  as a result of a  decrease  in
+general and administrative headcount as a percentage of total headcount.
+
+    General and administrative  expenses for the six months ended April 30, 2003
+increased  29% to $46.8 million as compared to $36.2 million for the same period
+in fiscal 2002.  The increase  consists  primarily of $7.6 million in additional
+general  and  administrative   personnel  and  related  costs  as  a  result  of
+acquisitions since the last half of fiscal 2002, $3.8 million in depreciation on
+upgrades  to  our  information  technology   infrastructure,   $2.8  million  in
+facilities costs, $1.9 million in maintenance  agreements covering more software
+and  computing  equipment  due to  acquisitions  in fiscal  2002 and 2003 and an
+increase  in  litigation  expenses  relating  to certain  legal  actions.  These
+increases  were offset by a decrease  of $9.8  million in  allocations  of human
+resources,  technology  and  facilities  costs  to  general  and  administrative
+expenses as a result of a decrease in general and administrative  headcount as a
+percentage of total headcount.
+
+In-Process Research and Development
+
+    Purchased  in-process  research and development (IPRD) for the three and six
+months ended April 30, 2003 was $18.3  million and  represents  the write-off of
+in-process  technologies  associated with our  acquisition of Numerical.  At the
+date of the acquisition,  the projects  associated with the IPRD efforts had not
+yet reached  technological  feasibility  and the  research  and  development  in
+process had no alternative future uses. Accordingly, this amount was expensed on
+the  acquisition  date.  There were no  acquisitions  during the same periods in
+fiscal 2002.
+
+Amortization of Intangible Assets and Deferred Stock Compensation
+
+     Amortization of intangible assets and deferred stock compensation  includes
+the  amortization  of  trademarks,   trade  names,  customer  relationships  and
+covenants not-to-compete and is included in operating expenses as follows:
+<TABLE>
+<CAPTION>
+                                                  THREE MONTHS ENDED             SIX MONTHS ENDED
+                                                      APRIL 30,                     APRIL 30,
+                                           ----------------------------- -----------------------------
+                                                2003           2002           2003           2002
+                                           ------------- --------------- -------------- --------------
+                                                                   (in thousands)
+<S>                                       <C>           <C>            <C>            <C>
+Intangible assets                          $      8,016  $        464   $     14,816   $        616
+Deferred stock compensation                       1,153            --          2,343             --
+Goodwill                                             --         3,892             --          7,784
+                                           ------------- -------------- -------------- --------------
+Total                                      $      9,169  $      4,356   $     17,159   $      8,400
+                                           ============= ============== ============== ==============
+</TABLE>
+
+
+     The increase in amortization  of intangible  assets is due primarily to the
+acquisitions  since fiscal 2002 and 2003 and is offset by a decrease in goodwill
+amortization as a result of the adoption of SFAS 142.
+
+
+
+
+                                       26
+<PAGE>
+
+
+
+    The following table presents the estimated  future  amortization of deferred
+stock compensation (in thousands):
+
+                   Fiscal Year
+                   2003 - remainder of fiscal year          $      2,551
+                   2004                                            4,141
+                   2005                                            2,800
+                   2006                                            1,057
+                   2007 and thereafter                               295
+                                                            --------------
+                   Total estimated future amortization of
+                     deferred stock compensation            $     10,844
+                                                            ==============
+
+Other Income, Net
+
+    Other income, net for the three months ended April 30, 2003 was $7.5 million
+and consisted  primarily of the  following:  (i) realized gain on investments of
+$3.9 million; (ii) rental income of $2.7 million;  (iii) interest income of $1.1
+million;  (iv) amortization of premium forwards and foreign currency forwards of
+$1.0  million;  and (v)  impairment  charges  related to  certain  assets in our
+venture portfolio of $1.1 million.
+
+    Other  income,  net for the three  months  ended  April  30,  2002 was $11.2
+million  and  consisted  primarily  of  the  following:  (i)  realized  gain  on
+investments of $6.9 million; (ii) rental income of $2.4 million;  (iii) interest
+income  of  $2.3  million;  (iv) a net  gain  of  $3.1  million  related  to the
+termination fee for the IKOS agreement net of costs incurred; and (v) impairment
+charges related to certain assets in our venture portfolio of $3.5 million.
+
+    Other income,  net for the six months ended April 30, 2003 was $16.7 million
+and consisted  primarily of the  following:  (i) realized gain on investments of
+$11.5 million; (ii) rental income of $5.2 million; (iii) interest income of $2.3
+million;  (iv) amortization of premium forwards and foreign currency forwards of
+$2.1 million;  (v) impairment  charges  related to certain assets in our venture
+portfolio  of $2.1  million;  and (vi) other  miscellaneous  expenses  including
+foreign exchange gains and losses recognized during the quarter of $2.3 million.
+
+    Other income,  net for the six months ended April 30, 2002 was $22.3 million
+and consisted  primarily of the  following:  (i) realized gain on investments of
+$13.5 million; (ii) rental income of $4.8 million; (iii) interest income of $4.5
+million;  (iv) a net gain of $3.1 million related to the termination fee for the
+IKOS  agreement net of costs  incurred;  and (v) impairment  charges  related to
+certain assets in our venture portfolio of $3.5 million.
+
+Liquidity and Capital Resources
+
+    Cash, cash equivalents and short-term  investments  decreased $22.6 million,
+or 5%, to $392.1  million at April 30, 2003 from  $414.7  million at October 31,
+2002.  Cash provided by operations  was $151.5  million for the six months ended
+April 30, 2003.  Cash was provided by net income  adjusted for non-cash  related
+items and for cash flows related to hedging activities, partially offset by cash
+used for changes in working capital  balances,  including  decreases in accounts
+payables and accrued  liabilities and increases in receivables  partially offset
+by deferred revenue.  Accounts  receivable and deferred revenue increased due to
+the timing of  installment  billings to  customers  on  long-term  arrangements.
+Accounts  payable and accrued  liabilities  decreased as a result of payments of
+merger-related accruals,  commissions and year-end bonuses,  partially offset by
+year-to-date accruals.
+
+    Cash used in  investing  activities  was $189.1  million  for the six months
+ended April 30, 2003 as compared to cash  provided by  investing  activities  of
+$144.6 million for the same period in fiscal 2002. The decrease in cash provided
+by  investing  activities  of $333.7  million is  primarily  due to two factors.
+During  the six  months  ended  April 30,  2003,  we spent  $162.5  million  for
+acquisitions,  net of cash received from the acquired  companies.  There were no
+acquisitions during the six months ended April 30, 2002. Net purchases of short-
+and  long-term  investments  totaled $5.6 million for the six months ended April
+30,  2003 as  compared  to net  proceeds  from  sales of  short-  and  long-term
+
+
+
+                                       27
+<PAGE>
+
+
+investments of $172.0 million for the same period in fiscal 2002.  This decrease
+in cash provided in investing  activities  was offset by a decrease in cash used
+for capital expenditures.  Capital expenditures totaled $19.7 million during the
+six months ended April 30, 2003 as compared to $26.5 million for the same period
+in fiscal 2002. The prior period included  expenses for the  construction of our
+Oregon   facilities   and  for  computing   equipment  to  upgrade  our  systems
+infrastructure; these projects were completed in fiscal 2002.
+
+    Cash used in financing  activities was $4.4 million for the six months ended
+April 30, 2003 as compared to cash  provided by  financing  activities  of $76.4
+million for the same period in fiscal  2002.  The  decrease of $80.8  million in
+cash  provided by financing  activities  is primarily  due to the  repurchase of
+treasury  stock of $67.8 million during the six months ended April 30, 2003, and
+a decrease in proceeds  from the sale of shares  pursuant to our employee  stock
+option plans.  We did not  repurchase  any treasury  stock during the six months
+ended April 30, 2002.
+
+    Accounts receivable, net of allowances,  increased $38.8 million, or 19%, to
+$246.0 million at April 30, 2003 from $207.2  million at October 31, 2002.  Days
+sales outstanding,  calculated based on revenues for the most recent quarter and
+accounts receivable at the balance sheet date, increased to 77 days at April 30,
+2003 from 61 days at October 31, 2002. The increase in days sales outstanding is
+due to a decrease in total  revenue for the three months ended April 30, 2003 as
+compared to the three months ended  October 31, 2002 and an increase in accounts
+receivable due to the timing of  installment  billings to customers on long-term
+arrangements.
+
+    On March 1, 2003, we completed our  acquisition  of Numerical  Technologies,
+Inc. We paid  Numerical  common stock holders $7.00 in cash in exchange for each
+share of Numerical  common stock owned as of the merger date,  or  approximately
+$240.7  million in total.  We paid for  Numerical  common stock out of our cash,
+cash equivalents and short-term investments.
+
+Factors That May Affect Future Results
+
+Continued  weakness  in  the  semiconductor  and  electronics   businesses  will
+negatively impact our business.
+
+     Synopsys' business depends on the semiconductor and electronics industries.
+During 2001 and 2002, these industries  experienced steep declines in orders and
+revenue.  Although there have been some positive indicators in the semiconductor
+and  electronics  industries  in late  2002 and  early  2003,  recovery  remains
+uncertain and subject to  significant  risks.  Continuation  or worsening of the
+current conditions in the semiconductor and electronics  industries or continued
+consolidation  among our customers  would have a material  adverse effect on our
+financial results.
+
+     Customers  continue to report a  significant  lack of  visibility  in their
+businesses, which has affected their buying behavior. Customers are scrutinizing
+their purchases of electronic  design  automation (EDA) software very carefully.
+In addition,  they are  increasingly  demanding,  and we have granted,  extended
+payment terms on their purchases, negatively affecting our cash flow.
+
+     Demand  for  EDA  products  depends  largely  upon  new  design  starts  by
+semiconductor  manufacturers and their customers,  the increasing  complexity of
+designs and the number of design engineers. Since the beginning of 2001, several
+developments  have  negatively  impacted  our  orders  and  revenue:   (i)  many
+semiconductor  and  electronics  companies  have  cancelled  or deferred  design
+projects and reduced their design engineering  staffs; (ii) the formation of new
+companies engaged in semiconductor design,  traditionally an important source of
+new  business  for us, has  slowed  significantly;  and (iii) a small  number of
+existing  customers  have  gone  out  of  business,  while  others  have  had to
+substantially curtail their operations. To the extent these conditions continue,
+our business,  operating results and financial  condition will be materially and
+adversely affected.
+
+     Further,  partnerships  and/or mergers in the semiconductor and electronics
+industries  may also  negatively  affect  demand for our products and  services.
+
+
+
+                                       28
+<PAGE>
+
+
+Given  current  market  conditions,  the rate of mergers  and  acquisitions  may
+increase during the remainder of 2003, which could reduce the aggregate level of
+purchases of our products and services by the companies involved.
+
+Our revenue and earnings may fluctuate,  which could cause our financial results
+not to meet expectations.
+
+    Many factors affect our revenue and earnings, making it difficult to predict
+revenue and earnings for any given fiscal  period.  Accordingly,  our  financial
+results may not meet  investor and analyst  expectations,  which could cause our
+stock price to decline. Among these factors are customer demand, product license
+terms, and the timing of revenue recognition on products and services sold.
+
+    The following are some of the specific factors that could affect our revenue
+and earnings in a particular quarter or over several fiscal periods:
+
+o    Due to the complexity of our products, customers spend a great deal of time
+     reviewing and testing them before making a purchase decision.  Accordingly,
+     our customers'  evaluation and purchase cycles do not necessarily match our
+     quarterly  periods.  Further,  sales of our  products  and  services may be
+     delayed if customers  delay project  approval or project  starts because of
+     budgetary  constraints,  internal review procedures or their budget cycles.
+     Also, we may receive a disproportionate  volume of orders in the last weeks
+     of a quarter. As a result, if a customer delays any order, and especially a
+     large order,  beyond the end of a fiscal period, our orders and revenue for
+     that period could be below our plan and any targets we may have published.
+
+o    Our business is seasonal.  Our orders and revenue are  typically  lowest in
+     our first fiscal quarter and highest in our fourth fiscal  quarter,  with a
+     material  decline  between  the fourth  quarter of one fiscal  year and the
+     first quarter of the next fiscal year.
+
+o    We base our revenue and earnings  targets for any fiscal  period,  in part,
+     upon assumptions that we will achieve a certain volume of orders, and a mix
+     of  perpetual  licenses  (on which  revenue is  recognized  in the  quarter
+     shipped)  and TSLs (on which  revenue  is  recognized  over the term of the
+     license) within a specified range, which we adjust from time to time. If we
+     do not meet our overall  orders  targets,  our revenue  and  earnings  will
+     likely not meet  expectations,  though if perpetual  orders are higher than
+     the  expected  range,  our revenue and earnings for the period may be on or
+     above target,  but revenue in future  periods would be lower than expected.
+     Conversely,  if we meet our overall orders target, but perpetual orders are
+     below the  expected  range,  our  revenue  will be below our target for the
+     quarter  (though the shortfall  should be recognized in future  quarters as
+     TSL  revenue  is  recognized  over the term of  license  booked  during the
+     quarter).
+
+o    Accounting  rules  determine when we recognize  revenue on our orders,  and
+     therefore  impact  how much  revenue  we will  report in any  given  fiscal
+     period. In general,  we recognize TSL revenue ratably over the license term
+     and recognize  perpetual  license  revenue upon product  delivery.  For any
+     given order,  however,  the specific terms we agree to with a customer may,
+     under applicable accounting rules, require revenue treatment different from
+     assumptions  we have used in developing our financial  plans.  As a result,
+     our revenue for the fiscal  period may be higher or lower than it otherwise
+     would have been, and different  than our plan or any announced  targets for
+     the period.
+
+Competition may have a material adverse effect on our results of operations.
+
+    The EDA industry is highly competitive. As a result, average prices may fall
+or we could lose  customers  to other  vendors,  which would harm our  operating
+results.  We compete against other EDA vendors,  and with customers'  internally
+developed  design tools and  internal  design  capabilities,  for a share of our
+customers' EDA budgets. In general,  competition is based on product quality and
+features,  post-sale  support,  interoperability  with other vendors'  products,
+price,  payment terms and, as discussed  below,  the ability to offer a complete
+design  flow.  Our  competitors  include  companies  that offer a broad range of
+products and services,  such as Cadence Design Systems, Inc. and Mentor Graphics
+Corporation,  as well as  companies  that offer  products  focused on a discrete
+phase of the integrated circuit design process, such as Magma Design Automation,
+
+
+                                       29
+<PAGE>
+
+
+
+Inc.,  Verisity Design,  Inc., and Nassda  Corporation.  In the current economic
+environment,   price  and  payment  terms  have  become  increasingly  important
+competitive  factors.  Since early  fiscal  2002,  we have  regularly  agreed to
+extended  payment  terms  on our  TSLs,  negatively  affecting  cash  flow  from
+operations.  In addition, in certain situations our competitors are aggressively
+discounting their products.
+
+We may not compete  effectively,  if we do not develop an integrated design flow
+product and other new products.
+
+    Increasingly,  EDA companies  compete on the basis of design flows involving
+integrated  logic  and  physical  design  products  rather  than on the basis of
+individual point tools performing a discrete phase of the design process.  If we
+do not successfully and timely develop integrated design flow products, or if we
+do  not  convince  customers  to  adopt  these  products  when  developed,   our
+competitive position could be significantly weakened.
+
+    Offering an integrated design flow will become increasingly important as ICs
+grow more complex.  Our products  compete  principally with design flow products
+from Cadence and Magma,  which in some respects may be more  integrated than our
+products.  In January  2003 we  introduced  our Galaxy  Design  Platform,  which
+partially integrates the full suite of Synopsys' design implementation products.
+Our future success  depends on our ability to further  integrate our products in
+the Galaxy Design  Platform.  This effort will  continue to require  significant
+engineering and  development  work. We can provide no assurances that we will be
+able to offer a competitive complete design flow to customers.
+
+    To increase  our  revenues  over the long term,  we will have to enhance our
+existing  products,  introduce new products,  gain broad customer  acceptance of
+those  products and generate  growth in our  consulting  services  business.  In
+addition to the integration of our design implementation  products in the Galaxy
+Design Platform,  in May 2003 we announced our plans to integrate our functional
+verification products into the Discovery Verification Platform.  Further, we are
+expanding our intellectual  property design components  offerings,  and with the
+Numerical    acquisition    are    attempting    to   bolster   our   suite   of
+design-for-manufacturing products. It is difficult for us to predict the success
+of these product  initiatives  and the growth of the markets for these products.
+In the past, we, like all companies, have introduced new products that failed to
+meet our revenue expectations.  Therefore,  we can provide no assurances that we
+will  successfully  expand  revenue  from our  existing  or new  products at the
+desired rate. If we fail to do so, it would  materially and adversely affect our
+business, financial condition and results of operations.
+
+Businesses we have acquired or that we may acquire in the future may not perform
+as projected.
+
+    We have acquired a number of companies in recent  years,  and as part of our
+efforts to increase revenue and expand our product and services offerings we may
+acquire  additional  companies.  During 2002, we acquired Avant!,  inSilicon and
+Co-Design,  and during the second quarter of fiscal 2003, we acquired Numerical.
+In  addition to direct  costs,  acquisitions  pose a number of risks,  including
+potential  dilution of earnings per share,  problems in integrating the acquired
+products  and  employees  into our  business,  challenges  in insuring  acquired
+products and the development  practices of employees of acquired  companies meet
+our  quality  standards,  the  failure to  realize  expected  synergies  or cost
+savings,  the failure of acquired products to achieve projected sales, the drain
+on  management  time for  acquisition-related  activities,  adverse  effects  on
+customer buying patterns and assumption of unknown liabilities. While we attempt
+to review proposed acquisitions carefully and negotiate terms that are favorable
+to us, we can provide no assurances  that any  acquisition  will have a positive
+effect on our performance.
+
+Customer  payment  defaults could adversely  affect our financial  condition and
+results of operations.
+
+    Our backlog consists principally of customer payment obligations not yet due
+that are  attributable  to software we have already  delivered.  These  customer
+obligations are not cancelable, but will not yield the expected revenue and cash
+flow if the customer  defaults and fails to pay amounts owed. In these cases, we
+will generally  take legal action to recover  amounts owed. To date, we have not
+
+
+
+                                       30
+<PAGE>
+
+
+experienced  a  material  level of  defaults,  though  in the  current  economic
+environment the level of defaults may increase. Moreover, existing customers may
+seek to renegotiate  pre-existing contractual commitments due to adverse changes
+in their own  businesses.  Any material  payment  default by our customers would
+have a  material  adverse  effect on our  financial  condition  and  results  of
+operations.
+
+The impact of SARS,  stagnation  of foreign  economies,  foreign  exchange  rate
+fluctuations  or  other   international   issues  could  adversely   affect  our
+performance.
+
+     During the six months ended April 30,  2003,  we derived 48% of our revenue
+from  outside  North  America as compared to 35% and 37% during  fiscal 2002 and
+2001,  respectively.  Recently, there have been indications that the outbreak of
+Severe Acute  Respiratroy  Syndrome  (SARS) is disrupting  business  operations,
+sales activities and decision-making in our industry, primarily overseas, but in
+some cases,  domestically as well. If the SARS outbreak continues or worsens, it
+would have an adverse effect on sales of our products.
+
+     Foreign sales are vulnerable to regional or worldwide economic or political
+conditions,  including  the  effects  of  international  political  conflict  or
+hostilities.  The global electronics industry experienced steep declines in 2001
+and 2002,  and we do not expect  material  recovery in 2003.  In  particular,  a
+number of our largest European customers are in the telecommunications equipment
+business,  which has been disproportionately  affected during this period. While
+sales in Japan were strong during the second quarter,  accounting for 35% of the
+Company's revenue, we expect sales will return to historical levels in the third
+quarter and beyond.  Furthermore,  achievement of our overall orders and revenue
+plans assume  growth in the Asia Pacific  region,  which may not be achieved and
+could be  difficult  if growth  in the rest of the  world's  economies  does not
+accelerate.
+
+    Fluctuations in the rate of exchange  between the U.S. dollar and currencies
+of other  countries in which we conduct  business,  principally the Euro and the
+Japanese yen,  could  materially  and adversely  affect our business,  operating
+results and financial condition. Fluctuations in foreign currency exchange rates
+may make our products more expensive to foreign  customers,  increase the dollar
+cost of expenses  denominated  in  non-dollar  currencies  or reduce the revenue
+realized from overseas  sales.  We attempt to hedge our risks related to certain
+forecasted   accounts   receivable  and  accounts  payable,   but  not  expenses
+denominated  in foreign  currencies.  If a foreign  currency  increases in value
+relative to the dollar,  then the dollar value of expenses  denominated  in that
+currency and forecasted  accounts  receivable  increase.  If a foreign  currency
+decreases  in value  relative to the dollar,  then the dollar  value of expenses
+denominated  in that  currency  and  forecasted  accounts  receivable  decrease.
+Changes in the dollar value of  forecasted  accounts  receivable  of our foreign
+subsidiaries  would impact the revenue we recognize  from such  receivables.  In
+recent  months,  the Euro and the yen have  increased  in value  relative to the
+dollar, in effect increasing our foreign currency-denominated expenses. Exchange
+rates are subject to significant and rapid fluctuations, and therefore we cannot
+predict the  prospective  impact of exchange rate  fluctuations on our business,
+operating results and financial condition.
+
+Terrorist  acts and acts of war may seriously  harm our financial  condition and
+results of operations.
+
+    Terrorist acts or acts of war (wherever located around the world) may damage
+or  disrupt  Synopsys,  our  employees,   facilities,  partners,  suppliers,  or
+customers, or cause unpredictable swings in foreign currency exchange rates, all
+of which could  significantly  impact our results of operations and expenses and
+financial  condition.  The potential for future terrorist attacks,  the national
+and  international  responses  to  terrorist  attacks  or  perceived  threats to
+national security, and other acts of war or hostility have created many economic
+and political uncertainties that could adversely affect our business and results
+of  operations  in  ways  we  cannot  presently  predict.  We are  predominantly
+uninsured for losses and interruptions caused by acts of war.
+
+A failure to recruit  and retain  key  employees  would have a material  adverse
+effect on our ability to compete.
+
+    To be  successful,  we must  attract  and  retain key  technical,  sales and
+managerial  employees,  including  those who join  Synopsys in  connection  with
+acquisitions.  Despite recent economic conditions,  skilled technical, sales and
+management  employees  remain in high  demand.  There  are a  limited  number of
+qualified EDA and IC design engineers,  and competition for these individuals is
+
+
+
+                                       31
+<PAGE>
+
+
+intense.  Companies in the EDA industry and in the general electronics  industry
+value experience at Synopsys,  and our employees,  including  employees who have
+joined Synopsys in connection with acquisitions,  are recruited aggressively. In
+the past, we have had high employee turnover,  which may recur in the future. We
+can  provide  no  assurances  that we can  continue  to  recruit  and retain the
+technical and managerial personnel we need to run our business successfully. Our
+failure to do so could have a material adverse effect on our business, financial
+condition and results of operations.
+
+    In addition, recently-proposed regulations of the Nasdaq National Market and
+the   New   York   Stock   Exchange    regarding    shareholder    approval   of
+equity-compensation  plans could make it more difficult or more expensive for us
+to grant stock  options to  employees in the future.  As a result,  we may incur
+increased cash compensation costs, may lose top employees to non-public start-up
+companies,  or may  generally  find it more  difficult  to  attract,  retain and
+motivate  employees,  any one of which could materially and adversely affect our
+business.
+
+Failing to protect  our  proprietary  technology  would have a material  adverse
+effect on our financial condition and results of operations.
+
+    Our success  depends,  in part,  upon our  proprietary  technology and other
+intellectual  property rights.  We rely on agreements with customers,  employees
+and  others,  and on  intellectual  property  laws to  protect  our  proprietary
+technology.  We can  provide no  assurances  that these  agreements  will not be
+breached,  that we would have adequate remedies for any breach or that our trade
+secrets  will not  otherwise  become  known  or be  independently  developed  by
+competitors.   Moreover,  effective  intellectual  property  protection  may  be
+unavailable  or  limited  in  certain  foreign  countries.  Failure to obtain or
+maintain  appropriate  patent,  copyright  or trade secret  protection,  for any
+reason,  could  have  a  material  adverse  effect  on our  business,  financial
+condition and results of operations.
+
+    In addition,  from time to time we are subject to claims that our  products,
+or  the  use  of  our  products  by  our  customers,  infringe  on  third  party
+intellectual  property  rights.  These  types of claims can result in costly and
+time-consuming  litigation,  require  us to  enter  into  royalty  arrangements,
+subject  us to damages  or  injunctions  restricting  our sale of  products,  or
+require us to redesign certain of our products, anyone of which could materially
+and adversely affect our business.
+
+Our operating  expenses do not fluctuate  proportionately  with  fluctuations in
+revenues,  which could materially  adversely affect our results of operations if
+we have a revenue shortfall.
+
+    We  base  our  operating  expenses  in part on our  expectations  of  future
+revenue,  and  generally  must  commit to expense  levels in advance of revenue.
+Since only a small  portion  of our  expenses  varies  with  revenue,  a revenue
+shortfall  translates  directly  into a reduction  in net  income.  If we do not
+generate  anticipated  revenue or  maintain  expenses  within  expected  ranges,
+however,  our business,  financial  condition and results of operations would be
+materially and adversely affected.
+
+We have adopted anti-takeover provisions,  which may delay or prevent changes in
+control of management.
+
+    We have  adopted  a number  of  provisions  that  could  have  anti-takeover
+effects.  Our Board of  Directors  has adopted a Preferred  Shares  Rights Plan,
+commonly  referred to as a poison pill. In addition,  our Board of Directors has
+the authority,  without further action by its stockholders,  to issue additional
+shares of common  stock and to fix the rights and  preferences  of, and to issue
+authorized  but  undesignated  shares  of,  preferred  stock.  These  and  other
+provisions of Synopsys' Restated Certificate of Incorporation and Bylaws and the
+Delaware General Corporation Law may deter hostile takeovers or delay or prevent
+changes in control of management of Synopsys,  including  transactions  in which
+Synopsys  stockholders  might otherwise  receive a premium for their shares over
+then current market prices.
+
+
+
+
+
+                                       32
+<PAGE>
+
+
+
+
+We are subject to changes in financial  accounting  standards,  which may affect
+our reported financial results, or the way we conduct business.
+
+
+    We prepare our financial statements in conformity with accounting principles
+generally accepted in the United States of America (GAAP).  These principles are
+subject to  interpretation by the Financial  Accounting  Standards Board (FASB),
+the American  Institute of Certified  Public  Accountants  (AICPA),  the SEC and
+various bodies appointed by these  organizations to interpret existing rules and
+create new accounting  policies.  Accounting policies affecting software revenue
+recognition,  in particular,  have been the subject of frequent interpretations,
+which have had a profound affect on the way we license our products. As a result
+of the recent  enactment of the  Sarbanes-Oxley  Act and the related scrutiny of
+accounting  policies by the SEC and by the various  national  and  international
+accounting industry bodies, we expect the frequency of accounting policy changes
+to  accelerate.  Future  changes in financial  accounting  standards,  including
+pronouncements relating to revenue recognition, may have a significant effect on
+our reported results and may even affect our reporting of transactions completed
+before the change is effective.
+
+
+      The FASB has proposed a change to GAAP that will require us in fiscal 2004
+to begin  accounting  for options as a  compensation  expense  commencing in the
+period in which they are granted.  Synopsys currently accounts for stock options
+under Statement of Financial Accounting Standards No. 123 (SFAS 123), Accounting
+for  Stock-Based  Compensation.  As currently  permitted by SFAS 123, we use the
+intrinsic value method prescribed by Accounting Principles Board Opinion No. 25,
+Accounting for Stock Issued to Employees,  to measure  compensation  expense for
+stock-based  awards to our employees.  Under this  standard,  we do not consider
+stock  option  grants  issued  under  our  employee  stock  option  plans  to be
+compensation,  because the  exercise  price is equal to the fair market value on
+the grant date,  although we disclose the impact of "expensing" stock options in
+the notes to our consolidated financial statements. If this proposal is adopted,
+expensing  stock options will  significantly  and adversely  affect our reported
+results of operations.
+
+
+
+
+                                       33
+<PAGE>
+
+
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+Interest Rate Risk
+
+    Our exposure to market risk for changes in interest rates relates  primarily
+to our short-term  investment  portfolio.  We place our  investments in a mix of
+tax-exempt and taxable  instruments that meet high credit quality standards,  as
+specified in our investment policy. None of our investments are held for trading
+purposes. The policy also limits the amount of credit exposure to any one issue,
+issuer and type of instrument.  We do not anticipate any material  losses due to
+this risk with respect to our investment portfolio.
+
+    The following table presents the carrying value and related weighted-average
+total return for our investment portfolio.  The carrying value approximates fair
+value  at  April  30,  2003.  In  accordance  with our  investment  policy,  the
+weighted-average  maturities  of our total  invested  funds  does not exceed one
+year.
+
+
+
+<TABLE>
+<CAPTION>
+                                                                            Weighted-Average
+                                                              Carrying        After Tax
+                                                               Amount           Return
+                                                          ----------------- ---------------
+                                                           (in thousands)
+     <S>                                                 <C>                <C>
+      Short-term investments-- fixed rate (US)            $     123,277          1.50%
+      Money market funds-- variable rate (US)                   130,846          0.99%
+      Cash  deposits  and money  market funds-- variable
+         rate (Ireland)                                         100,388          0.72%
+                                                          -----------------
+         Total interest bearing instruments               $     354,511          1.09%
+                                                          =================
+</TABLE>
+
+
+Foreign Currency Risk
+
+    At the present time, we hedge only (i) those currency  exposures  associated
+with certain assets and liabilities denominated in non-functional currencies and
+(ii)  forecasted   accounts  receivable  and  accounts  payable  denominated  in
+non-functional  currencies.  Our hedging  activities  are intended to offset the
+impact of  currency  fluctuations  on the value,  as  measured  in the  relevant
+non-functional  currency,  of these  balances.  The success of these  activities
+depends upon the accuracy of our  estimates of balances  denominated  in various
+currencies  and in  fluctuations  of  foreign  currencies,  primarily  the Euro,
+Japanese yen, Taiwan dollar, British pound sterling,  Canadian dollar, Singapore
+dollar, Korean won and Israeli shekel. If a non-functional currency increases in
+value relative to the functional currency,  then the value of expenses,  assets,
+liabilities  and  forecasted  accounts  receivable  denominated in that currency
+increases.  If a  non-functional  currency  declines  in value  relative  to the
+functional  currency,  then  the  value of  expenses,  assets,  liabilities  and
+forecasted accounts receivable  denominated in that currency decreases.  Looking
+forward, to the extent our estimates of various balances  denominated in foreign
+currencies  prove  not to be  accurate,  then we  will  record  a gain or  loss,
+depending  upon the  nature  and extent of such  inaccuracy.  We can  provide no
+assurances that our hedging transactions will be effective.
+
+    Foreign  currency  contracts  entered  into in  connection  with our hedging
+activities  contain credit risk in that the  counterparty  may be unable to meet
+the terms of the agreements. We have limited these agreements to major financial
+institutions to reduce this credit risk.  Furthermore,  we monitor the potential
+risk of loss with any one  financial  institution.  We do not enter into forward
+contracts for speculative purposes.
+
+    In May 2003, we changed the functional  reporting  currency of our principal
+Irish  subsidiary  to  the  US  dollar,  based  on a  determination  that a high
+percentage of its sales, and the resulting accounts receivable,  are denominated
+in US dollars  through its sales in Europe and Asia,  while its  expenditures in
+local currency are relatively small.
+
+    The  following  table  provides   information  about  our  foreign  currency
+contracts at April 30, 2003.  Due to the short-term  nature of these  contracts,
+the contract rates approximate the  weighted-average  currency exchange rates at
+
+
+
+                                       34
+<PAGE>
+
+
+April 30, 2003. These forward contracts mature in approximately  thirty days and
+contracts  are  rolled-forward  on a  monthly  basis to match  firmly  committed
+transactions.
+
+                                                 USD Amount      Contract Rate
+                                              ----------------- ----------------
+                                               (in thousands)
+Forward Net Contract Values:
+  Japanese yen                                $     158,722         119.8788
+  Euro                                               29,783           0.9075
+  Canadian dollar                                     4,312           1.4527
+  British pound sterling                              5,873           0.6300
+  Israeli shekel                                      1,423           4.5587
+  Korean won                                          2,741        1225.7500
+  Singapore dollar                                      783           1.7767
+  Taiwan dollar                                       5,866          34.9700
+                                              -----------------
+                                              $     209,503
+                                              =================
+
+    Net  unrealized  gains  of  approximately  $21  million,  net  of tax on the
+outstanding  forward  contracts,  as of April  30,  2003 are  included  in other
+comprehensive income on the unaudited condensed consolidated balance sheet as of
+April 30,  2003.  Net cash  inflows on  maturing  forward  contracts  during the
+quarter were $4.8 million.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+    (a) Evaluation of Disclosure  Controls and  Procedures.  As of a date within
+the 90 days  prior to the  date of this  report  (the  "Evaluation  Date"),  the
+Company   carried  out  an  evaluation   under  the  supervision  and  with  the
+participation of the Company's management, including the Chief Executive Officer
+and Chief Financial Officer, of the effectiveness of the design and operation of
+the Company's  disclosure  controls and  procedures  (as such term is defined in
+Rules  13a-14(c) and  14d-14(c)  under the  Securities  Exchange Act of 1934, as
+amended  (the  "Exchange   Act")).   There  are  inherent   limitations  to  the
+effectiveness of any system of disclosure controls and procedures, including the
+possibility of human error and the  circumvention  or overriding of the controls
+and procedures.  Accordingly,  even effective disclosure controls and procedures
+can only provide  reasonable  assurance of achieving  their control  objectives.
+Notwithstanding  these  limitations,  based  upon  and  as of  the  date  of the
+Company's  evaluation,  the Chief Executive  Officer and Chief Financial Officer
+concluded  that the  disclosure  controls and  procedures  are  effective in all
+material  respects to ensure that  information  required to be  disclosed in the
+reports  the Company  files and  submits  under the  Exchange  Act is  recorded,
+processed, summarized and reported as and when required.
+
+    (b) Changes in Internal Controls.  Since the Evaluation Date, there have not
+been any  significant  changes in the  Company's  internal  controls or in other
+factors that could significantly affect such controls.
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+     See Note 4, Legal Proceedings, of Notes to Unaudited Condensed Consolidated
+Financial Statements.
+
+ITEM 5. OTHER INFORMATION
+
+Stock Option Plans
+
+    Under our 1992  Stock  Option  Plan (the 1992  Plan),  19,475,508  shares of
+common stock have been  authorized for issuance.  Pursuant to the 1992 Plan, the
+Board of Directors may grant either incentive or non-qualified  stock options to
+purchase shares of common stock to eligible individuals at not less than 100% of
+the fair market value of those shares on the grant date. Stock options generally
+vest over a period of four years and expire ten years from the date of grant. At
+April 30, 2003,  5,547,075 stock options remain outstanding and 3,799,383 shares
+of common stock are reserved for future grants under this plan.
+
+
+
+                                       35
+<PAGE>
+
+
+    Under our Non-Statutory Stock Option Plan (the 1998 Plan), 26,623,534 shares
+of common stock have been  authorized  for issuance.  Pursuant to the 1998 Plan,
+the Board of  Directors  may grant  non-qualified  stock  options to  employees,
+excluding executive officers.  Exercisability,  option price and other terms are
+determined  by the Board of  Directors,  but the option  price shall not be less
+than 100% of the fair  market  value of those  shares on the grant  date.  Stock
+options generally vest over a period of four years and expire ten years from the
+date of grant. At April 30, 2003,  18,188,858  stock options remain  outstanding
+and 4,667,961  shares of common stock were reserved for future grants under this
+plan.
+
+    Under our 1994  Non-Employee  Directors  Stock  Option  Plan (the  Directors
+Plan),  900,000  shares have been  authorized  for issuance.  The Directors Plan
+provides  for  automatic  grants  to each  non-employee  member  of the Board of
+Directors upon initial appointment or election to the Board,  reelection and for
+annual service on Board committees. The option price shall not be less than 100%
+of the fair market value of those shares on the grant date.  Under the Directors
+Plan,  new  directors  receive  an option for  20,000  shares,  vesting in equal
+installments  over four years.  In  addition,  each  continuing  director who is
+elected  at an annual  meeting  of  stockholders  receives  an option for 10,000
+shares  and an  additional  option for 5,000  shares  for each  Board  committee
+membership, up to a maximum of two committee service grants per year. The annual
+and committee  service option grants vest in full on the date immediately  prior
+to the  date  of the  annual  meeting  following  their  grant.  In the  case of
+directors  appointed to the board between  annual  meetings,  the annual and any
+committee  grants  are  prorated  based  upon the  amount of time since the last
+annual meeting.  At April 30, 2003, 542,246 stock options remain outstanding and
+195,173 shares of common stock were reserved for future grants under this plan.
+
+    We  have  assumed   certain   option  plans  in  connection   with  business
+combinations.  Generally,  these options were granted under terms similar to the
+terms of our option plans at prices  adjusted to reflect the  relative  exchange
+ratios.  We terminated all assumed plans as to future grants upon  completion of
+each of the business combinations.
+
+    We monitor  dilution  related to our option  program by comparing net option
+grants  in a given  year to the  number  of  shares  outstanding.  The  dilution
+percentage is  calculated as the new option grants for the year,  net of options
+forfeited by employees  leaving the  Company,  divided by the total  outstanding
+shares at the end of the year. The option dilution  percentages  were (0.1)% and
+3.4% for the six months ended April 30, 2003 and fiscal 2002,  respectively.  We
+also have a share repurchase  program where we regularly  repurchase shares from
+the open  market  to  attempt  to  maintain  the  number  of our  common  shares
+outstanding.
+
+    A summary of the  distribution  and dilutive effect of options granted is as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                  ---------------------- ---------------
+                                                                    SIX MONTHS ENDED       YEAR ENDED
+                                                                        APRIL 30,         OCTOBER 31,
+                                                                          2003                2002
+                                                                  ---------------------- ---------------
+<S>                                                                <C>                  <C>
+ Net  grants  during  the period as  percentage  of  outstanding
+   shares exclusive of options assumed in acquisitions                     (0.1)%            3.4%
+Grants to Named  Executive  Officers,  as defined below,  during
+   the period as percentage of total options granted                       15.8%             9.3%
+Grants to Named Executive Officers during the period as
+   percentage of outstanding shares                                         0.3%             0.5%
+Total  outstanding  options held by Named Executive  Officers as
+   percentage of total options outstanding                                 14.5%            13.7%
+</TABLE>
+
+
+
+
+                                       36
+<PAGE>
+
+
+
+    A summary of our  option  activity  and  related  weighted-average  exercise
+prices  for  fiscal  2002  through  the six months  ended  April 30,  2003 is as
+follows:
+<TABLE>
+<CAPTION>
+
+                                                                        Options Outstanding
+                                                                   ------------------------------
+                                                                                    Weighted-
+                                                     Shares                          Average
+                                                  Available for       Number         Exercise
+                                                     Options         of Shares        Price
+                                                ------------------ -------------- ---------------
+                                                    (in thousands, except per share amounts)
+        <S>                                     <C>                <C>           <C>
+         Balance at October 31, 2001                    8,209          25,920     $    40.10
+            Grants                                     (4,081)          4,081     $    47.88
+            Options assumed in acquisitions                --           2,511     $    37.16
+            Exercises                                      --          (2,851)    $    34.43
+            Cancellations                               1,585          (1,681)    $    42.93
+            Additional shares reserved                  2,700              --             --
+                                                ------------------ --------------
+         Balance at October 31, 2002                    8,413          27,980     $    41.40
+            Grants                                     (1,233)          1,233     $    42.46
+            Options assumed in acquisitions                --           1,057     $    49.59
+            Exercises                                      --          (1,563)    $    32.01
+            Cancellations                               1,332          (1,464)    $    46.21
+            Additional shares reserved                    150              --             --
+                                                ------------------ --------------
+         Balance at April 30, 2003                      8,662          27,243     $    42.04
+                                                ================== ==============
+</TABLE>
+
+
+    At April 30, 2003, a total of 19.5 million,  26.6 million and 900,000 shares
+were  reserved  for  issuance  under  our  1992,   1998  and  Directors   Plans,
+respectively,  of which 8.7 million shares were available for future grants. For
+additional  information  regarding our stock option  activity during fiscal 2002
+and 2001, please see Note 6 of Notes to Consolidated Financial Statements in our
+2002 Annual Report on Form 10-K, as amended.
+
+    A summary of  outstanding  in-the-money  and  out-of-the-money  options  and
+related weighted-average exercise prices at April 30, 2003 is as follows:
+<TABLE>
+<CAPTION>
+
+                                           Exercisable             Unexercisable             Total
+                                      ----------------------- ---------------------- ---------------------
+                                                  Weighted-               Weighted-             Weighted-
+                                                   Average                 Average               Average
+                                                  Exercise                Exercise              Exercise
+                                        Shares      Price       Shares      Price      Shares     Price
+                                      ----------- ----------- ----------- ---------- ---------- ----------
+                                                   (in thousands, except per share amounts)
+<S>                                   <C>        <C>          <C>        <C>         <C>       <C>
+In-the-Money                             12,977   $   36.71       7,800   $   38.15    20,777   $   37.25
+Out-of-the-Money (1)                      3,864   $   57.93       2,602   $   56.63     6,466   $   57.41
+                                      -----------             -----------            ----------
+Total Options Outstanding                16,841   $   41.58      10,402   $   42.78    27,243   $   42.04
+                                      ===========             ===========            ==========
+</TABLE>
+
+
+       (1)Out-of-the-money  options are those  options  with an  exercise  price
+          equal to or above the closing  price of $49.84 on April 30, 2003,  the
+          last trading day for the six months ended May 2, 2003.
+
+
+
+
+                                       37
+<PAGE>
+
+
+
+    The following  table sets forth  further  information  regarding  individual
+grants of  options  during  the six months  ended  April 30,  2003 for the Chief
+Executive Officer and each of the other four most highly  compensated  executive
+officers  whose  compensation  for  fiscal  2002  exceeded  $100,000  (the Named
+Executive Officers).
+
+<TABLE>
+<CAPTION>
+                                                                                         Potential Realizable Value
+                                                                                         at Assumed Annual Rates of
+                                                                                          Stock Price Appreciation
+                             Individual Grants                                               for Option Term ($)
+                      --------------------------------                                   ----------------------------
+                         Number of       Percent of
+                         Securities         Total         Range of
+                        Under-lying        Options        Exercise
+        Name              Options        Granted to        Prices      Expiration Date        5%            10%
+                        Granted (1)     Employees (2)    ($/Share)
+--------------------- ----------------- -------------- --------------- ----------------- -------------- -------------
+<S>                    <C>              <C>           <C>             <C>                 <C>            <C>
+Aart J. de Geus            38,250           3.10%      $40.92 - $43.45 12/09/12-02/25/13   $1,032,073     $2,615,475
+
+Chi-Foon Chan              37,575           3.05%      $40.92 - $43.45 12/09/12-02/25/13   $1,014,702     $2,571,454
+
+Vicki L. Andrews           19,075           1.55%      $40.92 - $43.45 12/09/12-02/25/13   $  512,522     $1,298,832
+
+Steven K. Shevick          46,675           3.79%      $40.92 - $43.45 12/09/12-02/25/13   $1,225,018     $3,104,437
+
+Sanjiv Kaul                23,775           1.93%      $40.92 - $43.45 12/09/12-02/25/13   $  639,042     $1,619,459
+</TABLE>
+
+
+
+     (1)  Sum of all option  grants made  during the six months  ended April 30,
+          2003 to such person. Options become exercisable ratably in a series of
+          monthly  installments  over a  four-year  period  from the grant date,
+          assuming continued service to Synopsys,  subject to acceleration under
+          certain circumstances  involving a change in control of Synopsys. Each
+          option has a maximum term of ten years, subject to earlier termination
+          upon the  optionee's  cessation  of  service.
+     (2)  Based on a total of 1,233,110  shares  subject  to options granted to
+          employees under Synopsys' option plans during the six months ended
+          April 30, 2003.
+
+    The following table provides the specified information  concerning exercises
+of options to purchase  our common  stock and the value of  unexercised  options
+held by our Named Executive Officers during the six months ended April 30, 2003:
+
+<TABLE>
+<CAPTION>
+                                                         Number of Securities         Value of In-the-Money
+                            Shares                      Underlying Unexercised              Options at
+                         Acquired On       Value       Options at April 30, 2003        April 30, 2003 (2)
+         Name              Exercise     Realized (1)   Exercisable/Unexercisable    Exercisable/Unexercisable
+----------------------- --------------- ------------- ---------------------------- -----------------------------
+<S>                     <C>             <C>           <C>            <C>          <C>            <C>
+ Aart J. de Geus                --               --    1,418,413      348,537      $15,322,564    $ 2,937,800
+ Chi-Foon Chan                  --               --      926,537      298,938      $ 8,419,367    $ 2,429,888
+ Vicki L. Andrews               --               --      134,818      150,823      $   923,008    $   949,890
+ Steven K. Shevick              --               --      129,639       99,336      $ 1,251,695    $   766,661
+ Sanjiv Kaul                    --               --      247,810      156,527      $ 2,366,296    $   785,702
+</TABLE>
+
+
+         (1)    Market value at exercise less exercise price.
+         (2)    Market value of underlying securities at May 2, 2003 ($49.84)
+                minus the exercise price.
+
+
+                                       38
+<PAGE>
+
+
+
+    The following table provides information regarding equity compensation plans
+approved and not approved by security  holders at April 30, 2003 (in  thousands,
+except price per share amounts):
+
+<TABLE>
+<CAPTION>
+                                                Number of                             Number of Securities
+                                             Securities to be     Weighted-Average      Remaining Available
+                                               Issued Upon       Exercise Price of     for Future Issuance
+                                               Exercise of          Outstanding           Under Equity
+                                               Outstanding            Options,         Compensation Plans
+                                            Options, Warrants,     Warrants, and      (Excluding Securities
+                                                and Rights             Rights          Reflected in Column (a))
+              Plan Category                        (a)                  (b)                    (c)
+------------------------------------------ --------------------- ------------------- ------------------------
+<S>                                        <C>                   <C>                 <C>
+Employee Equity Compensation Plans
+  Approved by Stockholders (1)                   6,089,321             $  40.54               6,493,339
+Employee Equity Compensation Plans Not
+  Approved by Stockholders (2)                  18,188,858             $  42.78               4,667,961
+                                           ---------------------                     ------------------------
+Total                                           24,278,179 (3)         $  42.22              11,161,300 (4)
+                                           =====================                     ========================
+</TABLE>
+
+
+         (1) Synopsys'  stockholder  approved  equity compensation plans include
+             the 1992 Plan, the Directors Plan and the Employee Stock Purchase
+             Plans.
+         (2) Synopsys' only non-stockholder approved equity compensation plan is
+             the 1998 Plan.
+         (3) Does not include information for options assumed in connection with
+             mergers and  acquisitions.  As of April 30, 2003, a total of
+             2,964,744 shares  of our common stock were issuable  upon  exercise
+             of such outstanding options.
+         (4) Comprised of (i)  3,799,383 shares remaining available for issuance
+             under the 1992 Plan,  (ii) 4,667,961 shares remaining  available
+             for issuance under the 1998 Plan, (iii) 195,173 shares remaining
+             available for issuance under the Directors Plan, and (iv) 2,498,783
+             shares remaining available for issuance  under the Employee  Stock
+             Purchase Plans as of April 30, 2003.
+
+Pre-approvals of Non-Audit Services by Audit Committee
+
+         Pursuant to Section 10A(i)(1)(A) of the Exchange Act, during the fiscal
+quarter  ended April 30, 2003 the Audit  Committee  pre-approved  the  following
+non-audit services to be performed by KPMG LLP, as its independent auditors:
+
+        1.       Deliver consent for Form S-8 Registration Statement;
+        2.       Perform potential acquisition due diligence;
+        3.       Consultation related to income tax accounts for acquisition
+                 completed during the quarter; and
+        4.       Consultation related to Sarbanes-Oxley Act compliance matters.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a.)     Exhibits
+
+  3.1  Fourth Amended and Restated Certificate of Incorporation(1)
+  3.2  Certificate of Designation of Series A Participating Preferred Stock(2)
+  3.3  Certificate of Amendment of Fourth Amended and Restated Certificate of
+       Incorporation (3)
+  3.4  Restated Bylaws of Synopsys, Inc. (1)
+  4.1  Reference is made to Exhibits 3.1 through 3.3.
+  99.1 Certification of Chief Executive Officer and Chief Financial and
+       Principal Accounting Officer furnished pursuant to 18 U.S.C. Section
+       1350 as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+    -------------------------
+
+ (1)   Incorporated by reference from exhibit to Synopsys' Quarterly Report on
+       Form 10-Q for the quarterly period ended April 3, 1999.
+ (2)   Incorporated by reference from exhibit to Amendment No. 1 to Synopsys'
+       Registration Statement on Form 8-A filed with the Securities and Exchange
+       Commission on December 13, 1999.
+ (3)   Incorporated herein by reference from exhibit to Synopsys' Quarterly
+       Report on Form 10-Q for the quarterly period ended April 30, 2000.
+
+
+
+                                       39
+<PAGE>
+
+
+
+
+(b.)     Reports on Form 8-K
+
+    The  Registrant  filed a Report  on Form  8-K with the SEC on March 5,  2003
+reporting   under  Item  5  the  completion  of  its  acquisition  of  Numerical
+Technologies, Inc. on March 1, 2003.
+
+
+
+
+
+                                       40
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+    Pursuant to the  requirements  of the  Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+                                             SYNOPSYS, INC.
+
+                                             By:   /s/ STEVEN K. SHEVICK
+                                                  Steven K. Shevick
+                                                  Senior Vice President, Finance
+                                                  and Operations, and Chief
+                                                  Financial Officer
+                                                  (Principal Financial Officer)
+
+                                                  Date: June 13, 2003
+
+
+
+                                       41
+<PAGE>
+
+
+
+
+                                 CERTIFICATIONS
+
+
+I, Aart J. de Geus, certify that:
+
+
+         1. I have  reviewed  this  quarterly  report on Form 10-Q of Synopsys,
+          Inc.;
+
+
+         2. Based on my knowledge,  this  quarterly  report does not contain any
+untrue  statement of a material fact or omit to state a material fact  necessary
+to make the  statements  made,  in light of the  circumstances  under which such
+statements  were made, not misleading with respect to the period covered by this
+quarterly report; and
+
+
+         3. Based on my knowledge, the financial statements, and other financial
+information  included in this quarterly  report,  fairly present in all material
+respects the financial  condition,  results of operations  and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+
+         4. The registrant's  other certifying officer and I are responsible for
+establishing and maintaining  disclosure  controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+
+                  a) designed such disclosure  controls and procedures to ensure
+         that material  information  relating to the  registrant,  including its
+         consolidated  subsidiaries,  is made known to us by others within those
+         entities, particularly during the period in which this quarterly report
+         is being prepared;
+
+
+                  b) evaluated the effectiveness of the registrant's  disclosure
+         controls and procedures as of a date within 90 days prior to the filing
+         date of this quarterly report (the "Evaluation Date"); and
+
+
+                  c) presented in this quarterly  report our  conclusions  about
+         the  effectiveness  of the disclosure  controls and procedures based on
+         our evaluation as of the Evaluation Date;
+
+
+         5. The  registrant's  other  certifying  officer and I have  disclosed,
+based on our most recent evaluation,  to the registrant's auditors and the audit
+committee  of  registrant's  board  of  directors  (or  persons  performing  the
+equivalent function):
+
+
+                  a) all significant  deficiencies in the design or operation of
+         internal controls which could adversely affect the registrant's ability
+         to  record,  process,  summarize  and  report  financial  data and have
+         identified  for the  registrant's  auditors any material  weaknesses in
+         internal controls; and
+
+
+                  b)  any  fraud,   whether  or  not  material,   that  involves
+         management  or  other  employees  who  have a  significant  role in the
+         registrant's internal controls; and
+
+
+         6. The registrant's  other  certifying  officer and I have indicated in
+this quarterly report whether or not there were significant  changes in internal
+controls or in other factors that could  significantly  affect internal controls
+subsequent to the date of our most recent  evaluation,  including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+
+Date: June 13, 2003
+
+
+                                            /s/ AART J. DE GEUS
+
+                                            Aart J. de Geus
+                                            Chief Executive Officer
+                                            (Principal Executive Officer)
+
+
+
+
+                                       42
+<PAGE>
+
+
+
+
+I, Steven K. Shevick, certify that:
+
+
+         1. I have  reviewed  this  quarterly  report on Form 10-Q of Synopsys,
+          Inc.;
+
+
+         2. Based on my knowledge,  this  quarterly  report does not contain any
+untrue  statement of a material fact or omit to state a material fact  necessary
+to make the  statements  made,  in light of the  circumstances  under which such
+statements  were made, not misleading with respect to the period covered by this
+quarterly report; and
+
+
+         3. Based on my knowledge, the financial statements, and other financial
+information  included in this quarterly  report,  fairly present in all material
+respects the financial  condition,  results of operations  and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+
+         4. The registrant's  other certifying officer and I are responsible for
+establishing and maintaining  disclosure  controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+
+                  a) designed such disclosure  controls and procedures to ensure
+         that material  information  relating to the  registrant,  including its
+         consolidated  subsidiaries,  is made known to us by others within those
+         entities, particularly during the period in which this quarterly report
+         is being prepared;
+
+
+                  b) evaluated the effectiveness of the registrant's  disclosure
+         controls and procedures as of a date within 90 days prior to the filing
+         date of this quarterly report (the "Evaluation Date"); and
+
+
+                  c) presented in this quarterly  report our  conclusions  about
+         the  effectiveness  of the disclosure  controls and procedures based on
+         our evaluation as of the Evaluation Date;
+
+
+         5. The  registrant's  other  certifying  officer and I have  disclosed,
+based on our most recent evaluation,  to the registrant's auditors and the audit
+committee  of  registrant's  board  of  directors  (or  persons  performing  the
+equivalent function):
+
+
+                  a) all significant  deficiencies in the design or operation of
+         internal controls which could adversely affect the registrant's ability
+         to  record,  process,  summarize  and  report  financial  data and have
+         identified  for the  registrant's  auditors any material  weaknesses in
+         internal controls; and
+
+
+                  b)  any  fraud,   whether  or  not  material,   that  involves
+         management  or  other  employees  who  have a  significant  role in the
+         registrant's internal controls; and
+
+
+         6. The registrant's  other  certifying  officer and I have indicated in
+this quarterly report whether or not there were significant  changes in internal
+controls or in other factors that could  significantly  affect internal controls
+subsequent to the date of our most recent  evaluation,  including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+
+Date: June 13, 2003
+
+
+
+
+                                                   /s/ STEVEN K. SHEVICK
+                                                   Steven K. Shevick
+                                                   Chief Financial Officer
+                                                   (Principal Financial Officer)
+
+
+
+
+
+
+                                       43
+<PAGE>
+
+
+
+                                  EXHIBIT INDEX
+
+    Exhibit No.   Description
+
+    3.1           Fourth Amended and Restated Certificate of Incorporation(1)
+    3.2           Certificate of Designation of Series A Participating Preferred
+                  Stock(2)
+    3.3           Certificate of Amendment of Fourth Amended and Restated
+                  Certificate of Incorporation (3)
+    3.5           Restated Bylaws of Synopsys, Inc. (1)
+    4.1           Reference is made to Exhibits 3.1 through 3.3.
+    99.1          Certification of Chief Executive Officer and Chief Financial
+                  and Principal Accounting Officer furnished pursuant to 18
+                  U.S.C. Section 1350 as Adopted Pursuant to Section 906 of the
+                  Sarbanes-Oxley Act of 2002.
+    -------------------------
+
+   (1)  Incorporated by reference from exhibit to Synopsys' Quarterly Report on
+        Form 10-Q for the quarterly period ended April 3, 1999.
+   (2)  Incorporated by reference from exhibit to Amendment No. 1 to Synopsys'
+        Registration Statement on Form 8-A filed with the Securities and
+        Exchange Commission on December 13, 1999
+   (3)  Incorporated herein by reference from exhibit to Synopsys' Quarterly
+        Report on Form 10-Q for the quarterly period ended April 30, 2000.
+
+
+
+                                       44
+<PAGE>
+
+
+</TEXT>
+</DOCUMENT>

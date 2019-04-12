@@ -1,0 +1,2776 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q DTD 06/30/2001
+<TEXT>
+<PAGE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                               ----------------
+
+                                   FORM 10-Q
+
+(Mark One)
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+                  For the quarterly period ended June 30, 2001
+
+                                       OR
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+        For the transition period from ________________ to ________________
+
+                       Commission File Number: 000-23593
+
+                               ----------------
+
+                                 VERISIGN, INC.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                            <C>
+                  Delaware                                       94-3221585
+       (State or other jurisdiction of                        (I.R.S. Employer
+       incorporation or organization)                       Identification No.)
+
+487 East Middlefield Road, Mountain View, CA                       94043
+  (Address of principal executive offices)                       (Zip Code)
+</TABLE>
+
+              Registrant's telephone number, including area code:
+                                 (650) 961-7500
+
+                               ----------------
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [_]
+
+   Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date:
+
+<TABLE>
+<CAPTION>
+                                              Shares
+                                            Outstanding
+                  Class                    July 31, 2001
+                  -----                    -------------
+            <S>                            <C>
+            Common stock, $.001 par value   202,871,146
+</TABLE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                 Page
+                                                                                                 ----
+<S>      <C>                                                                                     <C>
+                                 PART I--FINANCIAL INFORMATION
+
+Item 1.  Condensed Consolidated Financial Statements (Unaudited)................................   3
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results of Operations..  13
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk.............................  35
+
+                                  PART II--OTHER INFORMATION
+
+Item 1.  Legal Proceedings......................................................................  37
+
+Item 4.  Submission of Matters to a Vote of Security Holders....................................  39
+
+Item 6.  Exhibits and Reports on Form 8-K.......................................................  39
+
+Signatures.....................................................................................   40
+</TABLE>
+
+                                       2
+<PAGE>
+
+                         PART I--FINANCIAL INFORMATION
+
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+
+   As required under Item 1--Condensed Consolidated Financial Statements
+(Unaudited) included in this section are as follows:
+
+<TABLE>
+<CAPTION>
+                      Financial Statement Description                      Page
+                      -------------------------------                      ----
+   <S>                                                                     <C>
+   .Condensed Consolidated Balance Sheets as of June 30, 2001 and
+        December 31, 2000................................................    4
+
+   .Condensed Consolidated Statements of Operations for the Three and Six
+        Months Ended June 30, 2001 and 2000..............................    5
+
+   .Condensed Consolidated Statements of Cash Flows for the Six Months
+        Ended June 30, 2001 and 2000.....................................    6
+
+   .Notes to Condensed Consolidated Financial Statements.................    7
+</TABLE>
+
+                                       3
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                       (In thousands, except share data)
+
+<TABLE>
+<CAPTION>
+                                                       June 30,    December 31,
+                                                         2001          2000
+                                                     ------------  ------------
+                       ASSETS
+                       ------
+
+<S>                                                  <C>           <C>
+Current assets:
+  Cash and cash equivalents......................... $    450,014  $   460,362
+  Short-term investments............................      348,160      565,913
+  Accounts receivable, net..........................      189,622      128,011
+  Prepaid expenses and other current assets.........       29,065       32,146
+                                                     ------------  -----------
+    Total current assets............................    1,016,861    1,186,432
+Property and equipment, net.........................      133,073      105,602
+Goodwill and other intangible assets, net...........    5,067,158   17,656,641
+Long-term investments...............................      458,123      209,145
+Deferred income taxes...............................       63,429          --
+Other assets, net...................................       30,104       37,402
+                                                     ------------  -----------
+                                                     $  6,768,748  $19,195,222
+                                                     ============  ===========
+
+        LIABILITIES AND STOCKHOLDERS' EQUITY
+        ------------------------------------
+
+Current liabilities:
+  Accounts payable and accrued liabilities.......... $    222,655  $   212,766
+  Deferred revenue..................................      435,252      452,713
+                                                     ------------  -----------
+    Total current liabilities.......................      657,907      665,479
+                                                     ------------  -----------
+Long-term deferred revenue..........................      134,750       55,575
+Other long-term liabilities.........................        3,637        3,560
+                                                     ------------  -----------
+    Total long-term liabilities.....................      138,387       59,135
+                                                     ------------  -----------
+Commitments and contingencies
+
+Stockholders' equity:
+  Preferred stock--par value $.001 per share
+   Authorized shares: 5,000,000
+   Issued and outstanding shares: none..............          --           --
+  Common stock--par value $.001 per share
+   Authorized shares: 1,000,000,000
+   Issued and outstanding shares: 202,649,457 and
+    198,639,497 excluding 40,000 shares held in
+    treasury........................................          203          199
+Additional paid-in capital..........................   21,734,677   21,670,647
+Notes receivable from stockholders..................         (252)        (245)
+Unearned compensation...............................      (34,286)     (36,365)
+Accumulated deficit.................................  (15,731,033)  (3,162,926)
+Accumulated other comprehensive income (loss).......        3,145         (702)
+                                                     ------------  -----------
+    Total stockholders' equity......................    5,972,454   18,470,608
+                                                     ------------  -----------
+                                                     $  6,768,748  $19,195,222
+                                                     ============  ===========
+</TABLE>
+
+     See accompanying Notes to Condensed Consolidated Financial Statements
+
+                                       4
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (In thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                        Three Months Ended June 30,    Six Months Ended June 30,
+                                                        ------------------------------ ----------------------------
+                                                             2001            2000           2001          2000
+                                                        ---------------  ------------- --------------  ------------
+<S>                                                     <C>              <C>           <C>             <C>
+Revenues..............................................  $       231,197  $     70,254  $      444,610  $   104,325
+                                                        ---------------  ------------  --------------  -----------
+Costs and expenses:
+  Cost of revenues....................................           80,308        22,570         154,648       35,032
+  Sales and marketing.................................           65,337        28,885         129,788       42,518
+  Research and development............................           20,659         7,114          40,546       11,543
+  General and administrative..........................           34,842         8,154          66,008       11,836
+  Write-off of acquired in-process research and
+   development........................................              --         54,000             --        54,000
+  Amortization and write-down of goodwill and other
+   intangible assets..................................       11,269,036       409,216      12,643,805      470,230
+                                                        ---------------  ------------  --------------  -----------
+    Total costs and expenses..........................       11,470,182       529,939      13,034,795      625,159
+                                                        ---------------  ------------  --------------  -----------
+    Operating loss....................................      (11,238,985)     (459,685)    (12,590,185)    (520,834)
+Other income:
+  Interest and investment income (loss)...............           19,165         6,871         (34,035)      42,107
+  Other income (expense), net.........................              (14)          (67)             23         (456)
+                                                        ---------------  ------------  --------------  -----------
+    Total other income (expense)......................           19,151         6,804         (34,012)      41,651
+                                                        ---------------  ------------  --------------  -----------
+    Loss before income taxes and minority interest....      (11,219,834)     (452,881)    (12,624,197)    (479,183)
+Income tax benefit....................................           29,413           --           56,609          --
+                                                        ---------------  ------------  --------------  -----------
+    Loss before minority interest.....................      (11,190,421)     (452,881)    (12,567,588)    (479,183)
+                                                        ---------------  ------------  --------------  -----------
+Minority interest in net (income) loss of subsidiary..             (309)          (57)           (519)          90
+                                                        ---------------  ------------  --------------  -----------
+  Net loss............................................  $   (11,190,730) $   (452,938) $  (12,568,107) $  (479,093)
+                                                        ===============  ============  ==============  ===========
+Net loss per share:
+  Basic and diluted...................................  $        (55.49) $      (3.37) $       (62.65) $     (3.94)
+                                                        ===============  ============  ==============  ===========
+Shares used in per share computation:
+  Basic and diluted...................................          201,675       134,437         200,624      121,586
+                                                        ===============  ============  ==============  ===========
+</TABLE>
+
+
+     See accompanying Notes to Condensed Consolidated Financial Statements
+
+                                       5
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (In thousands)
+
+<TABLE>
+<CAPTION>
+                                                         Six Months Ended
+                                                             June 30,
+                                                     -------------------------
+                                                         2001         2000
+                                                     ------------  -----------
+<S>                                                  <C>           <C>
+Cash flows from operating activities:
+  Net loss.......................................... $(12,568,107) $  (479,093)
+  Adjustments to reconcile net loss to net cash
+   provided by operating activities:
+    Depreciation and amortization of property and
+     equipment......................................       24,488        7,905
+    Amortization and write-down of goodwill and
+     other intangible assets........................   12,643,805      470,230
+    Write-off of acquired in-process research and
+     development....................................          --        54,000
+    Gain on sale of marketable securities...........       (2,114)     (32,623)
+    Write-down of investments.......................       74,690          --
+    Minority interest in net income of subsidiary...          519          (90)
+    Deferred income taxes...........................      (56,609)         --
+    Amortization of unearned compensation...........        7,520           51
+    Loss on disposal of property and equipment......          --            77
+  Changes in operating assets and liabilities:
+    Accounts receivable.............................      (60,206)     (14,023)
+    Prepaid expenses and other current assets.......        3,534          963
+    Accounts payable and accrued liabilities........        9,757       32,872
+    Deferred revenue................................       38,269       26,788
+                                                     ------------  -----------
+      Net cash provided by operating activities.....      115,546       67,057
+                                                     ------------  -----------
+Cash flows from investing activities:
+  Purchases of short-term investments...............     (596,745)     (18,186)
+  Proceeds from maturities and sales of short-term
+   investments......................................      810,482       82,446
+  Purchases of long-term investments................     (374,099)     (80,456)
+  Proceeds from maturities and sales of long-term
+   investments......................................       42,774       52,184
+  Purchases of property and equipment...............      (45,677)     (17,246)
+  Net cash (paid) acquired in business
+   combinations.....................................      (12,210)     852,412
+  Transaction costs.................................      (10,890)     (11,580)
+  Other assets......................................          786          615
+                                                     ------------  -----------
+      Net cash (used in) provided by investing
+       activities...................................     (185,579)     860,189
+                                                     ------------  -----------
+Cash flows from financing activities: (Issuance)
+ collections on notes receivable from stockholders,
+ net................................................           (7)         511
+      Net proceeds from issuance of common stock....       61,063       15,211
+                                                     ------------  -----------
+Net cash provided by financing activities...........       61,056       15,722
+                                                     ------------  -----------
+Effect of exchange rate changes on cash.............       (1,371)         177
+                                                     ------------  -----------
+Net (decrease) increase in cash and cash
+ equivalents........................................      (10,348)     943,145
+Cash and cash equivalents at beginning of period....      460,362       70,382
+                                                     ------------  -----------
+Cash and cash equivalents at end of period.......... $    450,014  $ 1,013,527
+                                                     ============  ===========
+Supplemental cash flow disclosures:
+  Noncash investing and financing activities:
+    Issuance of common stock for business
+     combinations................................... $        --   $19,330,837
+                                                     ============  ===========
+    Unrealized gain on investments, net of tax...... $      5,218  $     7,750
+                                                     ============  ===========
+</TABLE>
+
+     See accompanying Notes to Condensed Consolidated Financial Statements
+
+                                       6
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1. Basis of Presentation
+
+   The accompanying interim unaudited condensed consolidated balance sheets,
+statements of operations and cash flows reflect all adjustments, consisting of
+normal recurring adjustments and other adjustments, that are, in the opinion of
+management, necessary for a fair presentation of the financial position of
+VeriSign, Inc. and its subsidiaries ("VeriSign" or the "Company"), at June 30,
+2001, and the results of operations and cash flows for the interim periods
+ended June 30, 2001 and 2000.
+
+   The accompanying unaudited condensed consolidated financial statements have
+been prepared by the Company in accordance with the instructions for Form 10-Q
+pursuant to the rules and regulations of the Securities and Exchange Commission
+("SEC") and, therefore, do not include all information and notes normally
+provided in audited financial statements and should be read in conjunction with
+the financial statements of the Company for the year ended December 31, 2000,
+included in the annual report previously filed on Form 10-K.
+
+   The results of operations for any interim period are not necessarily
+indicative, nor comparable to the results of operations for any other interim
+period or for a full fiscal year.
+
+   The carrying amount of cash and cash equivalents, investments, accounts
+receivable, and accounts payable approximate their respective fair values.
+
+Note 2. Goodwill and Other Intangible Assets
+
+   During 2000, the Company completed several acquisitions, including the
+acquisitions of THAWTE Consulting (Pty) Limited ("THAWTE"), Signio, Inc.
+("Signio") and Network Solutions, Inc. ("Network Solutions"). These
+acquisitions resulted in the recording of goodwill of approximately $21.3
+billion. VeriSign reviews its goodwill and other intangible assets for
+impairment whenever events or changes in circumstances indicate that the
+carrying amount of these assets may not be recoverable. The Company's policy is
+to assess the recoverability of goodwill using estimated undiscounted cash
+flows. Those cash flows include an estimated terminal value based on a
+hypothetical sale of an acquisition at the end of the related goodwill
+amortization period. Though the acquisitions have predominantly been performing
+at or above expectations, market conditions and attendant multiples used to
+estimate terminal values have continued to remain depressed. At June 30, 2000,
+the NASDAQ market index was at 3,966 points and has decreased 1,805 points, or
+46%, to 2,161 points at June 30, 2001. This decline has affected the analysis
+used to assess the recoverability of goodwill. As a result, management has
+recorded an impairment charge in the quarter ended June 30, 2001, in the amount
+of $9.9 billion. Since these acquisitions were completed by issuing shares of
+the Company's common stock, the impairment should be considered a non-cash
+charge. At June 30, 2001, VeriSign had a remaining balance of $5.1 billion of
+goodwill and other intangible assets.
+
+   The impairment of goodwill and other intangible assets resulted in a write-
+off of the net book value as follows:
+
+<TABLE>
+<CAPTION>
+                                                    Network
+                                  THAWTE   Signio  Solutions   Other    Total
+                                 -------- -------- ---------- ------- ----------
+                                                 (In thousands)
+   <S>                           <C>      <C>      <C>        <C>     <C>
+   Goodwill..................... $100,451 $447,442 $9,228,263 $63,064 $9,839,220
+   Trade names..................      --     2,501     49,535     --      52,036
+                                 -------- -------- ---------- ------- ----------
+                                 $100,451 $449,943 $9,277,798 $63,064 $9,891,256
+                                 ======== ======== ========== ======= ==========
+</TABLE>
+
+                                       7
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+Note 3. Long-term Investments
+
+   VeriSign invests in debt and equity securities of technology companies for
+business and strategic purposes. These investments are included in long-term
+investments. Investments in non-public companies are accounted for under the
+cost method. For these non-quoted investments, VeriSign regularly reviews the
+operating performance and cash flow forecasts in assessing each investment's
+carrying value. Investments in public companies are recorded at fair market
+value with the associated unrealized gain or loss included in accumulated other
+comprehensive income. VeriSign identifies and records impairment losses on its
+investments when circumstances indicate that a decline in the fair value of an
+investment is other than temporary. During the first quarter of 2001, the
+Company determined that the decline in value of certain of the Company's public
+and non-public equity investments was other than temporary and recorded a
+write-down of these investments totaling $74.7 million.
+
+Note 4. Comprehensive Loss
+
+   Comprehensive loss consists of net loss and accumulated other comprehensive
+income (loss). The components of comprehensive loss are as follows:
+
+<TABLE>
+<CAPTION>
+                                Three Months Ended        Six Months Ended
+                                     June 30,                 June 30,
+                              -----------------------  -----------------------
+                                  2001        2000         2001        2000
+                              ------------  ---------  ------------  ---------
+                                             (In thousands)
+   <S>                        <C>           <C>        <C>           <C>
+   Net loss.................  $(11,190,730) $(452,938) $(12,568,107) $(479,093)
+   Change in unrealized gain
+    (loss) on investments,
+    net of tax..............           357    (38,130)        5,218    (46,291)
+   Translation adjustments..           239         87        (1,371)       177
+                              ------------  ---------  ------------  ---------
+   Comprehensive loss.......  $(11,190,134) $(490,981) $(12,564,260) $(525,207)
+                              ============  =========  ============  =========
+</TABLE>
+
+Note 5. Calculation of Net Loss per Share
+
+   Basic net loss per share is computed using the weighted average number of
+common shares outstanding during the period. Diluted net loss per share is
+computed using the weighted-average number of common shares and, when dilutive,
+common equivalent shares from options to purchase common stock using the
+treasury stock method. In the periods where the Company has a net loss, net
+loss per share on a diluted basis is equivalent to basic net loss per share
+because the effect of converting outstanding stock options would be anti-
+dilutive. In addition, options to purchase shares of common stock were not
+included in the computation of diluted earnings per share in periods where the
+options exercise price was greater than the average market price of the common
+shares and therefore, the effect would be anti-dilutive. At June 30, 2001,
+options to purchase 28,567,148 shares of common stock were outstanding and at
+June 30, 2000, options to purchase 27,206,356 shares of common stock were
+outstanding.
+
+                                       8
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+   The following table represents the computation of basic and diluted net loss
+per share:
+
+<TABLE>
+<CAPTION>
+                                 Three Months Ended        Six Months Ended
+                                      June 30,                 June 30,
+                               -----------------------  -----------------------
+                                   2001        2000         2001        2000
+                               ------------  ---------  ------------  ---------
+                                   (In thousands, except per share data)
+   <S>                         <C>           <C>        <C>           <C>
+   Basic and diluted net loss
+    per share:
+     Net loss................  $(11,190,730) $(452,938) $(12,568,107) $(479,093)
+                               ============  =========  ============  =========
+   Determination of basic and
+    diluted shares:
+     Weighted average shares
+      outstanding............       201,675    134,469       200,624    121,811
+     Weighted average shares
+      issued and subject to
+      repurchase agreements..           --         (32)          --        (225)
+                               ------------  ---------  ------------  ---------
+   Basic and diluted average
+    common shares
+    outstanding..............       201,675    134,437       200,624    121,586
+                               ============  =========  ============  =========
+   Basic and diluted net loss
+    per share................  $     (55.49) $   (3.37) $     (62.65) $   (3.94)
+                               ============  =========  ============  =========
+</TABLE>
+
+Note 6. Segment Information
+
+ Description of segments
+
+   Effective January 1, 2001, VeriSign organized its business into two
+reportable operating segments, the Mass Markets Division and the Enterprise and
+Service Provider Division. The segments were determined based primarily on how
+the Chief Operating Decision Maker views and evaluates VeriSign's operations.
+The Chief Executive Officer has been identified as the Chief Operating Decision
+Maker as defined by Statement of Financial Accounting Standards ("SFAS") No.
+131. Other factors, including customer base, homogeneity of products,
+technology and delivery channels, were also considered in determining the
+reportable segments. The performance of each segment is measured based on
+several metrics, including gross margin.
+
+   The Mass Markets Division provides domain name registration, digital
+certificate and payment services and other value-added services to small and
+medium sized companies as well as to individual consumers. The Enterprise and
+Service Provider Division provides similar products and services to larger
+enterprises and service providers who want to establish and deliver secure
+Internet-based services for their customers in both business-to-consumer and
+business-to-business environments.
+
+                                       9
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+   The following table reflects the results of VeriSign's reportable segments
+under VeriSign's management system. The "Other" segment consists primarily of
+unallocated corporate expenses. These results are used, in part, by the Chief
+Operating Decision Maker and by management, in evaluating the performance of,
+and in allocating resources to, each of the segments. Internal revenues and
+gross margin include transactions between segments that are intended to reflect
+an arm's length transfer at the best price available for comparable external
+transactions. Prior to the acquisition of Network Solutions in June of 2000,
+all of VeriSign's revenues and expenses were included in the Enterprise and
+Service Provider Division, therefore information for the three-month period and
+six-month period ended June 30, 2000, is not relevant.
+
+<TABLE>
+<CAPTION>
+                                                    Enterprise and
+                                      Mass Markets Service Provider           Total
+                                        Division       Division      Other   Segments
+                                      ------------ ---------------- -------  --------
+                                                      (In thousands)
+   <S>                                <C>          <C>              <C>      <C>
+   Three months ended June 30, 2001:
+     External revenues..............    $145,845       $ 85,352     $   --   $231,197
+     Internal revenues..............         --          34,985         --     34,985
+                                        --------       --------     -------  --------
+       Total revenues...............    $145,845       $120,337     $   --   $266,182
+                                        ========       ========     =======  ========
+     Segment gross margin...........    $102,606       $ 50,129     $(1,846) $150,889
+                                        ========       ========     =======  ========
+
+   Six months ended June 30, 2001:
+     External revenues..............    $282,522       $162,088     $   --   $444,610
+     Internal revenues..............         --          67,573         --     67,573
+                                        --------       --------     -------  --------
+       Total revenues...............    $282,522       $229,661     $   --   $512,183
+                                        ========       ========     =======  ========
+     Segment gross margin...........    $198,605        $97,310     $(5,953) $289,962
+                                        ========       ========     =======  ========
+</TABLE>
+
+   Assets are not tracked by segment and the Chief Operating Decision Maker
+does not evaluate segment performance based on asset utilization.
+
+ Reconciliation to VeriSign, as reported
+
+<TABLE>
+<CAPTION>
+                                          Three Months Ended        Six Months Ended
+                                               June 30,                 June 30,
+                                        -----------------------  -----------------------
+                                            2001        2000         2001        2000
+                                        ------------  ---------  ------------  ---------
+                                                       (In thousands)
+   <S>                                  <C>           <C>        <C>           <C>
+   Revenues:
+     Total segments...................  $    266,182  $  76,466  $    512,183  $ 110,537
+     Elimination of internal
+      revenues........................       (34,985)    (6,212)      (67,573)    (6,212)
+                                        ------------  ---------  ------------  ---------
+       Revenues, as reported..........  $    231,197  $  70,254       444,610    104,325
+                                        ============  =========  ============  =========
+   Net loss:
+     Segment gross margin.............  $    150,889  $  47,684  $    289,962  $  69,293
+     Operating expenses...............    11,389,874    507,369    12,880,147    590,127
+                                        ------------  ---------  ------------  ---------
+     Operating loss...................   (11,238,985)  (459,685)  (12,590,185)  (520,834)
+     Other income (loss)..............        19,151      6,804       (34,012)    41,651
+     Income tax benefit...............        29,413        --         56,609        --
+     Minority interest in net (income)
+      loss of subsidiary..............          (309)       (57)         (519)        90
+                                        ------------  ---------  ------------  ---------
+       Net loss, as reported..........  $(11,190,730) $(452,938) $(12,568,107) $(479,093)
+                                        ============  =========  ============  =========
+</TABLE>
+
+                                       10
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+ Geographic information
+
+<TABLE>
+<CAPTION>
+                                                Three Months   Six Months Ended
+                                               Ended June 30,      June 30,
+                                              ---------------- -----------------
+                                                2001    2000     2001     2000
+                                              -------- ------- -------- --------
+                                                        (In thousands)
+   <S>                                        <C>      <C>     <C>      <C>
+   Revenues:
+     United States........................... $200,363 $55,356 $390,776 $ 78,927
+     All other countries.....................   30,834  14,898   53,834   25,398
+                                              -------- ------- -------- --------
+       Total................................. $231,197 $70,254 $444,610 $104,325
+                                              ======== ======= ======== ========
+</TABLE>
+
+   VeriSign operates in the United States, Canada, Europe, Japan and South
+Africa. In general, revenues are attributed to the country in which the
+contract originated. However, revenues from all digital certificates issued
+from the Mountain View, California facility and domain names issued from the
+Herndon, Virginia facility are attributed to the United States because it is
+impracticable to determine the country of origin.
+
+<TABLE>
+<CAPTION>
+                                                              As of June 30,
+                                                          ----------------------
+                                                             2001       2000
+                                                          ---------- -----------
+                                                              (In thousands)
+   <S>                                                    <C>        <C>
+   Long-lived assets:
+     United States....................................... $5,434,976 $19,760,873
+     All other countries.................................    253,482     561,953
+                                                          ---------- -----------
+       Total............................................. $5,688,458 $20,322,826
+                                                          ========== ===========
+</TABLE>
+
+   Long-lived assets consist primarily of goodwill and other intangible assets,
+property and equipment, long-term investments, and other long-term assets.
+
+Note 7. Income Taxes
+
+   Through the six months ended June 30, 2001, we have recorded a $56.6 million
+tax benefit for the pretax loss not attributable to the amortization of
+goodwill and other acquired intangible assets that are not deductible for tax
+purposes.
+
+   As of June 30, 2001, we had federal net operating loss carryforwards of
+approximately $416.8 million related to stock compensation expense and $358.8
+million related to continuing operations. We also had state net operating loss
+carryforwards of approximately $236.3 million related to stock compensation
+expense and $200.4 million related to continuing operations. The federal net
+operating loss carryforwards will expire in 2010 through 2020 and the state net
+operating loss carryforwards will expire in 2004 through 2020. The Tax Reform
+Act of 1986 imposes substantial restrictions on the utilization of net
+operating losses and tax credits in the event of a corporation's ownership
+change, as defined in the Internal Revenue Code. Our ability to utilize net
+operating loss carryforwards may be limited if such ownership change occurs.
+
+   Our accounting for deferred taxes under Statement of Financial Accounting
+Standards No. 109, "Accounting for Income Taxes," involves the evaluation of a
+number of factors concerning the realizability of our deferred tax assets. In
+concluding that a valuation allowance was required, we considered such factors
+as our history of operating losses and expected future losses and the nature of
+our deferred tax assets. Although our operating plans assume taxable and
+operating income in future periods, our evaluation of all of the available
+evidence in assessing the realizability of the deferred tax assets indicated
+that such plans were not considered sufficient to overcome the available
+negative evidence. The possible future reversal of the valuation
+
+                                       11
+<PAGE>
+
+                        VERISIGN, INC. AND SUBSIDIARIES
+
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+allowance will result in future income statement benefit to the extent the
+valuation allowance was applied to deferred tax assets generated through
+ongoing operations. To the extent the valuation allowance relates to deferred
+tax assets generated through stock compensation deductions, the possible future
+reversal of such valuation allowance will result in a credit to additional paid
+in capital and will not result in future income statement benefit.
+
+Note 8. Commitments and Contingencies
+
+ Legal Proceedings
+
+   The Department of Justice ("DOJ") Antitrust Division issued a Civil
+Investigative Demand ("CID") in January 2000, seeking information and documents
+concerning the then pending acquisition by VeriSign of THAWTE. VeriSign has
+complied with the information requests of the CID, and has provided additional
+information to the DOJ to alleviate their concerns about the potential
+competitive effects of the transaction. While management believes that the
+transaction does not violate the antitrust laws, it is possible that the DOJ
+may ultimately raise an objection. Formal objection could lead to further
+proceedings or litigation that could have an adverse material effect on
+VeriSign, and could include the licensing or divestiture of assets acquired in
+the transaction.
+
+   VeriSign is engaged in other complaints, lawsuits and investigations arising
+in the ordinary course of business. VeriSign believes that it has adequate
+legal defenses and that the ultimate outcome of these actions will not have a
+material effect on VeriSign's consolidated financial position and results of
+operations.
+
+Note 9. Recent Accounting Pronouncements
+
+   On July 20, 2001, the Financial Accounting Standards Board ("FASB") issued
+Statement No. 141, "Business Combinations" and Statement No. 142, "Goodwill and
+Other Intangible Assets."
+
+   Statement 141 requires that all business combinations be accounted for under
+the purchase method. Use of the pooling-of-interests method is no longer
+permitted. Statement 141 requires that the purchase method be used for business
+combinations initiated after June 30, 2001. The Company will adopt the
+provisions of Statement 141 commencing July 1, 2001. To date, the Company has
+accounted for all of its business combinations as purchases and the adoption of
+Statement 141 is not expected to have a significant impact on the Company's
+financial position or results of operations.
+
+   Statement 142 requires that goodwill resulting from a business combination
+no longer be amortized to earnings, but instead be reviewed for impairment. The
+Company is required to adopt Statement No. 142 as of January 1, 2002. For
+goodwill resulting from business combinations prior to July 1, 2001,
+amortization of such goodwill will continue through December 31, 2001, but will
+cease commencing January 1, 2002. For business combinations occurring on or
+after July 1, 2001, the associated goodwill will not be amortized. Upon
+adoption of Statement 142, the Company is required to perform a transitional
+impairment test for all recorded goodwill within six months and, if necessary,
+determine the amount of an impairment loss by December 31, 2002. The effects of
+adopting Statement 142 are currently being determined.
+
+                                       12
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+Forward-Looking Statements
+
+   You should read the following discussion in conjunction with the interim
+unaudited condensed consolidated financial statements and related notes.
+
+   Except for historical information, this Report contains forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933 and
+Section 21E of the Securities Exchange Act of 1934. These forward-looking
+statements involve risks and uncertainties, including, among other things,
+statements regarding our anticipated costs and expenses and revenue mix.
+Forward-looking statements include, among others, those statements including
+the words "expects," "anticipates," "intends," "believes" and similar language.
+Our actual results may differ significantly from those projected in the
+forward-looking statements. Factors that may affect future results of
+operations and cause or contribute to such differences include, but are not
+limited to, those discussed in the section "Factors That May Affect Future
+Results of Operations". You should carefully review the risks described in
+other documents we file from time to time with the Securities and Exchange
+Commission, including the Quarterly Reports on Form 10-Q that we have or will
+file in 2001 and our Annual Report on Form 10-K for the period ended December
+31, 2000, which was filed on March 28, 2001. You are cautioned not to place
+undue reliance on the forward-looking statements, which speak only as of the
+date of this Quarterly Report on Form 10-Q. We undertake no obligation to
+publicly release any revisions to the forward-looking statements or reflect
+events or circumstances after the date of this document.
+
+Overview
+
+   VeriSign is a leading provider of trusted infrastructure services to website
+owners, enterprises, electronic commerce service providers and individuals. Our
+domain name registration, digital certificate, global registry and payment
+services provide the critical web identity, authentication and transaction
+infrastructure that online businesses need to establish their web identities
+and to conduct secure e-commerce and communications. Our services support
+businesses and consumers from the moment they first establish an Internet
+presence through the entire lifecycle of e-commerce activities.
+
+   Our core authentication service offerings were established as the
+cornerstone of the business in 1995 with the introduction of website digital
+certificates. Through our secure online infrastructure we sell our website
+digital certificates to online businesses, large enterprises, government
+agencies and other organizations. We have established strategic relationships
+with industry leaders, including British Telecommunications plc, Cisco,
+Microsoft, RSA Security and VISA, to enable widespread utilization of our
+digital certificate services and to assure interoperability with a wide variety
+of applications and network equipment. We also offer VeriSign OnSite, a managed
+service that allows an organization to leverage our trusted data processing
+infrastructure to develop and deploy customized digital certificate services
+for use by employees, customers and business partners.
+
+   We market our authentication services worldwide through multiple
+distribution channels, including the Internet, direct sales, telesales, value
+added resellers, systems integrators and member organizations in our
+international network of affiliates. A significant portion of our
+authentication services revenues to date have been generated through sales from
+our website, but we intend to continue to expand our direct sales force, both
+in the United States and abroad, and to continue to expand our other
+distribution channels. We continue to build an international network of
+affiliates ("VeriSign Trust Network") who provide our trust services under
+licensed co-branding relationships using our proprietary technology and
+business practices. The VeriSign Trust Network now consists of 38 member
+organizations including British Telecommunications plc in the United Kingdom,
+Canadian Imperial Bank of Commerce of Canada, Certplus of France, eSign of
+Australia, HiTrust of Taiwan, Roccade of The Netherlands, and Telia in Sweden.
+These international service providers utilize common technology, operating
+practices and infrastructure to deliver interoperable trust services for a
+specific geographic region or vertical market.
+
+                                       13
+<PAGE>
+
+   We market our payment services worldwide through multiple distribution
+channels, including the Internet, direct sales, telesales, value added
+resellers, and systems integrators. A significant portion of our payment
+services revenues to date has been generated through sales from our website,
+but we intend to continue to expand our direct sales force, both in the United
+States and abroad, and to continue to expand our other distribution channels.
+
+   Our registry business, now VeriSign Global Registry Service ("Registry"), is
+the exclusive registry for second level domain names within the .com, .net and
+ .org top-level domains under agreements with the Internet Corporation for
+Assigned Names and Numbers ("ICANN") and the Department of Commerce ("DOC").
+Internet domain names are unique identities that enable businesses, other
+organizations and individuals to communicate and conduct commerce on the
+Internet. As a registry, VeriSign Global Registry Service maintains the master
+directory of all second level domain names in the .com, .net and .org top-level
+domains. VeriSign Global Registry Service owns and maintains the shared
+registration system that allows all registrars, including our own, to enter new
+second level domain names into the master directory and to submit
+modifications, transfers, re-registrations and deletions for existing second
+level domain names. As of June 30, 2001, the VeriSign Global Registry Service
+had approximately 32.4 million domain names under management in its
+authoritative database of domain names ending in .com, .net and .org.
+
+   Our Web Presence Services business markets second level domain name
+registration services, through our registrar ("Registrar"), and other value-
+added services that enable our customers to establish their identities on the
+web. The Registrar markets its services through a number of distribution
+channels, including the Internet, premier partner and business account partner
+programs, and strategic alliances. As of June 30, 2001, the Registrar had
+approximately 16.0 million domain names under management in the .com, .net and
+ .org top-level domains.
+
+   In December 1992, Network Solutions entered into the Cooperative Agreement
+with the National Science Foundation under which Network Solutions was to
+provide Internet domain name registration services for five top-level domains:
+ .com, .net, .org, .edu and .gov. These registration services include the
+initial two-year domain name registration and annual re-registration, and
+throughout the registration term, maintenance of and unlimited modifications to
+individual domain name records and updates to the master file of domain names.
+In September 1998, the DOC took over the administration of the Cooperative
+Agreement from the National Science Foundation. In October 1998, the
+Cooperative Agreement was amended to extend its term until September 30, 2000,
+and to transition to a shared registration system.
+
+   On November 10, 1999, Network Solutions, the DOC and ICANN entered into a
+series of wide-ranging agreements relating to the domain name system. Under
+these agreements, Network Solutions recognized ICANN as the not-for-profit
+corporation described in the Cooperative Agreement as amended, became an ICANN-
+accredited registrar and agreed to operate the registry in accordance with the
+provisions of the registry agreement and the consensus policies established by
+ICANN in accordance with the terms of that agreement. Our Registrar will be an
+accredited registrar through November 9, 2004, with a right to renew
+indefinitely in accordance with the Cooperative Agreement. Our Registry charges
+registrars $6 per domain name registration per year unless increased to cover
+increases in registry costs under circumstances described in the Cooperative
+Agreement.
+
+   In May 2001, the DOC approved agreements between the Company and ICANN and
+certain amendments to the Cooperative Agreement with the DOC that outline new
+terms for the continuation of our role as both the registry and a registrar for
+the .com, .net and .org top-level domains ("TLDs"). Under the terms of the new
+agreements, we will continue to operate the .com registry until at least 2007
+and the .net registry until at least June 30, 2005; we will continue to operate
+both registries beyond these dates under certain conditions as set forth in the
+agreements. The Company's continued operation of the .net registry through June
+30, 2005, is subject to adjustment if certain market measurements indicate that
+competition in the registry or registrar market is not growing or meeting
+established goals. Depending on whether the share of registered names in the
+ .biz, .info, .name, and .pro TLDs reaches certain specified levels as of
+December 31, 2002, and whether the Registrar's share of the net increase in new
+registered names in .com and .net during the year 2002 exceeds certain
+specified levels, the expiration date for the .net registry may be adjusted to
+November 10, 2003, or the expiration date may remain unchanged but a subsequent
+measurement may be required on March 31, 2004. If
+
+                                       14
+<PAGE>
+
+an additional measurement is required to be made on March 31, 2004, the
+expiration date for the .net registry may be adjusted to January 1, 2005, or
+may remain unchanged depending on whether the market measurements specified in
+the .net registry agreement are met. Additional terms of the agreements allow
+us to continue to operate our registrar business under the .com, .net and .org
+top-level domains. The existing structural separation between our registry and
+registrar businesses will remain in effect throughout the 2007 term with the
+Company agreeing to an independent audit of our registry/registrar structural
+separation annually. We will continue to operate the .org registry through
+December 2002 at which point that registry will return to its status for use by
+non-profit organizations around the world. We have further agreed to ensure an
+orderly transition of the .org registry and contribute a nominal endowment
+toward a new non-profit organization that will operate the .org registry.
+
+Results of Operations
+
+   We have experienced substantial net losses in the past and we expect to
+continue to report losses due to the charges we incur for the amortization of
+acquired goodwill and other intangible assets related to our acquisitions. As
+of June 30, 2001, we had an accumulated deficit of approximately $15.7 billion,
+primarily due to the amortization and write-down of goodwill and other
+intangible assets related to our acquisitions of approximately $15.8 billion.
+
+ Revenues
+
+   The Company recognizes revenue on software arrangements in accordance with
+SOP 97-2, "Software Revenue Recognition," as modified by SOP 98-9. SOP 97-2, as
+modified, generally requires revenue earned on software arrangements involving
+multiple elements such as software products, upgrades, enhancements, post
+contract customer support ("PCS"), installation, training, etc. to be allocated
+to each element based on the relative fair values of the elements. The fair
+value of an element must be based on evidence that is specific to the vendor.
+If evidence of fair value does not exist for all elements of a license
+agreement and PCS is the only undelivered element, then all revenue for the
+license arrangement is recognized ratably over the term of the agreement. If
+evidence of fair value of all undelivered elements exists but evidence does not
+exist for one or more delivered elements, then revenue is recognized using the
+residual method. Under the residual method, the fair value of the undelivered
+elements is deferred, and the remaining portion of the arrangement fee is
+recognized as revenue.
+
+   Revenues from authentication services consist of fees for the issuance of
+digital certificates, fees for digital certificate service provisioning, fees
+for technology and business process licensing to affiliates and fees for
+consulting, implementation, training, support and maintenance services. Each of
+these sources of revenue has different revenue recognition methods. Revenues
+from the sale or renewal of digital certificates are deferred and recognized
+ratably over the life of the digital certificate, generally 12 months. Revenues
+from the sale of OnSite managed services are deferred and recognized ratably
+over the term of the license, generally 12 months.
+
+   Revenues from the licensing of digital certificate technology and business
+process technology are sold in arrangements involving multiple elements
+including PCS, training and other services. PCS can be renewed annually for an
+additional fee. The Company uses the PCS renewal rate as evidence of fair value
+of PCS. The Company establishes evidence of fair value for training and other
+services through the price charged when the same element is sold separately.
+Since the Company has established evidence of fair value for all undelivered
+elements of these arrangements, revenue is recognized under the residual
+method. The fair value of PCS is recognized over the PCS term, training and
+other service revenue is recognized when delivered and the remaining portion of
+the arrangement fee is recognized after the execution of a license agreement
+and the delivery of these products to the customer, provided that there are no
+uncertainties surrounding the product acceptance, fees are fixed and
+determinable, collectibility is probable, and the Company has no remaining
+obligations other than the delivery of PCS.
+
+   Revenues from consulting and training services are recognized using the
+percentage-of-completion method for fixed-fee development arrangements or as
+the services are provided for time-and-materials arrangements.
+
+                                       15
+<PAGE>
+
+   Revenues from payment services primarily consist of a set-up fee and a
+monthly service fee for the transaction processing services. In accordance with
+the SEC Staff Accounting Bulletin (SAB) No. 101, "Revenue Recognition in
+Financial Statements," revenues from the set-up fee are deferred and recognized
+ratably over the period that the fees are earned. Revenues from the service
+fees are recognized ratably over the periods in which the services are
+provided. Advance customer deposits received are deferred and allocated ratably
+to revenue over the periods the services are provided.
+
+   On occasion, the Company has purchased goods or services for the Company's
+operations from vendors at or about the same time that the Company has licensed
+its software to these organizations. These transactions are separately
+negotiated and recorded at terms the Company considers to be arm's length.
+
+   Domain name registration revenues consist primarily of registration fees
+charged to customers and registrars for domain name registration services.
+Revenues from the sale or renewal of domain name registration services are
+deferred and recognized ratably over the registration term, ranging one to ten
+years. Domain name registration revenues consist primarily of registration fees
+charged to customers and registrars for domain name registration services. We
+defer revenues from the sale or renewal of domain name registration services
+and recognize these revenues ratably over the registration term.
+
+   We accounted for all of our acquisitions in 2000 as purchase business
+combinations. Accordingly, the acquired companies' revenues have been included
+in our results of operations beginning with their dates of acquisition. As a
+result of our acquisitions of THAWTE and Signio in February 2000, and Network
+Solutions in June 2000, comparisons of revenues for the three-month periods and
+six-month periods ended June 30, 2001 and 2000 may not be relevant, as the
+businesses of the combined company were not equivalent. The year-ago results
+reflect approximately four months of activity from THAWTE and Signio, and only
+22 days of activity from Network Solutions, which was acquired June 8, 2000.
+See our annual report filed on Form 10-K for the period ended December 31,
+2000.
+
+   A comparison of revenues for the three-month periods and six-month periods
+ended June 30, 2001 and 2000 is presented below.
+
+<TABLE>
+<CAPTION>
+                                                          2001     2000   Change
+                                                        -------- -------- ------
+                                                         (Dollars in thousands)
+   <S>                                                  <C>      <C>      <C>
+   Three-month period:
+     Revenues.........................................  $231,197 $ 70,254  229%
+   Six-month period:
+     Revenues.........................................  $444,610 $104,325  326%
+</TABLE>
+
+   Revenues increased significantly from the prior year primarily due to the
+acquisition of Network Solutions in June 2000. In addition, we increased sales
+of our authentication services, particularly our website digital certificates,
+and VeriSign OnSite services, expanded our international network of affiliates
+and delivered more training and consulting services.
+
+   In the second quarter of 2001, VeriSign issued approximately 95,000 new and
+renewed certificates compared to 64,000 new and renewed certificates issued in
+the second quarter of 2000, an increase of over 48%. During the first six
+months of 2001 the VeriSign website digital certificate business issued
+approximately 185,000 new and renewed certificates, bringing the total
+installed base to over 327,000 certificates. In particular, the Mass Market
+website certificate base grew to 238,000 up 28,000 from year-end 2000. VeriSign
+also added three new service providers in the first six months of 2001 bringing
+the total member organizations in our international network of affiliates to
+38, up from 28 at June 30, 2000.
+
+   A small portion of our revenue mix is from payment transaction services
+through VeriSign Payment Services. At June 30, 2001, the customer base for
+these services had grown to more than 52,000 online merchants using VeriSign
+Payment Services to payment-enable their online stores and business-to-business
+
+                                       16
+<PAGE>
+
+commerce activities. VeriSign Payment Services acquired approximately 27,000
+customers resulting from an acquisition in the second quarter of 2001. On a
+standalone basis, the Payment Services business added approximately 17,500
+customers since June 30, 2000, representing an increase of 236%, and added
+approximately 9,900 in the first six months of 2001, representing an increase
+of 66% since year-end 2000.
+
+   During the first six months of 2001 the Registrar increased domain names
+under management by approximately 1.0 million bringing the total domain names
+under management to approximately 16.0 million domain names at June 30, 2001,
+up from 11.8 million at June 30, 2000.
+
+   VeriSign Global Registry Service added 2.8 million net new domain names
+during the second quarter of 2001, bringing total domain names under management
+to 32.4 million, an increase of 68%, over 19.3 million names at June 30, 2000,
+and an increase of 15% since year-end 2000. VeriSign Global Registry Service
+also processed the renewal, extension or transfer of an additional 3.0 million
+domain names during the second quarter of 2001, bringing the total number of
+paid domain name transactions during the quarter to 5.8 million and 11.6
+million in the first six months of 2001.
+
+   Revenues from international subsidiaries and affiliates accounted for 13% of
+revenues in the second quarter of 2001 and 12% of revenues in the first six
+months of 2001 compared to 21% of revenues in the second quarter of 2000 and
+24% of revenues in the first six months of 2000. The percentage decrease in
+revenues from international subsidiaries and affiliates in 2001 was primarily
+related to the acquisition of Network Solutions whose revenue is attributable
+to the United States.
+
+ Costs and Expenses
+
+   All of our acquisitions in 2000 were accounted for as purchase business
+combinations and accordingly, the acquired companies' costs and expenses have
+been included in our results of operations beginning with their dates of
+acquisition. Therefore, comparisons of costs and expenses for the three-month
+periods and six-month periods ended June 30, 2001 and 2000 may not be relevant,
+as the businesses of the combined company were not equivalent.
+
+ Cost of revenues
+
+   Cost of revenues consists primarily of costs related to providing digital
+certificate enrollment and issuance services, payment services, domain name
+registration services, customer support and training, consulting and
+development services and costs of facilities and computer equipment used in
+these activities. In addition, with respect to our digital certificate
+services, cost of revenues also includes fees paid to third parties to verify
+certificate applicants' identities, insurance premiums for our service warranty
+plan and errors and omission insurance and the cost of software resold to
+customers.
+
+   A comparison of cost of revenues for the three-month periods and six-month
+periods ended June 30, 2001 and 2000 is presented below.
+
+<TABLE>
+<CAPTION>
+                                                         2001     2000    Change
+                                                       --------  -------  ------
+                                                       (Dollars in thousands)
+<S>                                                    <C>       <C>      <C>
+Three-month period:
+  Cost of revenues.................................... $ 80,308  $22,570   256%
+  Percentage of revenues..............................       35%      32%
+
+Six-month period:
+  Cost of revenues.................................... $154,648  $35,032   341%
+  Percentage of revenues..............................       35%      34%
+</TABLE>
+
+   Growth of revenues was the primary factor in the increase of cost of
+revenues during the three and six-month periods ended June 30, 2001, from the
+prior year. We hired more employees to support the growth of
+
+                                       17
+<PAGE>
+
+demand for our products and services and to support the growth of our security
+consulting and training activities. We incurred increased expenses for access
+to third-party databases, higher support charges for our external disaster
+recovery program, increased customer service costs related to our larger
+customer base and increased expenses related to the cost of software products
+resold to customers as part of network security solution implementations. Our
+acquisitions of THAWTE, Signio and Network Solutions have resulted in an
+increase in our cost of revenues since their acquisitions in 2000. Future
+acquisitions, further expansion into international markets and introductions of
+additional products will result in further increases in cost of revenues, due
+to additional personnel and related expenses and other factors. We anticipate
+that cost of revenues will continue to increase in absolute dollars as a result
+of continued growth in all of our lines of business.
+
+   Cost of revenues as a percentage of revenues increased in both the second
+quarter and the first six months of 2001 primarily due to the cost structures
+of Network Solutions' product mix.
+
+   Certain of our services, such as implementation consulting and training,
+require greater initial personnel involvement and therefore have higher costs
+than other types of services. As a result, we anticipate that cost of revenues
+as a percentage of revenues will vary in future periods depending on the mix of
+services sold.
+
+ Sales and marketing
+
+   Sales and marketing expenses consist primarily of costs related to sales,
+marketing, and external affair activities. These expenses include salaries,
+sales commissions and other personnel-related expenses, travel and related
+expenses, costs of computer and communications equipment and support services,
+facilities costs, consulting fees and costs of marketing programs, such as
+Internet, television, radio and print advertising.
+
+   A comparison of sales and marketing expenses for the three-month periods and
+six-month periods ended June 30, 2001 and 2000 is presented below.
+
+<TABLE>
+<CAPTION>
+                                                        2001     2000    Change
+                                                      --------  -------  ------
+                                                      (Dollars in thousands)
+   <S>                                                <C>       <C>      <C>
+   Three-month period:
+     Sales and marketing............................. $ 65,337  $28,885   126%
+     Percentage of revenues..........................       28%      41%
+
+   Six-month period:
+     Sales and marketing............................. $129,788  $42,518   205%
+     Percentage of revenues..........................       29%      41%
+</TABLE>
+
+   The Network Solutions acquisition in June 2000 was the primary reason for
+the increase in sales and marketing expenses during the second quarter and the
+first six months of 2001. The Web Presence Services group incurs expenses
+promoting the value of the .com, .net and .org web addresses as well as value-
+added services including web site design tools and other enhanced service
+offerings. The remainder of the increase during the three and six-month periods
+ended June 30, 2001, was driven by lead and demand generation activities in our
+authentication businesses, expansion of our sales force and an increase in
+international sales expenses.
+
+   While the absolute dollar spending increased for sales and marketing
+expenses in both the second quarter and the first six months of 2001, we
+continue to realize a decline in sales and marketing expenses as a percentage
+of revenues. This is primarily due to the increase in recurring revenues from
+existing customers, which tend to have lower acquisition costs and the increase
+in the productivity of the direct and inside sales forces.
+
+   We expect sales and marketing expenses to continue to increase on an
+absolute dollar basis in the future, although at a slower rate than in previous
+quarters, primarily related to an expanded sales force, expanded marketing and
+demand generation activities, development and enhancement of partner and
+distribution channels and promotional activities for Web Presence Services and
+products.
+
+                                       18
+<PAGE>
+
+ Research and development
+
+   Research and development expenses consist primarily of costs related to
+research and development personnel, including salaries and other personnel-
+related expenses, consulting fees and the costs of facilities, computer and
+communications equipment and support services used in service and technology
+development.
+
+   A comparison of research and development expenses for the three-month
+periods and six-month periods ended June 30, 2001 and 2000 is presented below.
+
+<TABLE>
+<CAPTION>
+                                                         2001     2000    Change
+                                                        -------  -------  ------
+                                                        (Dollars in thousands)
+   <S>                                                  <C>      <C>      <C>
+   Three-month period:
+     Research and development.......................... $20,659  $ 7,114   190%
+     Percentage of revenues............................       9%      10%
+   Six-month period:
+     Research and development.......................... $40,546  $11,543   251%
+     Percentage of revenues............................       9%      11%
+</TABLE>
+
+   Research and development expenses increased in absolute dollars in both the
+second quarter and the first six months of 2001 compared to the similar periods
+in 2000 primarily due to the acquisition of Network Solutions in June 2000. The
+increases relate to the development and enhancement of new registry products
+related to multilingual domain names and managed domain name system services.
+In addition, the increase is due to continued investment in the design, testing
+and deployment of, and technical support for our expanded Internet trust
+service offerings and technology. The absolute dollar increase reflects the
+expansion of our engineering staff and related costs required to support our
+continued emphasis on developing new products and services as well as enhancing
+existing products and services. The decrease in research and development
+expenses as a percentage of revenues in both the three and six-month periods
+ended June 30, 2001, compared to the similar periods in 2000 is largely due to
+the different cost structures related to our acquisitions and efficiencies we
+realize as our business matures.
+
+   We believe that timely development of new and enhanced authentication
+services, transaction services, Web Presence Services and technologies are
+necessary to maintain our position in the marketplace. Accordingly, we intend
+to continue to recruit experienced research and development personnel and to
+make other investments in research and development. As a result, we expect
+research and development expenses will continue to increase in absolute
+dollars. To date, we have expensed all research and development expenditures as
+incurred.
+
+ General and administrative
+
+   General and administrative expenses consist primarily of salaries and other
+personnel-related expenses for our executive, administrative, legal, finance
+and human resources personnel, facilities and computer and communications
+equipment, support services and professional services fees.
+
+   A comparison of general and administrative expenses for the three-month
+periods and six-month periods ended June 30, 2001 and 2000 is presented below.
+
+<TABLE>
+<CAPTION>
+                                                         2001     2000    Change
+                                                        -------  -------  ------
+                                                        (Dollars in thousands)
+   <S>                                                  <C>      <C>      <C>
+   Three-month period:
+     General and administrative........................ $34,842  $ 8,154   327%
+     Percentage of revenues............................      15%      12%
+   Six-month period:
+     General and administrative........................ $66,008  $11,836   458%
+     Percentage of revenues............................      15%      11%
+</TABLE>
+
+
+                                       19
+<PAGE>
+
+   The increase in general and administrative expenses for the second quarter,
+as well as the first six months of 2001, over the second quarter and first six
+months of 2000 was primarily related to the acquisition of Network Solutions in
+June 2000. Expenses also increased due to additional staffing levels required
+to manage and support our expanded operations, the implementation of additional
+management information systems, and the expansion of our corporate
+headquarters.
+
+   We anticipate that general and administrative expenses will continue to
+increase on an absolute dollar basis in the future as we expand our
+administrative and executive staff, add infrastructure, expand facilities and
+assimilate acquired technologies and businesses.
+
+ Amortization of goodwill and other intangible assets
+
+   During 2000 the Company completed several acquisitions including THAWTE,
+Signio and Network Solutions. These acquisitions resulted in the recording of
+goodwill and other intangible assets in the amount of $21.3 billion. The
+Company's policy is to assess the recoverability of goodwill using estimated
+undiscounted cash flows. Those cash flows include an estimated terminal value
+based on a hypothetical sale of an acquisition at the end of its goodwill
+amortization period. Though the acquisitions have been predominantly performing
+at or above expectations, market conditions and attendant multiples used to
+estimate terminal values have continued to remain depressed. At June 30, 2000,
+the NASDAQ market index was at 3,966 points and has decreased 1,805 points, or
+46%, to 2,161 points at June 30, 2001. This decline has affected the analysis
+used to assess the recoverability of goodwill. As a result, management has
+recorded an impairment charge in the quarter ended June 30, 2001, in the amount
+of $9.9 billion. Since the most significant acquisitions were completed by
+issuing shares of the Company's common stock, the impairment should be
+considered a non-cash charge.
+
+   The amortization of goodwill and other intangible assets was approximately
+$1.4 billion in the second quarter of 2001 compared to $409 million in the
+second quarter of 2000 and was approximately $2.7 billion in the first six
+months of 2001 compared to $470 million the first six months of 2000. The
+increase was primarily due to our purchase acquisition of Network Solutions in
+June 2000, which accounted for approximately $19.3 billon of additional
+goodwill and other intangible assets. We expect to recognize goodwill and other
+intangible asset amortization charges related to our acquisitions of
+approximately $460 million per quarter for the third and fourth quarters of
+2001. In accordance with the transitional provisions of FASB Statement 142,
+goodwill will no longer be amortized to earnings commencing January 1, 2002,
+but instead goodwill will be reviewed for impairment. Amortization of other
+intangible assets is expected to be approximately $63 million per quarter
+thereafter.
+
+ Other Income
+
+   Other income consists primarily of interest earned on our cash, cash
+equivalents and short-term and long-term investments and gains or losses on
+sales or write-downs of equity investments, as well as the net effect of
+foreign currency transaction gains and losses. Other income also includes
+charges for any gains or losses on the disposal of property and equipment and
+other miscellaneous expenses.
+
+   A comparison of other income for the three-month periods and six-month
+periods ended June 30, 2001 and 2000 is presented below.
+
+<TABLE>
+<CAPTION>
+                                                      2001      2000    Change
+                                                    --------   -------  ------
+                                                    (Dollars in thousands)
+   <S>                                              <C>        <C>      <C>
+   Three-month period:
+     Other income.................................. $ 19,151   $ 6,804    181%
+     Percentage of revenues........................        8 %      10%
+   Six-month period:
+     Other (expense) income........................ $(34,012)  $41,651   (182)%
+     Percentage of revenues........................      (8)%       40%
+</TABLE>
+
+
+                                       20
+<PAGE>
+
+   The change in other income in the second quarter of 2001 compared to the
+second quarter of 2000 was primarily due $19.2 million of interest and
+investment income in the second quarter of 2001 compared to $6.8 million of
+interest and investment income in the second quarter of 2000. Our average
+invested cash balances were higher in the second quarter of 2001 compared to
+the second quarter of 2000 due to our acquisition of Network Solutions in June
+2000, which added over $925 million of cash and investments.
+
+   The change in other income in the first six months of 2001 compared to the
+first six months of 2000 was primarily due to a write-down of investments
+totaling $74.7 million on certain public and non-public equity security
+investments offset by $40.7 million of interest and other income in the first
+six months of 2001 compared to a realized gain of $32.6 million from the sale
+of shares of Keynote Systems, Inc., and interest and other income of $9.0
+million in the first six months of 2000. During the first six months of 2001,
+we determined that the decline in value of certain of our public and non-public
+equity securities investments was other than temporary and recorded a write-
+down of these investments totaling $74.7 million. We had previously valued
+certain of these investments at the then fair market value as part of the
+Network Solutions acquisition. We may from time to time recognize gains or
+losses from the sales, write-downs or write-offs of our equity investments. Our
+cash and investments base increased significantly through the acquisition of
+Network Solutions in June 2000, while our invested balances returned relatively
+lower rates due to lower market interest rates in the first six months of 2001
+as compared to 2000.
+
+ Deferred Income Taxes
+
+   Through the six months ended June 30, 2001, we have recorded a $56.6 million
+tax benefit for the pretax loss not attributable to the amortization of
+goodwill and other acquired intangible assets that are not deductible for tax
+purposes.
+
+   As of June 30, 2001, we had federal net operating loss carryforwards of
+approximately $416.8 million related to stock compensation expense and $358.8
+million related to continuing operations. We also had state net operating loss
+carryforwards of approximately $236.3 million related to stock compensation
+expense and $200.4 million related to continuing operations. The federal net
+operating loss carryforwards will expire in 2010 through 2020 and the state net
+operating loss carryforwards will expire in 2004 through 2020. The Tax Reform
+Act of 1986 imposes substantial restrictions on the utilization of net
+operating losses and tax credits in the event of a corporation's ownership
+change, as defined in the Internal Revenue Code. Our ability to utilize net
+operating loss carryforwards may be limited if such ownership change occurs.
+
+   Our accounting for deferred taxes under Statement of Financial Accounting
+Standards No. 109, "Accounting for Income Taxes," involves the evaluation of a
+number of factors concerning the realizability of our deferred tax assets. In
+concluding that a valuation allowance was required, we considered such factors
+as our history of operating losses and expected future losses and the nature of
+our deferred tax assets. Although our operating plans assume taxable and
+operating income in future periods, our evaluation of all of the available
+evidence in assessing the realizability of the deferred tax assets indicated
+that such plans were not considered sufficient to overcome the available
+negative evidence. The possible future reversal of the valuation allowance will
+result in future income statement benefit to the extent the valuation allowance
+was applied to deferred tax assets generated through ongoing operations. To the
+extent the valuation allowance relates to deferred tax assets generated through
+stock compensation deductions, the possible future reversal of such valuation
+allowance will result in a credit to additional paid in capital and will not
+result in future income statement benefit.
+
+ Minority Interest in Net (Income) Loss of Subsidiary
+
+   Minority interest in the net (income) loss of VeriSign Japan K.K. was $(309)
+thousand in the second quarter of 2001 and $(519) thousand in the first six
+months of 2001 compared to $(57) thousand in the second quarter of 2000 and $90
+thousand in the first six months of 2000. The change is primarily due to
+VeriSign
+
+                                       21
+<PAGE>
+
+Japan's increased revenue as compared to the second quarter and the first six
+months of 2000. As the VeriSign Japan business continues to develop and evolve,
+we expect that the minority interest in net (income) loss of subsidiary will
+fluctuate.
+
+Factors That May Affect Future Results of Operations
+
+   In addition to other information in this Form 10-Q, the following risk
+factors should be carefully considered in evaluating us and our business
+because these factors currently have a significant impact or may have a
+significant impact on our business, operating results or financial condition.
+Actual results could differ materially from those projected in the forward-
+looking statements contained in this Form 10-Q as a result of the risk factors
+discussed below and elsewhere in this Form 10-Q.
+
+We have a limited operating history under our current business structure.
+
+   We were incorporated in April 1995, and we began introducing our trusted
+infrastructure services in June 1995. In addition, we completed several
+acquisitions in 2000. Therefore, we have only a limited operating history on
+which to base an evaluation of our consolidated business and prospects. Our
+prospects must be considered in light of the risks and uncertainties
+encountered by companies in the early stages of development. These risks and
+uncertainties are often worse for companies in new and rapidly evolving markets
+and for companies integrating many businesses. Our success will depend on many
+factors, including, but not limited to, the following:
+
+  .  the successful integration of the acquired companies;
+
+  .  the rate and timing of the growth and use of Internet protocol ("IP")
+     networks for electronic commerce and communications;
+
+  .  the extent to which digital certificates and domain names are used for
+     these communications or e-commerce;
+
+  .  the continued growth in the number of web sites;
+
+  .  the growth in demand for our payment services;
+
+  .  the continued evolution of electronic commerce as a viable means of
+     conducting business;
+
+  .  the demand for our Internet infrastructure services, digital
+     certificates and Web Presence Services;
+
+  .  the competition for any of our services;
+
+  .  the perceived security of electronic commerce and communications over IP
+     networks;
+
+  .  the perceived security of our services, technology, infrastructure and
+     practices; and
+
+  .  our continued ability to maintain our current, and enter into
+     additional, strategic relationships.
+
+   To address these risks we must, among other things:
+
+  .  successfully market our Internet infrastructure services, our digital
+     certificates and our Web Presence Services to new and existing
+     customers;
+
+  .  attract, integrate, train, retain and motivate qualified personnel;
+
+  .  respond to competitive developments;
+
+  .  successfully introduce new Internet infrastructure services and Web
+     Presence Services; and
+
+  .  successfully introduce enhancements to our existing Internet
+     infrastructure services, digital certificates and Web Presence Services
+     to address new technologies and standards and changing market
+     conditions.
+
+   We cannot be certain that we will successfully address these risks.
+
+                                       22
+<PAGE>
+
+Our business depends on the future growth of the Internet and adoption and
+continued use of IP networks.
+
+   Our future success substantially depends on the continued growth in the use
+of the Internet and IP networks. If the use of and interest in the Internet and
+IP networks does not continue to grow, our business would be harmed. To date,
+many businesses and consumers have been deterred from utilizing the Internet
+and IP networks for a number of reasons, including, but not limited to:
+
+  .  potentially inadequate development of network infrastructure;
+
+  .  security concerns, particularly for online payments, including the
+     potential for merchant or user impersonation and fraud or theft of
+     stored data and information communicated over IP networks;
+
+  .  privacy concerns, including the potential for third parties obtaining
+     personally identifiable information about users to disclose or sell data
+     without notice to or the consent of such users;
+
+  .  other security concerns such as attacks on popular websites by
+     "hackers;"
+
+  .  inconsistent quality of service;
+
+  .  lack of availability of cost-effective, high-speed systems and service;
+
+  .  limited number of local access points for corporate users;
+
+  .  inability to integrate business applications on IP networks;
+
+  .  the need to operate with multiple and frequently incompatible products;
+
+  .  government regulation; and
+
+  .  a lack of tools to simplify access to and use of IP networks.
+
+   The widespread acceptance of the Internet and IP networks will require a
+broad acceptance of new methods of conducting business and exchanging
+information. Organizations that already have invested substantial resources in
+other methods of conducting business may be reluctant to adopt new methods.
+Also, individuals with established patterns of purchasing goods and services
+and effecting payments may be reluctant to change.
+
+Our near-term success depends, in part, on the growth of the Web Presence
+Services business.
+
+   We may not be able to sustain the revenue growth we have experienced in
+recent periods. In addition, past revenue growth may not be indicative of
+future operating results. If we do not successfully maintain our current
+position as a leading provider of domain name registration services or develop
+or market additional value-added Web Presence Services and products, our
+business could be harmed.
+
+   Our Web Presence Services will account for a significant portion of our
+revenue in at least the near term. Our future success will depend largely on:
+
+  .  continued new domain name registrations;
+
+  .  re-registration rates of our customers;
+
+  .  our ability to maintain our current position as a leading registrar of
+     domain names;
+
+  .  the successful development, introduction and market acceptance of new
+     Web Presence Services that address the demands of Internet users;
+
+  .  our ability to provide robust domain name registration systems; and
+
+  .  our ability to provide a superior customer service infrastructure for
+     our Web Presence Services.
+
+                                       23
+<PAGE>
+
+Issues arising from implementing agreements with ICANN and the Department of
+Commerce could harm our registration business.
+
+   The Department of Commerce ("DOC") has adopted a plan for a phased
+transition of the DOC's responsibilities for the domain name system to the
+Internet Corporation for Assigned Names and Numbers ("ICANN"). We face risks
+from this transition, including the following:
+
+  .  ICANN could adopt or promote policies, procedures or programs that are
+     unfavorable to our role in the registration of domain names or that are
+     inconsistent with our current or future plans;
+
+  .  the DOC or ICANN could terminate our agreements to be the registry or a
+     registrar in the .com, .net and .org top-level domains if they find that
+     we are in violation of our agreements with them;
+
+  .  if our agreements to be the registry for the .com, .org or .net, or a
+     registrar for existing and new top-level domains are terminated, we may
+     not be able to sustain the revenue growth we have experienced in recent
+     periods;
+
+  .  the terms of the registrar accreditation contract could change, as a
+     result of an ICANN-adopted policy, in a manner that is unfavorable to
+     us;
+
+  .  the DOC's or ICANN's interpretation of provisions of our agreements with
+     either of them described above could differ from ours;
+
+  .  the DOC could revoke its recognition of ICANN, as a result of which the
+     DOC would take the place of ICANN for purposes of the various agreements
+     described above, and could take actions that are harmful to us;
+
+  .  ICANN has approved new top-level domains and we may not be permitted to
+     act as a registrar with respect to some of those top-level domains;
+
+  .  the U.S. Government could refuse to transfer certain responsibilities
+     for domain name system administration to ICANN due to security,
+     stability or other reasons, resulting in fragmentation or other
+     instability in domain name system administration; and
+
+  .  our registry business could face legal or other challenges resulting
+     from the activities of registrars.
+
+Challenges to ongoing privatization of Internet administration could harm our
+Web Presence Services business.
+
+   Risks we face from challenges by third parties, including other domestic and
+foreign governmental authorities, to our role in the ongoing privatization of
+the Internet include:
+
+  .  legal, regulatory or other challenges, including challenges to the
+     agreements governing our relationship with, or to the legal authority
+     underlying the roles and actions of, the DOC, ICANN or us, could be
+     brought;
+
+  .  Congress has held several hearings in which various issues about the
+     domain name system and ICANN's practices have been raised and Congress
+     could take action that is unfavorable to us;
+
+  .  Congress has issued a Conference Report directing the General Accounting
+     Office to review the relationship between the DOC and ICANN and the
+     adequacy of security arrangements under existing DOC cooperative
+     agreements. An adverse report could cause Congress to take action that
+     is unfavorable to us or the stability of the domain name system;
+
+  .  ICANN could fail to maintain its role, potentially resulting in
+     instability in domain name system administration; and
+
+  .  some foreign governments and governmental authorities have in the past
+     disagreed with, and may in the future disagree with, the actions,
+     policies or programs of ICANN, the U.S. Government and us relating to
+     the domain name system. These foreign governments or governmental
+     authorities may take actions or adopt policies or programs that are
+     harmful to our business.
+
+
+                                       24
+<PAGE>
+
+Our quarterly operating results may fluctuate and our future revenues and
+profitability are uncertain.
+
+   Our quarterly operating results have varied and may fluctuate significantly
+in the future as a result of a variety of factors, many of which are outside
+our control. These factors include the following:
+
+  .  continued market acceptance of our trusted infrastructure services;
+
+  .  the long sales and implementation cycles for, and potentially large
+     order sizes of, some of our Internet trust services and the timing and
+     execution of individual contracts;
+
+  .  volume of domain name registrations through our Web Presence Services
+     business and our Global Registry Service business;
+
+  .  customer renewal rates for our Internet infrastructure services and Web
+     Presence Services;
+
+  .  competition in the Web Presence Services business from competing
+     registrars and registries;
+
+  .  the introduction of additional alternative Internet naming systems;
+
+  .  the timing of releases of new versions of Internet browsers or other
+     third-party software products and networking equipment that include our
+     digital certificate service interface technology;
+
+  .  the mix of all our offered services sold during a quarter;
+
+  .  our success in marketing other Internet infrastructure services and web
+     presence value-added services to our existing customers and to new
+     customers;
+
+  .  continued development of our direct and indirect distribution channels,
+     both in the U.S. and abroad;
+
+  .  market acceptance of our Internet infrastructure services and new
+     service offerings or our competitors' products and services;
+
+  .  a decrease in the level of spending for IT related products and services
+     by enterprise customers;
+
+  .  our ability to expand operations;
+
+  .  our success in assimilating the operations and personnel of any acquired
+     businesses;
+
+  .  the amount and timing of expenditures related to expansion of our
+     operations;
+
+  .  the impact of price changes in our Internet infrastructure services and
+     Web Presence Services or our competitors' products and services; and
+
+  .  general economic and market conditions as well as economic and market
+     conditions specific to IP network and Internet industries.
+
+   In addition, we expect a significant increase in our operating expenses as
+we:
+
+  .  increase our sales and marketing operations and activities; and
+
+  .  continue to update our systems and infrastructure.
+
+   If the increase in our expenses is not accompanied by a corresponding
+increase in our revenues, our operating results will suffer, particularly as
+revenues from many of our services are recognized ratably over the term of the
+service, rather than immediately when the customer pays for them, unlike our
+sales and marketing expenditures, which are expensed in full when incurred.
+
+   Due to all of the above factors, our quarterly revenues and operating
+results are difficult to forecast. Therefore, we believe that period-to-period
+comparisons of our operating results will not necessarily be meaningful, and
+you should not rely upon them as an indication of future performance. Also,
+operating results may fall below our expectations and the expectations of
+securities analysts or investors in one or more future quarters. If this were
+to occur, the market price of our common stock would likely decline.
+
+                                       25
+<PAGE>
+
+We face significant competition.
+
+   We anticipate that the market for services that enable trusted and secure
+electronic commerce and communications over IP networks will remain intensely
+competitive. We compete with larger and smaller companies that provide products
+and services that are similar to some aspects of our Internet infrastructure
+services. Our competitors may develop new technologies in the future that are
+perceived as being more secure, effective or cost efficient than the technology
+underlying our trust services. We expect that competition will increase in the
+near term, and that our primary long-term competitors may not yet have entered
+the market.
+
+   Increased competition could result in pricing pressures, reduced margins or
+the failure of our Internet trust services to achieve or maintain market
+acceptance, any of which could harm our business. Several of our current and
+potential competitors have longer operating histories and significantly greater
+financial, technical, marketing and other resources. As a result, we may not be
+able to compete effectively.
+
+   In connection with our first round of financing, RSA contributed certain
+technology to us and entered into a non-competition agreement with us under
+which RSA agreed that it would not compete with our certificate authority
+business for a period of five years. This non-competition agreement expired in
+April 2000. We believe that, because RSA, which is now a wholly-owned
+subsidiary of RSA Security, has already developed expertise in the area of
+cryptography, its barriers to entry would be lower than those that would be
+encountered by our other potential competitors should RSA choose to enter any
+of our markets. If RSA were to enter into the digital certificate market, our
+business could be materially harmed.
+
+   Seven new top-level domain registries (.aero, .biz, .coop, .info, .museum,
+ .name and .pro) are expected to begin accepting domain name registrations in
+the near future. The commencement of registrations in these new top-level
+domains could have the effect of reduced demand for .com and .net domain name
+registrations. If the new top-level domains do reduce the demand for domain
+name registrations in .com and .net, our business could be materially harmed.
+
+   The agreements among ICANN, the DOC, us and other registrars permit
+flexibility in pricing for and term of registrations. Our revenues, therefore,
+could be reduced due to pricing pressures, bundled service offerings and
+variable terms resulting from increased competition. Some registrars and
+resellers in the .com, .net and .org top-level domains are already charging
+lower prices for Web Presence Services in those domains. In addition, other
+entities are bundling, and may in the future bundle domain name registrations
+with other products or services at reduced rates or for free.
+
+Our Internet infrastructure services market is new and evolving.
+
+   We target our Internet infrastructure services at the market for trusted and
+secure electronic commerce and communications over IP networks. This is a new
+and rapidly evolving market that may not continue to grow. Accordingly, the
+demand for our Internet infrastructure services is very uncertain. Even if the
+market for electronic commerce and communications over IP networks grows, our
+Internet infrastructure services may not be widely accepted. The factors that
+may affect the level of market acceptance of digital certificates and,
+consequently, our Internet infrastructure services include the following:
+
+  .  market acceptance of products and services based upon authentication
+     technologies other than those we use;
+
+  .  public perception of the security of digital certificates and IP
+     networks;
+
+  .  the ability of the Internet infrastructure to accommodate increased
+     levels of usage; and
+
+  .  government regulations affecting electronic commerce and communications
+     over IP networks.
+
+   Even if digital certificates achieve market acceptance, our Internet
+infrastructure services may fail to address the market's requirements
+adequately. If digital certificates do not sustain or increase their
+acceptance, or if our Internet infrastructure services in particular do not
+achieve or sustain market acceptance, our business would be materially harmed.
+
+                                       26
+<PAGE>
+
+System interruptions and security breaches could harm our business.
+
+   We depend on the uninterrupted operation of our various domain name
+registration systems, secure data centers and our other computer and
+communications systems. We must protect these systems from loss, damage or
+interruption caused by fire, earthquake, power loss, telecommunications failure
+or other events beyond our control. Most of our systems are located at, and
+most of our customer information is stored in, our facilities in Mountain View,
+California and Kawasaki, Japan, both of which are susceptible to earthquakes,
+and Dulles, Virginia. Though we have back-up power resources, our California
+locations are susceptible to recent electric power shortages. All of our Web
+Presence Services systems, including those used in our domain name registry and
+registrar business are located at our Dulles and Herndon, Virginia facilities.
+Any damage or failure that causes interruptions in any of these facilities or
+our other computer and communications systems could materially harm our
+business.
+
+   In addition, our ability to issue digital certificates and register domain
+names depends on the efficient operation of the Internet connections from
+customers to our secure data centers and our various registration systems as
+well as from customers to our registrar and from our registrar and other
+registrars to the shared registration system. These connections depend upon
+efficient operation of web browsers, Internet service providers and Internet
+backbone service providers, all of which have had periodic operational problems
+or experienced outages in the past. Any of these problems or outages could
+decrease customer satisfaction.
+
+   A failure in the operation of our various registration systems, our domain
+name zone servers, the domain name root servers or other events could result in
+deletion of one or more domain names from the Internet for a period of time. A
+failure in the operation of our shared registration system could result in the
+inability of one or more other registrars to register and maintain domain names
+for a period of time. A failure in the operation or update of the master
+database that we maintain could result in deletion of one or more top-level
+domains from the Internet and the discontinuation of second-level domain names
+in those top-level domains for a period of time. The inability of our registrar
+systems, including our back office billing and collections infrastructure, and
+telecommunications systems to meet the demands of the increasing number of
+domain name registration requests and corresponding customer e-mails and
+telephone calls, including speculative, otherwise abusive and repetitive e-mail
+domain name registration and modification requests, could result in substantial
+degradation in our customer support service and our ability to process, bill
+and collect registration requests in a timely manner.
+
+   We retain certain confidential customer information in our secure data
+centers and various registration systems. It is critical to our business
+strategy that our facilities and infrastructure remain secure and are perceived
+by the marketplace to be secure. Our domain name registration operations also
+depend on our ability to maintain our computer and telecommunications equipment
+in effective working order and to reasonably protect our systems against
+interruption and potentially on such maintenance and protection by other
+registrars in the shared registration system. The root zone servers and top-
+level domain name zone servers that we operate are critical hardware to our web
+presence operations. Therefore, we may have to expend significant time and
+money to maintain or increase the security of our facilities and
+infrastructure.
+
+   Despite our security measures, our infrastructure may be vulnerable to
+physical break-ins, computer viruses, and attacks by hackers or similar
+disruptive problems. It is possible that we may have to expend additional
+financial and other resources to address such problems. Any physical or
+electronic break-ins or other security breaches or compromises of the
+information stored at our secure data centers and domain name registration
+systems may jeopardize the security of information stored on our premises or in
+the computer systems and networks of our customers. In such an event, we could
+face significant liability and customers could be reluctant to use our Internet
+infrastructure services and Web Presence Services. Such an occurrence could
+also result in adverse publicity and therefore adversely affect the market's
+perception of the security of electronic commerce and communications over IP
+networks as well as of the security or reliability of our services.
+
+                                       27
+<PAGE>
+
+We rely on a continuous power supply to conduct our operations, and
+California's current energy crisis could disrupt our operations and increase
+our expenses.
+
+   California is in the midst of an energy crisis that could disrupt our
+operations and increase our expenses. In the event of an acute power shortage,
+that is, when power reserves for the State of California fall below 1.5%,
+California has on some occasions implemented, and may in the future continue to
+implement, rolling blackouts throughout the state. If blackouts interrupt our
+power supply, we may be temporarily unable to operate. Any such interruption in
+our ability to continue operations could delay the development of our products.
+Future interruptions could damage our reputation, harm our ability to retain
+existing customers and to obtain new customers, and could result in lost
+revenue, any of which could substantially harm our business and results of
+operations.
+
+   Furthermore, the deregulation of the energy industry instituted in 1996 by
+the California government and shortages in wholesale electricity supplies have
+caused power prices to increase. If wholesale prices continue to increase, our
+operating expenses will likely increase, as our headquarters and many of our
+employees are based in California.
+
+Acquisitions could harm our business.
+
+   We made several significant acquisitions in 2000. We could experience
+difficulty in integrating the personnel, products, technologies or operations
+of these companies. In addition, assimilating acquired businesses involves a
+number of other risks, including, but not limited to:
+
+  .  the potential disruption of our business;
+
+  .  the potential impairment of relationships with our employees, customers
+     and strategic partners;
+
+  .  the additional expenses associated with the amortization of goodwill and
+     other intangible assets;
+
+  .  the additional expense associated with a write-off of a portion of
+     goodwill and other intangible assets due to changes in market condition,
+     the U.S. and global economy or the economy in the markets in which we
+     compete or because acquisitions are not providing the benefits expected;
+
+  .  unanticipated costs or the incurrence of unknown liabilities;
+
+  .  the need to manage more geographically-dispersed operations, such as our
+     offices in Virginia, North Carolina, South Africa and in Europe;
+
+  .  diversion of management's resources from other business concerns;
+
+  .  the inability to retain the employees of the acquired businesses;
+
+  .  adverse effects on existing customer relationships of acquired
+     companies;
+
+  .  the difficulty of assimilating the operations and personnel of the
+     acquired businesses;
+
+  .  our inability to incorporate acquired technologies successfully into our
+     Internet infrastructure services; and
+
+  .  the inability to maintain uniform standards, controls, procedures and
+     policies.
+
+   If we are unable to successfully address any of these risks for future
+acquisitions, our business could be harmed.
+
+Some of our investments in other companies resulted in losses and may result in
+losses in the future.
+
+   We have equity and debt investments in a number of companies. In most
+instances, these investments are in the form of equity and debt securities of
+private companies for which there is no public market. These companies are
+typically in the early stage of development and may be expected to incur
+substantial losses.
+
+                                       28
+<PAGE>
+
+Therefore, these companies may never become publicly traded companies. Even if
+they do, an active trading market for their securities may never develop and we
+may never realize any return on these investments. Further, if these companies
+are not successful, we could incur charges related to write-downs or write-offs
+of these types of assets. In the first quarter of 2001 we determined that the
+decline in value of certain of our public and private equity security
+investments was other than temporary and we recognized a loss of $74.7 million
+related to the decline in value of these investments in the first quarter of
+2001. Due to the inherent risk associated with some of our investments, and in
+light of current stock market conditions, we may incur future losses on the
+sales, write-downs or write-offs of our investments.
+
+Technological changes will affect our business.
+
+   The emerging nature of the Internet, digital certificate business, the
+domain name registration business and payment services business, and their
+rapid evolution, require us continually to improve the performance, features
+and reliability of our Internet infrastructure services and Web Presence
+Services, particularly in response to competitive offerings. We must also
+introduce any new Internet infrastructure services and Web Presence Services,
+as quickly as possible. The success of new Internet infrastructure services and
+Web Presence Services depends on several factors, including proper new service
+definition and timely completion, introduction and market acceptance. We may
+not succeed in developing and marketing new Internet infrastructure services
+and Web Presence Services that respond to competitive and technological
+developments and changing customer needs. This could harm our business.
+
+We must manage our growth and expansion.
+
+   Our historical growth has placed, and any further growth is likely to
+continue to place, a significant strain on our resources. We have grown from 26
+employees at December 31, 1995 to 2,355 employees at June 30, 2001. In addition
+to internal growth, our employee base grew through acquisitions. We have also
+opened additional sales offices and have significantly expanded our operations,
+both in the U.S. and abroad, during this time period. To be successful, we will
+need to implement additional management information systems, continue the
+development of our operating, administrative, financial and accounting systems
+and controls and maintain close coordination among our executive, engineering,
+accounting, finance, marketing, sales and operations organizations. Any failure
+to manage growth effectively could harm our business.
+
+We depend on key personnel.
+
+   We depend on the performance of our senior management team and other key
+employees. Our success will also depend on our ability to attract, integrate,
+train, retain and motivate these individuals and additional highly skilled
+technical and sales and marketing personnel, both in the U.S. and abroad. There
+is intense competition for these personnel. In addition, our stringent hiring
+practices for some of our key personnel, which consist of background checks
+into prospective employees' criminal and financial histories, further limit the
+number of qualified persons for these positions. We have no employment
+agreements with any of our key executives that prevent them from leaving us at
+any time. In addition, we do not maintain key person life insurance for any of
+our officers or key employees other than our President and Chief Executive
+Officer. The loss of the services of any of our senior management team or other
+key employees or failure to attract, integrate, train, retain and motivate
+additional key employees could harm our business.
+
+We rely on third parties who maintain and control root zone servers and route
+Internet communications.
+
+   We currently administer and operate only two of the 13 root zone servers.
+The others are administered and operated by independent operators on a
+volunteer basis. Because of the importance to the functioning of the Internet
+of these root zone servers, our global registry services business could be
+harmed if these volunteer operators fail to maintain such servers properly or
+abandon such servers which would place additional capacity on the two root zone
+servers we operate.
+
+                                       29
+<PAGE>
+
+   Further, our global registry services business could be harmed if any of
+these volunteer operators fails to include or provide accessibility to the data
+that it maintains in the root zone servers that it controls. In the event and
+to the extent that ICANN is authorized to set policy with regard to an
+authoritative root server system, as provided in the registry agreement between
+ICANN and the Company, it is required to ensure that the authoritative root
+will point to the top-level domain zone servers designated by it. If ICANN does
+not do this, our business could be harmed.
+
+   Our Web Presence Services also could be harmed if a significant number of
+Internet service providers decided not to route Internet communications to or
+from domain names registered by it or if a significant number of Internet
+service providers decided to provide routing to a set of domain name servers
+that did not point to our domain name zone servers.
+
+We must establish and maintain strategic and other relationships.
+
+   One of our significant business strategies has been to enter into strategic
+or other similar collaborative relationships in order to reach a larger
+customer base than we could reach through our direct sales and marketing
+efforts. Examples of these types of relationships include our arrangements with
+Cisco, Microsoft and RSA Security. We may need to enter into additional
+relationships to execute our business plan. We may not be able to enter into
+additional, or maintain our existing, strategic relationships on commercially
+reasonable terms. If we fail to enter into additional relationships, we would
+have to devote substantially more resources to the distribution, sale and
+marketing of our Internet infrastructure services and Web Presence Services
+than we would otherwise. Our success in obtaining results from these
+relationships will depend both on the ultimate success of the other parties to
+these relationships, particularly in the use and promotion of IP networks for
+trusted and secure electronic commerce and communications, and on the ability
+of these parties to market our Internet infrastructure services successfully.
+
+   Furthermore, our ability to achieve future growth will also depend on our
+ability to continue to establish direct seller channels and to develop multiple
+distribution channels, particularly with respect to our Web Presence Services
+business. To do this we must maintain relationships with Internet access
+providers and other third parties. Failure of one or more of our strategic
+relationships to result in the development and maintenance of a market for our
+Internet infrastructure services or Web Presence Services could harm our
+business. Many of our existing relationships do not, and any future
+relationships may not, afford us any exclusive marketing or distribution
+rights. In addition, the other parties may not view their relationships with us
+as significant for their own businesses. Therefore, they could reduce their
+commitment to us at any time in the future. These parties could also pursue
+alternative technologies or develop alternative products and services either on
+their own or in collaboration with others, including our competitors. If we are
+unable to maintain our relationships or to enter into additional relationships,
+this could harm our business.
+
+Some of our Internet trust services have lengthy sales and implementation
+cycles.
+
+   We market many of our Internet infrastructure services directly to large
+companies and government agencies. The sale and implementation of our services
+to these entities typically involves a lengthy education process and a
+significant technical evaluation and commitment of capital and other resources.
+This process is also subject to the risk of delays associated with customers'
+internal budgeting and other procedures for approving large capital
+expenditures, deploying new technologies within their networks and testing and
+accepting new technologies that affect key operations. As a result, the sales
+and implementation cycles associated with certain of our Internet trust
+services can be lengthy, potentially lasting from three to six months. Our
+quarterly and annual operating results could be materially harmed if orders
+forecasted for a specific customer for a particular quarter are not realized.
+
+                                       30
+<PAGE>
+
+Our services could have unknown defects.
+
+   Services as complex as those we offer or develop frequently contain
+undetected defects or errors. Despite testing, defects or errors may occur in
+our existing or new services, which could result in loss of or delay in
+revenues, loss of market share, failure to achieve market acceptance, diversion
+of development resources, injury to our reputation, tort or warranty claims,
+increased insurance costs or increased service and warranty costs, any of which
+could harm our business. Furthermore, we often provide implementation,
+customization, consulting and other technical services in connection with the
+implementation and ongoing maintenance of our services, which typically
+involves working with sophisticated software, computing and communications
+systems. Our failure or inability to meet customer expectations in a timely
+manner could also result in loss of or delay in revenues, loss of market share,
+failure to achieve market acceptance, injury to our reputation and increased
+costs.
+
+Public key cryptography technology is subject to risks.
+
+   Our Internet infrastructure services depend on public key cryptography
+technology. With public key cryptography technology, a user is given a public
+key and a private key, both of which are required to perform encryption and
+decryption operations. The security afforded by this technology depends on the
+integrity of a user's private key and that it is not lost, stolen or otherwise
+compromised. The integrity of private keys also depends in part on the
+application of specific mathematical principles known as "factoring." This
+integrity is predicated on the assumption that the factoring of large numbers
+into their prime number components is difficult. Should an easy factoring
+method be developed, the security of encryption products utilizing public key
+cryptography technology would be reduced or eliminated. Furthermore, any
+significant advance in techniques for attacking cryptographic systems could
+also render some or all of our existing Internet trust services obsolete or
+unmarketable. If improved techniques for attacking cryptographic systems were
+ever developed, we would likely have to reissue digital certificates to some or
+all of our customers, which could damage our reputation and brand or otherwise
+harm our business. In the past there have been public announcements of the
+successful attack upon cryptographic keys of certain kinds and lengths and of
+the potential misappropriation of private keys and other activation data. This
+type of publicity could also hurt the public perception as to the safety of the
+public key cryptography technology included in our digital certificates. This
+negative public perception could harm our business.
+
+Our international operations are subject to certain risks.
+
+   Revenues from international subsidiaries and affiliates accounted for
+approximately 13% of our revenues in the second quarter of 2001 and
+approximately 12% of our revenues in the first six months of 2001. We intend to
+expand our international operations and international sales and marketing
+activities. For example, with our acquisition of THAWTE we have additional
+operations in South Africa and with our acquisition of Network Solutions we
+have additional operations in Asia and Europe. Expansion into these markets has
+required and will continue to require significant management attention and
+resources. We may also need to tailor our Internet infrastructure trust
+services and Web Presence Services for a particular market and to enter into
+international distribution and operating relationships. We have limited
+experience in localizing our services and in developing international
+distribution or operating relationships. We may not succeed in expanding our
+services into international markets. Failure to do so could harm our business.
+In addition, there are risks inherent in doing business on an international
+basis, including, among others:
+
+  .  competition with foreign companies or other domestic companies entering
+     the foreign markets we are in;
+
+  .  regulatory requirements;
+
+  .  legal uncertainty regarding liability and compliance with foreign laws;
+
+  .  export and import restrictions on cryptographic technology and products
+     incorporating that technology;
+
+                                       31
+<PAGE>
+
+  .  tariffs and other trade barriers and restrictions;
+
+  .  difficulties in staffing and managing foreign operations;
+
+  .  longer sales and payment cycles;
+
+  .  problems in collecting accounts receivable;
+
+  .  currency fluctuations;
+
+  .  difficulty of authenticating customer information;
+
+  .  political instability;
+
+  .  failure of foreign laws to protect our U.S. proprietary rights
+     adequately;
+
+  .  more stringent privacy policies in foreign countries;
+
+  .  seasonal reductions in business activity; and
+
+  .  potentially adverse tax consequences.
+
+   We have licensed to our affiliates the VeriSign Processing Center platform,
+which is designed to replicate our own secure data centers and allows the
+affiliate to offer back-end processing of Internet infrastructure services. The
+VeriSign Processing Center platform provides an affiliate with the knowledge
+and technology to offer Internet infrastructure services similar to those
+offered by us. It is critical to our business strategy that the facilities and
+infrastructure used in issuing and marketing digital certificates remain secure
+and we are perceived by the marketplace to be secure. Although we provide the
+affiliate with training in security and trust practices, network management and
+customer service and support, these practices are performed by the affiliate
+and are outside of our control. Any failure of an affiliate to maintain the
+privacy of confidential customer information could result in negative publicity
+and therefore adversely affect the market's perception of the security of our
+services as well as the security of electronic commerce and communication over
+IP networks generally. For further information, please see "System
+interruptions and security breaches could harm our business."
+
+   All of our international revenues from sources other than VeriSign Japan
+K.K., THAWTE (South Africa), Registrars.com (Canada) and Domainnames.com,
+Limited (U.K.)are denominated in U.S. dollars. If additional portions of our
+international revenues were to be denominated in foreign currencies, we could
+become subject to increased risks relating to foreign currency exchange rate
+fluctuations.
+
+Our Internet infrastructure services could be affected by government
+regulation.
+
+   Exports of software products utilizing encryption technology are generally
+restricted by the United States and various non-United States governments.
+Although we have obtained approval to export our Global Server digital
+certificate service, and none of our other Internet infrastructure services are
+currently subject to export controls under United States law, the list of
+products and countries for which export approval is required could be revised
+in the future to include more digital certificate products and related
+services. If we do not obtain required approvals we may not be able to sell
+specific Internet infrastructure services in international markets. There are
+currently no federal laws or regulations that specifically control certificate
+authorities, but a limited number of states have enacted legislation or
+regulations with respect to certificate authorities. If the market for digital
+certificates grows, the United States federal or state or non-United States
+governments may choose to enact further regulations governing certificate
+authorities or other providers of digital certificate products and related
+services. These regulations or the costs of complying with these regulations
+could harm our business.
+
+   In July 2000, the Electronic Signatures in Global and National Commerce Act,
+or "E-Sign," was signed into law. E-Sign is intended to render digital
+signatures legally equivalent to those signed on paper. The execution of E-Sign
+could materially and adversely affect our digital certificates services
+business. For
+
+                                       32
+<PAGE>
+
+example, there may be an increasing demand for digital signatures and
+certificates as a result of the new E-Sign law. However, due to competition or
+other reasons, our services may not be adopted. If we cannot meet market
+expectations or demand for our products and services does not increase, our
+business may be materially and adversely affected. Furthermore, a successful
+implementation of E-Sign may further encourage competitors to enter the
+marketplace because of the possible increase in demand for digital signatures
+and certificates. This could effectively lower barriers to entry and
+increasingly flood the marketplace with competitors, which could, among other
+things, result in price erosion. While we cannot assure you that E-Sign will be
+effectively implemented or how this implementation will affect our business, we
+must continue to meet the demand and expectations of our customers, and our
+failure to do so could materially and adversely harm our business.
+
+We face risks related to intellectual property rights.
+
+   Our success depends on our internally developed technologies and other
+intellectual property. Despite our precautions, it may be possible for a third
+party to copy or otherwise obtain and use our trade secrets or other forms of
+our intellectual property without authorization. In addition, it is possible
+that others may independently develop substantially equivalent intellectual
+property. If we do not effectively protect our intellectual property, our
+business could suffer.
+
+   In the future we may have to resort to litigation to enforce our
+intellectual property rights, to protect our trade secrets or to determine the
+validity and scope of the proprietary rights of others. This type of
+litigation, regardless of its outcome, could result in substantial costs and
+diversion of management and technical resources.
+
+   We also license third-party technology, such as public key cryptography
+technology licensed from RSA and other technology that is used in our products,
+to perform key functions. These third-party technology licenses may not
+continue to be available to us on commercially reasonable terms or at all. Our
+business could suffer if we lost the rights to use these technologies. A third
+party could claim that the licensed software infringes a patent or other
+proprietary right. Litigation between the licensor and a third party or between
+us and a third party could lead to royalty obligations for which we are not
+indemnified or for which indemnification is insufficient, or we may not be able
+to obtain any additional license on commercially reasonable terms or at all.
+The loss of, or our inability to obtain or maintain, any of these technology
+licenses could delay the introduction of our Internet infrastructure services
+until equivalent technology, if available, is identified, licensed and
+integrated. This could harm our business.
+
+   From time to time, we have received, and may receive in the future, notice
+of claims of infringement of other parties' proprietary rights. Infringement or
+other claims could be made against us in the future. Any claims, with or
+without merit, could be time-consuming, result in costly litigation and
+diversion of technical and management personnel, cause product shipment delays
+or require us to develop non-infringing technology or enter into royalty or
+licensing agreements. Royalty or licensing agreements, if required, may not be
+available on acceptable terms or at all. If a successful claim of product
+infringement were made against us and we could not develop non-infringing
+technology or license the infringed or similar technology on a timely and cost-
+effective basis, our business could be harmed.
+
+   In addition, legal standards relating to the validity, enforceability, and
+scope of protection of intellectual property rights in Internet-related
+businesses are uncertain and still evolving. Because of the growth of the
+Internet and Internet-related businesses, patent applications are continuously
+and simultaneously being filed in connection with Internet-related technology.
+There are a significant number of U.S. and foreign patents and patent
+applications in our areas of interest, and we believe that there has been, and
+is likely to continue to be, significant litigation in the industry regarding
+patent and other intellectual property rights.
+
+                                       33
+<PAGE>
+
+We have implemented anti-takeover provisions.
+
+   Our Amended and Restated Certificate of Incorporation and Bylaws contain
+provisions that could make it more difficult for a third party to acquire us
+without the consent of our board of directors. These provisions include:
+
+  .  our stockholders may only take action at a meeting and not by written
+     consent;
+
+  .  our board must be given advance notice regarding stockholder-sponsored
+     proposals for consideration at annual meetings and for stockholder
+     nominations for the election of directors;
+
+  .  we have a classified board of directors, with the board being divided
+     into three classes that serve staggered three-year terms;
+
+  .  vacancies on our board may be filled until the next annual meeting of
+     stockholders only by majority vote of the directors then in office; and
+
+  .  special meetings of our stockholders may only be called by the Chairman
+     of the Board, the President or by the board, not by our stockholders.
+
+   While we believe these provisions provide for an opportunity to receive a
+higher bid by requiring potential acquirors to negotiate with our board of
+directors, these provisions may apply even if the offer may be considered
+beneficial by some stockholders.
+
+Liquidity and Capital Resources
+
+<TABLE>
+<CAPTION>
+                                                June 30,  December 31,
+                                                  2001        2000     Change
+                                               ---------- ------------ ------
+                                                   (Dollars in thousands)
+   <S>                                         <C>        <C>          <C>
+   Cash, cash equivalents and short-term
+    investments............................... $  798,174 $ 1,026,275   (22)%
+   Working capital............................ $  358,954 $   520,953   (31)%
+   Stockholders' equity....................... $5,972,454 $18,470,608   (68)%
+</TABLE>
+
+   At June 30, 2001, our principal source of liquidity was approximately $798.2
+million of cash, cash equivalents and short-term investments, consisting
+principally of commercial paper, medium term notes, corporate bonds and notes,
+market auction securities, United States government agency securities and money
+market funds. In addition, we held $139.4 million of long-term equity minority
+investments and $318.7 million of long-term corporate debt securities and other
+investments at June 30, 2001.
+
+   Net cash provided by operating activities was $115.5 million in the first
+six months of 2001 compared to $67.1 million in the first six months of 2000.
+The increase was primarily due to an overall increase in net income after
+adjustment for non-cash items such as depreciation and amortization and an
+overall increase in our deferred revenue balance in which we receive payment in
+advance for many of our products and services. The increase in cash provided by
+operating activities was partially offset by increases in accounts receivable
+and deferred income taxes.
+
+   Net cash used by investing activities was $185.6 million in the first six
+months of 2001 primarily as a result of $970.8 million used for purchases of
+short and long-term investments and $45.7 million used for purchases of
+property and equipment partially offset by proceeds of $853.3 million from
+sales and maturities of short and long-term investments. Net cash provided by
+investing activities in the first six months of 2000 was $860.2 million and was
+primarily the result of cash acquired in our acquisitions of THAWTE, Signio and
+Network Solutions, partially offset by costs relating to these acquisitions. As
+of June 30, 2001, we also had commitments under noncancelable operating leases
+for our facilities for various terms through 2011.
+
+   Net cash provided by financing activities was $61.1 million in first six
+months of 2001 and $15.7 million in the first six months of 2000. The primary
+source of cash provided by financing activities in both periods was from the
+issuance of common stock resulting from stock option exercises.
+
+                                       34
+<PAGE>
+
+   We believe our existing cash, cash equivalents and short-term investments
+and operating cash flows, will be sufficient to meet our working capital and
+capital expenditure requirements for at least the next 12 months. However, at
+some time, we may need to raise additional funds through public or private
+financing, strategic relationships or other arrangements. This additional
+funding, if needed, might not be available on terms attractive to us, or at
+all. Failure to raise capital when needed could materially harm our business.
+If we raise additional funds through the issuance of equity securities, the
+percentage of our stock owned by our then-current stockholders will be reduced.
+Furthermore, these equity securities might have rights, preferences or
+privileges senior to those of our common stock.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Interest rate sensitivity
+
+   The primary objective of VeriSign's investment activities is to preserve
+principal while at the same time maximizing the income we receive from our
+investments without significantly increasing risk. Some of the securities that
+we have invested in may be subject to market risk. This means that a change in
+prevailing interest rates may cause the principal amount of the investment to
+fluctuate. For example, if we hold a security that was issued with a fixed
+interest rate at the then-prevailing rate and the prevailing interest rate
+later rises, the principal amount of our investment will probably decline in
+value. To minimize this risk, we maintain our portfolio of cash equivalents and
+short-term investments in a variety of securities, including commercial paper,
+medium-term notes, corporate bonds and notes, market auction securities, U.S.
+government and agency securities and money market funds. In general, money
+market funds are not subject to market risk because the interest paid on such
+funds fluctuates with the prevailing interest rate. In addition, we generally
+invest in relatively short-term securities. As of June 30, 2001, 69% of our
+non-strategic investments mature in less than one year.
+
+   The following table presents the amounts of our cash equivalents and
+investments that are subject to market risk by range of expected maturity and
+weighted-average interest rates as of June 30, 2001. This table does not
+include money market funds because those funds are not subject to market risk.
+
+<TABLE>
+<CAPTION>
+                                                  Maturing in
+                                         ------------------------------
+                                                    Six Months   More
+                                         Six Months     to     than One           Estimated
+                                          or Less    One Year    Year     Total   Fair Value
+                                         ---------- ---------- --------  -------- ----------
+                                                       (Dollars in thousands)
+<S>                                      <C>        <C>        <C>       <C>      <C>
+Included in cash and cash equivalents..   $158,012   $   --    $    --   $158,012  $158,041
+Weighted-average interest rate.........       4.50%      --         --
+Included in short-term investments.....   $313,521   $33,448   $    --   $346,969  $347,483
+Weighted-average interest rate.........       5.00%     5.11%       --
+Included in long-term investments......   $ 30,207   $20,815   $246,665  $297,687  $298,596
+Weighted-average interest rate.........       7.13%     4.71%      5.30%
+</TABLE>
+
+Exchange rate risk
+
+   VeriSign considers its exposure to foreign currency exchange rate
+fluctuations to be minimal. All revenues derived from affiliates other than
+VeriSign Japan K.K., THAWTE (South Africa), Registrars.com (Canada) and
+Domainnames.com, Limited (U.K.) are denominated in United States dollars and,
+therefore, are not subject to exchange rate fluctuations.
+
+   Both the revenues and expenses of our majority-owned subsidiary in Japan as
+well as our wholly owned subsidiaries in South Africa, Sweden and the United
+Kingdom are denominated in local currencies. In these regions, we believe this
+serves as a natural hedge against exchange rate fluctuations because although
+an unfavorable change in the exchange rate of the foreign currency against the
+United States dollar will result in lower revenues when translated to United
+States Dollars, operating expenses will also be lower in these
+
+                                       35
+<PAGE>
+
+circumstances. Because of our minimal exposure to foreign currencies, we have
+not engaged in any hedging activities, although if future events or changes in
+circumstances indicate that hedging activities would be beneficial, we may
+consider such activities.
+
+Equity price risk
+
+   We own shares of common stock of several public companies. We value these
+investments using the closing market value for the last day of each month.
+These investments are subject to market price volatility. We reflect these
+investments on our balance sheet at their market value, with the unrealized
+gains and losses excluded from earnings and reported in the "Accumulated other
+comprehensive income" component of stockholders' equity. We have also invested
+in equity instruments of several privately held companies, many of which can
+still be considered in the startup or development stages, and therefore, carry
+a high level of risk. In the first quarter of 2001 we determined the decline in
+value of certain public and non-public equity investments was other than
+temporary and the Company recognized a $74.7 million impairment loss. Due to
+the inherent risk associated with some of our investments, and in light of
+current stock market conditions, we may incur future losses on the sales,
+write-downs or write-offs of our investments. Currently we do not hedge against
+equity price changes.
+
+Intangible Asset Risk
+
+   We have a substantial amount of intangible assets. Although at June 30,
+2001, we believe our intangible assets are recoverable, changes in the economy,
+the business in which we operate and our own relative performance could change
+the assumptions used to evaluate intangible asset recoverability. We continue
+to monitor those assumptions and their consequent effect on the estimated
+recoverability of our intangible assets.
+
+                                       36
+<PAGE>
+
+PART II--OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+   As of July 31, 2001, through our Network Solutions subsidiary, we were a
+defendant in fifteen active lawsuits involving domain name disputes between
+trademark owners and domain name holders. We are drawn into such disputes, in
+part, as a result of claims by trademark owners that we are legally required,
+upon request by a trademark owner, to terminate the contractual right we
+granted to a domain name holder to register a domain name which is alleged to
+be similar to the trademark in question. On October 25, 1999, however, the
+Ninth Circuit Court of Appeals ruled in our favor and against Lockheed
+Corporation, holding that our services do not make us liable for contributory
+infringement to trademark owners. Since that time, the frequency of this type
+of suit has continued to decline. The holders of the domain name registrations
+in dispute have, in turn, questioned our right, absent a court order, to take
+any action that affects their contractual rights to the domain names in
+question. Although 85 of these kinds of situations over the past seven years
+have resulted in suits actually naming Network Solutions as a defendant, as of
+July 31, 2001, no adverse judgment has been rendered and no award of damages
+has ever been made. We intend to vigorously defend ourselves against these
+claims.
+
+   On February 2, 2001, Leon Stambler filed a complaint against us alleging
+patent infringement in the United States District Court for the District of
+Delaware. The other co-defendants in the suit are RSA Security Inc., First Data
+Corporation, Openwave Systems Inc., and Omnisky Corporation. The complaint
+alleges that our Secure Site service infringes claim 12 of Mr. Stambler's U.S.
+Patent No. 5,793,302 and that our Payflow products infringe claims 1, 28, and
+34 of Mr. Stambler's U.S. Patent No. 5,974,148. The complaint seeks judgment
+declaring that the defendants have infringed the asserted claims of the
+patents-in-suit, preliminary and permanent injunctions against the defendants
+from infringing the asserted claims, an order requiring the defendants to pay
+damages to compensate Mr. Stambler for the alleged infringement, and an order
+awarding Mr. Stambler treble damages for any willful infringement as well as
+attorney fees and costs. All of the defendants filed their answers to the
+complaint on March 28, 2001. While we cannot predict the outcome of this matter
+presently, we believe that the claims against us are without merit and we
+intend to vigorously defend ourselves against these claims.
+
+   On June 15, 2000, plaintiff David Moran filed a putative shareholder
+derivative complaint on behalf of himself and others similarly situated against
+Charles Stuckey, Jr., James Bidzos, Richard L. Earnest, Dr. Taher Elgamal,
+James K. Sims, Joseph B. Lassiter III, Robert P. Badavas, and against us as a
+nominal defendant. The case is captioned Moran v. Stuckey, et.al., No. 1810 NC
+(Del. Ch. 2000). The complaint alleges, among other things, that the directors
+of RSA Security mismanaged RSA's business, failed to protect its intellectual
+property or enforce the terms of its license agreement with us, and that we
+violated the terms of the licensing agreement and competed against RSA. On
+August 2, 2000, a second shareholder complaint was filed against us and the
+aforementioned directors of RSA Security, Inc. by plaintiff James V. Biglan.
+That case is captioned Biglan v. Stuckey, et al. Civ. Action No. 18190NC (Del.
+Ch. 2000). On September 25, 2000 the Court ordered the cases consolidated under
+the Moran caption and named lead counsel for plaintiffs in this matter. We
+filed a Motion to Dismiss on November 20, 2000. While we cannot ascertain the
+outcome of this matter presently, we currently believe that the claims against
+us are without merit and we intend to vigorously defend ourselves against these
+claims.
+
+   On March 15, 2000, a group of eight plaintiffs filed suit against the U.S.
+Department of Commerce, the National Science Foundation and us in the United
+States District Court for the Northern District of California. The case,
+entitled William Hoefer et al. v. U.S. Department of Commerce, et al., Civil
+Action No. 000918-VRW, challenges the lawfulness of the registration fees that
+we were authorized to charge for domain name registrations from September 1995
+to November 1999. The suit purports to be brought on behalf of all domain name
+registrants who paid registration fees during that period and seeks
+approximately $1.7 billion in damages. On June 19, 2000, the plaintiffs filed
+their first amended complaint, adding two additional plaintiffs.
+
+   All of the defendants filed motions to transfer the suit to Federal District
+Court in the District of Columbia and the court granted those motions on June
+28, 2000. The same attorney who unsuccessfully challenged us in
+
+                                       37
+<PAGE>
+
+a similar action, known as Thomas, et al. v. Network Solutions, et al., has
+filed this new action on behalf of eight former and current domain name
+registrants. The suit contains eight causes of action against the defendants
+based on alleged violations of Art. I, (S) 8 and the Fifth Amendment of the
+U.S. Constitution, the Independent Offices Appropriations Act (31 U.S.C. (S)
+9701), the Administrative Procedures Act, the Sherman Act, and the California
+Unfair Competition Act, (S) 17200. The case was docketed with the Federal
+District Court in the District of Columbia on July 28, 2000 and on August 4,
+2000 the plaintiffs dismissed the case. Four days later, the same attorney
+refiled the same case in the United States District Court for the Eastern
+District of Virginia. We filed a motion to dismiss the case and the plaintiffs
+responded by filing a First Amended Complaint on September 7, 2000. The current
+suit contains fourteen causes of action alleging violations of the
+Appropriations Act (31 U.S.C. 9701), the Administrative Procedures Act, the
+Sherman Act, and the Chief Financial Officer's Act (31 U.S.C. 902). On October
+10, 2000, we filed another motion to dismiss the case. On October 24, 2000, the
+National Science Foundation filed a motion to transfer the case back to the
+Federal District Court in the District of Columbia. A hearing on the motion to
+transfer the case back to the Federal District Court for the District of
+Columbia was held on November 17, 2000. The Court ruled from the bench that the
+case should be transferred back to the District of Columbia. Our pending motion
+to dismiss the complaint also was transferred under the Order. No judge has
+been appointed to the matter, and no hearing date has yet been set on our
+motion to dismiss.
+
+   On January 13, 2000, the Department of Justice ("DOJ") Antitrust Division
+issued a Civil Investigative Demand ("CID") seeking information and documents
+concerning the then-pending acquisition by us of THAWTE. We provided certain
+information and documents to the DOJ, and closed the THAWTE transaction on
+February 1, 2000. We completed our initial response to the CID on March 1,
+2000, and a supplemental production of documents was completed May 9, 2000. On
+September 14, 2000, we were notified that senior officials at the DOJ had
+reviewed a report by the investigatory staff regarding the transaction, and
+that the DOJ had concerns about the potential competitive effects of the
+transaction. Our representatives met with and provided additional information
+to the DOJ during October 2000. While we believe that the transaction does not
+violate the antitrust laws, it is possible that the DOJ may ultimately raise an
+objection. Formal objection could lead to further proceedings or litigation
+that could have an adverse material effect on us, and could include the
+licensing or divestiture of assets acquired in the transaction.
+
+   We are involved in various other investigations, claims and lawsuits arising
+in the normal conduct of our business, none of which, in our opinion will harm
+our business. We cannot assure that we will prevail in any litigation.
+Regardless of the outcome, any litigation may require us to incur significant
+litigation expense and may result in significant diversion of management
+attention. An unfavorable outcome may have a material adverse effect on our
+financial position or results of operations.
+
+                                       38
+<PAGE>
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   The 2001 Annual Meeting of Stockholders was held on May 24, 2001 at our
+corporate offices, located at 1350 Charleston Road, Mountain View, California.
+Three proposals were voted on at the meeting. The results of each proposal are
+as follows.
+
+   Proposal No. 1 to elect two (2) Class III directors to serve for a three-
+year term expiring at the Annual Meeting of Stockholders in 2004 was approved
+by the stockholders. The nominees received the following votes:
+
+<TABLE>
+<CAPTION>
+                                                             For       Withheld
+                                                         ------------  --------
+   <S>                                                   <C>           <C>
+   D. James Bidzos......................................  168,625,511   927,327
+   William L. Chenevich.................................  168,985,897   566,941
+</TABLE>
+
+   Incumbent Class I directors Scott G. Kriens, Stratton D. Sclavos and
+Timothy Tomlinson are currently serving for a term expiring at the Annual
+Meeting of Stockholders in 2002. Incumbent Class II directors Kevin R.
+Compton, David J. Cowan and Greg L. Reyes are currently serving for a term
+expiring at the Annual Meeting of Stockholders in 2003.
+
+   Proposal No. 2 to approve an amendment to VeriSign's 1998 Equity Incentive
+Plan to increase the number of shares reserved and authorized for issuance by
+8,000,000 shares was approved by the stockholders. The proposal received the
+following votes:
+
+<TABLE>
+<CAPTION>
+                                                                       Votes
+                                                                     ----------
+   <S>                                                               <C>
+   For.............................................................. 95,609,246
+   Against.......................................................... 73,684,594
+   Abstain..........................................................    237,457
+</TABLE>
+
+   In addition, in Proposal No. 3 stockholders ratified the appointment of
+KPMG LLP as independent auditors of VeriSign for the fiscal year ended
+December 31, 2001. This proposal received the following votes:
+
+<TABLE>
+<CAPTION>
+                                                                       Votes
+                                                                    -----------
+   <S>                                                              <C>
+   For............................................................. 169,083,869
+   Against.........................................................     385,000
+   Abstain.........................................................      83,969
+</TABLE>
+
+   Abstentions and broker non-votes were included in the determination of the
+number of shares represented at the meeting for purposes of determining the
+presence of a quorum at the Annual Meeting of Stockholders. Abstentions had
+the same effect as a vote against a proposal, for Proposals No. 2 and 3.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(b) Reports on Form 8-K
+
+   The following reports were filed on Form 8-K or Form 8-K/A during the
+quarter ended June 30, 2001:
+
+  .  Current Report on Form 8-K dated May 25, 2001 and filed June 1, 2001
+     pursuant to Item 5 (Other Events), announcing agreements relating to the
+     operation of the domain name registries for .com, .net and .org.
+
+                                      39
+<PAGE>
+
+                                   SIGNATURES
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                          VERISIGN, INC.
+
+   Date: August 13, 2001                        /s/ Stratton D. Sclavos
+                                          By: _________________________________
+                                                    Stratton D. Sclavos
+                                               President and Chief Executive
+                                                          Officer
+                                               (Principal Executive Officer)
+
+   Date: August 13, 2001                           /s/  Dana L. Evan
+                                          By: _________________________________
+                                                        Dana L. Evan
+                                                Executive Vice President of
+                                               Finance and Administration and
+                                                  Chief Financial Officer
+                                                  (Principal Financial and
+                                                    Accounting Officer)
+
+                                       40
+
+</TEXT>
+</DOCUMENT>

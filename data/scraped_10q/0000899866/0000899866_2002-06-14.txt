@@ -1,0 +1,1400 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q DTD 04/30/02
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+ X   Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange
+---
+     Act of 1934:
+
+     For the quarterly period ended April 30, 2002
+
+                                       OR
+
+___  Transition report pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934:
+
+     For the transition period from               to
+                                        -------------    --------------
+
+     Commission file number: 0-27756
+
+
+                          Alexion Pharmaceuticals, Inc.
+                          -----------------------------
+             (Exact name of registrant as specified in its charter)
+
+             Delaware                                    13-3648318
+             --------                                    ----------
+             (State or other                             (I.R.S. Employer
+             jurisdiction of                             Identification No.)
+             incorporation or
+             organization)
+
+                 352 Knotter Drive, Cheshire, Connecticut 06410
+                 ----------------------------------------------
+               (Address of principal executive offices) (Zip Code)
+
+                                  203-272-2596
+                                  ------------
+              (Registrant's telephone number, including area code)
+
+
+                                       N/A
+           ----------------------------------------------------------
+           (Former address of principal executive offices) (Zip Code)
+
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+     Yes  X     No___
+         ---
+
+
+     Common Stock, $0.0001 par value                  18,191,796 shares
+     -------------------------------           ------------------------------
+             Class                               Outstanding at June 6, 2002
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                          Page
+                                                                                          ----
+<S>                                                                                       <C>
+PART I.        FINANCIAL INFORMATION
+
+
+      Item 1.  Consolidated Financial Statements (Unaudited)
+
+               Consolidated Balance Sheets as of April 30, 2002 and
+               July 31, 2001                                                                3
+
+               Consolidated Statements of Operations for the three and nine months
+               ended April 30, 2002 and 2001                                                4
+
+               Consolidated Statements of Cash Flows for the nine months
+               ended April 30, 2002 and 2001                                                5
+
+               Notes to Consolidated Financial Statements                                   6
+
+
+      Item 2.  Management's Discussion and Analysis of
+                Financial Condition and Results of Operations                              12
+
+      Item 3.  Quantitative and Qualitative Disclosures about Market Risk                  19
+
+PART II.       OTHER INFORMATION                                                           20
+
+      Item 6.  Exhibits and Reports on Form 8-K.
+
+
+      SIGNATURES                                                                           21
+</TABLE>
+
+                                  Page 2 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                           CONSOLIDATED BALANCE SHEETS
+                             (amounts in thousands)
+
+<TABLE>
+<CAPTION>
+                                                          April 30, 2002     July 31, 2001
+                                                         ================   ===============
+ASSETS                                                      (UNAUDITED)
+<S>                                                      <C>                <C>
+Current Assets:
+  Cash and cash equivalents                                    $ 121,427         $ 135,188
+  Marketable securities                                          203,750           220,086
+  Reimbursable contract costs: billed                                125             2,974
+                               unbilled                              344             4,006
+  State tax receivable                                               700                 -
+  Prepaid expenses and other                                         793               493
+                                                         ----------------   ---------------
+       Total current assets                                      327,139           362,747
+
+
+Property, plant, and equipment, net                               13,736            13,731
+Goodwill, net                                                     20,165            20,270
+Deferred financing costs, net                                      2,835             3,265
+Other assets                                                       6,285               246
+                                                         ----------------   ---------------
+
+  TOTAL ASSETS                                                 $ 370,160         $ 400,259
+                                                         ================   ===============
+
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+  Accounts payable                                                 8,032             1,722
+  Accrued expenses                                                 4,318             2,271
+  Accrued interest                                                   921             2,646
+  Deferred revenue                                                   589             1,352
+                                                         ----------------   ---------------
+       Total current liabilities                                  13,860             7,991
+                                                         ----------------   ---------------
+
+Deferred revenue, less current portion included above              7,499             7,940
+                                                         ----------------   ---------------
+Note payable                                                       3,920             3,920
+                                                         ----------------   ---------------
+Convertible subordinated notes                                   120,000           120,000
+                                                         ----------------   ---------------
+
+Stockholders' Equity:
+  Common stock $.0001 par value; 150,000 shares
+    authorized; 18,229 and 18,119 shares issued
+    at April 30, 2002 and July 31, 2001, respectively                  2                 2
+  Additional paid-in capital                                     385,102           384,091
+  Accumulated deficit                                           (159,961)         (124,257)
+  Other comprehensive gain                                           338               572
+  Treasury stock, at cost; 37 shares                                (600)                -
+                                                         ----------------   ---------------
+       Total stockholders' equity                                224,881           260,408
+
+                                                         ----------------   ---------------
+
+  TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                   $ 370,160         $ 400,259
+                                                         ================   ===============
+</TABLE>
+
+   The accompanying notes are an integral part of these consolidated finacial
+                                   statements
+
+                                  Page 3 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                      Consolidated Statements of Operations
+                                   (UNAUDITED)
+                (amounts in thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                           Three months ended           Nine months ended
+                                                                                April 30,                    April 30,
+                                                                       --------------------------   ---------------------------
+                                                                           2002           2001          2002           2001
+                                                                       -----------    ----------    -----------    ------------
+<S>                                                                    <C>            <C>           <C>            <C>
+CONTRACT RESEARCH REVENUES                                                $    539       $ 1,960       $  5,779       $  8,533
+                                                                       -----------    ----------    -----------    ------------
+
+OPERATING EXPENSES:
+  Research and development                                                  15,906         8,362         40,620         28,684
+  General and administrative                                                 2,432         1,916          5,867          5,265
+  In-process research and development (Note 2)                                   -             -              -         21,000
+  Amortization of goodwill (Note 5)                                              -           847              -          2,074
+                                                                       ------------   -----------   ------------   ------------
+  Total operating expenses                                                  18,338        11,125         46,487         57,023
+                                                                       ------------   -----------   ------------   ------------
+               Operating loss                                              (17,799)       (9,165)       (40,708)       (48,490)
+
+
+  Investment income                                                          2,621         4,646         10,077         13,990
+  Interest expense                                                          (1,927)       (1,943)        (5,773)        (5,889)
+                                                                       ------------   -----------   ------------   ------------
+               Loss before benefit  for state tax and
+               cumulative effect of adoption of Staff Accounting
+               Bulletion No. 101 (SAB 101)                                 (17,105)       (6,462)       (36,404)       (40,389)
+
+  State tax benefit                                                              -             -            700              -
+                                                                       ------------   -----------   ------------   ------------
+               Loss before cumulative effect of adoption of SAB 101        (17,105)       (6,462)       (35,704)       (40,389)
+
+  Cummulative effect of adoption of SAB 101 (Note 4)                             -             -              -         (9,118)
+                                                                       ------------   -----------   ------------   ------------
+               Net loss                                                   $(17,105)      $(6,462)      $(35,704)      $(49,507)
+                                                                       ============   ===========   ============   ============
+BASIC AND DILUTED PER SHARE DATA:
+  Loss before cumulative effect of adoption of SAB 101                    $  (0.94)      $ (0.36)      $  (1.97)      $  (2.36)
+  Cumulative effect of adoption of SAB 101                                       -             -              -          (0.53)
+                                                                       ------------   -----------   ------------   ------------
+               Net loss                                                   $  (0.94)      $ (0.36)      $  (1.97)      $  (2.89)
+                                                                       ============   ===========   ============   ============
+SHARES USED IN COMPUTING BASIC AND DILUTED
+  NET LOSS PER COMMON SHARE                                                 18,160        18,077         18,129         17,123
+                                                                       ============   ===========   ============   ============
+</TABLE>
+
+        The accompanying notes are an integral part of these consolidated
+                              financial statements.
+
+                                  Page 4 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                      Consolidated Statements of Cash Flows
+                                  ( UNAUDITED )
+                            ( amounts in thousands )
+
+<TABLE>
+<CAPTION>
+                                                                       Nine months ended April 30,
+                                                                     -------------------------------
+                                                                          2002              2001
+                                                                     -------------       -----------
+<S>                                                                  <C>                 <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net loss                                                              $ (35,704)        $ (49,507)
+  Adjustments to reconcile net loss to net cash
+       used in operating activities:
+     In-process research and development                                        -            21,000
+     Cumulative effect of adopting SAB 101                                      -             9,118
+     Depreciation and amortization                                          2,823             1,837
+     Amortization of goodwill                                                   -             2,074
+     Compensation expense related to grant of stock options                   175               245
+     Realized gain from sale of marketable securities                      (2,039)                -
+     Change in assets and liabilities:
+       Reimbursable contract costs                                          6,511             1,238
+       State tax receivable                                                  (700)                -
+       Prepaid expenses                                                      (195)              253
+       Other assets                                                        (6,078)              (40)
+       Accounts payable                                                     6,310              (881)
+       Accrued expenses                                                     2,047             1,466
+       Accrued interest                                                    (1,725)           (1,867)
+       Deferred revenue                                                    (1,204)             (334)
+                                                                     -------------       -----------
+         Net cash used in operating activities                            (29,779)          (15,398)
+                                                                     -------------       -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of marketable securities                                     (377,407)         (247,083)
+  Proceeds from marketable securities                                     395,548           197,979
+  Purchases of property, plant and equipment                               (2,359)           (6,179)
+  Cash paid for transaction costs, net of cash received
+    for acquisition of Prolifaron                                               -              (430)
+                                                                     -------------       -----------
+         Net cash provided by (used in) investing activities               15,782           (55,713)
+                                                                     -------------       -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Net proceeds from issuance of common stock                                  236           210,798
+  Repayments of notes payable                                                   -              (277)
+  Other                                                                         -               307
+                                                                     -------------       -----------
+         Net cash provided by financing activities                            236           210,828
+
+                                                                     -------------       -----------
+
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                      (13,761)          139,717
+
+
+CASH AND CASH EQUIVALENTS, beginning of period                            135,188            91,858
+
+                                                                     -------------       -----------
+CASH AND CASH EQUIVALENTS, end of period                                $ 121,427         $ 231,575
+                                                                     =============       ===========
+
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+  Cash paid for interest expense                                        $   7,018         $   7,223
+                                                                     =============       ===========
+
+SUPPLEMENTAL DISCLOSURE OF NONCASH FINANCING ACTIVITIES
+  Cashless exercise of stock award                                      $     600                 -
+                                                                     =============       ===========
+  Acquisition of Prolifaron through the issuance of
+    common stock and stock options                                              -         $  43,945
+                                                                     =============       ===========
+</TABLE>
+
+        The accompanying notes are an integral part of these consolidated
+                             financial statements.
+
+                                  Page 5 of 21
+
+<PAGE>
+
+                         ALEXION PHARMACEUTICALS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+1.   Operations and Basis of Presentation -
+
+Alexion Pharmaceuticals, Inc. ("Alexion" or the "Company") was organized in 1992
+and is engaged in the development of therapeutic products for the treatment of a
+wide array of severe diseases, including cardiovascular and autoimmune
+disorders, inflammation, and cancer.
+
+The accompanying consolidated financial statements include Alexion
+Pharmaceuticals, Inc. and its wholly owned subsidiaries, Alexion Antibody
+Technologies ("AAT") (see Note 2) and Columbus Farming Corporation ("Columbus").
+All significant inter-company balances and transactions have been eliminated in
+consolidation. Columbus was formed on February 9, 1999 to acquire certain
+manufacturing assets from United States Surgical Corporation ("US Surgical").
+
+The consolidated financial statements included herein have been prepared by the
+Company, without audit, pursuant to the rules and regulations of the Securities
+and Exchange Commission ("SEC") and include, in the opinion of management, all
+adjustments, consisting of normal, recurring adjustments, necessary for a fair
+presentation of interim period results. Certain information and footnote
+disclosures normally included in financial statements prepared in accordance
+with generally accepted accounting principles have been condensed or omitted
+pursuant to such rules and regulations. The results for the interim periods
+presented are not necessarily indicative of results to be expected for any
+future period. These consolidated condensed financial statements should be read
+in conjunction with the audited financial statements and notes thereto included
+in the Company's Form 10-K Annual Report for the fiscal year ended July 31,
+2001.
+
+2.   Alexion Antibody Technologies, Inc. -
+
+On September 23, 2000, the Company acquired Prolifaron, Inc. ("Prolifaron"), a
+privately-held biopharmaceutical company with extensive combinatorial human
+antibody library technologies and expertise. The acquisition was accomplished
+when Prolifaron was merged with a wholly owned subsidiary of Alexion and renamed
+Alexion Antibody Technologies, Inc. The fair value of the Company's common stock
+and stock options issued at the date of the acquisition was approximately $43.9
+million. The acquisition was accounted for as a purchase and, accordingly, the
+purchase price was allocated to the assets acquired and liabilities assumed
+based on their estimated fair values at the date of the acquisition. In
+addition, the Company allocated $21.0 million of the purchase price as a
+one-time, non-cash in-process research and development charge resulting from the
+acquisition. This allocation represented the estimated fair value based on
+risk-adjusted cash flows related to the incomplete research and development
+projects. At the date of the acquisition, development of these projects had not
+yet reached technological feasibility and the research and development in
+progress had no alternative future uses. Accordingly, these costs were expensed
+as of the acquisition date. The excess cost over the fair value of the net
+assets acquired, which amounted to approximately $23.1 million, was reflected as
+goodwill (see Note 5).
+
+The following unaudited pro forma condensed consolidated information has been
+prepared to give effect to the acquisition as if such transaction had occurred
+at the beginning of the period presented. The historical results have been
+adjusted to reflect: i) elimination of the one-time charge to operations for the
+purchase of acquired in-process research and development, ii) amortization of
+goodwill arising from the transaction, and iii) elimination of income tax
+benefits or expenses that would not have been realized on a combined basis
+(dollars in thousands, except per share data).
+
+<TABLE>
+<CAPTION>
+                                                     Nine months ended April 30,
+                                                     ---------------------------
+                                                                2001
+                                                                ----
+     <S>                                             <C>
+     Contract research revenues                               $  9,654
+     Loss before cumulative effect of adoption of SAB 101      (20,188)
+     Net loss                                                  (29,306)
+     Basic and diluted net loss per common share              $  (1.70)
+</TABLE>
+
+                                  Page 6 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+     Shares used in computing basic and
+       diluted net loss per common share                        17,192
+
+The unaudited pro forma condensed consolidated financial information is not
+necessarily indicative of what actual results would have been had the
+transaction occurred on the dates indicated and do not purport to indicate the
+results of future operations.
+
+3.   Procter & Gamble Pharmaceuticals Collaboration -
+
+The Company and Procter & Gamble Pharmaceuticals ("P&G") entered into an
+exclusive collaboration in January 1999 to develop and commercialize
+pexelizumab. The Company granted P&G an exclusive license to the Company's
+intellectual property related to pexelizumab, with the right to sublicense. P&G
+agreed to fund generally all clinical development and manufacturing costs
+relating to pexelizumab for the treatment of inflammation caused by
+cardiopulmonary bypass surgery, heart attack, and angioplasty. Additionally, P&G
+agreed to pay the Company up to $95 million in payments, which included a
+non-refundable up-front $10 million license fee, milestone payments (including
+up to $33 million in milestone payments for achievement of certain sales
+thresholds), and research and development support payments. The Company was also
+to receive royalties on worldwide sales of pexelizumab, if any, for all
+indications. The Company retained a preferred position relative to third-party
+manufacturers to manufacture pexelizumab worldwide. The Company shared
+co-promotion rights with P&G to sell, market and distribute pexelizumab in the
+United States ("U.S."), and granted P&G the exclusive rights to sell, market and
+distribute pexelizumab outside of the U.S.
+
+In December 2001, the Company and P&G entered into a binding memorandum of
+understanding ("MOU") pursuant to which they revised their January 1999
+collaboration. The Company expects to enter into a revised definitive
+collaboration agreement that reflects the terms of the MOU. Under the revised
+structure, the Company and P&G will share decision-making and responsibility for
+all future U.S. development and commercialization costs for pexelizumab,
+including clinical, manufacturing, marketing, and sales efforts. Prior to
+December 2001, P&G was generally funding all clinical development and
+manufacturing costs for pexelizumab. The revised collaboration per the MOU
+provides that the Company and P&G each incur approximately 50% of all Phase III
+clinical trial, product development and manufacturing, and commercialization
+costs necessary for the potential approval and marketing of pexelizumab in the
+U.S. and that each firm will receive an approximate equal share of the gross
+margin on U.S. sales, if any. P&G agreed to retain responsibility for future
+development and commercialization costs outside the U.S., with the Company
+receiving a royalty on sales to the rest of the world, if any. The Company is
+responsible for royalties on certain third party intellectual property
+worldwide, if such intellectual property is necessary. Additionally, as part of
+the MOU, the Company will receive milestone payments for achieving specified
+development steps, regulatory filings and approvals, but will not receive
+previously agreed sales milestones and will generally forego further research
+and development support payments from P&G.
+
+As part of the revised collaboration per the MOU, P&G agreed to continue to fund
+100% of the costs to complete the two acute myocardial infarction ("AMI") Phase
+II clinical trials in myocardial infarction ("heart attack") patients that
+recently completed enrollment. The Company has agreed to bear the first 50% of
+projected costs associated with the U.S. coronary artery bypass graft surgery
+("CABG") -Phase III clinical trial costs and P&G will bear the second 50%, with
+a final adjustment to make even the 50% sharing of costs. The Company and P&G
+have agreed that each will share concurrently 50% of the ongoing U.S.
+pre-production and development manufacturing costs of pexelizumab as well as any
+future AMI-Phase III clinical trial costs.
+
+
+4.   Cumulative Effect of Accounting Change -
+
+                                  Page 7 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+In December 1999, the Securities and Exchange Commission staff issued Staff
+Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements" (SAB
+101). SAB 101 summarizes certain of the staff's views in applying generally
+accepted accounting principles to revenue recognition in financial statements
+and specifically addresses revenue recognition in the biotechnology industry for
+non-refundable upfront fees. Prior to the implementation of SAB 101,
+non-refundable license fees received upon execution of license agreements were
+recognized as revenue immediately. The Company elected to adopt SAB 101 during
+the quarter ended April 30, 2001, retroactive to August 1, 2000, and therefore
+the quarter ended and nine months ended April 30, 2002 reflects the adoption of
+SAB 101. As a result of the adoption of SAB 101, the Company has changed its
+revenue recognition policy for up-front non-refundable payments from immediate
+recognition to deferral of the revenue with the up-front fee amortized into
+revenue over the life of the agreement.
+
+In 1999, the Company recognized $10 million of revenue from a non-refundable
+up-front licensing fee received from P&G (see Note 3 and 7). With the adoption
+of SAB 101, the Company is now recognizing this $10 million license fee as
+revenue over the average of the remaining patent lives of the underlying
+technologies (17 years) as the agreement with P&G provided for ongoing
+collaborative services and the funding of specified clinical development and
+manufacturing costs of the Company's pexelizumab product candidate. The license
+is being recognized over the lives of the patents, as the agreement does not
+have a specified contractual term. As part of the change to this accounting
+method, the Company has recognized a non-cash cumulative effect adjustment of
+$9.1 million as of August 1, 2000. The Company recognized $147,000 and $441,000
+of revenue in each of the three and nine months ended April 30, 2002 and 2001,
+respectively, that was previously recognized and is included in the cumulative
+effect adjustment. There are no income tax effects related to this accounting
+change.
+
+5.   Adoption of New Accounting Standard -
+
+In July 2001, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standard (SFAS) No. 141, "Business Combinations", and SFAS
+No. 142, "Goodwill and Other Intangible Assets", which together significantly
+change the accounting and disclosures required for these activities and related
+assets. The primary changes resulting from these standards consist of the
+cessation of the "pooling of interests" method of accounting and how goodwill
+and intangible assets will be segregated, amortized (or not amortized), reviewed
+for impairment (if any), and disclosed within the footnotes to financial
+statements.
+
+The Company adopted SFAS No. 142 effective August 1, 2001. The adoption of SFAS
+No. 142 caused the amortization as it relates to the $23.1 million of goodwill
+acquired in connection with the acquisition of Prolifaron (see Note 2) to cease
+effective August 1, 2001. Prior to the adoption of this standard, this annual
+amortization was expected to be approximately $3.3 million annually over a
+seven-year period. On a prospective basis, this goodwill is subject to annual
+impairment reviews, and, if conditions warrant, interim reviews based upon its
+estimated fair value. Impairment charges, if any, will be recorded as a
+component of operating expenses in the period in which the impairment is
+determined. No impairment charge resulted upon the adoption of this standard.
+
+A reconciliation of reported net loss to adjusted net loss before amortization
+of goodwill is as follows (dollars in thousands, except per share amounts):
+
+<TABLE>
+<CAPTION>
+                                            Three months      Nine months
+                                            ------------      -----------
+                                           ended April 30    ended April 30
+                                           --------------    --------------
+                                           2002      2001      2002      2001
+                                           ----      ----      ----      ----
+          <S>                            <C>       <C>       <C>       <C>
+          Reported net loss              ($17,105) ($6,462)  ($35,704) ($49,507) -a)
+          Amortization of goodwill              -      847          -     2,074
+                                         --------- --------  --------- ---------
+          Adjusted net loss              ($17,105) ($5,615)  ($35,704) ($47,433) -a)
+                                         ========= ========  ========= =========
+</TABLE>
+
+                                  Page 8 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+<TABLE>
+          <S>                               <C>     <C>        <C>       <C>
+          Basic and diluted loss per share:
+          --------------------------------
+          Reported net loss                 ($0.94) ($0.36)    ($1.97)   ($2.89) -b)
+          Amortization of goodwill               -     .05          -       .12
+                                            ------- -------    -------   -------
+          Adjusted net loss                 ($0.94) ($0.31)    ($1.97)   ($2.77) -b)
+                                            ======= =======    =======   =======
+</TABLE>
+
+     (a-  includes the non-cash charge for IPRD of $21,000 and Cumulative Effect
+          of Adoption of SAB 101 of $9,118
+     (b-  includes the non-cash charges for IPRD of $1.23 and Cumulative Effect
+          of Adoption of SAB 101 of $0.53
+
+
+6.   Net Loss Per Share -
+
+The Company computes and presents net loss per common share in accordance with
+SFAS No. 128, "Earnings Per Share." Basic net loss per common share is based on
+the weighted average shares of common stock outstanding during the period.
+Diluted net loss per common share assumes in addition to the above, the dilutive
+effect of common share equivalents outstanding during the period. Common share
+equivalents represent dilutive stock options and convertible subordinated debt.
+These outstanding stock options and convertible subordinated debt entitled
+holders to acquire 3,539,969 and 1,127,555 shares, respectively, of common stock
+at April 30, 2002. There is no difference in basic and diluted net loss per
+common share for the three and nine months ended April 30, 2002 and 2001 as the
+effect of common share equivalents is anti-dilutive.
+
+
+7.   Revenues -
+
+During the nine months ended April 30, 2002 and 2001, the Company recorded
+contract research revenues from research and development support payments,
+license fees and a milestone payment under collaboration with third parties, and
+amounts received from various government grants.
+
+As a result of the Company's adoption of SAB 101 (see Note 4), up-front,
+non-refundable license fees received in connection with a collaboration are
+deferred and amortized into revenue over the life of the agreement or underlying
+technologies.
+
+Revenues derived from the achievement of milestones are recognized when the
+milestone is achieved, provided that the milestone is substantive and a
+culmination of the earnings process has occurred. Research and development
+support revenues are recognized as the related work is performed and expenses
+are incurred under the terms of the contracts for development activities.
+
+Unbilled reimbursable contract costs as shown on the accompanying consolidated
+balance sheets represent reimbursable costs incurred in connection with research
+contracts which have not yet been billed. The Company bills these costs and
+recognizes the costs and related revenues in accordance with the terms of the
+contracts.
+
+Deferred revenue results from cash received or amounts receivable in advance of
+revenue recognition under research and development contracts.
+
+Through April 30, 2002, the Company had received proceeds of approximately $50.7
+million from P&G. These proceeds included the non-refundable up-front license
+fee of $10 million in fiscal 1999 (see Note 4) and $40.7
+
+                                  Page 9 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+million for research and development support expenses, including the first
+milestone payment of $2 million for initiation of the CABG-Phase III trial.
+
+The Company has been awarded various grants by agencies of the U.S. government
+to fund specific research projects. Based upon costs incurred under these
+projects as of April 30, 2002, the Company has up to approximately $0.5 million
+of additional funding available under these grants.
+
+A summary of revenues generated from contract research collaboration, milestone
+payment, and grant awards is as follows for the three and nine months ended
+April 30 (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+                                       Three months ended  April 30,   Nine months ended April 30,
+                                       -----------------------------   ---------------------------
+                                                2002         2001              2002        2001
+                                                ----         ----              ----        ----
+     <S>                               <C>                 <C>         <C>               <C>
+     Collaboration/Grant Awards
+
+     P&G..............................          $272       $1,383            $4,319      $7,195
+     U.S. government grants...........           246          361             1,205       1,036
+     Other............................            21          216               255         302
+                                               -----       ------            ------      -------
+                                                $539       $1,960            $5,779      $8,533
+                                               =====       ======            =======     =======
+</TABLE>
+
+
+8.   Convertible Subordinated Notes -
+
+In March 2000, the Company completed a $120 million private placement of 5.75%
+Convertible Subordinated Notes due March 15, 2007. The notes bear interest
+payable semi-annually on September 15 and March 15 of each year, beginning
+September 15, 2000. The holders may convert all or a portion of the notes into
+common stock at any time on or before March 15, 2007 at a conversion price of
+$106.425 per common share. The Company incurred interest expense of
+approximately $1.7 million and $5.2 million for the three and nine months ended
+April 30, 2002, respectively, related to these notes.
+
+The Company incurred deferred financing costs related to this offering of
+approximately $4.0 million, which are recorded in the consolidated balance sheet
+and are being amortized as a component of interest expense over the seven-year
+term of the notes. Amortization expense associated with the financing costs was
+$143,000 and $430,000 for the three and nine months ended April 30, 2002,
+respectively.
+
+9.   Comprehensive Income (Loss) -
+
+SFAS No. 130 "Reporting Comprehensive Income" establishes standards for
+reporting and display of comprehensive income (loss) and its components in a
+full set of general purpose financial statements. Total comprehensive loss is
+comprised of net loss, unrealized gains and losses on marketable securities and
+cumulative translation adjustments. The Company's other comprehensive income
+arises from net unrealized gains on marketable securities.
+
+A summary of total comprehensive loss is as follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+                                                Nine months ended April 30,
+                                                ---------------------------
+                                                   2002            2001
+                                                   ----            ----
+          <S>                                   <C>              <C>
+          Net loss                              $(35,704)        $(49,507)
+          Other comprehensive income (loss)         (234)             379
+</TABLE>
+
+                                 Page 10 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+<TABLE>
+          <S>                                   <C>              <C>
+                                                ---------        ---------
+          Total comprehensive loss              $(35,938)        $(49,128)
+                                                =========        =========
+</TABLE>
+
+
+10.  State Tax Benefit -
+
+As a result of recent legislation, the State of Connecticut provides companies
+with the opportunity to exchange certain research and development tax credit
+carryforwards for cash in exchange for foregoing the carryforward of the
+research and development credit. The program provides for such exchange of the
+research and development credits at a rate of 65% of the annual incremental
+research and development credits, as defined. During the quarter ended January
+31, 2002, the Company had filed a claim to exchange their fiscal 2001
+incremental research and development credit and as a result recognized a state
+tax benefit and state tax receivable of $700,000.
+
+11.  Recently Issued Accounting Pronouncements -
+
+In August 2001, the Financial Accounting Standards Board ("FASB") issued SFAS
+No. 144, "Accounting for the Impairment or Disposal of Long-Lived Assets." SFAS
+No. 144 modifies the rules for accounting for the impairment or disposal of
+long-lived assets. The new rules become effective for fiscal years beginning
+after December 15, 2001, with earlier application encouraged. The Company does
+not believe that the adoption of this principle will have a material impact on
+either the operating results or financial position of the Company.
+
+                                 Page 11 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+This report contains forward-looking statements. Such statements are subject to
+certain factors which may cause our plans to differ or results to vary from
+those expected, including the results of pre-clinical or clinical studies
+(including termination or delay in clinical programs or inability to move
+forward to the next phase of clinical development), the need for additional
+research and testing, delays in developing or arranging satisfactory
+manufacturing capability, inability to access capital and funding on a timely
+basis and on favorable terms, delays in development of or adverse changes in
+status of commercial relationships, the possibility that favorable results of
+earlier clinical trials are not predictive of safety and efficacy results in
+later clinical trials, dependence on Procter & Gamble Pharmaceuticals for
+performance of development and commercial matters related to pexelizumab, the
+risk that third parties won't agree to license us on reasonable terms their
+intellectual property necessary for us to develop and commercialize our
+products, and a variety of other risks set forth from time to time in our
+filings with the Securities and Exchange Commission, including but not limited
+to the risks discussed in "Important Factors Regarding Forward-Looking
+Statements" - Exhibit 99 in our Annual Report on Form 10-K for the year ended
+July 31, 2001.
+
+
+Overview
+
+We are engaged in the discovery and development of therapeutic products aimed at
+treating patients with a wide array of severe disease states, including
+cardiovascular and autoimmune disorders, inflammation and cancer. Since our
+inception in January 1992, we have devoted substantially all of our resources to
+drug discovery, research, and product and clinical development. Additionally,
+through our wholly owned subsidiary, Alexion Antibody Technologies, Inc., or
+AAT, we are engaged in the discovery and development of a portfolio of
+additional antibody therapeutics targeting severe unmet medical needs.
+
+Our two lead product candidates are antibodies that address specific diseases
+that arise when the human immune system attacks the human body itself and
+produces undesired inflammation. Antibodies are proteins that bind specifically
+to selected targets, or antigens, in the body. After the antibody binds to its
+target, it may activate the body's immune system against the target, block
+activities of the target or stimulate activities of the target.
+
+We are currently examining our two lead antibody product candidates in eight
+different clinical development programs. One of our antibody product candidates,
+pexelizumab, is an antibody fragment being developed in collaboration with
+Procter & Gamble Pharmaceuticals, or P&G, and has completed a Phase IIb study in
+patients undergoing coronary artery bypass graft surgery, or CABG, with
+cardiopulmonary bypass, or CPB. In September 2000, the United States Food and
+Drug Administration, or FDA, granted "Fast Track" status for the development of
+pexelizumab in CPB. Fast Track designation provides for expedited development
+and application review for approval of a drug through the FDA.
+
+In January 2002, we commenced initiation of a pivotal Phase III clinical trial
+of pexelizumab, called PRIMO-CABG, in approximately 3,000 patients undergoing
+CABG with CPB. The Phase III trial will assess the safety and efficacy of
+pexelizumab in reducing the combined incidence of death or myocardial infarction
+in this patient population. Also in collaboration with P&G, we are currently
+conducting two additional Phase II studies with pexelizumab in acute myocardial
+infarction or heart attack patients: one study in patients receiving
+thrombolytic therapy, a procedure for dissolving clots that block heart vessels,
+and the other in patients receiving angioplasty, a procedure for opening up
+narrowed or blocked arteries that supply blood to the heart. The thrombolytic
+study completed patient enrollment in January 2002 and the angioplasty study
+completed patient enrollment in April 2002. Evaluation of each study awaits
+completion of all follow-up patient visits, data collection and subsequent data
+analysis.
+
+Our other lead antibody product candidate, 5G1.1 or eculizumab, is in clinical
+development for the treatment of a variety of chronic autoimmune diseases. We
+have initiated a Phase II study in lupus nephritis, a kidney disease, and a
+separate Phase II study is on-going in membranous nephritis, a kidney disease.
+We have completed a large Phase II clinical study in rheumatoid arthritis or
+RA patients. In January 2002, we initiated a Phase IIb study in RA patients.
+
+                                 Page 12 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+In both the studies in rheumatoid arthritis and membranous nephritis, enrollment
+has commenced in additional 12-month open-label extension studies to test
+long-term safety. We have undertaken separate early stage clinical programs to
+study eculizumab in several additional diseases. In January 2002, we completed a
+Phase I pilot safety trial in dermatomyositis, an inflammatory skin and muscle
+disorder, which indicated that eculizumab appeared to be safe and well tolerated
+in this patient population. We also initiated a Phase I pilot safety trial in
+patients with bullous pemphigoid, a severe inflammatory skin disorder. Although
+there were no apparent safety issues, at this time, we have elected not to
+pursue this program further in order to more efficiently focus resources on
+other on-going eculizumab development programs. In June 2002, we initiated a
+Phase I pilot safety study of eculizumab in paroxysmal nocturnal hemoglobinuria,
+or PNH, patients. PNH is a rare, blood disease characterized by severe anemia
+and risk of blood clotting or thrombosis. We also completed a Phase I pilot
+safety trial of eculizumab in psoriasis patients which indicated that eculizumab
+appeared to be safe and well tolerated. At this time, we are not pursuing
+psoriasis as a clinical indication.
+
+Through AAT, our wholly owned subsidiary with extensive combinatorial human
+antibody library technologies and expertise, we have developed important
+additional capabilities to discover and develop additional antibody product
+candidates for the treatment of inflammatory diseases and cancer. We are also
+studying Apogen immunotherapeutic products to target T-cell related disorders
+and are developing therapies employing the transplantation of cells from other
+species into humans, known as xenotransplantation.
+
+To date, we have not received any revenues from the sale of our products. We
+have incurred operating losses since our inception. As of April 30, 2002, we had
+an accumulated deficit of $160.0 million. We expect to incur substantial and
+increasing operating losses for the next several years due to expenses
+associated with product research and development, pre-clinical studies and
+clinical testing, regulatory activities, manufacturing development, scale-up and
+commercial manufacturing and developing a sales and marketing force and we may
+need to obtain additional financing to cover these costs.
+
+We plan to develop and commercialize on our own those product candidates for
+which the clinical trials and marketing requirements can be funded and
+accomplished by our own resources. For those products which require greater
+resources, our strategy is to form corporate partnerships with major
+pharmaceutical companies for product development and commercialization.
+
+In December 2001, we and P&G entered into a binding memorandum of understanding,
+or MOU, pursuant to which we and P&G revised our 1999 collaboration. Under the
+revised structure, we will share responsibility and decision-making for all
+future United States, or U.S., development and commercialization costs for
+pexelizumab, including clinical, manufacturing, marketing, and sales efforts.
+Per the MOU, our revised collaboration with P&G provides for us and P&G to each
+incur approximately 50% of all Phase III clinical trial, product development and
+manufacturing, and commercialization costs necessary for the potential approval
+and marketing of pexelizumab in the U.S. and that each firm will receive an
+approximate equal share of the gross margin on U.S. sales, if any. P&G agreed to
+retain responsibility for future development and commercialization costs outside
+the U.S. We are responsible for royalties on certain third party intellectual
+property worldwide, if such intellectual property is necessary. We will continue
+to receive milestone payments for certain regulatory filings and approvals and
+we will receive a royalty on sales outside the U.S., if any.
+
+The preparation of financial statements requires us to make estimates,
+assumptions and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses, and related disclosures of contingent
+liabilities. On an on-going basis, we evaluate our estimates, including those
+related to marketable securities; intangible assets; collaborative, royalty and
+license arrangements; and other contingencies. We base our estimates on
+historical experience and on various other assumptions that we believe to be
+reasonable under the circumstances, the results of which form our basis for
+making judgments about the carrying values of assets and liabilities that are
+not readily apparent from other sources. Actual results may differ from those
+estimates under different assumptions or conditions.
+
+We believe the following critical accounting policies affect our more
+significant judgments and estimates used in the preparation of our consolidated
+financial statements:
+
+                                 Page 13 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+     Revenues - We record contract research revenues from research and
+     development support payments, license fees and milestone payments under
+     collaboration with third parties, and amounts received from various
+     government grants. Up-front, non-refundable license fees received in
+     connection with a collaboration are deferred and amortized into revenue
+     over the life of the agreement or underlying technologies. Revenues derived
+     from the achievement of milestones are recognized when the milestone is
+     achieved, provided that the milestone is substantive and a culmination of
+     the earnings process has occurred. Research and development support
+     revenues are recognized as the related work is performed and expenses are
+     incurred under the terms of the contracts for development activities.
+     Revenues derived from the achievement of milestones or recognition of
+     related work when performed under terms of a contract may cause our
+     operating results to vary considerably from period to period. Unbilled
+     reimbursable contract costs as shown on the our consolidated balance sheets
+     represent reimbursable costs incurred in connection with research contracts
+     which have not yet been billed. We bill these costs and recognize the costs
+     and related revenues in accordance with the terms of the contracts.
+     Deferred revenue results from cash received or amounts receivable in
+     advance of revenue recognition under research and development contracts.
+
+     Research and development expenses - We record research and development
+     expenses when they are incurred unless recoverable under contract. Research
+     and development expenses include the following major types of costs:
+     salaries and benefit costs, research license fees and various contractor
+     costs, depreciation and amortization of lab facilities and leasehold
+     improvements, building and utilities costs related to research space and
+     lab supplies.
+
+     Goodwill, net - At April 30, 2002, we carry $20.2 million of goodwill, net,
+     acquired in connection with our acquisition of Prolifaron (see Financial
+     Note No. 2), representing the excess cost over fair value of the net assets
+     acquired. On a prospective basis, this goodwill or any long-lived
+     investment asset is subject to annual impairment reviews. Impairment
+     charges, if any, will be recorded as a component of operating expenses in
+     the period in which the impairment is determined, if any.
+
+Results of Operations
+
+A summary of revenues generated from contract research collaboration, milestone
+payment, and grant awards is as follows for the three and nine months ended
+April 30 (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+                                          Three months ended  April 30,    Nine months ended April 30,
+                                          -----------------------------    ---------------------------
+                                                    2002         2001            2002        2001
+                                                    ----         ----            ----        ----
+         <S>                              <C>                  <C>         <C>            <C>
+         Collaboration/Grant Awards
+
+         P&G............................            $272       $1,383          $4,319      $7,195
+         U.S. government grants.........             246          361           1,205       1,036
+         Other..........................              21          216             255         302
+                                                   -----       ------          ------      ------
+            Contract Research Revenues              $539       $1,960          $5,779      $8,533
+                                                   =====       ======          ======      ======
+</TABLE>
+
+         Three Months Ended April 30, 2002
+         Compared with Three Months ended April 30, 2001
+
+We earned contract research revenues of $539,000 for the three months ended
+April 30, 2002 and $2.0 million for the same period ended April 30, 2001. The
+$1.4 million decrease resulted primarily from the decreased research and
+development support payments from P&G as compared to the same period a year ago.
+Decreased research and development support payments resulted principally from
+our revised collaboration with P&G during the quarter ended January 31, 2002
+(see Liquidity and Capital Resources).
+
+                                 Page 14 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+We incurred research and development expenses of $15.9 million for the three
+months ended April 30, 2002 and $8.4 million for the three months ended April
+30, 2001. The $7.5 million increase resulted principally from ongoing
+pexelizumab Phase III CABG clinical trial costs incurred, increased
+manufacturing costs associated with our lead C5 inhibitor candidates,
+pexelizumab and eculizumab, and increased payroll costs. Eculizumab is currently
+in clinical development for rheumatoid arthritis, membranous nephritis,
+dermatomyositis, PNH, and lupus nephritis patients. In addition, as part of our
+revised collaboration, we and P&G agreed that we would bear the first 50% of the
+on-going Phase III PRIMO-CABG clinical trial costs, including the incurred
+pexelizumab manufacturing costs for phase III clinical supplies.
+
+Our general and administrative expenses were $2.4 million for the three months
+ended April 30, 2002 and $1.9 million for the three months ended April 31, 2001.
+This increase resulted principally from higher personnel costs and business
+insurance costs.
+
+During the three months ended April 30, 2002, we recognized no amortization of
+goodwill as the adoption of Statement of Financial Accounting Standard or SFAS
+No. 142, "Goodwill and Other Intangible Assets", permitted us to cease
+amortization of goodwill effective August 1, 2001 (see Financial Note 5). We
+incurred approximately $847,000 of non-cash charges associated with the
+amortization of goodwill during the three months ended April 30, 2001.
+
+Investment income was $2.6 million for the three months ended April 30, 2002 and
+$4.6 million for the three months ended April 30, 2001. The decrease in
+investment income of $2.0 million resulted primarily from reduced market
+interest rates. Interest expense, primarily on our $120 million convertible
+subordinated notes, was $1.9 million for the quarters ended April 30, 2001 and
+2002.
+
+As a result of the above factors, we incurred a net loss of $17.1 million or
+$0.94 basic and diluted net loss per common share for the three months ended
+April 30, 2002 compared to a net loss of $6.5 million or $0.36 basic and diluted
+net loss per common share for the three months ended April 30, 2001. Excluding
+the $847,000 non-cash charge from the amortization of goodwill, the pro forma
+net loss for the three months ended April 30, 2001 would have been $5.6 million
+or $0.31 basic and diluted net loss per common share (see statement of
+operations below).
+
+
+     Nine Months Ended April 30, 2002
+     Compared with Nine Months ended April 30, 2001
+
+We earned contract research revenues of $5.8 million for the nine months ended
+April 30, 2002 and $8.5 million for the same period ended April 30, 2001. The
+$2.7 million decrease in revenues was primarily due to lower research and
+development support payments from P&G resulting from the completion of the Phase
+IIb pexelizumab CABG study last year and as a result of our revised
+collaboration (see Liquidity and Capital Resources), offset by the receipt of a
+$2.0 million milestone payment from P&G for the initiation of our Phase III CABG
+trial in January 2002.
+
+We incurred research and development expenses of $40.6 million for the nine
+months ended April 30, 2002 and $28.7 million for the nine months ended April
+30, 2001. The $11.9 million increase resulted principally from our incurred
+ongoing pexelizumab Phase III CABG clinical trial costs, expensed manufacturing
+costs associated with our lead C5 inhibitor candidates, pexelizumab and
+eculizumab, higher research payroll costs and research costs
+associated with product discovery and development. The manufacturing costs
+included the expense of $3.5 million of expenses associated with manufacturing
+of pexelizumab for Phase III trials that had previously been recognized as
+unbilled reimbursable contract costs.
+
+Our general and administrative expenses were $5.9 million for the nine months
+ended April 30, 2002 and $5.3 million for the three months ended April 31, 2001.
+This increase resulted principally from higher personnel costs due to increased
+staffing levels to support growth of the Company.
+
+                                 Page 15 of 21
+
+<PAGE>
+
+                          ALEXION PHARMACEUTICALS, INC.
+
+During the nine months ended April 30, 2001, we incurred approximately $32.2
+million of non-cash charges representing a one-time $21.0 million in-process
+research and development, or IPRD, charge, $2.1 million of amortization of
+goodwill, and a one-time $9.1 million cumulative effect of adoption of Staff
+Accounting Bulletin No 101 or SAB 101 (see Financial Note 4).
+
+Investment income was $10.0 million for the nine months ended April 30, 2002 and
+$13.9 million for the nine months ended April 30, 2001. The decrease in
+investment income of $3.9 million resulted primarily from reduced market
+interest rates. Interest expense was $5.8 million for the nine months ended
+April 30, 2002 versus $5.9 million for the same period last year.
+
+As a result of the above factors, we incurred a net loss of $35.7 million or
+$1.97 basic and diluted net loss per common share for the nine months ended
+April 30, 2002 compared to a net loss of $49.5 million or $2.89 basic and
+diluted net loss per common share for the nine months ended April 30, 2001.
+
+Excluding the $32.2 million of non-cash charges, IPRD, amortization of goodwill,
+and cumulative effect of adoption of SAB 101 as described above, the pro forma
+net loss for the nine months ended April 30, 2001 would have been $17.3 million
+or $1.01 basic and diluted net loss per common share. A statement of operations
+for the current fiscal periods compared to the pro forma statement of operations
+for the same periods a year ago is shown below (dollars in thousands, except for
+per share data).
+
+<TABLE>
+<CAPTION>
+                                                Three months ended Apr. 30,   Nine months ended Apr. 30,
+                                                ---------------------------   --------------------------
+                                                    2002         2001            2002         2001
+                                                    ----         ----            ----         ----
+                                                               pro forma -a)               pro forma-a)
+<S>                                             <C>            <C>            <C>          <C>
+Contract Research Revenues                        $    539      $ 1,960       $  5,779     $  8,533
+                                                  ---------     --------      ---------    ---------
+Operating Expenses
+     Research and development                       15,906        8,362         40,620       28,684
+     General and administrative                      2,432        1,916          5,867        5,265
+                                                  ---------     --------      ---------    ---------
+           Total operating expenses                 18,338       10,278  -a)    46,487       33,949 -a)
+                                                  ---------     --------      ---------    ---------
+Operating loss                                     (17,799)      (8,318) -a)   (40,708)     (25,416)-a)
+
+     Investment income                               2,621        4,646         10,077       13,990
+     Interest expense                               (1,927)      (1,943)        (5,773)      (5,889)
+                                                  ---------     --------      ---------    ---------
+
+Loss before state tax benefit                      (17,105)      (5,615)       (36,404)     (17,315)
+     State tax benefit                                   -            -            700            -
+                                                  ---------     --------      ---------    ---------
+
+Net loss                                          $(17,105)     $(5,615) -a)  $(35,704)    $(17,315)-a)
+                                                  =========     ========      =========    =========
+
+Net loss per share                                $  (0.94)     $ (0.31) -a)  $  (1.97)    $  (1.01)-a)
+                                                  =========     ========      =========    =========
+</TABLE>
+
+     (a - excludes non-cash charges: IPRD, Amortization of Goodwill, and
+             Cumulative effect of adopting SAB 101
+
+
+Liquidity and Capital Resources
+
+As of April 30, 2002, we had working capital of $313.3 million, including $325.2
+million of cash, cash equivalents and marketable securities. This compares with
+working capital at July 31, 2001 of $354.8 million, including $355.3 million of
+cash, cash equivalents and marketable securities. This decrease in working
+capital was primarily due to funding our operating expenses.
+
+                                 Page 16 of 21
+
+<PAGE>
+
+                         ALEXION PHARMACEUTICALS, INC.
+
+Net cash used in operating activities for the nine months ended April 30, 2002
+was $29.7 million. This consists of our net loss of $35.7 million and an
+increase in other assets of $6.0 million, offset by $2.8 million of non-cash
+depreciation and amortization expenses, $6.5 million reduction in reimbursable
+contract costs and $8.4 million increase in accounts payable and accrued
+expenses. Net cash used in operating activities was impacted by $2.0 million
+from realized gain in marketable securities that was recognized in investment
+income.
+
+Net cash provided by investing activities for the nine months ended April 30,
+2002 was $15.7 million. Net cash provided by investing activities included $18.1
+million of proceeds from investments, net of purchases of marketable securities
+offset by $2.4 million of property, plant and equipment additions.
+
+Our cash, cash equivalents, and marketable securities totaled $325.2 million on
+April 30, 2002. We anticipate that our existing capital resources as well as the
+addition of our interest and investment income earned on available cash and
+marketable securities should provide us adequate resources to fund our operating
+expenses and capital requirements as currently planned for at least the next
+twenty-four months. This should also provide us adequate funding for the
+clinical testing of our C5 inhibitor product candidates and support our broad
+research and development of our additional product candidates. The indications
+we are currently investigating for our lead C5 product candidates are
+respectively: pexelizumab in cardiopulmonary bypass and acute myocardial
+infarction or heart attack, and 5G1.1 or eculizumab for the treatment of
+rheumatoid arthritis, membranous nephritis, dermatomyositis, PNH, and lupus
+nephritis.
+
+Our commercial commitments consists principally of our $120 million of
+convertible subordinated notes, a $3.9 million note payable, our operating
+leases - principally for facilities and equipment, and an open letter of credit
+of $200,000 which serves as a security deposit on our facility lease in
+Cheshire, Connecticut. We have no outstanding capital leases. We have cancelable
+research and development and clinical manufacturing commitments and anticipated
+supporting arrangements, subject to certain limitations and cancellation
+clauses, aggregating approximately $64 million over the next three years. In
+addition, we have various annual license fees, aggregating approximately $2
+million over the next five years, for licenses we have acquired for the
+development and commercialization of some of our product candidates as currently
+contemplated. And, if and when we achieve specified contractual milestones
+related to product development and product license applications and approvals,
+additional payments would be required if we elect to continue and maintain our
+licenses with our licensors, aggregating up to $24 million.
+
+Interest on our $120 million 5.75% convertible subordinated notes due March 15,
+2007 is payable semi-annually in September and March of each year. The holders
+may convert all or a portion of the notes into common stock any time on or
+before March 15, 2007 at a conversion price of $106.425 per common share.
+Beginning March 20, 2003, we may redeem some or all of the notes per the
+declining redemption prices listed for the notes. We may also elect to pay the
+repurchase price for some or all the notes in cash or common stock. Interest on
+our $3.9 million note payable due in May 2005, bearing interest at 6.0% per
+annum, is payable quarterly. This note payable was used to finance certain
+manufacturing assets for our xenotransplantation program.
+
+We lease our headquarters and research and development facilities in Cheshire,
+Connecticut. The current monthly fixed rent is approximately $87,000, increasing
+to approximately $104,000 over the term of the lease which expires in December
+2010. In February 2002, we entered into a new lease for office and research
+laboratory space in a different facility to conduct research and development for
+Alexion Antibody Technologies, Inc., or AAT, our wholly-owned subsidiary located
+in San Diego, California. This lease has a term of 10 years from the
+commencement date. Occupancy and commencement date for this lease is contingent
+upon the completion of the facility and landlord improvement work. Monthly fixed
+rent starts at approximately $30,000 increasing to approximately $84,000 over
+the term of the lease.
+
+In December 2001, we and P&G entered into a binding memorandum of understanding,
+or MOU, pursuant to which we and P&G revised our January 1999 collaboration.
+Under the revised structure, we will share decision-making and responsibility
+for all future U.S. development and commercialization costs for pexelizumab,
+including clinical, manufacturing, marketing, and sales efforts. Prior to
+December 2001, P&G was generally funding all clinical development and
+manufacturing costs for pexelizumab. The revised collaboration per the MOU
+provides for us and
+
+                                 Page 17 of 21
+
+<PAGE>
+
+                         ALEXION PHARMACEUTICALS, INC.
+
+P&G to each incur approximately 50% of all Phase III clinical trial, product
+development and manufacturing, and commercialization costs necessary for the
+potential approval and marketing of pexelizumab in the U.S. and that each firm
+will receive an approximate equal share of the gross margin on U.S. sales, if
+any. P&G agreed to retain responsibility for future development and
+commercialization costs outside the U.S., with us receiving a royalty on sales
+to the rest of the world, if any. We are responsible for royalties on certain
+third party intellectual property worldwide, if such intellectual property is
+necessary. Additionally, as part of the MOU, we will receive milestone payments
+for achieving specified development steps, regulatory filings and approvals, but
+will not receive previously agreed sales milestones and will generally forgo
+further research and development support payments from P&G.
+
+As part of the revised collaboration per the MOU, P&G agreed to continue to fund
+100% of the costs to complete the two ongoing AMI Phase II clinical trials in
+myocardial infarction ("heart attack") patients. We have agreed to bear the
+first 50% of projected costs associated with the U.S. CABG-Phase III clinical
+trial costs and P&G will bear the second 50%, with a final adjustment to make
+even the 50% sharing of costs. We and P&G have agreed that each will share
+concurrently 50% of the ongoing U.S. pre-production and development
+manufacturing costs of pexelizumab as well as any future AMI-Phase III clinical
+trial costs.
+
+P&G has the right to terminate the collaboration at any time. If P&G terminates
+prior to incurring its 50% of the CABG-Phase III clinical trial costs, then P&G
+will not be required to contribute towards its approximately equal share of the
+U.S. CABG-Phase III clinical trial costs and P&G will be released from its
+future funding obligations. In such circumstance, all rights and the exclusive
+license to our intellectual property related to pexelizumab will revert back to
+us and we will be entitled to all future pexelizumab revenues, if any, without
+any sharing of revenues, if any, with P&G. However, our costs would increase
+significantly as we would need to fund development and commercialization of
+pexelizumab on our own or identify a new collaboration partner.
+
+We expect to continue to operate at a net loss for at least the next several
+years as we continue our research and development efforts and continue to
+conduct clinical trials and develop manufacturing, sales, marketing and
+distribution capabilities. Our operating expenses will depend on many factors,
+including:
+
+     .  the progress, timing and scope of our research and development programs;
+     .  the progress, timing and scope of our preclinical studies and clinical
+          trials;
+     .  the time and cost necessary to obtain regulatory approvals;
+     .  the time and cost necessary to further develop manufacturing processes,
+          arrange for contract manufacturing or build manufacturing facilities
+          and obtain the necessary regulatory approvals for those facilities;
+     .  the time and cost necessary to develop sales, marketing and distribution
+          capabilities;
+     .  changes in applicable governmental regulatory policies; and
+     .  any new collaborative, licensing and other commercial relationships that
+          we may establish.
+
+We expect to incur substantial additional costs for research, pre-clinical and
+clinical testing, manufacturing process development, additional capital
+expenditures related to personnel and facilities expansion, clinical and
+commercial manufacturing requirements, and marketing and sales in order to
+commercialize our products currently under development. Furthermore, we will owe
+royalties to parties we have licensed intellectual property from in connection
+with the sale of our products.
+
+In addition to milestone payments we may receive from our collaboration with P&G
+and our interest and investment income that are subject to market interest rate
+fluctuations, we will need to raise or generate substantial additional funding
+in order to complete the development and commercialization of all of our product
+candidates. Furthermore, the development or expansion of our business or any
+acquired business or companies may require a substantial capital investment by
+us. Our additional financing may include public or private debt or equity
+offerings, equity line facilities, bank loans and/or collaborative research and
+development arrangements with corporate partners. There can be no assurance that
+funds will be available on terms acceptable to us, if at all, or that
+discussions with potential strategic or collaborative partners will result in
+any agreements on a timely basis, if at all. The unavailability of additional
+financing when and if required could require us to delay, scale back or
+eliminate certain research and
+
+                                 Page 18 of 21
+
+<PAGE>
+
+                         ALEXION PHARMACEUTICALS, INC.
+
+product development programs or to license third parties to commercialize
+products or technologies that we would otherwise undertake ourselves, any of
+which could have a material adverse effect.
+
+
+Item 3. Quantitative and Qualitative Disclosure about Market Risks.
+
+We account for our marketable securities in accordance with Statement of
+Financial Accounting Standards No. 115, "Accounting for Certain Investments in
+Debt and Equity Securities" ("SFAS 115"). All of the cash equivalents and
+marketable securities are treated as available-for-sale under SFAS 115.
+
+We invest our cash in a variety of financial instruments, principally securities
+issued by the U.S. government and its agencies, investment grade corporate bonds
+and notes and money market instruments. These investments are denominated in
+U.S. dollars. All are interest-bearing securities that are subject to interest
+rate risk, and could decline in value if interest rates fluctuate. Substantially
+all of our investment portfolio consists of marketable securities with active
+secondary or resale markets to help ensure portfolio liquidity, and we have
+implemented guidelines limiting the term to maturity of our investment
+instruments. Due to the conservative nature of these instruments, we do not
+believe that we have any material exposure to interest rate risk. The marketable
+securities as of April 30, 2002 had maturities of less than two years. The
+weighted-average interest rate on marketable securities at April 30, 2002 was
+approximately 3.0%. The fair value of marketable securities held at April 30,
+2002 was $204.2 million.
+
+We believe the $3.9 million note payable approximates fair value based upon
+recent borrowing rates. The carrying value of the $120 million convertible
+subordinated notes exceeded fair value by approximately $48.8 million based upon
+the trading values reported at April 30, 2002.
+
+                                 Page 19 of 21
+
+<PAGE>
+
+                         ALEXION PHARMACEUTICALS, INC.
+
+PART II.  OTHER INFORMATION
+
+Item 6.   Exhibits and Reports
+
+          Form 8-K
+
+          Report on Form 8-K, filed on March 19, 2002, disclosing that the
+          Corporation had promoted David W. Keiser to President and Chief
+          Operating Officer. Additionally, he has been elected as a Director of
+          the Corporation, expanding the total membership of the Board to eight.
+
+                                 Page 20 of 21
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                     ALEXION PHARMACEUTICALS, INC.
+
+Date: June 13, 2002                  By:  /s/ Leonard Bell, M.D.
+                                        ---------------------------------------
+                                          Leonard Bell, M.D.
+                                          Chief Executive Officer, Secretary
+                                            and Treasurer (principal executive
+                                            officer)
+
+
+Date: June 13, 2002                  By:  /s/ David W. Keiser
+                                        ---------------------------------------
+                                          David W. Keiser
+                                          President and Chief Operating Officer
+                                            (principal financial officer)
+
+
+Date: June 13, 2002                  By:  /s/ Barry P. Luke
+                                        ---------------------------------------
+                                          Barry P. Luke
+                                          Vice President of Finance and
+                                          Administration (principal accounting
+                                            officer)
+
+                                 Page 21 of 21
+
+</TEXT>
+</DOCUMENT>

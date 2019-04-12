@@ -1,0 +1,2169 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>xrx10q033101.txt
+<DESCRIPTION>QUARTERLY REPORT ON FORM 10-Q
+<TEXT>
+
+
+                                       UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                  Washington, D.C. 20549
+                                        FORM 10-Q
+(Mark One)
+
+[ X ]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+        For the quarterly period ended: March 31, 2001
+
+        OR
+
+[   ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+        For the transition period from __________ to___________
+
+Commission File Number 1-4471
+
+                        XEROX CORPORATION
+                   (Exact Name of Registrant as
+                     specified in its charter)
+
+            New York                       16-0468020          _
+ (State or other jurisdiction   (IRS Employer Identification No.)
+of incorporation or organization)
+
+                           P.O. Box 1600
+                  Stamford, Connecticut   06904-1600
+         (Address of principal executive offices) (Zip Code)
+
+
+                          (203) 968-3000
+          (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+Yes _______ No   X
+
+APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+Indicate the number of shares outstanding of each of the issuer's
+classes of common stock, as of the latest practicable date.
+
+    Class                         Outstanding at June 30, 2001
+
+Common Stock                               715,373,651  shares
+
+              This document consists of 37 pages.
+
+Forward-Looking Statements
+
+From time to time Xerox Corporation (the Registrant or the Company) and its
+representatives may provide information, whether orally or in writing,
+including certain statements in this Form 10-Q, which are deemed to be
+"forward-looking" within the meaning of the Private Securities Litigation
+Reform Act of 1995 ("Litigation Reform Act"). These forward-looking statements
+and other information relating to the Company are based on the beliefs of
+management as well as assumptions made by and information currently available
+to management.
+
+The words "anticipate", "believe", "estimate", "expect", "intend", "will", and
+similar expressions, as they relate to the Company or the Company's management,
+are intended to identify forward-looking statements. Such statements reflect
+the current views of the Registrant with respect to future events and are
+subject to certain risks, uncertainties and assumptions. Should one or more of
+these risks or uncertainties materialize, or should underlying assumptions
+prove incorrect, actual results may vary materially from those described herein
+as anticipated, believed, estimated or expected. The Registrant does not intend
+to update these forward-looking statements.
+
+In accordance with the provisions of the Litigation Reform Act we are making
+investors aware that such "forward-looking" statements, because they relate to
+future events, are by their very nature subject to many important factors which
+could cause actual results to differ materially from those contained in the
+"forward-looking" statements. Such factors include but are not limited to the
+following:
+
+Competition - the Registrant operates in an environment of significant
+competition, driven by rapid technological advances and the demands of
+customers to become more efficient. There are a number of companies worldwide
+with significant financial resources which compete with the Registrant to
+provide document processing products and services in each of the markets served
+by the Registrant, some of whom operate on a global basis. The Registrant's
+success in its future performance is largely dependent upon its ability to
+compete successfully in its currently-served markets and to expand into
+additional market segments.
+
+Transition to Digital - presently black and white light-lens copiers represent
+approximately 30% of the Registrant's revenues. This segment of the market is
+mature with anticipated declining industry revenues as the market transitions
+to digital technology. Some of the Registrant's new digital products replace or
+compete with the Registrant's current light-lens equipment. Changes in the mix
+of products from light-lens to digital, and the pace of that change as well as
+competitive developments could cause actual results to vary from those
+expected.
+
+Expansion of Color - color printing and copying represents an important and
+growing segment of the market.  Printing from computers has both facilitated
+and increased the demand for color.  A significant part of the Registrant's
+strategy and ultimate success in this changing market is its ability to develop
+and market machines that produce color prints and copies quickly and at reduced
+cost.  The Registrant's continuing success in this strategy depends on its
+ability to make the investments and commit the necessary resources in this
+highly competitive market.
+
+Pricing - the Registrant's ability to succeed is dependent upon its ability to
+obtain adequate pricing for its products and services which provide a
+reasonable return to shareholders. Depending on competitive market factors,
+future prices the Registrant can obtain for its products and services may vary
+from historical levels. In addition, pricing actions to offset currency
+devaluations may not prove sufficient to offset further devaluations or may not
+ hold in the face of customer resistance and/or competition.
+
+
+Customer Financing Activities - On average, 75 - 80 percent of the Registrant's
+equipment sales are financed through the Registrant. To fund these
+arrangements, the Registrant must access the credit markets and the long-term
+viability and profitability of its customer financing activities is dependent
+on its ability to borrow and its cost of borrowing in these markets. This
+ability and cost, in turn, is dependent on the Registrant's credit ratings.
+Currently the Registrant's credit ratings are such as to effectively preclude
+its ready access to capital markets and the Registrant is currently funding its
+customer financing activity from available sources of liquidity including cash
+on hand. There is no assurance that the Registrant will be able to continue to
+fund its customer financing activity at present levels. The Registrant is
+actively seeking third parties to provide financing to its customers.  In the
+near-term the Registrant's ability to continue to offer customer financing and
+be successful in the placement of its equipment with customers is largely
+dependent upon obtaining such third party financing.
+
+Productivity - the Registrant's ability to sustain and improve its profit
+margins is largely dependent on its ability to maintain an efficient, cost-
+effective operation. Productivity improvements through process reengineering,
+design efficiency and supplier cost improvements are required to offset labor
+cost inflation and potential materials cost changes and competitive price
+pressures.
+
+International Operations - the Registrant derives approximately half its
+revenue from operations outside of the United States. In addition, the
+Registrant manufactures or acquires many of its products and/or their
+components outside the United States. The Registrant's future revenue, cost and
+profit results could be affected by a number of factors, including changes in
+foreign currency exchange rates, changes in economic conditions from country to
+country, changes in a country's political conditions, trade protection
+measures, licensing requirements and local tax issues. Our ability to enter
+into new foreign exchange contracts to manage foreign exchange risk is
+currently severely limited, and we anticipate increased volatility in our
+results of operations due to changes in foreign exchange rates.
+
+New Products/Research and Development - the process of developing new high
+technology products and solutions is inherently complex and uncertain. It
+requires accurate anticipation of customers' changing needs and emerging
+technological trends. The Registrant must then make long-term investments and
+commit significant resources before knowing whether these investments will
+eventually result in products that achieve customer acceptance and generate the
+revenues required to provide anticipated returns from these investments.
+
+Revenue Growth - the Registrant's ability to attain a consistent trend of
+revenue growth over the intermediate to longer term is largely dependent upon
+expansion of its equipment sales worldwide and usage growth (i.e., an increase
+in the number of images produced by customers). The ability to achieve
+equipment sales growth is subject to the successful implementation of our
+initiatives to provide industry-oriented global solutions for major customers
+and expansion of our distribution channels in the face of global competition
+and pricing pressures. The ability to grow usage may be adversely impacted by
+the movement towards distributed printing and electronic substitutes. Our
+inability to attain a consistent trend of revenue growth could materially
+affect the trend of our actual results.
+
+Turnaround Program  - In October 2000, the Registrant announced a turnaround
+program which includes a wide-ranging plan to generate cash, return to
+profitability and pay down debt. The success of the turnaround program is
+dependent upon successful and timely sales of assets, restructuring the cost
+base, placement of greater operational focus on the core business and the
+transfer of the financing of customer equipment purchases to third parties.
+Cost base restructuring is dependent upon effective and timely elimination of
+employees, closing and consolidation of facilities, outsourcing of certain
+manufacturing and logistics operations, reductions in operational expenses and
+the successful implementation of process and systems changes.
+
+The Registrant's liquidity is dependent on the timely implementation and
+execution of the various turnaround program initiatives as well as its ability
+to generate positive cash flow from operations and various financing strategies
+including securitizations.  Should the Registrant not be able to successfully
+complete the turnaround program, including positive cash generation on a timely
+or satisfactory basis, the Registrant will need to obtain additional sources of
+funds through other operating improvements, financing from third parties, or a
+combination thereof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xerox Corporation
+Form 10-Q
+March 31, 2001
+
+Table of Contents
+                                                             Page
+Part I -  Financial Information
+
+   Item 1. Financial Statements
+
+      Consolidated Statements of Operations                     6
+      Consolidated Balance Sheets                               7
+      Consolidated Statements of Cash Flows                     8
+      Notes to Consolidated Financial Statements                9
+
+   Item 2. Management's Discussion and Analysis of Results of
+     Operations and Financial Condition
+
+      Results of Operations                                    21
+      Capital Resources and Liquidity                          27
+      Risk Management                                          31
+
+   Item 3. Quantitative and Qualitative Disclosures about
+     Market Risk                                               32
+
+Part II - Other Information
+
+   Item 1. Legal Proceedings                                   33
+   Item 2. Changes in Securities                               33
+   Item 5. Other Information                                   34
+   Item 6. Exhibits and Reports on Form 8-K                    34
+
+Signatures                                                     35
+Exhibit Index
+
+   Computation of Net Income (Loss) per Common Share           36
+
+   Computation of Ratio of Earnings to Fixed Charges           37
+
+
+
+For additional information about The Document Company Xerox, please visit our
+World-Wide Web site at www.xerox.com/investor
+
+PART I - FINANCIAL INFORMATION
+Item 1                           Xerox Corporation
+                      Consolidated Statements of Operations (Unaudited)
+
+                                                       Three months ended
+                                                            March 31,
+(In millions, except per-share data)                     2001*     2000**
+
+Revenues
+  Sales                                                $ 2,056   $ 2,351
+  Service, outsourcing, financing and rentals            2,146     2,189
+  Total Revenues                                         4,202     4,540
+
+Costs and Expenses
+  Cost of sales                                          1,433     1,344
+  Cost of service, outsourcing, financing and
+    rentals                                              1,356     1,329
+  Inventory charges                                          -        90
+  Research and development expenses                        246       252
+  Selling, administrative and general expenses           1,150     1,270
+  Restructuring charge and asset impairments               101       506
+  Gain on sale of half of interest in Fuji Xerox          (769)        -
+  Gain on affiliate's sale of stock                          -       (21)
+  Purchased in-process research and development              -        27
+  Other, net                                                90       104
+  Total Costs and Expenses                               3,607     4,901
+
+Income (Loss) before Income Taxes (Benefits),
+  Equity Income and Minorities' Interests                  595     (361)
+  Income taxes (benefits)                                  404     (120)
+Income (loss) after Income Taxes (Benefits) before
+  Equity income and Minorities' Interests                  191     (241)
+
+  Equity in net income of unconsolidated
+    affiliates                                               2        4
+  Minorities' interests in earnings of
+    subsidiaries                                             7       11
+
+Net income (loss) before extraordinary gain
+  and cumulative effect of change in accounting
+  principle                                                186     (248)
+
+Extraordinary gain on early extinguishment of
+  debt (less income taxes of $11)                           17         -
+Cumulative effect of change in accounting
+  principle (less income tax benefit of $1)                 (2)        -
+Net Income (Loss)                                       $  201   $ (248)
+Basic earnings (loss) per share:
+Income (loss) before extraordinary gain and
+  cumulative effect of change in accounting principle   $ 0.26   $(0.39)
+Extraordinary gain, net                                   0.02        -
+Cumulative effect of change in accounting principle, net (0.00)       -
+Basic Earnings (Loss) per Share                         $ 0.28   $(0.39)
+Diluted  earnings (loss) per share:
+Income (loss) before extraordinary gain and
+  cumulative effect of change in accounting principle   $ 0.23   $(0.39)
+Extraordinary gain, net                                   0.02        -
+Cumulative effect of change in accounting principle, net (0.00)       -
+Diluted Earnings (Loss) per Share                       $ 0.25   $(0.39)
+See accompanying notes
+*   As adjusted from the Company's unaudited Consolidated Statement of
+Operations included in its report on Form 8-K dated April 19, 2001.
+**  As restated, see Note 2
+
+
+
+
+
+                                Xerox Corporation
+                            Consolidated Balance Sheets
+
+                                             March 31,     December 31,
+(In millions, except share data in thousands)    2001             2000
+Assets                                       (Unaudited)
+
+Cash and cash equivalents                      $ 2,778            $ 1,741
+Accounts receivable, net                         2,070              2,281
+Finance receivables, net                         5,004              5,097
+Inventories, net                                 1,772              1,932
+Equipment on operating leases, net                 643                724
+Deferred taxes and other current assets          1,539              1,247
+
+  Total Current Assets                          13,806             13,022
+
+Finance receivables due after one year, net      7,730              7,957
+Land, buildings and equipment, net               2,379              2,495
+Investments in affiliates, at equity               605              1,362
+Intangible and other assets, net                 3,174              3,061
+Goodwill, net                                    1,503              1,578
+
+Total Assets                                  $ 29,197           $ 29,475
+
+
+Liabilities and Equity
+
+Short-term debt and current portion of
+  long-term debt                               $ 2,966          $   2,693
+Accounts payable                                   839              1,033
+Accrued compensation and benefit costs             574                662
+Unearned income                                    273                250
+Other current liabilities                        2,019              1,630
+
+  Total Current Liabilities                      6,671              6,268
+
+Long-term debt                                  14,617             15,404
+Postretirement medical benefits                  1,205              1,197
+Deferred taxes and other liabilities             2,027              1,876
+Deferred ESOP benefits                            (221)              (221)
+Minorities' interests in equity of subsidiaries    124                141
+Obligation for equity put options                    -                 32
+Company-obligated, mandatorily redeemable
+ preferred securities of subsidiary trust
+ holding solely subordinated debentures of
+ the Company                                       639                638
+Preferred stock                                    630                647
+Common shareholders' equity                      3,505              3,493
+
+Total Liabilities and Equity                  $ 29,197          $  29,475
+
+Shares of common stock issued and outstanding   693,353          668,576
+
+See accompanying notes
+
+
+
+                             Xerox Corporation
+                 Consolidated Statements of Cash Flows (Unaudited)
+
+Three months ended March 31  (In millions)              2001        2000 *
+
+Cash Flows from Operating Activities
+Net Income (Loss)                                      $  201       $  (248)
+Adjustments required to reconcile net income (loss) to
+   cash flows from operating activities, net of
+   effects of acquisitions:
+  Depreciation and amortization                           220           225
+  Provisions for doubtful accounts                         92           111
+  Restructuring and other charges                         101           623
+  Gains on sales of businesses and assets                (767)          (21)
+  Gain on early extinguishment of debt                    (28)            -
+  Cumulative effect of change in accounting principle       3             -
+  Cash payments for restructurings                       (158)          (62)
+  Minorities' interests in earnings of subsidiaries         7            11
+  Undistributed equity in income of
+    affiliated companies                                   29            35
+  Decrease (increase) in inventories                       99          (268)
+  Increase in on-lease equipment                          (22)         (128)
+  Decrease (increase) in finance receivables               78          (148)
+  Decrease (increase) in accounts receivable              103          (302)
+  Decrease in accounts payable and accrued
+    compensation and benefit costs                       (258)         (164)
+  Net change in current and deferred income taxes         311          (262)
+  Change in other current and non-current
+    liabilities                                            66          (223)
+  Other, net                                             (114)         (299)
+Net cash used in operating activities                     (37)       (1,120)
+
+Cash Flows from Investing Activities
+  Cost of additions to land, buildings and equipment       (69)        (124)
+  Proceeds from sales of land, buildings and equipment      38            3
+  Acquisitions, net of cash acquired                         -         (856)
+  Proceeds from sale of ownership interest
+    in Fuji Xerox                                        1,283            -
+
+Net cash provided by (used in) investing activities      1,252         (977)
+
+Cash Flows from Financing Activities
+  Net change in debt                                       (93)       2,170
+  Dividends on common and preferred stock                  (47)        (147)
+  Proceeds from sales of common stock                       28           11
+  Settlements of equity put options, net                   (28)           -
+  Dividends to minority shareholders                         -           (1)
+Net cash (used in) provided by financing activities       (140)       2,033
+Effect of Exchange Rate Changes on Cash
+   and cash equivalents                                    (38)          (1)
+
+Increase (Decrease) in Cash and cash equivalents         1,037          (65)
+
+Cash and cash equivalents at Beginning of Period         1,741          126
+
+Cash and cash equivalents at End of Period             $ 2,778        $  61
+
+See accompanying notes
+*  As restated, see Note 2
+
+
+1.  Basis of Presentation:
+
+The unaudited consolidated interim financial statements presented herein have
+been prepared by Xerox Corporation (the Company) in accordance with the
+accounting policies described in its 2000 Annual Report to Shareholders and
+should be read in conjunction with the notes thereto.
+
+In the opinion of management, all adjustments (consisting only of normal
+recurring adjustments) which are necessary for a fair statement of operating
+results for the interim periods presented have been made.
+
+We adopted Statement of Financial Accounting Standards (SFAS) No. 133,
+"Accounting for Derivative Instruments and Hedging Activities," and SFAS No.
+138 as of January 1, 2001. See Note 9 for additional details.
+
+
+In addition, prior years' financial statements have been reclassified to
+reflect certain other reclassifications to conform with the 2001 presentation.
+The impact of these changes is not material and did not affect net income.
+
+The term "pre-tax income (loss)" as used herein refers to the Consolidated
+Statement of Operations line item "Income (Loss) before Income Taxes
+(Benefits), Equity Income and Minorities' Interests."
+
+References herein to "we" or "our" refer to Xerox and consolidated subsidiaries
+unless the context specifically requires otherwise.
+
+
+2.  Restatement:
+
+We have restated our Consolidated Financial Statements for the quarter ended
+March 31, 2000 as a result of two separate investigations conducted by the
+Audit Committee of the Board of Directors.  These investigations involved
+previously disclosed issues in our Mexico operations and a review of our
+accounting policies and procedures and the application thereof.  This filing
+should be read in conjunction with our Amendment No. 1 to our Annual Report on
+Form 10-K for the fiscal year ended December 31, 2000.  The adjustments made to
+the Consolidated Financial Statements for the quarter ended March 31, 2000
+reflect the changes discussed in such  amendment.   All amounts included herein
+have been restated to reflect the changes as discussed in that report.
+
+These adjustments relate primarily to the imprudent and improper business
+practices in Mexico, the acquisition contingencies associated with our
+acquisition of the remaining ownership interest in Xerox Limited from the Rank
+Group Plc, the misapplications of GAAP under SFAS No. 13 "Accounting for
+Leases," and certain other items.
+
+
+  The following table presents the effects of the adjustments on pre-tax income
+(loss)(in millions):
+                                                  Three months ended
+                                           March 31, 2001      March 31, 2000
+Increase (decrease) to pre-tax
+  income (loss):
+     Mexico                                    $    -                $  (34)
+     Lease issues, net                             13                    27
+     Other, net                                    58                    (5)
+        Total                                  $   71                $  (12)
+
+
+The following tables present the impact of the adjustments and restatements on
+a condensed basis (in millions):
+
+
+                                                 Amount
+                                                Previously       As
+                                                 Reported *    Adjusted
+Statement of Operations:
+Three months ended March 31, 2001
+
+     Revenues                                   $  4,156      $  4,202
+     Costs and expenses                            3,632         3,607
+     Net income (loss) before extraordinary gain
+      and cumulative effect of change in
+      accounting principle                           143           186
+     Basic earnings per share                   $   0.19      $   0.26
+     Diluted earnings per share                 $   0.17      $   0.23
+
+                                                   Amount
+                                                 Previously        As
+                                                  Reported      Restated
+
+Statement of Operations:
+Three months ended March 31, 2000
+
+     Revenues                                   $  4,504      $  4,540
+     Costs and expenses                            4,853         4,901
+     Net income (loss) before extraordinary gain
+      and cumulative effect of change in
+      accounting principle                          (243)         (248)
+     Basic loss per share                         $(0.38)     $  (0.39)
+     Diluted loss per share                       $(0.38)     $  (0.39)
+
+
+* As reported in the Company's unaudited Statement of Operations included in
+its report on Form 8-K dated April 19, 2001.
+
+3.  Inventories:
+
+Inventories consist of (in millions):
+
+                                         March 31,     December 31,
+                                             2001             2000
+
+Finished products                        $  1,236         $  1,439
+Work in process                               173              147
+Raw materials and supplies                    363              346
+    Total                                $  1,772         $  1,932
+
+4.  Restructurings:
+
+March 2000 Restructuring. In March 2000, we announced details of a
+worldwide restructuring program. In connection with this program, we recorded a
+pre-tax provision of $596 ($423 after taxes, including our $18 share of a
+restructuring provision recorded by Fuji Xerox, an unconsolidated affiliate).
+The $596 pre-tax charge included severance costs related to the elimination of
+5,200 positions worldwide. Approximately 65 percent of the positions to be
+eliminated are in the U.S., 20 percent are in Europe, and the remainder are
+predominantly in Latin America. The employment reductions primarily affected
+employees in manufacturing, logistics, customer service and back office support
+functions. For facility fixed assets classified as assets to be disposed of,
+the impairment loss recognized is based on the fair value less cost to sell,
+with fair value based on estimates of existing market prices for similar
+assets. The inventory charges relate primarily to the consolidation of
+distribution centers and warehouses and the exit from certain product lines.
+
+Included in the original provision were reserves related to liabilities due to
+various third parties and several asset impairment charges. Liabilities
+recorded for lease cancellation and other costs originally aggregated $51 and
+included $32 for various contractual commitments, other than facility occupancy
+leases, that will be terminated early as a result of the restructuring. The
+commitments include cancellation of supply contracts and outsourced vendor
+contracts. Included in the asset impairment charge of $71 was: $44 for
+machinery and tooling for products that were discontinued or will be
+alternatively sourced; $7 for leasehold improvements at facilities that will be
+closed; and $20 of sundry surplus assets, individually insignificant, from
+various parts of our business. These impaired assets were primarily located in
+the U.S. and the related product lines generated an immaterial amount of
+revenue. Approximately $71 of the $90 of inventory charges related to excess
+inventory in many product lines created by the consolidation of distribution
+centers and warehouses. The remainder was primarily related to the transition
+to inkjet technology in our wide format printing business.
+
+Weakening business conditions and operating results during 2000 required a re-
+evaluation of the initiatives announced in March 2000. Accordingly, during the
+fourth quarter of 2000, and in connection with the turnaround program discussed
+below, $71 ($47 after taxes), of the original $596 provision was reversed, $59
+related to severance costs for 1,000 positions and $12 related to lease
+cancellation and other costs. The reversals primarily relate to delays in the
+consolidation and outsourcing of certain of our warehousing and logistics
+operations and the cancellation of certain European initiatives no longer
+necessary as a result of higher than expected attrition.
+
+During the first quarter of 2001 we recorded a net reversal to the March 2000
+restructuring reserve of $7 ($6 after taxes).  This included the reversal of
+$43 of previously recorded charges and additional charges of $36.  These
+amounts relate to the adjustment of the originally recorded reserves based on
+management's most recent estimate of the costs to complete previously announced
+actions.
+
+Turnaround Program. During 2000, the significant business challenges that we
+began to experience in the second half of 1999 continued to adversely affect
+our financial performance. These challenges include: the ineffective execution
+of a major sales force realignment, the ineffective consolidation of our U.S.
+customer administrative centers, increased competition and adverse economic
+conditions.
+
+These operational challenges, exacerbated by significant technology and
+acquisition investments, led to a net loss in 2000, credit rating agency
+downgrades, limited access to capital markets and marketplace concerns
+regarding our liquidity. In response to these challenges, in October 2000, we
+announced a Turnaround Program that includes a wide-ranging plan to sell
+assets, cut costs and strengthen core operations. Additionally, we are
+exploring alternatives to provide financing for customers in a manner that does
+not involve the Xerox balance sheet, and over time will provide financing for
+customers using third parties. In December 2000, we sold our operations in
+China to Fuji Xerox for $550 and in March 2001 we sold half of our ownership
+interest in Fuji Xerox Co., Ltd. (Fuji Xerox) to Fuji Photo Film Co, Ltd.
+(Fujifilm)(see Note 11). We are engaged in other activities that will enhance
+our liquidity. These activities include asset sales, strategic alliances, and
+the sale or outsourcing of certain manufacturing operations. It is expected
+that in most cases asset sales will result in a gain.
+
+Regarding the cost reductions, we are in the process of finalizing plans that
+are designed to reduce costs by at least $1.0 billion annually. In connection
+with those plans, during the fourth quarter of 2000, we recorded an additional
+pre-tax restructuring provision totaling $105 ($87 after taxes, including our
+$19 share of an additional provision recorded by Fuji Xerox), in connection
+with finalized initiatives under the turnaround program. These charges included
+estimated costs of $71 for severance costs associated with work force
+reductions related to the elimination of 2,300 positions worldwide and $34 of
+asset impairments associated with the disposition of a non-core business. The
+severance costs relate to further streamlining of existing work processes,
+elimination of redundant resources and the consolidation of existing activities
+into other existing operations.
+
+During the first quarter of 2001, and in connection with the turnaround
+program, we recorded an additional pre-tax restructuring provision totaling
+$108 ($73 after taxes), in connection with finalized initiatives under the
+turnaround program. This charge includes estimated costs of $97 for severance
+costs associated with work force reductions related to the elimination of
+approximately 1,000 positions worldwide and $11 of asset impairments. The
+severance costs relate to continued streamlining of existing work processes,
+elimination of redundant resources and the consolidation of existing activities
+into other existing operations.
+
+The following table summarizes the status of the March 2000 restructuring
+Reserve and the Turnaround Program (in millions):
+
+
+                                                          Charges
+                        Original    Net         New      Against     3/31/01
+                        Reserve   Reversals   Actions   Reserve(1)      Balance
+-------------------------------------------------------------------------------
+March 2000 restructuring:
+Cash charges
+Severance and
+ related costs          $  384     $  (66)          -     $  (216)      $  102
+Lease cancellation
+ and other costs            51        (12)          -         (22)          17
+------------------------------------------------------------------------------
+ Subtotal                  435        (78)          -        (238)         119
+Non-cash charges
+Asset impairment            71          -           -         (71)           -
+Inventory charges           90          -           -         (90)           -
+------------------------------------------------------------------------------
+ Subtotal                  161          -           -        (161)           -
+------------------------------------------------------------------------------
+ Subtotal March 2000       596        (78)          -        (399)         119
+Turnaround Program:
+Severance and related       71          -          97         (55)         113
+ costs
+Asset impairment            34          _          11         (45)           -
+------------------------------------------------------------------------------
+ Subtotal Turnaround       105          -         108        (100)         113
+------------------------------------------------------------------------------
+Grand Total             $  701     $  (78)        108      $ (499)      $  232
+------------------------------------------------------------------------------
+
+ (1) Including the impact of currency translation adjustments.
+
+At March 31, 2001, the ending reserve balance for the March 2000 restructuring
+program is $119 and, for the Turnaround Program is $113, resulting in a total
+reserve balance of $232 million as of March 31, 2001.  The remaining reserve
+relates to cash expenditures to be incurred primarily during 2001 and is
+included in Other current liabilities.
+
+
+5.  Common Shareholders' Equity:
+
+Common shareholders' equity consists of (in millions):
+
+                                         March 31,     December 31,
+                                             2001             2000
+
+Common stock                             $    695         $    670
+Additional paid-in-capital                  1,676            1,556
+Retained earnings                           3,596            3,441
+Accumulated other comprehensive
+  loss /1/                                 (2,462)          (2,174)
+Total                                    $  3,505         $  3,493
+
+/1/ Accumulated other comprehensive loss at March 31, 2001 is composed of
+cumulative translation $(2,408), minimum pension liability of $(27),unrealized
+losses on marketable securities of $(3), and mark to market losses on cash flow
+hedges of $(24).
+
+In January 2001, 0.8 million put options with a strike price of $40.56 per
+share were net cash settled for $28. Funds for this net cash settlement were
+obtained by selling 5.9 million unregistered shares of our common stock for
+proceeds of $28.
+
+Comprehensive loss for the three months ended March 31, 2001 and 2000 is as
+follows (in millions):
+
+                                         March 31,        March 31,
+                                             2001             2000
+Net income (loss)                        $   201          $  (248)
+Translation adjustments                     (266)              34
+Unrealized gains on marketable
+  Securities                                   2               14
+Cash flow hedge adjustments                  (24)               -
+
+Comprehensive loss                       $   (87)         $  (200)
+
+
+6.  Interest expense and income:
+
+Interest expense totaled $287 and $227 for the three months ended March 31,
+2001 and 2000, respectively.  Interest income totaled $242 and $236 for the
+three months ended March 31, 2001 and 2000, respectively.
+
+7.  Segment Reporting:
+
+In the first quarter of 2001, we completed the realignment of our operations in
+order to more closely align our reportable segments with the markets that we
+serve. As a result of this realignment our reportable segments have been
+revised accordingly and are as follows: Production, Office, Small Office/Home
+Office, and Developing Markets Operations.
+
+The Production segment includes DocuTech, Production Printing, color products
+for the production and graphic arts markets and light lens copiers over 90
+pages per minute provided directly to Fortune 1000, Graphic Arts and
+government, education and other public sector customers through direct sales
+and service organizations in North America and Europe.
+
+The Office segment includes our family of Document Centre digital multi-
+function products; light-lens copiers under 90 pages per minute; and our color
+laser, solid ink and monochrome laser desktop printers, digital copiers and
+facsimile products sold through indirect sales channels for North America and
+Europe. The Office market is comprised of global, national and mid-size
+commercial customers as well as government, education and other public sector
+customers.
+
+The Small office/Home office (SOHO) segment includes inkjet printers and
+personal copiers sold through indirect channels in North America and Europe to
+small offices, home offices and personal users (consumers).  As more fully
+discussed in Note 13, in June 2001 the Ad Hoc Committee of the Board of
+Directors approved the disengagement from the SOHO business.
+
+The Developing Markets Operations segment (DMO) includes Latin America, Russia,
+India, the Middle East and Africa to take advantage of growth opportunities in
+emerging markets/countries around the world, building on the leadership Xerox
+has already established in a number of those markets.
+
+Other includes several units, none of which met the thresholds for separate
+segment reporting.  This group includes primarily Xerox Engineering Systems and
+Xerox Supplies Group (predominantly paper).  Other segment profit/(loss)
+includes certain general corporate expenses which have not been allocated to
+the operating segments.
+
+Operating segment profit/(loss) information for the three months ended March
+31, 2001 and 2000 is as follows (in millions):
+
+                                                      Developing
+                       Production Office       SOHO    Markets    Other   Total
+2001
+Revenue from external
+   customers           $   1,444 $ 1,705 $      120 $      459 $    474 $ 4,202
+Intercompany revenues          -       3          2          -       (5)      -
+Total segment revenues $   1,444 $ 1,708 $      122 $      459 $    469 $ 4,202
+
+Segment profit/
+  (loss)/1/            $     131 $    65 $      (78)$      (73)$   (118)$  (73)
+
+2000
+Revenue from external
+   customers           $   1,512 $ 1,698 $      161 $      596 $    573 $ 4,540
+Intercompany revenues                  2          -          -       (2)      -
+Total segment revenues $   1,512 $ 1,700 $      161 $      596 $    571 $ 4,540
+
+Segment profit/
+  (loss)               $     237 $   110 $      (49)$       26 $    (62)$   262
+
+
+/1/The following is a reconciliation of segment profit/(loss) to total Company
+Income (Loss) before Income Taxes (Benefits), Equity Income and Minorities'
+Interest:
+                                      Three months ended     Three months ended
+                                         March 31, 2001         March 31, 2000
+
+Total segment profit                          $ (73)               $   262
+Restructuring:
+  Inventory charges                        -                   (90)
+  Restructuring charge and asset
+    impairments                         (101)   (101)         (506)   (596)
+Gain on sale of half of ownership
+    interest in Fuji Xerox                       769                     -
+Purchased in-process R&D                           -                   (27)
+
+Income (Loss) before Income Taxes (Benefits),
+  Equity Income and Minorities' Interests      $ 595                $ (361)
+
+
+
+
+
+
+8.  Receivables - Financing transactions:
+
+In January 2001, we transferred $898 of finance receivables to a special
+purpose entity for cash proceeds of $435, received from an affiliate of General
+Electric Capital Corporation (GE Capital), and a retained interest of $463. The
+proceeds were accounted for as a secured borrowing. At March 31, 2001 the
+balance of receivables transferred was $734 and is included in Finance
+receivables, net in the Consolidated Balance Sheets. The remaining secured
+borrowing balance of $340 is included in Debt.  The total proceeds of $435 are
+included in the Net Change in debt in the Consolidated Statements of Cash
+Flows.  The borrowing will be repaid over 18 months and bears interest at the
+rate of 8.98 percent.
+
+Refer to Note 11 - Divestitures for a discussion of the sale of certain of our
+European leasing businesses.
+
+
+9.  Accounting Changes - Accounting for Derivative Instruments:
+
+We adopted Statement of Financial Accounting Standards No. 133, "Accounting for
+Derivative Instruments and Hedging Activities," (SFAS No. 133) and SFAS 138 as
+of January 1, 2001.  SFAS No. 133 requires companies to recognize all
+derivatives as assets or liabilities measured at their fair value.  Gains or
+losses resulting from changes in the fair value of derivatives would be
+recorded each period in current earnings or other comprehensive income,
+depending on whether a derivative is designated as part of a hedge transaction
+and, if it is, depending on the type of hedge transaction.
+
+Upon adoption of SFAS No. 133, we recorded a net cumulative after-tax
+loss of $2 in the first quarter statement of operations and a net cumulative
+after-tax loss of $19 in Accumulated Other Comprehensive Income. Further, as a
+result of recognizing all derivatives at fair value, including the differences
+between the carrying values and fair values of related hedged assets,
+liabilities and firm commitments, we recognized a $403 increase in Total Assets
+and a $424 increase in Total Liabilities.
+
+The adoption of SFAS 133 is expected to increase the future volatility of
+reported earnings and other comprehensive income. In general, the amount of
+volatility will vary with the level of derivative and hedging activities and
+the market volatility during any period. However, as more fully described in
+management's discussion of capital resources and liquidity, our ability to
+enter into new derivative contracts is severely constrained.  The following is
+a summary of our FAS 133 activity during the first quarter.
+
+
+Interest Rate/Cross Currency Swaps.  We enter into several types of derivative
+agreements primarily to manage interest rate and currency exposures related to
+our indebtedness and to "match fund" our customer financing assets. We attempt
+to manage our exposures in total on an economic basis, considering our total
+portfolio of indebtedness, which includes fixed rate, variable rate and foreign
+currency borrowings with varying terms. Accordingly, while all of our
+derivative instruments are intended to economically hedge currency and interest
+rate risk, differences between the contract terms of our derivatives and the
+underlying related debt result in our inability to obtain hedge accounting
+treatment in accordance with SFAS No. 133.  This will result in mark-to-market
+valuation of these derivatives directly through earnings, which will lead to
+increased volatility in our earnings.
+
+During the first quarter, the net effect from the mark-to-market valuation of
+our interest rate derivatives recorded in earnings was not material. However,
+the mark-to-market valuation of certain cross currency interest rate swap
+agreements did result in a net gain of $22 million which is net of the
+remeasurement of the underlying foreign currency debt and is included in Other,
+net.
+
+Currency Derivatives.  We utilize forward exchange contracts and option
+contracts to hedge against the potentially adverse impacts of foreign currency
+fluctuations on foreign currency denominated assets and liabilities. Changes in
+the value of these currency derivatives are recorded in earnings together with
+the offsetting foreign exchange gains and losses on the underlying assets and
+liabilities.
+
+We also utilize currency derivatives to hedge anticipated transactions,
+primarily forecasted purchases of foreign-sourced inventory. These contracts
+are accounted for as cash flow hedges, and changes in their value are deferred
+in Other Comprehensive Income until the anticipated transaction is realized, as
+that term is defined in the Standard. During the first quarter, the impacts of
+our cash flow hedges were not material.
+
+Net Investment Hedges.  We also utilize currency derivatives to hedge against
+the potentially adverse impacts of foreign currency fluctuations on certain of
+our investments in foreign entities. During the first quarter, $26 million of
+net after-tax gains related to hedges of our net investments in Xerox Brazil,
+Xerox Limited and Fuji Xerox were included in the cumulative translation
+adjustments account.
+
+10.Debt for Equity Exchanges:
+
+In March 2001, we retired $122 of long-term debt through the exchange of
+15.5 million shares of common stock valued at $94. The retirements resulted in
+a pre-tax extraordinary gain of $28 ($17 after taxes or $0.02 per share) for a
+net equity increase of approximately $111.  From April 1, 2001 through June 30,
+2001 we retired an additional $205 of debt through the exchange of 20.7 million
+shares of common stock valued at $179.  The second quarter retirements resulted
+in a pre-tax extraordinary gain of $30 ($18 after taxes) for a net equity
+increase of approximately $197.
+
+11.Divestitures:
+
+In March 2001, we completed the sale of half of our ownership interest in Fuji
+Xerox  to Fujifilm for $1,283 in cash.  The sale resulted in a pre-tax gain of
+$769 ($300 after taxes).  Under the agreement, Fujifilm's ownership interest in
+Fuji Xerox increased from 50 percent to 75 percent. While Xerox's ownership
+interest decreased to 25 percent, we retain significant rights as a minority
+shareholder.  All product and technology agreements between us and Fuji Xerox
+will continue, ensuring that the two companies retain uninterrupted access to
+each other's portfolio of patents.
+
+In the second quarter of 2001, we sold our leasing businesses in four European
+countries to Resonia Leasing AB (Resonia) for proceeds of approximately $370.
+The assets sold of approximately $355 include the leasing portfolios in the
+respective countries, title to the underlying equipment included in the lease
+portfolios and certain employees and systems used in the operations of the
+businesses.  Under the terms of the agreement Resonia will provide on-going
+exclusive equipment financing to Xerox customers in those countries.
+
+
+12. Litigation:
+
+On April 11, 1996, an action was commenced by Accuscan Corp. (Accuscan), in the
+United States District Court for the Southern District of New York, against the
+Company seeking unspecified damages for infringement of a patent of Accuscan
+which expired in 1993. The suit, as amended, was directed to facsimile and
+certain other products containing scanning functions and sought damages for
+sales between 1990 and 1993. On April 1, 1998, the jury entered a verdict in
+favor of Accuscan for $40. However, on September 14, 1998, the court granted
+the Company's motion for a new trial on damages. The trial ended on October 25,
+1999 with a jury verdict of $10. The Company's motion to set aside the verdict
+or, in the alternative, to grant a new trial was denied by the court. The
+Company is appealing to the Court of Appeals for the Federal Circuit. Accuscan
+is appealing the new trial grant which reduced the verdict from $40 and seeking
+a reversal of the jury's finding of no willful infringement. On May 31, 2001
+the U.S. Court of Appeals for the federal circuit ruled that the Company did
+not infringe the patent and reversed this judgment for Accuscan.  On June 11,
+2001 Accuscan filed a petition for a rehearing.
+
+On June 24, 1999, the Company was served with a summons and complaint filed in
+the Superior Court of the State of California for the County of Los Angeles.
+The complaint was filed on behalf of 681 individual plaintiffs claiming damages
+as a result of the Company's alleged disposal and/or release of hazardous
+substances into the soil, air and groundwater. On July 22, 1999, April 12,
+2000, November 30, 2000, and March 31, 2001 respectively, four additional com-
+plaints were filed in the same court on behalf of an additional 79, 141, 76,
+and 51 plaintiffs, respectively, with the same claims for damages as the June
+1999 action. Three of the four additional cases have been served on the
+Company.
+
+Plaintiffs in all five cases further allege that they have been exposed to such
+hazardous substances by inhalation, ingestion and dermal contact, including but
+not limited to hazardous substances contained within the municipal drinking
+water supplied by the City of Pomona and the Southern California Water Company.
+Plaintiffs' claims against Registrant include personal injury, wrongful death,
+property damage, negligence, trespass, nuisance, fraudulent concealment,
+absolute liability for ultra-hazardous activities, civil conspiracy, battery
+and violation of the California Unfair Trade Practices Act. Damages are
+unspecified.
+
+The Company denies any liability for the plaintiffs' alleged damages and
+intends to vigorously defend these actions. The Company has not answered or
+appeared in any of the cases because of an agreement among the parties and the
+court to stay these cases pending resolution of several similar cases currently
+pending before the California Supreme Court. However, the court recently
+directed that the five cases against the Company be coordinated with a number
+of other unrelated groundwater cases pending in Southern California.
+
+A consolidated securities law action entitled In re Xerox Corporation
+Securities Litigation is pending in the United States District Court for the
+District of Connecticut.  Defendants are Registrant, Barry Romeril, Paul
+Allaire and G. Richard Thoman, former Chief Executive Officer, and purports to
+be a class action on behalf of the named plaintiffs and all other purchasers of
+Common Stock of the Company during the period between October 22, 1998 through
+October 7, 1999 (Class Period). The amended consolidated complaint in the
+action alleges that in violation of Section 10(b) and/or 20(a) of the
+Securities Exchange Act of 1934, as amended (34 Act), and Securities and
+Exchange Commission Rule 10b-5 thereunder, each of the defendants is liable as
+a participant in a fraudulent scheme and course of business that operated as a
+fraud or deceit on purchasers of the Company's Common Stock during the Class
+Period by disseminating materially false and misleading statements and/or
+concealing material facts. The amended complaint further alleges that the
+alleged scheme: (i) deceived the investing public regarding the economic
+capabilities, sales proficiencies, growth, operations and the intrinsic value
+of the Company's Common Stock; (ii) allowed several corporate insiders, such as
+the named individual defendants, to sell shares of privately held Common Stock
+of the Company while in possession of materially adverse, non-public
+information; and (iii) caused the individual plaintiffs and the other members
+of the purported class to purchase Common Stock of the Company at inflated
+prices. The amended consolidated complaint seeks unspecified compensatory
+damages in favor of the plaintiffs and the other members of the purported class
+against all defendants, jointly and severally, for all damages sustained as a
+result of defendants' alleged wrongdoing, including interest thereon, together
+with reasonable costs and expenses incurred in the action, including counsel
+fees and expert fees. The defendants' motion for dismissal of the complaint is
+pending. The named individual defendants and the Company deny any wrongdoing
+and intend to vigorously defend the action.
+
+Two putative shareholder derivative actions are pending in the Supreme Court of
+the State of New York, County of New York on behalf of the Company against all
+current members of the Board of Directors (with the exception of Anne M.
+Mulcahy) and G. Richard Thoman (in one of the actions) and the Company, as a
+nominal defendant. Another, now dismissed, putative shareholder derivative
+action was pending in the United States District Court for the District of
+Connecticut. Plaintiffs claim breach of fiduciary duties and/or gross
+mismanagement related to certain of the alleged accounting practices of the
+Company's operations in Mexico. The complaints in all three actions alleged
+that the individual named defendants breached their fiduciary duties and/or
+mismanaged the Company by, among other things, permitting wrongful
+business/accounting practices to occur and in-adequately supervising and
+failing to instruct employees and managers of the Company. In one of the New
+York actions it is claimed that the individual defendants disseminated or
+permitted the dissemination of misleading information. In the other New York
+action it is also alleged that the individual defendants failed to vigorously
+investigate potential and known problems relating to accounting, auditing and
+financial functions and to take affirmative steps in good faith to remediate
+the alleged problems. In the federal action in Connecticut it was also alleged
+that the individual defendants failed to take steps to institute appropriate
+legal action against those responsible for unspecified wrongful conduct.
+Plaintiffs claim that the Company has suffered unspecified damages. Among other
+things, the pending complaints seek unspecified monetary damages, removal and
+replacement of the individuals as directors of the Company and/or institution
+and enforcement of appropriate procedural safeguards to prevent the alleged
+wrongdoing.  Defendants filed a motion to dismiss in one of the New York
+actions. Subsequently, the parties to the federal action in Connecticut agreed
+to dismiss that action without prejudice in favor of the earlier-filed New York
+action. The parties also agreed, subject to court approval, to seek
+consolidation of the New York actions and a withdrawal, without prejudice, of
+the motion to dismiss. On May 10, 2001 the court entered an order which, among
+other things, approved that agreement. The individual defendants deny the
+wrongdoing alleged in the complaints and intend to vigorously defend the
+actions.
+
+Twelve purported class actions had been pending in the United States District
+Court for the District of Connecticut against Registrant, KPMG LLP (KPMG), and
+Paul A. Allaire, G. Richard Thoman, Anne M. Mulcahy and Barry D. Romeril. A
+court order consolidated these twelve actions and established a procedure for
+consolidating any subsequently filed related actions. The consolidated action
+purports to be a class action on behalf of the named plaintiffs and all
+purchasers of securities of, and bonds issued by, Registrant during the period
+between February 15, 1998 through February 6, 2001 (Class). Among other things,
+the consolidated complaint generally alleges that each of the Company, KPMG,
+the individuals and additional defendants Philip Fishbach and Gregory Tayler
+violated Sections 10(b) and/or 20(a) of the 34 Act and Securities and Exchange
+Commission Rule 10b-5 thereunder, by participating in a fraudulent scheme that
+operated as a fraud and deceit on purchasers of the Company's Common Stock by
+disseminating materially false and misleading statements and/or concealing
+material adverse facts relating to the Company's Mexican operations and other
+matters relating to the Company's financial condition beyond the Company's
+Mexican operations. The amended complaint generally alleges that this scheme
+deceived the investing public regarding the true state of the Company's
+financial condition and caused the named plaintiff and other members of the
+alleged Class to purchase the Company's Common Stock and Bonds at artificially
+inflated prices. The amended complaint seeks unspecified compensatory damages
+in favor of the named plaintiff and the other members of the alleged Class
+against the Company, KPMG and the individual defendants, jointly and severally,
+including interest thereon, together with reasonable costs and expenses,
+including counsel fees and expert fees.  Following the entry of the order of
+consolidation, at least five additional related class action complaints were
+filed in the same Court. In each of these cases, the plaintiffs defined a class
+consisting of persons who purchased the Common Stock of the Company during the
+period February 15, 1998 through and including February 6, 2001. Some of these
+
+plaintiffs filed objections to the consolidation order, challenging the
+appointment of lead plaintiffs and lead and liaison counsel and have separately
+moved for the appointment of lead plaintiff and lead counsel. The court has not
+rendered a decision with regard to the objections. The individual defendants
+and the Company deny any wrongdoing alleged in the complaints and intend to
+vigorously defend the actions.
+
+A lawsuit has been instituted in the Superior Court, Judicial District of
+Stamford/Norwalk, Connecticut, by James F. Bingham, a former employee of the
+Company against the Company, Barry D. Romeril, Eunice M. Filter and Paul
+Allaire. The complaint alleges that he was wrongfully terminated in violation
+of public policy because he attempted to disclose to senior management and to
+remedy alleged accounting fraud and reporting irregularities. He further claims
+that the Company and the individual defendants violated the Company's
+policies/commitments to refrain from retaliating against employees who report
+ethics issues. The plaintiff also asserts claims of defamation and tortious
+interference with a contract. He seeks: (a) unspecified compensatory damages in
+excess of $15 thousand, (b) punitive damages, and (c) the cost of bringing the
+action and other relief as deemed appropriate by the court. The individuals and
+the Company deny any wrongdoing alleged in the complaint and intend to
+vigorously defend the action.
+
+A putative shareholder derivative action is pending in the Supreme Court of the
+State of New York, Monroe County against certain current and former members of
+the Board of Directors, namely G. Richard Thoman, Paul A. Allaire, B. R. Inman,
+Antonia Ax:son Johnson, Vernon E. Jordan Jr., Yotaro Kobayashi, Ralph S.
+Larsen, Hilmar Kopper, John D. Macomber, George J. Mitchell, N. J. Nicholas,
+Jr., John E. Pepper, Patricia L. Russo, Martha R. Seger and Thomas C. Theobald
+(collectively, the "Individual Defendants"), and the Company, as a nominal
+defendant. Plaintiff claims the Individual Defendants breached their fiduciary
+duties of care and loyalty to the Company and engaged in gross mismanagement by
+allegedly awarding former CEO, G. Richard Thoman, compensation including
+elements that were unrelated in any reasonable way to his tenure with the
+Company, his job performance, or the Company's financial performance.  The
+complaint further specifically alleges that the Individual Defendants failed to
+exercise business judgment in granting Thoman lifetime compensation, a special
+bonus award, termination payments, early vesting of stock compensation, and
+certain transportation perquisites, all which allegedly constituted gross,
+wanton and reckless waste of corporate assets of the Company and its
+shareholders. Plaintiff claims that the Company has suffered damages and seeks
+judgment against the Individual Defendants in an amount equal to the sum of the
+special bonus, the present value of the $800 thousand per year lifetime
+compensation, the valuation of all options unexercised upon termination, the
+cost of transportation to and from France, and/or an amount equal to costs
+already incurred under the various compensation programs, cancellation of
+unpaid balances of these obligations, and/or cancellation of unexercised
+options and other deferred compensation at the time of his resignation, plus
+the cost and expenses of the litigation, including reasonable attorneys',
+accountants' and experts' fees and other costs and disbursements. On May 31,
+2001 defendants filed a motion to dismiss the complaint.  The Individual
+Defendants deny the wrongdoing alleged in the complaint and intend to
+vigorously defend the action.
+
+A class was certified in an action originally filed in the United States
+District Court for the Southern District of Illinois last August. Plaintiffs
+bring this action on behalf of themselves and an alleged class of over 25,000
+persons who received lump sum distributions from the Company's Retirement
+Income Guarantee Plan after January 1, 1990. Plaintiffs assert violations of
+the Employee Retirement Income Security Act ("ERISA"), claiming that the lump
+sum distributions were improperly calculated. The damages sought are not
+specified. On July 3, 2001 the court granted the Plaintiffs' motion for summary
+judgment, finding that the lump sum calculations violated ERISA.  The Company
+denies any wrongdoing and intends to appeal the District Court's ruling.
+
+In 2000, the Company was advised that the Securities and Exchange Commission
+(SEC) had entered an order of a formal, non-public investigation into our
+accounting and financial reporting practices in Mexico and other areas. We are
+cooperating fully with the SEC. The Company cannot predict when the SEC will
+conclude its investigation or its outcome.
+
+On June 19, 2001,an action was commenced by Pitney Bowes in the United States
+District Court for the District of Connecticut against the Company seeking
+unspecified damages for infringement of a patent of Pitney Bowes which expired
+on May 31,2000.  Plaintiff claims that two printers containing image
+enhancement functions infringe the patent and seeks damages in an unspecified
+amount for sales between June 1995 and May 2000. The Company denies any
+wrongdoing and intends to vigorously defend the action.
+
+
+Note 13 - Subsequent Events:
+
+   In June 2001, the Ad Hoc Committee of the Board of Directors approved the
+disengagement from our small office/home office (SOHO) business. Over the next
+six months we will discontinue our line of personal inkjet and xerographic
+printers, copiers, facsimile machines and multi-function devices which are sold
+primarily through retail channels to small offices, home offices and personal
+users (consumers). We intend to sell the remaining inventory through current
+channels. We will continue to provide service, support and supplies, including
+the manufacturing of such supplies, for customers who currently own SOHO
+products during a phase-down period to meet customer commitments.
+   Total assets of the SOHO operations as of March 31, 2001 were approximately
+$475 and primarily consisted of Accounts receivable, Inventories, and Land,
+buildings and equipment.
+     We are currently finalizing our exit plans. The loss on disposal and other
+financial statement effects will be determined and disclosed in our 2001 second
+quarter Form 10-Q.
+
+     In July 2001, the Board of Directors decided to eliminate the payment of
+dividends on the Company's common stock.  Additionally the Board of Directors
+chose not to declare the dividend on the Employee Stock Ownership Program
+(ESOP)preferred stock.  Instead we will make and additional contribution to the
+ESOP trust
+
+Item 2                   Xerox Corporation
+             Management's Discussion and Analysis of
+           Results of Operations and Financial Condition
+
+Results of Operations
+
+Summary
+
+As more fully discussed below and in Note 2 to the Consolidated Financial
+Statements, the Company has restated its 1999 and 1998 financial statements.
+This restatement has also impacted the quarterly financial information
+previously presented for the quarters ended March 31, 2001 and March 31, 2000.
+All dollar and per share amounts and financial ratios have been revised, as
+appropriate, for the effects of the restatement.
+
+We have restated our Consolidated Financial Statements for the quarter ended
+March 31, 2000 as a result of two separate investigations conducted by the
+Audit Committee of the Board of Directors.  These investigations involved
+previously disclosed issues in our Mexico operations and a review of our
+accounting policies and procedures and the application thereof.  This filing
+should be read in conjunction with  Amendment No. 1 to our Annual Report on
+Form 10-K for the fiscal year ended December 31, 2000.  The adjustments made to
+the Consolidated Financial Statements for the quarter ended March 31, 2000
+reflect the changes discussed in such amendment.  All amounts included herein
+have been restated to reflect the changes as discussed in that report.
+
+These adjustments relate primarily to the imprudent and improper business
+practices in Mexico, the acquisition contingencies associated with our
+acquisition of the remaining ownership interest in Xerox Limited from the Rank
+Group Plc, the misapplications of GAAP under SFAS No. 13 "Accounting for
+Leases," and certain other items.  The following table presents the effects of
+the adjustments on pre-tax income (loss):
+                                                  Three months ended
+                                           March 31, 2001      March 31, 2000
+Increase (decrease) to pre-tax
+  income (loss):
+     Mexico                                    $    -              $  (34)
+     Lease issues, net                             13                  27
+     Other, net                                    58                  (5)
+        Total                                  $   71              $  (12)
+
+Throughout the following Management's Discussion and Analysis of Results of
+Operations and Financial Condition all referenced amounts reflect the above
+described restatement adjustments.
+
+Total first quarter 2001 revenues of $4.2 billion declined 7 percent (5 percent
+pre-currency) from $4.5 billion in the 2000 first quarter reflecting a
+significant improvement from the fourth quarter decline. U.S. direct sales
+force stability resulted in modest year over year revenue growth in North
+America for the first time in 6 quarters.  Pre-currency revenues declined
+modestly in Europe. Pre-currency revenues in Developing Markets declined 21
+percent as we reconfigure our Latin American operations to a new business
+approach prioritizing cash and profitable revenue.
+
+First quarter 2001 net income was $201 million including a $300 million after
+tax gain related to the March 30, 2001 sale of half of our investment in Fuji
+Xerox Co., Ltd. (Fuji Xerox) to Fuji Photo Film Co. Ltd. (Fujifilm), an
+additional net after tax restructuring provision of $62 million associated with
+our previously announced Turnaround Program, a $17 million after tax gain on
+early retirement of debt and a $2 million after tax loss from the
+implementation of SFAS 133. The first quarter 2000 net loss was $248 million
+including a $423 million after tax restructuring provision and a $19 million
+after tax in-process research and development charge associated with the
+January 1, 2000 acquisition of the Tektronix, Inc. Color Printing and Imaging
+Division (CPID). Excluding all special items, the first quarter 2001 loss was
+$52 million compared with net income of $194 million in the 2000 first quarter.
+The 2001 first quarter loss reflected the revenue decline as well as a
+significant gross margin decline partially offset by lower SAG expenses
+reflecting the initial benefits from our Turnaround Program.
+
+Earnings per share was $0.25 in the 2001 first quarter including the $0.38
+earnings per share gain from the Fuji Xerox sale, the $0.08 restructuring
+provision and the $0.02 gain from the early retirement of debt.  The first
+quarter 2000 loss per share was $0.39 including charges of $0.67 for
+restructuring and acquired CPID in-process R&D.  Excluding all special items,
+the first quarter 2001 loss per share was $0.07 compared with $0.28 earnings
+per share in the 2000 first quarter.
+
+In the ordinary course of business, management makes many estimates in the
+accounting for items that affect our reported results of operations and
+financial position.  The following table summarizes the more significant of
+these estimates, and the changes therein, and their impacts on pre-tax income
+(loss):
+
+                                                      Three months ended
+                                               March 31, 2001    March 31, 2000
+Increase (decrease) in pre-tax income (loss):
+   Provisions for doubtful accounts               $  (92)           $ (111)
+   Provisions for obsolete and excess inventory      (58)              (28)
+   Revenue allocations                                 -                10
+   Finance discount rates                             (7)               17
+
+
+
+The preceding items are analyzed as appropriate in succeeding sections of this
+Management's Discussion and Analysis of Operations and Financial Condition
+and/or the accompanying Notes to Consolidated Financial Statements.
+
+Pre-Currency Growth
+
+To understand the trends in the business, we believe that it is helpful to
+adjust revenue and expense growth (except for ratios) to exclude the impact of
+changes in the translation of European and Canadian currencies into U.S.
+dollars. We refer to this adjusted growth as "pre-currency growth." Latin
+American currencies are shown at actual exchange rates for both pre-currency
+and post-currency reporting, since these countries generally have volatile
+currency and inflationary environments, and our operations in these countries
+have historically implemented pricing actions to recover the impact of
+inflation and devaluation.
+
+A substantial portion of our consolidated revenues is derived from operations
+outside of the United States where the U.S. dollar is not the functional
+currency. When compared with the average of the major European and Canadian
+currencies on a revenue-weighted basis, the U.S. dollar was approximately 7
+percent stronger in the 2001 first quarter than in the 2000 first quarter.  As
+a result, currency translation had an unfavorable impact of approximately two
+percentage points on revenue growth.
+
+Revenues
+
+Total revenues declined 7 percent (5 percent pre-currency) in the 2001 first
+quarter from the 2000 first quarter significantly improving from the 16 percent
+(12 percent pre-currency) decline in the 2000 fourth quarter (excluding the
+beneficial impact of the 2000 CPID acquisition).  Excluding our China
+operations which we sold to Fuji Xerox in December 2000, first quarter 2001
+pre-currency revenues declined 4 percent.
+
+Beginning this quarter we have changed our revenue reporting to the following
+segments: Production, Office, Small Office/Home Office (SOHO) and we will
+continue to separately disclose revenues in Developing Markets Operations.
+
+
+Segment Analysis
+
+Revenues and year-over-year revenue growth rates by segment are as follows:
+
+                                                           1Q 2001
+                        Memo:2000           2000             Post-       Pre-
+            Pre-Currency Revenue Growth  Full Year         Currency  Currency
+               Q1	   Q2   Q3   Q4   FY    Revenues  Revenues  Growth  Growth
+
+Total Revenues  8%   0%  (2)% (9)% (1)%     $18.7     $4.2      (7)%   (5)%
+
+Production      1   (2)  (8) (12)  (6)        6.3      1.4      (4)    (2)
+Office          4    5    4   (3)   2         7.1      1.7       -      3
+SOHO           35   (3)  (2)   1    6         0.6      0.1     (24)    (24)
+Developing
+Markets        36    4   (3) (21)   0         2.5      0.5     (23)   (21)
+Other           7   (9)  (1)  (4)  (2)        2.2      0.5     (18)   (16)
+
+Memo: Color     64  60   74   54   62         2.9      0.7      13     16
+
+Dollars are in billions.  2000 pre-currency revenue growth includes the
+beneficial impact of the January 1, 2000 acquisition of the Tektronix, Inc.
+Color Printing and Imaging Division.
+
+Production revenues include DocuTech, Production Printing, color products for
+the production and graphic arts markets and light-lens copiers over 90 pages
+per minute for North America and Europe. First quarter 2001 revenues declined 4
+percent (2 percent pre-currency), an improvement from recent trends. Strong
+growth in production color revenues, including the successful DocuColor 2000
+series which began shipments in June, 2000 and the DocuColor 12, are not yet
+sufficient to offset monochrome revenue declines, particularly in light lens
+products. Pre-currency equipment sales declined 4 percent and post equipment
+install revenues declined one percent. The improved sales force productivity
+resulting from filled sales territories and the increasing average tenure of
+the sales force was somewhat offset by a weaker economic environment, increased
+competition and continued movement to distributed printing and electronic
+substitutes. Post equipment install revenues were also adversely affected by
+reduced equipment placements in earlier quarters. Production revenues
+represented 34 percent of first quarter 2001 revenues compared with 33 percent
+in the 2000 first quarter. Gross margins for the production segment declined
+primarily as a result of weak mix, lower manufacturing productivity as we
+reduced inventory,  competitive pricing pressures,  and unfavorable transaction
+currency.
+
+Office revenues include our family of Document Centre digital multi-function
+products; light-lens copiers under 90 pages per minute; and our color laser,
+solid ink and monochrome laser desktop printers, digital copiers and facsimile
+products sold through indirect sales channels for North America and Europe.
+First quarter 2001 revenues were essentially unchanged from the first quarter
+2000 (grew 3 percent pre-currency). First quarter 2001 pre-currency black and
+white office revenues were essentially unchanged from the first quarter 2000.
+Black and white copying revenues grew in North America reflecting strong
+Document Centre departmental equipment sales growth including the Document
+Centre 480 which prints and copies at 75 pages per minute. European monochrome
+copying revenue declined reflecting our decision to reduce our participation in
+very aggressively priced competitive customer bids and tenders as we reorient
+our focus from marketshare to profitable revenue. Monochrome laser printing
+revenues had excellent growth in the 2001 first quarter reflecting good
+equipment sales growth and excellent supplies revenue growth.  Excellent office
+color revenue growth reflected continued placements of the Document Centre
+ColorSeries 50, the industry's first color-enabled digital multi-function
+product and good revenue growth from our Phaser line of laser and solid ink
+networked printers.  Office revenues represented 41 percent of first quarter
+2001 revenues compared with 38 percent in the 2000 first quarter.  Gross
+margins decreased primarily as a result of continued equipment and service
+competitive pricing pressures, lower manufacturing productivity as we focus on
+reducing inventory, and unfavorable transaction currency.
+
+Small Office/Home Office (SOHO) revenues include inkjet printers and personal
+copiers sold through indirect channels in North America and Europe.  SOHO
+revenues declined 24 percent (24 percent pre-currency). Modest inkjet revenue
+growth reflected modest shipment growth due to weak market conditions and very
+aggressive competitive equipment pricing only partially offset by strong
+supplies growth.  Monochrome revenues in this segment declined reflecting
+customers' strong preference for color.  SOHO revenues represented 3 percent of
+first quarter 2001 revenues compared with 4 percent in the 2000 first quarter.
+Gross margins declined significantly in the SOHO segment primarily as a result
+of very aggressive ink jet equipment pricing pressures, and a transition from
+monochrome copiers to ink jet products. As more fully discussed in Note 13 to
+the Consolidated Financial Statements, in June 2001 the Ad Hoc Committee of the
+Board of Directors approved the disengagement from the SOHO business.
+
+Developing Markets Operations (DMO) includes operations in Latin America,
+Russia, India, the Middle East and Africa. (2000 revenues included China prior
+to the December, 2000 sale of that operation to Fuji Xerox)  First quarter 2001
+revenue declined significantly in Brazil from the 2000 first quarter reflecting
+reduced equipment placements, an increased competitive environment and lower
+prices as the company focused on reducing inventory. Revenue declined
+throughout Latin America due to some weaker economies and our decision to focus
+on cash and profitable revenue generation rather than market share. Revenue in
+Mexico declined as it continues to implement its own turnaround plan.  The
+Middle East and Africa had strong revenue growth in the first quarter and
+Russia had excellent revenue growth. Gross margins declined in DMO as a result
+of lower equipment and service margins due to an increased competitive
+environment, lower selling prices as we focused on reducing inventory, weak
+mix, lower residual values being recognized in 2001 leases versus the prior
+year, and the absence of the structured transactions, described below,
+involving contractual arrangements which transferred the risks of ownership of
+equipment subject to operating leases to third party financial companies.
+
+Since 1985 the Company, primarily in North America, has sold pools of equipment
+subject to operating leases to third party finance companies (the counter-
+party) and recorded these transactions as sales at the time the equipment is
+accepted by the counter-party. The various programs provided us with additional
+funding sources and/or enhanced credit positions. The counter-party accepts the
+risks of ownership of the equipment. Remanufacturing and remarketing of off-
+lease equipment belonging to the counter-party is performed by the Company on a
+nondiscriminatory basis for a fee. North American transactions are structured
+to provide cash proceeds up front from the counter-party versus collection over
+time from the underlying customer lessees. There were no sales of equipment
+subject to operating leases in North America in either the first quarter of
+2001 or 2000.  The reduction of operating lease revenues as a result of prior
+year sales of equipment on operating leases was $18 million and $12 million in
+the first quarter of 2001 and 2000, respectively.
+
+Beginning in 1999 several Latin American affiliates entered into certain
+structured transactions involving contractual arrangements which transferred
+the risks of ownership of equipment subject to operating leases to third party
+financial companies who are obligated to pay the Company a fixed amount each
+month. The Company accounts for these transactions similar to its sales-type
+leases. The counter-party assumes the risks associated with the payments from
+the underlying customer lessees thus mitigating risk and variability from the
+cash flow stream. The following shows the effects of such sales of equipment
+under structured finance arrangements offset by the associated reductions of
+operating lease revenues from current and prior year transactions:
+
+
+
+
+
+                                                    Three months ended
+                                               March 31, 2001    March 31, 2000
+
+Sales of equipment                                 $   -            $  46
+Reduced Operating Lease Revenue                      (32)             (26)
+  Net revenue impact                               $ (32)           $  20
+
+Over time the number and value of the contracts will vary depending on the
+number of operating leases entered into in any given period, the willingness of
+third party financing institutions to accept the risks of ownership, and our
+consideration as to the desirability of entering into such arrangements.
+
+
+Key Ratios and Expenses
+
+The trend in key ratios was as follows:
+
+                                         2000                      2001
+                        Q1       Q2       Q3       Q4      FY       Q1
+Gross Margin          39.1%*   40.4%    35.0%    35.1%    37.4%*   33.6%
+
+SAG % Revenue         28.0     28.8     31.7     32.2     30.2     27.4%
+
+*  Includes inventory charges associated with the 2000 restructuring.  If
+excluded the gross margin would have been 41.1 percent and 37.9 percent,
+respectively.
+
+
+The gross margin declined by 5.5 percentage points in the 2001 first quarter
+from the 2000 first quarter and decreased 1.5 percentage points from the 2000
+fourth quarter.  Approximately 2 percentage points of the year over year gross
+margin decline reflected weak Production results. An additional 2 percentage
+points of the decline was due to weak performance in Developing Markets,
+primarily in Brazil due to lower residual values being recognized in 2001
+leases versus the prior year, and the absence of the previously described
+structured transactions involving contractual arrangements which transferred
+the risks of ownership of equipment subject to operating leases to third party
+financial companies. In addition, lower manufacturing productivity, as we
+reduced inventory, competitive pricing pressures, increased inventory
+provisions and unfavorable transaction currency adversely impacted results.
+Inventory provisions increased in Brazil and the U.S. due to excess on hand
+inventory resulting from lower sales activity than previously planned.  The
+2000 first quarter gross margin benefited by approximately 0.5 percentage
+points from increased licensing and stand-alone software revenues associated
+with the licensing of a number of patents from our intellectual property
+portfolio.
+
+Selling, administrative and general expenses (SAG) declined 9 percent (8
+percent pre-currency) in the 2001 first quarter reflecting initial benefits
+from our Turnaround Program cost reduction efforts.  SAG includes $92 million
+in bad debt provisions in the 2001 first quarter which is $19 million lower
+than the 2000 first quarter. A decline in Developing Markets was partially
+offset by increases in North America and Europe. In the 2001 first quarter SAG
+represented 27.4 percent of revenue compared with 28.0 percent in the 2000
+first quarter and 32.2 percent in the 2000 fourth quarter.
+
+Research and development (R&D) expense was essentially unchanged in the 2001
+first quarter from the 2000 first quarter as we continue to invest in
+technological development, particularly color, to maintain our position in the
+rapidly changing document processing market. Xerox R&D remains technologically
+competitive and is strategically coordinated with Fuji Xerox.
+
+Worldwide employment declined by 4,300 in the 2001 first quarter to 88,200
+primarily as a result of employees leaving the company under our restructuring
+programs.
+
+Other, net was $90 million versus $104 million in 2000. Increases in net non-
+financing interest expense of $58 million and an unfavorable change in other
+Brazilian payroll and other taxes of approximately $20 million were more than
+offset by the following favorable items: increased interest income of $23
+million, $41 million of net currency gains resulting from the remeasurement of
+unhedged foreign currency-denominated assets and liabilities, $22 million of
+mark-to-market gains recorded as a result of the new accounting required under
+FAS 133 and an $8 million credit to adjust the remaining 1998 restructuring
+reserves.  Due to the inherent volatility in the foreign currency markets, the
+company is unable to predict the amount of any such mark-to-market gains or
+losses in future periods.
+
+On March 30, 2001 we completed the sale of half of our stake in Fuji Xerox to
+Fujifilm for $1,283 million in cash, resulting in a pre-tax gain of $769
+million.  Our ownership interest in Fuji Xerox decreased to 25 percent while
+Fujifilm's ownership interest increased to 75 percent.  We retain significant
+rights as a minority shareholder and all product and technology agreements
+between Xerox and Fuji Xerox will continue, ensuring that the two companies
+retain uninterrupted access to each other's portfolio of patents.
+
+During the fourth quarter of 2000 we announced a Turnaround Program in which we
+outlined a wide-ranging plan to sell assets, cut costs and strengthen our
+strategic core.  We announced plans that were designed to reduce costs by at
+least $1.0 billion annually, the majority of which will affect 2001. As part of
+the cost cutting program, we continue to take additional charges for finalized
+initiatives under the Turnaround Program. At the same time we adjusted our
+balances for reserves recorded for the original March, 2000 reserve program due
+to changes in estimates of the costs to complete previously announced actions.
+As a result of these actions, in the first quarter of 2001 we provided an
+incremental $101 million pre-tax of reserves necessary to complete our open
+initiatives under our restructuring programs.  We expect additional provisions
+will be required in 2001 as additional plans are finalized. The reserve balance
+for both these programs was $232 million at March 31, 2001.
+
+Income Taxes, Equity in Net Income of Unconsolidated Affiliates and Minorities'
+Interests in Earnings of Subsidiaries
+
+Pre-tax income (loss) was $595 million in the 2001 first quarter including
+gains from the Fuji Xerox sale and the net restructuring charges. Excluding
+these items, the loss before income taxes was $81 million in the 2001 first
+quarter. The 2000 first quarter loss of $361 million included a $596 million
+restructuring provision and $27 million of CPID in-process research and
+development charges.  Excluding these items, the first quarter 2000 income
+before taxes was $262 million.
+
+The effective tax rate, including the tax provision on the Fuji Xerox sale and
+the tax benefit related to the additional net restructuring provision, was 68.8
+percent in the 2001 first quarter. Excluding these items, the 2001 first
+quarter tax rate was 42.0 percent compared to 29.9 percent in the 2000 first
+quarter.   This increase is due primarily to continued losses in a low-tax rate
+jurisdiction.
+
+Equity in net income of unconsolidated affiliates is principally our 50 percent
+share of Fuji Xerox income. Total equity in net income declined by $2 million
+in the 2001 first quarter from the first quarter 2000. Our share of total Fuji
+Xerox net income of $3 million in the 2001 first quarter decreased by $3
+million from the 2000 first quarter.
+
+In March 2001, we retired $122 million of long-term debt through the exchange
+of 15.5 million shares of common stock valued at $94 million. The retirements
+resulted in an after tax extraordinary gain of $17 million or 2 cents per share
+($28 million pre-tax) and a net equity increase of approximately $111 million.
+
+First quarter 2001 Adjusted Average Shares outstanding for our diluted EPS
+calculation increased by approximately 115 million shares from the 2000 first
+quarter. Approximately 11 million of the average share increase reflects the
+issuance of shares during the first quarter for the cash settlement of equity
+put options and the retirement of debt. The remainder of the increase reflects
+share dilution resulting from the application of the "if converted" methodology
+in the calculation of our diluted EPS for the Preferred Shares held by our 1989
+Employee Stock Ownership Plan. This methodology requires us to assume
+conversion of the preferred shares into common stock when computing our diluted
+EPS. Normally, the conversion assumes that each preferred share is converted
+into six common shares as long as our common stock price is above the $13 per
+share floor price.  The increase of approximately 96 million shares in this
+quarter reflects the conversion of the 8 million ESOP Preferred Shares at the
+quarterly average share price of approximately $7 per share. The increase in
+the number of shares diluted EPS by approximately $0.02 per share during the
+quarter.
+
+We adopted Statement of Financial Accounting Standards  No. 133, "Accounting
+for Derivative Instruments and Hedging Activities" (SFAS No. 133), and SFAS No.
+138, as of January 1, 2001. Upon adoption of SFAS 133 we recorded a net
+cumulative after-tax loss of $2 million in the first quarter Income Statement
+and a net cumulative after-tax loss of $19 million in Accumulated Other
+Comprehensive Income. The adoption of SFAS 133 is expected to increase the
+future volatility of reported earnings and other comprehensive income. In
+general, the amount of volatility will vary with the level of derivative and
+hedging activities and the market volatility during any period.
+During the first quarter, the net effect from the mark-to-market valuation of
+our interest rate derivatives recorded in earnings was not material.  With
+respect to our currency derivatives, the majority of the mark-to-market
+valuations partially offset the remeasurement gains and losses of the
+underlying foreign currency assets and liabilities and are included in Other,
+net. However, the accounting required under SFAS 133 for certain cross currency
+interest rate derivatives did result in a net gain of $22 million and is also
+included in Other, net.
+
+The $21 million gain on affiliate's sale of stock in 2000 reflected our
+proportionate share of the increase in equity of Scansoft Inc. (NASDAQ:SSFT)
+resulting from Scansoft's issuance of stock in connection with an acquisition.
+This gain was partially offset by a $5 million charge reflecting our share of
+Scansoft's write-off of in-process research and development associated with
+this acquisition, which is included in Equity in net income of unconsolidated
+affiliates.
+
+
+Capital Resources and Liquidity
+
+Xerox and its material subsidiaries and affiliates have cash management systems
+and internal policies and procedures for managing the availability of worldwide
+cash, cash equivalents and liquidity resources.  They are subject to (i)
+statutes, regulations and practices of the local jurisdictions in which the
+companies operate, (ii) legal requirements of the agreements to which the
+companies are parties and (iii) the policies and continuing cooperation of the
+financial institutions utilized by the companies to maintain such cash
+management systems.
+
+At March 31, 2001, cash on hand was $2,778 versus $1,741 million at December
+31, 2000, and total debt was $17,583 versus $18,097 million at December 31,
+2000. Total debt, net of cash on hand (Net Debt), decreased by $1,551 million
+in the first quarter 2001 versus an increase of $2,175 in the first quarter
+2000. As of March 31, 2001, Net Debt has decreased by $2,238 million since our
+Turnaround Program was initiated on September 30, 2000.
+
+The consolidated ratio of total debt to common and preferred equity was 4.3:1
+as of March 31, 2001 compared to 4.4:1 at December 31, 2000. This ratio
+reflects our decision, beginning in the fourth quarter of 2000, to accumulate
+cash to maintain financial flexibility, rather than continue our historical
+practice of using available excess cash to pay down debt. Had our cash balance
+at March 31, 2001 and December 31, 2000 been reduced to historical levels by
+paying off debt, the debt to equity ratio would have been approximately 3.6:1
+and 4.0:1, respectively.
+
+We historically managed the capital structures of our non-financing operations
+and our captive financing operations separately. We have announced our intent
+to exit customer equipment financing as part of our global Turnaround Program,
+and we are no longer managing our liquidity on a financing/non-financing basis.
+Accordingly, we believe that a review of operating cash flow and earnings
+before interest, income taxes, depreciation, amortization and special items
+(EBITDA) provides the most meaningful understanding of our changes in cash and
+debt balances.
+
+The following is a summary of EBITDA, operating and other cash flows for the
+three months ended March 31, 2001 and 2000:
+
+                                                       2001               2000
+Net Income (Loss)                                     $  201            $ (248)
+Income tax provision (benefit)                           414              (120)
+Depreciation and amortization                            220               225
+Restructuring charges                                     93               596
+Interest expense                                         287               227
+Gains on sales of businesses                            (769)                -
+Other items                                              (12)               56
+    EBITDA                                               434               736
+Financing and interest income                           (242)             (236)
+    Adjusted EBITDA                                      192               500
+Working capital and other changes                        (67)           (1,245)
+On-Lease inventory spending                              (22)             (128)
+Capital spending                                         (69)             (124)
+Restructuring payments                                  (158)              (62)
+Financing cash flow, net of interest                      63              (139)
+    Operating Cash Flow (Usage)*                          (61)          (1,198)
+Dividends                                                (47)             (147)
+Proceeds from sales of businesses                      1,283                 -
+Acquisitions                                               -              (856)
+Other non-operating items                                (45)              (34)
+Debt borrowings (repayments), net                        (93)            2,170
+     Net Change in Cash                               $1,037            $  (65)
+
+*  The primary variation from cash flow from operations as reported on the
+Consolidated Statement of Cash Flows is the inclusion above of capital spending
+as an operational use of cash.
+
+Operating cash usage improved by $1,137 million, to $(61) million in the first
+three months of 2001 versus $(1,198) million in the prior year period. The
+entire improvement in operating cash flow was driven by significant
+improvements in working capital, while lower EBITDA, reflecting weaker
+operating results, was offset by improvements in financing cash flow and on-
+lease inventory and capital spending. The working capital improvements stem
+largely from reductions in accounts receivable, inventories, and tax payments
+in first quarter 2001 compared to first quarter 2000. The inventory reduction
+reflects management actions to improve inventory turns, and changes in the
+supply/demand and logistics processes. We expect to continue to reduce
+inventory levels in 2001. The accounts receivable decrease reflects progress in
+our efforts to reduce average days' sales outstanding, which efforts have been
+hampered by the persisting effects of changes we made in 1998 to the U.S.
+customer administration centers. The significant decline in 2001 capital
+spending versus 2000 is due primarily to substantial completion of our Ireland
+projects as well as significant spending constraints. We expect 2001 spending
+to be approximately 25 percent below 2000 levels. Investments in on-lease
+equipment reflect the growth in our document outsourcing business, which we
+expect will continue to grow in 2001. The increase in financing cash flow in
+2001 largely reflects the lower equipment sales in first quarter 2001 versus
+the year ago period, which resulted in a lower level of finance receivable
+origination's, offset partially by an increase in interest costs in 2001.
+
+Cash restructuring payments of $158 million reflect continued progress with
+respect to the 2000 restructuring actions, as well as spending for new
+initiatives discussed below. The status of the restructuring reserves is
+discussed in Note 4 to the Consolidated Financial Statements.
+
+The significant improvement in operating cash flow, together with the proceeds
+from our sale of half our interest in Fuji Xerox and the absence of any
+acquisitions in the 2001 first quarter, enabled us to reduce Net Debt by $1,551
+million. In the comparable 2000 period, the significant operating cash usage,
+together with the acquisition of the Color Printing and Imaging Division of
+Tektronix, Inc., resulted in an increase in Net Debt of $2,175 million.
+
+Liquidity and Funding Plans for 2001
+
+Historically, our primary sources of funding have been cash flows from
+operations, borrowings under our commercial paper and term funding programs,
+and securitizations of finance and trade receivables. Our overall funding
+requirements have been to finance customers' purchases of our equipment, to
+fund working capital requirements, and to finance acquisitions.
+
+During 2000, the agencies that assign ratings to our debt downgraded the
+Company's senior and short-term debt several times. As of July 10, 2001, debt
+ratings by Moody's are Ba1 and Not Prime, respectively, and the ratings outlook
+is negative; debt ratings by Fitch are BB and B, respectively, and the ratings
+outlook is stable; and debt ratings by Standard and Poors (S&P) are BBB- and A-
+3, respectively, and the ratings outlook is negative. Since October 2000, the
+capital markets and uncommitted bank lines of credit have been, and are
+expected to continue to be, largely unavailable to us. We expect this to result
+in higher borrowing costs going forward.
+
+Consequently, in the fourth quarter 2000 we drew down the entire $7.0 billion
+available to us under our Revolving Credit Agreement (the Revolver), primarily
+to maintain financial flexibility and pay down debt obligations as they came
+due. We are in compliance with the covenants, terms and conditions in the
+Revolver, which matures on October 22, 2002. The only financial covenant in the
+Revolver requires us to maintain a minimum of $3.2 billion of Consolidated
+Tangible Net Worth, as defined (CTNW). At March 31, 2001, our CTNW was $671
+million in excess of the minimum requirement, an increase of $71 million from
+the December 31, 2000 level. Further operating losses, restructuring costs and
+adverse currency translation adjustments would erode this excess, while
+operating income, gains on asset sales, additional debt to equity exchanges and
+favorable currency translation would improve this excess.
+
+The above-referenced downgrades and the resulting withdrawal by certain banks
+of uncommitted lines of credit eliminated a primary source of liquidity for
+many of our Latin American affiliates. As a result, Xerox Corporation has
+increased its level of intercompany lending to those affiliates to replace the
+withdrawn credit facilities.
+
+As of March 31, 2001, we had approximately $2.7 billion of debt obligations
+expected to be repaid during the remainder of 2001, and $9.0 billion maturing
+in 2002, as summarized below (in billions):
+
+                                                2001            2002
+First Quarter                                      -            $0.3
+Second Quarter                                  $1.3             0.9
+Third Quarter                                    0.3             0.1
+Fourth Quarter                                   1.1             7.7*
+   Full Year                                    $2.7            $9.0
+
+* Includes $7.0 billion maturity under the Revolver.
+
+In March 2001, we retired $122 million of long-term debt through the exchange
+of 15.5 million shares of common stock of the Company, which increased CTNW by
+approximately $111 million. During the second quarter ended June 30, 2001 we
+retired an additional $205 million of debt through the exchange of 20.7 million
+shares of common stock, which increased CTNW by an additional $197 million.
+
+In April 2001, letters of credit totaling $660 million, which supported Ridge
+Reinsurance ceded reinsurance obligations, were replaced with trusts
+collateralized by the Ridge Reinsurance investment portfolio of approximately
+$405 million plus approximately $255 million in cash. The Ridge Reinsurance
+investment portfolio is included in Intangible and Other Assets in our
+Consolidated Balance Sheets. We do not have any other material obligations
+scheduled to mature in 2001 unless our debt ratings are further downgraded as
+discussed below.
+
+We are implementing a global Turnaround Program which includes initiatives to
+reduce costs, improve operations, and sell certain assets that we believe will
+positively affect our capital resources and liquidity position when completed.
+In connection with these initiatives, we announced and completed the sale of
+our China operations to Fuji Xerox Co., Ltd. ("Fuji Xerox") in the fourth
+quarter of 2000, which generated $550 million of cash and transferred debt of
+$118 million to Fuji Xerox. In March 2001, we sold half of our interest in Fuji
+Xerox to Fuji Photo Film Co., Ltd. for $1,283 million in cash.
+
+We have initiated discussions to implement third-party vendor financing
+programs which, when implemented, will significantly reduce our debt and
+finance receivable levels going forward. In addition, we are in discussions to
+consider selling portions of our existing finance receivables portfolio, and we
+continue to actively pursue alternative forms of financing including
+securitizations and secured borrowings. In connection with these initiatives,
+in January 2001, we received $435 million in financing from an affiliate of GE
+Capital, secured by our portfolio of lease receivables in the United Kingdom.
+In the second quarter of 2001, we sold our leasing businesses in four European
+countries to Resonia Leasing AB for proceeds of approximately $370 million.
+These sales are part of an agreement under which Resonia will provide on-going,
+ exclusive equipment financing to our customers in those countries.
+
+We have also initiated a worldwide cost reduction program which is expected to
+result in annualized expense savings of at least $1 billion by the end of 2001.
+
+We believe our liquidity is presently sufficient to meet current and
+anticipated needs going forward, subject to timely implementation and execution
+of the various global initiatives discussed above. Should we be unable to
+successfully complete these initiatives on a timely or satisfactory basis, we
+will need to obtain additional sources of funds through other operating
+improvements, financing from third parties, additional asset sales, or a
+combination thereof. The adequacy of our continuing liquidity depends on our
+ability to successfully generate positive cash flow from an appropriate
+combination of these sources.
+
+On December 1, 2000, Moody's reduced its rating of our debt to below investment
+grade, significantly constraining our ability to enter into new foreign-
+currency and interest rate derivative agreements, and requiring us to
+immediately repurchase certain of our then-outstanding derivative agreements.
+To minimize the resulting exposures, we also voluntarily terminated other
+derivative agreements. At March 31, 2001, the remaining derivative portfolio
+had a net positive value to us of $86 million. Should our debt ratings be
+downgraded by Standard and Poors to below investment grade, we may be required
+to repurchase certain of the out-of-the-money derivative agreements currently
+in place, in the approximate aggregate amount as of March 31, 2001 of $156
+million. However, it is also possible that some counterparties may require, or
+agree to, the repurchase of certain of the in-the-money derivatives currently
+in place, which could reduce or eliminate this cash requirement.
+
+There is no assurance that our credit ratings will be maintained, or that the
+various counterparties to derivative agreements would not require us to
+repurchase the obligations in cases where the agreements permit such
+termination.
+
+In the first quarter 2001, we recorded mark-to-market gains of $39 million on
+foreign currency-denominated assets and liabilities which became unhedged
+following the repurchase of the derivative contracts described above. Due to
+the inherent volatility in the foreign currency and interest rate markets, we
+are unable to predict the amount of any such mark-to-market gains or losses in
+future periods.
+
+In the third quarter 2000, Xerox Corporation securitized certain accounts
+receivable in the United States, generating gross proceeds of $315 million.
+This revolving facility was accounted for as a sale of receivables, and the
+related amounts were removed from the balance sheet. As a result of the debt
+downgrade in December 2000, Xerox Corporation renegotiated this $315 million
+facility, which might otherwise have been required to be runoff, reducing the
+facility size by $25 million to $290 million.  The facility size will remain at
+$290 million unless and until our debt is downgraded to or below BB by S&P and
+Ba2 by Moody's, at which time we would seek to renegotiate the terms of the
+facility.
+
+As of December 31, 2000, 0.8 million equity put options were outstanding, at a
+strike price of approximately $41 per share. In January 2001, we paid $28
+million to settle these put options, which we funded by issuing 5.9 million
+unregistered common shares.
+
+On May 10, 2001, a European affiliate of Xerox Corporation convened a meeting
+of holders of its GBP 125 million 8-3/4 percent Guaranteed Bonds, issued in
+1993 and maturing in 2003 (the "Bonds"), which are guaranteed by Xerox Limited,
+in order to consider a proposal to repay the Bonds early at par plus accrued
+interest. Repaying the Bonds early would reduce outstanding indebtedness and
+interest costs, and would eliminate certain restrictive covenants in the Bonds
+and related documents, thereby providing additional flexibility to Xerox and
+its subsidiaries and affiliates in connection with their cash management
+systems and practices. At the May 10 meeting, the Bondholders rejected the
+proposal to repay the Bonds early.  Therefore, the Bonds remain outstanding.
+With respect to the Bonds, we are maintaining in trust a cash position of $194
+million, which represents the par value plus one year's interest on the Bonds.
+We can withdraw this cash upon 21 days' written notice to the trustee.
+
+Risk Management
+
+We are typical of multinational corporations because we are exposed to market
+risk from changes in foreign currency exchange rates and interest rates that
+could affect our results of operations and financial condition.
+
+We have historically entered into certain derivative contracts, including
+interest rate swap agreements, forward exchange contracts and foreign currency
+swap agreements, to manage interest rate and foreign currency exposures. These
+instruments are held solely to hedge economic exposures; we do not enter into
+derivative instrument transactions for trading purposes, and we employ long-
+standing policies prescribing that derivative instruments are only to be used
+to achieve a set of very limited objectives. As described above, our ability to
+currently enter into new derivative contracts is severely constrained.
+Therefore, while the following paragraphs describe our overall risk management
+strategy, our ability to employ that strategy effectively has been severely
+limited.  Any future downgrades of our debt could further limit our ability to
+execute this risk management strategy effectively.
+
+Currency derivatives are primarily arranged in conjunction with underlying
+transactions that give rise to foreign currency-denominated payables and
+receivables. For example, we would purchase an option to buy foreign currency
+to settle the importation of goods from foreign suppliers denominated in that
+same currency, or a forward exchange contract to fix the dollar value of a
+foreign currency-denominated loan.
+
+Our primary foreign currency market exposures include the Japanese Yen, Euro,
+Brazilian Real, British Pound Sterling and Canadian Dollar. In order to manage
+the risk of foreign currency exchange rate fluctuations, we hedge a significant
+portion of all cross-border cash transactions denominated in a currency other
+than the functional currency applicable to each of our legal entities. From
+time to time (when cost-effective) foreign-currency debt and foreign-currency
+derivatives are used to hedge international equity investments. Consistent with
+the nature of economic hedges of such foreign currency exchange contracts,
+associated unrealized gains or losses would be offset by corresponding changes
+in the value of the underlying asset or liability being hedged.
+
+Virtually all customer-financing assets earn fixed rates of interest.
+Therefore, we have historically sought to "lock in" an interest rate spread by
+arranging fixed-rate liabilities with similar maturities as the underlying
+assets, and we have funded the assets with liabilities in the same currency.
+We refer to the effect of these conservative practices as "match funding"
+customer financing assets. This practice effectively eliminates the risk of a
+major decline in interest margins during a period of rising interest rates.
+Conversely, this practice effectively eliminates the opportunity to materially
+increase margins when interest rates are declining.
+
+Pay-fixed-rate/receive-variable-rate interest rate swaps are often used in
+place of more expensive fixed-rate debt. Additionally, pay-variable-
+rate/receive-fixed-rate interest rate swaps are used from time to time to
+transform longer-term fixed-rate debt into variable-rate obligations. The
+transactions performed within each of these categories enable more cost-
+effective management of interest rate exposures. The potential risk attendant
+to this strategy is the non-performance of the swap counterparty. We address
+this risk by arranging swaps with a diverse group of strong-credit
+counterparties, regularly monitoring their credit ratings and determining the
+replacement cost, if any, of existing transactions.
+
+Many of the financial instruments we use are sensitive to changes in interest
+rates. Hypothetically, interest rate changes result in gains or losses related
+to the market value of our term debt and interest rate swaps due to differences
+between current market interest rates and the stated interest rates within the
+instrument.
+
+Our currency and interest rate hedging are typically unaffected by changes in
+market conditions as forward contracts, options and swaps are normally held to
+maturity consistent with our objective to lock in currency rates and interest
+rate spreads on the underlying transactions.
+
+As described above, the downgrades of our debt during 2000 significantly
+reduced our access to capital markets.  Furthermore, the specific downgrade of
+our debt on December 1, 2000 triggered the repurchase of a number of derivative
+contracts which were in place at that time, and further downgrades could
+require us to repurchase additional outstanding contracts.  Therefore, our
+ability to continue to effectively manage the risks associated with interest
+rate and foreign currency fluctuations, including our ability to continue
+effectively employing our match funding strategy, is severely constrained, and
+we anticipate increased volatility in our results of operations due to market
+changes in interest rates and foreign currency rates.
+
+Item 3. Quantitative and Qualitative Disclosure about Market Risk
+
+The information set forth under the caption "Risk Management" on pages 33-34
+of this Quarterly Report on Form 10-Q is hereby incorporated by reference in
+answer to this Item.
+
+
+
+
+
+PART II - OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+The information set forth under Note 12 contained in the "Notes to Consolidated
+Financial Statements" on pages 17-20 of this Quarterly Report on Form 10-Q is
+incorporated by reference in answer to this item.
+
+Item 2.  Changes in Securities
+
+During the quarter ended March 31, 2001, Registrant issued the following
+securities in transactions which were not registered under the Securities Act
+of 1933, as amended (the Act):
+
+(a)  Securities Sold:  on January 1, 2001, Registrant issued
+     16,889 shares of Common stock, par value $1 per share.
+
+(b)  No underwriters participated.  The shares were issued to
+     each of the non-employee Directors of Registrant: B.R.
+     Inman, A.A.Johnson, V.E. Jordan, Jr., Y. Kobayashi,
+     H. Kopper, R.S. Larsen, G.J. Mitchell, N.J. Nicholas, Jr.,
+     J.E. Pepper, P. F. Russo, M.R. Seger and T.C.Theobald.
+
+(c)   The shares were issued at a deemed purchase price of
+     $5.99 per share (aggregate price $101,125), based upon the
+     market value on the date of issuance, in payment of the
+     quarterly Directors' fees pursuant to Registrant's
+     Restricted Stock Plan for Directors.
+
+(d)  Exemption from registration under the Act was claimed based
+     upon Section 4(2) as a sale by an issuer not involving a
+     public offering.
+
+
+(b)  In addition, during the quarter ended March 31, 2001, Registrant issued an
+aggregate of 15,470,938 shares of Common Stock in the following transactions,
+all of which were not registered under the Act by reason of the exemption from
+registration under the Act provided by Section 3(a)(9) of the Act:
+
+<TABLE>
+<CAPTION>
+
+<S>                     <C>         <C>        <C>         <C>        <C>
+Date issued      ...    March 5     March 6    March 13    March 21    March 21    March 26
+
+Aggregate amount
+   of consider-
+   ation received
+   by Registrant ...$28,250,000 $25,000,000 $25,140,000 $12,000,000 $16,709,500 $15,000,000
+
+Aggregate number
+   of shares
+   of Common
+   Stock
+   issued by
+   Registrant    ...  3,561,250   3,175,000   2,790,540   1,653,195   2,266,285   2,024,668
+
+Aggregate value
+   of Common
+   Stock
+   delivered by
+   Registrant    ...$23,005,675 $18,256,250 $19,617,496  $9,307,500 $12,569,500 $11,662,500
+
+Names of the
+   principal
+   underwriters  ...       None        None        None        None        None        None
+</TABLE>
+
+     The "Aggregate amount of consideration received by Registrant" in Item
+2(b) above represents the aggregate principal amount (or the aggregate accreted
+value, in the case of original issue discount securities) of the outstanding
+publicly-issued debt securities of Registrant which the holders of such debt
+securities exchanged for the number of shares of Common Stock specified in
+"Aggregate number of shares of Common Stock issued by Registrant" in Item 2(b)
+above.
+
+     The "Aggregate value of Common Stock delivered by Registrant" in Item 2(b)
+above represents the multiple of the "Aggregate number of shares of Common
+Stock issued by Registrant", times either a fixed price per share of Common
+Stock or the average of the closing price, or the volume weighted average
+price, per share of Common Stock on the New York Stock Exchange over a certain
+number of days.
+
+     In each of the transactions described in Item 2(b) above, Registrant
+issued shares of Common Stock pursuant to the exemption from registration under
+the Act provided by Section 3(a)(9) of the Act.  Registrant's reliance upon the
+Section 3(a)(9) exemption from registration is premised upon the facts that the
+shares of Common Stock were issued by Registrant to the then holders of
+outstanding publicly-issued debt securities of Registrant solely in exchange
+for such debt securities, that each of the exchanges was effected pursuant to
+an unsolicited offer from such holder of debt securities, and that no
+commission or remuneration was paid or given directly or indirectly in
+connection with any such exchange.
+
+
+Item 5.  Other Information
+
+None.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+(a)  Exhibit 3(a)(1) Restated Certificate of Incorporation of
+     Registrant filed by the Department of State of the State of
+     New York on October 29, 1996.  Incorporated by reference to
+     Exhibit 3(a)(1) to Registrant's Quarterly Report on Form
+     10-Q for the Quarter Ended September 30, 1996.
+
+     Exhibit 3 (b) By-Laws of Registrant, as amended through
+     April 6, 1999. Incorporated by reference to Exhibit 3 (b)
+     to Registrant's Quarterly Report on Form 10-Q for the
+     quarter ended March 31, 1999.
+
+     Exhibit 11  Computation of Net Income (Loss) per Common
+     Share.
+
+     Exhibit 12  Computation of Ratio of Earnings to Fixed
+     Charges.
+
+(b)  Current reports on Form 8-K dated January 9, 2001, January 10, 2001,
+February 9, 2001, February 15, 2001, March 6, 2001, and March 30, 2001
+reporting Item 5 "Other Events" were filed during the quarter for which this
+Quarterly Report is filed.
+
+
+
+                           SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+
+
+                                         XEROX CORPORATION
+                                           (Registrant)
+
+
+
+                                      /s/ Gregory B. Tayler
+                                   _____________________________
+Date: July 12, 2001                     By  Gregory B. Tayler
+                                   Vice President and Controller
+                                  (Principal Accounting Officer)
+
+</TEXT>
+</DOCUMENT>

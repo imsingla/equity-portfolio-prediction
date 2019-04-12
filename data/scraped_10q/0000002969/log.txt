@@ -1,0 +1,82 @@
+Scraping CIK: 0000002969
+Successfully reached browse base UrL
+Getting all documents for this CIK
+Got acc no. 0000002969-19-000014
+Got acc no. 0000002969-18-000034
+Got acc no. 0000002969-18-000026
+Got acc no. 0000002969-18-000014
+The file for date: 2017-08-01 exists, acc no.: 0000002969-17-000031
+The file for date: 2017-04-27 exists, acc no.: 0000002969-17-000019
+The file for date: 2017-01-27 exists, acc no.: 0000002969-17-000010
+The file for date: 2016-07-29 exists, acc no.: 0001193125-16-662727
+The file for date: 2016-04-28 exists, acc no.: 0001193125-16-562956
+The file for date: 2016-01-29 exists, acc no.: 0001193125-16-443263
+The file for date: 2015-07-30 exists, acc no.: 0001193125-15-270231
+The file for date: 2015-04-30 exists, acc no.: 0001193125-15-160160
+The file for date: 2015-01-30 exists, acc no.: 0001193125-15-026713
+The file for date: 2014-07-24 exists, acc no.: 0001193125-14-278750
+The file for date: 2014-04-24 exists, acc no.: 0001193125-14-156279
+The file for date: 2014-01-29 exists, acc no.: 0001193125-14-025630
+The file for date: 2013-07-24 exists, acc no.: 0001193125-13-300634
+The file for date: 2013-04-25 exists, acc no.: 0001193125-13-172463
+The file for date: 2013-01-25 exists, acc no.: 0001193125-13-023428
+The file for date: 2012-07-27 exists, acc no.: 0001193125-12-318283
+The file for date: 2012-04-27 exists, acc no.: 0001193125-12-188384
+The file for date: 2012-01-27 exists, acc no.: 0001193125-12-026842
+The file for date: 2011-07-27 exists, acc no.: 0001193125-11-198902
+The file for date: 2011-04-26 exists, acc no.: 0001193125-11-109451
+The file for date: 2011-01-26 exists, acc no.: 0001193125-11-014122
+The file for date: 2010-07-26 exists, acc no.: 0001193125-10-165951
+The file for date: 2010-04-26 exists, acc no.: 0000950123-10-037984
+The file for date: 2010-01-26 exists, acc no.: 0000950123-10-005134
+The file for date: 2009-07-24 exists, acc no.: 0000950123-09-025125
+The file for date: 2009-04-24 exists, acc no.: 0000950123-09-007169
+The file for date: 2009-01-30 exists, acc no.: 0000950123-09-001645
+The file for date: 2008-07-25 exists, acc no.: 0000950123-08-008306
+The file for date: 2008-04-25 exists, acc no.: 0000950123-08-004597
+The file for date: 2008-01-25 exists, acc no.: 0000950123-08-000763
+Some files failed to scrape
+34!=30
+==================================================
+Scraping CIK: 0000002969
+Successfully reached browse base UrL
+Getting all documents for this CIK
+Got acc no. 0000002969-19-000014
+Got 10Q for acc no. 0000002969-19-000014
+Got acc no. 0000002969-18-000034
+Got 10Q for acc no. 0000002969-18-000034
+Got acc no. 0000002969-18-000026
+Got 10Q for acc no. 0000002969-18-000026
+Got acc no. 0000002969-18-000014
+Got 10Q for acc no. 0000002969-18-000014
+The file for date: 2017-08-01 exists, acc no.: 0000002969-17-000031
+The file for date: 2017-04-27 exists, acc no.: 0000002969-17-000019
+The file for date: 2017-01-27 exists, acc no.: 0000002969-17-000010
+The file for date: 2016-07-29 exists, acc no.: 0001193125-16-662727
+The file for date: 2016-04-28 exists, acc no.: 0001193125-16-562956
+The file for date: 2016-01-29 exists, acc no.: 0001193125-16-443263
+The file for date: 2015-07-30 exists, acc no.: 0001193125-15-270231
+The file for date: 2015-04-30 exists, acc no.: 0001193125-15-160160
+The file for date: 2015-01-30 exists, acc no.: 0001193125-15-026713
+The file for date: 2014-07-24 exists, acc no.: 0001193125-14-278750
+The file for date: 2014-04-24 exists, acc no.: 0001193125-14-156279
+The file for date: 2014-01-29 exists, acc no.: 0001193125-14-025630
+The file for date: 2013-07-24 exists, acc no.: 0001193125-13-300634
+The file for date: 2013-04-25 exists, acc no.: 0001193125-13-172463
+The file for date: 2013-01-25 exists, acc no.: 0001193125-13-023428
+The file for date: 2012-07-27 exists, acc no.: 0001193125-12-318283
+The file for date: 2012-04-27 exists, acc no.: 0001193125-12-188384
+The file for date: 2012-01-27 exists, acc no.: 0001193125-12-026842
+The file for date: 2011-07-27 exists, acc no.: 0001193125-11-198902
+The file for date: 2011-04-26 exists, acc no.: 0001193125-11-109451
+The file for date: 2011-01-26 exists, acc no.: 0001193125-11-014122
+The file for date: 2010-07-26 exists, acc no.: 0001193125-10-165951
+The file for date: 2010-04-26 exists, acc no.: 0000950123-10-037984
+The file for date: 2010-01-26 exists, acc no.: 0000950123-10-005134
+The file for date: 2009-07-24 exists, acc no.: 0000950123-09-025125
+The file for date: 2009-04-24 exists, acc no.: 0000950123-09-007169
+The file for date: 2009-01-30 exists, acc no.: 0000950123-09-001645
+The file for date: 2008-07-25 exists, acc no.: 0000950123-08-008306
+The file for date: 2008-04-25 exists, acc no.: 0000950123-08-004597
+The file for date: 2008-01-25 exists, acc no.: 0000950123-08-000763
+==================================================

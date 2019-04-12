@@ -1,0 +1,2886 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>tmoq302.txt
+<TEXT>
+                                  UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                              Washington, DC 20549
+              ----------------------------------------------------
+
+                                    FORM 10-Q
+
+(mark one)
+[ X ] Quarterly Report Pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934 for the Quarter Ended September 28, 2002
+
+[   ] Transition Report Pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934
+
+                          Commission File Number 1-8002
+
+                           THERMO ELECTRON CORPORATION
+             (Exact name of Registrant as specified in its charter)
+
+Delaware                                                              04-2209186
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+81 Wyman Street, P.O. Box 9046
+Waltham, Massachusetts                                                02454-9046
+(Address of principal executive offices)                              (Zip Code)
+
+       Registrant's telephone number, including area code: (781) 622-1000
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months and (2) has been subject to such filing requirements for
+the past 90 days. Yes [ X ] No [  ]
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+Common Stock, as of the latest practicable date.
+
+                 Class                     Outstanding at October 25, 2002
+     -----------------------------         -------------------------------
+     Common Stock, $1.00 par value                   163,518,507
+
+
+
+
+<PAGE>
+
+PART I - Financial Information
+
+Item 1 - Financial Statements
+
+                           THERMO ELECTRON CORPORATION
+
+                           Consolidated Balance Sheet
+                                   (Unaudited)
+
+                                     Assets
+<TABLE>
+<CAPTION>
+<S>                                                                                                         <C>              <C>
+
+                                                                                                  September 28,     December 29,
+(In thousands)                                                                                             2002             2001
+--------------------------------------------------------------------------------------------------------------------------------
+
+Current Assets:
+ Cash and cash equivalents                                                                           $  233,604       $  297,557
+ Short-term available-for-sale investments, at quoted market value (amortized
+    cost of $564,213 and $697,757; Notes 4, 11, and 14)                                                 622,653          744,321
+ Accounts receivable, less allowances of $26,123 and $26,525                                            413,726          410,960
+ Unbilled contract costs and fees                                                                        16,595           24,071
+ Inventories:
+    Raw materials and supplies                                                                          151,540          149,817
+    Work in process                                                                                      55,025           56,417
+    Finished goods (includes $16,293 and $14,918 at customer locations)                                 146,853          130,807
+ Deferred tax asset                                                                                      90,106           82,766
+ Other current assets                                                                                    53,580           68,494
+                                                                                                     ----------       ----------
+
+                                                                                                      1,783,682        1,965,210
+                                                                                                     ----------       ----------
+
+Property, Plant, and Equipment, at Cost                                                                 499,566          482,386
+ Less:  Accumulated depreciation and amortization                                                       227,917          211,674
+                                                                                                     ----------       ----------
+
+                                                                                                        271,649          270,712
+                                                                                                     ----------       ----------
+
+Long-term Available-for-sale Investments, at Quoted Market Value (amortized cost
+ of $5,729)                                                                                                   -            9,360
+                                                                                                     ----------       ----------
+
+Other Assets (Notes 9 and 10)                                                                           201,556          231,395
+                                                                                                     ----------       ----------
+
+Goodwill (Notes 2, 8, and 12)                                                                         1,416,979        1,348,393
+                                                                                                     ----------       ----------
+
+                                                                                                     $3,673,866       $3,825,070
+                                                                                                     ==========       ==========
+
+
+<
+                                       2
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+                     Consolidated Balance Sheet (continued)
+                                   (Unaudited)
+
+                    Liabilities and Shareholders' Investment
+
+                                                                                                  September 28,     December 29,
+(In thousands except share amounts)                                                                        2002             2001
+--------------------------------------------------------------------------------------------------------------------------------
+
+Current Liabilities:
+ Short-term obligations and current maturities of long-term obligations
+    (Notes 5, 11, and 17)                                                                            $  513,975       $  528,988
+ Accounts payable                                                                                       101,565          111,950
+ Accrued payroll and employee benefits                                                                   84,260           92,262
+ Accrued income taxes                                                                                    77,492           30,797
+ Deferred revenue                                                                                        57,675           48,166
+ Accrued restructuring costs (Note 13)                                                                   44,161           60,685
+ Other accrued expenses (Note 2)                                                                        178,519          203,775
+ Net liabilities of discontinued operations (Note 14)                                                    78,146           65,416
+                                                                                                     ----------       ----------
+
+                                                                                                      1,135,793        1,142,039
+                                                                                                     ----------       ----------
+
+Long-term Deferred Income Taxes and Other Deferred Items                                                 45,722           40,486
+                                                                                                     ----------       ----------
+
+Long-term Obligations (Note 17):
+ Senior convertible obligations                                                                               -          145,414
+ Senior notes (Note 10)                                                                                 142,030          128,725
+ Subordinated convertible obligations                                                                   381,079          445,377
+ Other                                                                                                    6,272            7,986
+                                                                                                     ----------       ----------
+
+                                                                                                        529,381          727,502
+                                                                                                     ----------       ----------
+
+Minority Interest (Note 12)                                                                                   -            6,901
+                                                                                                     ----------       ----------
+
+Shareholders' Investment:
+ Preferred stock, $100 par value, 50,000 shares authorized; none issued
+ Common stock, $1 par value, 350,000,000 shares authorized; 179,229,410 and
+    199,816,264 shares issued (Note 16)                                                                 179,229          199,816
+ Capital in excess of par value                                                                       1,360,919        1,758,567
+ Retained earnings                                                                                      732,259          509,681
+ Treasury stock at cost, 15,094,603 and 23,458,555 shares (Note 16)                                    (273,998)        (457,475)
+ Deferred compensation                                                                                   (1,566)          (3,157)
+ Accumulated other comprehensive items (Notes 7 and 10)                                                 (33,873)         (99,290)
+                                                                                                     ----------       ----------
+
+                                                                                                      1,962,970        1,908,142
+                                                                                                     ----------       ----------
+
+                                                                                                     $3,673,866       $3,825,070
+                                                                                                     ==========       ==========
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+<
+                                       3
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                        Consolidated Statement of Income
+                                   (Unaudited)
+
+                                                                                                      Three Months Ended
+                                                                                               --------------------------------
+                                                                                               September 28,      September 29,
+(In thousands except per share amounts)                                                                 2002               2001
+-------------------------------------------------------------------------------------------------------------------------------
+
+Revenues                                                                                            $517,171           $512,941
+                                                                                                    --------           --------
+
+Costs and Operating Expenses:
+ Cost of revenues (Note 13)                                                                          288,514            284,455
+ Selling, general, and administrative expenses                                                       139,326            148,318
+ Research and development expenses                                                                    37,553             41,962
+ Restructuring and other unusual costs, net (Note 13)                                                  6,907              9,571
+                                                                                                    --------           --------
+
+                                                                                                     472,300            484,306
+                                                                                                    --------           --------
+
+Operating Income                                                                                      44,871             28,635
+Other Income, Net (Notes 4 and 10)                                                                    11,738             11,605
+                                                                                                    --------           --------
+
+Income Before Provision for Income Taxes, Minority Interest, and Extraordinary Item                   56,609             40,240
+Provision for Income Taxes                                                                           (17,626)           (15,090)
+Minority Interest Income                                                                                   -                527
+                                                                                                    --------           --------
+
+Income Before Extraordinary Item                                                                      38,983             25,677
+Extraordinary Item (net of income tax provision of $18 and $362; Notes 5 and 8)                           34                602
+                                                                                                    --------           --------
+
+Net Income                                                                                          $ 39,017           $ 26,279
+                                                                                                    ========           ========
+
+Earnings per Share Before Extraordinary Item (Note 6):
+ Basic                                                                                              $    .24           $    .14
+                                                                                                    ========           ========
+
+ Diluted                                                                                            $    .23           $    .14
+                                                                                                    ========           ========
+
+Earnings per Share (Note 6):
+ Basic                                                                                              $    .24           $    .15
+                                                                                                    ========           ========
+
+ Diluted                                                                                            $    .23           $    .14
+                                                                                                    ========           ========
+
+Weighted Average Shares (Note 6):
+ Basic                                                                                               165,701            180,280
+                                                                                                    ========           ========
+
+ Diluted                                                                                             176,342            182,823
+                                                                                                    ========           ========
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+<
+                                       4
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                        Consolidated Statement of Income
+                                   (Unaudited)
+
+                                                                                                       Nine Months Ended
+                                                                                               --------------------------------
+                                                                                               September 28,      September 29,
+(In thousands except per share amounts)                                                                 2002               2001
+-------------------------------------------------------------------------------------------------------------------------------
+
+Revenues                                                                                          $1,517,610         $1,628,502
+                                                                                                  ----------         ----------
+
+Costs and Operating Expenses:
+ Cost of revenues (Note 13)                                                                          835,509            906,700
+ Selling, general, and administrative expenses                                                       417,610            463,983
+ Research and development expenses                                                                   116,933            131,033
+ Restructuring and other unusual costs, net (Note 13)                                                 30,777             44,146
+                                                                                                  ----------         ----------
+
+                                                                                                   1,400,829          1,545,862
+                                                                                                  ----------         ----------
+
+Operating Income                                                                                     116,781             82,640
+Other Income, Net (Notes 4 and 10)                                                                   111,035              7,711
+                                                                                                  ----------         ----------
+
+Income from Continuing Operations Before Provision for Income Taxes, Minority
+ Interest, Extraordinary Item, and Cumulative Effect of Change in Accounting
+ Principle                                                                                           227,816             90,351
+Provision for Income Taxes                                                                           (75,293)           (34,758)
+Minority Interest Income                                                                                 331              1,326
+                                                                                                  ----------         ----------
+
+Income from Continuing Operations Before Extraordinary Item and Cumulative Effect of
+ Change in Accounting Principle                                                                      152,854             56,919
+Gain (Loss) on Disposal of Discontinued Operations, Net (includes tax benefit of
+ $13,408 in 2002; net of tax benefit of $22,741 in 2001; Note 14)                                     70,370            (50,440)
+                                                                                                  ----------         ----------
+
+Income Before Extraordinary Item and Cumulative Effect of Change in Accounting
+ Principle                                                                                           223,224              6,479
+Extraordinary Item (net of income tax benefit of $348 and income tax provision
+ of $362; Notes 5 and 8)                                                                                (646)               602
+                                                                                                  ----------         ----------
+
+Income Before Cumulative Effect of Change in Accounting Principle                                    222,578              7,081
+Cumulative Effect of Change in Accounting Principle (net of income tax benefit
+ and minority interest of $663)                                                                            -               (994)
+                                                                                                  ----------         ----------
+
+Net Income                                                                                        $  222,578         $    6,087
+                                                                                                  ==========         ==========
+
+Earnings per Share from Continuing Operations Before Extraordinary Item and
+ Cumulative Effect of Change in Accounting Principle (Note 6):
+    Basic                                                                                         $      .90         $      .31
+                                                                                                  ==========         ==========
+
+    Diluted                                                                                       $      .86         $      .31
+                                                                                                  ==========         ==========
+
+Earnings per Share (Note 6):
+    Basic                                                                                         $     1.31         $      .03
+                                                                                                  ==========         ==========
+
+    Diluted                                                                                       $     1.23         $      .03
+                                                                                                  ==========         ==========
+
+Weighted Average Shares (Note 6):
+    Basic                                                                                            170,358            181,588
+                                                                                                  ==========         ==========
+
+    Diluted                                                                                          190,399            185,019
+                                                                                                  ==========         ==========
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+<
+                                       5
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                      Consolidated Statement of Cash Flows
+                                   (Unaudited)
+
+                                                                                                       Nine Months Ended
+                                                                                               --------------------------------
+                                                                                               September 28,      September 29,
+(In thousands)                                                                                          2002               2001
+-------------------------------------------------------------------------------------------------------------------------------
+
+Operating Activities:
+ Net income                                                                                        $ 222,578          $   6,087
+ (Gain) loss on disposal of discontinued operations, net (Note 14)                                   (70,370)            50,440
+                                                                                                   ---------          ---------
+
+ Income from continuing operations                                                                   152,208             56,527
+
+ Adjustments to reconcile income from continuing operations to net cash provided
+    by (used in) operating activities:
+      Depreciation and amortization (Note 8)                                                          42,199             74,080
+      Noncash restructuring and other unusual costs, net (Note 13)                                    10,070             21,698
+      Provision for losses on accounts receivable                                                      2,015              3,028
+      Minority interest income                                                                          (331)            (1,326)
+      Equity in earnings of unconsolidated subsidiaries (Note 4)                                      (2,169)            (2,911)
+      Cumulative effect of change in accounting principle, net of income tax
+        benefit and minority interest                                                                      -                994
+      Change in deferred income taxes                                                                 (6,183)            (7,235)
+      (Gain) loss on sale of businesses                                                               (8,544)            11,443
+      Gain on investments, net (Note 4)                                                             (103,381)            (8,518)
+      Extraordinary item, net of income taxes (Note 5)                                                   646               (602)
+      Other noncash items, net                                                                         4,611              6,496
+      Other unusual income                                                                              (782)              (511)
+      Changes in current accounts, excluding the effects of acquisitions and
+        dispositions:
+          Accounts receivable                                                                         15,612             (8,728)
+          Inventories                                                                                  4,962            (27,321)
+          Other current assets                                                                        (4,900)           (19,873)
+          Accounts payable                                                                           (15,465)           (17,007)
+          Other current liabilities                                                                  (38,251)            24,458
+                                                                                                   ---------          ---------
+
+            Net cash provided by continuing operations                                                52,317            104,692
+            Net cash provided by (used in) discontinued operations                                   (53,594)            21,422
+                                                                                                   ---------          ---------
+
+            Net cash provided by (used in) operating activities                                       (1,277)           126,114
+                                                                                                   ---------          ---------
+
+Investing Activities:
+ Purchases of available-for-sale investments                                                               -           (616,061)
+ Proceeds from sale of available-for-sale investments (Note 4)                                        96,247             51,306
+ Proceeds from maturities of available-for-sale investments                                          151,812            217,618
+ Proceeds from sale of other investments (Note 4)                                                     65,251                  -
+ Purchases of property, plant, and equipment                                                         (36,183)           (66,002)
+ Proceeds from sale of property, plant, and equipment                                                  8,779             10,976
+ Acquisition of minority interest of subsidiary (Note 12)                                            (22,076)                 -
+ Acquisitions, net of cash acquired (Note 2)                                                         (78,259)           (14,129)
+ Collection of note receivables                                                                       73,980                  -
+
+
+<
+                                       6
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                Consolidated Statement of Cash Flows (continued)
+                                   (Unaudited)
+
+                                                                                                       Nine Months Ended
+                                                                                               --------------------------------
+                                                                                               September 28,      September 29,
+(In thousands)                                                                                          2002               2001
+-------------------------------------------------------------------------------------------------------------------------------
+
+Investing Activities (continued):
+ Proceeds from sale of businesses, net of cash divested (Note 2)                                   $  24,405          $  46,767
+ Advance to affiliates                                                                                     -            (50,199)
+ Increase in other assets                                                                             (7,707)            (4,312)
+ Other                                                                                                 2,792              7,974
+                                                                                                   ---------          ---------
+
+            Net cash provided by (used in) continuing operations                                     279,041           (416,062)
+            Net cash provided by discontinued operations                                             106,031            477,368
+                                                                                                   ---------          ---------
+
+            Net cash provided by investing activities                                                385,072             61,306
+                                                                                                   ---------          ---------
+
+Financing Activities:
+ Redemption and repayment of long-term obligations (Note 5)                                         (462,101)           (40,186)
+ Net proceeds from issuance of Company and subsidiary common stock                                    15,032             46,427
+ Purchases of Company common stock and subordinated convertible debentures (Note 5)                 (292,688)          (307,530)
+ Increase in short-term notes payable (Note 11)                                                      276,479             18,308
+ Other                                                                                                 2,967             (2,066)
+                                                                                                   ---------          ---------
+
+            Net cash used in continuing operations                                                  (460,311)          (285,047)
+            Net cash provided by (used in) discontinued operations                                       371           (191,073)
+                                                                                                   ---------          ---------
+
+            Net cash used in financing activities                                                   (459,940)          (476,120)
+                                                                                                   ---------          ---------
+
+Exchange Rate Effect on Cash of Continuing Operations                                                  8,650              1,331
+Exchange Rate Effect on Cash of Discontinued Operations                                                  328              4,953
+                                                                                                   ---------          ---------
+
+Decrease in Cash and Cash Equivalents                                                                (67,167)          (282,416)
+Cash and Cash Equivalents at Beginning of Period                                                     305,200            636,252
+                                                                                                   ---------          ---------
+
+                                                                                                     238,033            353,836
+
+Cash and Cash Equivalents of Discontinued Operations at End of Period                                 (4,429)           (13,648)
+                                                                                                   ---------          ---------
+
+Cash and Cash Equivalents at End of Period                                                         $ 233,604          $ 340,188
+                                                                                                   =========          =========
+
+Noncash Investing Activities:
+ Fair value of assets of acquired businesses                                                       $  94,668          $  18,161
+ Cash paid for acquired businesses                                                                   (78,401)           (14,834)
+                                                                                                   ---------          ---------
+
+    Liabilities assumed of acquired businesses                                                     $  16,267          $   3,327
+                                                                                                   =========          =========
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+<
+                                       7
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+1.     General
+
+       The interim consolidated financial statements presented have been
+prepared by Thermo Electron Corporation (the Company or the Registrant), are
+unaudited and, in the opinion of management, reflect all adjustments of a normal
+recurring nature necessary for a fair statement of the financial position at
+September 28, 2002, the results of operations for the three- and nine-month
+periods ended September 28, 2002, and September 29, 2001, and the cash flows for
+the nine-month periods ended September 28, 2002, and September 29, 2001.
+Prior-period amounts have been reclassified to conform to the presentation in
+the current financial statements. Interim results are not necessarily indicative
+of results for a full year.
+
+       The consolidated balance sheet presented as of December 29, 2001, has
+been derived from the audited consolidated financial statements as of that date.
+The consolidated financial statements and notes are presented as permitted by
+Form 10-Q and do not contain all of the information that is included in the
+annual financial statements and notes of the Company. The consolidated financial
+statements and notes included in this report should be read in conjunction with
+the financial statements and notes included in the Company's Annual Report on
+Form 10-K for the fiscal year ended December 29, 2001, filed with the Securities
+and Exchange Commission.
+
+2.     Acquisitions and Dispositions
+
+Acquisitions
+
+       In July 2002, the Measurement and Control segment acquired the
+radiation-monitoring products business (RMP) of Saint-Gobain Corporation. The
+aggregate purchase price was approximately $31 million in cash, net of cash
+acquired. The purchase price exceeded the fair value of the acquired net assets
+and, accordingly, approximately $12 million has been allocated as goodwill. RMP
+is a major supplier of radiation safety, security, and industrial equipment to
+the U.S. market, and the leader in personal radiation monitoring in the United
+Kingdom.
+
+       In April 2002, the Life and Laboratory Sciences segment acquired
+11,265,873 shares (or approximately 97%) of CRS Robotics Corporation (CRS), a
+Toronto Stock Exchange-listed company, for 5.75 Canadian dollars per share
+(approximately $3.68 per share) as a result of the Company's cash tender offer
+to acquire all of the outstanding shares of CRS. In May 2002, the segment
+completed the acquisition of the remaining CRS shares outstanding and
+subsequently renamed the business Thermo CRS. The aggregate purchase price was
+approximately $43 million in cash, net of cash acquired. The purchase price
+exceeded the fair value of the acquired net assets and, accordingly,
+approximately $25 million has been allocated as goodwill. Thermo CRS is a global
+supplier of lab automation robotics, software, and equipment to the
+drug-discovery market. In addition, in May 2002, the Optical Technologies
+segment acquired a product line of microbeam X-ray fluorescence (XRF) metrology
+tools for approximately $4 million in cash.
+
+       Allocation of the purchase price for these acquisitions was based on
+estimates of the fair value of the net assets acquired and is subject to
+adjustment upon finalization of the purchase price allocation. The Company has
+gathered no information that indicates the final purchase price allocation will
+differ materially from the preliminary estimates except that, in the fourth
+quarter of 2002, the Company expects the final purchase price allocation for RMP
+to result in a reallocation between goodwill and other identifiable intangible
+assets following completion of a valuation. The results of operations of the
+acquisitions are included in the Company's consolidated financial statements
+from the respective dates of acquisition. Pro forma results are not presented as
+the acquisitions did not materially affect the Company's results of operations.
+
+<
+                                       8
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+2.     Acquisitions and Dispositions (continued)
+
+       The Company has undertaken restructuring activities at acquired
+businesses. The Company's restructuring activities, which were accounted for in
+accordance with Emerging Issues Task Force Pronouncement (EITF) 95-3,
+"Recognition of Liabilities in Connection with a Purchase Business Combination,"
+primarily have included reductions in staffing levels and the abandonment of
+excess facilities. In connection with these restructuring activities, as part of
+the cost of acquisitions, the Company established reserves, primarily for
+severance and excess facilities. In accordance with EITF 95-3, the Company
+finalizes its restructuring plans no later than one year from the respective
+dates of the acquisitions. Accrued acquisition expenses are included in other
+accrued expenses in the accompanying balance sheet.
+
+       A summary of the changes in accrued acquisition expenses for acquisitions
+completed during 2002 is as follows:
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                                                     <C>              <C>              <C>               <C>
+
+                                                                                 Abandonment
+                                                                                   of Excess
+(In thousands)                                                    Severance       Facilities            Other             Total
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Reserves established                                                $1,619           $  509           $  515            $2,643
+ Payments                                                              (335)               -              (28)             (363)
+ Currency translation                                                    27               50                7                84
+                                                                     ------           ------           ------            ------
+
+Balance at September 28, 2002                                        $1,311           $  559           $  494            $2,364
+                                                                     ======           ======           ======            ======
+
+       The principal accrued acquisition expenses for 2002 acquisitions were for
+severance for approximately 98 employees at the acquired businesses, primarily
+in manufacturing, research and development, and sales and service; closure of a
+Thermo CRS manufacturing facility in Austria, with a lease expiring in 2005,
+that will be consolidated into other existing facilities; and relocation of RMP
+employees from the seller's operations in Ohio and the United Kingdom to the
+Company's facilities. Excluding the lease obligation, the Company expects to pay
+amounts accrued for acquisition expenses through mid-2003.
+
+       A summary of the changes in accrued acquisition expenses for acquisitions
+completed before and during 1999 is as follows:
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                                  <C>               <C>               <C>               <C>               <C>
+
+                                                            1999 Acquisitions
+                                              ----------------------------------------------
+                                                               Abandonment
+                                                                 of Excess                            Pre-1999
+(In thousands)                                 Severance        Facilities             Other      Acquisitions             Total
+--------------------------------------------------------------------------------------------------------------------------------
+
+Balance at December 29, 2001                      $  626            $   10            $  131            $6,216            $6,983
+ Payments                                           (204)              (11)              (74)             (305)             (594)
+ Decrease recorded as a reduction in
+    other intangible assets                         (300)                -                 -                 -              (300)
+ Decrease recorded as a reduction in
+    goodwill                                         (29)                -               (74)                -              (103)
+ Currency translation                                 37                 1                17               493               548
+                                                  ------            ------            ------            ------            ------
+
+Balance at September 28, 2002                     $  130            $    -            $    -            $6,404            $6,534
+                                                  ======            ======            ======            ======            ======
+
+       The remaining accrued acquisition expenses for pre-1999 acquisitions
+represent lease obligations for four abandoned operating facilities in England
+with leases expiring through 2014.
+
+       The principal accrued acquisition expenses for 1999 acquisitions were for
+severance for approximately 175 employees across all functions and for abandoned
+facilities, primarily at Spectra-Physics AB. The amounts captioned as "other"
+primarily represent relocation, contract termination, and other exit costs. The
+Company expects to pay amounts accrued for acquisition expenses primarily
+through 2002. The Company finalized its restructuring plans for Spectra-Physics
+and other 1999 acquisitions in 1999 and 2000.
+
+       The Company did not establish material reserves for restructuring
+businesses acquired in 2000 or 2001.
+
+<
+                                       9
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+2.     Acquisitions and Dispositions (continued)
+
+Dispositions
+
+       In July 2002, the Measurement and Control segment sold its Thermo BLH and
+Thermo Nobel subsidiaries for net proceeds of $17.7 million in cash. These
+businesses are engaged in the production and sale of strain-gauges and were
+deemed noncore businesses and placed for sale in 2001. In the first nine months
+of 2002, the Company also sold several small, noncore businesses and product
+lines for net proceeds of $6.7 million in cash. As a result of all 2002
+dispositions, the Company recorded $8.5 million of net pretax gains, which are
+included in restructuring and other unusual costs, net, in the accompanying
+statement of income.
+
+3.     Business Segment Information
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                                                  <C>                <C>               <C>                <C>
+
+                                                                  Three Months Ended                    Nine Months Ended
+                                                           --------------------------------     --------------------------------
+                                                           September 28,      September 29,     September 28,      September 29,
+(In thousands)                                                      2002               2001              2002               2001
+--------------------------------------------------------------------------------------------------------------------------------
+
+Revenues:
+    Life and Laboratory Sciences                              $  282,239         $  263,415        $  825,334         $  808,938
+    Measurement and Control                                      150,127            158,070           443,526            520,816
+    Optical Technologies                                          87,372             93,469           255,919            307,098
+    Intersegment (a)                                              (2,567)            (2,013)           (7,169)            (8,350)
+                                                              ----------         ----------        ----------         ----------
+
+                                                              $  517,171         $  512,941        $1,517,610         $1,628,502
+                                                              ==========         ==========        ==========         ==========
+
+Income from Continuing Operations Before
+ Provision for Income Taxes, Minority Interest,
+ Extraordinary Item, and Cumulative Effect of
+ Change in Accounting Principle:
+    Life and Laboratory Sciences (b)                          $   43,859         $   32,853        $  129,812         $   91,751
+    Measurement and Control (c)                                   10,539              8,950            39,417             22,124
+    Optical Technologies (d)                                       1,674             (1,704)          (17,793)             5,257
+                                                              ----------         ----------        ----------         ----------
+
+      Total Segment Operating Income (e)                          56,072             40,099           151,436            119,132
+    Corporate/Other (f)                                              537                141            76,380            (28,781)
+                                                              ----------         ----------        ----------         ----------
+
+                                                              $   56,609         $   40,240        $  227,816         $   90,351
+                                                              ==========         ==========        ==========         ==========
+
+Depreciation:
+    Life and Laboratory Sciences                              $    4,992         $    5,342        $   15,454         $   15,761
+    Measurement and Control                                        2,489              3,700             7,795              9,927
+    Optical Technologies                                           3,404              4,058            11,288             11,430
+    Corporate                                                        730                602             2,154              1,497
+                                                              ----------         ----------        ----------         ----------
+
+                                                              $   11,615         $   13,702        $   36,691         $   38,615
+                                                              ==========         ==========        ==========         ==========
+
+Amortization (Note 8):
+    Life and Laboratory Sciences                              $    1,571         $    6,980        $    3,641         $   20,847
+    Measurement and Control                                          282              3,357               840             10,141
+    Optical Technologies                                             359              1,506             1,027              4,477
+                                                              ----------         ----------        ----------         ----------
+
+                                                              $    2,212         $   11,843        $    5,508         $   35,465
+                                                              ==========         ==========        ==========         ==========
+
+
+<
+                                       10
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+3.     Business Segment Information (continued)
+
+       During the first nine months of 2002, the Company transferred management
+responsibility for several businesses between segments as follows: (1) the
+spectroscopy businesses were moved to the renamed Life and Laboratory Sciences
+segment from the Measurement and Control segment; (2) the temperature-control
+businesses were moved to the Measurement and Control segment from the Optical
+Technologies segment; (3) the electrochemistry products business was moved to
+the Measurement and Control segment from the Life and Laboratory Sciences
+segment; and (4) the Thermo Projects unit was moved from a separate segment
+(previously included as "Other") to the Life and Laboratory Sciences segment.
+Prior-period segment information has been restated to reflect these changes.
+
+(a)  Intersegment sales are accounted for at prices that are representative of
+     transactions with unaffiliated parties.
+(b)  Includes restructuring and other unusual costs, net, of $3.0 million, $6.3
+     million, and $12.9 million in the third quarter of 2002 and first nine
+     months of 2002 and 2001, respectively, and restructuring and other unusual
+     income, net, of $0.2 million in the third quarter of 2001.
+(c)  Includes restructuring and other unusual costs, net, of $5.0 million, $5.9
+     million, $5.9 million, and $26.9 million in the third quarter of 2002 and
+     2001 and first nine months of 2002 and 2001, respectively.
+(d)  Includes restructuring and other unusual costs, net, of $1.6 million, $19.7
+     million, and $10.6 million in the third quarter of 2001 and first nine
+     months of 2002 and 2001, respectively.
+(e)  Segment operating income is operating income excluding costs incurred at
+     the Company's corporate office.
+(f)  Includes corporate general and administrative expenses and other income and
+     expense. Includes corporate restructuring and other unusual costs of $0.6
+     million, $2.2 million, $2.1 million, and $7.1 million in the third quarter
+     of 2002 and 2001 and first nine months of 2002 and 2001, respectively.
+     Other income, net, includes gains on the sale of shares of FLIR Systems,
+     Inc. of $6.6 million and $94.5 million in the third quarter and first nine
+     months of 2002, respectively, and $8.6 million in the third quarter and
+     first nine months of 2001, and includes a charge of $2.0 million for
+     impairment of an available-for-sale investment in the first nine months of
+     2001.
+
+4.     Other Income, Net
+
+       The components of other income, net, in the accompanying statement of
+income are as follows:
+
+                                                                Three Months Ended                     Nine Months Ended
+                                                         --------------------------------       --------------------------------
+                                                         September 28,      September 29,       September 28,      September 29,
+(In thousands)                                                    2002               2001                2002               2001
+--------------------------------------------------------------------------------------------------------------------------------
+
+Interest Income                                               $ 11,210           $ 18,733            $ 38,189           $ 52,183
+Interest Expense (Note 10)                                      (8,864)           (17,755)            (32,559)           (55,731)
+Equity in Earnings of Unconsolidated Subsidiaries                    -              1,651               2,169              2,911
+Gain on Investments, Net                                         9,395              9,325             103,381              8,518
+Other Items, Net                                                    (3)              (349)               (145)              (170)
+                                                              --------           --------            --------           --------
+
+                                                              $ 11,738           $ 11,605            $111,035           $  7,711
+                                                              ========           ========            ========           ========
+
+       The Company sold 194,000 and 2,200,000 shares of FLIR Systems, Inc.
+common stock during the third quarter and first nine months of 2002,
+respectively, and 350,000 shares during the third quarter and first nine months
+of 2001. The Company realized gains of $6.6 million and $94.5 million during the
+third quarter and first nine months of 2002, respectively, and $8.6 million
+during the third quarter and first nine months of 2001. These gains included
+$2.3 million and $25.5 million in the third quarter and first nine months of
+2002, respectively, and $4.5 million in the third quarter and first nine months
+of 2001 from the recovery of amounts written down in prior years. The Company
+
+<
+                                       11
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+4.     Other Income, Net (continued)
+
+historically reported its pro-rata share of FLIR's results on a one-quarter lag.
+In December 2001, following a sale of shares, the Company's ownership of FLIR
+fell below 20%. In the first quarter of 2002, the Company recorded $2.1 million
+of income as its share of FLIR's fourth quarter 2001 earnings through the date
+on which the Company's ownership fell below 20%. Effective March 30, 2002, the
+Company accounts for its investment in FLIR as an available-for-sale security
+and no longer records its share of FLIR's earnings. As an available-for-sale
+security, the investment in FLIR is recorded at quoted market value in current
+assets and unrealized gains or losses are recorded as a part of accumulated
+other comprehensive items in the accompanying 2002 balance sheet.
+
+5.     Redemption and Repurchase of Subordinated Convertible Debentures and
+       Extraordinary Item
+
+       In March 2002, the Company redeemed all of its outstanding 4 1/4% and 4
+5/8% subordinated convertible debentures due 2003 with the objective of reducing
+interest costs. The principal amounts redeemed for the 4 1/4% and 4 5/8%
+debentures were $398.4 million and $57.9 million, respectively. The redemption
+price was 100% of the principal amount of the debentures plus accrued interest.
+During the first nine months of 2002, the Company also repurchased $44.3 million
+principal amount of its subordinated convertible debentures for $43.9 million in
+cash. The redemptions and repurchases resulted in a net extraordinary charge of
+$0.6 million, net of taxes of $0.3 million. The Company redeemed additional
+debentures in October 2002 (Note 17). Effective in 2003, gains or losses
+resulting from the repurchase or redemption of the Company's debentures will be
+reported as other nonoperating income or expense and prior periods will be
+restated to conform to this presentation (Note 8).
+
+6.     Earnings per Share
+
+       Basic and diluted earnings per share were calculated as follows:
+
+                                                                 Three Months Ended                      Nine Months Ended
+                                                          --------------------------------       --------------------------------
+                                                          September 28,      September 29,       September 28,      September 29,
+(In thousands except per share amounts)                            2002               2001                2002               2001
+---------------------------------------------------------------------------------------------------------------------------------
+
+Income from Continuing Operations Before
+ Extraordinary Item and Cumulative Effect of
+ Change in Accounting Principle                                $ 38,983           $ 25,677            $152,854           $ 56,919
+Gain (Loss) on Disposal of Discontinued Operations, Net               -                  -              70,370            (50,440)
+Extraordinary Item                                                   34                602                (646)               602
+Cumulative Effect of Change in Accounting Principle                   -                  -                   -               (994)
+                                                               --------           --------            --------           --------
+
+Net Income for Basic Earnings per Share                          39,017             26,279             222,578              6,087
+Effect of Convertible Debentures                                  1,938                  -              11,832                  -
+                                                               --------           --------            --------           --------
+
+Income Available to Common Shareholders, as
+ Adjusted for Diluted Earnings per Share                       $ 40,955           $ 26,279            $234,410           $  6,087
+                                                               --------           --------            --------           --------
+
+Basic Weighted Average Shares                                   165,701            180,280             170,358            181,588
+
+Effect of:
+ Stock options                                                    1,396              2,098               2,141              2,976
+ Convertible debentures                                           9,245                445              17,900                455
+                                                               --------           --------            --------           --------
+
+Diluted Weighted Average Shares                                 176,342            182,823             190,399            185,019
+                                                               --------           --------            --------           --------
+
+
+<
+                                       12
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+6.     Earnings per Share (continued)
+
+                                                                 Three Months Ended                     Nine Months Ended
+                                                          --------------------------------       --------------------------------
+                                                          September 28,      September 29,       September 28,      September 29,
+(In thousands except per share amounts)                            2002               2001                2002               2001
+---------------------------------------------------------------------------------------------------------------------------------
+
+Basic Earnings per Share:
+ Continuing operations before extraordinary item
+    and cumulative effect of change in accounting
+    principle                                                  $    .24           $    .14            $    .90           $    .31
+ Discontinued operations                                              -                  -                 .41               (.28)
+ Extraordinary item                                                   -                  -                   -                  -
+ Cumulative effect of change in accounting
+    principle                                                         -                  -                   -               (.01)
+                                                               --------           --------            --------           --------
+
+                                                               $    .24           $    .15            $   1.31           $    .03
+                                                               ========           ========            ========           ========
+
+Diluted Earnings per Share:
+ Continuing operations before extraordinary item
+    and cumulative effect of change in accounting
+    principle                                                  $    .23           $    .14            $    .86           $    .31
+ Discontinued operations                                              -                  -                 .37               (.27)
+ Extraordinary item                                                   -                  -                   -                  -
+ Cumulative effect of change in accounting principle                  -                  -                   -               (.01)
+                                                               --------           --------            --------           --------
+
+                                                               $    .23           $    .14            $   1.23           $    .03
+                                                               ========           ========            ========           ========
+
+       Options to purchase 12,111,000 and 6,825,000 shares of common stock for
+the third quarter of 2002 and 2001, respectively, and 10,195,000 and 4,845,000
+shares of common stock for the first nine months of 2002 and 2001, respectively,
+were not included in the computation of diluted earnings per share because the
+options' exercise prices were greater than the average market price for the
+common stock and their effect would have been antidilutive.
+
+       The computation of diluted earnings per share excludes the effect of
+assuming the conversion of the following convertible debentures because the
+effect would be antidilutive: in the third quarter of 2002, the Company's 4 3/8%
+and 4 7/8% subordinated convertible debentures and 4 1/2% senior convertible
+debentures with principal balances, as of September 28, 2002, of $71.9 million,
+$13.3 million, and $121.1 million, respectively, and convertible at $111.83,
+$32.50, and $34.42 per share, respectively; in the first nine months of 2002,
+the Company's 4 3/8% subordinated convertible debentures; and in the third
+quarter and first nine months of 2001, all convertible debentures are excluded
+except the Company's 0% subordinated convertible debentures.
+
+7.     Comprehensive Income
+
+       Comprehensive income combines net income and other comprehensive items.
+Other comprehensive items represents certain amounts that are reported as
+components of shareholders' investment in the accompanying balance sheet,
+including currency-translation adjustments and unrealized net of tax gains and
+losses on available-for-sale investments and hedging instruments (Note 10).
+During the third quarter of 2002 and 2001, the Company had comprehensive income
+of $22.1 million and $66.3 million, respectively. During the first nine months
+of 2002 and 2001, the Company had comprehensive income of $177.3 million and
+$16.0 million, respectively. Comprehensive income in the first nine months of
+2002 excludes the effect of unrealized gains of $111 million that existed at the
+date the Company reclassified equity interests in FLIR and Thoratec Corporation
+to available-for-sale investments (Notes 4 and 14).
+
+<
+                                       13
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+8.     Recent Accounting Pronouncements and Pro Forma Results
+
+       In June 2001, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 142, "Goodwill and Other
+Intangible Assets." The Company adopted the requirements of SFAS No. 142
+effective December 30, 2001. SFAS No. 142 requires companies to cease
+amortization of all goodwill, and also requires companies to annually test
+goodwill for impairment and to perform an initial test in the year of adoption.
+The Company completed this initial test and determined that no impairment of
+goodwill existed at the adoption date. Goodwill amortization for the third
+quarter and first nine months of 2001, was $10.1 million and $30.3 million,
+respectively. Pro forma results for the third quarter and first nine months of
+2001, as if the standard had been adopted at the beginning of 2001, are as
+follows:
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                                                                                         <C>              <C>
+
+                                                                                                          Three             Nine
+                                                                                                         Months           Months
+                                                                                                          Ended            Ended
+                                                                                                  September 29,    September 29,
+(In thousands except per share amounts)                                                                    2001             2001
+--------------------------------------------------------------------------------------------------------------------------------
+
+Income from Continuing Operations Before Extraordinary Item and Cumulative Effect of Change
+ in Accounting Principle:
+    As reported                                                                                         $25,677          $56,919
+    Pro forma                                                                                            35,045           84,601
+
+Basic Earnings per Share from Continuing Operations Before Extraordinary Item
+ and Cumulative Effect of Change in Accounting Principle:
+    As reported                                                                                             .14              .31
+    Pro forma                                                                                               .19              .47
+
+Diluted Earnings per Share from Continuing Operations Before Extraordinary Item
+ and Cumulative Effect of Change in Accounting Principle:
+    As reported                                                                                             .14              .31
+    Pro forma                                                                                               .19              .46
+
+Net Income:
+    As reported                                                                                         $26,279          $ 6,087
+    Pro forma                                                                                            35,647           33,769
+
+Basic Earnings per Share:
+    As reported                                                                                             .15              .03
+    Pro forma                                                                                               .20              .19
+
+Diluted Earnings per Share:
+    As reported                                                                                             .14              .03
+    Pro forma                                                                                               .19              .18
+
+       In October 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-lived Assets." The standard provides guidance on
+measuring impairment of long-lived assets and applying discontinued operations
+accounting upon adoption. The Company adopted the standard during the first
+quarter of 2002. Adoption of the standard did not materially affect the
+Company's financial statements.
+
+       In May 2002, the FASB issued SFAS No. 145, "Rescission of FASB Statements
+No. 4, 44, and 64, Amendment of FASB Statement No. 13, and Technical
+Corrections." Adoption of the standard is generally required in 2003. Under the
+standard, all of the transactions currently classified by the Company as
+extraordinary items will no longer be treated as such, but instead will be
+reported as other nonoperating income or expense. Prior periods will be restated
+to conform to this presentation.
+
+
+
+<
+                                       14
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+8.     Recent Accounting Pronouncements and Pro Forma Results (continued)
+
+       In June 2002, the FASB issued SFAS No. 146, "Accounting for Costs
+Associated with Exit or Disposal Activities," which supersedes EITF 94-3,
+"Liability Recognition for Certain Employee Termination Benefits and Other Costs
+to Exit an Activity (Including Certain Costs Incurred in a Restructuring)." The
+standard affects the accounting for restructuring charges and related activities
+and generally will lengthen the timeframe for reporting of expenses relating to
+restructuring activities beyond the period in which a plan is initiated. The
+provisions of this statement are required to be adopted for exit or disposal
+activities that are initiated after December 28, 2002. The provisions of EITF
+94-3 will continue to apply with regard to the Company's previously announced
+restructuring plans.
+
+9.     Note Receivable
+
+       In July 2000, the Company completed the sale of its wholly owned Spectra
+Precision businesses to Trimble Navigation Limited for $208.1 million in net
+cash proceeds and $80.0 million in seller debt financing at an initial interest
+rate of 10%. The note from the buyer called for repayment in two equal, annual
+installments beginning in July 2001, but permitted extension of maturity under
+certain conditions. Trimble elected to defer the note payment due in July 2001,
+and the Company and Trimble negotiated a change in terms in March 2002. Under
+the revised terms, Trimble paid $12 million of principal, together with $10
+million of accrued interest. Maturity for the remaining balance was extended to
+July 2004, and the amended note carries an interest rate of 10.41% and has
+provisions that require earlier repayment under certain conditions. Interest on
+the note is added to the note's principal balance if payment of the interest
+would cause Trimble to violate covenants under its primary bank agreements. As
+of September 28, 2002, the principal balance of the note had increased to $69.1
+million as a result of this provision. The note is included in other assets in
+the accompanying balance sheet. In addition, the Company obtained warrants to
+purchase up to 376,233 shares of Trimble, of which 200,000 shares were
+exercisable immediately at $15.11 per share through 2007, and the balance of
+which becomes exercisable for five-year terms at various times and prices
+depending on the outstanding balance of the note. At September 28, 2002,
+warrants to purchase an additional 17,364 shares had become exercisable at
+$14.46 per share. Spectra Precision, formerly part of the Measurement and
+Control segment, was acquired as part of Spectra-Physics AB and provides the
+construction, surveying, and heavy-machine industries with precision-positioning
+equipment.
+
+10.    Derivative Instruments and Hedging
+
+       The Company uses forward currency-exchange contracts primarily to hedge
+certain operational (cash-flow hedges) and balance sheet (fair-value hedges)
+exposures resulting from changes in currency exchange rates. Such exposures
+result from sales that are denominated in currencies other than the functional
+currencies of the respective operations. The Company enters into these
+currency-exchange contracts to hedge anticipated product sales and recorded
+accounts receivable made in the normal course of business, and accordingly, the
+hedges are not speculative in nature. As part of the Company's overall strategy
+to manage the level of exposure to the risk of currency-exchange fluctuations,
+some operating units hedge a portion of their currency exposures anticipated
+over the ensuing 12-month period, using exchange contracts that have maturities
+of 12 months or less. The Company does not hold or engage in transactions
+involving derivative instruments for purposes other than risk management.
+
+       The Company records its forward currency-exchange contracts at fair value
+in its consolidated balance sheet as other current assets or other accrued
+expenses and, for cash-flow hedges, the related gains or losses on these
+contracts are deferred as a component of accumulated other comprehensive items
+in the accompanying balance sheet. These deferred gains and losses are
+recognized in income in the period in which the underlying anticipated
+transaction occurs. Unrealized gains and losses resulting from the impact of
+currency-exchange rate movements on fair-value hedges are recognized in earnings
+in the period in which the exchange rates change and offset the currency gains
+and losses on the underlying exposure being hedged. At September 28, 2002, the
+Company had deferred losses, net of income taxes, related to forward
+currency-exchange contracts of approximately $1.3 million, substantially all of
+which is expected to be recognized as expense over the next 12 months as an
+approximate equivalent offset to gains on the exposures being hedged.
+
+<
+                                       15
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+10.    Derivative Instruments and Hedging (continued)
+
+       During the first quarter of 2002, the Company entered into interest-rate
+swap arrangements for its $128.7 million principal amount 7.625% senior notes,
+due in 2008, with the objective of reducing interest costs. The arrangements
+provide that the Company will receive a fixed interest rate of 7.625%, and will
+pay a variable rate of 90-day LIBOR plus 2.19% (3.93% as of September 28, 2002).
+The swaps have terms expiring at the maturity of the debt. The swaps are
+designated as fair-value hedges and as such, are carried at fair value, which
+resulted in an increase in other long-term assets and long-term debt of $13.3
+million at September 28, 2002. The swap arrangements are with different
+counterparties than the holders of the underlying debt. Management believes that
+any credit risk associated with the swaps is remote based on the
+creditworthiness of the financial institutions issuing the swaps.
+
+11.    Securities-Lending Agreements
+
+       In connection with the March 2002 debt redemption discussed in Note 5,
+the Company entered into securities-lending agreements with third parties under
+which the Company may borrow funds for short-term needs. Borrowings are
+collateralized by available-for-sale investments. As of September 28, 2002, the
+Company had outstanding borrowings of $269.0 million under these arrangements
+with maturities between October 2002 and June 2003 and a weighted average
+interest rate of 1.9%. The proceeds of the borrowings were used to partially
+fund the debt redemption discussed in Note 5. The Company has pledged $282.4
+million of available-for-sale securities in the accompanying 2002 balance sheet
+as collateral for such borrowings.
+
+12.    Purchase of Minority Interest in Spectra-Physics
+
+       Following the completion of a cash tender offer in December 2001 for all
+of the shares of Spectra-Physics it did not previously own, the Company
+completed a short-form merger with Spectra-Physics in February 2002. After the
+merger, Spectra-Physics was no longer publicly traded and became a wholly owned
+subsidiary of the Company. The Company expended $22.1 million of cash to
+complete the purchase of the minority interest and recorded an increase in
+goodwill of $15.6 million. Options to purchase shares of Spectra-Physics were
+exchanged for options to purchase 2,241,598 shares of Thermo Electron common
+stock. The exchange of options was accounted for in accordance with the
+methodology set forth in FASB Interpretation No. 44, "Accounting for Certain
+Transactions Involving Stock Compensation" (Note 13).
+
+13.    Restructuring and Other Unusual Costs, Net
+
+       In response to a downturn in telecommunications, semiconductor, and other
+markets served by the Company's businesses and in an effort to further integrate
+business units and reduce the number of real estate locations, the Company
+initiated restructuring actions in the second quarter of 2001 in a number of
+business units to reduce costs and shed unproductive assets. In response to a
+continued downturn in markets served by the Company, further actions were
+initiated in the fourth quarter of 2001 and in the first nine months of 2002.
+The restructuring and related actions primarily consisted of headcount
+reductions, writedowns of production equipment for telecommunications products
+and excess telecommunication inventories at Spectra-Physics, discontinuation of
+a number of mature or unprofitable product lines, and consolidation of
+facilities to streamline operations and reduce costs. The Company expects to
+incur an additional $3 million of restructuring costs in the fourth quarter of
+2002 and in 2003 for charges associated with these actions that cannot be
+recorded until incurred, such as relocation and moving costs. In addition,
+efforts to reduce the Company's cost structure continue and the Company expects
+to record approximately $20 million of additional restructuring costs in the
+fourth quarter of 2002 pertaining to facility consolidations and workforce
+reductions. The Company expects that the restructuring actions undertaken in
+2001 and early 2002 will be substantially completed by the end of 2002, and that
+the actions undertaken in the third and fourth quarters of 2002 will be
+completed by mid-2003. The Company expects to identify additional sites to
+consolidate in 2003 and will record charges in connection with any such actions.
+
+<
+                                       16
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+13.    Restructuring and Other Unusual Costs, Net (continued)
+
+       During the third quarter of 2002, the Company recorded net restructuring
+and other charges (income) by segment as follows:
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                           <C>                 <C>                 <C>                 <C>                 <C>
+
+                                         Life and
+                                       Laboratory         Measurement             Optical
+(In thousands)                           Sciences         and Control        Technologies           Corporate               Total
+---------------------------------------------------------------------------------------------------------------------------------
+
+Cost of Revenues                          $   143             $ 1,330             $   253             $     -             $ 1,726
+Restructuring and Other Unusual Costs
+ (Income), Net                              2,903               3,711                (260)                553               6,907
+                                          -------             -------             -------             -------             -------
+
+                                          $ 3,046             $ 5,041             $    (7)            $   553             $ 8,633
+                                          =======             =======             =======             =======             =======
+
+       During the first nine months of 2002, the Company recorded net restructuring
+and other charges by segment as follows:
+
+                                         Life and
+                                       Laboratory         Measurement             Optical
+(In thousands)                           Sciences         and Control        Technologies           Corporate               Total
+---------------------------------------------------------------------------------------------------------------------------------
+
+Cost of Revenues                          $   712             $ 1,330             $ 1,235             $     -             $ 3,277
+Restructuring and Other Unusual
+ Costs, Net                                 5,613               4,578              18,443               2,143              30,777
+                                          -------             -------             -------             -------             -------
+
+                                          $ 6,325             $ 5,908             $19,678             $ 2,143             $34,054
+                                          =======             =======             =======             =======             =======
+
+       The components of net restructuring and other charges (income) by segment
+are as follows:
+
+Life and Laboratory Sciences
+----------------------------
+
+       The Life and Laboratory Sciences segment recorded $3.0 million of net
+restructuring and other charges in the third quarter of 2002. The segment
+recorded $0.1 million of charges to cost of revenues for the sale of inventory
+revalued at the date of acquisition. The segment also recorded $2.9 million of
+restructuring and other unusual costs, net, including $2.6 million of cash costs
+principally associated with facility consolidations. The cash costs included
+$1.5 million of severance for 100 employees across all functions; $0.3 million
+of net abandoned-facility lease costs for facilities described below; $0.1
+million of employee-retention costs; and $0.7 million of other cash costs,
+primarily relocation expenses. The abandoned-facility costs included $1.6
+million of additional expense related to a facility in Finland that was
+abandoned in 2001, at which time the segment recorded estimated abandonment
+cost. The segment has been unable to sublease the space and has reserved the
+remaining obligation through the expiration of the lease in 2005. Certain other
+office and manufacturing space in Massachusetts that was abandoned and reserved
+for in 2001 will become occupied by the Company's Measurement and Control
+segment, and consequently, the remaining reserve for abandonment of $1.5 million
+has been reversed. In addition to these adjustments, the Life and Laboratory
+Sciences segment recorded $0.2 million of costs for the abandonment of a
+facility in Texas. In addition, the segment had asset writedowns of $0.3 million
+associated with the facility consolidations.
+
+       In the second quarter of 2002, this segment recorded $3.6 million of net
+restructuring and other charges. The segment recorded $0.6 million of charges to
+cost of revenues, which consisted of $0.4 million for a discontinued product
+line and $0.2 million for the sale of inventory revalued at the date of
+acquisition. The segment also recorded $3.0 million of restructuring and other
+unusual costs, including $2.4 million of cash costs principally associated with
+facility consolidations. The cash costs included $0.7 million of severance for
+12 employees across all functions;
+
+<
+                                       17
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+13.    Restructuring and Other Unusual Costs, Net (continued)
+
+$0.7 million of pension costs for terminated employees that was accrued as a
+pension liability; $0.4 million of employee-retention costs; $0.1 million of
+abandoned-facility lease costs; and $0.5 million of other cash costs, primarily
+relocation expenses. In addition, the segment sold two small operating units and
+a building for a net loss of $0.5 million and had other asset writedowns of $0.1
+million.
+
+       In the first quarter of 2002, this segment recorded $0.3 million of other
+unusual income, net. The unusual income included a gain on the sale of a product
+line of $1.5 million. This gain was offset by cash costs of $1.2 million
+associated with the restructuring actions initiated in 2001, including $0.6
+million of employee-retention costs; $0.4 million of severance for eight
+employees, primarily in administrative and sales functions; and $0.2 million of
+other cash costs, primarily relocation expenses.
+
+Measurement and Control
+-----------------------
+
+       The Measurement and Control segment recorded $5.0 million of net
+restructuring and other charges in the third quarter of 2002. The segment
+recorded $1.3 million of charges to cost of revenues for the sale of inventory
+revalued at the date of acquisition. The segment also recorded $3.7 million of
+restructuring and other unusual costs, net, including $9.9 million of cash costs
+principally associated with facility consolidations. The cash costs included
+$5.6 million of severance for 230 employees across all functions; $3.3 million
+of abandoned-facility lease costs for facilities described below; $0.2 million
+of employee-retention costs; and $0.8 million of other cash costs, primarily
+relocation expenses. The charges for severance and abandoned facilities are net
+of reversals of $1.5 million and $0.6 million, respectively, that the segment
+had provided in 2001. Of the amounts reversed, $1.6 million had been initially
+provided in 2001 to downsize the segment's operations in Maryland. During the
+third quarter of 2002, following a change in that operation's management, the
+2001 plan to restructure the Maryland operations was substantially revised to
+include closure of the plant. The amounts provided in 2001 were reversed and all
+of the actions contemplated in the 2001 plan are components of the expanded 2002
+plan, recorded in the third quarter of 2002. The remainder of the 2001 plan
+reserves that were reversed were not required primarily due to employee
+attrition and favorable settlement of lease obligations. The facility
+consolidations in the 2002 plan include closure of five manufacturing facilities
+in the United States and the transfer of their activities to other locations. In
+addition, the segment recorded $6.2 million of net gains, primarily on the sales
+of businesses, principally its Thermo BLH and Thermo Nobel subsidiaries (Note
+2).
+
+       In the second quarter of 2002, this segment recorded $1.1 million of net
+restructuring and other charges. These charges included $2.2 million of cash
+costs principally associated with facility consolidations, including $0.7
+million of relocation costs; $0.7 million of employee-retention costs; $0.6
+million of severance; and $0.2 million of abandoned-facility lease costs. These
+costs were offset in part by $1.1 million of net gains on the sale of a small
+business unit and a building.
+
+       In the first quarter of 2002, this segment recorded $0.2 million of other
+unusual income, net. The unusual income included gains of $1.5 million from the
+favorable resolution of a dispute on a business sold in 2000, and the sale of a
+small business unit in 2002. These gains were offset by $1.1 million of cash
+costs associated with the restructuring actions initiated in 2001, including
+$0.5 million of severance; $0.1 million of employee-retention costs; and $0.5
+million of other cash costs, primarily relocation and contract-termination
+costs. The gain was also offset by $0.2 million of asset writedowns, primarily
+for asset impairment of a building held for sale.
+
+Optical Technologies
+--------------------
+
+       The Optical Technologies segment recorded a nominal amount of other
+unusual income, net, in the third quarter of 2002. The segment recorded $0.3
+million of charges to cost of revenues for the sale of inventory revalued at the
+date of acquisition. The segment also recorded $0.3 million of unusual income,
+including $0.5 million of proceeds from the disposal of assets that were
+previously written down and the reversal of $0.5 million of severance reserves
+previously established in 2001, due to employee attrition, offset by $0.6
+million of cash costs, primarily for severance for 78 employees across all
+functions, and a $0.1 million loss on the sale of a small business unit.
+
+<
+                                       18
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+13.    Restructuring and Other Unusual Costs, Net (continued)
+
+       In the second quarter of 2002, this segment recorded $11.4 million of net
+restructuring and other charges. The segment recorded $1.0 million of charges to
+cost of revenues, including $0.7 million for a discontinued product line and the
+balance for the sale of inventory revalued at the date of acquisition. The
+segment also recorded $10.4 million of restructuring and other unusual costs,
+including $5.5 million of asset writedowns and $4.9 million of cash costs. The
+cash costs included $3.2 million of severance for 117 employees across all
+functions; $1.0 million for abandoned-equipment leases; and $0.7 million for the
+settlement of litigation (Note 15). The asset writedowns included $5.3 million
+of abandoned telecommunications equipment and $0.2 million of goodwill on a
+small business that was subsequently sold. Following actions in the first and
+second quarter of 2002, the Company has suspended initiatives for products that
+address telecom markets based on the continuing economic downturn in these
+markets.
+
+       In the first quarter of 2002, this segment recorded $8.3 million of
+restructuring and other charges. These charges included $6.8 million of cash
+costs at Spectra-Physics, including $4.5 million of lease costs, primarily for
+abandoned equipment; $2.1 million of severance for 76 employees across all
+functions; $0.1 million of employee-retention costs; and $0.1 million of other
+cash costs. The charges also included $0.7 million of asset writeoffs for
+abandoned manufacturing equipment and $0.8 million resulting from the exchange
+of options to purchase shares of Spectra-Physics for options to purchase shares
+of Thermo Electron following the acquisition of the minority interest in this
+business in February 2002 (Note 12).
+
+Corporate
+---------
+
+       The Company recorded $0.6 million of restructuring and other charges at
+its corporate office in the third quarter of 2002, all of which were cash costs,
+primarily for third-party advisory fees. While the Company no longer has any
+public subsidiaries, it has numerous non-U.S. subsidiaries through which the
+formerly public subsidiaries conducted business. The third-party advisory fees
+are being incurred to simplify this legal structure.
+
+       In the second quarter of 2002, the Company recorded $0.9 million of
+restructuring and other charges at its corporate office, all of which were cash
+costs, primarily for third-party advisory fees discussed above.
+
+       In the first quarter of 2002, the Company recorded $0.7 million of
+restructuring and other charges at its corporate office, all of which were cash
+costs. This amount included $0.6 million of third-party advisory fees discussed
+above and $0.1 million of severance for three employees.
+
+<
+                                       19
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+13.    Restructuring and Other Unusual Costs, Net (continued)
+
+General
+-------
+
+       The following table summarizes the Company's severance actions in 2001
+and 2002.
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                                                                                                         <C>
+
+                                                                                                                      Number of
+2000 Restructuring Plans                                                                                              Employees
+-------------------------------------------------------------------------------------------------------------------------------
+
+Remaining Terminations at December 30, 2000                                                                                  80
+
+Additional Terminations Announced in 2001                                                                                    16
+Terminations Occurring in 2001                                                                                              (91)
+Adjustment to Plan                                                                                                           (1)
+                                                                                                                         ------
+
+Remaining Terminations at December 29, 2001                                                                                   4
+
+Terminations Occurring in 2002                                                                                               (4)
+                                                                                                                         ------
+
+Remaining Terminations at September 28, 2002                                                                                  -
+                                                                                                                         ======
+
+2001 Restructuring Plans
+-------------------------------------------------------------------------------------------------------------------------------
+
+Terminations Announced in 2001                                                                                            1,714
+Terminations Occurring in 2001                                                                                           (1,001)
+                                                                                                                         ------
+
+Remaining Terminations at December 29, 2001                                                                                 713
+
+Additional Terminations Announced in 2002                                                                                   224
+Terminations Occurring in 2002                                                                                             (813)
+Adjustment to Plan                                                                                                          (41)
+                                                                                                                         ------
+
+Remaining Terminations at September 28, 2002                                                                                 83
+                                                                                                                         ======
+
+2002 Restructuring Plans
+-------------------------------------------------------------------------------------------------------------------------------
+
+Terminations Announced in 2002                                                                                              406
+Terminations Occurring in 2002                                                                                             (181)
+                                                                                                                         ------
+
+Remaining Terminations at September 28, 2002                                                                                225
+                                                                                                                         ======
+
+
+<
+                                       20
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+13.    Restructuring and Other Unusual Costs, Net (continued)
+
+       The following table summarizes the cash components of the Company's
+restructuring plans. The noncash components and other amounts reported as
+restructuring and other unusual costs, net, in the accompanying 2002 statement
+of income have been summarized in the notes to the table.
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                                                  <C>               <C>               <C>               <C>               <C>
+
+                                                                                 Abandonment
+                                                                  Employee         of Excess
+(In thousands)                                 Severance     Retention (a)        Facilities             Other             Total
+--------------------------------------------------------------------------------------------------------------------------------
+
+1998 Restructuring Plans
+ Balance at December 29, 2001                   $      -          $      -          $      -          $    506          $    506
+    Transfer to accrued pension costs (b)              -                 -                 -              (534)             (534)
+    Currency translation                               -                 -                 -                28                28
+                                                --------          --------          --------          --------          --------
+
+ Balance at September 28, 2002                  $      -          $      -          $      -          $      -          $      -
+                                                ========          ========          ========          ========          ========
+
+1999 Restructuring Plans
+ Balance at December 29, 2001                   $    571          $      -          $      -          $      -          $    571
+    Payments                                        (232)                -                 -                 -              (232)
+                                                --------          --------          --------          --------          --------
+
+ Balance at September 28, 2002                  $    339          $      -          $      -          $      -          $    339
+                                                ========          ========          ========          ========          ========
+
+2000 Restructuring Plans
+ Balance at December 29, 2001                   $  1,588          $  6,287          $  1,866          $  1,200          $ 10,941
+    Reserves reversed                                (27)                -              (192)              (20)             (239)
+    Payments                                      (1,164)           (6,015)             (881)           (1,003)           (9,063)
+    Currency translation                              92                 -                95                 3               190
+                                                --------          --------          --------          --------          --------
+
+ Balance at September 28, 2002                  $    489          $    272          $    888          $    180          $  1,829
+                                                ========          ========          ========          ========          ========
+
+2001 Restructuring Plans
+ Balance at December 29, 2001                   $ 26,092          $    143          $ 19,765          $  2,667          $ 48,667
+    Costs incurred in 2002 (c)                     8,824             1,955             6,999             3,616            21,394
+    Reserves reversed (d)                         (2,796)              (82)           (2,175)             (224)           (5,277)
+    Payments                                     (24,041)           (1,701)           (5,610)           (4,289)          (35,641)
+    Currency translation                           1,428                16               461                84             1,989
+                                                --------          --------          --------          --------          --------
+
+ Balance at September 28, 2002                  $  9,507          $    331          $ 19,440          $  1,854          $ 31,132
+                                                ========          ========          ========          ========          ========
+
+2002 Restructuring Plans
+    Costs incurred in 2002 (e)                  $  8,811          $    205          $  3,766          $  3,169          $ 15,951
+    Payments                                      (1,847)                -              (180)           (3,055)           (5,082)
+    Currency translation                              (5)                -                (1)               (2)               (8)
+                                                --------          --------          --------          --------          --------
+
+ Balance at September 28, 2002                  $  6,959          $    205          $  3,585          $    112          $ 10,861
+                                                ========          ========          ========          ========          ========
+
+(a)  Employee-retention costs are accrued ratably over the period through which
+     employees must work to qualify for a payment. The 2000 awards were based on
+     specified percentages of employees' salaries and were generally awarded to
+     help ensure continued employment at least through completion of the
+     Company's reorganization plan.
+
+<
+                                       21
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+13.    Restructuring and Other Unusual Costs, Net (continued)
+
+(b)  Balance of accrued restructuring costs from 1998 plans related to pension
+     liability associated with employees terminated in 1998, which was
+     transferred to accrued pension costs in 2002.
+(c)  Excludes net gains from sale of businesses and other assets of $0.9 million
+     and $2.4 million in the Life and Laboratory Sciences and Measurement and
+     Control segments, respectively; noncash charges of $7.0 million in the
+     Optical Technologies segment; a cash charge of $0.7 million recorded in
+     accrued pension costs in the Life and Laboratory Sciences segment; and loss
+     on litigation of $0.7 million in the Optical Technologies segment.
+(d)  Represents reductions in cost of plans as described in the discussion of
+     restructuring actions by segment.
+(e)  Excludes noncash charges of $0.4 million in the Life and Laboratory
+     Sciences segment and net gains from sale of businesses and other assets of
+     $6.2 million and $0.5 million in the Measurement and Control and Optical
+     Technologies segments, respectively.
+
+       The Company expects to pay accrued restructuring costs as follows:
+severance, employee-retention obligations, and other costs, which primarily
+represent cancellation/termination fees, primarily through 2003; and
+abandoned-facility payments, over lease terms expiring through 2012.
+
+14.    Discontinued Operations
+
+       The Company announced in January 2000 that all of its noninstrument
+businesses other than Thermo Ecotek, the Company's power-generation business,
+were to be sold or spun-off. These divestitures totaled approximately 40
+businesses with revenues of $1.8 billion. The Company later sold Thermo Ecotek
+as well. Accordingly, the Company treated the divestiture of these businesses as
+discontinued operations in its financial statements.
+
+       Net liabilities of discontinued operations in the accompanying 2002
+balance sheet principally represents remaining obligations of the discontinued
+businesses, including severance, lease, litigation, and other obligations,
+offset by the net assets of two remaining operating units held for sale. These
+two businesses have aggregate annual revenues of approximately $90 million.
+
+       During the third quarter and first nine months of 2002, the Company's
+discontinued operations had revenues of $18.1 million and $62.5 million,
+respectively, and operating income of $0.8 million and $5.0 million,
+respectively. During the third quarter and first nine months of 2001, the
+Company's discontinued operations had revenues of $132.0 million and $570.1
+million, respectively, and operating income of $10.7 million and $45.5 million,
+respectively.
+
+Thermo Cardiosystems
+
+       In February 2001, the Company sold Thermo Cardiosystems to Thoratec in
+exchange for 19.3 million shares of Thoratec common stock, a 34% interest, which
+had a market value of $11.56 per share on the date of the transaction. Certain
+restrictions, which lapsed in August 2002, limited the timing of the Company's
+ability to sell these shares. The Company accounted for the sale of Thermo
+Cardiosystems and the ownership of the Thoratec shares as discontinued
+operations. The Company recorded an after-tax charge of $66.0 million in the
+first quarter of 2001 for a decline in market value of Thoratec common stock as
+a loss on disposal of discontinued operations, and thereafter, carried the
+shares at a new cost basis of $6.50 per share. In February 2002, the Company
+sold 6.9 million shares of Thoratec for net proceeds of $105 million, and
+realized an after-tax gain of $38.4 million as a gain on disposal of
+discontinued operations. Following the sale of shares in 2002, the Company owned
+less than 20% of Thoratec's outstanding shares and, pursuant to SFAS No. 115,
+"Accounting for Certain Investments in Debt and Equity Securities," began
+accounting for its investment as an available-for-sale security in continuing
+operations in the first quarter of 2002. As such, the investment is recorded at
+quoted market value in current assets, and unrealized gains or losses are
+recorded as a part of accumulated other comprehensive items in the accompanying
+2002 balance sheet. As of September 28, 2002, the Company held 7.7 million
+shares of Thoratec with a market value of $60 million.
+
+<
+                                       22
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+14.    Discontinued Operations (continued)
+
+Power-Generation Business
+
+       In March 2002, the Company sold the last remaining component of its
+former power-generation business and realized a gain from the disposition
+totaling $13.0 million, principally for previously unrecognized tax benefits
+that were realized upon the sale.
+
+Other
+
+       As a result of new tax regulations concerning deductible losses from
+divested businesses, the Company revised its estimate of the tax consequences of
+business disposals in discontinued operations and recorded a tax benefit of
+$19.0 million in the second quarter of 2002.
+
+15.    Litigation
+
+Continuing Operations
+
+       During the second quarter of 2002, the Company settled a
+patent-infringement matter that Rockwell International Corp. had brought against
+Spectra-Physics and its Opto Power subsidiary. Under the settlement, the Company
+paid Rockwell $4.0 million. The settlement was charged against a reserve
+established for this matter except for $0.7 million that was included in
+restructuring and other unusual costs in the second quarter of 2002 (Note 13).
+
+Discontinued Operations
+
+       During the second quarter of 2002, the Company settled a
+patent-infringement matter that Fischer Imaging Corporation had brought against
+the Company's former Trex Medical subsidiary. The Company sold Trex Medical in
+2000, but retained this obligation as a term of the sale. Under the settlement,
+the Company paid Fischer $25 million and agreed to pay an additional $7.2
+million over eight years. The portion of the settlement that was paid was
+charged against a reserve established for this matter. The balance of the amount
+to be paid will also be charged against the reserve as paid.
+
+16.    Common Stock
+
+       During the second quarter of 2002, the Company restored 22,000,000 shares
+of common stock to authorized but unissued status, which had been held in
+treasury stock.
+
+17.    Subsequent Event
+
+       In October 2002, the Company redeemed all of its outstanding 4 1/2%
+senior convertible debentures due 2003 and 4 7/8% subordinated convertible
+debentures due 2004 with the objective of reducing interest costs. The principal
+amounts redeemed for the 4 1/2% and 4 7/8% debentures were $121.1 million and
+$13.3 million, respectively. The redemption price was 100% of the principal
+amount of the debentures, plus accrued interest. Accordingly, the obligations
+have been presented as current liabilities in the accompanying 2002 balance
+sheet. Borrowings under the Company's securities-lending agreements (Note 11)
+were used to partially fund the debt redemption.
+
+<
+                                       23
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Item 2 - Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+--------------------------------------------------------------------------------
+
+       Forward-looking statements, within the meaning of Section 21E of the
+Securities Exchange Act of 1934, are made throughout this Management's
+Discussion and Analysis of Financial Condition and Results of Operations. For
+this purpose, any statements contained herein that are not statements of
+historical fact may be deemed to be forward-looking statements. Without limiting
+the foregoing, the words "believes," "anticipates," "plans," "expects," "seeks,"
+"estimates," and similar expressions are intended to identify forward-looking
+statements. While the Company may elect to update forward-looking statements in
+the future, it specifically disclaims any obligation to do so, even if the
+Company's estimates change, and readers should not rely on those forward-looking
+statements as representing the Company's views as of any date subsequent to the
+date of the filing of this Quarterly Report. There are a number of important
+factors that could cause the results of the Company to differ materially from
+those indicated by such forward-looking statements, including those detailed
+under the heading "Forward-looking Statements" in this report on Form 10-Q.
+
+       The Company believes the following represent its critical accounting
+policies and estimates used in the preparation of its financial statements:
+
+       a)  The Company maintains allowances for doubtful accounts for estimated
+           losses resulting from the inability of its customers to pay amounts
+           due. If the financial condition of the Company's customers were to
+           deteriorate, reducing their ability to make payments, additional
+           allowances would be required.
+       b)  The Company writes down its inventories for estimated obsolescence
+           for differences between the cost and estimated net realizable value
+           based on recent usage and expected demand. If ultimate usage varies
+           significantly from expected usage, additional writedowns may be
+           required.
+       c)  The Company assesses the realizability of its notes receivable based
+           on judgments concerning the borrower's ability to make the required
+           payments and the value of collateral, if any. If the financial
+           condition of the borrower or the value of the collateral were to
+           deteriorate, charges to reduce the carrying value of notes receivable
+           may be necessary.
+       d)  The Company periodically evaluates goodwill for impairment under the
+           guidelines of SFAS No. 142. Should the fair value of the Company's
+           goodwill decline because of reduced operating performance, market
+           declines, or other indicators of impairment, charges for impairment
+           of goodwill may be necessary.
+       e)  The Company periodically reviews other intangible assets for
+           impairment based on estimated future cash flows associated with the
+           assets. Should future cash flows decline significantly from estimated
+           amounts, charges for impairment of other intangible assets may be
+           necessary.
+       f)  At the time the Company recognizes revenue it provides for the
+           estimated cost of product warranties based primarily on historical
+           experience. Should product failure rates or the actual cost of
+           correcting product failures vary from estimates, revisions to the
+           estimated warranty liability would be necessary.
+       g)  The Company estimates the degree to which tax assets and loss
+           carryforwards will result in a benefit based on expected
+           profitability by tax jurisdiction and provides a valuation allowance
+           for tax assets and loss carryforwards that it believes will more
+           likely than not go unused. Should the Company's actual future taxable
+           income by tax jurisdiction vary from estimates, additional allowances
+           may be necessary.
+       h)  The Company estimates losses on contingencies and litigation and
+           provides a reserve for these losses. Should the ultimate losses on
+           contingencies and litigation vary from estimates, adjustments to
+           those reserves may be required.
+       i)  The Company recorded restructuring charges for asset impairment in
+           2001 and 2002 based on estimated future cash flows associated with
+           the equipment and for the cost of vacating facilities based on
+           expected sub-rental income. Should actual cash flows associated with
+           impaired equipment and sub-rental income from vacated facilities vary
+           from estimated amounts, adjustments may be required.
+       j)  The Company estimates the expected proceeds from the sale of its
+           discontinued businesses, and recorded losses in 1999-2001 to reduce
+           the carrying value of these businesses to estimated realizable value.
+           Should the actual proceeds, which would include post-closing purchase
+           price adjustments, vary from estimates, actual results could differ
+           from expected amounts.
+
+<
+                                       24
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Results of Operations
+
+       During the first nine months of 2002, the Company transferred management
+responsibility for several businesses as follows: (1) the spectroscopy
+businesses were moved to the renamed Life and Laboratory Sciences segment from
+the Measurement and Control segment; (2) the temperature-control businesses were
+moved to the Measurement and Control segment from the Optical Technologies
+segment; (3) the electrochemistry products business was moved to the Measurement
+and Control segment from the Life and Laboratory Sciences segment; and (4) the
+Company's Thermo Projects unit was moved from a separate segment (previously
+included as "Other") to the Life and Laboratory Sciences segment. Prior-period
+segment results have been restated to reflect these changes.
+
+Third Quarter 2002 Compared With Third Quarter 2001
+---------------------------------------------------
+
+Continuing Operations
+
+       Sales in the third quarter of 2002 were $517.2 million, an increase of
+$4.2 million from the third quarter of 2001. Excluding the effect of
+acquisitions, divestitures, and currency translation, revenues decreased $9.0
+million, or 2%. Currency translation had a net favorable effect on revenues as
+discussed below by segment, due to the weakening of the U.S. dollar relative to
+currencies in countries in which the Company operates.
+
+       Operating income was $44.9 million in the third quarter of 2002, compared
+with $28.6 million in the third quarter of 2001. Segment operating income
+increased to $56.1 million in 2002 from $40.1 million in 2001. (Segment
+operating income is operating income excluding costs incurred at the Company's
+corporate office.) Operating and segment operating income in the third quarter
+of 2002 were reduced by additional charges associated with a restructuring plan
+initiated during the fourth quarter of 2001, other restructuring actions
+initiated in 2002, and certain other unusual costs, net (Note 13). Operating and
+segment operating income in the third quarter of 2001 were reduced by charges
+associated with a restructuring plan initiated during the second quarter of 2001
+and certain other unusual charges. The unusual items in both periods are
+discussed by segment below. Excluding these unusual costs, which totaled $8.1
+million in 2002 and $7.4 million in 2001, segment operating income was $64.2
+million in 2002 and $47.5 million in 2001. The 2001 period included $10.1
+million of goodwill amortization. Amortization of goodwill ceased following the
+adoption of Statement of Financial Accounting Standards (SFAS) No. 142,
+"Goodwill and Other Intangible Assets," effective in 2002 (Note 8). Excluding
+goodwill amortization and unusual items, segment operating income totaled $57.6
+million in 2001. Segment operating income, excluding goodwill amortization and
+unusual items, increased primarily due to a lower cost base following
+restructuring actions in 2001 and 2002.
+
+       In response to a downturn in telecommunications, semiconductor, and other
+markets served by the Company's businesses and in an effort to further integrate
+business units and reduce the number of real estate locations, the Company
+initiated restructuring actions in the second quarter of 2001 in a number of
+business units to reduce costs and shed unproductive assets. In response to a
+continued downturn in markets served by the Company, further actions were
+initiated in the fourth quarter of 2001 and in the first nine months of 2002.
+The restructuring and related actions primarily consisted of headcount
+reductions, writedowns of production equipment for telecommunications products
+and excess telecommunication inventories at Spectra-Physics, discontinuation of
+a number of mature or unprofitable product lines, and consolidation of
+facilities to streamline operations and reduce costs. The Company expects to
+incur an additional $3 million of restructuring costs in the fourth quarter of
+2002 and in 2003 for charges associated with these actions that cannot be
+recorded until incurred, such as relocation and moving costs. In addition,
+efforts to reduce the Company's cost structure continue and the Company expects
+to record approximately $20 million of additional restructuring costs in the
+fourth quarter of 2002 pertaining to facility consolidations and workforce
+reductions. The Company expects that the restructuring actions undertaken in
+2001 and early 2002 will be substantially completed by the end of 2002, and that
+the actions undertaken in the third and fourth quarters of 2002 will be
+completed by mid-2003. The Company expects to identify additional sites to
+consolidate in 2003 and will record charges in connection with any such actions.
+
+
+
+<
+                                       25
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Third Quarter 2002 Compared With Third Quarter 2001 (continued)
+---------------------------------------------------
+
+Life and Laboratory Sciences
+----------------------------
+
+       Sales in the Life and Laboratory Sciences segment increased $18.8 million
+to $282.2 million in the third quarter of 2002. The favorable effects of
+currency translation resulted in an increase in revenues of $8.5 million in
+2002. Sales increased $1.4 million due to an acquisition, net of divestitures.
+Excluding the effect of currency translation, an acquisition, and divestitures,
+revenues increased $8.9 million, or 3%. The segment has experienced continued
+sales growth of high-end technology mass spectrometry equipment and slightly
+lower sales of other products where downturns in customers' markets have slowed
+spending. Many pharmaceutical customers, for example, have slowed capital
+spending and are delaying purchases except for equipment where technology
+advances may provide competitive advantage.
+
+       Operating income margin increased to 15.5% in the third quarter of 2002
+from 12.5% in the third quarter of 2001. The segment's margin increased
+primarily due to the discontinuation of goodwill amortization as a result of the
+adoption of SFAS No. 142 in 2002, offset in part by the inclusion of unusual
+costs in the 2002 period. Excluding restructuring and unusual costs, net, of
+$3.0 million in 2002, restructuring and unusual income, net, of $0.2 million in
+2001, and goodwill amortization of $6.0 million in 2001, operating income margin
+was 16.6% in 2002 and 14.7% in 2001. The increase in operating income margin
+resulted primarily from higher revenues and cost reduction and productivity
+measures undertaken in 2001 and 2002.
+
+       In the third quarter of 2002, the segment recorded restructuring and
+unusual cash costs, net, of $2.6 million, primarily for severance and relocation
+expenses at businesses being consolidated. In addition, the segment recorded
+asset writedowns of $0.3 million associated with facility consolidations and
+charges to cost of revenues of $0.1 million for the sale of inventory revalued
+at the date of acquisition (Note 13). Restructuring and unusual income, net, in
+2001 represents a gain of $0.5 million on the sale of a small business unit,
+offset by cash costs of $0.3 million, primarily for severance.
+
+Measurement and Control
+-----------------------
+
+       Sales in the Measurement and Control segment decreased $7.9 million to
+$150.1 million in the third quarter of 2002. The favorable effects of currency
+translation resulted in an increase in revenues of $3.7 million in 2002. Sales
+increased $0.2 million due to an acquisition, net of divestitures (Note 2).
+Excluding the effect of an acquisition, divestitures, and currency translation,
+revenues decreased $11.8 million, or 8%. The decrease was due to a decline in
+revenues in each of the segment's principal businesses primarily from economic
+conditions facing customers, particularly in the semiconductor, energy, and
+steel industries. The Company expects that a continued downturn in markets
+served by the segment will unfavorably affect the segment's revenue comparisons
+with corresponding prior-year periods for at least the near-term. Recent order
+growth of explosives- and radiation-detection products will offset in part the
+revenue decline in the segment's other businesses. The magnitude of the
+mitigating effect of these recent orders in future quarters will depend on when
+the corresponding sales occur.
+
+       Operating income margin increased to 7.0% in the third quarter of 2002
+from 5.7% in the third quarter of 2001, primarily due to restructuring and
+unusual costs in 2001 and the discontinuation of goodwill amortization as a
+result of the adoption of SFAS No. 142 in 2002. Operating income margin,
+excluding restructuring and unusual costs, net, of $5.0 million in 2002 and $5.9
+million in 2001, and goodwill amortization of $3.0 million in 2001, decreased to
+10.4% in 2002 from 11.3% in 2001. The decrease in operating income margin
+resulted primarily from lower revenues, offset in part by the effects of cost
+reduction and productivity measures undertaken in 2001.
+
+       In the third quarter of 2002, the segment recorded restructuring and
+unusual costs, net, of $5.0 million, including cash costs of $9.9 million,
+principally for severance and abandoned facilities. In addition, the segment
+recorded $6.2 million of net gains, primarily on the sales of businesses,
+principally the July 2002 sale of Thermo BLH and Thermo Nobel (Note 2). In 2002,
+the segment recorded charges to cost of revenues of $1.3 million for the sale of
+inventory revalued at the date of acquisition (Note 13). Restructuring and
+unusual costs, net, in 2001 included a $5.2 million loss on the sale of the
+segment's Pharos Marine unit, and cash costs of $0.7 million, primarily for
+severance.
+
+
+<
+                                       26
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+Third Quarter 2002 Compared With Third Quarter 2001 (continued)
+---------------------------------------------------
+
+Optical Technologies
+--------------------
+
+       Sales in the Optical Technologies segment decreased $6.1 million to $87.4
+million in the third quarter of 2002. The unfavorable effects of currency
+translation resulted in a decrease in revenues of $0.6 million in 2002. Sales
+increased $0.1 million due to the acquisition of a product line, net of
+divestitures. Excluding the effect of currency translation, an acquisition, and
+divestitures, revenues decreased $5.6 million, or 6%. The decrease was due to
+the severe slowdown in the semiconductor and other industrial markets that has
+adversely affected customers in a number of the segment's businesses. These
+industries are highly cyclical and have experienced downturns that began in
+2001. The Company expects that the slowdowns in semiconductor and other
+industrial markets will continue to result in unfavorable revenue and
+profitability comparisons with corresponding prior-year periods for at least the
+near-term. A prolonged downturn could adversely affect the realizability of the
+segment's inventories, which would result in charges for impairment.
+
+       In the third quarter of 2002, the Company conformed Spectra-Physics'
+backlog policy to the prevailing practice at the Company's other businesses of
+including in backlog only product orders that are expected to ship within six
+months. Spectra-Physics' historical practice had been to include orders expected
+to ship within 12 months. This change resulted in a reduction of backlog of
+$39.3 million. Excluding the effect of this change, the segment's backlog
+decreased 27% during the first nine months of 2002, and totaled $84.4 million as
+of September 28, 2002.
+
+       Operating income margin was 1.9% in the third quarter of 2002, compared
+with negative 1.8% in the third quarter of 2001. Excluding nominal restructuring
+and unusual income, net, in 2002, restructuring and unusual costs, net, of $1.6
+million in 2001, and goodwill amortization of $1.1 million in 2001, operating
+income margin was 1.9% in 2002 and 1.1% in 2001. The increase in operating
+income margin was due to cost reduction and productivity measures undertaken in
+2001 and 2002 and the suspension of telecommunications activities in the second
+quarter of 2002, offset in part by the impact of lower revenues and an operating
+loss at Spectra-Physics.
+
+       In the third quarter of 2002, the segment recorded $0.3 million of
+unusual income, net, including $0.5 million of proceeds from the disposal of
+assets that were previously written down and the reversal of $0.5 million of
+severance reserves previously established in 2001, offset by $0.6 million of
+cash costs, primarily for severance, and a $0.1 million loss on the sale of a
+small business unit. In addition, the segment recorded charges to cost of
+revenues of $0.3 million for the sale of inventory revalued at the date of
+acquisition. Restructuring and unusual costs, net, in 2001 included $1.1 million
+of cash costs, primarily for severance; $0.4 million of loss on the sale of a
+small business unit; and $0.1 million of asset writedowns.
+
+Other Income, Net
+-----------------
+
+       The Company reported other income, net, of $11.7 million and $11.6
+million in the third quarter of 2002 and 2001, respectively (Note 4). Other
+income, net, includes interest income, interest expense, equity in earnings of
+unconsolidated subsidiaries in 2001, gain on investments, net, and other items,
+net. Interest income decreased to $11.2 million in 2002 from $18.7 million in
+2001, primarily due to lower invested cash balances following the repurchase of
+Company securities, acquisitions (Notes 2 and 12), and, to a lesser extent,
+lower prevailing interest rates. The Company expects that a trend of lower
+market interest rates in 2002 will continue to adversely affect the yield it
+earns as maturing investments are reinvested at lower market rates. Following a
+redemption of convertible debentures in October 2002 (Note 17), $74 million of
+repurchases of the Company's common stock in the third quarter of 2002, and
+ongoing repurchases of common stock in the fourth quarter of 2002, lower
+invested cash will also contribute to an expected reduction in interest income.
+Interest expense decreased to $8.9 million in 2002 from $17.8 million in 2001,
+as a result of the redemption, maturity, and repurchase of debentures, as well
+as entering into an interest-rate swap arrangement (Note 10), offset in part by
+interest on borrowings under securities-lending arrangements (Note 11). Interest
+expense will decrease following the October 2002 redemption discussed above.
+
+
+<
+                                       27
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Third Quarter 2002 Compared With Third Quarter 2001 (continued)
+---------------------------------------------------
+
+       During 2002 and 2001, the Company had gains on investments, net, of $9.4
+million and $9.3 million, respectively. The gains included $6.6 million and $8.6
+million in 2002 and 2001, respectively, from the sale of 194,000 and 350,000
+shares, respectively, of FLIR Systems, Inc. Of the total gain from the sale of
+FLIR shares, $2.3 million and $4.5 million in 2002 and 2001, respectively,
+represent a recovery of previous writedowns on the shares that were sold during
+these periods. The Company recorded income from equity in earnings of
+unconsolidated subsidiaries of $1.7 million in 2001, which primarily relates to
+the investment in FLIR. Following a reduction in the Company's percentage
+ownership of FLIR to less than 20%, the Company no longer reports its pro-rata
+share of FLIR's earnings but instead accounts for its remaining investment as an
+available-for-sale security (Note 4).
+
+Provision for Income Taxes
+--------------------------
+
+       The Company's effective tax rate was 31.1% and 37.5% in the third quarter
+of 2002 and 2001, respectively. Excluding restructuring and unusual costs or
+income, the effective tax rate was 30.5% and 37.5% in 2002 and 2001,
+respectively. The effective tax rate decreased in 2002, primarily due to the
+absence of nondeductible goodwill amortization following the adoption of SFAS
+No. 142 and, to a lesser extent, a reorganization of the Company's subsidiaries
+in several European countries that resulted in a more tax-efficient corporate
+structure. The effective tax rate exceeded the statutory federal income tax rate
+in 2001 due to the impact of state income taxes and nondeductible expenses,
+which included goodwill amortization. Excluding restructuring and unusual costs
+or income, and the amortization of goodwill, the effective tax rate was 31.6% in
+the third quarter of 2001.
+
+Minority Interest Income
+------------------------
+
+       Minority interest income of $0.5 million in the third quarter of 2001,
+represents minority shareholders' allocable share of a loss at Spectra-Physics.
+Following the acquisition of the minority interest in Spectra-Physics in
+February 2002 (Note 12), the Company has no minority interest income or expense.
+
+First Nine Months 2002 Compared With First Nine Months 2001
+-----------------------------------------------------------
+
+Continuing Operations
+
+       Sales in the first nine months of 2002 were $1.518 billion, a decrease of
+$110.9 million from the first nine months of 2001. Excluding the effect of
+acquisitions, divestitures, and currency translation, revenues decreased $92.1
+million, or 6%. Currency translation had a favorable effect on revenues as
+discussed below by segment, due to the weakening of the U.S. dollar relative to
+currencies of countries in which the Company operates.
+
+       Operating income was $116.8 million in the first nine months of 2002,
+compared with $82.6 million in the first nine months of 2001. Segment operating
+income increased to $151.4 million in 2002 from $119.1 million in 2001.
+Operating and segment operating income in the first nine months of 2002 were
+reduced by additional charges associated with a restructuring plan initiated
+during the fourth quarter of 2001, other restructuring actions initiated in
+2002, and certain other unusual costs, net (Note 13). Operating and segment
+operating income in the first nine months of 2001 were reduced by charges
+associated with a restructuring plan initiated during the second quarter of 2001
+and certain other unusual charges, net. The unusual items in both periods are
+discussed by segment below. Excluding these unusual costs, which totaled $31.9
+million in 2002 and $50.4 million in 2001, segment operating income was $183.3
+million in 2002 and $169.5 million in 2001. The 2001 period included $30.3
+million of goodwill amortization. Amortization of goodwill ceased following the
+adoption of SFAS No. 142, effective in 2002 (Note 8). Excluding goodwill
+amortization and unusual items, segment operating income totaled $199.8 million
+in 2001. Segment operating income excluding goodwill amortization and unusual
+items decreased in 2002 due to lower revenues and the resulting reduced
+profitability at a number of businesses, discussed below.
+
+
+<
+                                       28
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+First Nine Months 2002 Compared With First Nine Months 2001 (continued)
+-----------------------------------------------------------
+
+Life and Laboratory Sciences
+----------------------------
+
+       Sales in the Life and Laboratory Sciences segment increased $16.4 million
+to $825.3 million in the first nine months of 2002. The favorable effects of
+currency translation resulted in an increase in revenues of $7.5 million in
+2002. Sales increased $1.3 million due to acquisitions, net of divestitures.
+Excluding the effect of currency translation, acquisitions, and divestitures,
+revenues increased $7.6 million, or 1%. Increased demand for mass spectrometry
+equipment and histology and cytology products was offset in part by weakened
+demand for spectroscopy instruments and sample-preparation products, primarily
+due to lower capital spending as discussed in the results for the third quarter.
+
+       Operating income margin increased to 15.7% in the first nine months of
+2002 from 11.3% in the first nine months of 2001. The segment's margin increased
+primarily due to the discontinuation of goodwill amortization as a result of the
+adoption of SFAS No. 142 in 2002 and higher unusual costs in the 2001 period,
+compared with the 2002 period. Excluding restructuring and unusual costs, net,
+of $6.3 million in 2002, and $12.9 million in 2001, and goodwill amortization of
+$17.7 million in 2001, operating income margin was 16.5% in 2002 and 15.1% in
+2001. The increase in operating income margin resulted primarily from cost
+reduction and productivity measures undertaken in 2001 and 2002 and, to a lesser
+extent, higher revenues.
+
+       In the first nine months of 2002, the segment recorded restructuring and
+unusual cash costs, net, of $6.1 million, primarily for severance and employee
+retention at businesses being consolidated, and charges to cost of revenues of
+$0.7 million for a discontinued product line and the sale of inventory revalued
+at the date of acquisition. In addition, the segment wrote down $0.4 million of
+fixed assets and realized a net gain of $0.9 million on the sale of a product
+line, two small business units, and a building (Note 13). Restructuring and
+unusual costs, net, in 2001 included cash costs of $4.8 million, primarily for
+severance and abandoned facilities; $3.4 million of charges to cost of revenues,
+principally for discontinued product lines; a charge of $3.4 million for the
+writeoff of in-process research and development at an acquired business; $2.3
+million of asset writedowns; and $1.0 million of gains on the sale of a small
+business unit and a product line.
+
+Measurement and Control
+-----------------------
+
+       Sales in the Measurement and Control segment decreased $77.3 million to
+$443.5 million in the first nine months of 2002. Sales decreased $29.9 million
+due to divestitures, net of acquisitions. The favorable effects of currency
+translation resulted in an increase in revenues of $3.9 million in 2002.
+Excluding the effect of divestitures, acquisitions, and currency translation,
+revenues decreased $51.3 million, or 11%. The decrease was due to a decline in
+revenues in each of the segment's principal businesses due to economic
+conditions facing customers, particularly in the semiconductor, energy, and
+steel industries.
+
+       The principal divestitures by the segment included the July 2002 sale of
+Thermo BLH and Thermo Nobel, which manufacture and sell strain-gauges and were
+placed for sale in 2001 (Note 2); the August 2001 sale of its Pharos Marine
+unit, which manufactures and sells marine-navigation equipment; the April 2001
+sale of the CAC and Mid South businesses, which provide the oil and gas industry
+with wellhead safety and control products; and the July 2001 sale of its
+ThermoMicroscopes unit, a manufacturer of scanning probe microscopes.
+
+       Operating income margin increased to 8.9% in the first nine months of
+2002 from 4.2% in the first nine months of 2001, primarily due to significant
+restructuring and unusual costs in 2001, and the discontinuation of goodwill
+amortization as a result of the adoption of SFAS No. 142 in 2002. Operating
+income margin, excluding restructuring and unusual costs, net, of $5.9 million
+in 2002 and $26.9 million in 2001, and goodwill amortization of $9.1 million in
+2001, decreased to 10.2% in 2002 from 11.2% in 2001. The decrease in operating
+income margin resulted primarily from the decrease in revenues, offset in part
+by the effects of cost reduction and productivity measures undertaken in 2001
+and 2002.
+
+
+<
+                                       29
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+First Nine Months 2002 Compared With First Nine Months 2001 (continued)
+-----------------------------------------------------------
+
+       In the first nine months of 2002, the segment recorded restructuring and
+unusual charges, net, of $5.9 million, including $13.1 million of cash costs,
+principally for severance and abandoned facilities. In addition, the segment
+recorded net gains of $8.5 million from the sale of businesses, including Thermo
+BLH and Thermo Nobel, the resolution of disputes on businesses previously sold,
+and the sale of a building. In 2002, the segment recorded charges to cost of
+revenues of $1.3 million for the sale of inventory revalued at the date of
+acquisition (Note 13). Restructuring and unusual costs, net, in 2001 included
+$11.5 million, net, for the loss on sale of businesses or writedowns of
+businesses subsequently sold; $9.0 million of cash costs, primarily for
+severance and abandoned facilities; $3.3 million of charges to cost of revenues,
+principally for discontinued product lines; $1.5 million of asset writedowns;
+$1.0 million for impairment of a note receivable; $0.5 million for a
+post-closing adjustment on two businesses sold in 2000; and $0.1 million of
+other costs.
+
+Optical Technologies
+--------------------
+
+       Sales in the Optical Technologies segment decreased $51.2 million to
+$255.9 million in the first nine months of 2002. The unfavorable effects of
+currency translation resulted in a decrease in revenues of $2.1 million in 2002.
+Sales increased $0.5 million due to the acquisition of a product line, net of
+divestitures. Excluding the effect of currency translation, an acquisition, and
+divestitures, revenues decreased $49.6 million, or 16%. The decrease was due to
+a severe slowdown in the semiconductor and other industrial markets that has
+adversely affected all of the segment's principal businesses. The semiconductor
+industry is highly cyclical and is experiencing a downturn that began in 2001.
+
+       Operating income margin was negative 7.0% in the first nine months of
+2002, compared with positive 1.7% in the first nine months of 2001. Excluding
+restructuring and unusual costs, net, of $19.7 million in 2002 and $10.6 million
+in 2001, and goodwill amortization of $3.4 million in 2001, operating income
+margin was 0.7% in 2002 and 6.3% in 2001. The decrease in operating income
+margin was due to lower revenues at each of the segment's principal businesses
+and in particular at the lasers business (Spectra-Physics), where the decline in
+revenues led to operating losses. The Company initiated additional restructuring
+actions in this business in 2002, following those announced in the fourth
+quarter of 2001. These actions are discussed below and in Note 13.
+
+       In the first nine months of 2002, the segment recorded restructuring and
+unusual charges, net, of $19.7 million, including $11.9 million of cash costs,
+principally for severance and abandoned-equipment leases associated with
+suspended telecom initiatives. The cash costs included $0.7 million for the
+settlement of litigation (Note 15). In addition, this segment wrote off assets
+totaling $5.7 million, including $5.5 million of abandoned fixed assets and $0.2
+million of goodwill at a business that was subsequently sold. The segment also
+recorded a charge of $0.8 million resulting from the exchange of options to
+purchase shares of Spectra-Physics for options to purchase shares of Thermo
+Electron following the acquisition of the minority interest in this business in
+February 2002 (Note 12). In 2002, the segment also recorded a $0.1 million loss
+on the sale of a small business unit and $1.2 million of charges to cost of
+revenues, principally for discontinued product lines and inventory revalued at
+the date of acquisition (Note 13). Restructuring and unusual costs, net, in 2001
+included $6.6 million of charges to cost of revenues for provisions for
+inventories; $3.4 million of cash costs for severance, abandoned facilities, and
+other exit costs; a $0.4 million charge to write off costs associated with a
+cancelled financing at Spectra-Physics; $0.1 million of net loss on the sale of
+a small business unit and a facility; and $0.1 million of asset writedowns.
+
+Other Income, Net
+-----------------
+
+       The Company reported other income, net, of $111.0 million and $7.7
+million in the first nine months of 2002 and 2001, respectively (Note 4).
+Interest income decreased to $38.2 million in 2002 from $52.2 million in 2001,
+primarily due to lower invested cash balances following the repurchase of
+Company securities, acquisitions (Notes 2 and 12), and, to a lesser extent,
+lower prevailing interest rates. Interest expense decreased to $32.6 million in
+2002 from $55.7 million in 2001 as a result of the redemption, maturity, and
+repurchase of debentures, as well as entering into an interest-rate swap
+arrangement (Note 10), offset in part by interest on borrowings under
+securities-lending arrangements (Note 11).
+
+
+<
+                                       30
+<PAGE>
+>
+
+
+                           THERMO ELECTRON CORPORATION
+
+First Nine Months 2002 Compared With First Nine Months 2001 (continued)
+-----------------------------------------------------------
+
+       During 2002 and 2001, the Company had gains on investments, net, of
+$103.4 million and $8.5 million, respectively. The gains included $94.5 million
+and $8.6 million in 2002 and 2001, respectively, from the sale of 2,200,000 and
+350,000 shares, respectively, of FLIR. Of the total gain from the sale of FLIR
+shares, $25.5 million and $4.5 million in 2002 and 2001, respectively, represent
+a recovery of previous writedowns on the shares that were sold during these
+periods. The gains in 2001 were reduced by a charge of $2.0 million as a result
+of impairment of an available-for-sale security that the Company deemed other
+than temporary. The security was a preacquisition asset of an acquired business.
+The Company recorded income from equity in earnings of unconsolidated
+subsidiaries of $2.2 million in 2002 and $2.9 million in 2001, which primarily
+related to the investment in FLIR through the first quarter of 2002 (Note 4).
+
+Provision for Income Taxes
+--------------------------
+
+       The Company's effective tax rate was 33.0% and 38.5% in the first nine
+months of 2002 and 2001, respectively. Excluding restructuring and unusual costs
+or income, the effective tax rate was 31.7% and 38.6% in 2002 and 2001,
+respectively. The effective tax rate decreased in 2002, primarily due to the
+absence of nondeductible goodwill amortization following the adoption of SFAS
+No. 142 and, to a lesser extent, a reorganization of the Company's subsidiaries
+in several European countries that resulted in a more tax-efficient corporate
+structure. The effective tax rate exceeded the statutory federal income tax rate
+in 2001 due to the impact of state income taxes and nondeductible expenses,
+which included goodwill amortization. Excluding restructuring and unusual costs
+or income, and the amortization of goodwill, the effective tax rate was 33.3% in
+the first nine months of 2001.
+
+Minority Interest Income
+------------------------
+
+       Minority interest income of $0.3 million and $1.3 million in the first
+nine months of 2002 and 2001, respectively, represents minority shareholders'
+allocable share of losses at Spectra-Physics through the date on which the
+Company acquired the minority interest in this subsidiary in February 2002 (Note
+12).
+
+Income from Continuing Operations
+---------------------------------
+
+       Income from continuing operations before extraordinary item and
+cumulative effect of change in accounting principle was $152.9 million in the
+first nine months of 2002, compared with $56.9 million in the first nine months
+of 2001. Results in both periods were affected by unusual items, discussed
+above. Excluding the unusual items in both periods, income from continuing
+operations before extraordinary item and cumulative effect of change in
+accounting principle increased to $114.6 million in 2002 from $87.1 million in
+2001 due to the absence of goodwill amortization in 2002, offset in part by the
+reasons discussed above.
+
+Extraordinary Item
+------------------
+
+       The Company repurchased and redeemed debentures during the first nine
+months of 2002 and 2001, resulting in an extraordinary charge of $0.6 million,
+net of tax, in 2002, and an extraordinary gain of $0.6 million, net of tax, in
+2001 (Note 5).
+
+Cumulative Effect of Change in Accounting Principle
+---------------------------------------------------
+
+       The Company adopted SFAS No. 133, "Accounting for Derivative Instruments
+and Hedging Activities," as amended, in the first quarter of 2001, and recorded
+an after-tax charge of $1.0 million representing the cumulative effect of the
+change in accounting principle.
+
+<
+                                       31
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+First Nine Months 2002 Compared With First Nine Months 2001 (continued)
+-----------------------------------------------------------
+
+Discontinued Operations
+
+       During the first quarter of 2002, the Company sold the last remaining
+component of its former power-generation business and realized a gain from the
+disposition totaling $13.0 million, principally for previously unrecognized tax
+benefits that were realized upon the sale. In addition, as a result of new tax
+regulations concerning deductible losses from divested businesses, the Company
+revised its estimate of the tax consequences of business disposals in
+discontinued operations and recorded a tax benefit of $19.0 million in the
+second quarter of 2002.
+
+       In February 2001, the Company sold Thermo Cardiosystems Inc. to Thoratec
+Corporation in exchange for 19.3 million shares of Thoratec common stock.
+Certain restrictions, which lapsed in August 2002, limited the timing of the
+Company's ability to sell these shares. The Company recorded an after-tax charge
+of $66.0 million in the first quarter of 2001 for a decline in market value of
+Thoratec common stock as a loss on disposal of discontinued operations. During
+the first quarter of 2002, the Company sold 6.9 million shares of Thoratec for
+net proceeds of $105 million, and realized an after-tax gain of $38.4 million as
+a gain on disposal of discontinued operations. Following the sale of shares in
+2002, the Company owned less than 20% of Thoratec's outstanding shares and began
+accounting for its investment as an available-for-sale security in continuing
+operations in the first quarter of 2002 with unrealized gains or losses recorded
+as part of accumulated other comprehensive items in the accompanying 2002
+balance sheet (Note 14).
+
+       In June 2001, the Company sold a substantial portion of its discontinued
+power-generation business for $238 million and realized a net of tax gain of
+$15.6 million on the disposition.
+
+Liquidity and Capital Resources
+
+       Consolidated working capital was $647.9 million at September 28, 2002,
+compared with $823.2 million at December 29, 2001. Included in working capital
+were cash, cash equivalents, and short-term available-for-sale investments of
+$856.3 million at September 28, 2002, compared with $1.042 billion at December
+29, 2001. In addition, the Company had $9.4 million of long-term
+available-for-sale investments at December 29, 2001.
+
+       Operating activities used cash of $1.3 million during the first nine
+months of 2002. The use of $53.6 million of cash by discontinued operations was
+substantially offset by cash of $52.3 million provided by continuing operations.
+Payments for restructuring actions of the Company's continuing operations,
+principally severance, lease costs, and other expenses of real estate
+consolidation, used cash of $50.0 million in the first nine months of 2002.
+Aside from cash used for restructuring actions, a decrease in other current
+liabilities used cash of $20.3 million, including $11.4 million of accrued
+payroll and employee benefits due to timing of payments, and $8.8 million of
+accrued interest, principally due to the debt redemption discussed in Note 5.
+The Company's cash flow from continuing operations in the first nine months of
+2002 was reduced by income tax payments of approximately $34 million related to
+gains on investments. The principal cash outflows from discontinued operations
+were the payment of liabilities, primarily for the settlement of litigation,
+including a patent-infringement matter (Note 15).
+
+       In connection with restructuring actions undertaken by the Company's
+continuing operations, the Company had accrued $44.2 million for restructuring
+costs at September 28, 2002. The Company expects to pay approximately $20.3
+million of this amount for severance, employee retention, and other costs
+primarily through 2003. The balance of $23.9 million will be paid for lease
+obligations over the remaining terms of the leases, with approximately 60% to be
+paid through 2003 and the remainder through 2012. In addition, at September 28,
+2002, the Company had accrued $8.9 million for acquisition expenses. Accrued
+acquisition expenses included $1.9 million of severance and relocation
+obligations, which the Company expects to pay primarily through mid-2003. The
+balance primarily represents abandoned-facility payments and will be paid over
+the remaining terms of the leases through 2014.
+
+<
+                                       32
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Liquidity and Capital Resources (continued)
+
+       During the first nine months of 2002, the primary investing activities of
+the Company's continuing operations, excluding available-for-sale investment
+activities, included the sale of other investments, acquisitions and
+divestitures, the collection of notes receivable, the purchase of shares of a
+majority-owned subsidiary, and the purchase of property, plant, and equipment.
+The Company's continuing operations received proceeds of $65.3 million from the
+sale of other investments, principally shares of FLIR (Note 4), and proceeds of
+$24.4 million from the sale of businesses net of cash divested (Note 2). In
+addition, the Company's continuing operations expended $78.3 million for
+acquisitions (Note 2), $22.1 million to purchase the remaining minority-owned
+shares of its Spectra-Physics subsidiary (Note 12), and $27.4 million for
+purchases of property, plant, and equipment, net of dispositions. The Company's
+continuing operations collected $74.0 million from notes receivable, which
+included the repayment of Viasys Healthcare Inc.'s $33.4 million principal
+amount note in May 2002, the August 2002 repayment of a $25.0 million principal
+amount note receivable related to the sale of a business in 2000, and partial
+repayment from Trimble Navigation Limited in March 2002 (Note 9). During the
+first nine months of 2002, investing activities of the Company's discontinued
+operations provided $106.0 million of cash, primarily representing proceeds of
+$105 million from the sale of Thoratec common stock (Note 14).
+
+       The Company's financing activities used $459.9 million of cash during the
+first nine months of 2002, including $460.3 million for continuing operations.
+During the first nine months of 2002, the Company's continuing operations
+expended $456.3 million to redeem the principal amount of its outstanding 4 1/4%
+and 4 5/8% subordinated convertible debentures due 2003 and increased short-term
+notes payable by $276.5 million to partially fund the debt redemption (Note 11).
+The Company's continuing operations received net proceeds of $15.0 million from
+the exercise of employee stock options. During the first nine months of 2002,
+the Company expended $292.7 million to repurchase its securities. As of
+September 28, 2002, the Company had approximately $101 million remaining under
+Board of Directors' authorizations to repurchase its own securities.
+
+       In October 2002, the Company redeemed all of its outstanding 4 1/2%
+senior convertible debentures due 2003 and 4 7/8% subordinated convertible
+debentures due 2004, with the objective of reducing interest costs. The
+principal amounts redeemed for the 4 1/2% and 4 7/8% debentures were $121.1
+million and $13.3 million, respectively. The redemption price was 100% of the
+principal amount of the debentures, plus accrued interest (Note 17).
+
+       The Company has no material commitments for purchases of property, plant,
+and equipment and expects that for all of 2002, such expenditures will
+approximate $50 - $55 million.
+
+       As of September 28, 2002, the Company's net debt (debt, net of cash and
+available-for-sale investments) totaled $187 million. The Company's net
+debt/liquidity position in the future will be primarily affected by the level of
+cash flow from operations and the amount of cash expended on acquisitions and
+repurchases of the Company's securities. The Company believes that its existing
+resources together with cash it expects to generate from operations are
+sufficient to meet the working capital requirements of its existing businesses
+for the foreseeable future, including at least the next 24 months.
+
+Item 3 - Quantitative and Qualitative Disclosures About Market Risk
+-------------------------------------------------------------------
+
+       The Company's exposure to market risk from changes in interest rates,
+currency exchange rates, and equity prices has not changed materially from its
+exposure at year-end 2001, except that a 10% decrease in market interest rates
+at September 28, 2002, would result in a negative impact to the Company of $2
+million on the net fair value of its interest-sensitive financial instruments; a
+10% decrease in market equity prices at September 28, 2002, would result in a
+negative impact to the Company of $11 million on the net fair value of its
+price-sensitive equity financial instruments; and a 100-basis point increase in
+90-day LIBOR at September 28, 2002, would increase the Company's annual pre-tax
+interest expense by $2 million.
+
+<
+                                       33
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Item 4 - Controls and Procedures
+--------------------------------
+
+       The Company's management, including its Chief Executive Officer and Chief
+Financial Officer, has conducted an evaluation of the effectiveness of
+disclosure controls and procedures within ninety days of the filing of this
+report pursuant to Exchange Act Rule 13a-14. Based on that evaluation, the Chief
+Executive Officer and Chief Financial Officer concluded that the disclosure
+controls and procedures are effective in ensuring that information required to
+be disclosed in the reports that the Company files or submits under the Exchange
+Act is recorded, processed, summarized, and reported within the time periods
+specified in Securities and Exchange Commission (SEC) rules and forms. There
+have been no significant changes in internal controls, or in factors that could
+significantly affect internal controls, subsequent to the date the Company's
+management, including its Chief Executive Officer and Chief Financial Officer,
+completed its evaluation.
+
+Forward-looking Statements
+
+       In connection with the "safe harbor" provisions of the Private Securities
+Litigation Reform Act of 1995, Thermo Electron wishes to caution readers that
+the following important factors, among others, in some cases have affected, and
+in the future could affect, Thermo Electron's actual results and could cause its
+actual results in 2002 and beyond to differ materially from those expressed in
+any forward-looking statements made by, or on behalf of, Thermo Electron.
+
+       Thermo Electron must develop new products, adapt to rapid and significant
+technological change, and respond to introductions of new products in order to
+remain competitive. Thermo Electron's growth strategy includes significant
+investment in and expenditures for product development, including in the area of
+proteomics. Thermo Electron sells its products in several industries that are
+characterized by rapid and significant technological changes, frequent new
+product and service introductions, and enhancements and evolving industry
+standards. Without the timely introduction of new products, services, and
+enhancements, Thermo Electron's products and services will likely become
+technologically obsolete over time, in which case its revenue and operating
+results would suffer.
+
+       Thermo Electron's customers use many of its products to develop, test,
+and manufacture their own products. As a result, Thermo Electron must anticipate
+industry trends and develop products in advance of the commercialization of its
+customers' products. If it fails to adequately predict its customers' needs and
+future activities, Thermo Electron may invest heavily in research and
+development of products and services that do not lead to significant revenue.
+
+       Many of its products and products under development are technologically
+innovative and require significant planning, design, development, and testing at
+the technological, product, and manufacturing-process levels. These activities
+require Thermo Electron to make significant investments.
+
+       Products in Thermo Electron's markets undergo rapid and significant
+technological change because of quickly changing industry standards and the
+introduction of new products and technologies that make existing products and
+technologies uncompetitive or obsolete. Thermo Electron's competitors may adapt
+more quickly to new technologies and changes in customers' requirements than
+Thermo Electron can. The products Thermo Electron is currently developing, or
+those it will develop in the future, may not be technologically feasible or
+accepted by the marketplace, and its products or technologies could become
+uncompetitive or obsolete.
+
+       Thermo Electron sells its products and services to a number of companies
+that operate in cyclical industries, which could adversely affect its results of
+operations when those industries experience a downturn. The growth and
+profitability of certain of Thermo Electron's businesses depend in part on sales
+to industries that are subject to cyclical downturns and are experiencing
+slowing trends. For example, Thermo Electron's Optical Technologies segment
+depends in part on sales to the semiconductor industry and the growth and
+profitability of Thermo Electron's Measurement and Control segment depends in
+part on sales to the steel and cement industries. A prolonged slowdown in these
+industries would adversely affect sales by these segments, which in turn could
+adversely affect Thermo Electron's revenues and results of operations.
+
+<
+                                       34
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Forward-looking Statements (continued)
+
+       Changes in governmental regulations may reduce demand for Thermo
+Electron's products or increase its expenses. Thermo Electron competes in many
+markets in which it and its customers must comply with federal, state, local,
+and international regulations, such as environmental, health and safety, and
+food and drug regulations. Thermo Electron develops, configures, and markets its
+products to meet customer needs created by those regulations. Any significant
+change in regulations could reduce demand for Thermo Electron's products. For
+example, many of Thermo Electron's instruments are marketed to the
+pharmaceutical industry for use in discovering and developing drugs. Changes in
+the U.S. Food and Drug Administration's regulation of the drug discovery and
+development process could have an adverse effect on the demand for these
+products.
+
+       Demand for some of Thermo Electron's products depends on capital spending
+policies of its customers and on government funding policies. Thermo Electron's
+customers include manufacturers of semiconductors and products incorporating
+semiconductors, pharmaceutical and chemical companies, laboratories,
+universities, healthcare providers, government agencies, and public and private
+research institutions. Many factors, including public policy spending
+priorities, available resources, and product and economic cycles, have a
+significant effect on the capital spending policies of these entities. These
+policies in turn can have a significant effect on the demand for our products.
+
+       Thermo Electron faces a number of challenges in integrating and
+consolidating its businesses. Thermo Electron has historically operated its
+businesses largely as autonomous, unaffiliated operations. Thermo Electron is
+consolidating its operations and managing them in a more coordinated manner. The
+following factors may make it difficult to successfully integrate and
+consolidate Thermo Electron's operations:
+
+       - Thermo Electron's success in integrating these businesses depends on
+its ability to coordinate or consolidate geographically separate organizations
+and integrate personnel with different business backgrounds and corporate
+cultures.
+
+       - Thermo Electron's ability to combine these businesses requires
+coordination of previously autonomous administrative, sales and marketing,
+distribution, and accounting and finance functions, and expansion and
+integration of information and management systems.
+
+       - The integration and consolidation process could be disruptive to Thermo
+Electron's businesses.
+
+       Moreover, Thermo Electron may not be able to realize all of the cost
+savings and other benefits that it expects to result from the integration and
+consolidation process.
+
+       It may be difficult for Thermo Electron to implement its strategies for
+improving internal growth. Some of the markets in which Thermo Electron competes
+have been flat or declining over the past several years. To address this issue,
+Thermo Electron is pursuing a number of strategies to improve its internal
+growth, including:
+
+       - finding new markets for its products, including in the area of
+         proteomics;
+
+       - developing new applications for its technologies;
+
+       - combining sales and marketing operations in appropriate markets to
+         compete more effectively;
+
+       - actively funding research and development; and
+
+       - strengthening its presence in selected geographic markets.
+
+       Thermo Electron may not be able to successfully implement these
+strategies, and these strategies may not result in growth of Thermo Electron's
+business.
+
+<
+                                       35
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+Forward-looking Statements (continued)
+
+       As a result of the spin-off of Kadant, Thermo Electron remains as the
+guarantor of indebtedness issued by Kadant even though Thermo Electron no longer
+controls Kadant's business or operations. Thermo Electron has guaranteed the
+payment of principal and interest on debentures issued by Kadant, the
+outstanding principal balance of which was $86.2 million as of September 28,
+2002. These debentures mature in July 2004. Thermo Electron remains liable as a
+guarantor for this obligation following the spin-off.
+
+       Thermo Electron has significant international operations, which entail
+the risk that exchange rate fluctuations may negatively affect demand for its
+products and its profitability. International revenues account for a substantial
+portion of Thermo Electron's revenues, and Thermo Electron intends to continue
+expanding its presence in international markets. In 2001, Thermo Electron's
+international revenues from continuing operations, including export revenues
+from the United States, accounted for approximately 50% of its total revenues.
+International revenues are subject to the risk that changes in exchange rates
+may adversely affect product demand and the profitability in U.S. dollars of
+products and services provided by Thermo Electron in international markets,
+where payment for Thermo Electron's products and services is made in the local
+currency. For example, in fiscal 2001, the unfavorable effects of currency
+translation decreased revenues of Thermo Electron's continuing operations by
+$46.5 million.
+
+       Thermo Electron has acquired several companies and businesses; as a
+result it has recorded significant goodwill on its balance sheet, which it must
+continually evaluate for potential impairment. Thermo Electron has acquired
+significant intangible assets, including approximately $1.4 billion of goodwill
+that it has recorded on its balance sheet as of September 28, 2002. Thermo
+Electron assesses the realizability of the goodwill it has on its books annually
+as well as whenever events or changes in circumstances indicate that the
+goodwill may be impaired. These events or circumstances generally include
+operating losses or a significant decline in earnings associated with the
+acquired business or asset. Thermo Electron's ability to realize the value of
+the goodwill that it has recorded as a result of its acquisition of the minority
+interests in its formerly publicly-traded subsidiaries will depend on the future
+cash flows of these businesses. These cash flows in turn depend in part on how
+well Thermo Electron has integrated these businesses.
+
+PART II - OTHER INFORMATION
+
+Item 6 - Exhibits and Reports on Form 8-K
+-----------------------------------------
+
+(a)    Exhibits
+
+       See Exhibit Index on page immediately preceding exhibits.
+
+(b)    Report on Form 8-K
+
+       On September 4, 2002, the Company filed a Current Report on Form 8-K with
+respect to the submission of sworn statements to the SEC pursuant to SEC Order
+No. 4-460.
+
+
+
+<
+                                       36
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                                   SIGNATURES
+
+
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized as of the 8th day of November 2002.
+
+                               THERMO ELECTRON CORPORATION
+
+
+
+                               /s/ Theo Melas-Kyriazi
+                               -------------------------------------------------
+                               Theo Melas-Kyriazi
+                               Vice President and Chief Financial Officer
+
+
+
+                               /s/ Peter E. Hornstra
+                               -------------------------------------------------
+                               Peter E. Hornstra
+                               Corporate Controller and Chief Accounting Officer
+
+<
+                                       37
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                                 CERTIFICATIONS
+
+
+I, Richard F. Syron, certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q of Thermo Electron
+     Corporation;
+
+2.   Based on my knowledge, this quarterly report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this quarterly report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this quarterly report, fairly present in all
+     material respects the financial condition, results of operations and cash
+     flows of the registrant as of, and for, the periods presented in this
+     quarterly report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+     a)  designed such disclosure controls and procedures to ensure that
+         material information relating to the registrant, including its
+         consolidated subsidiaries, is made known to us by others within those
+         entities, particularly during the period in which this quarterly report
+         is being prepared;
+
+     b)  evaluated the effectiveness of the registrant's disclosure controls and
+         procedures as of a date within 90 days prior to the filing date of this
+         quarterly report (the "Evaluation Date"); and
+
+     c)  presented in this quarterly report our conclusions about the
+         effectiveness of the disclosure controls and procedures based on our
+         evaluation as of the Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+     a)  all significant deficiencies in the design or operation of internal
+         controls which could adversely affect the registrant's ability to
+         record, process, summarize and report financial data and have
+         identified for the registrant's auditors any material weaknesses in
+         internal controls; and
+
+     b)  any fraud, whether or not material, that involves management or other
+         employees who have a significant role in the registrant's internal
+         controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     quarterly report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+
+Date:  November 8, 2002
+
+                                                         /s/ Richard F. Syron
+                                                         -----------------------
+                                                         Richard F. Syron
+                                                         Chief Executive Officer
+
+<
+                                       38
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+I, Theo Melas-Kyriazi, certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q of Thermo Electron
+     Corporation;
+
+2.   Based on my knowledge, this quarterly report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this quarterly report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this quarterly report, fairly present in all
+     material respects the financial condition, results of operations and cash
+     flows of the registrant as of, and for, the periods presented in this
+     quarterly report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+     a)  designed such disclosure controls and procedures to ensure that
+         material information relating to the registrant, including its
+         consolidated subsidiaries, is made known to us by others within those
+         entities, particularly during the period in which this quarterly report
+         is being prepared;
+
+     b)  evaluated the effectiveness of the registrant's disclosure controls and
+         procedures as of a date within 90 days prior to the filing date of this
+         quarterly report (the "Evaluation Date"); and
+
+     c)  presented in this quarterly report our conclusions about the
+         effectiveness of the disclosure controls and procedures based on our
+         evaluation as of the Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+     a)  all significant deficiencies in the design or operation of internal
+         controls which could adversely affect the registrant's ability to
+         record, process, summarize and report financial data and have
+         identified for the registrant's auditors any material weaknesses in
+         internal controls; and
+
+     b)  any fraud, whether or not material, that involves management or other
+         employees who have a significant role in the registrant's internal
+         controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     quarterly report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+
+Date:  November 8, 2002
+
+
+                                                         /s/ Theo Melas-Kyriazi
+                                                         -----------------------
+                                                         Theo Melas-Kyriazi
+                                                         Chief Financial Officer
+
+<
+                                       39
+<PAGE>
+>
+                           THERMO ELECTRON CORPORATION
+
+                                  EXHIBIT INDEX
+
+Exhibit
+Number            Description
+--------------------------------------------------------------------------------
+
+ 99.1    Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant
+         to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+ 99.2    Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant
+         to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+
+
+
+<
+                                       40
+<PAGE>
+>
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

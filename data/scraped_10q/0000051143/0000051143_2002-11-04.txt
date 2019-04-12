@@ -1,0 +1,2363 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a2092126z10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+<Page>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+
+                                   FORM 10 - Q
+
+
+                QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+                    FOR THE QUARTER ENDED SEPTEMBER 30, 2002
+
+
+                                     1-2360
+                                     ------
+                            (Commission file number)
+
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+         New York                                          13-0871985
+         --------                                          ----------
+(State of incorporation)                    (IRS employer identification number)
+
+
+           Armonk, New York                                 10504
+           ----------------                                 -----
+(Address of principal executive offices)                 (Zip Code)
+
+
+                                  914-499-1900
+                                  ------------
+                         (Registrant's telephone number)
+
+       Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section l3 or l5(d) of the Securities Exchange Act of
+1934 during the preceding l2 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/  No / /
+
+       The registrant has 1,690,087,776 shares of common stock outstanding at
+September 30, 2002.
+
+<Page>
+
+                                      INDEX
+
+<Table>
+<Caption>
+                                                                                                     PAGE
+                                                                                                     ----
+<S>                                                                                               <C>
+Part I - Financial Information:
+
+Item 1. Consolidated Financial Statements
+
+   Consolidated Statement of Earnings for the three and nine
+      months ended September 30, 2002 and 2001  . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+
+   Consolidated Statement of Financial Position at
+      September 30, 2002 and December 31, 2001  . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+
+   Consolidated Statement of Cash Flows for the nine months
+      ended September 30, 2002 and 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+
+   Notes to Consolidated Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+Item 2.  Management's Discussion and Analysis of
+                     Results of Operations and Financial Condition  . . . . . . . . . . . . . . . . .  14
+
+Item 4.  Controls and Procedures  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+
+Part II - Other Information   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+</Table>
+
+
+<Page>
+
+                         PART I - FINANCIAL INFORMATION
+
+ITEM 1. CONSOLIDATED FINANCIAL STATEMENTS
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                       CONSOLIDATED STATEMENT OF EARNINGS
+                                   (UNAUDITED)
+
+<Table>
+<Caption>
+(Dollars in millions except                  Three Months Ended            Nine Months Ended
+per share amounts)                              September 30,                 September 30,
+                                           -----------------------       -----------------------
+                                             2002           2001*          2002           2001*
+                                           --------       --------       --------       --------
+<S>                                        <C>            <C>            <C>            <C>
+REVENUE:
+Global Services                            $  8,895       $  8,682       $ 25,785       $ 25,895
+Hardware                                      6,764          6,834         19,320         22,564
+Software                                      3,110          3,201          9,273          9,155
+Global Financing                                795            822          2,403          2,499
+Enterprise Investments/Other                    257            244            721            813
+                                           --------       --------       --------       --------
+TOTAL REVENUE                                19,821         19,783         57,502         60,926
+
+
+COST:
+Global Services                               6,540          6,214         19,015         18,854
+Hardware                                      4,957          4,997         14,420         15,682
+Software                                        500            591          1,549          1,705
+Global Financing                                348            403          1,044          1,279
+Enterprise Investments/Other                    153            144            381            450
+                                           --------       --------       --------       --------
+TOTAL COST                                   12,498         12,349         36,409         37,970
+                                           --------       --------       --------       --------
+
+GROSS PROFIT                                  7,323          7,434         21,093         22,956
+
+EXPENSE AND OTHER INCOME:
+
+Selling, general and administrative           3,987          4,085         13,298         12,350
+Research, development and engineering         1,213          1,252          3,546          3,745
+Intellectual property and custom
+  development income                           (232)          (393)          (771)        (1,012)
+Other (income) and expense                      (83)            29            111           (164)
+Interest expense                                 34             53             97            181
+                                           --------       --------       --------       --------
+ TOTAL EXPENSE AND OTHER INCOME               4,919          5,026         16,281         15,100
+
+Income from continuing
+operations before income taxes                2,404          2,408          4,812          7,856
+Provision for income taxes                      710            695          1,389          2,275
+                                           --------       --------       --------       --------
+Income from continuing operations             1,694          1,713          3,423          5,581
+</Table>
+
+
+* Reclassified to conform with 2002 presentation.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+                                      -1-
+<Page>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                CONSOLIDATED STATEMENT OF EARNINGS - (CONTINUED)
+                                   (UNAUDITED)
+
+<Table>
+<Caption>
+(Dollars in millions except                  Three Months Ended              Nine Months Ended
+per share amounts)                              September 30,                  September 30,
+                                         --------------------------       -------------------------
+                                            2002            2001*           2002            2001*
+                                         ---------        ---------       ---------       ---------
+<S>                                        <C>            <C>            <C>            <C>
+DISCONTINUED OPERATIONS (NOTE 3)
+Loss from discontinued operations             (381)            (118)           (862)           (191)
+                                         ---------        ---------       ---------       ---------
+NET INCOME                                   1,313            1,595           2,561           5,390
+
+Preferred stock dividends                       --               --              --              10
+                                         ---------        ---------       ---------       ---------
+NET INCOME APPLICABLE TO
+  COMMON SHAREHOLDERS                    $   1,313        $   1,595       $   2,561       $   5,380
+                                         =========        =========       =========       =========
+
+Earnings per share of common stock:
+  Assuming dilution
+    Continuing operations                $    0.99        $    0.97       $    1.97       $    3.14
+    Discontinued operations                  (0.22)           (0.07)          (0.50)          (0.11)
+                                         ---------        ---------       ---------       ---------
+    Total                                $    0.76+       $    0.90       $    1.47       $    3.03
+                                         =========        =========       =========       =========
+
+  Basic
+    Continuing operations                $    1.00        $    0.99       $    2.01       $    3.21
+    Discontinued operations                  (0.23)           (0.07)          (0.51)          (0.11)
+                                         ---------        ---------       ---------       ---------
+      Total                              $    0.78+       $    0.92       $    1.50       $    3.10
+                                         =========        =========       =========       =========
+
+AVERAGE NUMBER OF COMMON
+  SHARES OUTSTANDING: (MILLIONS)
+
+  Assuming dilution                        1,711.7          1,767.9         1,731.7         1,775.6
+  Basic                                    1,690.5          1,731.8         1,704.6         1,737.0
+
+Cash dividends per common share          $    0.15        $    0.14       $    0.44       $    0.41
+</Table>
+
+
+* Reclassified to conform with 2002 presentation.
+
++ Does not total due to rounding.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+                                      -2-
+<Page>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                  CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+
+                                     ASSETS
+
+<Table>
+<Caption>
+                                                         At September 30,
+(Dollars in millions)                                         2002          At December 31,
+                                                           (Unaudited)          2001*
+                                                         ----------------   ---------------
+<S>                                                         <C>                <C>
+ASSETS
+  Current assets:
+  Cash and cash equivalents                                 $ 5,216            $ 6,330
+  Marketable securities--at fair value,
+    which approximates market                                     6                 63
+  Notes and accounts receivable--trade, net of
+    allowances                                                8,449              9,101
+  Short-term financing receivables                           14,456             16,656
+  Other accounts receivable                                   1,299              1,261
+  Inventories, at lower of average cost or net
+    realizable value:
+    Finished goods                                            1,034              1,259
+    Work in process and raw materials                         2,390              3,045
+                                                            -------            -------
+  Total inventories                                           3,424              4,304
+  Deferred taxes                                              2,315              2,402
+  Intangible assets                                              83                122
+  Prepaid expenses and other current assets                   2,068              2,222
+                                                            -------            -------
+  Total current assets                                       37,316             42,461
+
+  Plant, rental machines and other property                  36,056             38,375
+    Less: Accumulated depreciation                           21,605             21,871
+                                                            -------            -------
+  Plant, rental machines and other property--net             14,451             16,504
+  Long-term financing receivables                            11,212             12,246
+  Intangible assets                                             280                356
+  Goodwill                                                    1,437              1,278
+  Investments and sundry assets                              17,289             15,468
+  Assets of discontinued operations                           1,971                 --
+                                                            -------            -------
+  TOTAL ASSETS                                              $83,956            $88,313
+                                                            =======            =======
+</Table>
+
+* Reclassified to conform with 2002 presentation.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+                                      -3-
+<Page>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+           CONSOLIDATED STATEMENT OF FINANCIAL POSITION - (CONTINUED)
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+<Table>
+<Caption>
+                                                     At September 30,
+(Dollars in millions except                               2002            At December 31,
+ per share amounts)                                    (Unaudited)             2001*
+                                                     ----------------     ---------------
+
+<S>                                                     <C>                  <C>
+LIABILITIES AND STOCKHOLDERS' EQUITY
+  Current liabilities:
+    Taxes                                               $  3,833             $  4,644
+    Short-term debt                                        7,971               11,188
+    Accounts payable and accruals                         18,435               19,287
+                                                        --------             --------
+  Total current liabilities                               30,239               35,119
+
+  Long-term debt                                          17,773               15,963
+  Other liabilities                                       13,667               13,617
+  Liabilities of discontinued operations                     185                   --
+                                                        --------             --------
+  TOTAL LIABILITIES                                       61,864               64,699
+
+  STOCKHOLDERS' EQUITY:
+    Common stock - par value $.20 per share               14,572               14,248
+      Shares authorized: 4,687,500,000
+      Shares issued: 2002 - 1,918,678,874
+                     2001 - 1,913,513,218
+    Retained earnings                                     31,653               30,142
+
+    Treasury stock - at cost                             (23,322)             (20,114)
+      Shares: 2002 - 228,591,098
+              2001 - 190,319,489
+    Accumulated gains and losses not
+      affecting retained earnings                           (811)                (662)
+                                                        --------             --------
+  TOTAL STOCKHOLDERS' EQUITY                              22,092               23,614
+                                                        --------             --------
+  TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY            $ 83,956             $ 88,313
+                                                        ========             ========
+</Table>
+
+* Reclassified to conform with 2002 presentation.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+                                      -4-
+<Page>
+
+                  INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+               FOR THE NINE MONTHS ENDED SEPTEMBER 30, (UNAUDITED)
+
+<Table>
+<Caption>
+(Dollars in millions)                                                   2002                2001
+                                                                      -------             -------
+<S>                                                                   <C>                 <C>
+CASH FLOW FROM OPERATING ACTIVITIES FROM
+CONTINUING OPERATIONS:
+  Income from continuing operations                                   $ 3,423             $ 5,581
+  Adjustments to reconcile income from continuing
+    operations to cash provided from operating activities:
+      Depreciation                                                      3,276               2,966
+      Amortization of software                                            506                 456
+      (Gain)/loss on disposition of fixed and other assets               (221)                174
+      Changes in operating assets and liabilities                       2,431                (112)
+                                                                      -------             -------
+  NET CASH PROVIDED FROM OPERATING ACTIVITIES FROM
+    CONTINUING OPERATIONS                                               9,415               9,065
+                                                                      -------             -------
+CASH FLOW FROM INVESTING ACTIVITIES FROM
+CONTINUING OPERATIONS:
+  Payments for plant, rental machines
+    and other property, net of proceeds                                (2,851)             (3,362)
+  Investment in software                                                 (420)               (486)
+  Acquisition of Informix                                                  --                (889)
+  Purchases of marketable securities and other
+    investments                                                          (476)               (716)
+  Proceeds from marketable securities and other
+    investments                                                           443                 549
+                                                                      -------             -------
+  NET CASH USED IN INVESTING ACTIVITIES FROM
+    CONTINUING OPERATIONS                                              (3,304)             (4,904)
+                                                                      -------             -------
+CASH FLOW FROM FINANCING ACTIVITIES FROM
+CONTINUING OPERATIONS:
+  Proceeds from new debt                                                3,969               4,208
+  Payments to settle debt                                              (3,983)             (5,583)
+  Short-term (repayments)/borrowings less than
+    90 days--net                                                       (2,639)              1,370
+  Common stock transactions--net                                       (3,327)             (3,171)
+  Preferred stock transactions                                             --                (247)
+  Cash dividends paid                                                    (751)               (725)
+                                                                      -------             -------
+  NET CASH USED IN FINANCING ACTIVITIES FROM
+  CONTINUING OPERATIONS                                                (6,731)             (4,148)
+                                                                      -------             -------
+
+Effect of exchange rate changes on
+  cash and cash equivalents                                                94                 (32)
+
+Net cash flow (used in)/provided by discontinued
+  operations                                                             (588)                171
+                                                                      -------             -------
+Net change in cash and cash equivalents                                (1,114)                152
+
+Cash and cash equivalents at January 1                                  6,330               3,563
+                                                                      -------             -------
+CASH AND CASH EQUIVALENTS AT SEPTEMBER 30                             $ 5,216             $ 3,715
+                                                                      =======             =======
+</Table>
+
+(The accompanying notes are an integral part of the financial statements.)
+
+                                      -5-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. In the opinion of the management of International Business Machines
+Corporation (the company), all adjustments, which are of a normal recurring
+nature, necessary to a fair statement of the results for the unaudited three-
+and nine-month periods have been made.
+
+2. The following table summarizes Net income plus gains and losses not affecting
+retained earnings.
+
+<Table>
+<Caption>
+(Dollars in millions)                    Three Months Ended        Nine Months Ended
+                                            September 30,             September 30,
+                                        --------------------      --------------------
+                                          2002        2001*         2002        2001*
+                                        -------      -------      -------      -------
+<S>                                     <C>          <C>          <C>          <C>
+Net Income                              $ 1,313      $ 1,595      $ 2,561      $ 5,390
+                                        -------      -------      -------      -------
+Gains and losses not affecting
+  retained earnings (net of tax):
+  Foreign currency translation
+    adjustments                             (39)          37          411         (475)
+  Minimum pension liability
+    adjustments                               5           --           23           (4)
+  Net unrealized (losses)/gains on
+    marketable securities                    (3)          19          (16)          65
+  Net unrealized gains/(losses) on
+    cash flow hedge derivatives              19         (318)        (567)         162
+                                        -------      -------      -------      -------
+Total losses not
+  affecting retained earnings               (18)        (262)        (149)        (252)
+                                        -------      -------      -------      -------
+Net income plus losses
+  not affecting retained earnings       $ 1,295      $ 1,333      $ 2,412      $ 5,138
+                                        =======      =======      =======      =======
+</Table>
+
+* Reclassified to conform with 2002 presentation.
+
+3. On June 3, 2002, the company signed an agreement with Hitachi to sell the
+company's Hard Disk Drive (HDD) business. The estimated proceeds from the sale
+are approximately $2 billion, 70 percent of which is due upon closing, and the
+estimated loss on disposal is approximately $135 million, net of tax. The loss
+on disposal is recorded in the Loss from discontinued operations in the
+Consolidated Statement of Earnings. Adjustments to the estimated loss,
+if any, will continue to be recorded through the date on which the transaction
+closes, which is subject to regulatory approvals.
+
+       The HDD business is accounted for as a discontinued operation and
+therefore, the results of operations and cash flows have been removed from the
+company's results of continuing operations for all periods presented in this
+document. The results from discontinued operations are discussed on page 25. The
+financial results reported as discontinued operations include the external
+original equipment manufacturer (OEM) hard disk drive business and certain
+charges related to hard disk drives used in the company's e-server and e-storage
+products that were recorded in the Technology segment. The discontinued
+operations results do not reflect hard disk drive shipments to IBM internal
+customers. The HDD business was part of the company's Technology external
+reporting segment. The results of operations for HDD have been excluded from the
+Segment Information exhibit.
+
+
+                                      -6-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+       In October 2002, the company announced certain restructuring actions
+related to its discontinued HDD business. The company expects to record a charge
+of up to approximately $250 million, net of tax, in discontinued operations
+associated with these announced actions in the fourth quarter of 2002.
+
+       In addition, upon closing, it is anticipated that the company will incur
+a significant U.S. tax charge in discontinued operations related to the
+repatriation of divestiture proceeds from certain countries with low tax rates.
+The company estimates that the charge will not exceed $300 million.
+
+       Summarized selected financial information for the discontinued operations
+is as follows:
+
+<Table>
+<Caption>
+(Dollars in millions)        Three Months Ended              Nine Months Ended
+                               September 30,                   September 30,
+                          -----------------------         -----------------------
+                            2002            2001            2002            2001
+                          -------         -------         -------         -------
+<S>                       <C>             <C>             <C>             <C>
+Revenue                   $   498         $   645         $ 1,398         $ 2,114
+                          =======         =======         =======         =======
+Pre-tax loss              $  (435)        $  (144)        $(1,135)        $  (202)
+Income tax benefit            (54)            (26)           (273)            (11)
+                          -------         -------         -------         -------
+Net loss                  $  (381)        $  (118)        $  (862)        $  (191)
+                          =======         =======         =======         =======
+</Table>
+
+       The assets and liabilities of discontinued operations are stated
+separately as of September 30, 2002 on the Consolidated Statement of Financial
+Position. The major asset and liability categories are as follows:
+
+(Dollars in millions)                                   At September 30,
+                                                              2002
+                                                        ----------------
+Inventories                                                 $  456
+Prepaid expenses and other current assets                       21
+Net plant, rental machines and other property                1,494
+                                                            ------
+Assets of discontinued operations                           $1,971
+                                                            ======
+
+Liabilities of discontinued operations                      $  185
+                                                            ======
+
+4. During the second quarter of 2002, the company executed several actions in
+its Microelectronics Division. The Microelectronics Division is within the
+company's Technology segment. These actions are the result of the company's
+announced intentions to refocus and direct its microelectronics business to the
+high-end foundry, ASICs and standard products, while creating a technology
+services business. A major part of the actions relate to a significant reduction
+in the company's manufacturing capacity for aluminum technology.
+
+       In addition, the company rebalanced both its workforce and leased space
+resources primarily in response to the recent decline in corporate spending on
+technology services.
+
+
+                                      -7-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+       The following table summarizes the significant components of these
+actions:
+
+<Table>
+<Caption>
+
+(Dollars in millions)
+                    ----------------------------------------------------------------------------------------------------
+                         Total         Sale or          Liability
+                        pre-tax       write-off        recorded in                          Other        Liability as of
+                        charges       of assets    Second Quarter 2002   Payments        Adjustments+         9/30/02
+                    ----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>          <C>                   <C>                <C>            <C>
+MICROELECTRONICS:
+
+ Machinery/equipment:     $423          $323(A)
+
+     Current                                            $67(B)*            $ 19              $ 11               $59
+     Non-current                                         33(B)**              -               (11)               22
+ Non cancelable purchase
+   commitments:             60
+     Current                                             35(C)*               7                 3                31
+     Non-current                                         25(C)**              -               (11)               14
+ Employee terminations:     45
+     Current                                             44(D)*              36                (5)               3
+     Non-current                                          1(D)**              -                 -                1
+ Vacant space:              11
+     Current                                              5(E)*               -                 -                5
+     Non-current                                          6(E)**              -                 -                6
+ Sale of Endicott
+    facility               223           221(F)           2(F)*               -                 -                2
+ Sale of certain
+    operations              63            53(G)          10(G)*               8                 -                2
+
+GLOBAL SERVICES
+  AND OTHER:
+
+  Employee
+   terminations:           722
+     Current                                            671(H)*             413               (13)            245
+     Non-current                                         51(H)**              -                41              92
+  Vacant space:            180            29(I)
+     Current                                             57(I)*              11                15              61
+     Non-current                                         94(I)**              -                (9)             85
+                    -----------------------------------------------------------------------------------------------
+                        $1,727          $626         $1,101                $494               $21            $628
+                        ======          ====         ======                ====               ===            ====
+</Table>
+
++      Principally represents currency translation adjustments and
+       reclassification of non-currrent to current.
+*      Recorded in Accounts payable and accruals on the Consolidated Statement
+       of Financial Position.
+**     Recorded in Other liabilities on the Consolidated Statement of Financial
+       Position.
+
+(A) This amount was recorded in Selling, general and administrative (SG&A)
+expense in the second quarter of 2002 and primarily represents the abandonment
+and loss on sale of certain capital assets during the second quarter 2002.
+
+(B) This amount is comprised of costs incurred to remove abandoned capital
+assets and the remaining lease payments for leased equipment that was abandoned
+in the second quarter of 2002. The company expects to pay the removal costs by
+June 30, 2003. The remaining lease payments will continue through 2005. These
+amounts were recorded in SG&A expense in the second quarter of 2002.
+
+
+                                      -8-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+(C) The company is subject to certain noncancelable purchase commitments. As a
+result of the decision to significantly reduce aluminum capacity, the company no
+longer has a need for certain materials subject to these agreements. The
+required future payments for materials no longer needed under these contracts
+are expected to be paid over two years. This amount was recorded in SG&A expense
+in the second quarter of 2002.
+
+(D) The workforce reductions represent 1,400 people of which approximately 91
+percent left the business as of September 30, 2002. These amounts were recorded
+in SG&A expense in the second quarter of 2002. The non-current portion of the
+liability relates to terminated employees who were granted annual payments to
+supplement their statutory or government pensions in certain countries. These
+contractually required payments will continue until the former employee dies.
+
+(E) The space accruals are for ongoing obligations to pay rent for vacant space
+that could not be sublet or space that was sublet at rates lower than the
+committed lease arrangements. The length of these obligations varies by lease
+with the longest extending through 2006. These charges were recorded in Other
+(income) and expense on the Consolidated Statement of Earnings in the second
+quarter of 2002.
+
+(F) As part of the company's strategic realignment of its Microelectronics
+business to exit the manufacture and sale of certain products and component
+technologies, the company signed an agreement in the second quarter of 2002
+to sell its interconnect products operations in Endicott to Endicott
+Interconnect Technologies, Inc. (EIT). As a result of this transaction, the
+company incurred a $223 million loss on sale, primarily relating to the land,
+buildings, machinery and equipment. This loss was recorded in Other (income)
+and expense on the Consolidated Statement of Earnings in the second quarter
+of 2002. The transaction closed in the fourth quarter of 2002. The company
+entered into a limited supply agreement with EIT for future products, and it
+will also lease back at fair market value rental rates approximately one
+third of the Endicott campus' square footage for operations outside the
+interconnect OEM business.
+
+(G) As part of the strategic realignment of the company's Microelectronics
+business, the company agreed to sell certain assets and liabilities comprising
+its Mylex business to LSI Logic Corporation and the company sold part of its
+wireless phone chipset operations to TriQuint Semiconductor, Inc. in June 2002.
+The Mylex transaction was completed in August 2002. The loss of $74 million for
+the Mylex transaction and the realized gain of $(11) million for the chipset
+sale were recorded in Other (income) and expense on the Consolidated Statement
+of Earnings in the second quarter of 2002.
+
+(H) The majority of the workforce reductions relate to the company's Global
+Services business. The workforce reductions represent 14,213 people of which
+approximately 85 percent left the company as of September 30, 2002. See D above
+for information on the non-current portion of the liability. These charges were
+included in SG&A expense on the Consolidated Statement of Earnings in the second
+quarter of 2002.
+
+(I) The space accruals are for ongoing obligations to pay rent for vacant space
+that could not be sublet or space that was sublet at rates lower than the
+committed lease arrangements. This space
+
+
+                                      -9-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+relates primarily to workforce dynamics in the Global Services business and the
+downturn in corporate technology spending on services. The length of these
+obligations varies by lease with the longest extending through 2009. These
+charges were recorded in Other (income) and expense on the Consolidated
+Statement of Earnings in the second quarter of 2002.
+
+       The following table provides the liability balances for actions that the
+company took through 1993 and special actions in 1999. The second quarter 2002
+actions discussed above are not included below but are presented in the table
+above.
+
+<Table>
+<Caption>
+                         Liability                                       Liability
+                          as of                                            as of
+                        12/31/2001      Payments      Other Adj.(c)      9/30/2002
+                        ----------      --------      -------------      ---------
+<S>                        <C>             <C>             <C>              <C>
+Current:
+  Workforce (a)            $ 87            $ 72            $ 52             $ 67
+  Space (b)                  65              52              45               58
+                           ----            ----            ----             ----
+Total                      $152            $124            $ 97             $125
+Non-current:
+  Workforce (a)            $385            $ --            $  9             $394
+  Space (b)                 204              --             (45)             159
+                           ----            ----            ----             ----
+Total                      $589            $ --            $(36)            $553
+</Table>
+
+(a) Workforce accruals relate to terminated employees who are no longer working
+for the company, but who were granted annual payments to supplement their state
+pensions in certain countries. These contractually required payments will
+continue until the former employee dies.
+
+(b) Space accruals are for ongoing obligations to pay rent for vacant space that
+could not be sublet or space that was sublet at rates lower than the committed
+lease arrangement. The length of these obligations varies by lease with the
+longest extending through 2012.
+
+(c) Principally represents reclassification of non-current to current and
+currency translation adjustments.
+
+5. In July 2001, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards Board (SFAS) No. 142, "Goodwill and
+Other Intangible Assets." This standard eliminates the amortization of goodwill,
+requires annual impairment testing of goodwill and introduces the concept of
+indefinite life intangible assets. The new standard also prohibits the
+amortization of goodwill associated with business combinations that close after
+June 30, 2001. The company completed the required initial transition impairment
+test as of January 2002 and determined that its goodwill is not impaired.
+
+
+                                      -10-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+       The changes in the carrying amount of goodwill, by external reporting
+segment, for the period ended September 30, 2002, are as follows:
+
+<Table>
+<Caption>
+                                                                                                            Foreign
+                                                 Assembled                     Purchase                     Currency
+                                     Balance     Workforce      Goodwill        Price                      Translation     Balance
+            Segment                  1/1/02      Reclass(*)    Additions     Adjustments   Divestitures    Adjustments     9/30/02
+            -------                  ------      ----------    ---------     -----------   ------------    -----------     -------
+<S>                                  <C>           <C>           <C>           <C>            <C>            <C>           <C>
+Global Services                      $  325        $   --        $   37        $    7         $   --         $   19        $  388
+Enterprise Systems                      111            26            --            --             --             --           137
+Personal and Printing Systems            13            --            --            --             --             --            13
+Technology                              102             5            --            --            (83)            --            24
+Software                                727             2           155           (11)            --              2           875
+Global Financing                         --            --            --            --             --             --            --
+Enterprise Investments                   --            --            --            --             --             --            --
+                                     ------        ------        ------        ------         ------         ------        ------
+Total                                $1,278        $   33        $  192        $   (4)        $  (83)        $   21        $1,437
+</Table>
+
+(*) In accordance with SFAS No. 141, "Business Combinations," the unamortized
+balance for acquired assembled workforce, which had been recognized as an
+intangible asset separate from goodwill, has been reclassified to goodwill
+effective January 1, 2002.
+
+       There were no goodwill impairment losses recorded during the period.
+
+       The following table presents the 2001 quarter-to-date and 2001
+year-to-date results of operations reformatted to exclude goodwill amortization.
+These adjusted 2001 results are presented as required by SFAS 142 to allow a
+comparison between 2002 actual results and the adjusted 2001 results whereby
+both sets of results exclude goodwill amortization. The first table includes
+income from continuing operations and earnings per share from continuing
+operations. The second table presents the same data for the total company
+including both continuing operations and discontinued operations.
+
+                  2001 ADJUSTED TO REMOVE GOODWILL AMORTIZATION
+                              CONTINUING OPERATIONS
+
+<Table>
+<Caption>
+(Dollars in millions except            Three Months Ended     Nine Months Ended
+   per share amounts)                  September 30, 2001     September 30, 2001
+                                       ------------------     ------------------
+<S>                                        <C>                     <C>
+Reported  income from
+  continuing operations                    $   1,713               $   5,581
+Add: Goodwill amortization,
+       net of tax effects                         62                     193
+                                           ---------               ---------
+Adjusted income                            $   1,775               $   5,774
+BASIC EARNINGS PER SHARE FROM
+  CONTINUING OPERATIONS:
+Reported income                            $    0.99               $    3.21
+Goodwill amortization                           0.04                    0.11
+                                           ---------               ---------
+Adjusted basic earnings per share          $    1.03               $    3.32
+DILUTED EARNINGS PER SHARE FROM
+  CONTINUING OPERATIONS:
+Reported income                            $    0.97               $    3.14
+Goodwill amortization                           0.04                    0.11
+                                           ---------               ---------
+Adjusted diluted earnings per share        $    1.00*              $    3.24*
+</Table>
+
+* Does not total due to rounding.
+
+
+                                      -11-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+                  2001 ADJUSTED TO REMOVE GOODWILL AMORTIZATION
+                                TOTAL OPERATIONS
+
+<Table>
+<Caption>
+(Dollars in millions except                 Three Months Ended         Nine Months Ended
+    per share amounts)                      September 30, 2001        September 30, 2001
+                                            ------------------        ------------------
+<S>                                              <C>                     <C>
+Reported net income                              $   1,595               $   5,390
+Add: Goodwill amortization,
+        net of tax effects                              62                     193
+                                                 ---------               ---------
+Adjusted net income                              $   1,657               $   5,583
+BASIC EARNINGS PER SHARE:
+Reported net income                              $    0.92               $    3.10
+Goodwill amortization                                 0.04                    0.11
+                                                 ---------               ---------
+Adjusted basic earnings per share                $    0.96               $    3.21
+
+DILUTED EARNINGS PER SHARE:
+Reported net income                              $    0.90               $    3.03
+Goodwill amortization                                 0.04                    0.11
+                                                 ---------               ---------
+Adjusted diluted earnings per share              $    0.93*              $    3.14
+</Table>
+
+* Does not total due to rounding
+
+       SFAS No. 141 specifies certain criteria for identifying, valuing and
+recording intangible assets separate from goodwill. SFAS No. 142 also
+prescribes the disclosure requirements for intangible assets that meet these
+criteria. The following schedule details the company's intangible asset balances
+by major asset class:
+
+<Table>
+<Caption>
+ (Dollars in millions)            Gross Carrying           Accumulated            Net Carrying
+Intangible asset class                Amount              Amortization          Amount at 9/30/02
+----------------------                ------              ------------          -----------------
+<S>                                   <C>                    <C>                     <C>
+Customer-related                      $ 295                  $ (98)                  $ 197
+Completed technology                    214                    (90)                    124
+Patents/Trademarks                      109                    (74)                     35
+Other(a)                                 16                     (9)                      7
+                                      -----                  -----                   -----
+Total                                 $ 634                  $(271)                  $ 363
+</Table>
+
+(a) Other intangibles are primarily contract-related assets such as employee
+agreements and leasehold interests.
+
+       The net carrying amount of intangible assets decreased $29 million and
+$115 million for the third quarter of 2002 and first nine months of 2002,
+respectively. The decreases were due to the amortization of existing intangible
+asset balances, partially offset by identified intangible assets recorded as a
+result of several acquisitions. The decrease for the first nine months of 2002
+also included write-offs of intangibles associated with divestitures in the
+second quarter.
+
+
+                                      -12-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+       The aggregate amortization expense was $38 million for the third quarter
+of 2002 and $118 million for the first nine months of 2002.
+
+       The future amortization expense for each of the five succeeding years
+relating to intangible assets currently recorded in the Consolidated Statement
+of Financial Position is estimated to be the following at December 31:
+
+2002 fourth quarter            $ 39 million
+2003                           $145 million
+2004                           $108 million
+2005                           $ 48 million
+2006                           $ 23 million
+2007                           $  0 million
+
+       In April 2002, the FASB issued SFAS No. 145, "Rescission of FASB
+Statements No. 4, 44 and 64, Amendment of FASB Statement No. 13, and Technical
+Corrections," effective May 15, 2002. SFAS No. 145 eliminates the requirement
+that gains and losses from the extinguishment of debt be aggregated and
+classified as an extraordinary item, net of tax, and makes certain other
+technical corrections. SFAS No. 145 did not have a material effect on the
+financial statements.
+
+       In July 2002, the FASB issued SFAS No. 146, "Accounting for Costs
+Associated with Exit or Disposal Activities." SFAS No. 146 supersedes EITF No.
+94-3, "Liability Recognition for Certain Employee Termination Benefits and Other
+Costs to Exit an Activity (Including Certain Costs Associated with a
+Restructuring)," and requires that a liability for a cost associated with an
+exit or disposal activity be recognized when the liability is incurred. Such
+liabilities should be recorded at fair value and updated for any changes in the
+fair value each period. A notable change from EITF 94-3 involves one-time
+employee termination costs whereby the employee to be terminated is required to
+render service between the notification date and the date the employee will be
+terminated in order to receive any termination benefits. For these situations
+whereby the required post-notification service period extends beyond the minimum
+retention period required by local law (e.g., 60 days in the United States), the
+fair value liability will be amortized over the service period. This change is
+effective for new exit or disposal activities initiated after December 31, 2002.
+Had SFAS No. 146 been effective during the second quarter of 2002, a portion of
+the pre-tax employee termination costs listed in the table on page 8 would have
+been amortized beyond June 30, 2002 until the respective employees were
+terminated. The impact of SFAS No. 146 on the company's future financial
+statements will depend upon the timing of and facts underlying any future
+one-time workforce reduction actions.
+
+6. The tables on pages 43 through 46 of this Form 10-Q reflect the results of
+the company's segments consistent with its management system used by the
+company's chief operating decision maker. These results are not necessarily a
+depiction that is in conformity with generally accepted accounting
+principles, e.g., employee retirement plan costs are developed using
+actuarial assumptions on a country-by-country basis and allocated to the
+segments based on headcount. A different result could occur for any segment
+if actuarial assumptions unique to each segment were used. Performance
+measurement is based on income from continuing operations before income taxes
+(pre-tax income). These results are used, in part, by management, both in
+evaluating the performance of, and in allocating resources to, each of the
+segments.
+
+                                      -13-
+<Page>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+       On June 3, 2002, the company signed an agreement with Hitachi for the
+sale of the company's HDD business. As a result, amounts disclosed in the
+company's segment disclosure for all periods presented exclude the results of
+the HDD business. Please see page 25 for a discussion of the company's results
+of discontinued operations.
+
+7. On October 1, 2002, the company purchased PricewaterhouseCoopers' (PwC)
+global business consulting and technology services unit, PwC Consulting (PwCC),
+for approximately $3.5 billion. Approximately $2.9 billion of the purchase price
+was paid in cash, $0.3 billion in restricted common stock and $0.3 billion in
+notes convertible into restricted shares of IBM common stock. According to
+PwCC's most recent audited financial statements, fiscal year ended June 30, 2002
+total revenue was $6.7 billion, which includes $1.5 billion of reimbursable
+expenses and subcontractor costs. The incremental future annual revenue for IBM
+as a result of this acquisition may be more or less than this amount based upon
+the impact of synergies, continuing business relationships, and general market
+conditions.
+
+       In connection with the acquisition, the company incurred $187 million of
+pre-tax one-time compensation costs as of October 1, 2002, for certain PwCC
+partners and employees. This amount relates to restricted stock awards and the
+compensation element of the convertible notes issued as part of the deal
+proceeds and will be recorded in the fourth quarter of 2002. The amount to be
+recorded as compensation expense for the convertible notes equals the difference
+between the fair value and face value of the notes. This incremental value is
+deemed to be compensation expense by the accounting rules.
+
+
+ITEM 2.
+
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+                OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+             FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2002
+
+       Despite the difficult economy and spending environments, IBM generated,
+on a continuing operations basis, $19.8 billion of revenue, $0.99 of diluted
+earnings per share, and strong cash flows during the 2002 third quarter. Other
+highlights of the quarter include:
+
+o      Agreement signed to purchase PwCC; completed on October 1
+
+o      Expected key market share gains
+
+o      The impact of continued discipline and focus on cost containment and
+       expense reduction, including the benefits from the 2002 second quarter
+       productivity actions
+
+o      Some customer signing deferrals and a lengthening of the sales cycle
+
+       The company's discontinued HDD business lost $0.22 per diluted share on
+$498 million of revenue. These results reflect continued industry pressure and
+increased estimated loss on sale of the HDD business.
+
+       While the economic and political environments are less than certain, the
+company is executing on its current and long term strategies. The end result is
+a leaner IBM that is a leader in providing business value, infrastructure, and
+technology -- built on customer insight, solutions and research and development.
+
+
+                                      -14-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS
+
+<Table>
+<Caption>
+(Dollars in millions)           Three Months Ended         Nine Months Ended
+                                   September 30,             September 30,
+                               --------------------      --------------------
+                                 2002        2001*        2002         2001*
+                               -------      -------      -------      -------
+<S>                            <C>          <C>          <C>          <C>
+Revenue                        $19,821      $19,783      $57,502      $60,926
+Cost                            12,498       12,349       36,409       37,970
+                               -------      -------      -------      -------
+Gross profit                   $ 7,323      $ 7,434      $21,093      $22,956
+Gross profit margin               36.9%        37.6%        36.7%        37.7%
+Income from continuing
+  operations                   $ 1,694      $ 1,713      $ 3,423      $ 5,581
+Earnings per share of
+  common stock from
+    continuing operations:
+        Assuming dilution      $  0.99      $  0.97      $  1.97      $  3.14
+        Basic                  $  1.00      $  0.99      $  2.01      $  3.21
+</Table>
+
+* Reclassified to conform with 2002 presentation.
+
+       The average number of common shares outstanding assuming dilution
+decreased from third-quarter 2001 to third -quarter 2002 and for the first nine
+months of 2001 to the first nine months of 2002 by 56.1 million and by 43.9
+million, respectively, primarily as a result of the company's share repurchase
+program. The average number of shares assuming dilution was 1,711.7 million in
+the third quarter of 2002 and 1,731.7 million for the first nine months of 2002.
+There were 1,690.1 million shares outstanding at September 30, 2002.
+
+       On June 3, 2002, the company signed an agreement with Hitachi for the
+sale of the company's HDD business. As a result, amounts disclosed in this
+Results of Continuing Operations section for all periods presented exclude the
+results of the HDD business. Please see page 25 for a discussion of the
+company's results of discontinued operations.
+
+       Revenue for the three months ended September 30, 2002 was flat (down 2
+percent at constant currency) from the same period last year. Global Services
+revenue including maintenance increased 2.4 percent (flat at constant currency)
+in the third quarter to $8.9 billion. The company signed $9.0 billion in
+services contracts in the quarter.
+
+       Hardware revenue decreased 1.0 percent (2 percent at constant currency)
+to $6.8 billion from the 2001 third quarter. The revenue decline was primarily
+driven by iSeries and zSeries servers, storage systems products and personal
+computers. Although revenue declined for these products in the third quarter of
+2002 compared to the third quarter of 2001, the percent of revenue decline in
+the third quarter was less than the year-to-year declines in the first two
+quarters of 2002. These declines were partially offset by higher revenue for the
+xSeries and pSeries servers, and technology products.
+
+
+                                      -15-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+       Software revenue decreased 2.9 percent (5 percent at constant currency)
+to $3.1 billion from the third quarter of 2001. Middleware revenue, which
+comprises approximately 80 percent of the company's software revenue, declined 2
+percent (5 percent at constant currency) and operating systems software revenue
+was flat (down 2 percent at constant currency).
+
+       Global Financing revenue decreased 3.2 percent (4 percent at constant
+currency) in the third quarter to $795 million. Revenue from Enterprise
+Investments/Other area, which includes industry-specific IT solutions, increased
+5.5 percent (1 percent at constant currency).
+
+       In the Americas, third-quarter revenue was $9.0 billion, a decrease of
+1.5 percent (flat at constant currency) from the same period last year. Revenue
+from Europe/Middle East/Africa was $5.7 billion, up 0.6 percent (down 8 percent
+at constant currency) . Asia-Pacific revenue increased 3.4 percent (2 percent at
+constant currency) to $4.3 billion. OEM revenue across all geographies was $867
+million, a 0.8 percent increase (1 percent at constant currency) compared with
+the third quarter of 2001.
+
+       The company's total gross profit margin was 36.9 percent in the third
+quarter of 2002, as compared to 37.6 percent in 2001. The decrease was primarily
+driven by a lower Global Services margin partially offset by improved margins in
+Software and Global Financing year-over-year.
+
+       Third-quarter expense and other income was $4.9 billion, down 2.1 percent
+from the third quarter of 2001. Selling, general and administrative expense and
+research, development and engineering expense decreased 2.4 percent and 3.1
+percent, respectively. Lower intellectual property and custom development income
+was partially offset by a benefit from other income and expense and lower
+interest expense.
+
+       The second quarter 2002 Microelectronics and productivity actions are
+expected to reduce cost and expense by an incremental $900 million, pre-tax, in
+2003 as compared to 2002. This year-to-year $900 million improvement may be
+offset by other events such as the year-to-year impact of reducing the expected
+return on pension plan assets discussed on page 24. Approximately half of these
+incremental cost and expense reductions are estimated to benefit the Global
+Services segment, approximately 25 percent for the Technology segment and
+approximately 20 percent for the Enterprise Server segment.
+
+       The company's tax rate in the third quarter was 29.5 percent compared
+with 28.9 percent in the third quarter of 2001.
+
+GLOBAL SERVICES
+
+<Table>
+<Caption>
+(Dollars in millions)        Three Months Ended               Nine Months Ended
+                                September 30,                   September 30,
+                           -----------------------         -----------------------
+                             2002            2001            2002            2001
+                           -------         -------         -------         -------
+<S>                        <C>             <C>             <C>             <C>
+Total revenue              $ 8,895         $ 8,682         $25,785         $25,895
+Total cost                   6,540           6,214          19,015          18,854
+                           -------         -------         -------         -------
+Gross profit               $ 2,355         $ 2,468         $ 6,770         $ 7,041
+Gross profit margin           26.5%           28.4%           26.3%           27.2%
+</Table>
+
+
+                                      -16-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+       Global Services revenue, including maintenance, increased 2.4 percent
+(flat at constant currency) and was flat (flat at constant currency),
+respectively, in the third quarter and first nine months of 2002, when compared
+with the same periods of 2001. Global Services revenue, excluding maintenance,
+increased 2.3 percent (flat at constant currency) and declined 0.7 percent (flat
+at constant currency), respectively, for the third quarter and first nine months
+of 2002 versus comparable periods of last year. Maintenance revenue increased
+3.3 percent (1 percent at constant currency) and 1.1 percent (1 percent at
+constant currency), respectively, for the third quarter and first nine months of
+2002 when compared with the same periods in 2001.
+
+       Strategic Outsourcing Services (SO) revenue increased in both the third
+quarter and first nine months of 2002 versus last year. SO remains attractive to
+customers in both strong and weak economies as customers focus on cost
+reductions. Integrated Technology Services (ITS) revenue, excluding maintenance,
+increased in both the third quarter and first nine months of 2002 versus the
+same periods last year. These increases were partly due to increased deployments
+of network hardware. Business Consulting Services (BCS), formerly Business
+Innovation Services, revenue declined in both the third quarter and first nine
+months of 2002 versus the same periods in 2001 reflecting the continued industry
+pressure on consulting services. BCS in the Americas geography, however, had
+revenue growth for the first time in five quarters.
+
+       The company's third quarter 2002 services signings were $9.0 billion, a
+15 percent decline from the second-quarter 2002. The signings for shorter term
+contracts remained flat sequentially despite a difficult quarter. During the
+quarter, customers deferred signing longer term contracts mostly due to
+increased customer internal review and analysis. Backlog estimates are subject
+to change and are affected by currency assumptions used in the company's plans,
+changes in the scope of contracts - mainly long-term contracts - and periodic
+revalidations. The estimated Global Services backlog including SO, BCS, and ITS
+was $103 billion at the end of the third quarter of 2002, versus $106 billion at
+the end of the second quarter of 2002.
+
+       Global Services gross profit dollars declined 4.6 percent and 3.9
+percent, respectively, for the third quarter and first nine months of 2002
+versus the same periods last year. The gross profit margin declined 1.9
+percentage points and 0.9 percentage points, respectively, for the third quarter
+and first nine months of 2002 when compared with year-ago periods. These
+declines were attributable to market conditions, particularly in the
+Telecommunications and Financial Sectors, and the consulting and systems
+integration business. These declines were partially offset by lower labor and
+parts costs for maintenance.
+
+       The company's purchase of PwC Consulting is a strategic decision that
+will enable the company to provide superior business value to customers through
+integration of technology and business process insight. Approximately 1,100
+partners joined IBM as a result of the acquisition. The company has mobilized a
+sizable team to work towards a rapid integration that is targeted for completion
+in the first quarter of 2003.
+
+       This acquisition may reduce the company's fourth quarter 2002 earnings by
+up to an estimated $750 million, pre-tax, for items such as transition charges
+associated with integration and restructuring, as well as one-time compensation
+costs discussed on page 14. Additionally, approximately 15 percent of this
+amount relates to ongoing operations including the amortization of intangibles.
+
+
+                                      -17-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+HARDWARE
+
+<Table>
+<Caption>
+(Dollars in millions)        Three Months Ended               Nine Months Ended
+                                September 30,                    September 30,
+                           -----------------------         -----------------------
+                             2002            2001            2002            2001
+                           -------         -------         -------         -------
+<S>                        <C>             <C>             <C>             <C>
+Total revenue              $ 6,764         $ 6,834         $19,320         $22,564
+Total cost                   4,957          4, 997          14,420          15,682
+                           -------         -------         -------         -------
+Gross profit               $ 1,807         $ 1,837         $ 4,900         $ 6,882
+Gross profit margin           26.7%           26.9%           25.4%           30.5%
+</Table>
+
+       Revenue from hardware decreased 1.0 percent (2 percent at constant
+currency) and 14.4 percent (14 percent at constant currency), respectively, for
+the third quarter and first nine months of 2002, versus the same periods in
+2001.
+
+       Enterprise Systems revenue decreased in both the third quarter and first
+nine months of 2002 versus the same periods last year. Revenue from Enterprise
+Systems was again affected by the economic uncertainties and the elongated sales
+cycle experienced in the first half of 2002. Revenue from zSeries mainframes
+declined in both the third quarter and first nine months of 2002 versus the same
+periods of last year. Although revenue declined, the total deliveries of zSeries
+computing power as measured in MIPS (millions of instructions per second)
+increased 7 percent in the third quarter of 2002 compared with the third quarter
+of 2001. Revenue from the pSeries UNIX servers increased in the third quarter
+and declined for the first nine months of 2002 versus the comparable periods of
+2001. The pSeries third quarter revenue growth was driven by high-end pSeries
+server products. Revenue from iSeries servers decreased in the third quarter and
+first nine months of 2002 versus year-ago periods due to weak volumes across all
+products. The xSeries server revenue increased for the third quarter and first
+nine months of 2002 versus the same periods of 2001 due to growth in sales of
+high-end xSeries servers.
+
+       In storage, revenue declined in the third quarter and the first nine
+months of 2002 versus the same periods of last year. The company experienced the
+same weaknesses in this business consistent with general industry trends. Tape
+storage products experienced revenue declines in both the third quarter and
+first nine months of 2002 versus the same periods in 2001. Disk storage revenue
+increased in the third quarter of 2002 and declined for the first nine months of
+2002 versus the comparable periods of 2001. Disk storage prices have fallen
+significantly from the third quarter of 2001 but stabilized in the third quarter
+of 2002 versus the second quarter of 2002.
+
+       Personal and Printing Systems revenue decreased in both the third quarter
+and first nine months of 2002 versus the same periods in 2001 primarily due to
+lower revenue from personal computers consistent with industry declines . The
+personal computer revenue decline continues to reflect weakness in demand and
+continued price pressures. The company continued to improve on executing its
+strategies for personal computers as plant and field inventories were lower as
+well as channel inventory and expense declined.
+
+       The Technology segment no longer includes HDDs and is comprised mainly of
+the company's Microelectronics Division for all periods presented. Technology
+revenue increased in the third quarter and declined for the first nine months of
+2002 versus the comparable periods of
+
+
+                                      -18-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+2001. The revenue increase in the third quarter was driven by OEM logic revenue
+growth. The company executed major actions during the second quarter of 2002 in
+its Microelectronics business, including a significant reduction in the
+manufacturing capacity of aluminum-based components and products. The company
+estimates that such actions will reduce next year's depreciation expense by
+approximately $140 million. These actions are described fully on pages 7 through
+10 and the lower depreciation is included in the savings discussed on page 16.
+The company is also improving utilization of its copper facilities as the new
+300 millimeter plant is in test production and on schedule. The company
+estimates that the 300 millimeter plant and related capacity will increase next
+year's depreciation by $240 million.
+
+       Hardware gross profit dollars for the third quarter and first nine months
+of 2002 decreased 1.6 percent and 28.8 percent, respectively, from comparable
+periods in 2001. The hardware gross profit margin decreased 0.2 percentage
+points and 5.1 percentage points, respectively, from the prior year periods. The
+decrease in gross profit dollars and margins for the first nine months of 2002
+was driven by Microelectronics products as well as lower Enterprise Systems
+margins. In addition, personal computers gross profit margin declined slightly
+due to a greater percentage of revenue being derived from desktop and low-end
+mobile products.
+
+SOFTWARE
+
+<Table>
+<Caption>
+(Dollars in millions)        Three Months Ended               Nine Months Ended
+                                September 30,                    September 30,
+                           -----------------------         -----------------------
+                             2002            2001            2002            2001
+                           -------         -------         -------         -------
+<S>                        <C>             <C>             <C>             <C>
+
+Total revenue               $3,110          $3,201          $9,273          $9,155
+Total cost                     500             591           1,549           1,705
+                            ------          ------          ------          ------
+Gross profit                $2,610          $2,610          $7,724          $7,450
+Gross profit margin           83.9%           81.5%           83.3%           81.4%
+</Table>
+
+       Revenue from software for the third quarter decreased 2.9 percent (5
+percent at constant currency) and increased 1.3 percent (1 percent at constant
+currency) for the first nine months of 2002 compared with the same periods of
+2001. Despite declining revenue, the company expects to gain market share this
+quarter in an extremely difficult software market. The sales cycles lengthened
+as a result of longer decision making by customers. In general, the size of the
+individual software transactions declined. The company's middleware products
+(which comprise data management, transaction processing, Tivoli systems
+management, and Lotus Notes messaging and collaboration across both IBM and
+non-IBM platforms) revenue declined 2 percent (5 percent at constant currency)
+for the third quarter of 2002 and increased 4 percent (4 percent at constant
+currency) for the first nine months of 2002 versus the same periods last year.
+In the third quarter of 2002, WebSphere revenue increased as a result of growth
+in business integration, portals and application server licenses. This increase
+was more than offset by lower revenue associated with Tivoli system management
+products and Lotus products. The increase in revenue for the first nine months
+of 2002 was primarily driven by the Informix acquisition which occurred in the
+third quarter of 2001 partially offset by lower revenue from Tivoli and Lotus
+products.
+
+                                      -19-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+       Operating systems software revenue was flat (down 2 percent at constant
+currency) in the third quarter and declined 5 percent (4 percent at constant
+currency) for the first nine months of 2002, when compared with prior year
+periods. In the third quarter of 2002, zSeries software products revenue
+increased and was offset by lower revenue from iSeries software products. The
+decline in the first nine months revenue was primarily associated with lower
+sales from iSeries and pSeries software products primarily as a result of lower
+hardware volumes for these servers.
+
+       Software gross profit dollars were flat for the third quarter of 2002 and
+increased 3.7 per cent for the first nine months of 2002 versus the same periods
+in 2001. The gross profit margin improved 2.4 percentage points and 1.9
+percentage points, respectively, for the third quarter and first nine months of
+2002 compared with the same periods in 2001. The improvements in gross profit
+dollars and gross profit margins were primarily driven by lower support and
+services costs.
+
+GLOBAL FINANCING
+
+<Table>
+<Caption>
+(Dollars in millions)          Three Months Ended                 Nine Months Ended
+                                  September 30,                      September 30,
+                             -----------------------           -----------------------
+                               2002            2001              2002            2001
+                             -------         -------           -------         -------
+<S>                          <C>             <C>             <C>             <C>
+Total revenue                $  795           $  822           $2,403           $2,499
+Total cost                      348              403            1,044            1,279
+                             -------         -------           -------         -------
+Gross profit                 $  447           $  419           $1,359           $1,220
+Gross profit margin            56.2%            51.0%            56.5%            48.8%
+</Table>
+
+       Global Financing revenue decreased 3.2 percent (4 percent at constant
+currency) and 3.8 percent (3 percent at constant currency), respectively, for
+the third quarter and first nine months of 2002, when compared with the same
+periods of 2001. The decreases in revenue were primarily driven by a
+declining asset base and lower interest rates. The declining asset base was
+due to declines in financing originations.
+
+       For the three months ended September 30, 2002, the company originated
+financings of $8.2 billion, a 5.8 percent decrease from $8.7 billion in the
+second quarter of 2002. The decrease in financings was due to decreases in
+demand for IT equipment caused by the current economic environment.
+
+       Global Financing gross profit dollars increased 6.7 percent and 11.4
+percent, respectively, for the third quarter and first nine months of 2002,
+versus the same periods last year. The gross profit margins improved 5.2
+percentage points and 7.7 percentage points, respectively, for the third quarter
+and first nine months of 2002 compared with the same periods of 2001. These
+increases were primarily driven by improved yields.
+
+
+                                      -20-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+ENTERPRISE INVESTMENTS/OTHER
+
+<Table>
+<Caption>
+(Dollars in millions)          Three Months Ended                 Nine Months Ended
+                                  September 30,                      September 30,
+                             -----------------------           -----------------------
+                               2002            2001              2002            2001
+                             -------         -------           -------         -------
+<S>                          <C>             <C>               <C>             <C>
+Total revenue                 $257            $244              $721            $813
+Total cost                     153             144               381             450
+                              ----            ----              ----            ----
+Gross profit                  $104            $100              $340            $363
+Gross profit margin           40.2%           40.8%             47.2%           44.6%
+</Table>
+
+       Revenue from Enterprise Investments/Other increased 5.5 percent (1
+percent at constant currency) and decreased 11.4 percent (11 percent at constant
+currency), respectively, for the third quarter and first nine months of 2002,
+versus comparable periods in 2001. The increase in third quarter revenue was
+primarily driven by Computer Aided Three-Dimensional Interactive Applications
+(CATIA) products partially offset by lower revenue associated with document
+processors. The revenue decline for the first nine months of 2002 was primarily
+driven by lower revenue from document processors partially offset by increased
+revenue from CATIA products.
+
+       The Enterprise Investments/Other gross profit dollars increased 3.0
+percent and declined 6.3 percent, respectively, in the third quarter and first
+nine months of 2002 versus the prior-year periods. The gross profit margin
+declined 0.6 percentage points and increased 2.6 percentage points,
+respectively, for the third quarter and first nine months of 2002 versus the
+same periods in 2001. CATIA gross margin percentages are generally higher than
+the gross margin percentages of document processors. The gross margin dollar and
+percentage trends described above are directly correlated to the mix of CATIA
+volumes versus document processor product volumes cited in the previous
+paragraph.
+
+EXPENSE AND OTHER INCOME
+
+<Table>
+<Caption>
+(Dollars in millions)                          Three Months Ended                 Nine Months Ended
+                                                  September 30,                      September 30,
+                                            -------------------------         -------------------------
+                                              2002             2001             2002             2001
+                                            --------         --------         --------         --------
+<S>                                         <C>              <C>              <C>              <C>
+Selling, general and administrative         $  3,987         $  4,085         $ 13,298         $ 12,350
+Percentage of revenue                           20.1%            20.6%            23.1%            20.3%
+
+Research, development and engineering          1,213            1,252            3,546            3,745
+Percentage of revenue                            6.1%             6.3%             6.2%             6.1%
+
+Intellectual property and custom
+ development income                             (232)            (393)            (771)          (1,012)
+Other (income) and expense                       (83)              29              111             (164)
+Interest expense                                  34               53               97              181
+                                            --------         --------         --------         --------
+Total expense and other income              $  4,919         $  5,026         $ 16,281         $ 15,100
+Percentage of revenue                           24.8%            25.4%            28.3%            24.8%
+</Table>
+
+
+                                      -21-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+       SG&A expense decreased 2.4 percent and increased 7.7 percent,
+respectively, in the third quarter and first nine months of 2002 versus the same
+periods in 2001.
+
+       The decrease in SG&A expense in the third quarter was driven by a decline
+in workforce rebalancing expense of $89 million to $16 million versus the third
+quarter of 2001. In addition, the benefit of the new goodwill accounting rule
+lowered expense by $63 million in the third quarter of 2002 versus the third
+quarter of 2001. These declines were partially offset by an increase in the
+provision for doubtful accounts of $79 million to $181 million in the third
+quarter of 2002 versus the same period last year. The increase is reflective of
+the challenges faced by certain customers in today's economic environment,
+especially those in the telecommunications sector. The company also continues to
+benefit from the company's continuing e-business transformation and productivity
+enhancements.
+
+       The first nine months of 2002 increase in SG&A expense was primarily due
+to the Microelectronics and productivity actions taken in the second quarter of
+2002 amounting to $1,250 million. These actions are described on pages 7 through
+10. In addition, the provision for doubtful accounts increased $182 million to
+$483 million versus the same period last year. These increases were partially
+offset by the benefit of the new goodwill accounting rule of $196 million. The
+company also continues to benefit from the company's continuing e-business
+transformation and productivity enhancements.
+
+       Research, development and engineering (RD&E) expense decreased 3.1
+percent and 5.3 percent, respectively, for the third quarter and first nine
+months of 2002, when compared with the same periods of 2001. These declines in
+RD&E expense were driven primarily by savings associated with the second quarter
+2002 productivity actions and a focus on discretionary spending.
+
+       Intellectual property and custom development income decreased 41.4
+percent and 23.8 percent, respectively, for the third quarter and first nine
+months of 2002 versus the same periods of 2001.
+
+<Table>
+<Caption>
+(Dollars in millions)                   Three Months Ended               Nine Months Ended
+                                           September 30,                   September 30,
+                                      ----------------------          ----------------------
+                                       2002            2001            2002            2001
+                                      ------          ------          ------          ------
+<S>                                   <C>             <C>             <C>             <C>
+Sales and other transfers of
+   intellectual property              $   77          $  213          $  334          $  426
+Licensing/royalty-based fees              99             113             262             360
+Custom development income                 56              67             175             226
+                                      ------          ------          ------          ------
+Total                                 $  232          $  393          $  771          $1,012
+</Table>
+
+       Sales and other transfers of intellectual property can vary period to
+period. These transactions often require an extended period of negotiations and
+contract/license drafting and administration prior to finalization and
+recognition in the financial statements. The decrease in third quarter 2002 as
+well as the first nine months of 2002 versus the same periods in 2001, was
+primarily due to a greater number of larger dollar Sales and other transfers
+during the prior year
+
+
+                                      -22-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+periods. The amount of income from licensing/royalty-based fee transactions has
+been declining and this trend may continue.
+
+       Third quarter 2002 Other (income) and expense was income of $83 million
+as compared with expense of $29 million in the third quarter 2001. This change
+was primarily a result of a decline in equity write-downs of $146 million to $10
+million and an increase in net gains from certain real estate activities of $44
+million (primarily a land sale in Japan) to $53 million. These benefits were
+partially offset by a decline in foreign currency transaction gains of $31
+million to $15 million and a decline in interest income of $14 million to $27
+million versus the same period of 2001. The first nine months of 2002 Other
+(income) and expense was an expense of $111 million versus a benefit to expense
+of $164 million in the first nine months of 2001. This change was primarily
+driven by increased expense of $523 million due to the Microelectronics and
+productivity actions taken in the second quarter of 2002, partially offset by a
+$242 million change in net realized gains/(losses) from sales and other
+temporary declines in market value of securities and other investments from a
+charge of $240 million in the first nine months of 2001 to a gain of $2 million
+in the 2002 comparable period.
+
+       Interest expense excluding interest classified as Cost of Financing in
+the Consolidated Statement of Earnings declined 36.3 percent and 46.5 percent,
+respectively, for the third quarter and first nine months of 2002, when compared
+with the same periods in 2001. These declines were a result of reduced levels of
+debt and lower interest rates.
+
+       Interest on total borrowings of the company and its subsidiaries, which
+includes Global Financing interest classified as Cost of Financing in the
+Consolidated Statement of Earnings was $208 million and $626 million for the
+third quarter and first nine months of 2002, respectively. Of these amounts, the
+company capitalized $13 million for the third quarter and $32 million for the
+first nine months of 2002.
+
+       The following table provides the continuing operations pre-tax
+(income)/cost for retirement-related plans for the third quarter of 2002 and
+2001 and the first nine months of 2002 and 2001. (Income)/cost amounts are
+included as a reduction from/addition to, respectively, the company's cost and
+expense amounts on the Consolidated Statement of Earnings.
+
+Retirement-Related Benefits
+
+<Table>
+<Caption>
+                                               Three Months Ended               Nine Months Ended
+                                                  September 30,                   September 30,
+                                             ----------------------          ----------------------
+(Dollars in millions)                         2002            2001            2002            2001
+                                             ------          ------          ------          ------
+<S>                                          <C>             <C>             <C>             <C>
+
+Total retirement-related plans--
+ (income)/cost                               $ (73)          $(167)          $(173)          $(425)
+                                             =====           =====           =====           =====
+Comprise:
+   Defined benefit and contribution
+     pension plans                            (166)           (267)           (449)           (726)
+   Nonpension postretirement
+     retirement benefits                        93             100             276             301
+</Table>
+
+       Included in the amounts above, the company realized income of
+approximately $282 million and $359 million due to the funded status of its
+defined benefits pension plans for the quarter
+
+
+                                      -23-
+<Page>
+
+RESULTS OF CONTINUING OPERATIONS - (CONTINUED)
+
+ended September 30, 2002 and 2001, respectively. The comparable amount for the
+first nine months of 2002 and 2001 was income of approximately $838 million and
+$1,081 million, respectively. The declines in the income were primarily a result
+of the change in the expected long-term rate of return on plan assets from 10
+percent to 9.5 percent for the U.S. plan and similar changes made for certain
+non-U.S. Plans, as discussed below.
+
+       At the beginning of 2002, the company reduced its expected long-term rate
+of return on the IBM Personal Pension Plan (PPP) assets assumption from 10.0
+percent to 9.5 percent. This change and the impact of 2002 changes in the
+expected long-term rate of return on plan assets for certain non-U.S. Plans is
+expected to reduce 2002 full year net retirement plan income by approximately
+pre-tax $350 million.
+
+       The company annually sets its discount rate assumption for
+retirement-related benefits accounting to reflect the rates available on
+high-quality, fixed-income debt instruments. Using this process, the company
+changed its discount rate assumption for the PPP from 7.25 percent to 7.00
+percent, effective December 31, 2001. This change is not expected to have a
+material effect on the company's 2002 results of operations.
+
+       Future effects of retirement-related plans on the operating results of
+the company depend on economic conditions, employee demographics, mortality
+rates and investment performance. However, given the current market trends
+and historical trends, the company expects to reduce its expected U.S.
+long-term return assumption for 2003 to between 8 percent and 8.5 percent
+depending upon fourth quarter market performance and future market outlook at
+year end. This change along with other actuarial assumption changes will
+reduce pre-tax income by an estimated $700 million in 2003. In addition, as a
+result of the stock markets' downturn in 2002 and the corresponding drop in
+value of the PPP's assets, the company expects to start contributing to the
+PPP. As of quarter-end, the company's working assumption is that it would
+contribute $1.5 billion to the PPP. Outside the U.S., the company is planning
+to make contributions similar to levels it has made in the past few years. The
+company's funding plans are not final and are dependent on market conditions
+and other factors.
+
+       The company's effective tax rate on continuing operations for the third
+quarter of 2002 was 29.5 percent versus 28.9 percent for the same period in
+2001. The effective tax rate on continuing operations for the first nine months
+of 2002 was 28.9 percent versus 29.0 percent for the comparable period in 2001.
+The 2002 year-to-date effective tax rate was lower than the 2002 third quarter
+rate as a result of the tax effect of the second quarter Microelectronics
+actions. The company's effective tax rate may change period to period based on
+nonrecurring events as well as recurring factors including the geographical mix
+of income before taxes, the timing and amount of foreign dividends, state and
+local taxes, and the interaction of various global tax strategies. In the
+normal course of business, the company expects that the effective tax rate will
+approximate 30 percent.
+
+
+                                      -24-
+<Page>
+
+RESULTS OF DISCONTINUED OPERATIONS
+
+       See pages 6 and 7 for a discussion of the company's divestiture of the
+HDD business. Revenue from discontinued operations decreased 22.9 percent to
+$498 million and decreased 33.9 percent to $1,398 million for the third quarter
+and first nine months of 2002, respectively, when compared with the same periods
+of 2001. The decreases were primarily due to volume declines in the desktop and
+server categories as well as general industry price declines across all product
+lines.
+
+       The loss from discontinued operations in the third-quarter 2002 was $381
+million as compared with a loss of $118 million in the third quarter of 2001.
+Included in the third-quarter 2002 loss was the operational loss due to lower
+volumes and average selling price of the HDD products and approximately $107
+million, net of tax, of additional estimated loss on disposal of the HDD
+business. The change in the estimated loss on disposal versus the previous
+quarter's estimate was primarily driven by the inclusion of additional HDD
+related fixed assets in the scope of the sale as well as HDD capital additions
+made by the company in the ordinary course of business. Consistent with the
+terms of the sale agreement, as amended, the company will not receive any
+additional consideration for these assets.
+
+       The loss from discontinued operations for the first nine months of 2002
+was $862 million versus $191 million for the first nine months of 2001.
+Included in the 2002 nine month loss was the operational loss due to lower
+volumes and average selling price of the HDD products, approximately $135
+million, net of tax, of an estimated loss on disposal of the HDD business, a
+$191 million, net of tax, increase for inventory write-offs as compared to
+the first nine months of 2001, a $114 million, net of tax, increase for
+certain actions taken by the company in the second quarter of 2002, and $89
+million, net of tax, of increases in warranty costs as compared to the first
+nine months of 2001. The increase in inventory write-offs was especially
+pronounced for the older products after the Hitachi transaction was announced
+and led the company to a strategic decision to cease reworking and selling
+efforts for some of the company's older HDD products. The written off
+inventory is expected to be physically disposed of prior to closing.
+
+       The second quarter actions primarily include charges for the abandonment
+and associated removal costs for machinery, equipment and tooling that are no
+longer needed by the company and will not be purchased by Hitachi.
+
+       The discontinued operations effective tax rate for the third quarter of
+2002 was 12.4 percent versus 18.1 percent for the same period in 2001. The
+discontinued operations effective tax rate for the first nine months of 2002 was
+24.1 percent versus 5.4 percent for the comparable period in 2001. The
+discontinued operations effective tax rate is primarily dependent on the mix of
+losses in countries with low tax rates.
+
+
+                                      -25-
+<Page>
+
+FINANCIAL CONDITION
+
+       Investments included expenditures for continuing operations of $3,967
+million for Research, development and engineering, including software
+development that was capitalized on the Consolidated Statement of Financial
+Position and $3,450 million for Plant, rental machines and other property. In
+addition, the company repurchased $4,138 million of its common shares. The
+company had $5,222 million in Cash and cash equivalents and Marketable
+securities at September 30, 2002.
+
+CASH FLOW
+
+<Table>
+<Caption>
+(Dollars in millions)                                                    Nine Months Ended
+                                                                           September 30,
+                                                                     -------------------------
+                                                                       2002              2001
+                                                                     -------           -------
+<S>                                                                  <C>               <C>
+Net cash provided from (used in):
+  Operating activities                                               $ 9,415           $ 9,065
+  Investing activities                                                (3,304)           (4,904)
+  Financing activities                                                (6,731)           (4,148)
+Effect of exchange rate changes on cash
+  and cash equivalents                                                    94               (32)
+Net cash flow (used in)/provided by discontinued operations             (588)              171
+                                                                     -------           -------
+Net change in cash and cash equivalents                              $(1,114)          $   152
+                                                                     =======           =======
+</Table>
+
+       Cash flows from operating activities in the first nine months of 2002
+increased $350 million from the comparable 2001 period. This primarily resulted
+from the monetizing of interest rate swaps associated with the company's debt
+portfolio, in response to recent interest rate market dynamics. This transaction
+had no impact on 2002 net income. This increase was partially offset by
+payments associated with the second quarter Microelectronics and productivity
+actions.
+
+       Cash flows used in investing activities decreased $1,600 million from the
+comparable 2001 period. The decrease primarily resulted from lower capital
+spending. In addition, the company acquired the database software business of
+the Informix Corporation during the third quarter of 2001.
+
+       Cash flows used in financing activities in the first nine months of 2002
+increased $2,583 million from the comparable 2001 period due primarily to a
+decrease in debt financing.
+
+WORKING CAPITAL
+
+<Table>
+<Caption>
+
+(Dollars in millions)            At September 30,          At December 31,
+                                       2002                     2001
+                                     -------                  -------
+<S>                                  <C>                      <C>
+Current assets                       $37,316                  $42,461
+Current liabilities                   30,239                   35,119
+                                     -------                  -------
+  Working capital                    $ 7,077                  $ 7,342
+
+Current ratio                         1.23:1                   1.21:1
+</Table>
+
+                                      -26-
+<Page>
+
+FINANCIAL CONDITION - (CONTINUED)
+
+       Current assets decreased $5,145 million from year-end 2001 primarily due
+to decreases of $1,171 million in Cash and cash equivalents and Marketable
+securities, $2,814 million in Accounts receivable ($2,200 million in
+Short-term financing receivables, $652 million in Notes and accounts
+receivable and an increase of $38 million in Other accounts receivable), $880
+million in Inventories, $154 million in Prepaid expenses and other current
+assets, $87 million in Deferred taxes and $39 million in Intangible assets.
+The net decrease in Cash and cash equivalents and Marketable securities, as
+compared with year-end 2001, was primarily due to the reduction of debt
+(primarily non-global financing debt), payments associated with the
+second-quarter productivity actions, partially offset by the monetizing of
+interest rate swaps. The decline in accounts receivable was attributable to
+lower revenue volumes in the first nine months of 2002 and an increase in
+collections of its accounts receivable balances. Current liabilities
+decreased $4,880 million from year-end 2001 with declines of $3,217 million
+in Short-term debt and $811 million in Taxes payable, which decline is
+consistent with prior year's trends.
+
+INVESTMENTS
+
+       During the first nine months of 2002, the company invested $3,450 million
+in Plant, rental machines and other property, a decrease of $706 million from
+the comparable 2001 period. The company invested in its services business,
+primarily from the acquisition of capital assets associated with the management
+of customers' information technology through its Outsourcing Services business,
+as well as in manufacturing capacity for the 300 mm copper chip-making
+facilities in Microelectronics.
+
+       In addition to software development expense included in Research,
+development and engineering expense, the company capitalized $420 million of
+software costs from continuing operations during the first nine months of
+2002, a decrease of $66 million from the comparable period in 2001.
+Amortization of capitalized software costs from continuing operations was
+$506 million during the first nine months of 2002, an increase of $50 million
+from the comparable 2001 period.
+
+       Investments and sundry assets were $17,289 million at September 30, 2002,
+an increase of $1,821 million from year-end 2001 primarily due to increased
+pension assets.
+
+       On April 30, 2002, the Board of Directors increased the authorized amount
+of IBM common shares that the company may repurchase in the open market by an
+additional $3.5 billion. The company's total remaining authorized amount as of
+September 30, 2002 is $3,938 million of IBM common shares.
+
+
+                                      -27-
+<Page>
+
+FINANCIAL CONDITION - (CONTINUED)
+
+DEBT AND EQUITY
+
+       The company's debt level of $25,744 million is almost entirely (94
+percent) the result of the company's Global Financing business. The Global
+Financing business provides financing primarily to the company's customers and
+business partners. Using the typical financing business model, Global Financing
+funds its operations primarily through borrowings. It uses a debt to equity
+ratio of approximately 7 to 1. Global Financing generates income by charging its
+customers a higher interest rate than the interest expense on its borrowings.
+
+GLOBAL FINANCING ASSETS AND DEBT
+(DOLLARS IN MILLIONS)
+
+<Table>
+<Caption>
+
+                              Global Financing          Global Financing
+                                   Assets                      Debt
+                                 ---------                 ------------
+          <S>                  <C>                       <C>
+           1993                   $30,448                   $21,131
+           1994                    28,670                    19,164
+           1995                    28,846                    19,722
+           1996                    31,793                    20,627
+           1997                    35,444                    23,824
+           1998                    40,109                    27,754
+           1999                    39,686                    26,799
+           2000                    40,822                    27,514
+           2001                    36,670                    25,545
+           2002*                   33,497                    24,123
+</Table>
+
+
+* As of September 30, 2002.
+
+
+       The company's operations are essentially self-funding except for the
+company's Global Financing business which leverages assets.
+
+       The company's funding requirements are continually monitored and
+strategies are executed to manage the company's overall asset and liability
+profile. Additionally, the company maintains sufficient flexibility to access
+global funding sources as needed. The company's total debt decreased $1,407
+million from year end 2001 to $25,744 million at September 30, 2002. Based upon
+the company's two different capital structures as previously discussed in this
+section, the analysis of this change and certain ratios are discussed below on
+both a Global Financing and a non-global financing basis.
+
+
+                                      -28-
+
+<Page>
+
+FINANCIAL CONDITION - (CONTINUED)
+
+GLOBAL FINANCING
+
+<Table>
+<Caption>
+(Dollars in millions)             At September 30,       At December 31,
+                                        2002                  2001
+                                      -------               -------
+<S>                                   <C>                   <C>
+Cash                                  $ 1,182               $   785
+Financing assets (1)(2)                29,409                32,906
+Other assets                            2,906                 2,979
+                                      -------               -------
+Total assets                          $33,497               $36,670
+
+Debt *                                 24,123                25,545
+
+Equity                                  3,550                 3,756
+
+Debt/Equity                               6.8x                  6.8x
+</Table>
+
+* Global Financing debt includes debt of the company and of Global Financing
+units that support the Global Financing business.
+
+(1) Financing assets are net of an allowance for receivable losses of $959
+million at September 30, 2002 and $691 million at December 31, 2001. The reserve
+coverage at September 30, 2002 was 3.7 percent versus 2.4 percent at December
+31, 2001. The increase in coverage was due to increased provisions for specific
+accounts.
+
+(2) Financing assets include residual values of $1,030 million at September 30,
+2002 and $1,125 million at December 31, 2001. The decrease in residual values
+was consistent with the overall decline in leased assets caused by the current
+economic environment.
+
+       The Global Financing segment is a financial services business and is,
+therefore, more debt dependent than the company's other businesses. In the third
+quarter of 2002, the Global Financing debt to equity ratio was 6.8x, which is
+within management's acceptable target range.
+
+NON-GLOBAL FINANCING
+
+<Table>
+<Caption>
+(Dollars in millions)             At September 30,       At December 31,
+                                        2002                  2001
+                                      -------               -------
+<S>                                   <C>                   <C>
+Debt*                                 $ 1,621               $ 1,606
+
+Debt/Capitalization                       8.0%                  7.5%
+</Table>
+
+* Non-global financing debt is the company's total external debt less the Global
+Financing debt described in the Global Financing table above.
+
+       The non-global financing debt/capitalization ratio may rise in fourth-
+quarter 2002 due, in part, to potential transactions discussed in the liquidity
+section on pages 30 and 31. The company expects this ratio to return to current
+levels over time.
+
+       Global Financing provides financing predominately for the company's
+external customers but also provides financing for the company including the
+funding to support the Global Services business' long-term customer services
+contracts. All of these financing arrangements are at arms-length rates based
+upon market conditions. The company manages and measures the
+
+
+                                      -29-
+<Page>
+
+FINANCIAL CONDITION - (CONTINUED)
+
+Global Financing business as if it approximates a stand-alone business that
+includes both the external financing and company financing described above.
+Accordingly, the Global Financing debt above and Global Financing Cost of
+global financing below support both of these Global Financing activities.
+
+       All intercompany transactions are eliminated in the Consolidated
+Statement of Earnings and therefore, the financing revenue associated with the
+financing provided by Global Financing to the company is eliminated in
+consolidation. Accordingly, the interest expense from the company's external
+borrowings that supports such financing revenue is classified in the Interest
+expense caption of the Consolidated Statement of Earnings as opposed to the Cost
+of global financing caption. The reconciliation of these amounts is as follows:
+
+<Table>
+<Caption>
+(Dollars in millions)
+                             Global      Non-Global                 Consolidated
+                           Financing     Financing    Eliminations    Results
+                           ---------     ---------    ------------    -------
+<S>                          <C>           <C>           <C>            <C>
+Three Months 2002
+  Cost of financing          $194            --          $(33)          $161
+  Interest expense             --          $  1            33             34
+Nine Months 2002
+  Cost of financing          $593            --          $(96)          $497
+  Interest expense             --          $  1            96             97
+</Table>
+
+       Stockholders' equity decreased $1,522 million from December 31, 2001,
+primarily due to the company's ongoing stock repurchase program. A review of the
+company's debt and equity should also consider other contractual obligations and
+commitments. These amounts are summarized in one table below to facilitate a
+reader's review.
+
+CONTRACTUAL OBLIGATIONS
+
+<Table>
+<Caption>
+                                                            Payments Due In
+                           Balance as      ---------------------------------------------------
+(Dollars in millions)      of 9/30/02       2002         2003-04       2005-06      After 2006
+                           ----------      -------       -------       -------      ----------
+<S>                          <C>           <C>           <C>           <C>           <C>
+Long-term debt               $20,336*      $ 3,759       $ 5,831       $ 4,916       $ 5,830
+Lease commitments              4,923           321         2,043         1,110         1,449
+</Table>
+
+COMMITMENTS
+
+<Table>
+<Caption>
+                                                          Amounts Expiring In
+                           Balance as      ---------------------------------------------------
+(Dollars in millions)      of 9/30/02       2002         2003-04       2005-06      After 2006
+                           ----------      -------       -------       -------      ----------
+<S>                          <C>           <C>           <C>           <C>           <C>
+Unused lines of credit       $ 3,766       $ 2,624       $   811       $   144       $   187
+Other commitments                254            38           176            40            --
+Financial guarantees              73            24            49            --            --
+</Table>
+
+* Excludes net unamortized discount and SFAS No. 133 fair value adjustments.
+
+                                              -30-
+<Page>
+
+
+FINANCIAL CONDITION - (CONTINUED)
+
+LIQUIDITY
+
+       The company maintains a global credit facility totaling $12.0 billion
+in committed credit lines, including an $8.0 billion five-year facility
+(which expires May 30, 2006) and a $4.0 billion 364-day facility (which
+expires May 30, 2003), as part of its ongoing efforts to ensure appropriate
+levels of liquidity. As of September 30, 2002, amounts unused and available
+under these facilities were $11,844 million. In addition, at September 30,
+2002, the company had in place other lines of credit, most of which were
+uncommitted, of $8,405 million. The amount unused and available under these
+primarily uncommitted facilities at September 30, 2002, was $6,074 million.
+
+       The company expects to receive the initial proceeds from the HDD
+transaction of over $1.0 billion, subject to regulatory approval, in the
+fourth quarter of 2002. The company disbursed approximately $2.9 billion in
+cash for the PwC Consulting business in the fourth quarter of 2002. In
+addition, the company is considering starting to fund the PPP as discussed on
+page 24. The company expects to manage the excess cash outflows over inflows
+for these events, and to the extent that the timing of these cash receipts
+and disbursements do not coincide, by temporarily increasing non-global
+financing borrowings.
+
+       The major rating agencies' ratings of the company's debt securities at
+September 30, 2002, appear in the table below and remain unchanged from December
+31, 2001.
+
+                                 Standard          Moody's
+                                    And          Investors
+                                  Poor's          Service           Fitch,Inc.
+                                  ------          -------           ----------
+
+Senior long-term debt               A+               A1                  AA-
+Commercial paper                   A-1            Prime-1               F-1+
+
+
+CURRENCY RATE FLUCTUATIONS
+
+       Changes in the relative values of non-U.S. currencies to the U.S. dollar
+affect the company's results. At September 30, 2002, currency changes resulted
+in assets and liabilities denominated in local currencies being translated into
+more dollars than at year-end 2001. The currency rate changes had a favorable
+effect on revenue growth of approximately 2 percentage points in the third
+quarter of 2002 and an unfavorable effect on revenue growth of approximately 3
+percentage points in the third quarter of 2001.
+
+       For non-U.S. subsidiaries and branches that operate in U.S. dollars or
+whose economic environment is highly inflationary, translation adjustments are
+reflected in results of operations, as required by SFAS No. 52, "Foreign
+Currency Translation." Generally, the company manages currency risk in these
+entities by linking prices and contracts to U.S. dollars and selectively
+entering into foreign currency hedge contracts.
+
+       The company uses a variety of financial hedging instruments to limit
+specific currency risks related to financing transactions and other foreign
+currency-based transactions. Further discussion of currency and hedging appears
+in note k, "Derivatives and Hedging Transactions," on pages 85 through 87 of the
+2001 Annual Report.
+
+
+                                      -31-
+<Page>
+
+FORWARD LOOKING AND CAUTIONARY STATEMENTS
+
+       Except for the historical information and discussions contained herein,
+statements contained in this Form 10-Q may constitute "forward looking
+statements" within the meaning of the Private Securities Litigation Reform Act
+of 1995. These statements involve a number of risks, uncertainties and other
+factors that could cause actual results to differ materially, including the
+company's failure to continue to develop and market new and innovative products
+and services and to keep pace with technological change; competitive pressures;
+failure to obtain or protect intellectual property rights; quarterly
+fluctuations in revenues and volatility of stock prices; the company's ability
+to attract and retain key personnel; currency and customer financing risks;
+dependence on certain suppliers; changes in the financial or business condition
+of the company's distributors or resellers; the company's ability to
+successfully manage acquisitions and alliances; legal, political and economic
+changes and other risks, uncertainties and factors discussed elsewhere in this
+Form 10-Q, in the company's other filings with the Securities and Exchange
+Commission or in materials incorporated therein by reference.
+
+ITEM 4.  CONTROLS AND PROCEDURES
+
+       Based on their evaluation of the company's disclosure controls and
+procedures as of a date within 90 days of the filing of this Report, the Chief
+Executive Officer and Chief Financial Officer have concluded that such controls
+and procedures are effective.
+
+       There were no significant changes in the company's internal controls or
+in other factors that could significantly affect such controls subsequent to the
+date of their evaluation.
+
+
+                           PART II - OTHER INFORMATION
+
+ITEM 5.  OTHER INFORMATION
+
+       The Audit Committee of the Board of Directors approved the categories
+of all non-audit services performed by the company's independent accountants
+during the period covered by this report.
+
+ITEM 6(a). EXHIBITS
+
+EXHIBIT NUMBER
+
+       3      The By-laws of IBM as amended through September 1, 2002.
+
+       11     Statement re: computation of per share earnings.
+
+       12     Statement re: computation of ratios.
+
+       99.1   Certification by CEO pursuant to 18 U.S.C. Section 1350, as
+              adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+       99.2   Certification by CFO pursuant to 18 U.S.C. Section 1350, as
+              adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+                                      -32-
+<Page>
+
+ITEM 6(b).  REPORTS ON FORM 8-K
+
+       The company filed a Form 8-K on July 1, 2002, to incorporate by reference
+into Registration Statement No. 333-37034 on Form S-3, effective June 20, 2000,
+the Selling Agent Agreement dated June 28, 2002, among International Business
+Machines Corporation, ABN AMRO Financial Services, Inc., A.G. Edwards & Sons,
+Inc., Edward Jones & Co., L.P., Fidelity Capital Markets, a division of National
+Financial Services LLC, Merrill Lynch, Pierce, Fenner & Smith Incorporated,
+Morgan Stanley & Co. Incorporated, Prudential Securities, Salomon Smith Barney
+Inc., Charles Schwab & Co., Inc., and UBS PaineWebber Inc. In addition, the Form
+of Master Note and the resolution of the IBM Board of Directors dated April 30,
+2002 were also filed. No financial statements were filed with this Form 8-K.
+
+       The company filed a Form 8-K on July 9, 2002, publishing quarterly
+consolidated financial results for 2001 and the first quarter of 2002 as a
+result of the company's decision to sell its disk drive operations to Hitachi,
+Ltd. which under generally accepted accounting principles will be accounted for
+as discontinued operations. These financial results from prior periods were
+presented to conform with this accounting treatment. In addition, segment
+pre-tax income from continuing operations results were provided for the same
+periods in this Form 8-K.
+
+       The company filed a Form 8-K on July 17, 2002, with respect to the
+company's financial results for the periods ended June 30, 2002, and included
+the unaudited Consolidated Statement of Earnings, Consolidated Statement of
+Financial Position and Segment Data for the periods ended June 30, 2002. In
+addition, IBM's Chief Financial Officer, John R. Joyce's second-quarter earnings
+presentation to security analysts on Wednesday, July 17, 2002, was filed as
+Attachment II of the Form 8-K.
+
+       The company filed a Form 8-K on July 30, 2002, with respect to the
+company's press release dated July 30, 2002, regarding a definitive agreement
+between IBM and PricewaterhouseCoopers, whereby IBM will acquire
+PricewaterhouseCoopers' global business consulting and technology services unit
+for approximately $3.5 billion in cash and stock. No financial statements were
+filed with this 8-K.
+
+       The company filed a Form 8-K on August 13, 2002, submitting the
+Statements under Oath of the Principal Executive Office and the Principal
+Financial Officer in accordance with the Securities and Exchange Commission's
+June 27, 2002 Order requiring the filing of sworn statements pursuant to Section
+21 (a) (1) of the Securities Exchange Act of 1934.
+
+       The company filed a Form 8-K on August 28, 2002, publishing consolidated
+financial earnings results for 2001 through 1997 as a result of the company's
+decision to sell its disk drive operations to Hitachi, Ltd. which under
+generally accepted accounting principles will be accounted for as discontinued
+operations. These financial results from prior periods were presented to conform
+with this accounting treatment. In addition, the Computation of Ratio of Income
+from Continuing Operations to Fixed Charges is also presented for the same
+periods in this Form 8-K.
+
+       The company filed a Form 8-K on September 9, 2002, to incorporate by
+reference into Registration Statement No. 333-37034 on Form S-3, effective June
+20, 2000, the Underwriting Agreement dated September 5, 2002, among
+International Business Machines Corporation,
+
+
+                                      -33-
+<Page>
+
+ITEM 6(b).  REPORTS ON FORM 8-K - (CONTINUED)
+
+Deutsche Bank Securities Inc., Banc Of America Securities LLC, Banc One Capital
+Markets, Inc. and Salomon Smith Barney Inc. In addition, the Form of
+$1,100,000,000 Floating Notes due 2004 was also filed. The Underwriting
+Agreement dated September 5, 2002, among International Business Machines
+Corporation, J.P. Morgan Securities Inc., Morgan Stanley & Co. Incorporated, ABN
+AMRO Incorporated, Banc of America Securities LLC, Banc One Capital Markets,
+Inc., Barclays Capital Inc., BNP Paribas Securities Corp., Credit Suisse First
+Boston Corporation, Deutsche Bank Securities Inc., Dresdner Kleinwort
+Wasserstein - Grantchester, Inc., Goldman Sachs & Co., HSBC Securities (USA)
+Inc., ING Financial Markets LLC, Lehman Brothers Inc., The Royal Bank of
+Scotland plc, Salomon Smith Barney Inc., UBS Warburg LLC, Utendahl Capital
+Partners, L.P. and The Williams Capital Group, L.P. was also filed along with
+the Form of $600,000,000 4.25 percent Notes due 2009 in this Form 8-K.
+
+
+                                    SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                                     International Business Machines Corporation
+                                     -------------------------------------------
+                                                   (Registrant)
+
+Date: November 4, 2002
+----------------------
+
+                                     By:
+
+                                          /s/       Robert F. Woods
+                                          ---------------------------------
+                                                  Robert F. Woods
+                                            Vice President and Controller
+
+
+                                      -34-
+<Page>
+
+       CERTIFICATION PURSUANT TO RULE 13A-14 OR 15D-14 OF THE SECURITIES
+         EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE
+                           SARBANES-OXLEY ACT OF 2002
+
+I, Samuel J. Palmisano, certify that:
+
+1.  I have reviewed this quarterly report on Form 10-Q of International Business
+    Machines Corporation;
+
+2.  Based on my knowledge, this quarterly report does not contain any untrue
+    statement of a material fact or omit to state a material fact necessary to
+    make the statements made, in light of the circumstances under which such
+    statements were made, not misleading with respect to the period covered by
+    this quarterly report;
+
+3.  Based on my knowledge, the financial statements, and other financial
+    information included in this quarterly report, fairly present in all
+    material respects the financial condition, results of operations and cash
+    flows of the registrant as of, and for, the periods presented in this
+    quarterly report;
+
+4.  The registrant's other certifying officers and I are responsible for
+    establishing and maintaining disclosure controls and procedures (as defined
+    in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+    a.  designed such disclosure controls and procedures to ensure that material
+        information relating to the registrant, including its consolidated
+        subsidiaries, is made known to us by others within those entities,
+        particularly during the period in which this quarterly report is being
+        prepared;
+
+    b.  evaluated the effectiveness of the registrant's disclosure controls and
+        procedures as of a date within 90 days prior to the filing date of this
+        quarterly report (the "Evaluation Date"); and
+
+    c.  presented in this quarterly report our conclusions about the
+        effectiveness of the disclosure controls and procedures based on our
+        evaluation as of the Evaluation Date;
+
+5.  The registrant's other certifying officers and I have disclosed, based on
+    our most recent evaluation, to the registrant's auditors and the audit
+    committee of registrant's board of directors (or persons performing the
+    equivalent function):
+
+    a.  all significant deficiencies in the design or operation of internal
+        controls which could adversely affect the registrant's ability to
+        record, process, summarize and report financial data and have identified
+        for the registrant's auditors any material weaknesses in internal
+        controls; and
+
+    b.  any fraud, whether or not material, that involves management or other
+        employees who have a significant role in the registrant's internal
+        controls; and
+
+6.  The registrant's other certifying officers and I have indicated in this
+    quarterly report whether or not there were significant changes in internal
+    controls or in other factors that could significantly affect internal
+    controls subsequent to the date of our most recent evaluation, including any
+    corrective actions with regard to significant deficiencies and material
+    weaknesses.
+
+Dated: October 23, 2002
+
+By: /s/ Samuel J. Palmisano
+    -----------------------
+    Samuel J. Palmisano
+    President and Chief
+    Executive Officer
+
+
+                                      -35-
+<Page>
+
+       CERTIFICATION PURSUANT TO RULE 13A-14 OR 15D-14 OF THE SECURITIES
+         EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE
+                           SARBANES-OXLEY ACT OF 2002
+
+I, John R. Joyce, certify that:
+
+1.  I have reviewed this quarterly report on Form 10-Q of International Business
+    Machines Corporation;
+
+2.  Based on my knowledge, this quarterly report does not contain any untrue
+    statement of a material fact or omit to state a material fact necessary to
+    make the statements made, in light of the circumstances under which such
+    statements were made, not misleading with respect to the period covered by
+    this quarterly report;
+
+3.  Based on my knowledge, the financial statements, and other financial
+    information included in this quarterly report, fairly present in all
+    material respects the financial condition, results of operations and cash
+    flows of the registrant as of, and for, the periods presented in this
+    quarterly report;
+
+4.  The registrant's other certifying officers and I are responsible for
+    establishing and maintaining disclosure controls and procedures (as defined
+    in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+    a.  designed such disclosure controls and procedures to ensure that material
+        information relating to the registrant, including its consolidated
+        subsidiaries, is made known to us by others within those entities,
+        particularly during the period in which this quarterly report is being
+        prepared;
+
+    b.  evaluated the effectiveness of the registrant's disclosure controls and
+        procedures as of a date within 90 days prior to the filing date of this
+        quarterly report (the "Evaluation Date"); and
+
+    c.  presented in this quarterly report our conclusions about the
+        effectiveness of the disclosure controls and procedures based on our
+        evaluation as of the Evaluation Date;
+
+5.  The registrant's other certifying officers and I have disclosed, based on
+    our most recent evaluation, to the registrant's auditors and the audit
+    committee of registrant's board of directors (or persons performing the
+    equivalent function):
+
+    a.  all significant deficiencies in the design or operation of internal
+        controls which could adversely affect the registrant's ability to
+        record, process, summarize and report financial data and have identified
+        for the registrant's auditors any material weaknesses in internal
+        controls; and
+
+    b.  any fraud, whether or not material, that involves management or other
+        employees who have a significant role in the registrant's internal
+        controls; and
+
+6.  The registrant's other certifying officers and I have indicated in this
+    quarterly report whether or not there were significant changes in internal
+    controls or in other factors that could significantly affect internal
+    controls subsequent to the date of our most recent evaluation, including any
+    corrective actions with regard to significant deficiencies and material
+    weaknesses.
+
+Dated: October 23, 2002
+
+By:  /s/ John R Joyce
+     -----------------------
+         John R. Joyce
+      Senior Vice President,
+     Chief Financial Officer
+
+
+                                      -36-
+
+</TEXT>
+</DOCUMENT>

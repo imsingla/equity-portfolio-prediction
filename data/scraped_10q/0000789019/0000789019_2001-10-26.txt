@@ -1,0 +1,1219 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q FOR PERIOD ENDING 9/30/2001
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                             _____________________
+
+                                    FORM 10-Q
+
+              [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                For the Quarterly Period Ended September 30, 2001
+
+              [_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                  For the Transition Period From _____ to ____
+
+                             _____________________
+
+
+                         Commission File Number 0-14278
+
+                              MICROSOFT CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+
+
+
+              Washington                                       91-1144442
+    (State or other jurisdiction of                         (I.R.S. Employer
+    incorporation or organization)                         Identification No.)
+
+
+
+                One Microsoft Way, Redmond, Washington   98052-6399
+               (Address of principal executive office)   (Zip Code)
+
+
+
+       Registrant's telephone number, including area code: (425) 882-8080
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes  [X]     No  [_]
+
+
+The number of shares outstanding of the registrant's common stock as of
+September 30, 2001 was 5,385,753,545.
+
+================================================================================
+
+
+<PAGE>
+
+                              MICROSOFT CORPORATION
+
+                                    FORM 10-Q
+
+                    For the Quarter Ended September 30, 2001
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+Part I.  Financial Information
+
+         Item 1.  Financial Statements                                                 Page
+                                                                                       ----
+<S>                                                                                  <C>
+                  a)  Income Statements
+                      for the Three Months Ended September 30, 2000 and 2001 .........   1
+
+                  b)  Balance Sheets
+                      as of June 30, 2001 and September 30, 2001 .....................   2
+
+                  c)  Cash Flows Statements
+                      for the Three Months Ended September 30, 2000 and 2001 .........   3
+
+                  d)  Stockholders' Equity Statements
+                      for the Three Months Ended September 30, 2000 and 2001 .........   4
+
+                  e)  Notes to Financial Statements ..................................   5
+
+         Item 2.  Management's Discussion and Analysis of Financial
+                  Condition and Results of Operations ................................  10
+
+         Item 3.  Quantitative and Qualitative Disclosures About Market Risk .........  14
+
+
+Part II.  Other Information
+
+         Item 1.  Legal Proceedings ..................................................  15
+
+         Item 6.  Exhibits and Reports on Form 8-K ...................................  15
+
+
+Signature ............................................................................  16
+</TABLE>
+
+
+
+
+
+
+<PAGE>
+
+                          Part I. Financial Information
+
+Item 1.  Financial Statements
+
+MICROSOFT CORPORATION
+
+Income Statements
+(In millions, except earnings per share)(Unaudited)
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                              Three Months Ended
+                                                                    Sept. 30
+
+                                                                2000        2001
+----------------------------------------------------------------------------------
+<S>                                                           <C>         <C>
+Revenue                                                       $5,766      $6,126
+Operating expenses:
+  Cost of revenue                                                825         884
+  Research and development                                       956       1,013
+  Sales and marketing                                          1,038       1,145
+  General and administrative                                     170         187
+----------------------------------------------------------------------------------
+    Total operating expenses                                   2,989       3,229
+----------------------------------------------------------------------------------
+Operating income                                               2,777       2,897
+Losses on equity investees and other                             (52)        (30)
+Investment income/(loss)                                       1,127        (980)
+----------------------------------------------------------------------------------
+Income before income taxes                                     3,852       1,887
+Provision for income taxes                                     1,271         604
+----------------------------------------------------------------------------------
+Income before accounting change                                2,581       1,283
+Cumulative effect of accounting change (net of
+  income taxes of $185)                                         (375)          -
+----------------------------------------------------------------------------------
+Net income                                                    $2,206      $1,283
+----------------------------------------------------------------------------------
+
+Basic earnings per share:
+  Before accounting change                                    $ 0.49      $ 0.24
+  Cumulative effect of accounting change                       (0.07)          -
+----------------------------------------------------------------------------------
+                                                              $ 0.42      $ 0.24
+----------------------------------------------------------------------------------
+
+Diluted earnings per share:
+  Before accounting change                                    $ 0.46      $ 0.23
+  Cumulative effect of accounting change                       (0.06)          -
+----------------------------------------------------------------------------------
+                                                              $ 0.40      $ 0.23
+----------------------------------------------------------------------------------
+
+Weighted average shares outstanding:
+  Basic                                                        5,299       5,398
+----------------------------------------------------------------------------------
+  Diluted                                                      5,557       5,567
+----------------------------------------------------------------------------------
+</TABLE>
+
+
+
+                            See accompanying notes.
+--------------------------------------------------------------------------------
+
+                                       1
+
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Balance Sheets
+(In millions)
+
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                  June 30      Sept. 30
+                                                                                    2001       2001 (1)
+---------------------------------------------------------------------------------------------------------
+<S>                                                                               <C>          <C>
+Assets
+Current assets:
+  Cash and equivalents                                                             $ 3,922       $ 3,113
+  Short-term investments                                                            27,678        33,050
+---------------------------------------------------------------------------------------------------------
+    Total cash and short-term investments                                           31,600        36,163
+  Accounts receivable                                                                3,671         3,615
+  Deferred income taxes                                                              1,949         1,993
+  Other                                                                              2,417         2,561
+---------------------------------------------------------------------------------------------------------
+    Total current assets                                                            39,637        44,332
+Property and equipment, net                                                          2,309         2,261
+Equity investments                                                                  14,361        12,035
+Goodwill                                                                             1,511         1,511
+Intangible assets, net                                                                 401           394
+Other assets                                                                         1,038           834
+---------------------------------------------------------------------------------------------------------
+      Total assets                                                                 $59,257       $61,367
+---------------------------------------------------------------------------------------------------------
+
+Liabilities and stockholders' equity
+Current liabilities:
+  Accounts payable                                                                 $ 1,188       $ 1,143
+  Accrued compensation                                                                 742           586
+  Income taxes                                                                       1,468         2,131
+  Unearned revenue                                                                   5,614         5,849
+  Other                                                                              2,120         3,153
+---------------------------------------------------------------------------------------------------------
+    Total current liabilities                                                       11,132        12,862
+---------------------------------------------------------------------------------------------------------
+Deferred income taxes                                                                  836             -
+---------------------------------------------------------------------------------------------------------
+Commitments and contingencies
+Stockholders' equity:
+  Common stock and paid-in capital -
+    shares authorized 12,000; outstanding 5,383 and 5,386                           28,390        29,296
+  Retained earnings, including accumulated other comprehensive
+    income of $587 and $621                                                         18,899        19,209
+---------------------------------------------------------------------------------------------------------
+    Total stockholders' equity                                                      47,289        48,505
+---------------------------------------------------------------------------------------------------------
+      Total liabilities and stockholders' equity                                   $59,257       $61,367
+---------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(1) Unaudited
+
+
+                            See accompanying notes.
+--------------------------------------------------------------------------------
+
+                                       2
+
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Cash Flows Statements
+(In millions)(Unaudited)
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                  Three Months Ended
+                                                                                        Sept. 30
+                                                                                2000                2001
+---------------------------------------------------------------------------------------------------------
+<S>                                                                        <C>                 <C>
+Operations
+  Net income                                                               $   2,206           $   1,283
+  Cumulative effect of accounting change, net of tax                             375                   -
+  Depreciation, amortization, and other noncash items                            250                 282
+  Net recognized (gains)/ losses on investments                                 (599)              1,517
+  Stock option income tax benefits                                               453                 415
+  Deferred income taxes                                                          734                (839)
+  Unearned revenue                                                             1,457               1,104
+  Recognition of unearned revenue from prior periods                          (1,507)               (914)
+  Accounts receivable                                                            116                  69
+  Other current assets                                                          (211)                (39)
+  Other long-term assets                                                         (61)                122
+  Other current liabilities                                                     (253)                389
+---------------------------------------------------------------------------------------------------------
+    Net cash from operations                                                   2,960               3,389
+---------------------------------------------------------------------------------------------------------
+Financing
+  Common stock issued                                                            375                 391
+  Common stock repurchased                                                    (1,752)             (1,125)
+  Put warrant proceeds                                                            81                   -
+---------------------------------------------------------------------------------------------------------
+    Net cash used for financing                                               (1,296)               (734)
+---------------------------------------------------------------------------------------------------------
+Investing
+  Additions to property and equipment                                           (245)               (150)
+  Purchases of investments                                                   (13,723)            (16,020)
+  Maturities of investments                                                    1,570                 861
+  Sales of investments                                                         8,462              11,840
+---------------------------------------------------------------------------------------------------------
+    Net cash used for investing                                               (3,936)             (3,469)
+---------------------------------------------------------------------------------------------------------
+Net change in cash and equivalents                                            (2,272)               (814)
+Effect of exchange rates on cash and equivalents                                  67                   5
+Cash and equivalents, beginning of period                                      4,846               3,922
+---------------------------------------------------------------------------------------------------------
+Cash and equivalents, end of period                                        $   2,641           $   3,113
+=========================================================================================================
+</TABLE>
+
+
+                            See accompanying notes.
+--------------------------------------------------------------------------------
+
+                                       3
+
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Stockholders' Equity Statements
+(In millions)(Unaudited)
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                           Three Months Ended
+                                                                                Sept. 30
+                                                                       2000                 2001
+     ---------------------------------------------------------------------------------------------
+     <S>                                                           <C>                  <C>
+     Common stock and paid-in capital
+       Balance, beginning of period                                  $23,195              $28,390
+       Common stock issued                                             3,055                  609
+       Common stock repurchased                                         (123)                (118)
+       Proceeds from sale of put warrants                                 81                    -
+       Stock option income tax benefits                                  453                  415
+     ---------------------------------------------------------------------------------------------
+         Balance, end of period                                       26,661               29,296
+     ---------------------------------------------------------------------------------------------
+     Retained earnings
+       Balance, beginning of period                                   18,173               18,899
+     ---------------------------------------------------------------------------------------------
+       Net income                                                      2,206                1,283
+       Other comprehensive income:
+         Cumulative effect of accounting change                          (75)                   -
+         Net gains/(losses) on derivative instruments                    432                  (51)
+         Net unrealized investment gains/(losses)                       (484)                  46
+         Translation adjustments and other                                59                   39
+     ---------------------------------------------------------------------------------------------
+           Comprehensive income                                        2,138                1,317
+       Common stock repurchased                                       (1,629)              (1,007)
+     ---------------------------------------------------------------------------------------------
+         Balance, end of period                                       18,682               19,209
+     ---------------------------------------------------------------------------------------------
+           Total stockholders' equity                                $45,343              $48,505
+     =============================================================================================
+</TABLE>
+
+
+                            See accompanying notes.
+--------------------------------------------------------------------------------
+
+                                       4
+
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Notes To Financial Statements
+(Unaudited)
+--------------------------------------------------------------------------------
+
+Basis of Presentation
+
+In the opinion of management, the accompanying balance sheets and related
+interim statements of income, cash flows, and stockholders' equity include all
+adjustments, consisting only of normal recurring items, as well as the
+accounting changes to adopt Statement of Financial Accounting Standards (SFAS)
+133, Accounting for Derivative Instruments and Hedging Activities, SFAS 141,
+Business Combinations, and SFAS 142, Goodwill and Other Intangible Assets,
+necessary for their fair presentation in conformity with U.S. generally accepted
+accounting principles. Preparing financial statements requires management to
+make estimates and assumptions that affect the reported amounts of assets,
+liabilities, revenue, and expenses. Examples include provisions for returns,
+concessions and bad debts, and the length of product life cycles and buildings'
+lives. Actual results may differ from these estimates. Interim results are not
+necessarily indicative of results for a full year. The information included in
+this Form 10-Q should be read in conjunction with Management's Discussion and
+Analysis and financial statements and notes thereto included in the Microsoft
+Corporation 2001 Form 10-K. Certain reclassifications have been made for
+consistent presentation.
+
+Accounting Changes
+
+Effective July 1, 2000, Microsoft adopted SFAS 133, which establishes accounting
+and reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts and for hedging activities. The adoption
+of SFAS 133 resulted in a pre-tax reduction to income of $560 million ($375
+million after-tax) and a pre-tax reduction to other comprehensive income (OCI)
+of $112 million ($75 million after-tax).
+
+Effective July 1, 2001, Microsoft adopted SFAS 141 and SFAS 142. SFAS 141
+requires business combinations initiated after June 30, 2001 to be accounted for
+using the purchase method of accounting. It also specifies the types of acquired
+intangible assets that are required to be recognized and reported separate from
+goodwill. SFAS 142 requires that goodwill and certain intangibles no longer be
+amortized, but instead tested for impairment at least annually. There was no
+impairment of goodwill upon adoption of SFAS 142.
+
+Net income and earnings per share for the first quarter of fiscal 2001 adjusted
+to exclude amortization expense (net of taxes) is as follows:
+
+<TABLE>
+                                            Three Months
+                                                Ended
+                                              Sept. 30,
+(In millions, except earnings per share)         2000
+--------------------------------------------------------
+<S>                                        <C>
+Net income:
+  Reported net income                            $2,206
+  Goodwill amortization                              56
+  Equity method goodwill amortization                 5
+--------------------------------------------------------
+    Adjusted net income                          $2,267
+========================================================
+
+Basic earnings per share:
+  Reported basic earnings per share               $0.42
+  Goodwill amortization                            0.01
+  Equity method goodwill amortization                 -
+--------------------------------------------------------
+    Adjusted basic earnings per share             $0.43
+========================================================
+
+Diluted earnings per share:
+  Reported diluted earnings per share             $0.40
+  Goodwill amortization                            0.01
+  Equity method goodwill amortization                 -
+--------------------------------------------------------
+    Adjusted diluted earnings per share           $0.41
+========================================================
+</TABLE>
+
+
+During the first quarter of fiscal 2002, no goodwill was acquired, impaired, or
+written off. As of September 30, 2001, Desktop and Enterprise Software and
+Services goodwill was $1.10 billion, Consumer Software, Services, and Devices
+goodwill was $256 million, and Consumer Commerce Investments goodwill was $151
+million.
+
+All of Microsoft's acquired intangible assets are subject to amortization.
+During the first quarter of fiscal 2002, the Company acquired $35 million in
+contract-based intangible assets and $13 million in technology-based intangible
+assets, which will be amortized over approximately 3 years. No
+
+--------------------------------------------------------------------------------
+
+                                       5
+
+<PAGE>
+
+significant residual value is estimated for these intangible assets.
+Intangible assets amortization expense for the first quarter of fiscal 2002 was
+$55 million. The components of intangible assets were as follows:
+
+<TABLE>
+<CAPTION>
+
+                                     June 30, 2001                             Sept. 30, 2001
+                       --------------------------------------       --------------------------------------
+                          Gross Carrying      Accumulated             Gross Carrying       Accumulated
+(In millions)                 Amount          Amortization                Amount           Amortization
+----------------------------------------------------------------------------------------------------------
+<S>                    <C>                  <C>                      <C>                  <C>
+Contract-based                 $407              $(177)                    $442                $(215)
+Technology-based                157                (27)                     170                  (38)
+Marketing-related and other      83                (42)                      83                  (48)
+----------------------------------------------------------------------------------------------------------
+  Intangible assets            $647              $(246)                    $695                $(301)
+==========================================================================================================
+</TABLE>
+
+
+Intangible assets amortization expense is estimated to be $142 million for the
+remainder of fiscal 2002, $125 million in fiscal 2003, $87 million in fiscal
+2004, $38 million in fiscal 2005, and $2 million in fiscal 2006.
+
+Earnings Per Share
+
+Basic earnings per share is computed on the basis of the weighted average number
+of common shares outstanding. Diluted earnings per share is computed on the
+basis of the weighted average number of common shares outstanding plus the
+effect of outstanding put warrants using the "reverse treasury stock" method and
+outstanding stock options using the "treasury stock" method.
+
+The components of basic and diluted earnings per share were as follows:
+
+Earnings Per Share
+(In millions, except earnings per share)
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                          Three Months Ended
+                                                                               Sept. 30
+                                                                       2000               2001
+-------------------------------------------------------------------------------------------------
+<S>                                                                  <C>                <C>
+Income before accounting change (A)                                  $2,581             $1,283
+Cumulative effect of accounting change                                 (375)                 -
+-------------------------------------------------------------------------------------------------
+Net income available for common shareholders                         $2,206             $1,283
+=================================================================================================
+
+Weighted average outstanding shares of common stock (B)               5,299              5,398
+Dilutive effect of:
+  Put warrants                                                           10                  -
+  Employee stock options                                                248                169
+-------------------------------------------------------------------------------------------------
+Common stock and common stock equivalents (C)                         5,557              5,567
+=================================================================================================
+
+Earnings per share before accounting change:
+  Basic (A/B)                                                        $ 0.49             $ 0.24
+-------------------------------------------------------------------------------------------------
+  Diluted (A/C)                                                      $ 0.46             $ 0.23
+=================================================================================================
+</TABLE>
+
+Unearned Revenue
+
+A portion of Microsoft's revenue is earned ratably over the product life cycle
+or, in the case of subscriptions, over the period of the license agreement.
+
+End users receive certain elements of the Company's products over a period of
+time. These elements include browser technologies and technical support.
+Consequently, Microsoft's earned revenue reflects the recognition of the fair
+value of these elements over the product's life cycle. The percentage of revenue
+recognized ratably ranges from approximately 15% to 25% of Windows desktop
+operating systems and approximately 10% to 20% of desktop applications,
+depending on the terms and conditions of the license and prices of the elements.
+Product life cycles are currently estimated at three years for Windows operating
+systems and 18 months for desktop applications. The Company also sells
+subscriptions to certain products via maintenance and certain organization
+license agreements. At September 30, 2001, unearned revenue was $5.85 billion,
+compared to $4.77 billion at September 30, 2000. Desktop Applications unearned
+revenue was $2.39 billion, compared to $1.68 billion at September 30, 2000.
+Desktop Platforms unearned revenue was $2.66 billion, compared to $2.36 billion
+at September 30, 2000.
+
+--------------------------------------------------------------------------------
+
+                                       6
+
+<PAGE>
+
+Enterprise Software and Services unearned revenue was $470 million, compared to
+$400 million at September 30, 2000. Unearned revenue associated with Consumer
+Software, Services, and Devices and Other was $325 million, compared to $328
+million a year ago.
+
+Stockholders' Equity
+
+The Company repurchases its common shares in the open market to provide shares
+for issuance to employees under stock option and stock purchase plans. During
+the first quarter of fiscal 2001 and 2002, the Company repurchased 25.5 million
+and 21.6 million shares of Microsoft common stock.
+
+Operational Transactions
+
+On July 16, 2001, USA Networks, Inc. (USA) announced an agreement to acquire a
+controlling interest in Expedia, Inc. through the purchase of up to 37.5 million
+shares, approximately 75% of the current outstanding shares. If holders of more
+than 37.5 million Expedia shares elect to sell their shares to USA, there will
+be a pro rata reduction among all of those electing shareholders. Microsoft has
+agreed to transfer all of its 33.7 million shares and warrants, subject to
+pro-ration. It is expected that the transaction will close by December 31, 2001.
+
+Investment Income/(Loss)
+
+The components of investment income/(loss) are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                    Three Months Ended
+                                                                         Sept. 30
+(In millions)                                                    2000               2001
+------------------------------------------------------------------------------------------
+<S>                                                            <C>                <C>
+Dividends                                                      $   97            $    88
+Interest                                                          431                449
+Recognized net gains/(losses) on investments                      599             (1,517)
+------------------------------------------------------------------------------------------
+  Investment income/(loss)                                     $1,127            $  (980)
+==========================================================================================
+</TABLE>
+
+Contingencies
+
+The Company is a defendant in U.S. v. Microsoft, a lawsuit filed by the
+Antitrust Division of the U.S. Department of Justice (DOJ) and a group of
+eighteen state Attorneys General alleging violations of the Sherman Act and
+various state antitrust laws. After the trial, the District Court entered
+Findings of Fact and Conclusions of Law stating that Microsoft had violated
+Sections 1 and 2 of the Sherman Act and various state antitrust laws. A Judgment
+was entered on June 7, 2000 ordering, among other things, the breakup of
+Microsoft into two companies. The Judgment was stayed pending an appeal. On June
+28, 2001, the U.S. Court of Appeals for the District of Columbia Circuit
+affirmed in part, reversed in part, and vacated the Judgment in its entirety and
+remanded the case to the District Court for a new trial on one Section 1 claim
+and for entry of a new judgment consistent with its ruling. In its ruling, the
+Court of Appeals substantially narrowed the bases of liability found by the
+District Court, but affirmed some of the District Court's conclusions that
+Microsoft had violated Section 2. On September 6, 2001, the plaintiffs announced
+that on remand they will not ask the Court to break Microsoft up, that they will
+seek imposition of conduct remedies, and that they will not retry the one
+Section 1 claim returned to the District Court by the Court of Appeals. On
+August 7, 2001, Microsoft petitioned the Supreme Court for a writ of certiorari
+to review the appellate court's ruling concerning its disqualification of the
+District Court judge. The Supreme Court denied the petition on October 9, 2001.
+Microsoft may petition the Supreme Court to review other aspects of the
+appellate court's decision after final judgment is entered. On October 12, 2001,
+the trial court held a status conference and entered orders requiring the
+parties to engage in settlement discussions until November 2, 2001. If no
+settlement is reached by that date, the parties will begin discovery leading to
+an evidentiary hearing on remedies on March 11, 2002.
+
+In other ongoing investigations, the DOJ and several state Attorneys General
+have requested information from Microsoft concerning various issues. In
+addition, the European Commission has instituted proceedings in which it alleges
+that Microsoft has failed to disclose information that Microsoft competitors
+claim they need to interoperate fully with Windows 2000 clients and servers and
+has engaged in discriminatory licensing of such technology. The remedies sought,
+though not fully defined, include mandatory disclosure of Microsoft Windows
+operating system technology and imposition of fines. Microsoft denies the
+European Commission's allegations and intends to contest the proceedings
+vigorously.
+
+--------------------------------------------------------------------------------
+
+                                       7
+
+<PAGE>
+
+A large number of overcharge class action lawsuits have been initiated against
+Microsoft. These cases allege that Microsoft has competed unfairly and
+unlawfully monopolized alleged markets for operating systems and certain
+software applications and seek to recover alleged overcharges that the
+complaints contend Microsoft charged for these products. Microsoft believes the
+claims are without merit and is vigorously defending the cases. To date,
+Microsoft has won dismissals of all claims for damages by indirect purchasers
+under Federal law and in 15 separate state court proceedings. Claims on behalf
+of foreign purchasers have also been dismissed. Plaintiffs have appealed most of
+these rulings. While no trials or other proceedings have been held concerning
+any liability issues, courts in several states have ruled that these cases may
+proceed as class actions, while one court has denied class certification status
+to the claims in that state proceeding.
+
+A purported class action employment discrimination case is pending against
+Microsoft, Donaldson v. Microsoft, a single action consolidating three
+separately filed class action complaints filed in October 2000 and February 2001
+in Federal court in Seattle, Washington. The Donaldson plaintiffs purport to
+represent a nationwide class of current and former African American and female
+Microsoft employees and seek injunctive relief, an unspecified amount of
+compensatory and punitive damages, and attorneys' fees. The Donaldson plaintiffs
+allege that Microsoft's compensation, evaluation, and promotion policies are
+discriminatory with respect to the plaintiffs in violation of Title VII of the
+1964 Civil Rights Act and 42 U.S.C. (S) 1981. A class certification hearing was
+held before the district court on October 19, 2001 and a decision is expected
+shortly. Microsoft denies the allegations and is vigorously defending the case.
+
+The Securities and Exchange Commission is conducting a non-public investigation
+into the Company's accounting reserve practices. Microsoft is also subject to
+various legal proceedings and claims that arise in the ordinary course of
+business.
+
+Management currently believes that resolving these matters will not have a
+material adverse impact on the Company's financial position or its results of
+operations.
+
+<TABLE>
+<CAPTION>
+Segment Information
+
+(In millions)
+--------------------------------------------------------------------------------------------------------------
+
+                               Desktop and      Consumer
+                                Enterprise      Software,      Consumer
+Three Months                     Software       Services,      Commerce             Reconciling
+Ended Sept. 30                 and Services    and Devices   Investments    Other     Amounts    Consolidated
+--------------------------------------------------------------------------------------------------------------
+<S>                         <C>               <C>           <C>            <C>     <C>          <C>
+2000
+Revenue                              $5,119          $ 463           $ 63     $156       $ (35)       $5,766
+Operating income (loss)               3,385           (261)           (39)      20        (328)       $2,777
+--------------------------------------------------------------------------------------------------------------
+
+2001
+Revenue                              $5,433          $ 484           $ 94     $126       $ (11)       $6,126
+Operating income (loss)               3,413           (318)             6       16        (220)        2,897
+--------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Desktop and Enterprise Software and Services Revenue:
+
+                                                      Three Months Ended
+                                                           Sept. 30
+(In millions)                                        2000            2001
+----------------------------------------------------------------------------
+Desktop Applications                                $2,075          $2,212
+Desktop Platforms                                    1,992           2,016
+----------------------------------------------------------------------------
+  Desktop Software                                   4,067           4,228
+  Enterprise Software and Services                   1,052           1,205
+----------------------------------------------------------------------------
+    Total Desktop and Enterprise Software
+      and Services                                  $5,119          $5,433
+----------------------------------------------------------------------------
+
+Microsoft has four segments: Desktop and Enterprise Software and Services;
+Consumer Software, Services, and Devices; Consumer Commerce Investments; and
+Other. Desktop and Enterprise Software and Services operating
+
+--------------------------------------------------------------------------------
+
+                                       8
+
+
+<PAGE>
+
+segment includes Desktop Applications, Desktop Platforms, and Enterprise
+Software and Services. Desktop Applications include Microsoft Office; Microsoft
+Project; Visio; client access licenses for Windows NT Server and Windows 2000
+Server, Exchange, and BackOffice; Microsoft Great Plains; and bCentral. Desktop
+Platforms include Windows 2000 Professional, Windows NT Workstation, Windows
+Millennium Edition (Windows Me), Windows 98, and other desktop operating
+systems. Enterprise Software and Services includes Server Platforms; Server
+Applications; developer tools and services; and Enterprise services. Consumer
+Software, Services, and Devices operating segment includes MSN Internet access,
+MSN network services, PC and online games, Xbox, learning and productivity
+software, mobility and embedded systems. Consumer Commerce Investments operating
+segment includes Expedia, Inc., the HomeAdvisor online real estate service, and
+the CarPoint online automotive service. Other primarily includes Hardware and
+Microsoft Press.
+
+Segment information is presented in accordance with SFAS 131, Disclosures about
+Segments of an Enterprise and Related Information. This standard is based on a
+management approach, which requires segmentation based upon the Company's
+internal organization and disclosure of revenue and operating income based upon
+internal accounting methods. The Company's financial reporting systems present
+various data for management to run the business, including internal profit and
+loss statements (P&Ls) prepared on a basis not consistent with generally
+accepted accounting principles. Assets are not allocated to segments for
+internal reporting presentations.
+
+Reconciling items for revenue include certain elements of unearned revenue and
+the treatment of certain channel inventory amounts and estimates. In addition to
+the reconciling items for revenue, reconciling items for operating income/(loss)
+include general and administrative expenses ($170 million in 2000 and $187
+million in 2001), certain research expenses ($39 million in 2000 and $37 million
+in 2001), and other corporate level adjustments. The internal P&Ls use
+accelerated methods of depreciation and amortization. Additionally, losses on
+equity investees and minority interest are classified in operating income for
+internal reporting presentations.
+
+--------------------------------------------------------------------------------
+
+                                        9
+
+<PAGE>
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+Results of Operations
+
+Microsoft develops, manufactures, licenses, and supports a wide range of
+software products for a multitude of computing devices. Microsoft software
+includes scalable operating systems for servers, personal computers (PCs), and
+intelligent devices; server applications for client/server environments;
+knowledge worker productivity applications; and software development tools. The
+Company's online efforts include the MSN network of Internet products and
+services and alliances with companies involved with broadband access and various
+forms of digital interactivity. Microsoft also licenses consumer software
+programs; sells hardware devices; provides consulting services; trains and
+certifies system integrators and developers; and researches and develops
+advanced technologies for future software products and services.
+
+Management's Discussion and Analysis contains statements that are
+forward-looking. These statements are based on current expectations and
+assumptions that are subject to risks and uncertainties. Actual results could
+differ materially because of factors such as: entry into markets with vigorous
+competition, market acceptance of new products and services, adoption of new
+licensing programs, continued acceptance of existing products and services,
+delays in product development and related product release schedules, reliance on
+sole source suppliers, or shortages of key components for hardware products that
+delay product delivery, any of which may cause revenues and income to fall short
+of anticipated levels; the risk of obsolete inventory or product returns by
+distributors, resellers and retailers; the risk of warranty and other claims on
+hardware products; higher relative marketing expenses associated with new
+product releases; changes in the rate of PC shipments; technological shifts;
+customer demand for Microsoft's products and services; the support of third
+party software developers for new or existing platforms; competitive products,
+services and pricing; changes in product and service mix; product life cycles;
+sale terms and conditions; the Company's ability to efficiently integrate
+acquired businesses; implementation of cost structures that align with revenue
+growth; the financial condition of vendors, resellers and retailers;
+unavailability of insurance; uninsured losses (including the effects of the
+terrorist attacks on the United States on Sept. 11, 2001); adverse results in
+litigation; the effects of terrorist activity and armed conflict such as
+disruptions in general economic activity and changes in Microsoft's operations
+and security arrangements; general economic conditions that affect demand for
+computer hardware or software; currency fluctuations; financial market
+volatility affecting the value of Microsoft's investments that may result in a
+reduction in carrying value and recognition of losses; and other issues
+discussed in the Company's 2001 Form 10-K.
+
+Revenue
+
+Revenue for the first quarter of fiscal year 2002 was $6.13 billion, an increase
+of 6% over the first quarter of fiscal 2001. The revenue growth was driven
+primarily by the licensing of Microsoft Windows 2000 Professional and Server,
+Microsoft SQL Server, and the other .NET Enterprise Servers.
+
+Product Revenue
+
+Microsoft has four segments: Desktop and Enterprise Software and Services;
+Consumer Software, Services, and Devices; Consumer Commerce Investments; and
+Other. The Management Discussion and Analysis presentation of revenue differs
+from that reported under the Company's Segment Information appearing in the
+Notes to Financial Statements because reconciling items are allocated to those
+segments.
+
+Desktop and Enterprise Software and Services includes Desktop Applications;
+Desktop Platforms; and Enterprise Software and Services. Desktop and Enterprise
+Software and Services revenue was $5.40 billion for the first quarter, an
+increase of 7% from $5.06 billion recorded in the first quarter of the prior
+year. Desktop Applications includes revenue from Microsoft Office; Microsoft
+Project; Visio; client access licenses (CALs) for Windows NT Server and Windows
+2000 Server, Exchange, and BackOffice; Microsoft Great Plains; and bCentral.
+Revenue from Desktop Applications was $2.19 billion in the September quarter of
+fiscal 2002, a 2% growth from $2.14 billion in the prior year. Office revenue
+reflected increased enterprise licensing of the Office XP suite, offset by
+declining consumer purchases, particularly in the Asia region. Revenue grew
+strongly in the first quarter of fiscal 2002 from client access licenses related
+to strong licensing growth of Exchange, BackOffice, and Windows NT Server and
+Windows 2000 Server CALs. Microsoft Great Plains revenue also contributed to the
+growth.
+
+Desktop Platforms includes revenue from Windows 2000 Professional, Windows NT
+Workstation, Windows Millennium Edition (Windows Me), Windows 98, and other
+desktop operating systems. Desktop Platforms revenue was $2.02 billion in the
+first quarter, representing 7% growth from the first quarter of the prior year.
+Although hampered by the weakness in PC shipments, revenue from an increased mix
+of Windows 2000 Professional and earned revenue from enterprise licensing
+contributed to the growth from the prior year's September quarter.
+
+--------------------------------------------------------------------------------
+
+                                       10
+
+<PAGE>
+
+Revenue from Windows 98 and Windows Me declined from the first quarter of fiscal
+2001. Windows XP Home and Professional Editions were released to manufacturing
+during the quarter and some OEMs began offering this new version in late
+September.
+
+Enterprise Software and Services includes Server Platforms; Server Applications;
+developer tools and services; and Enterprise services. September quarter revenue
+was $1.19 billion, increasing 15% from $1.04 billion in the September quarter of
+fiscal 2001. Server Platforms revenue growth was greater than 20% resulting from
+continued adoption of Windows 2000 Server and an increased mix of Windows 2000
+Advanced Server. SQL Server, Exchange Server, and other .NET Enterprise Servers
+revenue rose sharply from the prior year's first quarter as a result of strong
+licensing. Enterprise services revenue, representing consulting and product
+support services, was up 27% compared to the prior year's comparable quarter.
+Revenue from developer tools, training and certification, and other services
+declined from the September quarter of fiscal 2001 with the release of the new
+version of the developer tools suite approaching.
+
+Consumer Software, Services, and Devices includes MSN Internet access, MSN
+network services, PC and online games, Xbox, learning and productivity software,
+mobility and embedded systems. Consumer Software, Services, and Devices revenue
+reached $501 million in the first quarter of fiscal 2002, up 5% from the first
+quarter of the prior year. MSN Internet access revenue grew solidly as a result
+of an increased subscriber base, partially offset by a decline in the average
+revenue per subscriber due to a larger mix of subscribers contracted under
+rebate programs. Revenue from MSN network services continues to face difficult
+economic conditions impacting the online advertising marketplace resulting in a
+slower pace of revenue growth than achieved in recent quarters. Learning and
+productivity software revenue and PC and online games revenue declined from the
+September quarter of fiscal 2001, due to the timing of new product releases and
+the softness in the overall consumer market.
+
+Consumer Commerce Investments include Expedia, Inc., the HomeAdvisor online real
+estate service, and the Carpoint online automotive service. First quarter
+revenue totaled $94 million, compared to $63 million in the prior year's first
+quarter. Prior year's first quarter revenue for Expedia, Inc. has been
+reclassified to reflect the reporting change of merchant revenue to a net basis,
+which represents the amount charged to the customer less the amount paid to the
+supplier.
+
+On July 16, 2001, USA Networks, Inc. (USA) announced an agreement to acquire a
+controlling interest in Expedia, Inc. through the purchase of up to 37.5 million
+shares, approximately 75% of the current outstanding shares. If holders of more
+than 37.5 million Expedia shares elect to sell their shares to USA, there will
+be a pro rata reduction among all of those electing shareholders. Microsoft has
+agreed to transfer all of its 33.7 million shares and warrants, subject to
+pro-ration. It is expected that the transaction will close by December 31, 2001.
+
+Other primarily includes Hardware and Microsoft Press. Other revenue was $129
+million in the first quarter of fiscal 2002, declining from $165 million
+reported in the prior year's September quarter. Lower sales of Microsoft Press
+books due to the timing of new book releases and lower revenue from hardware
+peripherals as a result of weaknesses in the consumer market contributed to the
+decline in revenue from the September quarter of fiscal 2001.
+
+Distribution Channels
+
+Microsoft distributes its products primarily through OEM licenses,
+organizational licenses, online services and products, and retail packaged
+products. OEM channel revenue represents license fees from original equipment
+manufacturers who pre-install Microsoft products, primarily on PCs. Microsoft
+has three major geographic sales and marketing regions: the South Pacific and
+Americas Region; the Europe, Middle East, and Africa Region; and the Asia
+Region. Sales of organizational licenses and retail packaged products via these
+channels are primarily to and through distributors and resellers.
+
+OEM first quarter revenue was $1.98 billion, up 9% from revenue of $1.82 billion
+in the comparable quarter of fiscal 2001. Although total licenses reported
+declined from the prior year's first quarter, revenue growth was positively
+impacted by the increased mix of the higher priced Windows 2000 Professional and
+Windows NT Workstation licenses, a higher average revenue per license, and the
+recognition of unearned revenue, which had been deferred in prior periods when
+PC growth rates were higher. Additionally, OEM revenue reflected strength in the
+system builder channel.
+
+South Pacific and Americas Region revenue in the September quarter was $2.43
+billion, up 13% compared to $2.15 billion in the prior year. Revenue from the
+United States was the primary driver of the region's revenue growth, as a result
+of strong enterprise licensing of the Company's server and .NET Enterprise
+Servers in a weak economy due to the strong value-based offerings. Other product
+offerings influencing the growth included Windows NT Workstation and Windows
+2000 Professional, enterprise consulting and support services, and MSN
+access.
+
+--------------------------------------------------------------------------------
+
+                                       11
+
+<PAGE>
+
+Office integrated suites revenue showed a healthy increase from the prior year's
+comparable quarter as a result of licensing of Microsoft Office XP. Revenue from
+Microsoft Great Plains also contributed to the growth.
+
+Europe, Middle East, and Africa Region revenue was $1.11 billion, increasing 2%
+compared to $1.09 billion in the first quarter of the prior year. The results
+were largely affected by the weakening of local currencies, which negatively
+impacted translated revenue compared to the prior year. Revenue in the region
+would have increased 8% compared to the first quarter of fiscal 2001 if foreign
+exchange rates were constant with those of the prior year. However, revenue from
+Windows 2000 Professional and Server and the .NET Enterprise Server family of
+products was very healthy.
+
+Asia Region revenue decreased 15% to $604 million from $708 million in the
+September quarter of the prior year. The region's revenue growth rate was
+influenced by a sharp decline in consumer PC shipments, which affected the sales
+of localized versions of Microsoft Office XP. However, the region reported
+strong enterprise licensing revenue growth, particularly in Server Platforms and
+ .NET Enterprise Servers. Additionally, revenue in the region would have been 9%
+higher than the reported revenue if foreign exchange rates were constant with
+those of the prior year.
+
+Translated international revenue is affected by foreign exchange rates. The net
+impact of foreign exchange rates on revenue was negative in the September
+quarter compared to a year ago, due to weaker European and Japanese currencies
+versus the U.S. dollar. Had the rates from the prior year's comparable quarter
+been in effect in the first quarter of fiscal 2002, translated international
+revenue billed in local currencies would have been approximately $140 million
+higher. Certain manufacturing, selling, distribution, and support costs are
+disbursed in local currencies, and a portion of international revenue is hedged,
+thus offsetting a portion of the translation exposure.
+
+Operating Expenses
+
+Effective July 1, 2001, Microsoft adopted Statement of Financial Accounting
+Standards (SFAS) 141, Business Combinations, and SFAS 142, Goodwill and Other
+Intangible Assets. SFAS 141 requires business combinations to be accounted for
+using the purchase method of accounting. It also specifies the types of acquired
+intangible assets that are required to be recognized and reported separate from
+goodwill. SFAS 142 requires that goodwill and certain intangibles no longer be
+amortized, but instead tested for impairment at least annually. There was no
+impairment of goodwill upon adoption of SFAS 142. Goodwill amortization was $68
+million (pre-tax) in the first quarter of fiscal 2001.
+
+Cost of revenue was $884 million or 14.4% as a percent of revenue in the first
+quarter, compared to $825 million or 14.3% as a percent of revenue in the first
+quarter of the prior year. Higher support and service costs associated with the
+MSN Internet access, MSN network services, and Enterprise services were
+partially offset by lower relative costs related to a decline in hardware and
+packaged consumer software products revenue and a higher mix of organizational
+licensing revenue versus the prior year's comparable quarter.
+
+Research and development expenses in the first quarter increased 6% from the
+first quarter of the prior year to $1.01 billion. R&D expenses increased
+primarily due to higher headcount-related costs and development costs associated
+with upcoming product releases, including Windows XP and Xbox, partially offset
+by the discontinuation of goodwill amortization in accordance with SFAS 142 in
+fiscal 2002.
+
+Sales and marketing expenses were $1.15 billion in the September quarter, or
+18.7% of revenue, compared to $1.04 billion in the first quarter of the prior
+year, or 18.0% of revenue. Sales and marketing expenses as a percent of revenue
+increased due to higher relative headcount related costs associated with new
+sales initiatives, partially offset by lower relative marketing costs.
+
+General and administrative costs were $187 million in the first quarter compared
+to $170 million in the comparable quarter of the prior year. General and
+administrative costs increased from the first quarter of fiscal 2001, due to
+higher headcount-related costs.
+
+Non-operating Items, Investment Income/(Loss), and Income Taxes
+
+Losses on equity investees and other incorporates Microsoft's share of income or
+loss from MSNBC, Avanade, and other investments accounted for using the equity
+method. Losses on equity investees and other decreased to $30 million in the
+first quarter of fiscal 2002, compared to $52 million in the comparable quarter
+of fiscal 2001, primarily reflecting a decrease in the number of such
+investments compared to the first quarter of fiscal 2001 in addition to the
+elimination of amortization of goodwill in accordance with SFAS 142 in fiscal
+2002.
+
+In the first quarter, the Company reported $980 million in investment loss. The
+loss for the quarter included $612 million of bond portfolio return and dividend
+income, offset by $1.59 billion in net recognized losses. Net
+
+--------------------------------------------------------------------------------
+
+                                       12
+
+<PAGE>
+
+recognized losses included a write down for other-than-temporary impairments of
+$1.82 billion, primarily as a result of further declines in the fair values of
+European cable and telecommunications holdings, net realized gains on equity
+securities of $391 million, and $157 million in net losses attributable to
+derivative instruments. In the prior year comparable quarter, the Company
+reported $1.13 billion in investment income, which included $499 million of bond
+portfolio income and dividends and $628 million of net recognized gains.
+
+Effective July 1, 2000, Microsoft adopted SFAS 133, Accounting for Derivative
+Instruments and Hedging Activities, which establishes accounting and reporting
+standards for derivative instruments, including certain derivative instruments
+embedded in other contracts and for hedging activities. All derivatives, whether
+designated in hedging relationships or not, are required to be recorded on the
+balance sheet at fair value. If the derivative is designated as a fair value
+hedge, the changes in the fair value of the derivative and the hedged item are
+recognized in earnings. If the derivative is designated as a cash flow hedge,
+changes in the fair value of the derivative are recorded in other comprehensive
+income (OCI) and are recognized in the income statement when the hedged item
+affects earnings.
+
+The adoption of SFAS 133 on July 1, 2000, resulted in a cumulative pre-tax
+reduction to income of $560 million ($375 million after-tax) and a cumulative
+pre-tax reduction to OCI of $112 million ($75 million after-tax). The reduction
+to income was mostly attributable to a loss of approximately $300 million
+reclassified from OCI for the time value of options and a loss of approximately
+$250 million reclassified from OCI for derivatives not designated as hedging
+instruments. The reduction to OCI was mostly attributable to losses of
+approximately $670 million on cash flow hedges offset by the reclassifications
+out of OCI of the approximately $300 million loss for the time value of options
+and the approximately $250 million loss for derivative instruments not
+designated as hedging instruments.
+
+The effective tax rate for fiscal 2002 is estimated to be 32%. The effective tax
+rate for fiscal 2001 was 33%.
+
+Financial Condition
+
+Cash and short-term investments totaled $36.16 billion as of September 30, 2001.
+The growth in the cash balance during the quarter included net purchases of
+approximately $1.2 billion in short-term investments near September 30 as part
+of Microsoft's normal management of the investment portfolio, which were settled
+after the balance sheet date. The Company is required to recognize the
+investments on the trade date rather than the settlement date, accordingly there
+was a corresponding increase in other current liabilities.
+
+Cash flow from operations was $3.39 billion in the September quarter of fiscal
+2002, compared to $2.96 billion in the September quarter of fiscal 2001. The
+increase was primarily attributable to the growth in operating income and other
+changes in working capital in the September quarter of fiscal 2002. Cash used
+for financing was $734 million in the September quarter of fiscal 2002, a
+decrease of $562 million from the first quarter of the prior year, reflecting a
+decrease in common stock repurchased. During the September quarter of fiscal
+2002, the Company repurchased 21.6 million shares of common stock under its
+share repurchase program, compared to 25.5 million shares repurchased in the
+first quarter of the prior year. Cash used for investing was $3.47 billion in
+the September quarter of fiscal 2002, a decrease of $467 million from the first
+quarter of the prior year.
+
+
+Microsoft has no material long-term debt. Stockholders' equity at September 30,
+2001 was $48.51 billion. Microsoft will continue to invest in sales, marketing,
+and product support infrastructure. Additionally, research and development
+activities will include investments in existing and advanced areas of
+technology, including using cash to acquire technology. Additions to property
+and equipment will continue, including new facilities and computer systems for
+R&D, sales and marketing, support, and administrative staff. Commitments for
+constructing new buildings were $93 million on September 30, 2001. Since fiscal
+1990, Microsoft has repurchased 876 million common shares while 2.15 billion
+shares were issued under the Company's employee stock option and purchase plans.
+
+Management believes existing cash and short-term investments together with funds
+generated from operations should be sufficient to meet operating requirements.
+The Company's cash and short-term investments are available for strategic
+investments, mergers and acquisitions, other potential large-scale needs and to
+fund the share repurchase program. Microsoft has not paid cash dividends on its
+common stock.
+
+--------------------------------------------------------------------------------
+
+                                       13
+
+<PAGE>
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+
+The Company is exposed to foreign currency, interest rate, and securities price
+risks. A portion of these risks is hedged, but fluctuations could impact the
+Company's results of operations and financial position. The Company hedges the
+exposure of accounts receivable and a portion of anticipated revenue to foreign
+currency fluctuations, primarily with option contracts. The Company monitors its
+foreign currency exposures daily to maximize the overall effectiveness of its
+foreign currency hedge positions. Principal currencies hedged include the Euro,
+Japanese yen, British pound, and Canadian dollar. Fixed income securities are
+subject to interest rate risk. The portfolio is diversified and consists
+primarily of investment grade securities to minimize credit risk. The Company
+routinely uses options to hedge its exposure to interest rate risk in the event
+of a catastrophic increase in interest rates. Many securities held in the
+Company's equity and other investments portfolio are subject to price risk. The
+Company uses options to hedge its price risk on certain highly volatile equity
+securities.
+
+The Company uses a value-at-risk (VAR) model to estimate and quantify its market
+risks. The VAR model is not intended to represent actual losses in fair value,
+but is used as a risk estimation and management tool. Assumptions applied to the
+VAR model at June 30, 2001 and September 30, 2001 include the following: normal
+market conditions; Monte Carlo modeling with 10,000 simulated market price
+paths; a 97.5% confidence interval; and a 20-day estimated loss in fair value
+for each market risk category. Accordingly, 97.5% of the time the estimated
+20-day loss in fair value would not exceed $66 million and $146 million at June
+30, 2001 and September 30, 2001 for foreign currency denominated investments and
+accounts receivable, $363 million and $405 million at June 30, 2001 and
+September 30, 2001 for interest-sensitive investments, or $520 million and $293
+million at June 30, 2001 and September 30, 2001 for equity securities.
+
+--------------------------------------------------------------------------------
+
+                                       14
+
+<PAGE>
+
+                           Part II. Other Information
+
+Item 1. Legal Proceedings
+
+See notes to financial statements.
+
+Item 6. Exhibits and Reports on Form 8-K
+
+(A) Exhibits
+
+None
+
+(B) Reports on Form 8-K
+
+The Company filed no reports on Form 8-K during the quarter ended September 30,
+2001.
+
+Items 2, 3, 4, and 5 are not applicable and have been omitted.
+
+--------------------------------------------------------------------------------
+
+                                       15
+
+<PAGE>
+
+                                   Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                    Microsoft Corporation
+
+   Date:  October 26, 2001          By: /s/ John G. Connors
+                                        ---------------------------------------
+                                        John G. Connors
+                                        Senior Vice President; Chief Financial
+                                        Officer
+
+                                        (Principal Financial and Accounting
+                                          Officer and Duly Authorized Officer)
+
+-------------------------------------------------------------------------------
+
+                                       16
+
+</TEXT>
+</DOCUMENT>

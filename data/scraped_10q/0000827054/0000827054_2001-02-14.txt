@@ -1,0 +1,1099 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>e-6281.txt
+<DESCRIPTION>QUARTERLY REPORT FOR QTR ENDING 12-31-00
+<TEXT>
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+    For the quarterly period ended DECEMBER 31, 2000.
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+    For the transition period from ______________ to ______________.
+
+
+                         Commission File Number: 0-21184
+
+
+                        MICROCHIP TECHNOLOGY INCORPORATED
+             (Exact Name of Registrant as Specified in Its Charter)
+
+
+           DELAWARE                                              86-0629024
+(State or Other Jurisdiction of                               (I.R.S. Employer
+Incorporation or Organization)                               Identification No.)
+
+
+                 2355 W. CHANDLER BLVD., CHANDLER, AZ 85224-6199
+                                 (480) 792-7200
+    (Address, Including Zip Code, and Telephone Number, Including Area Code,
+                  of Registrant's Principal Executive Offices)
+
+The registrant (1) has filed all reports required to be filed by Section 13 or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to the filing requirements for the past 90 days.
+Yes [X] No [ ]
+
+The number of shares outstanding of the issuer's common stock, as of February
+12, 2001:
+
+               COMMON STOCK, $.001 PAR VALUE: 130,327,880 SHARES
+
+================================================================================
+<PAGE>
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+
+                                      INDEX
+
+                                                                            Page
+                                                                            ----
+PART I. FINANCIAL INFORMATION.
+
+     Item 1. Financial Statements
+
+          Condensed Consolidated Balance Sheets -
+            December 31, 2000 and March 31, 2000...........................    3
+
+          Condensed Consolidated Statements of Income -
+            Three and Nine Months Ended December 31, 2000
+            and December 31, 1999..........................................    4
+
+          Condensed Consolidated Statements of Cash Flows -
+            Nine Months Ended December 31, 2000 and December 31, 1999......    5
+
+          Notes to Condensed Consolidated Financial Statements.............    6
+
+     Item 2. Management's Discussion and Analysis of Financial
+              Condition and Results of Operations..........................    9
+
+     Item 3. Quantitative and Qualitative Disclosures about Market Risk....   17
+
+PART II. OTHER INFORMATION.
+
+     Item 6. Exhibits and Reports on Form 8-K..............................   18
+
+SIGNATURES ................................................................   19
+
+                                       2
+<PAGE>
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+
+                      (in thousands except share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                                    December 31,        March 31,
+                                                                                       2000                2000
+                                                                                    -----------         ---------
+                                                                                    (Unaudited)
+<S>                                                                                 <C>                <C>
+                                     ASSETS
+Cash and cash equivalents                                                           $    78,802         $ 188,112
+Accounts receivable, net                                                                 77,366            75,911
+Inventories                                                                              76,848            59,461
+Prepaid expenses                                                                          7,113             3,523
+Deferred tax asset                                                                       40,633            35,549
+Other current assets                                                                      2,179             2,257
+                                                                                    -----------         ---------
+      Total current assets                                                              282,941           364,813
+
+Property, plant and equipment, net                                                      769,150           439,030
+Other assets                                                                              7,689             8,568
+                                                                                    -----------         ---------
+
+      Total assets                                                                  $ 1,059,780         $ 812,411
+                                                                                    ===========         =========
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Short-term lines of credit                                                          $        --         $   9,000
+Accounts payable                                                                        123,539            67,861
+Accrued liabilities                                                                      62,382            36,879
+Deferred income on shipments to distributors                                             63,664            54,760
+                                                                                    -----------         ---------
+      Total current liabilities                                                         249,585           168,500
+
+Pension accrual                                                                             921               918
+Deferred tax liability                                                                   19,250            18,697
+
+Stockholders' equity:
+
+Preferred stock, $.001 par value; authorized 5,000,000 shares;
+ no shares issued or outstanding                                                             --                --
+Common stock, $.001 par value; authorized 300,000,000 shares;
+ issued 121,233,019 and outstanding 120,235,379 shares at December 31, 2000;
+ issued 121,233,019 and outstanding 118,361,330 shares at March 31, 2000                    121               121
+Additional paid-in capital                                                              329,541           318,301
+Retained earnings                                                                       488,291           366,325
+Less shares of common stock held in treasury at cost; 997,640 shares at
+ December 31, 2000 and 2,871,689 at March 31, 2000                                      (27,929)          (60,451)
+                                                                                    -----------         ---------
+      Net stockholders' equity                                                          790,024           624,296
+
+      Total liabilities and stockholders' equity                                    $ 1,059,780         $ 812,411
+                                                                                    ===========         =========
+</TABLE>
+
+      See accompanying notes to condensed consolidated financial statements
+
+                                       3
+<PAGE>
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+                  CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+                    (in thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+
+                                                 Three Months Ended December 31,       Nine Months Ended December 31,
+                                                 -------------------------------       ------------------------------
+                                                   2000                   1999            2000                1999
+                                                 ---------             ---------       ---------           ---------
+                                                (Unaudited)                           (Unaudited)
+<S>                                       <C>          <C>                 <C>           <C>
+Net sales                                        $ 176,428             $ 129,187       $ 510,475           $ 354,918
+Cost of sales                                       79,052                61,754         230,374             171,953
+                                                 ---------             ---------       ---------           ---------
+      Gross profit                                  97,376                67,433         280,101             182,965
+
+Operating expenses:
+ Research and development                           18,286                12,130          50,037              33,089
+ Selling, general and administrative                22,992                19,534          69,917              55,476
+                                                 ---------             ---------       ---------           ---------
+                                                    41,278                31,664         119,954              88,565
+
+Operating income before special income              56,098                35,769         160,147              94,400
+Special income                                          --                    --              --               2,400
+                                                 ---------             ---------       ---------           ---------
+
+Operating income                                    56,098                35,769         160,147              96,800
+
+Other income (expense):
+ Interest income                                     1,531                   615           5,946               1,275
+ Interest expense                                     (166)                 (209)           (481)               (677)
+ Other, net                                          1,129                    40           1,464                 512
+                                                 ---------             ---------       ---------           ---------
+
+Income  before income  taxes                        58,592                36,215         167,076              97,910
+
+Income taxes                                        15,820                 9,778          45,110              26,434
+                                                 ---------             ---------       ---------           ---------
+
+Net income                                       $  42,772             $  26,437       $ 121,966           $  71,476
+                                                 =========             =========       =========           =========
+
+ Basic net income per share                      $    0.36             $    0.23       $    1.03           $    0.62
+                                                 =========             =========       =========           =========
+
+ Diluted net income per share                    $    0.34             $    0.22       $    0.97           $    0.59
+                                                 =========             =========       =========           =========
+Weighted average common shares outstanding         119,690               114,637         118,981             114,531
+                                                 =========             =========       =========           =========
+Weighted average common and potential common
+ shares outstanding                                125,868               122,274         126,046             121,610
+                                                 =========             =========       =========           =========
+</TABLE>
+      See accompanying notes to condensed consolidated financial statements
+
+                                       4
+<PAGE>
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (in thousands)
+<TABLE>
+<CAPTION>
+                                                                           Nine Months Ended December 31,
+                                                                           ------------------------------
+                                                                              2000                 1999
+                                                                           ---------            ---------
+                                                                           (Unaudited)
+<S>                                                                        <C>                  <C>
+Cash flows from operating activities:
+ Net income                                                                $ 121,966            $  71,476
+ Adjustments to reconcile net income to
+  net cash provided by operating activities:
+   Provision for doubtful accounts                                               885                  451
+   Provision for inventory valuation                                           6,265                1,443
+   Provision for pension accrual                                                 135                  193
+   Gain on sale of fixed assets                                                 (931)                  --
+   Depreciation and amortization                                              73,030               47,549
+   Amortization of purchased technology                                        2,041                  225
+   Deferred income taxes                                                      (4,531)               1,788
+   Tax benefit from exercise of stock options                                 14,392                8,341
+   Increase in accounts receivable                                            (2,340)              (8,248)
+   (Increase) decrease in inventories                                        (23,652)               8,374
+   Increase in accounts payable and accrued liabilities                       81,181               24,841
+   Change in other assets and liabilities                                      4,098               14,754
+                                                                           ---------            ---------
+
+Net cash provided by operating activities                                    272,539              171,187
+                                                                           ---------            ---------
+Cash flows from investing activities:
+  Proceeds from sale of assets                                                 1,484                   --
+  Capital expenditures                                                      (403,703)            (139,729)
+                                                                           ---------            ---------
+Net cash used in investing activities                                       (402,219)            (139,729)
+                                                                           ---------            ---------
+Cash flows from financing activities:
+  Repayment of lines of credit                                                (9,000)             (11,509)
+  Payments on long-term debt                                                      --               (1,403)
+  Payments on capital lease obligations                                           --                 (413)
+  Proceeds from sale of stock and put options                                 29,370               19,533
+                                                                           ---------            ---------
+Net cash provided by financing activities                                     20,370                6,208
+                                                                           ---------            ---------
+
+Net (decrease) increase in cash and cash equivalents                        (109,310)              37,666
+
+Cash and cash equivalents at beginning of period                             188,112               30,826
+                                                                           ---------            ---------
+
+Cash and cash equivalents at end of period                                 $  78,802            $  68,492
+                                                                           =========            =========
+Supplemental disclosure of non-cash financing and investing activities:
+  Net share settlement delivery of shares                                  $  12,848            $      --
+  Net share settlement receipt of shares                                   $   6,610            $  51,911
+</TABLE>
+
+      See accompanying notes to condensed consolidated financial statements
+
+                                       5
+<PAGE>
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(1)  BASIS OF PRESENTATION
+
+     The accompanying condensed consolidated financial statements include the
+accounts of Microchip Technology Incorporated and its wholly-owned subsidiaries
+(the "Company"). All intercompany balances and transactions have been eliminated
+in consolidation.
+
+     The accompanying condensed consolidated financial statements have been
+prepared in accordance with generally accepted accounting principles in the
+United States of America, pursuant to the rules and regulations of the
+Securities and Exchange Commission. In the Company's opinion, the accompanying
+condensed consolidated financial statements include all adjustments of a normal
+recurring nature which are necessary for a fair presentation of the results for
+the interim periods presented. Certain information and footnote disclosures
+normally included in consolidated financial statements have been condensed or
+omitted pursuant to such rules and regulations. It is suggested that these
+condensed consolidated financial statements be read in conjunction with the
+consolidated financial statements and the notes thereto included in the
+Company's Annual Report on Form 10-K for the year ended March 31, 2000. The
+results of operations for the nine months ended December 31, 2000 and 1999 are
+not necessarily indicative of the results to be expected for the full fiscal
+year.
+
+(2)  ACCOUNTS RECEIVABLE
+
+     Accounts receivable consists of the following (amounts in thousands):
+
+                                                      December 31,     March 31,
+                                                         2000            2000
+                                                       -------         -------
+                                                     (unaudited)
+     Trade accounts receivable                         $80,214         $77,945
+     Other                                                 873             703
+                                                       -------         -------
+                                                        81,087          78,648
+     Less allowance for doubtful accounts                3,721           2,737
+                                                       -------         -------
+                                                       $77,366         $75,911
+                                                       =======         =======
+
+(3)  INVENTORIES
+
+     The components of inventories are as follows (amounts in thousands):
+
+                                                      December 31,     March 31,
+                                                         2000            2000
+                                                        -------         -------
+                                                      (unaudited)
+     Raw materials                                      $10,705        $ 7,724
+     Work in process                                     46,426         35,914
+     Finished goods                                      30,167         22,873
+                                                        -------        -------
+                                                         87,298         66,511
+
+     Less allowance for inventory valuation              10,450          7,050
+                                                        -------        -------
+                                                        $76,848        $59,461
+                                                        =======        =======
+
+                                       6
+<PAGE>
+     Inventory impairment charges establish a new cost basis for inventory and
+charges are not subsequently reversed to income even if circumstances later
+suggest that increased carrying amounts are recoverable.
+
+(4)  PROPERTY, PLANT AND EQUIPMENT
+
+     Property, plant and equipment consists of the following (amounts in
+thousands):
+
+                                                      December 31,     March 31,
+                                                          2000           2000
+                                                       ----------      --------
+                                                       (unaudited)
+     Land                                              $   11,545      $ 11,545
+     Building and building improvements                   140,169        90,069
+     Machinery and equipment                              662,957       479,509
+     Projects in process                                  251,213       100,293
+                                                       ----------      --------
+                                                        1,065,884       681,416
+
+     Less accumulated depreciation and amortization       296,734       242,386
+                                                       ----------      --------
+                                                       $  769,150      $439,030
+                                                       ==========      ========
+
+     Depreciation and amortization expense attributed to property and equipment
+was $73.0 million and $47.5 million for the nine months ended December 31, 2000
+and 1999, respectively.
+
+(5)  LINES OF CREDIT
+
+     On May 31, 2000, the Company entered into an unsecured revolving credit
+facility with a syndicate of banks totaling $100.0 million, bearing interest at
+LIBOR plus 0.625%. We can elect to increase the facility to $150.0 million,
+subject to certain conditions set forth in the credit agreement. This facility
+has a termination date of May 31, 2003. There were no borrowings against this
+line of credit as of December 31, 2000. We are required to achieve certain
+financial ratios and operations results to maintain this line of credit. Our
+ability to fully utilize this credit facility is dependent on our being in
+compliance with such covenants and ratios. The Company was in compliance with
+these covenants as of December 31, 2000.
+
+     At March 31, 2000, and through May 31, 2000, the Company had an unsecured
+line of credit with a syndicate of U.S. banks for up to $90,000,000, bearing
+interest at LIBOR plus 0.325%. The Company had utilized $9,000,000 of this line
+of credit as of March 31, 2000. The agreement between the Company and the
+syndicate of banks required the Company to achieve certain financial ratios and
+operating results. The Company was in compliance with these covenants as of
+March 31 and May 31, 2000, respectively.
+
+     The Company has an additional unsecured line of credit with various Asian
+financial institutions for up to $34,600,000 (U.S. Dollar equivalent). These
+borrowings are predominantly denominated in U.S. Dollars, bearing interest at
+the Singapore Interbank Offering Rate (SIBOR) of 6.20% at December 31, 2000 plus
+0.648% (average) and expiring on various dates through March 31, 2001. There
+were no borrowings against this line of credit as of December 31, 2000, but an
+allocation of $1,197,000 of the available line was made, relating to import
+guarantees associated with the Company's business in Thailand. There were no
+borrowings against this line of credit as of March 31, 2000, but an allocation
+
+                                       7
+<PAGE>
+of $1,934,000 of the available line was made, relating to import guarantees
+associated with the Company's business in Thailand.
+
+(6)  STOCKHOLDERS' EQUITY
+
+     During the nine months ended December 31, 2000, the Company made a net
+delivery of 478,781 shares of its common stock in connection with a net shares
+settled forward contract. During the nine months ended December 31, 1999, the
+Company received 2,540,466 shares of its common stock in connection with a net
+shares settled forward contract. During the nine months ended December 31, 2000,
+the Company received $17,008,000 in connection with a net shares settled forward
+contract. The net shares settled forward contract was the only open forward
+contract of the Company as of December 31, 2000. The net shares settled forward
+contract could obligate the Company to make a cash payment in the future if the
+price of the Company's Common Stock is below the strike price of the
+instruments. The expiration date of this transaction is May 2001, with quarterly
+interim settlement dates.
+
+(7)  NET INCOME PER SHARE
+
+     The following table sets forth the computation of basic and diluted net
+income per share (in thousands except per share amounts):
+
+<TABLE>
+<CAPTION>
+                                              Three Months Ended         Nine Months Ended
+                                                  December 31,              December 31,
+                                                  (Unaudited)               (Unaudited)
+                                               2000         1999         2000         1999
+                                             --------     --------     --------     --------
+<S>                                          <C>          <C>          <C>          <C>
+     Net income                              $ 42,772     $ 26,437     $121,966     $ 71,476
+                                             ========     ========     ========     ========
+     Weighted average common
+     shares outstanding                       119,690      114,637      118,981      114,531
+
+     Dilutive effect of stock options           6,178        7,637        7,065        7,079
+                                             --------     --------     --------     --------
+     Weighted average common and
+     potential common shares outstanding      125,868      122,274      126,046      121,610
+                                             ========     ========     ========     ========
+
+     Basic net income per share              $   0.36     $   0.23     $   1.03     $   0.62
+                                             ========     ========     ========     ========
+
+     Diluted net income per share            $   0.34     $   0.22     $   0.97     $   0.59
+                                             ========     ========     ========     ========
+</TABLE>
+
+(8)  SUBSEQUENT EVENT
+
+     On January 16, 2001, the Company completed its previously announced
+acquisition of TelCom Semiconductor, Inc. in a tax-free reorganization that is
+being accounted for as a pooling of interests. The Company issued approximately
+9.8 million shares of its Common Stock and assumed all outstanding TelCom stock
+options.
+
+                                       8
+<PAGE>
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth certain operational data as a percentage of
+net sales for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                            Three Months Ended        Nine Months Ended
+                                                December 31,             December 31,
+                                                (Unaudited)              (Unaudited)
+                                             2000         1999        2000         1999
+                                           --------     --------    --------     --------
+<S>                                         <C>          <C>         <C>          <C>
+     Net sales                              100.0%       100.0%      100.0%       100.0%
+     Cost of sales                           44.8%        47.8%       45.1%        48.4%
+                                            -----        -----       -----        -----
+     Gross profit                            55.2%        52.2%       54.9%        51.6%
+     Research and development                10.4%         9.4%        9.8%         9.3%
+     Selling, general and administrative     13.0%        15.1%       13.7%        15.6%
+     Special (income)/charges                  --           --          --         (0.7%)
+                                            -----        -----       -----        -----
+     Operating income                        31.8%        27.7%       31.4%        27.3%
+                                            =====        =====       =====        =====
+</TABLE>
+
+RECENT DEVELOPMENT
+
+     On January 16, 2001, we completed our acquisition of TelCom Semiconductor,
+Inc. TelCom designs and markets a diversified portfolio of high performance
+analog and mixed-signal integrated circuits for a wide variety of applications
+in the wireless communications, networking, computer and industrial markets.
+Under the terms of the acquisition agreement, each share of TelCom common stock
+was exchanged for 0.53 of a share of Microchip common stock. We issued 9,801,456
+shares of Microchip common stock and assumed all outstanding TelCom stock
+options. The acquisition was structured as a tax-free reorganization and is
+being accounted for as a pooling of interests.
+
+     Since the transaction was completed following the close of our December
+2000 quarter, our financial results as reported do not include the financial
+results of TelCom. Future financial reports will include the combined financial
+results of both entities.
+
+     THERE ARE NUMEROUS FACTORS THAT COULD AFFECT MICROCHIP'S AND TELCOM'S
+ACTUAL COMBINED FINANCIAL RESULTS, INCLUDING: DIFFICULTIES ASSOCIATED WITH
+SUCCESSFULLY INTEGRATING MICROCHIP AND TELCOM'S BUSINESSES AND TECHNOLOGIES;
+COSTS RELATED TO THE TRANSACTION; FAILURE OF THE COMBINED COMPANY TO RETAIN AND
+HIRE KEY EXECUTIVES, TECHNICAL PERSONNEL AND OTHER EMPLOYEES; FAILURE OF THE
+COMBINED COMPANY TO MANAGE ITS GROWTH AND THE DIFFICULTY OF SUCCESSFULLY
+MANAGING A LARGER ORGANIZATION; FAILURE OF THE COMBINED COMPANY TO SUCCESSFULLY
+MANAGE ITS CHANGING RELATIONSHIPS WITH CUSTOMERS, SUPPLIERS, VALUE ADDED
+RESELLERS, AND STRATEGIC PARTNERS; THE PROGRESS AND COSTS OF THE DEVELOPMENT OF
+OUR PRODUCTS AND SERVICES AND THE TIMING OF MARKET ACCEPTANCE OF THOSE PRODUCTS
+AND SERVICES; FAILURE OF THE COMBINED COMPANY'S CUSTOMERS TO ACCEPT NEW PRODUCT
+OFFERINGS; FAILURE TO ACHIEVE ANTICIPATED SYNERGIES IN THE MERGER; AND GENERAL
+ECONOMIC AND BUSINESS CONDITIONS. A MORE DETAILED DISCUSSION OF THESE AND OTHER
+CAUTIONARY STATEMENTS CAN BE FOUND IN THE JOINT PROXY STATEMENT/PROSPECTUS FILED
+WITH THE SECURITIES AND EXCHANGE COMMISSION BY MICROCHIP AND TELCOM ON FORM S-4
+ON NOVEMBER 20, 2000.
+
+                                       9
+<PAGE>
+NET SALES
+
+     Our net sales for the quarter ended December 31, 2000 were $176.4 million,
+an increase of 37% over sales of $129.2 million for the corresponding quarter of
+the previous fiscal year, and essentially flat from the previous quarter's sales
+of $176.3 million. We believe we have continued to gain market share in both the
+Microcontroller and Serial EEPROM memory markets during the current fiscal year.
+During the nine months ended December 31, 2000, net sales of our microcontroller
+and analog product lines increased to $363.7 million as compared to $287.0
+million in the nine months ended December 31, 1999. During the nine months ended
+December 31, 2000, net sales of our Serial EEPROM and related product lines
+increased to $146.8 million as compared to $67.9 million in the nine months
+ended December 31, 1999. Throughout this time period, we took advantage of
+supply shortages in the Serial EEPROM marketplace, and substantially grew this
+component of our business. During the quarter ended December 31, 2000, we
+experienced an inventory correction at our customers and distributors. The
+largest impact from this inventory correction was felt in Asia where we
+recognize revenue on sales to distributors who have no, or limited, product
+return rights and no price protection rights, immediately upon shipment. We
+currently anticipate that this inventory correction will be completed during the
+fourth quarter of fiscal 2001.
+
+     THE FOREGOING STATEMENT REGARDING THE ANTICIPATED COMPLETION OF THE
+DISTRIBUTION INVENTORY CORRECTION IS A FORWARD-LOOKING STATEMENT. ACTUAL RESULTS
+COULD DIFFER MATERIALLY BECAUSE OF THE FOLLOWING FACTORS, AMONG OTHERS: DEMAND
+FOR OUR PRODUCTS AND THE PRODUCTS OF OUR CUSTOMERS; INVENTORY LEVELS AT OUR
+DISTRIBUTORS AND AT OUR DISTRIBUTORS' CUSTOMERS; THE CYCLICAL NATURE OF BOTH THE
+SEMICONDUCTOR INDUSTRY AND THE MARKETS ADDRESSED BY OUR PRODUCTS; CHANGES IN
+PRODUCT MIX; AND THE ECONOMIC, POLITICAL AND OTHER CONDITIONS IN THE WORLDWIDE
+MARKETS SERVED BY US.
+
+     Our microcontroller and analog product lines represent the largest
+component of our total net sales. Microcontrollers, associated application
+development systems and analog products accounted for 69% of our net sales for
+the three months ended December 31, 2000, and 81% of our total net sales in the
+three months ended December 31, 1999. Net sales of our Microcontrollers,
+associated application development systems and analog products increased 16%
+over the corresponding quarter in fiscal 2000 and 27% over the corresponding
+nine month period in fiscal 2000. A related component of our product sales
+consists primarily of Serial EEPROM memory which accounted for 31% of our total
+net sales in the three months ended December 31, 2000, and 19% of total net
+sales in the three months ended December 31, 1999. Net sales of Serial EEPROM
+memory products increased 126% over the same quarter in fiscal 2000 and 116%
+over the same nine month period in fiscal 2000. During the current fiscal year
+the Serial EEPROM component of our business has substantially increased in
+dollars and as a percentage of our net sales driven primarily by supply
+shortages for these products in the marketplace.
+
+     Our net sales in any given quarter depend upon a combination of orders
+received in that quarter for shipment in that quarter, which we refer to as
+turns orders, and shipments from backlog. We measure turns orders at the
+beginning of a quarter based on the orders needed to meet the revenue targets
+that we set entering the quarter. Turns orders directly correlate to product
+lead times which are currently between 2 and 4 weeks, as compared to 12 to 15
+weeks a year ago. With current lead times between 2 and 4 weeks, customers do
+not place orders in advance and therefore, we do not currently have the order
+visibility we experienced in the recent past. Turns orders were 20% of our net
+sales for the three months ended December 31, 2000 and 25% of our net sales for
+the three months ended December 31, 1999. The percentage of turns orders has
+fluctuated over the last three years between 20% and 65% and is dependent on
+overall semiconductor industry conditions and product lead times. As of January
+1, 2001, we needed to achieve turns orders of approximately 42% to achieve our
+projected net sales for the fourth quarter. Turns orders are difficult to
+predict, and we may not experience the combination of turns orders and shipments
+
+                                       10
+<PAGE>
+from backlog in any quarter that would be sufficient to achieve anticipated
+growth in net sales. If we do not achieve a sufficient level of turns orders in
+a particular quarter, our revenues and operating results would be adversely
+affected.
+
+     Historically, average selling prices in the semiconductor industry decrease
+over the life of any particular product. The overall average selling prices of
+our microcontroller products have remained relatively constant, while average
+selling prices of our memory products had declined through the end of fiscal
+2000. However, during the current fiscal year, prices for our memory products
+increased due primarily to the dynamics of the supply and demand environment.
+During the current fiscal year microcontroller product pricing remained
+relatively constant. We have experienced, and expect to continue to experience,
+pricing pressure in certain microcontroller product lines, due primarily to
+competitive conditions. We have been able to maintain average selling prices in
+our microcontroller line by continuing to introduce new products with more
+features and higher prices, thereby offsetting price declines in older products.
+We also expect average selling prices for our memory products to decrease over
+the next several quarters. We may be unable to maintain average selling prices
+for our microcontroller and memory products as a result of increased pricing
+pressure in the future, which would reduce our operating results.
+
+     THE FOREGOING STATEMENTS REGARDING TURNS ORDERS, AVERAGE SELLING PRICES,
+MEMORY PRODUCT PRICING AND PRICING PRESSURES ARE FORWARD LOOKING STATEMENTS.
+ACTUAL RESULTS COULD DIFFER MATERIALLY BECAUSE OF THE FOLLOWING FACTORS, AMONG
+OTHERS: THE LEVEL OF ORDERS THAT ARE RECEIVED AND CAN BE SHIPPED IN A QUARTER;
+INVENTORY MIX AND TIMING OF CUSTOMER ORDERS; COMPETITION AND COMPETITIVE
+PRESSURES ON PRICING AND PRODUCT AVAILABILITY; CUSTOMERS' INVENTORY LEVELS,
+ORDER PATTERNS AND SEASONALITY; THE CYCLICAL NATURE OF BOTH THE SEMICONDUCTOR
+INDUSTRY AND THE MARKETS ADDRESSED BY OUR PRODUCTS; MARKET ACCEPTANCE OF OUR
+PRODUCTS AND THOSE OF OUR CUSTOMERS; DEMAND FOR OUR PRODUCTS; FLUCTUATIONS IN
+PRODUCTION YIELDS, PRODUCTION EFFICIENCIES AND OVERALL CAPACITY UTILIZATION;
+CHANGES IN PRODUCT MIX; ABSORPTION OF FIXED COSTS, LABOR AND OTHER FIXED
+MANUFACTURING COSTS; AND GENERAL ECONOMIC CONDITIONS.
+
+     Distributors accounted for 60% of our net sales in the three months ended
+December 31, 2000, and 64% of our net sales in the three months ended December
+30, 1999. Distributors accounted for 63% of our net sales in each of the nine
+month periods ending December 31, 2000 and 1999. The recent decrease in the
+percentage of our net sales from distribution is attributable to the industry
+inventory correction described above, as well as increased OEM penetration
+through our direct sales force. Our largest distributor accounted for 13% of our
+total net sales for the three months ended December 31, 2000, and 16% of our
+total net sales for the three months ended December 31, 1999. Our largest
+distributor accounted for 14% of our net sales in each of the nine month periods
+ending December 31, 2000 and 1999. Generally, we do not have long-term
+agreements with our distributors and our distributors may terminate their
+relationship with us with little or no advanced notice. The loss of, or the
+disruption in the operations of, one or more of our distributors could reduce
+our future net sales in a given quarter and could result in an increase in
+inventory returns.
+
+     Sales to foreign customers represented 67% of our net sales in the three
+months ended December 31, 2000, and 71% of our net sales in the three months
+ended December 31, 1999. Sales to foreign customers represented 69% of our net
+sales in the nine months ended December 31, 2000 and 68% of our net sales in the
+nine months ended December 31, 1999. Our sales to foreign customers have been
+predominantly in Asia and Europe, which we attribute to the manufacturing
+strength in those areas for automotive, communications, computing, consumer and
+industrial control products. The majority of our foreign sales are U.S. Dollar
+denominated. Sales to customers in Asia were 36% of our net sales in the three
+months ended December 31, 2000 and 35% of our net sales in the three months
+ended December 31, 1999. Sales to customers in Europe were 30% of our net sales
+
+                                       11
+<PAGE>
+in each of the three months ended December 31, 2000 and December 31, 1999. We
+enter into hedging transactions from time to time to minimize our exposure to
+currency rate fluctuations. Although none of the countries in which we conduct
+significant foreign operations have had a highly inflationary economy in the
+last five years, there is no assurance that inflation rates or fluctuations in
+foreign currency rates in countries where we conduct operations will not
+adversely affect our operating results in the future.
+
+     Our quarterly operating results are affected by a wide variety of factors
+that could reduce our net sales and profitability, many of which are beyond our
+control. Some of the factors that may affect our operating results include:
+
+     *    the level of orders that are received and can be shipped in a quarter
+          (turns orders)
+     *    market acceptance of both our products and our customers' products
+     *    customer order patterns and seasonality
+     *    availability of manufacturing capacity and fluctuations in
+          manufacturing yield
+     *    the availability and cost of raw materials, equipment and other
+          supplies, and
+     *    economic, political and other conditions in the worldwide markets
+          served by us.
+
+     We believe that period-to-period comparisons of our operating results are
+not necessarily meaningful and that you should not rely upon any comparisons as
+indications of future performance. In future periods, our operating results may
+fall below the expectations of public market analysts and investors, which would
+likely have a negative effect on the price of our Common Stock.
+
+GROSS PROFIT
+
+     In the three months ended December 31, 2000, our gross profit was $97.4
+million, and our gross profit was $67.4 million in the three months ended
+December 31, 1999. In the nine months ended December 31, 2000, our gross profit
+was $280.1 million, and our gross profit was $183.0 million in the nine months
+ended December 31, 1999. Gross profit as a percent of sales was 55.2% for the
+quarter ended December 31, 2000, and 52.2% for the quarter ended December 31,
+1999. Gross profit as a percent of sales was 54.9 % for the nine months ended
+December 31, 2000, and 51.6% for the nine months ended December 31, 1999. During
+the periods covered by this report, the most significant factors affecting gross
+profit percentage were increased 8-inch wafer production levels, continued cost
+reductions in wafer fabrication and assembly and test manufacturing, and a
+stable pricing market for microcontroller products. During the current fiscal
+year gross profit has also been favorably impacted by increases in average
+selling prices of our memory products. We continue to transition products to
+more advanced process technologies to reduce future manufacturing costs as we
+transition products to our 0.7 micron and 0.5 micron processes. In the three
+months ended December 31, 2000, 75% of our production was performed on 8-inch
+wafers as compared to 50% in the three months ended December 31, 1999. We
+anticipate that gross product margins will fluctuate over time, driven primarily
+by the product mix of microcontroller products and related memory products,
+manufacturing yields, fixed cost absorption, wafer fab loading levels and
+competitive and economic conditions.
+
+     We have currently cancelled or pushed out capital expenditures to realign
+our capacity to reflect our current assessment of market conditions. The
+projected start-up date of our Puyallup, Washington semiconductor manufacturing
+complex has been delayed until June 2002. We will maintain the Puyallup facility
+at a minimum cost basis until it is required for capacity expansion.
+
+     THE FOREGOING STATEMENTS RELATING TO ANTICIPATED GROSS PRODUCT MARGINS, THE
+TRANSITION TO HIGHER YIELDING MANUFACTURING PROCESSES, THE DELAY IN EXPANSION OF
+OUR MANUFACTURING CAPACITY AND THE ANTICIPATED START UP DATE OF OUR PUYALLUP
+
+                                       12
+<PAGE>
+FACILITY ARE FORWARD-LOOKING STATEMENTS. ACTUAL RESULTS COULD DIFFER MATERIALLY
+BECAUSE OF THE FOLLOWING FACTORS, AMONG OTHERS: FLUCTUATIONS IN PRODUCTION
+YIELDS, PRODUCTION EFFICIENCIES AND OVERALL CAPACITY UTILIZATION; COST AND
+AVAILABILITY OF RAW MATERIALS; ABSORPTION OF FIXED COSTS, LABOR AND OTHER DIRECT
+MANUFACTURING COSTS; THE ABILITY TO INCREASE MANUFACTURING CAPACITY AS NEEDED;
+THE TIMING AND SUCCESS OF MANUFACTURING PROCESS TRANSITION; DEMAND FOR OUR
+PRODUCTS; COMPETITION AND COMPETITIVE PRESSURE ON PRICING; CHANGES IN PRODUCT
+MIX; AND OTHER ECONOMIC CONDITIONS.
+
+     Currently, the majority of our assembly operations, and a portion of our
+test requirements, are performed by third-party contractors located throughout
+Asia, with the balance of the assembly and test operations performed at our
+Thailand facility. Approximately 33% of our assembly requirements were being
+performed in our Thailand facility during the three months ended December 31,
+2000, as compared to 20% during the three months ended December 31, 1999. We
+believe that the assembly operations that we perform in our Thailand facility
+provide us with significant cost savings, as compared to third party contractor
+assembly costs, as well as increased control of the manufacturing process. We
+are dependent on third-party contractors for the balance of our requirements. We
+believe that the assembly requirements that we perform in our Thailand facility
+provide us with significant cost savings as well as increased control of the
+manufacturing process. Our reliance on third parties involves some reduction in
+our level of control over these portions of our business. While we review the
+quality, delivery and cost performance of these third-party contractors, there
+can be no assurance that reliance on third-party contractors will not adversely
+impact results in future reporting periods if any third-party contractor is
+unable to maintain assembly and test yields and costs at approximately their
+current levels.
+
+     Our reliance on foreign operations, maintenance of substantially all of our
+finished goods in inventory in foreign locations, and significant foreign sales
+exposes us to foreign political and economic risks, including:
+
+     *    political, social and economic instability
+     *    trade restrictions and changes in tariffs
+     *    import and export license requirements and restrictions
+     *    difficulties in staffing and managing international operations
+     *    disruptions in international transport or delivery
+     *    fluctuations in currency exchange rates
+     *    difficulties in collecting receivables, and
+     *    potentially adverse tax consequences.
+
+     To date, we have not experienced any significant interruptions in our
+foreign business operations. If any of these risks materialize, our sales could
+decrease and our operating results could suffer.
+
+RESEARCH AND DEVELOPMENT
+
+     We are committed to investing in new and enhanced products, including
+development systems software, and in our design and manufacturing process
+technology. We believe these investments are significant factors in maintaining
+our competitive position. We expense all research and development costs as
+incurred. We increased our level of research and development costs to $18.3
+million in the current quarter, as compared to $12.1 million in the
+corresponding quarter of the previous fiscal year and $16.9 million in the
+immediately preceding quarter. Research and development expenses were $50.0
+million in the nine months ended December 31, 2000, and $33.1 million in the
+nine months ended December 31, 1999. The primary reason for the dollar increases
+in research and development costs in the periods covered by this report relates
+
+                                       13
+<PAGE>
+to labor and recruitment costs associated with expanding our technical
+resources. Research and development in the current quarter increased by 50.8% as
+compared to the corresponding quarter of the previous fiscal year, and increased
+by 8.0% from the previous quarter.
+
+     Our future operating results will depend to a significant extent on our
+ability to develop and introduce new products on a timely basis which can
+compete effectively on the basis of price and performance and which address
+customer requirements. The success of new product introductions depends on
+various factors, including:
+
+     *    proper new product selection
+     *    timely completion and introduction of new product designs
+     *    development of support tools and collateral literature that make
+          complex new products easy for engineers to understand and use, and
+     *    market acceptance of our customers' end products.
+
+     Because our products are complex, we have experienced delays from time to
+time in completing development of new products. In addition, our new products
+may not receive or maintain substantial market acceptance. We may be unable to
+design, develop and introduce competitive products on a timely basis, which
+could reduce our future operating results.
+
+     Our future success also depends upon our ability to develop and implement
+new design and process technologies. Semiconductor design and process
+technologies are subject to rapid technological change and require large
+research and development expenditures. Other companies in the industry have
+experienced difficulty in effecting transitions to smaller geometry processes
+and, consequently, have suffered reduced manufacturing yields or delays in
+product deliveries. We believe that our successful transition to smaller
+geometries is important for us to remain competitive. Our future operating
+results could be reduced if the transition is substantially delayed or
+inefficiently implemented.
+
+SELLING, GENERAL AND ADMINISTRATIVE
+
+     We increased our level of selling, general and administrative costs to
+$23.0 million in the December 2000 quarter, as compared to $19.5 million in the
+corresponding quarter of the previous fiscal year, and $24.2 million in the
+immediately preceding quarter. Selling, general and administrative costs were
+$69.9 million in the nine months ended December 31, 2000, and $55.5 million in
+the nine months ended December 31, 1999. The primary reason for the dollar
+increase in selling, general and administrative costs from the previous fiscal
+year relates to labor and recruitment costs associated with expanding our
+employment base to support the growth of our business. The primary reasons for
+the December 2000 quarter dollar decrease in selling, general and administrative
+costs from the immediately preceding quarter were reductions in expenses that
+are revenue and profit dependent, including variable compensation, advertising
+and non-sales related travel. Selling, general and administrative costs
+represented 13.0% of sales in the December 2000 quarter, as compared to 15.1% of
+sales in the corresponding quarter of the previous fiscal year, and 13.7% of
+sales in the immediately preceding quarter. In the fourth quarter, we expect
+selling, general and administrative costs to remain relatively flat to the
+levels incurred in the three months ended December 31, 2000. We expect selling,
+general and administrative costs to rise in dollars and decrease as a percentage
+of sales over time as we continue to efficiently grow and invest in incremental
+worldwide sales, technical support, and administrative resources to promote our
+embedded control products.
+
+                                       14
+<PAGE>
+     THE FOREGOING STATEMENTS REGARDING EXPECTED LEVELS OF SELLING, GENERAL AND
+ADMINISTRATIVE SPENDING ARE FORWARD-LOOKING STATEMENTS. ACTUAL RESULTS COULD
+DIFFER MATERIALLY BECAUSE OF THE FOLLOWING FACTORS, AMONG OTHERS: NET SALES
+LEVELS AND OUR INVESTMENTS IN REVENUE DEPENDENT EXPENSES; THE CYCLICAL NATURE OF
+BOTH THE SEMICONDUCTOR INDUSTRY AND THE MARKETS ADDRESSED BY OUR PRODUCTS; AND
+THE ECONOMIC, POLITICAL AND OTHER CONDITIONS IN THE WORLDWIDE MARKETS SERVED BY
+US.
+
+OTHER INCOME (EXPENSE)
+
+     Interest income in the three months ended December 31, 2000 increased from
+the corresponding period of the previous fiscal year as a result of higher
+invested cash balances due primarily to our secondary offering completed in
+March 2000. Interest expense in the three and nine months ended December 31,
+2000 decreased from the corresponding periods of the previous fiscal year as a
+result of lower borrowing levels of our credit facilities. Our interest income
+will decrease in the last quarter of this fiscal year as our invested cash
+balances decrease to fund our capital expansion. Other income includes gains on
+the sale of fixed assets of $0.9 million as well as numerous immaterial
+non-operating items.
+
+PROVISION FOR INCOME TAXES
+
+     Provisions for income taxes reflect tax on foreign earnings and federal and
+state tax on U.S. earnings. We had an effective tax rate of 27.0% for the nine
+months ended December 31, 2000 and 27.0% for the nine months ended December 31,
+1999, due primarily to lower tax rates at our foreign locations. We believe that
+our tax rate for the foreseeable future will be approximately 27.0%. THE
+FOREGOING STATEMENT REGARDING OUR ANTICIPATED FUTURE TAX RATE IS A
+FORWARD-LOOKING STATEMENT. ACTUAL RESULTS COULD DIFFER MATERIALLY BECAUSE OF THE
+FOLLOWING FACTORS, AMONG OTHERS: CURRENT TAX LAWS AND REGULATIONS; TAXATION
+RATES IN GEOGRAPHIC REGIONS WHERE WE HAVE SIGNIFICANT OPERATIONS; AND CURRENT
+TAX HOLIDAYS AVAILABLE IN FOREIGN LOCATIONS.
+
+EURO CONVERSION ISSUES
+
+     We operate in the European Market and currently generate approximately one
+third of our total net sales from customers located in Europe. Our commercial
+headquarters in Europe are located in the United Kingdom, which is not currently
+one of the 11 member states of the European Union converting to a common
+currency.
+
+     We currently conduct 98.5% of our business in Europe in U.S. Dollars and
+0.6% of our business in Europe in Pounds Sterling. The balance of our net sales
+in Europe is conducted in currencies which will eventually be replaced by the
+Euro. We will monitor the potential commercial impact of converting a portion of
+our current business to the Euro, but we do not currently anticipate any
+material impact to our business based on this transition. We do not currently
+anticipate any material impact to our business related to Euro matters from
+information technology, derivative transactions, tax issues and accounting
+software issues.
+
+     THE FOREGOING STATEMENTS REGARDING THE ANTICIPATED IMPACT OF THE TRANSITION
+TO THE EURO CURRENCY ARE FORWARD-LOOKING STATEMENTS. ACTUAL RESULTS COULD DIFFER
+MATERIALLY BECAUSE OF THE FOLLOWING FACTORS, AMONG OTHERS: LEVELS OF SALES IN
+EUROPE THAT MAY BE CONDUCTED IN THE EURO CURRENCY; AND FLUCTUATIONS IN CURRENCY
+EXCHANGE RATES.
+
+                                       15
+<PAGE>
+LIQUIDITY AND CAPITAL RESOURCES
+
+     We had $78.8 million in cash and cash equivalents at December 31, 2000, a
+decrease of $109.3 million from the March 31, 2000 balance. The decrease in cash
+and cash equivalents over this time period is primarily attributable to capital
+expenditures to increase our production capacity. We maintain an unsecured
+revolving credit facility with a syndicate of banks totaling $100.0 million. We
+can elect to increase the facility to $150.0 million, subject to certain
+conditions set forth in the credit agreement. This facility has a termination
+date of May 31, 2003. There were no borrowings against this line of credit as of
+December 31, 2000. We are required to achieve certain financial ratios and
+operations results to maintain this line of credit. We also maintain an
+unsecured short-term line of credit totaling $34.6 million with certain foreign
+banks. There were no borrowings under the foreign line of credit as of December
+31, 2000. There are no covenants related to the foreign line of credit. At
+December 31, 2000, an aggregate of $133.4 million of our credit facilities were
+available, subject to financial covenants and ratios with which we were in
+compliance. Our ability to fully utilize our credit facilities is dependent on
+our remaining in compliance with such covenants and ratios.
+
+     During the nine months ended December 31, 2000, we generated $272.5 million
+of cash from operating activities, an increase of $101.3 million from the nine
+months ended December 31, 1999. The increase in cash flow from operations was
+primarily due to increased profitability and the impact of changes in accounts
+payable and accrued liabilities, depreciation and other assets and liabilities.
+
+     Our level of capital expenditures varies from time to time as a result of
+actual and anticipated business conditions. Capital expenditures in the nine
+months ended December 31, 2000 were $403.7 million, as compared to $139.7
+million for the nine months ended December 31, 1999. Capital expenditures were
+primarily for the expansion of production capacity, including the purchase of
+the Puyallup, Washington semiconductor manufacturing complex, and the addition
+of research and development equipment in each of these periods. We currently
+intend to spend approximately $125 million during the next 12 months for
+additional capital, including:
+
+     *    equipment to maintain and selectively increase capacity at our
+          existing wafer fabrication facilities
+     *    facilitization of the Puyallup, Washington semiconductor manufacturing
+          complex, and
+     *    expansion of product test operations.
+
+     We expect to finance capital expenditures through our existing cash
+balances, including cash acquired from the acquisition of Telcom Semiconductor,
+Inc., our cash flows from operations, available debt arrangements and other
+sources of financing, including issuance of equity and debt securities depending
+on market conditions. We believe that the capital expenditures anticipated to be
+incurred over the next 12 months will provide sufficient additional
+manufacturing capacity to meet our currently anticipated needs.
+
+     THE FOREGOING STATEMENTS REGARDING THE ANTICIPATED LEVEL OF CAPITAL
+EXPENDITURES OVER THE NEXT 12 MONTHS AND THE FINANCING AND SUFFICIENCY OF SUCH
+CAPITAL EXPENDITURES ARE FORWARD LOOKING STATEMENTS. ACTUAL RESULTS COULD DIFFER
+MATERIALLY BECAUSE OF THE FOLLOWING FACTORS, AMONG OTHERS: THE CYCLICAL NATURE
+OF THE SEMICONDUCTOR INDUSTRY AND THE MARKETS ADDRESSED BY OUR PRODUCTS; MARKET
+ACCEPTANCE OF OUR PRODUCTS AND OF OUR CUSTOMERS' PRODUCTS; DEMAND FOR OUR
+PRODUCTS; UTILIZATION OF CURRENT MANUFACTURING CAPACITY; THE AVAILABILITY AND
+COST OF RAW MATERIALS, EQUIPMENT AND OTHER SUPPLIES; AND THE ECONOMIC, POLITICAL
+AND OTHER CONDITIONS IN THE WORLDWIDE MARKETS SERVED BY US.
+
+                                       16
+<PAGE>
+     Net cash provided by financing activities was $20.4 million for the nine
+months ended December 31, 2000. Net cash provided by financing activities was
+$6.2 million for the nine months ended December 31, 1999. Proceeds from sale of
+stock and put options were $29.4 million, including $17.0 million related to our
+net shares settled forward contract, in the nine months ended December 31, 2000
+and $19.5 million for the nine months ended December 31, 1999. Payments on
+long-term debt and capital lease obligations were $1.8 million for the nine
+months ended December 31, 1999. Repayments on lines of credit were $9.0 million
+for the nine months ended December 31, 2000 and $11.5 million for the nine
+months ended December 31, 1999.
+
+     We have outstanding a net shares settled forward contract and made a net
+delivery of 478,781 shares of our common stock in the nine months ended December
+31, 2000 and received 2,540,466 shares of our common stock in the nine months
+ended December 31, 1999 in connection with this contract. During the nine months
+ended December 31, 2000, we received $17.0 million in connection with our net
+shares settled forward contract. See Note 6 to "Condensed Consolidated Financial
+Statements." The net shares settled forward contract could obligate us to make a
+cash payment in the future if the price of the our Common Stock is below the
+strike price of the instruments.
+
+     We believe that our existing sources of liquidity combined with cash
+generated from operations will be sufficient to meet our currently anticipated
+cash requirements for at least the next 12 months. However, the semiconductor
+industry is capital intensive. In order to remain competitive, we must continue
+to make significant investments in capital equipment for both production and
+research and development. We may seek additional equity or debt financing during
+the next 12 months for the capital expenditures required to maintain or expand
+our wafer fabrication and product assembly and test facilities, or other
+purposes. The timing and amount of any such capital requirements will depend on
+a number of factors, including demand for our products, product mix, changes in
+industry conditions and competitive factors. There can be no assurance that such
+financing will be available on acceptable terms, and any additional equity
+financing could result in additional dilution to existing investors.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+SFAS 133
+
+     In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards ("SFAS") No. 133, "Accounting for Derivatives and
+Similar Financial Instruments for Hedging Activities," to establish accounting
+and reporting standards for derivative instruments and for hedging activities.
+It requires that an entity recognize all derivatives as either assets or
+liabilities on the balance sheet and measure those instruments at fair value.
+This new standard, as amended by related SFAS Nos. 137 and 138, will be
+effective for the Company for its fiscal year ending March 31, 2002. The Company
+is currently evaluating the impact of SFAS No. 133.
+
+SAB 101
+
+     In December 1999, the Securities and Exchange Commission ("SEC") issued
+Staff Accounting Bulletin No. 101 ("SAB 101") "Revenue Recognition in Financial
+Statements." SAB 101 provides guidance on the recognition, presentation, and
+disclosure of revenue in financial statements filed with the SEC and, as
+amended, will be effective for the Company in the fourth quarter of 2000. We do
+not expect the implementation of SAB 101 to have a material effect on our
+results of operation.
+
+                                       17
+<PAGE>
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+     Our investment portfolio, consisting of fixed income securities, was $81.2
+million as of December 31, 2000, and $189.6 million as of March 31, 2000. These
+securities, like all fixed income instruments, are subject to interest rate risk
+and will decline in value if market interest rates increase. If market rates
+were to increase immediately and uniformly by 10% from the levels of December
+31, 2000 and March 31, 2000, the decline in the fair value of our investment
+portfolio would not be material. Additionally, we have the ability to hold our
+fixed income investments until maturity and, therefore, we would not expect to
+recognize an adverse impact in income or cash flows.
+
+     We have international operations and are thus subject to foreign currency
+rate fluctuations. To date, our exposure related to exchange rate volatility has
+not been significant. If the foreign currency rates fluctuate by 15% from the
+rates at December 31, 2000 and March 31, 2000, the effect on our financial
+position and results of operations would not be material.
+
+     During the normal course of our business, we are routinely subjected to a
+variety of market risks, examples of which include, but are not limited to,
+interest rate movements and foreign currency fluctuations, as we discuss in this
+Item 3, and collectability of accounts receivable. We constantly assess these
+risks and have established policies and procedures to protect against the
+advserse affects of these other potential exposures. Although we do not
+anticipate any material losses in these risk areas, no assurance can be made
+that material losses will not be incurred in these areas in the future.
+
+     We believe that our market risk, as discussed in this Item 3, has not
+materially changed from March 31, 2000.
+
+                          PART II. OTHER INFORMATION
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K.
+
+     (a) Exhibits.
+
+     (b) Reports on Form 8-K.
+
+          We filed a current report on Form 8-K dated October 26, 2000 relating
+     to our entering into an Agreement and Plan of Reorganization with TelCom
+     Semiconductor, Inc. The Agreement and Plan of Reorganization was filed as
+     Exhibit 2.1 to the current report on Form 8-K.
+
+                                       18
+<PAGE>
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                         MICROCHIP TECHNOLOGY INCORPORATED
+
+
+Date: February 14, 2001                  By: /s/ Gordon W. Parnell
+                                             -----------------------------------
+                                             Gordon W. Parnell
+                                             Vice President and Chief Financial
+                                             Officer (Duly Authorized Officer,
+                                             and Principal Financial and
+                                             Accounting Officer)
+
+                                       19
+</TEXT>
+</DOCUMENT>

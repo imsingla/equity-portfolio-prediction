@@ -1,0 +1,2914 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>h17057e10vq.txt
+<DESCRIPTION>APACHE CORPORATION - JUNE 30, 2004
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+          [ X ] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                  For the Quarterly Period Ended June 30, 2004
+
+                                       OR
+
+          [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+   For the Transition Period from ___________________ to _____________________
+
+                          Commission File Number 1-4300
+
+                               APACHE CORPORATION
+              ----------------------------------------------------
+             (Exact Name of Registrant as Specified in Its Charter)
+
+               Delaware                                      41-0747868
+    -------------------------------                    ----------------------
+    (State or Other Jurisdiction of                       (I.R.S. Employer
+    Incorporation or Organization)                     Identification Number)
+
+   Suite 100, One Post Oak Central                              77056-4400
+ 2000 Post Oak Boulevard, Houston, TX                           ----------
+---------------------------------------                         (Zip Code)
+(Address of Principal Executive Offices)
+
+       Registrant's Telephone Number, Including Area Code: (713) 296-6000
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                        YES    [X]            NO [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+                        YES    [X]            NO [ ]
+
+Number of shares of Registrant's common stock, outstanding as of June 30,
+2004.............326,002,236
+
+<PAGE>
+
+                         PART I - FINANCIAL INFORMATION
+
+ITEM 1 - FINANCIAL STATEMENTS
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                      STATEMENT OF CONSOLIDATED OPERATIONS
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                     FOR THE QUARTER            FOR THE SIX MONTHS
+                                                                      ENDED JUNE 30,               ENDED JUNE 30,
+                                                               -------------------------     -------------------------
+                                                                  2004           2003           2004           2003
+                                                               ----------     ----------     ----------     ----------
+                                                                    (In thousands, except per common share data)
+<S>                                                            <C>            <C>            <C>            <C>
+REVENUES AND OTHER:
+       Oil and gas production revenues ....................    $1,247,412     $1,044,330     $2,400,166     $2,019,492
+       Other ..............................................        (6,679)        10,026         (9,494)         1,473
+                                                               ----------     ----------     ----------     ----------
+                                                                1,240,733      1,054,356      2,390,672      2,020,965
+                                                               ----------     ----------     ----------     ----------
+OPERATING EXPENSES:
+       Depreciation, depletion and amortization ...........       295,737        272,356        581,965        486,705
+       Asset retirement obligation accretion ..............        10,891         10,445         21,652         15,758
+       Lease operating costs ..............................       197,097        186,286        403,126        320,421
+       Share appreciation plan - lease operating costs ....        10,992              -         10,992              -
+       Gathering and transportation costs .................        20,162         15,131         39,796         26,992
+       Severance and other taxes ..........................        21,595         32,742         30,543         57,296
+       General and administrative .........................        36,479         30,574         80,329         58,405
+       Share appreciation plan - general and administrative        11,012              -         11,012              -
+       China litigation ...................................        71,216              -         71,216              -
+       Financing costs:
+              Interest expense ............................        40,193         41,428         80,742         79,124
+              Amortization of deferred loan costs .........           595            536          1,162          1,067
+              Capitalized interest ........................       (12,708)       (12,618)       (26,358)       (23,850)
+              Interest income .............................          (513)          (428)          (833)        (1,502)
+                                                               ----------     ----------     ----------     ----------
+                                                                  702,748        576,452      1,305,344      1,020,416
+PREFERRED INTERESTS OF SUBSIDIARIES .......................             -          3,330              -          6,692
+                                                               ----------     ----------     ----------     ----------
+INCOME BEFORE INCOME TAXES ................................       537,985        474,574      1,085,328        993,857
+       Provision for income taxes .........................       164,847        230,193        363,106        437,179
+                                                               ----------     ----------     ----------     ----------
+INCOME BEFORE CHANGE IN ACCOUNTING
+  PRINCIPLE ...............................................       373,138        244,381        722,222        556,678
+       Cumulative effect of change in accounting principle,
+              net of income tax ...........................             -              -              -         26,632
+                                                               ----------     ----------     ----------     ----------
+NET INCOME ................................................       373,138        244,381        722,222        583,310
+       Preferred stock dividends ..........................         1,420          1,420          2,840          2,840
+                                                               ----------     ----------     ----------     ----------
+INCOME ATTRIBUTABLE TO COMMON STOCK .......................    $  371,718     $  242,961     $  719,382     $  580,470
+                                                               ==========     ==========     ==========     ==========
+BASIC NET INCOME PER COMMON SHARE:
+       Before change in accounting principle ..............    $     1.14     $      .75     $     2.21     $     1.73
+       Cumulative effect of change in accounting principle              -              -              -            .08
+                                                               ----------     ----------     ----------     ----------
+                                                               $     1.14     $      .75     $     2.21     $     1.81
+                                                               ==========     ==========     ==========     ==========
+DILUTED NET INCOME PER COMMON SHARE:
+       Before change in accounting principle ..............    $     1.13     $      .74     $     2.19     $     1.71
+       Cumulative effect of change in accounting principle              -              -              -            .08
+                                                               ----------     ----------     ----------     ----------
+                                                               $     1.13     $      .74     $     2.19     $     1.79
+                                                               ==========     ==========     ==========     ==========
+</TABLE>
+          The accompanying notes to consolidated financial statements
+                     are an integral partof this statement.
+
+                                       1
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                      STATEMENT OF CONSOLIDATED CASH FLOWS
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                                         FOR THE SIX MONTHS ENDED
+                                                                                                 JUNE 30,
+                                                                                        ---------------------------
+                                                                                           2004            2003
+                                                                                        -----------     -----------
+                                                                                              (In thousands)
+<S>                                                                                     <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+     Net income ....................................................................    $   722,222     $   583,310
+     Adjustments to reconcile net income to net cash
+            provided by operating activities:
+                  Depreciation, depletion and amortization .........................        581,965         486,705
+                  Asset retirement obligation accretion ............................         21,652          15,758
+                  Provision for deferred income taxes ..............................         99,098         221,370
+                  Cumulative effect of change in accounting principle ..............              -         (26,632)
+                  Other ............................................................         32,759           3,311
+     Changes in operating assets and liabilities:
+
+                  (Increase) decrease in receivables ...............................       (174,184)       (147,208)
+                  (Increase) decrease in drilling advances and other ...............        (20,548)        (14,951)
+                  (Increase) decrease in inventories ...............................          4,426           4,410
+                  (Increase) decrease in deferred charges and other ................        (19,637)        (12,636)
+                  Increase (decrease) in accounts payable ..........................        105,697          56,575
+                  Increase (decrease) in accrued expenses ..........................        (21,467)         81,009
+                  Increase (decrease) in advances from gas purchasers ..............         (9,072)         (8,088)
+                  Increase (decrease) in deferred credits and noncurrent liabilities        (23,859)        (18,768)
+                                                                                        -----------     -----------
+                         Net cash provided by operating activities .................      1,299,052       1,224,165
+                                                                                        -----------     -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+     Additions to property and equipment ...........................................     (1,058,149)       (771,046)
+     Acquisition of BP properties ..................................................              -      (1,157,134)
+     Other, net ....................................................................        (19,188)        (32,342)
+                                                                                        -----------     -----------
+                         Net cash used in investing activities .....................     (1,077,337)     (1,960,522)
+                                                                                        -----------     -----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+     Long-term borrowings ..........................................................            404       1,042,418
+     Payments on long-term debt ....................................................       (135,300)       (852,305)
+     Dividends paid ................................................................        (41,838)        (34,366)
+     Common stock activity .........................................................         13,383         570,363
+     Treasury stock activity, net ..................................................          7,663           3,399
+     Cost of debt and equity transactions ..........................................         (2,050)         (4,039)
+                                                                                        -----------     -----------
+                         Net cash provided by (used in) financing activities .......       (157,738)        725,470
+                                                                                        -----------     -----------
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS ...............................         63,977         (10,887)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR .....................................         33,503          51,886
+                                                                                        -----------     -----------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD .........................................    $    97,480     $    40,999
+                                                                                        ===========     ===========
+</TABLE>
+
+          The accompanying notes to consolidated financial statements
+                     are an integral partof this statement.
+
+                                       2
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEET
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                        JUNE 30,      DECEMBER 31,
+                                                                         2004            2003
+                                                                    ------------     ------------
+                                                                            (In thousands)
+<S>                                                                 <C>              <C>
+                     ASSETS
+CURRENT ASSETS:
+     Cash and cash equivalents .................................    $     97,480     $     33,503
+     Receivables, net of allowance .............................         811,633          639,055
+     Inventories ...............................................         127,837          125,867
+     Drilling advances .........................................          62,451           58,062
+     Prepaid assets and other ..................................          58,463           42,585
+                                                                    ------------     ------------
+                                                                       1,157,864          899,072
+                                                                    ------------     ------------
+PROPERTY AND EQUIPMENT:
+     Oil and gas, on the basis of full cost accounting:
+            Proved properties ..................................      17,391,779       16,277,930
+            Unproved properties and properties under
+                  development, not being amortized .............         767,807          795,161
+     Gas gathering, transmission and processing facilities .....         868,315          828,169
+     Other .....................................................         249,494          239,548
+                                                                    ------------     ------------
+                                                                      19,277,395       18,140,808
+     Less:  Accumulated depreciation, depletion and
+                  amortization .................................      (7,461,957)      (6,880,723)
+                                                                    ------------     ------------
+                                                                      11,815,438       11,260,085
+                                                                    ------------     ------------
+OTHER ASSETS:
+     Goodwill, net .............................................         189,252          189,252
+     Deferred charges and other ................................          87,397           67,717
+                                                                    ------------     ------------
+                                                                    $ 13,249,951     $ 12,416,126
+                                                                    ============     ============
+</TABLE>
+
+          The accompanying notes to consolidated financial statements
+                     are an integral part of this statement.
+
+                                       3
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEET
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                                  JUNE 30,       DECEMBER 31,
+                                                                                   2004             2003
+                                                                               ------------     ------------
+                                                                                       (In thousands)
+<S>                                                                            <C>              <C>
+                         LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+     Accounts payable .....................................................    $    414,979     $    300,598
+     Accrued operating expense ............................................          55,661           72,250
+     Accrued exploration and development ..................................         252,462          212,028
+     Accrued compensation and benefits ....................................          41,748           56,237
+     Accrued interest .....................................................          32,527           32,621
+     Accrued income taxes .................................................          35,801           18,936
+     Oil and gas derivative instruments ...................................          69,771           63,542
+     Other ................................................................          72,650           64,166
+                                                                               ------------     ------------
+                                                                                    975,599          820,378
+                                                                               ------------     ------------
+LONG-TERM DEBT ............................................................       2,192,070        2,326,966
+                                                                               ------------     ------------
+
+DEFERRED CREDITS AND OTHER NONCURRENT LIABILITIES:
+     Income taxes .........................................................       1,786,314        1,697,238
+     Advances from gas purchasers .........................................         100,135          109,207
+     Asset retirement obligation ..........................................         759,617          739,775
+     Oil and gas derivative instruments ...................................           1,233            5,931
+     Other ................................................................         160,794          183,833
+                                                                               ------------     ------------
+                                                                                  2,808,093        2,735,984
+                                                                               ------------     ------------
+SHAREHOLDERS' EQUITY:
+     Preferred stock, no par value, 5,000,000 shares authorized - Series B,
+            5.68% Cumulative Preferred Stock, 100,000 shares issued and
+            outstanding ...................................................          98,387           98,387
+     Common stock, $0.625 par, 430,000,000 shares authorized,
+            333,669,932 and 332,509,478 shares issued, respectively .......         208,544          207,818
+     Paid-in capital ......................................................       4,094,351        4,038,007
+     Retained earnings ....................................................       3,126,013        2,445,698
+     Treasury stock, at cost, 7,667,696 and 8,012,302 shares,
+            respectively ..................................................        (100,102)        (105,169)
+     Accumulated other comprehensive loss .................................        (153,004)        (151,943)
+                                                                               ------------     ------------
+                                                                                  7,274,189        6,532,798
+                                                                               ------------     ------------
+                                                                               $ 13,249,951     $ 12,416,126
+                                                                               ============     ============
+</TABLE>
+
+          The accompanying notes to consolidated financial statements
+                     are an integral partof this statement.
+
+                                       4
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 STATEMENT OF CONSOLIDATED SHAREHOLDERS' EQUITY
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+                                                                 SERIES B
+                                              COMPREHENSIVE     PREFERRED   COMMON     PAID-IN
+(In thousands)                                   INCOME           STOCK      STOCK     CAPITAL
+                                             ---------------   ----------  --------  ----------
+<S>                                          <C>               <C>         <C>       <C>
+BALANCE AT DECEMBER 31, 2002..............                     $   98,387  $194,331  $3,427,450
+   Comprehensive income (loss):
+     Net income...........................   $      583,310             -         -           -
+     Commodity hedges, net of income tax
+       benefit of $30,902.................          (51,870)            -         -           -
+                                             ---------------
+   Comprehensive income...................   $      531,440
+                                             ===============
+   Dividends:
+     Preferred............................                              -         -           -
+     Common ($.10 per share)..............                              -         -           -
+   Five percent common stock dividend.....                              -       581      25,333
+   Common shares issued...................                              -    12,444     563,050
+   Treasury shares issued, net............                              -         -       2,113
+   Other..................................                              -         -        (509)
+                                                               ----------  --------  -----------
+BALANCE AT JUNE 30, 2003..................                     $   98,387  $207,356  $4,017,437
+                                                               ==========  ========  ===========
+BALANCE AT DECEMBER 31, 2003..............                     $   98,387  $207,818  $4,038,007
+   Comprehensive income (loss):
+     Net income...........................   $      722,222             -         -           -
+     Commodity hedges, net of income tax
+       benefit of $648....................           (1,061)            -         -           -
+                                             ---------------
+   Comprehensive income...................   $      721,161
+                                             ===============
+   Dividends:
+     Preferred............................                              -         -           -
+     Common ($.12 per share)..............                              -         -           -
+   Common shares issued...................                              -       726      49,201
+   Treasury shares issued, net............                              -         -       4,738
+   Other..................................                              -         -       2,405
+                                                               ----------  --------  -----------
+BALANCE AT JUNE 30, 2004..................                     $   98,387  $208,544  $4,094,351
+                                                               ==========  ========  ===========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                       ACCUMULATED
+                                                                          OTHER           TOTAL
+                                               RETAINED    TREASURY   COMPREHENSIVE   SHAREHOLDERS'
+(In thousands)                                 EARNINGS     STOCK     INCOME (LOSS)      EQUITY
+                                             -----------  ----------  -------------  --------------
+<S>                                          <C>          <C>         <C>            <C>
+BALANCE AT DECEMBER 31, 2002..............   $1,427,607   $(110,559)   $  (112,936)  $  4,924,280
+   Comprehensive income (loss):
+     Net income...........................      583,310           -              -        583,310
+     Commodity hedges, net of income tax
+       benefit of $30,902.................            -           -        (51,870)       (51,870)
+
+   Comprehensive income...................
+
+   Dividends:
+     Preferred............................       (2,840)          -              -         (2,840)
+     Common ($.10 per share)..............      (33,705)          -              -        (33,705)
+   Five percent common stock dividend.....      (25,914)          -              -              -
+   Common shares issued...................            -           -              -        575,494
+   Treasury shares issued, net............            -       3,257              -          5,370
+   Other..................................           (6)          -              -           (515)
+                                             -----------  ----------   ------------  --------------
+BALANCE AT JUNE 30, 2003..................   $1,948,452   $(107,302)   $  (164,806)  $  5,999,524
+                                             ===========  ==========   ============  ==============
+BALANCE AT DECEMBER 31, 2003..............   $2,445,698   $(105,169)   $  (151,943)  $  6,532,798
+   Comprehensive income (loss):
+     Net income...........................      722,222           -              -        722,222
+     Commodity hedges, net of income tax
+       benefit of $648....................            -           -         (1,061)        (1,061)
+
+   Comprehensive income...................
+
+   Dividends:
+     Preferred............................       (2,840)          -              -         (2,840)
+     Common ($.12 per share)..............      (39,067)          -              -        (39,067)
+   Common shares issued...................            -           -              -         49,927
+   Treasury shares issued, net............            -       5,067              -          9,805
+   Other..................................                        -              -          2,405
+                                             -----------  ----------   ------------  --------------
+BALANCE AT JUNE 30, 2004..................   $3,126,013   $(100,102)   $  (153,004)  $  7,274,189
+                                             ===========  ==========   ============  ==============
+                                    </TABLE>
+
+          The accompanying notes to consolidated financial statements
+                    are an integral part of this statement.
+
+                                       5
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+      These financial statements have been prepared by Apache Corporation
+(Apache or the Company) without audit, pursuant to the rules and regulations of
+the Securities and Exchange Commission, and reflect all adjustments which are,
+in the opinion of management, necessary for a fair statement of the results for
+the interim periods, on a basis consistent with the annual audited financial
+statements. All such adjustments are of a normal recurring nature. Certain
+information, accounting policies, and footnote disclosures normally included in
+financial statements prepared in accordance with accounting principles generally
+accepted in the United States have been omitted pursuant to such rules and
+regulations, although the Company believes that the disclosures are adequate to
+make the information presented not misleading. These financial statements should
+be read in conjunction with the financial statements and the summary of
+significant accounting policies and notes thereto included in the Company's most
+recent annual report on Form 10-K.
+
+      On September 11, 2003, the Company declared a two-for-one stock split,
+distributed January 14, 2004, to shareholders of record on December 31, 2003.
+Quarterly share and per share information for 2003 have been restated to reflect
+the two-for-one stock split.
+
+Reclassifications
+
+      Certain prior period amounts have been reclassified to conform with
+current year presentations.
+
+1.    ACQUISITIONS
+
+      On May 24, 2004, Apache signed a letter of intent with ExxonMobil to
+explore and develop properties in West Texas, Western Canada, Louisiana and the
+Gulf of Mexico. The program will capitalize on the respective strengths and
+assets of both companies in these areas. The agreement provides for transfers
+and joint venture activity across a broad range of prospective and mature
+properties. Apache's participation will include an estimated cash payment of
+$385 million as of the effective date. The parties are negotiating definitive
+agreements, based on the letter of intent which included the following:
+
+      -     ExxonMobil will transfer its interest in 28 mature producing oil and
+            gas fields in West Texas and New Mexico, retaining a revenue
+            interest indexed to oil price through 2009 and a 50 percent working
+            interest in all properties beneath the currently producing
+            intervals.
+
+      -     ExxonMobil Canada will farm out its interest in approximately
+            300,000 acres of undeveloped property interests in the Western
+            Canada Province of Alberta to Apache Canada Ltd. ExxonMobil Canada
+            will retain a 37.5 percent lessor royalty interest in fee lands and
+            a 35 percent working interest on ExxonMobil leaseholds as to any
+            production resulting from the drilling program to be undertaken by
+            Apache, currently targeted to include at least 250 wells.
+
+      -     The companies will explore jointly for deep gas on approximately
+            800,000 acres of Apache onshore Louisiana and Gulf of Mexico
+            properties for an initial five-year period, with provisions for
+            extension.
+
+      On January 13, 2003, Apache announced that it had entered into agreements
+to purchase producing properties in the North Sea and Gulf of Mexico from
+subsidiaries of BP p.l.c. (referred to collectively as "BP") for $1.3 billion,
+with $670 million allocated to the Gulf of Mexico properties and $630 million
+allocated to properties in the North Sea. The properties included estimated
+proved reserves of 233.2 million barrels of oil equivalent (MMboe), 147.6 MMboe
+located in the North Sea with the balance in the Gulf of Mexico. Both purchase
+agreements were effective as of January 1, 2003. As is customary, Apache assumed
+BP's abandonment obligation for the properties, which was considered in
+determining the purchase price. Both the Gulf of Mexico and North Sea assets
+acquired from BP were funded with available cash on hand, the issuance of 19.8
+million shares of Apache common stock (adjusted for the five percent common
+stock dividend and the two-for-one common stock split) and borrowings under the
+Company's lines of credit and commercial paper program. The offering of Apache's
+common stock provided net proceeds of approximately $554 million.
+
+                                        6
+<PAGE>
+
+      Apache and BP closed the above referenced acquisition of the Gulf of
+Mexico properties on March 13, 2003, which included BP's interest in 56
+producing fields, and 104 blocks. At closing, the $670 million purchase price
+was adjusted for normal closing items and preferential rights exercised by third
+parties. The exercise of preferential rights by third parties reduced the
+purchase price by $73 million and estimated reserves by 9.6 MMboe. The purchase
+price was further adjusted for various normal closing items, including revenues
+and expenditures related to the properties for the period between the effective
+and closing dates. As a result, cash consideration of $509 million was paid by
+Apache upon closing. In a separate transaction closed February 21, 2003, Apache
+purchased BP's interest in several other Gulf of Mexico properties with
+estimated proved reserves of 2.1 MMboe for an adjusted purchase price of $15
+million. Including $4 million of transaction costs, total cash consideration for
+the two acquisitions of Gulf of Mexico properties from BP totaled $528 million.
+
+      The acquisition of the U.K. North Sea properties closed on April 2, 2003,
+at which time Apache paid a purchase price, adjusted for normal closing and
+working capital adjustments, of $630 million. The acquisition of the North Sea
+properties included a 96 percent interest in the Forties Field and established a
+new core area for the Company. In conjunction with the Forties acquisition,
+Apache may be required to issue a letter of credit to BP to cover the present
+value of related asset retirement obligations if the rating of the Company's
+senior unsecured debt is lowered by both Moody's and Standard and Poor's from
+its current ratings of A3 and A-, respectively. Should this occur, the initial
+letter of credit amount would be 129 million British pounds. Apache has agreed
+to sell all of the North Sea production from those properties to BP through
+December 31, 2004, at a combination of fixed and market sensitive prices
+pursuant to a contract entered into in connection with the North Sea purchase
+agreement.
+
+      Presented below is a breakdown of the cash consideration given for the BP
+transaction as of the closing date.
+
+<TABLE>
+<CAPTION>
+                                         U.S. -                U.K. -
+                                     GULF OF MEXICO           NORTH SEA              TOTAL*
+                                     --------------         -------------          -----------
+                                                            (In thousands)
+<S>                                  <C>                    <C>                    <C>
+Proved Property ..................     $   539,110           $   854,835           $ 1,393,945
+Unproved Property ................          57,500                65,000               122,500
+Working capital acquired, net ....              --                10,957                10,957
+Asset Retirement Obligation ......         (69,000)             (250,887)             (319,887)
+Deferred income tax liability ....              --               (50,381)              (50,381)
+                                       -----------           -----------           -----------
+Cash consideration ..............      $   527,610           $   629,524           $ 1,157,134
+                                       ===========           ===========           ===========
+
+</TABLE>
+
+      * Property balance includes $12 million of transaction costs (U.S. - $4
+million; North Sea - $8 million).
+
+      The following unaudited pro forma information shows the effect on the
+Company's consolidated results of operations as if the acquisitions from BP
+occurred on January 1 of each period presented. The pro forma information is
+based in part on data provided by BP and on numerous assumptions and is not
+necessarily indicative of future results of operations.
+
+<TABLE>
+<CAPTION>
+                                            FOR THE SIX MONTHS ENDED JUNE 30, 2003
+                                            --------------------------------------
+                                              AS REPORTED          PRO FORMA
+                                              -----------          ----------
+                                         (In thousands, except per common share data)
+<S>                                       <C>                      <C>
+Revenues and other ..................          $2,020,965          $2,258,927
+Net income ..........................             583,310             656,507
+Preferred stock dividends ...........               2,840               2,840
+Income attributable to common stock .             580,470             653,667
+
+Net income per common share:
+    Basic ...........................          $     1.81          $     2.03
+    Diluted .........................                1.79                2.01
+
+Average common shares outstanding (1)             320,973             323,160
+
+</TABLE>
+
+            (1)   Pro forma shares assume the issuance of 19.8 million common
+                  shares (adjusted for the five percent common stock dividend
+                  and the two-for-one common stock split) as of the beginning of
+                  each period presented.
+
+                                        7
+<PAGE>
+
+      On July 3, 2003, Apache announced that it had completed the acquisition of
+producing properties on the Outer Continental Shelf of the Gulf of Mexico from
+Shell Exploration and Production Company (Shell) for $200 million, subject to
+normal post-closing adjustments, including preferential rights. Prior to the
+transaction, Morgan Stanley Capital Group, Inc. (Morgan Stanley) paid Shell $300
+million to acquire an overriding royalty interest in a portion of the reserves
+to be produced for a period of four years. Shell's sale of an overriding royalty
+interest to Morgan Stanley is commonly known in the industry as a volumetric
+production payment (VPP). Under the terms of the VPP, Morgan Stanley is to
+receive a fixed volume of oil and gas production over the four-year term. The
+VPP reserves and production will not be recorded by Apache.
+
+      Apache recorded estimated proved reserves of 124.6 billion cubic feet
+(Bcf) of natural gas and 6.6 million barrels of oil. In addition, a $60 million
+liability for the future cost to produce and deliver volumes subject to the VPP
+was recorded by the Company because the overriding royalties are not burdened by
+production costs. This liability is being amortized as the volumes are produced
+and delivered to Morgan Stanley. The purchase agreement was effective as of July
+1, 2003. The acquisition included interests in 26 fields covering 50 blocks
+(approximately 209,000 acres) and interests in two onshore gas separation
+plants. Apache operates 15 of the fields with 91 percent of the production. The
+purchase price was funded by borrowings under the Company's lines of credit and
+commercial paper program.
+
+2.    DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES
+
+      Apache uses a variety of strategies to manage its exposure to fluctuations
+in commodity prices. As established by the Company's hedging policy, Apache
+primarily enters into cash flow hedges in connection with selected acquisitions
+to protect against commodity price volatility. The success of these acquisitions
+is significantly influenced by Apache's ability to achieve targeted production
+at forecasted prices. These hedges effectively reduce price risk on a portion of
+the production from the acquisitions.
+
+      Apache entered into, and designated as cash flow hedges, natural gas
+fixed-price swaps and natural gas option collars in conjunction with the BP and
+certain South Louisiana property acquisitions. During the second quarter of
+2004, Apache entered into crude oil option collars and puts designated as cash
+flow hedges on existing base production in West Texas. These Nymex positions
+were entered into in accordance with the Company's hedging policy and involved
+several counterparties, all of which are rated A+ or better. As of June 30,
+2004, the outstanding positions of our natural gas and crude oil cash flow
+hedges were as follows:
+
+<TABLE>
+<CAPTION>
+PRODUCTION                                       TOTAL VOLUMES       WEIGHTED AVERAGE       FAIR VALUE ASSET/
+  PERIOD               INSTRUMENT TYPE            (MMBTU/BBL)         FLOOR/CEILING           (LIABILITY)
+----------           --------------------        -------------       ----------------       ----------------
+                                                                                             (In thousands)
+<S>                  <C>                         <C>                 <C>                    <C>
+   2004                   Gas Collars               9,200,000        $  3.25 / 5.81           $     (6,581)
+                     Gas Fixed-Price Swap          25,760,000               4.33                   (50,452)
+                          Oil Collars               1,472,000           35.00 / 42.20                  850
+
+   2005                   Gas Collars               9,050,000           3.25 / 5.20                (12,254)
+                          Oil Collars               1,387,000         28.00 / 38.90                 (1,807)
+                        Oil Put Option              1,533,000              28.00                     1,724
+
+   2006                   Oil Collars               1,387,000         28.00 / 38.90                   (477)
+                        Oil Put Option              1,533,000              28.00                     2,521
+</TABLE>
+
+      In addition to the fixed-price swaps and option collars, Apache entered
+into a separate crude oil physical sales contract with BP. The sales contract is
+a normal purchase and sale under Statement of Financial Accounting Standards
+(SFAS) No. 133 and, therefore, the Company has designated and accounted for the
+contract under the accrual method. As of June 30, 2004, the outstanding terms of
+the contract were as follows:
+
+<TABLE>
+<CAPTION>
+CRUDE OIL FIXED-PRICE PHYSICAL SALES CONTRACT (BRENT)
+-----------------------------------------------------
+PRODUCTION               TOTAL VOLUMES         AVERAGE
+  PERIOD                   (BARRELS)          FIXED PRICE
+----------               -------------        -----------
+<S>                      <C>                  <C>
+  2004                     7,360,000           $   22.06
+
+</TABLE>
+
+      In June 2004, Apache began hedging foreign currency exchange risk
+associated with a portion of its forecasted Canadian and North Sea lease
+operating expenditures by entering into forward purchase contracts. The Company
+forward purchased $41 million Canadian dollars at an average exchange rate of
+.735 and 12 million British pounds
+
+                                        8
+<PAGE>
+
+at an average exchange rate of 1.835. The forward contracts mature in July
+through December 2004. Combined, the fair market value of these contracts as of
+June 30, 2004 was $315,000 ($204,000 after tax). Future changes in market value
+will be recorded in Other Comprehensive Income.
+
+      A reconciliation of the components of accumulated other comprehensive
+income (loss) in the statement of consolidated shareholders' equity related to
+Apache's derivative activities is presented in the table below:
+
+<TABLE>
+<CAPTION>
+                                                                             GROSS            AFTER TAX
+                                                                          ------------       ------------
+                                                                                  (In thousands)
+<S>                                                                       <C>                <C>
+Unrealized loss on derivatives at December 31, 2003....................   $    (69,316)      $    (43,193)
+Net losses realized into earnings......................................         42,198             26,374
+Net change in derivative fair value....................................        (43,907)           (27,435)
+                                                                          -------------      --------------
+Unrealized loss on derivatives at June 30, 2004........................   $    (71,025)      $    (44,254)
+                                                                          =============      ==============
+
+</TABLE>
+
+      Based on current market prices, the Company recorded an unrealized loss in
+other comprehensive income of $71 million ($44 million after tax), primarily
+representing oil and gas derivative hedges. Any loss will be realized in future
+earnings contemporaneously with the related sales of natural gas production
+applicable to specific hedges. Were current prices to hold, a loss of $69
+million ($43 million after tax) would be realized over the next 12 months.
+However, these amounts could vary materially as a result of changes in market
+conditions. The contracts designated as hedges qualified and continue to qualify
+for hedge accounting in accordance with SFAS No. 133, as amended.
+
+3.    DEBT
+
+      On May 15, 2003, Apache Finance Canada Corporation (Apache Finance Canada)
+issued $350 million of 4.375 percent, 12-year, senior unsecured notes in a
+private placement. On March 4, 2004, the Company completed an exchange offer
+with the holders of the notes, issuing publicly traded, registered notes of the
+same principal amount and with the same interest rates, payment terms and
+maturity. The notes are irrevocably and unconditionally guaranteed by Apache and
+are redeemable, as a whole or in part, at Apache Finance Canada's option,
+subject to a make-whole premium. Interest is payable semi-annually on May 15 and
+November 15 of each year commencing on November 15, 2003. The proceeds of the
+original note offering were used to reduce bank debt and outstanding commercial
+paper and for general corporate purposes.
+
+      On May 28, 2004, the Company's $750 million 364-day credit facility
+matured and was replaced with a new 5-year credit facility. The financial
+covenants of the new 5-year facility require the Company to maintain a ratio of
+debt-to-capitalization of not greater than 60 percent at the end of any fiscal
+quarter. At the Company's option, the interest rate is based on (i) the greater
+of (a) The JPMorgan Chase Bank prime rate or (b) the federal funds rate plus
+one-half of one percent or (ii) the London Interbank Offered Rate (LIBOR) plus a
+margin determined by the Company's senior long-term debt rating. The facility
+also allows the Company to borrow under competitive auctions. On June 30, 2004,
+the margin over LIBOR for committed loans was .27 percent. If the total amount
+of the loans borrowed under the facility equals or exceeds 50 percent of the
+total facility commitments, then an additional .10 percent will be added to the
+margins over LIBOR. The Company also pays a quarterly facility fee of .08
+percent on the total amount of the facility.
+
+      Also on May 28, 2004, the Company amended its existing global credit
+facility agreements in order to make their terms consistent with the new 5-year
+credit facility. Significant changes included raising the cross default
+threshold and eliminating covenants which established minimum levels for
+tangible net worth and book values for assets of Apache and certain
+subsidiaries.
+
+4.    CAPITAL STOCK
+
+      On January 22, 2003, the Company completed a public offering of 19.8
+million shares of Apache common stock (adjusted for the five percent common
+stock dividend and the two-for-one common stock split) including underwriters'
+over-allotment option, for net proceeds of approximately $554 million. The
+proceeds were used to purchase producing properties in the North Sea and the
+Gulf of Mexico from BP.
+
+                                        9
+<PAGE>
+
+      On September 12, 2003, the Company announced that its Board of Directors
+voted to increase the quarterly cash dividend on its common stock to 12 cents
+per share from 10 cents per share (six cents per share from five cents per share
+adjusted for the two-for-one stock split), effective with the November 2003
+payment, and to split its common stock two-for-one early in 2004, subject to
+shareholder approval of an increase in the authorized number of common shares.
+
+      On December 18, 2003, the Company announced that holders of its common
+stock approved an increase in the number of authorized common shares to 430
+million from 215 million in order to complete the previously announced
+two-for-one stock split. The record date for the stock split was December 31,
+2003, and the additional shares were distributed on January 14, 2004.
+
+      On January 26, 2004, the Nasdaq Stock Market, Inc. (NASDAQ) approved
+Apache for listing on the Nasdaq National Market, an intention we first
+announced on January 12, 2004. Apache's common stock is now listed on the NASDAQ
+as well as the New York Stock Exchange and the Chicago Stock Exchange.
+
+5.    NET INCOME PER COMMON SHARE
+
+      A reconciliation of the components of basic and diluted net income per
+      common share is presented in the table below:
+
+<TABLE>
+<CAPTION>
+                                                                  FOR THE QUARTER ENDED JUNE 30,
+                                                ------------------------------------------------------------------
+                                                               2004                              2003
+                                                ---------------------------------   ------------------------------
+                                                  INCOME       SHARES   PER SHARE     INCOME    SHARES   PER SHARE
+                                                ---------     -------   ---------   ---------  -------   ---------
+                                                             (In thousands, except per share amounts)
+<S>                                             <C>           <C>       <C>         <C>        <C>       <C>
+BASIC:
+  Income attributable to common stock .......   $ 371,718     325,668   $    1.14   $ 242,961  323,409   $     .75
+                                                                        =========                        =========
+EFFECT OF DILUTIVE SECURITIES:
+  Stock options and other ...................           -       3,695                       -    2,711
+                                                ---------     -------               ---------  -------
+DILUTED:
+  Income attributable to common stock,
+   including assumed conversions ............   $ 371,718     329,363   $    1.13   $ 242,961  326,120   $     .74
+                                                =========     =======   =========   =========  =======   =========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                 FOR THE SIX MONTHS ENDED JUNE 30,
+                                                ------------------------------------------------------------------
+                                                               2004                              2003
+                                                ---------------------------------   ------------------------------
+                                                  INCOME       SHARES   PER SHARE     INCOME    SHARES   PER SHARE
+                                                ---------     -------   ---------   ---------  -------   ---------
+                                                             (In thousands, except per share amounts)
+<S>                                             <C>           <C>       <C>         <C>        <C>       <C>
+BASIC:
+  Income attributable to common stock .......   $ 719,382     325,335   $    2.21   $ 580,470  320,973   $    1.81
+                                                                        =========                        =========
+EFFECT OF DILUTIVE SECURITIES:
+  Stock options and other ...................           -       3,718                       -    2,681
+                                                ---------     -------               ---------  -------
+DILUTED:
+  Income attributable to common stock,
+   including assumed conversions ............   $ 719,382     329,053   $    2.19   $ 580,470  323,654   $    1.79
+                                                =========     =======   =========   =========  =======   =========
+</TABLE>
+
+6. STOCK-BASED COMPENSATION
+
+      Effective January 1, 2003, the Company adopted the fair value recognition
+provisions of SFAS No. 123, "Accounting for Stock-Based Compensation," as
+amended by SFAS No. 148, prospectively to all employee awards granted, modified,
+or settled after January 1, 2003. However, on May 1, 2003, the Company began
+issuing stock appreciation rights to certain employees in lieu of stock options.
+The Company records compensation expense with respect to stock appreciation
+rights as the price of the Company's common stock fluctuates and the awards
+vest. On May 1, 2003 and May 6, 2004, Apache granted stock appreciation rights
+for 1,802,210 shares and 1,325,100 shares of Apache common stock, respectively.
+On June 30, 2004, stock appreciation rights for 2,913,564 shares of Apache
+common stock were outstanding with an average exercise price of $35.01.
+
+                                       10
+<PAGE>
+
+      For stock options granted prior to 2003, the Company accounted for its
+stock-based employee compensation plans under the recognition and measurement
+principles of Accounting Principals Board Opinion No. 25, "Accounting for Stock
+Issued to Employees," and related interpretations. For the stock options granted
+prior to 2003, no material stock-based employee compensation cost is reflected
+in net income. All options granted under those plans had an exercise price equal
+to the market value of the underlying common stock on the date of grant.
+
+      In October 2000, the Company adopted the 2000 Share Appreciation Plan
+under which grants were made to the Company's officers and substantially all
+full-time employees. The 2000 Share Appreciation Plan provides for issuance of
+Apache common stock, based on attainment of one or more of three share price
+goals (Share Price Goals) and/or a separate production goal. The Share Price
+Goals are based on achieving a closing share price for Apache stock of $43.29,
+$51.95 and $77.92 per share ($100, $120 and $180 before the five and 10 percent
+stock dividends and the two-for-one stock split) on any 10 days out of any 30
+consecutive trading days before January 1, 2005. As of April 28, 2004, Apache's
+share price exceeded the first threshold for the 10-day requirement. As such,
+Apache will issue approximately 900,000 shares of its common stock, after
+minimum tax withholding requirements, in three equal installments. The first
+installment was issued in May 2004. The second and third installments will be
+issued in 2005 and 2006 to employees remaining with the Company during that
+period. Expense recognition is based on the percentage of the employees' service
+period and will reduce Apache's 2004 net income by approximately $16 million
+after tax, or five cents per diluted common share.
+
+      The cost related to stock-based employee compensation included in the
+determination of net income for 2003 and 2004 is different than that which would
+have been recognized if the fair value based method had been applied to all
+awards. The following table illustrates the effect on income attributable to
+common stock and earnings per share had the fair value based provisions of SFAS
+No. 123, as amended, been applied to all outstanding and unvested awards.
+
+<TABLE>
+<CAPTION>
+                                                       FOR THE QUARTER ENDED              FOR THE SIX MONTHS ENDED
+                                                               JUNE 30,                          JUNE 30,
+                                                       ---------------------              ------------------------
+                                                         2004             2003            2004             2003
+                                                         ----             ----            ----             ----
+                                                           (In thousands, except for per common share amounts)
+<S>                                                   <C>              <C>             <C>             <C>
+Income attributable to common stock, as reported.     $  371,718       $  242,961      $  719,382      $  580,470
+
+Add:  Stock-based employee compensation expense
+   included in reported net income, net of related
+   tax effects...................................         14,698               34          15,472             391
+
+Deduct:  Total stock-based employee compensation
+   expense determined under fair value based
+   method for all awards, net of related tax effects      (5,063)          (6,364)        (10,642)        (10,866)
+                                                      ----------       ----------      ----------      ----------
+Pro forma income attributable to common stock....     $  381,353       $  236,631      $  724,212      $  569,995
+                                                      ==========       ==========      ==========      ==========
+
+Net Income per Common Share:
+   Basic:
+     As reported.................................     $     1.14       $      .75      $     2.21      $     1.81
+     Pro forma...................................           1.17              .73            2.23            1.78
+   Diluted:
+     As reported.................................           1.13              .74            2.19            1.79
+     Pro forma...................................           1.16              .72            2.20            1.75
+</TABLE>
+
+      The effects of applying SFAS No. 123, as amended, in this pro forma
+disclosure should not be interpreted as being indicative of future effects. SFAS
+No. 123, as amended, does not apply to awards prior to 1995, and the extent and
+timing of additional future awards cannot be predicted.
+
+                                       11
+<PAGE>
+
+7.    SUPPLEMENTAL CASH FLOW INFORMATION
+
+      The following table provides supplemental disclosure of cash flow
+information:
+
+<TABLE>
+<CAPTION>
+                                                                             FOR THE SIX MONTHS ENDED JUNE 30,
+                                                                          -------------------------------------
+                                                                                2004                  2003
+                                                                          --------------         --------------
+                                                                                      (In thousands)
+<S>                                                                       <C>                    <C>
+Cash paid during the period for:
+   Interest (net of amounts capitalized).............................     $       49,584         $       47,471
+   Income taxes (net of refunds).....................................            246,879                166,762
+</TABLE>
+
+8.    PENSION AND POST-RETIREMENT BENEFITS
+
+      Effective July 1, 2003, as part of the BP North Sea acquisition, Apache
+assumed a defined benefit pension plan covering existing BP North Sea employees
+hired by the Company as part of the acquisition. The pension plan provides
+defined benefits based on years of service and final average salary.
+
+      The following table sets forth the components of the net periodic cost of
+Apache's pension and other post-retirement benefit plans for the six-month
+period ended June 30, 2004. The pension and post-retirement benefit plans did
+not materially impact the Company for equivalent prior-year periods.
+
+<TABLE>
+<CAPTION>
+                                                                          FOR THE SIX MONTHS ENDED JUNE 30, 2004
+                                                                          -------------------------------------
+                                                                              PENSION            POST-RETIREMENT
+                                                                              BENEFITS             BENEFITS
+                                                                          --------------         ---------------
+                                                                                       (In thousands)
+<S>                                                                       <C>                    <C>
+COMPONENTS OF NET PERIODIC BENEFIT COSTS
+   Service cost.......................................................    $        2,727         $          484
+   Interest cost......................................................             1,813                    314
+   Expected return on assets..........................................            (1,793)                     -
+   Amortization of:
+      Transition obligation...........................................                 -                     22
+      Actuarial (gain)/loss...........................................                 -                    125
+                                                                          --------------         --------------
+   Net periodic benefit cost..........................................    $        2,747         $          945
+                                                                          ==============         ==============
+</TABLE>
+
+      Apache disclosed in its financial statements for the year ended December
+31, 2003, that it expected to contribute $5 million to its pension plan in 2004.
+Approximately $3 million of the original estimate was contributed as of June 30,
+2004. The remaining $2 million is expected to be contributed by year-end. Apache
+also contributed an additional $12 million to fund prior years' benefit
+obligations.
+
+      The Company did not make any material contributions to the post-retirement
+benefit plan during the period and does not anticipate any material
+contributions or benefit payments to be made in future years.
+
+                                       12
+<PAGE>
+
+9.    BUSINESS SEGMENT INFORMATION
+
+      Apache has five reportable segments which are primarily in the business of
+      natural gas and crude oil exploration and production. The Company
+      evaluates segment performance based on results from oil and gas sales and
+      lease-level expenses. Apache's reportable segments are managed separately
+      because of their geographic locations. Financial information by operating
+      segment is presented below:
+
+<TABLE>
+<CAPTION>
+                                               UNITED                                                        OTHER
+                                               STATES      CANADA      EGYPT      AUSTRALIA   NORTH SEA  INTERNATIONAL     TOTAL
+                                             ----------  ----------  ----------  ----------  ----------  -------------  -----------
+                                                                               (IN THOUSANDS)
+<S>                                          <C>         <C>         <C>         <C>         <C>         <C>            <C>
+FOR THE SIX MONTHS ENDED JUNE 30, 2004
+
+Oil and Gas Production Revenues...........   $1,100,335  $  469,937  $  412,662  $  189,649  $  186,129    $   41,454   $ 2,400,166
+                                             ==========  ==========  ==========  ==========  ==========    ==========   ===========
+
+Operating Income (1)......................   $  597,116  $  258,033  $  277,239  $   88,841  $   74,714    $   16,149   $ 1,312,092
+                                             ==========  ==========  ==========  ==========  ==========    ==========
+
+Other Income (Expense):
+   Other..................................                                                                                   (9,494)
+   General and administrative.............                                                                                  (80,329)
+   Share Appreciation Plan - general and
+      administrative......................                                                                                  (11,012)
+   China litigation.......................                                                                                  (71,216)
+   Financing costs, net...................                                                                                  (54,713)
+                                                                                                                        -----------
+Income Before Income Taxes................                                                                              $ 1,085,328
+                                                                                                                        ===========
+
+Total Assets..............................   $5,868,356  $3,243,373  $1,890,102  $1,018,298  $1,041,801    $  188,021   $13,249,951
+                                             ==========  ==========  ==========  ==========  ==========    ==========   ===========
+
+FOR THE SIX MONTHS ENDED JUNE 30, 2003
+
+Oil and Gas Production Revenues...........   $  994,699  $  427,940  $  320,274  $  194,952  $   77,858    $    3,769   $ 2,019,492
+                                             ==========  ==========  ==========  ==========  ==========    ==========   ===========
+
+Operating Income (1)......................   $  570,629  $  248,346  $  190,795  $   98,060  $    3,332    $    1,158   $ 1,112,320
+                                             ==========  ==========  ==========  ==========  ==========    ==========
+
+Other Income (Expense):
+   Other..................................                                                                                    1,473
+   General and administrative.............                                                                                  (58,405)
+   Preferred interests of subsidiaries....                                                                                   (6,692)
+   Financing costs, net...................                                                                                  (54,839)
+                                                                                                                        -----------
+Income Before Income Taxes................                                                                              $   993,857
+                                                                                                                        ===========
+
+Total Assets..............................   $5,340,053  $2,775,921  $1,684,445  $  936,575  $  985,841    $  173,200   $11,896,035
+                                             ==========  ==========  ==========  ==========  ==========    ==========   ===========
+</TABLE>
+
+1)    Operating Income consists of oil and gas production revenues less
+      depreciation, depletion and amortization, asset retirement obligation
+      accretion, international impairments, lease operating costs, share
+      appreciation plan - lease operating costs, gathering and transportation
+      costs, and severance and other taxes.
+
+10.   ASSET RETIREMENT OBLIGATIONS
+
+      Effective January 1, 2003, the Company adopted SFAS No. 143, "Accounting
+for Asset Retirement Obligations," which requires that an asset retirement
+obligation (ARO) associated with the retirement of a tangible long-lived asset
+be recognized as a liability in the period in which it is incurred and becomes
+determinable, with an offsetting increase in the carrying amount of the
+associated asset. The cost of the tangible asset, including the initially
+recognized ARO, is depleted such that the cost of the ARO is recognized over the
+useful life of the asset. The ARO is recorded at fair value, and accretion
+expense will be recognized over time as the discounted liability is accreted to
+its expected settlement value. The fair value of the ARO is measured using
+expected future cash outflows discounted at the Company's credit-adjusted
+risk-free interest rate. Apache's asset retirement obligations primarily relate
+to the plugging and abandonment of oil and gas properties.
+
+                                       13
+<PAGE>
+
+      The following table describes all changes to the Company's ARO liability
+for the current year (in thousands):
+
+<TABLE>
+<S>                                                                                    <C>
+Asset retirement obligation as of December 31, 2003................................    $   739,775
+Liabilities incurred...............................................................          5,418
+Liabilities settled................................................................        (21,893)
+Accretion expense..................................................................         21,652
+Revisions..........................................................................         14,665
+                                                                                       -----------
+Asset retirement obligation as of June 30, 2004....................................    $   759,617
+                                                                                       ===========
+</TABLE>
+
+
+      Liabilities incurred during the period primarily relate to obligations in
+connection with the Company's drilling activity. Liabilities settled during the
+period primarily relate to individually immaterial properties plugged and
+abandoned or sold during the period.
+
+11.   LITIGATION
+
+      Apache recorded a reserve in the second quarter of 2004 to fully reflect a
+pre-tax $71 million international arbitration award to Texaco China B.V. (Texaco
+China). In September 2001, Texaco China initiated an arbitration proceeding
+against Apache China Corporation LDC (Apache China), later adding Apache Bohai
+to the arbitration. In the arbitration Texaco China claimed damages, plus
+interest, arising from Apache Bohai's alleged failure to drill three wells,
+prior to re-assignment of the interest to Texaco China. Apache believes that the
+finding of the arbitrator is unsupported by the facts and the law, and Apache
+expects to pursue an appeal of the award in federal court.
+
+12.   SUPPLEMENTAL GUARANTOR INFORMATION
+
+      Apache Finance Pty Ltd. (Apache Finance Australia) and Apache Finance
+Canada are subsidiaries of Apache, that have issuances of publicly traded
+securities and require the following condensed consolidating financial
+statements be provided as an alternative to filing separate financial
+statements.
+
+      Each of the companies presented in the condensed consolidating financial
+statements has been fully consolidated in Apache's consolidated financial
+statements. As such, the condensed consolidating financial statements should be
+read in conjunction with the financial statements of Apache Corporation and
+Subsidiaries and notes thereto of which this note is an integral part.
+
+                                       14
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+                       FOR THE QUARTER ENDED JUNE 30, 2004
+
+<TABLE>
+<CAPTION>
+                                                              APACHE       APACHE        APACHE
+                                                APACHE         NORTH       FINANCE       FINANCE
+                                              CORPORATION     AMERICA     AUSTRALIA      CANADA
+                                              -----------   -----------  -----------   -----------
+                                                                                     (IN THOUSANDS)
+<S>                                           <C>           <C>          <C>           <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues .........  $   568,421   $         -  $         -   $         -
+   Equity in net income (loss) of affiliates      223,195        10,420       13,488        53,454
+   Other ...................................       (1,148)            -            -             -
+                                              -----------   -----------  -----------   -----------
+                                                  790,468        10,420       13,488        53,454
+                                              -----------   -----------  -----------   -----------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization       137,844             -            -             -
+   Asset retirement obligation accretion ...        5,805             -            -             -
+   Lease operating costs ...................       85,892             -            -             -
+   Share appreciation plan - LOE ...........        5,737             -            -             -
+   Gathering and transportation costs ......        7,891             -            -             -
+   Severance and other taxes ...............       15,416             -            -             -
+   General and administrative ..............       28,423             -            -             -
+   Share appreciation plan - G&A ...........       10,034             -            -             -
+   China litigation ........................            -             -            -             -
+   Financing costs, net ....................       20,253             -        4,510         9,936
+                                              -----------   -----------  -----------   -----------
+                                                  317,295             -        4,510         9,936
+                                              -----------   -----------  -----------   -----------
+
+INCOME (LOSS) BEFORE INCOME TAXES ..........      473,173        10,420        8,978        43,518
+   Provision (benefit) for income taxes ....      100,035             -       (1,442)       (3,280)
+                                              -----------   -----------  -----------   -----------
+
+NET INCOME .................................      373,138        10,420       10,420        46,798
+   Preferred stock dividends ...............        1,420             -            -             -
+                                              -----------   -----------  -----------   -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK ........  $   371,718   $    10,420  $    10,420   $    46,798
+                                              ===========   ===========  ===========   ===========
+
+<CAPTION>
+
+                                                 ALL OTHER
+                                                SUBSIDIARIES
+                                                 OF APACHE    RECLASSIFICATIONS
+                                                CORPORATION    & ELIMINATIONS     CONSOLIDATED
+                                                ------------  -----------------   ------------
+<S>                                             <C>           <C>                 <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues .........    $   756,030      $   (77,039)     $ 1,247,412
+   Equity in net income (loss) of affiliates         (9,724)        (290,833)               -
+   Other ...................................         (5,531)               -           (6,679)
+                                                -----------      -----------      -----------
+                                                    740,775         (367,872)       1,240,733
+                                                -----------      -----------      -----------
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization         157,893                -          295,737
+   Asset retirement obligation accretion ...          5,086                -           10,891
+   Lease operating costs ...................        188,244          (77,039)         197,097
+   Share appreciation plan - LOE ...........          5,255                -           10,992
+   Gathering and transportation costs ......         12,271                -           20,162
+   Severance and other taxes ...............          6,179                -           21,595
+   General and administrative ..............          8,056                -           36,479
+   Share appreciation plan - G&A ...........            978                -           11,012
+   China litigation ........................         71,216                -           71,216
+   Financing costs, net ....................         (7,132)               -           27,567
+                                                -----------      -----------      -----------
+                                                    448,046          (77,039)         702,748
+                                                -----------      -----------      -----------
+INCOME (LOSS) BEFORE INCOME TAXES ..........        292,729         (290,833)         537,985
+   Provision (benefit) for income taxes ....         69,534                -          164,847
+                                                -----------      -----------      -----------
+
+NET INCOME .................................        223,195         (290,833)         373,138
+   Preferred stock dividends ...............              -                -            1,420
+                                                -----------      -----------      -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK ........    $   223,195      $  (290,833)     $   371,718
+                                                ===========      ===========      ============
+</TABLE>
+
+                                       15
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+                       FOR THE QUARTER ENDED JUNE 30, 2003
+
+<TABLE>
+<CAPTION>
+                                                              APACHE       APACHE        APACHE
+                                                APACHE         NORTH       FINANCE       FINANCE
+                                              CORPORATION     AMERICA     AUSTRALIA      CANADA
+                                              -----------   -----------  -----------   -----------
+                                                                                     (IN THOUSANDS)
+<S>                                           <C>           <C>          <C>           <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues .........  $   438,796   $         -  $         -   $         -
+   Equity in net income (loss) of affiliates       76,802         7,782       10,760         6,407
+   Other ...................................       (2,641)            -            -             -
+                                              -----------   -----------  -----------   -----------
+                                                  512,957         7,782       10,760         6,407
+                                              -----------   -----------  -----------   -----------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization        93,593             -            -             -
+   Asset retirement obligation accretion ...        3,778             -            -             -
+   Lease operating costs ...................       66,007             -            -             -
+   Gathering and transportation costs ......        4,412             -            -             -
+   Severance and other taxes ...............       13,042             -            -            11
+   General and administrative ..............       25,138             -            -             -
+   Financing costs, net ....................       27,345             -        4,513        10,010
+                                              -----------   -----------  -----------   -----------
+                                                  233,315             -        4,513        10,021
+                                              -----------   -----------  -----------   -----------
+
+PREFERRED INTERESTS OF SUBSIDIARIES ........            -             -            -             -
+                                              -----------   -----------  -----------   -----------
+
+INCOME (LOSS) BEFORE INCOME TAXES ..........      279,642         7,782        6,247        (3,614)
+   Provision (benefit) for income taxes ....       35,261             -       (1,535)       (3,318)
+                                              -----------   -----------  -----------   -----------
+
+NET INCOME .................................      244,381         7,782        7,782          (296)
+   Preferred stock dividends ...............        1,420             -            -             -
+                                              -----------   -----------  -----------   -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK ........  $   242,961   $     7,782  $     7,782   $      (296)
+                                              ===========   ===========  ===========   ===========
+
+<CAPTION>
+
+                                                 ALL OTHER
+                                                SUBSIDIARIES
+                                                 OF APACHE    RECLASSIFICATIONS
+                                                CORPORATION    & ELIMINATIONS     CONSOLIDATED
+                                                ------------  -----------------   ------------
+                                                                                 (IN THOUSANDS)
+<S>                                             <C>           <C>                 <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues .........    $   648,859      $   (43,325)     $ 1,044,330
+   Equity in net income (loss) of affiliates         (9,681)         (92,070)               -
+   Other ...................................         12,667                -           10,026
+                                                -----------      -----------      -----------
+                                                    651,845         (135,395)       1,054,356
+                                                -----------      -----------      -----------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization         178,763                -          272,356
+   Asset retirement obligation accretion ...          6,667                -           10,445
+   Lease operating costs ...................        163,604          (43,325)         186,286
+   Gathering and transportation costs ......         10,719                -           15,131
+   Severance and other taxes ...............         19,689                -           32,742
+   General and administrative ..............          5,436                -           30,574
+   Financing costs, net ....................        (12,950)               -           28,918
+                                                -----------      -----------      -----------
+                                                    371,928          (43,325)         576,452
+                                                -----------      -----------      -----------
+
+PREFERRED INTERESTS OF SUBSIDIARIES ........          3,330                -            3,330
+                                                -----------      -----------      -----------
+
+INCOME (LOSS) BEFORE INCOME TAXES ..........        276,587          (92,070)         474,574
+   Provision (benefit) for income taxes ....        199,785                -          230,193
+                                                -----------      -----------      -----------
+
+NET INCOME .................................         76,802          (92,070)         244,381
+   Preferred stock dividends ...............              -                -            1,420
+                                                -----------      -----------      -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK ........    $    76,802      $   (92,070)     $   242,961
+                                                ===========      ===========      ===========
+</TABLE>
+
+                                       16
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+                     FOR THE SIX MONTHS ENDED JUNE 30, 2004
+
+<TABLE>
+<CAPTION>
+                                                              APACHE       APACHE        APACHE
+                                                APACHE         NORTH       FINANCE       FINANCE
+                                              CORPORATION     AMERICA     AUSTRALIA      CANADA
+                                              -----------   -----------  -----------   -----------
+                                                                                     (IN THOUSANDS)
+<S>                                           <C>           <C>          <C>           <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues .........  $ 1,097,459   $         -  $         -   $         -
+   Equity in net income (loss) of affiliates      416,687        18,682       24,716        91,399
+   Other ...................................       (1,911)            -            -             -
+                                              -----------   -----------  -----------   -----------
+                                                1,512,235        18,682       24,716        91,399
+                                              -----------   -----------  -----------   -----------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization       269,054             -            -             -
+   Asset retirement obligation accretion ...       11,600             -            -             -
+   Lease operating costs ...................      170,127             -            -             -
+   Share appreciation plan - LOE ...........        5,737             -            -             -
+   Gathering and transportation costs ......       15,223             -            -             -
+   Severance and other taxes ...............       28,796             -            -            18
+   General and administrative ..............       63,352             -            -             -
+   Share appreciation plan - G&A ...........       10,034             -            -             -
+   China litigation ........................            -             -            -             -
+   Financing costs, net ....................       42,016             -        9,022        20,043
+                                              -----------   -----------  -----------   -----------
+                                                  615,939             -        9,022        20,061
+                                              -----------   -----------  -----------   -----------
+
+INCOME (LOSS) BEFORE INCOME TAXES ..........      896,296        18,682       15,694        71,338
+   Provision (benefit) for income taxes ....      174,074             -       (2,988)       (6,785)
+                                              -----------   -----------  -----------   -----------
+
+NET INCOME .................................      722,222        18,682       18,682        78,123
+   Preferred stock dividends ...............        2,840             -            -             -
+                                              -----------   -----------  -----------   -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK ........  $   719,382   $    18,682  $    18,682   $    78,123
+                                              ===========   ===========  ===========   ===========
+
+<CAPTION>
+
+                                                 ALL OTHER
+                                                SUBSIDIARIES
+                                                 OF APACHE    RECLASSIFICATIONS
+                                                CORPORATION    & ELIMINATIONS     CONSOLIDATED
+                                                ------------  -----------------   ------------
+<S>                                             <C>           <C>                 <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues .........    $ 1,457,921     $  (155,214)       $ 2,400,166
+   Equity in net income (loss) of affiliates        (19,310)       (532,174)                 -
+   Other ...................................         (7,583)              -             (9,494)
+                                                -----------     -----------        -----------
+                                                  1,431,028        (687,388)         2,390,672
+                                                -----------     -----------        -----------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization         312,911               -            581,965
+   Asset retirement obligation accretion ...         10,052               -             21,652
+   Lease operating costs ...................        388,213        (155,214)           403,126
+   Share appreciation plan - LOE ...........          5,255               -             10,992
+   Gathering and transportation costs ......         24,573               -             39,796
+   Severance and other taxes ...............          1,729               -             30,543
+   General and administrative ..............         16,977               -             80,329
+   Share appreciation plan - G&A ...........            978               -             11,012
+   China litigation ........................         71,216               -             71,216
+   Financing costs, net ....................        (16,368)              -             54,713
+                                                -----------     -----------        -----------
+                                                    815,536        (155,214)         1,305,344
+                                                -----------     -----------        -----------
+
+INCOME (LOSS) BEFORE INCOME TAXES ..........        615,492        (532,174)         1,085,328
+   Provision (benefit) for income taxes ....        198,805               -            363,106
+                                                -----------     -----------        -----------
+
+NET INCOME .................................        416,687        (532,174)           722,222
+   Preferred stock dividends ...............              -               -              2,840
+                                                -----------     -----------        -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK ........    $   416,687     $  (532,174)       $   719,382
+                                                ===========     ===========        ===========
+</TABLE>
+
+                                       17
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATING STATEMENT OF OPERATIONS
+                     FOR THE SIX MONTHS ENDED JUNE 30, 2003
+
+<TABLE>
+<CAPTION>
+                                                                                             APACHE          APACHE
+                                                         APACHE           APACHE            FINANCE          FINANCE
+                                                       CORPORATION     NORTH AMERICA       AUSTRALIA         CANADA
+                                                       -----------     -------------      -----------     --------------
+                                                                                                          (IN THOUSANDS)
+<S>                                                    <C>             <C>                <C>             <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues.................    $   814,963      $         -       $         -      $         -
+   Equity in net income (loss) of affiliates.......        256,160           16,729            22,685           34,602
+   Other...........................................         (6,257)              -                  -                -
+                                                       -----------      -----------       -----------      -----------
+                                                         1,064,866           16,729            22,685           34,602
+                                                       -----------      -----------       -----------      -----------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization........        161,211                -                 -                -
+   Asset retirement obligation accretion...........          6,542                -                 -                -
+   Lease operating costs...........................        124,774                -                 -                -
+   Gathering and transportation costs..............          8,897                -                 -                -
+   Severance and other taxes.......................         27,399                -                 -               53
+   General and administrative......................         48,841                -                 -                -
+   Financing costs, net............................         48,444                -             9,025           20,179
+                                                       -----------      -----------       -----------      -----------
+                                                           426,108                -             9,025           20,232
+                                                       -----------      -----------       -----------      -----------
+
+PREFERRED INTERESTS OF SUBSIDIARIES................             -                 -                 -                -
+                                                       -----------      -----------       -----------      -----------
+
+INCOME (LOSS) BEFORE INCOME TAXES..................        638,758           16,729            13,660           14,370
+   Provision (benefit) for income taxes............         75,205                -            (3,069)          (7,430)
+                                                       -----------      -----------       -----------      -----------
+
+INCOME (LOSS) BEFORE CHANGE IN
+  ACCOUNTING PRINCIPLE.............................        563,553           16,729            16,729           21,800
+   Cumulative effect of change in accounting
+     principle, net of income tax..................         19,757                -                 -                -
+                                                       -----------      -----------       -----------      -----------
+
+NET INCOME.........................................        583,310           16,729            16,729           21,800
+   Preferred stock dividends.......................          2,840                -                 -                -
+                                                       -----------      -----------       -----------      -----------
+INCOME ATTRIBUTABLE TO COMMON STOCK................    $   580,470      $    16,729       $    16,729      $    21,800
+                                                       ===========      ===========       ===========      ===========
+
+<CAPTION>
+                                                          ALL OTHER
+                                                         SUBSIDIARIES
+                                                           OF APACHE    RECLASSIFICATIONS
+                                                          CORPORATION     & ELIMINATIONS     CONSOLIDATED
+                                                         ------------   -----------------    ------------
+
+<S>                                                      <C>            <C>                  <C>
+REVENUES AND OTHER:
+   Oil and gas production revenues.................       $ 1,303,126     $    (98,597)      $  2,019,492
+   Equity in net income (loss) of affiliates.......           (18,758)        (311,418)                 -
+   Other...........................................             7,730                -              1,473
+                                                          -----------     ------------       ------------
+                                                            1,292,098         (410,015)         2,020,965
+                                                          -----------     ------------       ------------
+
+OPERATING EXPENSES:
+   Depreciation, depletion and amortization........           325,494                -            486,705
+   Asset retirement obligation accretion...........             9,216                -             15,758
+   Lease operating costs...........................           294,244          (98,597)           320,421
+   Gathering and transportation costs..............            18,095                -             26,992
+   Severance and other taxes.......................            29,844                -             57,296
+   General and administrative......................             9,564                -             58,405
+   Financing costs, net............................           (22,809)               -             54,839
+                                                          -----------     ------------       ------------
+                                                              663,648          (98,597)         1,020,416
+                                                          -----------     ------------       ------------
+
+PREFERRED INTERESTS OF SUBSIDIARIES................             6,692                -              6,692
+                                                          -----------     ------------       ------------
+
+INCOME (LOSS) BEFORE INCOME TAXES..................           621,758         (311,418)           993,857
+   Provision (benefit) for income taxes............           372,473                -            437,179
+                                                          -----------     ------------       ------------
+
+INCOME (LOSS) BEFORE CHANGE IN
+  ACCOUNTING PRINCIPLE.............................           249,285         (311,418)           556,678
+   Cumulative effect of change in accounting
+     principle, net of income tax..................             6,875                -             26,632
+                                                          -----------     ------------       ------------
+
+NET INCOME.........................................           256,160         (311,418)           583,310
+   Preferred stock dividends.......................                 -                -              2,840
+                                                          -----------     ------------       ------------
+INCOME ATTRIBUTABLE TO COMMON STOCK................       $   256,160     $   (311,418)      $    580,470
+                                                          ===========     ============       ============
+</TABLE>
+
+                                       18
+
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS
+                     FOR THE SIX MONTHS ENDED JUNE 30, 2004
+
+<TABLE>
+<CAPTION>
+
+                                                                                            APACHE            APACHE
+                                                          APACHE           APACHE           FINANCE           FINANCE
+                                                       CORPORATION     NORTH AMERICA       AUSTRALIA          CANADA
+                                                       -----------     -------------      -----------     --------------
+                                                                                                          (IN THOUSANDS)
+<S>                                                    <C>             <C>                <C>             <C>
+CASH PROVIDED BY (USED IN) OPERATING
+  ACTIVITIES.......................................    $   678,621      $         -       $    (8,219)     $   (19,521)
+                                                       -----------      -----------       -----------      -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Additions to property and equipment..............       (311,910)               -                 -                -
+  Investment in subsidiaries, net..................       (182,525)          (9,025)                -                -
+  Other, net.......................................         (8,957)               -                 -                -
+                                                       -----------      -----------       -----------      -----------
+NET CASH USED IN INVESTING ACTIVITIES..............       (503,392)          (9,025)                -                -
+                                                       -----------      -----------       -----------      -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Long-term borrowings.............................            274                -              (806)             242
+  Payments on long-term debt.......................       (135,300)               -                 -                -
+  Dividends paid...................................        (41,838)               -                 -                -
+  Common stock activity............................         13,383            9,025             9,025           19,281
+  Treasury stock activity, net.....................          7,663                -                 -                -
+  Cost of debt and equity transactions.............         (2,050)               -                 -                -
+                                                       -----------      -----------       -----------      -----------
+NET CASH PROVIDED BY FINANCING ACTIVITIES..........       (157,868)           9,025             8,219           19,523
+                                                       -----------      -----------       -----------      -----------
+
+NET INCREASE (DECREASE) IN CASH AND
+  CASH EQUIVALENTS.................................         17,361                -                 -                2
+
+CASH AND CASH EQUIVALENTS AT
+  BEGINNING OF YEAR................................              -                -                 2                1
+                                                       -----------      -----------       -----------      -----------
+
+CASH AND CASH EQUIVALENTS AT
+  END OF PERIOD....................................    $    17,361      $         -       $         2      $         3
+                                                       ===========      ===========       ===========      ===========
+
+<CAPTION>
+                                                            ALL OTHER
+                                                           SUBSIDIARIES
+                                                            OF APACHE    RECLASSIFICATIONS
+                                                           CORPORATION     & ELIMINATIONS     CONSOLIDATED
+                                                           ------------  -----------------    ------------
+<S>                                                        <C>           <C>                  <C>
+CASH PROVIDED BY (USED IN) OPERATING
+  ACTIVITIES.......................................        $   648,171     $          -       $  1,299,052
+                                                           -----------     ------------       ------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Additions to property and equipment..............           (746,239)               -         (1,058,149)
+  Investment in subsidiaries, net..................            (26,792)         218,342                  -
+  Other, net.......................................            (10,231)               -            (19,188)
+                                                           -----------     ------------       ------------
+NET CASH USED IN INVESTING ACTIVITIES..............           (783,262)         218,342         (1,077,337)
+                                                           -----------     ------------       ------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Long-term borrowings.............................            165,023         (164,329)               404
+  Payments on long-term debt.......................                  -                -           (135,300)
+  Dividends paid...................................                  -                -            (41,838)
+  Common stock activity............................             16,682          (54,013)            13,383
+  Treasury stock activity, net.....................                  -                -              7,663
+  Cost of debt and equity transactions.............                  -                -             (2,050)
+                                                           -----------     ------------       ------------
+NET CASH PROVIDED BY FINANCING ACTIVITIES..........            181,705         (218,342)          (157,738)
+                                                           -----------     ------------       ------------
+
+NET INCREASE (DECREASE) IN CASH AND
+  CASH EQUIVALENTS.................................             46,614                -             63,977
+
+CASH AND CASH EQUIVALENTS AT
+  BEGINNING OF YEAR................................             33,500                -             33,503
+                                                           -----------     ------------       ------------
+
+CASH AND CASH EQUIVALENTS AT
+  END OF PERIOD....................................        $    80,114     $          -       $     97,480
+                                                           ===========     ============       ============
+</TABLE>
+
+                                       19
+
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS
+                     FOR THE SIX MONTHS ENDED JUNE 30, 2003
+
+<TABLE>
+<CAPTION>
+                                                                                             APACHE           APACHE
+                                                          APACHE          APACHE            FINANCE           FINANCE
+                                                       CORPORATION     NORTH AMERICA       AUSTRALIA          CANADA
+                                                       -----------     -------------      -----------     --------------
+                                                                                                          (IN THOUSANDS)
+<S>                                                    <C>             <C>                <C>             <C>
+CASH PROVIDED BY (USED IN) OPERATING
+  ACTIVITIES.......................................    $   422,811      $         -       $   (10,411)     $   326,493
+                                                       -----------      -----------       -----------      -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Additions to property and equipment..............       (191,034)               -                 -                -
+  Acquisitions.....................................       (527,610)               -                 -                -
+  Investment in subsidiaries, net..................       (204,329)          (9,025)                -                -
+  Other, net.......................................        (15,393)               -                 -                -
+                                                       -----------      -----------       -----------      -----------
+NET CASH USED IN INVESTING ACTIVITIES..............       (938,366)          (9,025)                -                -
+                                                       -----------      -----------       -----------      -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Long-term borrowings.............................        660,873                -             1,386         (347,282)
+  Payments on long-term debt.......................       (678,900)               -                 -                -
+  Dividends paid...................................        (34,366)               -                 -                -
+  Common stock activity............................        570,363            9,025             9,025           20,662
+  Treasury stock activity, net.....................          3,399                -                 -                -
+  Cost of debt and equity transactions.............         (4,039)               -                 -                -
+                                                       -----------      -----------       -----------      -----------
+NET CASH PROVIDED BY FINANCING ACTIVITIES..........        517,330            9,025            10,411         (326,620)
+                                                       -----------      -----------       -----------      -----------
+
+NET INCREASE (DECREASE) IN CASH AND
+  CASH EQUIVALENTS.................................          1,775                -                 -             (127)
+
+CASH AND CASH EQUIVALENTS AT
+  BEGINNING OF YEAR................................            224                -                 2              127
+                                                       -----------      -----------       -----------      -----------
+
+CASH AND CASH EQUIVALENTS AT
+  END OF PERIOD....................................    $     1,999      $         -       $         2      $         -
+                                                       ===========      ===========       ===========      ===========
+
+<CAPTION>
+                                                            ALL OTHER
+                                                           SUBSIDIARIES
+                                                             OF APACHE    RECLASSIFICATIONS
+                                                            CORPORATION     & ELIMINATIONS      CONSOLIDATED
+                                                           ------------   -----------------     ------------
+<S>                                                        <C>            <C>                   <C>
+CASH PROVIDED BY (USED IN) OPERATING
+  ACTIVITIES.......................................        $    485,272     $          -        $ 1,224,165
+                                                           ------------     ------------        -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Additions to property and equipment..............            (580,012)               -           (771,046)
+  Acquisitions.....................................            (629,524)               -         (1,157,134)
+  Investment in subsidiaries, net..................             156,790           56,564                  -
+  Other, net.......................................             (16,949)               -            (32,342)
+                                                           ------------     ------------        -----------
+NET CASH USED IN INVESTING ACTIVITIES..............          (1,069,695)          56,564         (1,960,522)
+                                                           ------------     ------------        -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Long-term borrowings.............................              76,315          651,126          1,042,418
+  Payments on long-term debt.......................            (173,405)               -           (852,305)
+  Dividends paid...................................                   -                -            (34,366)
+  Common stock activity............................             668,978         (707,690)           570,363
+  Treasury stock activity, net.....................                   -                -              3,399
+  Cost of debt and equity transactions.............                   -                -             (4,039)
+                                                           ------------     ------------        -----------
+NET CASH PROVIDED BY FINANCING ACTIVITIES..........             571,888          (56,564)           725,470
+                                                           ------------     ------------        -----------
+
+NET INCREASE (DECREASE) IN CASH AND
+  CASH EQUIVALENTS.................................             (12,535)               -            (10,887)
+
+CASH AND CASH EQUIVALENTS AT
+  BEGINNING OF YEAR................................              51,533                -             51,886
+                                                           ------------     ------------        -----------
+
+CASH AND CASH EQUIVALENTS AT
+  END OF PERIOD....................................        $     38,998     $          -        $    40,999
+                                                           ============     ============        ===========
+</TABLE>
+
+                                       20
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATING BALANCE SHEET
+                               AS OF JUNE 30, 2004
+
+<TABLE>
+<CAPTION>
+                                                                                                   ALL OTHER
+                                                                            APACHE     APACHE    SUBSIDIARIES
+                                                 APACHE       APACHE       FINANCE    FINANCE      OF APACHE
+                                              CORPORATION  NORTH AMERICA  AUSTRALIA    CANADA     CORPORATION
+                                              -----------  -------------  ---------    ------     -----------
+                                                                                    (IN THOUSANDS)
+<S>                                           <C>          <C>            <C>        <C>         <C>
+                 ASSETS
+CURRENT ASSETS:
+    Cash and cash equivalents...............  $    17,361    $      -      $     2   $        3   $    80,114
+    Receivables, net of allowance...........      267,307           -            -            -       544,326
+    Inventories.............................       18,620           -            -            -       109,217
+    Drilling advances and others............       40,747           -            -            -        80,167
+                                              -----------    --------     --------   ----------   -----------
+                                                  344,035           -            2            3       813,824
+                                              -----------    --------     --------   ----------   -----------
+PROPERTY AND EQUIPMENT, NET.................    5,332,984           -            -            -     6,482,454
+                                              -----------    --------     --------   ----------   -----------
+OTHER ASSETS:
+    Intercompany receivable, net............    1,456,525           -       (1,054)      93,555    (1,549,026)
+    Goodwill, net...........................           -            -            -            -       189,252
+    Equity in affiliates....................    3,510,976     242,695      494,048    1,192,419      (802,073)
+    Deferred charges and other..............       42,774           -            -        4,772        39,851
+                                              -----------    --------     --------   ----------   -----------
+                                              $10,687,294    $242,695     $492,996   $1,290,749   $ 5,174,282
+                                              ===========    ========     ========   ==========   ===========
+     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+    Accounts payable........................  $   246,143    $      -     $      -   $        -   $   168,836
+    Other accrued expenses..................      282,241           -         (102)       2,951       275,530
+                                              -----------    --------     --------   ----------   -----------
+                                                  528,384           -         (102)       2,951       444,366
+                                              -----------    --------     --------   ----------   -----------
+LONG-TERM DEBT..............................    1,270,858           -      269,088      646,769         5,355
+                                              -----------    --------     --------   ----------   -----------
+DEFERRED CREDITS AND OTHER
+  NONCURRENT LIABILITIES:
+    Income taxes............................      961,950           -      (18,685)        (670)      843,719
+    Advances from gas purchasers............      100,135           -            -            -             -
+    Asset retirement obligation.............      407,129           -            -            -       352,488
+    Oil and gas derivative instruments......        1,233           -            -            -             -
+    Other...................................      143,416           -            -            -        17,378
+                                              -----------    --------     --------   ----------   -----------
+                                                1,613,863           -      (18,685)        (670)    1,213,585
+                                              -----------    --------     --------   ----------   -----------
+COMMITMENTS AND CONTINGENCIES
+
+SHAREHOLDERS' EQUITY........................    7,274,189     242,695      242,695      641,699     3,510,976
+                                              -----------    --------     --------   ----------   -----------
+                                              $10,687,294    $242,695     $492,996   $1,290,749   $ 5,174,282
+                                              ===========    ========     ========   ==========   ===========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                RECLASSIFICATIONS
+                                                  & ELIMINATIONS   CONSOLIDATED
+                                                  --------------   ------------
+                                                       (IN THOUSANDS)
+<S>                                             <C>                <C>
+                 ASSETS
+CURRENT ASSETS:
+    Cash and cash equivalents...............       $         -      $    97,480
+    Receivables, net of allowance...........                 -          811,633
+    Inventories.............................                 -          127,837
+    Drilling advances and others............                 -          120,914
+                                                   -----------      -----------
+                                                             -        1,157,864
+                                                   -----------      -----------
+PROPERTY AND EQUIPMENT, NET.................                 -       11,815,438
+                                                   -----------      -----------
+OTHER ASSETS:
+    Intercompany receivable, net............                 -                -
+    Goodwill, net...........................                 -          189,252
+    Equity in affiliates....................        (4,638,065)              -
+    Deferred charges and other..............                 -           87,397
+                                                   -----------      -----------
+                                                   $(4,638,065)     $13,249,951
+                                                   ===========      ===========
+     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+    Accounts payable........................       $         -      $   414,979
+    Other accrued expenses..................                 -          560,620
+                                                   -----------      -----------
+                                                             -          975,599
+                                                   -----------      -----------
+LONG-TERM DEBT..............................                 -        2,192,070
+                                                   -----------      -----------
+DEFERRED CREDITS AND OTHER
+  NONCURRENT LIABILITIES:
+    Income taxes............................                 -        1,786,314
+    Advances from gas purchasers............                 -          100,135
+    Asset retirement obligation.............                 -          759,617
+    Oil and gas derivative instruments......                 -            1,233
+    Other...................................                 -          160,794
+                                                   -----------      -----------
+                                                             -        2,808,093
+                                                   -----------      -----------
+COMMITMENTS AND CONTINGENCIES
+
+SHAREHOLDERS' EQUITY........................        (4,638,065)       7,274,189
+                                                   -----------      -----------
+                                                   $(4,638,065)     $13,249,951
+                                                   ===========      ===========
+</TABLE>
+
+                                       21
+
+<PAGE>
+
+                       APACHE CORPORATION AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATING BALANCE SHEET
+                             AS OF DECEMBER 31, 2003
+
+<TABLE>
+<CAPTION>
+                                                                                                                ALL OTHER
+                                                                                    APACHE                    SUBSIDIARIES
+                                                     APACHE       APACHE           FINANCE        APACHE        OF APACHE
+                                                  CORPORATION  NORTH AMERICA      AUSTRALIA   FINANCE CANADA   CORPORATION
+                                                  -----------  -------------      ---------   --------------   -----------
+                                                                                           (IN THOUSANDS)
+<S>                                               <C>          <C>                <C>         <C>             <C>
+                   ASSETS
+CURRENT ASSETS:
+    Cash and cash equivalents.................     $       -     $      -          $      2     $        1     $    33,500
+    Receivables, net of allowance.............        204,078           -                 -              -         434,977
+    Inventories...............................         17,646           -                 -              -         108,221
+    Drilling advances and other...............         60,159           -                 -              -          40,488
+                                                   ----------    --------          --------     ----------     -----------
+                                                      281,883           -                 2              1         617,186
+                                                   ----------    --------          --------     ----------     -----------
+PROPERTY AND EQUIPMENT, NET...................      5,235,717           -                 -              -       6,024,368
+                                                   ----------    --------          --------     ----------     -----------
+OTHER ASSETS:
+    Intercompany receivable, net..............      1,291,503           -            (1,961)        93,768      (1,383,310)
+    Goodwill, net.............................              -           -                 -              -         189,252
+    Equity in affiliates......................      3,077,152     183,617           437,860      1,084,711        (803,409)
+    Deferred charges and other................         36,672           -                 -          4,767          26,278
+                                                   ----------    --------          --------     ----------     -----------
+                                                   $9,922,927    $183,617          $435,901     $1,183,247     $ 4,670,365
+                                                   ==========    ========          ========     ==========     ===========
+     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+    Accounts payable..........................     $  189,031    $      -          $      -     $        -     $   111,567
+    Other accrued expenses....................        238,555           -             1,621          1,803         277,801
+                                                   ----------    --------          --------     ----------     -----------
+                                                      427,586           -             1,621          1,803         389,368
+                                                   ----------    --------          --------     ----------     -----------
+LONG-TERM DEBT................................      1,405,882           -           268,987        646,741           5,356
+                                                   ----------    --------          --------     ----------     -----------
+DEFERRED CREDITS AND OTHER
+  NONCURRENT LIABILITIES:
+    Income taxes..............................        879,044           -           (18,324)          (842)        837,360
+    Advances from gas purchasers..............        109,207           -                 -              -               -
+    Asset retirement obligation...............        401,349           -                 -              -         338,426
+    Oil and gas derivative instruments........          5,931           -                 -              -               -
+    Other.....................................        161,130           -                 -              -          22,703
+                                                   ----------    --------          --------     ----------     -----------
+                                                    1,556,661           -           (18,324)          (842)      1,198,489
+                                                   ----------    --------          --------     ----------     -----------
+COMMITMENTS AND CONTINGENCIES
+
+SHAREHOLDERS' EQUITY..........................      6,532,798     183,617           183,617        535,545       3,077,152
+                                                   ----------    --------          --------     ----------     -----------
+                                                   $9,922,927    $183,617          $435,901     $1,183,247     $ 4,670,365
+                                                   ==========    ========          ========     ==========     ===========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                 RECLASSIFICATIONS
+                                                   & ELIMINATIONS          CONSOLIDATED
+                                                   --------------          ------------
+                                                               (IN THOUSANDS)
+<S>                                              <C>                       <C>
+                   ASSETS
+CURRENT ASSETS:
+    Cash and cash equivalents.................      $         -            $     33,503
+    Receivables, net of allowance.............                -                 639,055
+    Inventories...............................                -                 125,867
+    Drilling advances and other...............                -                 100,647
+                                                    -----------            ------------
+                                                              -                 899,072
+                                                    -----------            ------------
+PROPERTY AND EQUIPMENT, NET...................                -              11,260,085
+                                                    -----------            ------------
+OTHER ASSETS:
+    Intercompany receivable, net..............                -                       -
+    Goodwill, net.............................                -                 189,252
+    Equity in affiliates......................       (3,979,931)                      -
+    Deferred charges and other................                -                  67,717
+                                                    -----------            ------------
+                                                    $(3,979,931)           $ 12,416,126
+                                                    ===========            ============
+     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+    Accounts payable..........................      $         -            $    300,598
+    Other accrued expenses....................                -                 519,780
+                                                    -----------            ------------
+                                                              -                 820,378
+                                                    -----------            ------------
+LONG-TERM DEBT................................                -               2,326,966
+                                                    -----------            ------------
+DEFERRED CREDITS AND OTHER
+  NONCURRENT LIABILITIES:
+    Income taxes..............................                -               1,697,238
+    Advances from gas purchasers..............                -                 109,207
+    Asset retirement obligation...............                -                 739,775
+    Oil and gas derivative instruments........                -                   5,931
+    Other.....................................                -                 183,833
+                                                    -----------            ------------
+                                                              -               2,735,984
+                                                    -----------            ------------
+
+COMMITMENTS AND CONTINGENCIES
+
+SHAREHOLDERS' EQUITY..........................       (3,979,931)              6,532,798
+                                                    -----------            ------------
+                                                    $(3,979,931)           $ 12,416,126
+                                                    ===========            ============
+</TABLE>
+
+                                       22
+
+<PAGE>
+
+ITEM 2 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+OVERVIEW
+
+         Apache Corporation (Apache or the Company) reported record
+second-quarter 2004 earnings of $372 million despite a pre-tax charge of $71
+million for China litigation (see Note 11) and $22 million of expenses
+associated with attainment of the first share price goal under the 2000 Share
+Appreciation Plan (see Note 6). Second-quarter 2004 earnings were 53 percent
+higher than the comparable 2003 quarter. The Company also reported record
+earnings of $719 million for the first half of 2004, 24 percent higher than the
+comparative 2003 period. Net cash provided by operating activities totaled $1.3
+billion for the six-month period compared to $1.2 billion in the prior-year
+period. The improved results were driven by strong crude oil prices, higher
+crude oil production, higher gas production and a lower effective income tax
+rate.
+
+         Production from outside the U.S. increased four percent from the 2003
+quarter to 58 percent of worldwide production. Our second-quarter 2004
+production mix remained balanced at a 47/53 percent natural gas to liquids,
+compared to 48/52 percent in 2003. The change in production mix reflects the
+impact of the pure oil plays in the North Sea and China. Natural gas production
+of 1,251 MMcf/d was essentially flat to the second-quarter of 2003, while crude
+oil production increased six percent to 224,602 b/d.
+
+         Our 2004 worldwide capital expenditures exceeded $500 million for the
+second consecutive quarter with two-thirds dedicated to our North American
+regions, consistent with the first quarter. Five notable discovery and appraisal
+wells since the end of the first quarter 2004 are discussed below:
+
+         -        On May 19, 2004, we announced the Stickle-1 well, our third
+                  wildcat discovery in the Exmouth Sub-Basin of the Carnarvon
+                  Basin offshore Western Australia. Additional exploration and
+                  appraisal wells are planned this year.
+
+         -        On May 20, 2004, the Sheiba 18-3 discovery was announced. It
+                  is the first commercial oil discovery in the eastern part of
+                  the Shell-operated North East Abu Gharadig concession in
+                  Egypt's Western Desert. A proposal for further exploration of
+                  this area has been reviewed and supported by the state-owned
+                  Egyptian General Petroleum Corporation (EGPC).
+
+         -        On June 23, 2004, we announced that the Ozoris-4 well
+                  discovered new field pays in the Ozoris/Qasr area of the
+                  Khalda concession, opening up large new plays in the Shushan
+                  Basin. Additionally, this discovery confirmed the
+                  seismically-defined northeastern limits of the Qasr field.
+                  Appraisal drilling of the deeper sands will be undertaken
+                  after producing oil encountered in several shallower
+                  reservoirs.
+
+         -        On July 1, 2004, we announced that the Qasr-5 appraisal well
+                  successfully extended the Qasr field to the southwest, further
+                  confirming the overall seismically-defined structure of the
+                  field. This is our third successful appraisal well in what is
+                  certainly the largest natural gas discovery in Apache's
+                  history. Additional appraisal wells will be drilled later this
+                  year.
+
+         -        On July 13, 2004, we announced that the Ravensworth-2
+                  appraisal well in the Exmouth Basin encountered an oil column
+                  49 feet higher than we expected, thereby extending the area of
+                  the field considerably farther north than we had mapped based
+                  on the Ravensworth-1 discovery well.
+
+         On April 22, 2004, we announced completion of a 25-year Gas Sales
+Agreement with EGPC covering natural gas from the Qasr field. Principle terms
+include supplying 300 MMcf of gas per day to the Egyptian market. The pricing
+terms under the agreement set a minimum price of $1.50 per million British
+thermal units (MMBtu) and a maximum price of $2.65 per MMBtu. Field development,
+final engineering design and tendering operations are underway to allow us to
+reach the full contracted quantity during 2005.
+
+                                       23
+
+<PAGE>
+
+         On May 24, 2004, Apache signed a letter of intent with ExxonMobil to
+explore and develop properties in West Texas, Western Canada, Louisiana and the
+Gulf of Mexico. The program will capitalize on the respective strengths and
+assets of both companies in these areas. The agreement provides for transfers
+and joint venture activity across a broad range of prospective and mature
+properties. Apache's participation will include an estimated cash payment of
+$385 million as of the effective date. The parties are negotiating definitive
+agreements, based on the letter of intent which included the following:
+
+         -        ExxonMobil will transfer its interest in 28 mature producing
+                  oil and gas fields in West Texas and New Mexico, retaining a
+                  revenue interest indexed to oil price through 2009 and a 50
+                  percent working interest in all properties beneath the
+                  currently producing intervals.
+
+         -        ExxonMobil Canada will farm out its interest in approximately
+                  300,000 acres of undeveloped property interests in the Western
+                  Canada Province of Alberta to Apache Canada Ltd. ExxonMobil
+                  Canada will retain a 37.5 percent lessor royalty interest in
+                  fee lands and a 35 percent working interest on ExxonMobil
+                  leaseholds as to any production resulting from the drilling
+                  program to be undertaken by Apache, currently targeted to
+                  include at least 250 wells.
+
+         -        The companies will explore jointly for deep gas on
+                  approximately 800,000 acres of Apache onshore Louisiana and
+                  Gulf of Mexico properties for an initial five-year period,
+                  with provisions for extension.
+
+         In July 2004, the Company signed an amendment agreement with EGPC
+which, among other things, extended the life of the Khalda, Khalda West and
+Salam development leases through 2024. These development leases would have
+expired in 2011, 2012 and 2010, respectively. We also received a five-year
+extension on our Khalda Offset exploration acreage, with an option for an
+additional 3-year extension. As part of this agreement and in conjunction with
+the Qasr 25-year Gas Sales Agreement previously discussed, we agreed to re-price
+natural gas volume in excess of 100 MMcf/d produced from the Khalda Concession
+development leases. Under the new pricing formula, Apache will receive a minimum
+price of $1.50 per MMbtu and a maximum price of $2.65 per MMbtu. The overall
+effect of the new price terms will have a minimal effect on financial results.
+
+         As discussed in Note 6 of this Form 10-Q, on April 28, 2004, Apache's
+share price exceeded the first threshold for the 10-day requirement under its
+2000 Share Appreciation Plan. As such, the Company will issue approximately
+900,000 shares of its common stock, after minimum tax withholding requirements,
+in three equal installments. The first installment was issued in May 2004. The
+second and third installments will be issued in 2005 and 2006 to employees
+remaining with the Company during that period. The incentives will reduce
+Apache's 2004 net income by approximately $16 million after tax or five cents
+per diluted common share.
+
+         The balance of the year appears favorable considering that current
+NYMEX futures markets indicate that crude oil and natural gas prices should
+equal or exceed the average NYMEX prices in the first half of 2004. We believe
+our earnings and cash flow will remain strong and we expect a solid balance
+sheet, as evidenced by our 23.2 percent debt-to-capitalization ratio and
+increasing cash reserve.
+
+                                       24
+<PAGE>
+
+RESULTS OF OPERATIONS
+
+Revenues
+
+         The following table presents each segment's oil revenues and gas
+revenues as a percentage of total oil revenues and gas revenues, respectively.
+
+<TABLE>
+<CAPTION>
+                     FOR THE QUARTER ENDED JUNE 30,        FOR THE SIX MONTHS ENDED JUNE 30,
+                   ----------------------------------      ----------------------------------
+                    OIL REVENUES        GAS REVENUES        OIL REVENUES        GAS REVENUES
+                   --------------      --------------      --------------      --------------
+                   2004      2003      2004      2003      2004      2003      2004      2003
+                   ----      ----      ----      ----      ----      ----      ----      ----
+<S>                <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>
+United States..     34%       35%       58%       63%       34%       35%       59%       61%
+Canada ........     13%       13%       28%       27%       13%       14%       28%       28%
+                   ---       ---       ---       ---       ---       ---       ---       ---
+North America..     47%       48%       86%       90%       47%       49%       87%       89%
+
+Egypt .........     25%       21%       11%        7%       24%       25%       10%        9%
+Australia .....     12%       16%        3%        3%       12%       18%        3%        2%
+North Sea .....     14%       15%        -         -        14%        8%        -         -
+China .........      2%        -         -         -         3%        -         -         -
+                   ---       ---       ---       ---       ---       ---       ---       ---
+        Total..    100%      100%      100%      100%      100%      100%      100%      100%
+                   ===       ===       ===       ===       ===       ===       ===       ===
+</TABLE>
+
+         Crude Oil Contribution
+
+         The only appreciable changes in the geographic mix of our
+second-quarter 2004 crude oil revenues compared to 2003 occurred in areas
+outside of North America. Revenue contributions from North America remained
+relatively constant quarter-to-quarter. China, which did not contribute any
+second-quarter 2003 revenues, contributed two percent of second-quarter 2004
+crude oil revenues. Australia's overall contribution declined four percent as
+quarter-over-quarter revenues were relatively flat, while revenues rose in most
+other areas. While Australia saw higher crude oil prices, the benefit was offset
+by lower production. Egypt saw both higher prices and production growth pushing
+their contribution to 25 percent of consolidated crude oil revenues, four
+percent above the 2003 quarter.
+
+         Contributions for the six-month period were similar to quarter
+contributions with the most significant change involving the North Sea and
+Australia. The North Sea contributions increased six percent to 14 percent while
+Australia's fell six percent to 12 percent on 2004 revenues. Australia's overall
+contribution declined six percent for the reasons discussed above and because of
+the contributions from the North Sea and China. The two percent decline in North
+America's contribution to consolidated crude oil revenues is related to the
+addition of the North Sea and China.
+
+         Natural Gas Contribution
+
+         The North American regions continue to contribute the vast majority of
+our natural gas revenues. However, Egypt's contribution to second-quarter
+revenues increased four percent to 11 percent of consolidated natural gas
+revenues. Egypt's gain was at the expense of the U.S. This shift occurred
+because U.S. second-quarter 2004 natural gas revenues declined three percent
+compared to the 2003 quarter, while Egypt's revenues surged 50 percent. Egypt
+saw a 24 percent improvement in realized natural gas price and a 21 percent
+rise in production. New discoveries enabled higher utilization rates at the
+Salam and Tarek gas plants. The U.S. revenues were down on lower production.
+
+         Segment contributions to revenue for the six-month period were similar,
+although the period-over-period change was not as dramatic.
+
+                                       25
+<PAGE>
+
+         The table below presents oil and gas production revenues, production
+and average prices received from sales of natural gas, oil and natural gas
+liquids.
+
+<TABLE>
+<CAPTION>
+                                           FOR THE QUARTER ENDED JUNE 30,          FOR THE SIX MONTHS ENDED JUNE 30,
+                                       ---------------------------------------  ----------------------------------------
+                                                                     INCREASE                                  INCREASE
+                                         2004          2003         (DECREASE)     2004         2003          (DECREASE)
+                                       ----------   ----------      ----------  ----------   ----------       ----------
+<S>                                    <C>          <C>             <C>         <C>          <C>              <C>
+Revenues (in thousands):
+    Natural gas ....................   $  550,509   $  523,478            5%    $1,077,363   $1,043,838            3%
+    Oil ............................      675,654      504,468           34%     1,278,289      942,811           36%
+    Natural gas liquids ............       21,249       16,384           30%        44,514       32,843           36%
+                                       ----------   ----------                  ----------   ----------
+           Total ...................    1,247,412   $1,044,330           19%    $2,400,166   $2,019,492           19%
+                                       ==========   ==========                  ==========   ==========
+
+Natural Gas Volume - Mcf per day:
+    United States ..................      665,167      702,109           (5%)      654,815      627,858            4%
+    Canada .........................      327,537      317,079            3%       320,800      313,164            2%
+    Egypt ..........................      137,329      113,169           21%       132,997      118,415           12%
+    Australia ......................      115,824      106,698            9%       117,323      103,941           13%
+    North Sea ......................        1,661        2,103          (21%)        1,631        1,057           54%
+    Argentina ......................        3,334        7,741          (57%)        4,247        7,267          (42%)
+                                       ----------   ----------                  ----------   ----------
+           Total ...................    1,250,852    1,248,899            -      1,231,813    1,171,702            5%
+                                       ==========   ==========                  ==========   ==========
+
+Average Natural Gas price - Per Mcf:
+    United States ..................   $     5.31   $     5.19            2%    $     5.33   $     5.64           (6%)
+    Canada .........................         5.11         4.81            6%          5.10         5.08            -
+    Egypt ..........................         4.66         3.77           24%          4.39         4.15            6%
+    Australia ......................         1.65         1.40           18%          1.67         1.35           24%
+    North Sea ......................         5.05         2.08          143%          4.70         2.08          126%
+    Argentina ......................          .67          .50           34%           .55          .46           20%
+           Total ...................         4.84         4.61            5%          4.81         4.92           (2%)
+
+Oil Volume - Barrels per day:
+    United States ..................       69,080       72,477           (5%)       68,167       64,947            5%
+    Canada .........................       26,226       24,890            5%        25,746       24,813            4%
+    Egypt ..........................       53,410       47,687           12%        51,254       46,704           10%
+    Australia ......................       22,200       32,673          (32%)       22,928       31,562          (27%)
+    North Sea ......................       47,179       33,387           41%        45,739       16,786          173%
+    China ..........................        5,966            -            -          6,703            -            -
+    Argentina ......................          541          587           (8%)          547          592           (8%)
+                                       ----------   ----------                  ----------   ----------
+           Total ...................      224,602      211,701            6%       221,084      185,404           19%
+                                       ==========   ==========                  ==========   ==========
+
+Average Oil price - Per barrel:
+    United States ..................   $    37.00   $    26.90           38%    $    34.71   $    27.81           25%
+    Canada .........................        35.91        27.80           29%         34.48        29.92           15%
+    Egypt ..........................        34.24        24.45           40%         32.85        27.37           20%
+    Australia ......................        39.03        26.61           47%         36.88        29.67           24%
+    North Sea ......................        21.70        25.50          (15%)        22.19        25.50          (13%)
+    China ..........................        31.73            -            -          30.84            -            -
+    Argentina ......................        35.10        27.02           30%         34.26        29.49           16%
+           Total ...................        33.06        26.19           26%         31.77        28.09           13%
+
+Natural Gas Liquids (NGL)
+    Volume - Barrels per day:
+        United States ..............        7,585        7,448            2%         7,856        6,769           16%
+        Canada .....................        2,601        1,894           37%         2,600        1,652           57%
+                                       ----------   ----------                  ----------   ----------
+           Total ...................       10,186        9,342            9%        10,456        8,421           24%
+                                       ==========   ==========                  ==========   ==========
+
+Average NGL Price - Per barrel:
+        United States ..............   $    22.48   $    20.24           11%    $    23.92   $    22.07            8%
+        Canada .....................        24.23        15.46           57%         21.78        19.39           12%
+           Total ...................        22.92        19.27           19%         23.39        21.55            9%
+</TABLE>
+
+                                       26
+<PAGE>
+
+        Natural Gas Revenues
+
+        The Company's second-quarter 2004 natural gas revenues were $27 million
+higher than the comparable 2003 quarter. Virtually all of the improvement was
+related to higher natural gas prices, which improved $.23 per Mcf over the
+prior-year quarter. Consolidated natural gas production increased slightly over
+the 2003 period, adding nominal revenues. Production in U.S. declined 37 MMcf/d,
+primarily because of natural decline in mature fields, particularly in the Gulf
+of Mexico. Egypt's production was up 24 MMcf/d as the Salam and Tarek gas plants
+began operating close to full capacity, following completion of new wells on
+several concessions. Canada's production increased 10 MMcf/d with production
+from new wells offsetting natural decline in mature fields. Australia saw a 9
+MMcf/d increase on higher customer demand and new contractual sales.
+
+        Apache uses a variety of strategies to manage its exposure to
+fluctuations in natural gas prices, including fixed-price physical contracts and
+derivatives. Approximately nine percent of our second-quarter 2004 domestic
+natural gas production was subject to long-term fixed-price physical contracts,
+up from eight percent in the second quarter of 2003. We also amortized small
+amounts of unrealized gains and losses on derivative positions closed in October
+and November 2001. The impact on our realized price was negligible in 2004 and
+2003. The following table shows the impact on average prices for these items:
+
+<TABLE>
+<CAPTION>
+                                  FOR THE QUARTER ENDED             FOR THE SIX MONTHS ENDED
+                                        JUNE 30,                            JUNE 30,
+                                 -----------------------            ------------------------
+                                 2004               2003              2004              2003
+                                 -----             -----             -----             -----
+                                                          (Per Mcf)
+<S>                              <C>               <C>               <C>               <C>
+Fixed-price physical..           $(.10)            $(.08)            $(.09)            $(.12)
+Derivatives ..........            (.20)             (.02)             (.13)             (.09)
+Amortization .........               -              (.01)                -              (.01)
+</TABLE>
+
+         Crude Oil Revenues
+
+         The Company added $171 million to second-quarter 2004 crude oil
+revenues on a $6.87 per barrel improvement in realized crude oil price and a
+12,901 b/d rise in production. The higher realized price contributed almost 80
+percent of the additional revenues. The increase in production came from the
+North Sea, China and Egypt. The North Sea's production is up 13,792 b/d,
+reflecting additional production from new wells and operational enhancements
+since the second quarter of 2003. A portion of the revenue from the North Sea is
+tied to a separate crude oil physical sales contract entered into in conjunction
+with the acquisition. See Note 2 of this Form 10-Q for a discussion of the terms
+of this contract. Production in China, which commenced in July 2003, added 5,966
+b/d. Egypt's production is up 5,723 b/d on exploration and development activity.
+Partially offsetting these production gains were a 10,473 b/d decline in
+Australia and a 3,397 b/d decline in the U.S. Australia's decline is related to
+natural declines in new wells and performance at Legendre field. The U.S.
+decline is attributed to natural decline in our Gulf Coast region production.
+
+         Apache also manages its exposure to fluctuations in crude oil prices
+using derivatives. We continue to amortize the unrealized gains and losses over
+the original production life of derivative positions closed in October and
+November 2001. The following table shows the impact on prices of each of these
+items:
+
+<TABLE>
+<CAPTION>
+                       FOR THE QUARTER ENDED     FOR THE SIX MONTHS ENDED
+                             JUNE 30,                   JUNE 30,
+                       ---------------------     ------------------------
+                        2004          2003          2004         2003
+                        ----         ------        ------       -------
+                                           (Per bbl)
+<S>                     <C>          <C>           <C>          <C>
+Derivatives.........    $  -         $ (.54)       $ (.29)      $ (1.00)
+Amortization........       -            .02             -           .03
+</TABLE>
+
+                                       27
+<PAGE>
+
+Operating Expenses
+
+         The table below presents a comparison of our expenses on an absolute
+dollar basis and an equivalent unit of production (boe) basis. Our discussion
+may reference either expenses on a boe basis or expenses on an absolute dollar
+basis, or both, depending on their relevance. To maintain comparability between
+the periods, we elected to disclose separately expenses related to the 2000
+Share Appreciation Plan and the reserve for the China litigation.
+
+<TABLE>
+<CAPTION>
+                                                     FOR THE QUARTER ENDED JUNE 30,    FOR THE SIX MONTHS ENDED JUNE 30,
+                                                   ---------------------------------   ---------------------------------
+                                                    2004     2003     2004     2003     2004     2003     2004     2003
+                                                   ------   ------   ------   ------   ------   ------   ------   ------
+                                                    (In millions)        (Per Boe)      (In millions)       (Per Boe)
+<S>                                                <C>      <C>      <C>      <C>      <C>      <C>      <C>      <C>
+Depreciation, depletion and amortization
+ (DD&A):
+    Oil and gas property and equipment .........   $  278   $  255   $ 6.88   $ 6.53   $  546   $  453   $ 6.87   $ 6.43
+    Other assets ...............................       18       17      .45      .44       36       34      .45      .48
+Asset retirement obligation accretion ..........       11       10      .27      .27       22       16      .27      .22
+Lease operating costs (LOE) ....................      197      186     4.89     4.77      403      320     5.07     4.55
+Share appreciation plan - LOE ..................       11        -      .27        -       11        -      .14        -
+Gathering and transportation costs .............       20       15      .50      .39       40       27      .50      .38
+Severance and other taxes ......................       22       33      .54      .84       30       57      .38      .81
+General and administrative expense (G&A) .......       36       31      .90      .78       80       58     1.01      .83
+Share appreciation plan - G&A ..................       11        -      .28        -       11        -      .14        -
+China litigation ...............................       71        -     1.77        -       71        -      .90        -
+Financing costs, net ...........................       28       29      .68      .74       55       55      .69      .78
+                                                   ------   ------   ------   ------   ------   ------   ------   ------
+        Total ..................................   $  703   $  576   $17.43   $14.76   $1,305   $1,020   $16.42   $14.48
+                                                   ======   ======   ======   ======   ======   ======   ======   ======
+</TABLE>
+
+         Depreciation, Depletion and Amortization
+
+         Apache's full-cost DD&A expense is driven by many factors including
+certain costs incurred in the exploration, development, and acquisition of
+producing reserves, production levels, estimates of proved reserve quantities
+and future development and abandonment costs.
+
+         Second-quarter 2004 full-cost DD&A expense of $278 million is $23
+million higher than 2003, with 40 percent ($9 million) of the increase
+attributable to volume growth. The 2004 expense is mainly comprised of the U.S.,
+$133 million; Canada, $45 million; Egypt, $39 million; Australia, $26 million;
+the North Sea, $28 million and China, $7 million. Second-quarter 2003 full-cost
+DD&A expense of $255 million is mainly comprised of the U.S., $126 million;
+Canada, $37 million; Egypt, $42 million; Australia, $28 million and the North
+Sea, $22 million.
+
+         On a boe basis, our second-quarter 2004 full-cost DD&A rate of $6.88 is
+$.35 higher than the second-quarter 2003 rate. The rate increase is incremental
+over sequential quarters and only increased $.03 from the first quarter of 2004.
+The U.S. added $.30 to the rate on higher finding and future development costs.
+Canada added $.15 to the rate on higher finding costs. China, which had higher
+finding and development costs than other regions, added $.09 to the rate since
+initial production in the third quarter of 2003. Australia added $.08 to the
+rate. Egypt and the North Sea's rates reduced the worldwide rate $.23 and $.06,
+respectively, as both regions added lower cost reserves.
+
+         Lease Operating Costs
+
+         While second-quarter 2004 lease operating costs were $11 million higher
+than the second quarter of 2003, they were $9 million less than the first
+quarter of 2004. Over 70 percent of the increase from 2003 related to the Shell
+acquisition and initial production in China, both of which were third-quarter
+2003 events. On a unit of production basis, second-quarter 2004 costs were up
+$.12 from 2003 to $4.89 per boe.
+
+         Geographically, second-quarter costs in the U.S. were up $10 million.
+On a unit of production basis, the U.S. added $.36 per boe to the consolidated
+rate. Approximately one-third of the rate increase in the U.S. is related to
+lower production, with the balance attributed to higher workover activity and
+various miscellaneous costs. Australia, where absolute costs were up marginally,
+added $.11 per boe on lower production. Canada's costs were up $5 million on
+contract labor, lease rentals and other miscellaneous costs associated with
+increase in activity and a higher well count. Canada added $.09 per boe to the
+consolidated rate. Egypt reduced the consolidated rate $.11 per boe on higher
+production. The North Sea reduced the consolidated rate $.33 per boe on lower
+costs and a 41 percent increase in production. The North Sea had less workover
+activity, less turnaround expense and lower repair cost in the second quarter of
+2004, compared to 2003.
+
+                                       28
+<PAGE>
+
+         Lease operating costs for the 2004 six-month period were $83 million
+higher than 2003, $72 million of which occurred in the first quarter of 2004,
+when comparability between the periods was affected by our April 2003 entrance
+into the North Sea, initial production in China which occurred in July 2003, and
+the 2003 BP and Shell acquisitions in the U.S. Our year-to-date rate of $5.07
+per boe is $.52 higher than 2003. Approximately 44 percent or $.23 per boe of
+the increase is attributable to our U.S. operations for the reasons discussed
+above, higher repair and maintenance cost, and additional incentive compensation
+recorded in the first quarter of 2004. Australia added $.09 per boe to the
+consolidated rate on flat cost and lower production. Canada added $.10 per boe
+for the reasons discussed above and the weaker first-quarter U.S.-to-Canadian
+dollar exchange rate. The North Sea added $.06, a combination of its initial
+impact on the consolidated rate and the improvement in the second quarter noted
+above. Egypt added $.03 because of the loss of a diesel fuel subsidy in the
+third quarter of 2003 and higher variable cost (consumables, trucking, chemicals
+and transportation) associated with production from newer concessions.
+
+Share Appreciation Plan - Lease Operating Costs
+
+         These costs represent the portion of the 2000 Share Appreciation Plan
+expenses (see Note 6) attributed to personnel involved in lease operating
+activities.
+
+Gathering and Transportation Costs
+
+         Apache sells oil and natural gas under two types of transactions, both
+of which include a transportation charge. One is a netback arrangement, under
+which Apache sells oil or natural gas at the wellhead and collects a price, net
+of transportation incurred by the purchaser. Under the other arrangement, Apache
+sells oil or natural gas at a specific delivery point, pays transportation to a
+third-party carrier and receives from the purchaser a price with no deduction
+for transportation cost. In the U.S. and Canada, Apache sells oil and natural
+gas under both types of arrangements. In the North Sea and China, Apache pays
+transportation to third parties and receives payments with no transportation
+deduction. In our North American operations these costs are primarily related to
+the transportation of natural gas. In the North Sea these costs are related to
+transportation of oil. In Egypt and Australia, oil and natural gas are sold
+under the netback arrangement. Gathering and transportation costs paid to
+third-party carriers and disclosed here vary based on the volume and distance
+shipped, and the fee charged by the transporter, which may be price sensitive.
+
+         These costs totaled $20 million in the second quarter of 2004, up $5
+million from the 2003 comparative quarter. For the 2004 six-month period, these
+costs totaled $40 million compared to $27 million in 2003. The table below
+presents a comparison of these expenses.
+
+<TABLE>
+<CAPTION>
+                                       FOR THE QUARTER ENDED JUNE 30,      FOR THE SIX MONTHS ENDED JUNE 30,
+                                       ------------------------------      ---------------------------------
+                                            2004           2003                  2004           2003
+                                            ----           ----                  ----           ----
+                                                                 (In millions)
+<S>                                         <C>            <C>                   <C>            <C>
+U.S. .............................          $ 7.8          $ 4.6                 $15.2          $ 9.6
+Canada ...........................            7.4            7.2                  14.7           14.1
+North Sea ........................            4.9            3.3                   9.7            3.3
+China ............................             .1              -                    .2              -
+                                            -----          -----                 -----          -----
+Total Gathering and Transportation          $20.2          $15.1                 $39.8          $27.0
+                                            =====          =====                 =====          =====
+</TABLE>
+
+         The higher cost in the U.S. is related to an increase in volumes
+transported under third - party transportation contracts and sold at specific
+delivery points in 2004, compared to the prior-year periods. Transportation cost
+in the North Sea increase in conjunction with higher production.
+
+         Severance and Other Taxes
+
+         Severance and other taxes are comprised primarily of severance taxes on
+properties onshore and in state or provincial waters in the U.S. and Australia,
+the Australian Petroleum Resource Rent Tax (PRRT), the U.K. Petroleum Revenue
+Tax (PRT), the Canadian Large Corporation Tax, Saskatchewan Capital Tax,
+Saskatchewan Resource Surtax and Freehold Mineral Tax. Egyptian operations are
+not subject to these various taxes. During the second quarter of 2004,
+production from our Legendre field in Australia crossed a cumulative production
+threshold, triggering an excise tax of approximately $3 million.
+
+                                       29
+<PAGE>
+
+         Second-quarter and year-to-date 2004 severance and other taxes totaled
+$22 million and $31 million, respectively, $11 million and $27 million, less
+than the prior year periods. A detail of these taxes follows:
+
+<TABLE>
+<CAPTION>
+                                         FOR THE QUARTER ENDED JUNE 30,     FOR THE SIX MONTHS ENDED JUNE 30,
+                                         ------------------------------     ---------------------------------
+                                            2004               2003             2004                2003
+                                            ----               ----             ----                ----
+                                                                    (In millions)
+<S>                                        <C>                 <C>              <C>                 <C>
+Severance taxes ...............            $ 26.1              $19.5            $ 45.4              $40.5
+U.K. PRT ......................             (12.4)               5.6             (29.1)               5.6
+Canadian taxes ................               4.8                4.8               9.9                7.9
+Other .........................               3.1                2.8               4.3                3.3
+                                            -----              -----             -----              -----
+Total Severance and Other Taxes            $ 21.6              $32.7             $ 30.5             $57.3
+                                            =====              =====             =====              =====
+</TABLE>
+
+         Virtually all of the increase in second-quarter 2004 severance taxes is
+related to higher severance taxes in Australia. The U.K.'s PRT tax benefits
+reflect the impact from higher capital spending, compared to the prior year
+periods.
+
+         General and Administrative Expense
+
+         Second-quarter G&A costs of $36 million were $6 million above the 2003
+comparable quarter. Approximately half of the additional expense is related to
+the impact on compensation programs related to the rising price of Apache's
+common stock, and 2004 incentive compensation expense. The impact from the
+higher stock price stems from Apache's decision, effective January 1, 2003, to
+expense stock-based compensation plans. The balance is related to the Company's
+decision to increase charitable contributions and its North Sea operations.
+
+         For the six-month period, G&A expenses of $80 million were $22 million
+above the 2003 period. As noted above, the stock-based compensation plans and
+incentive compensation plans accounted for over half of the increase. The
+compensation expenses included incremental 2003 incentive compensation paid in
+2004, as noted in the first quarter. The balance is related to our North Sea
+operations, charitable contributions, expansion of our gas marketing group and
+higher comparative legal costs.
+
+         Share Appreciation Plan - General and Administrative
+
+         These costs represent the portion of the 2000 Share Appreciation Plan
+expenses (see Note 6) attributed to personnel involved in general corporate
+activities.
+
+         China Litigation
+
+         Apache recorded a reserve in the second quarter of 2004 to fully
+reflect a $71 million international arbitration award to Texaco China B.V.
+(Texaco China). In September 2001, Texaco China initiated an arbitration
+proceeding against Apache China Corporation LDC (Apache China), later adding
+Apache Bohai to the arbitration. In the arbitration Texaco China claimed
+damages, plus interest, arising from Apache Bohai's alleged failure to drill
+three wells, prior to re-assignment of the interest to Texaco China. Apache
+believes that the finding of the arbitrator is unsupported by the facts and the
+law, and Apache expects to pursue an appeal of the award in federal court.
+
+         Provision for Income Taxes
+
+         Second-quarter 2004 income tax expense was $65 million less than the
+2003 quarter, on a lower effective tax rate. The current quarter benefited from
+a reduction in Canadian federal statutory rates in the fourth quarter of 2003, a
+reduction in Alberta Canada's provincial statutory income tax rate in the second
+quarter of 2004 and the impact on Australia's deferred tax expense from a
+stronger U.S. dollar. Also, Canada's 2003 second-quarter deferred income tax
+expense was impacted by a weaker U.S. dollar, while the 2004 quarter benefited
+from a strengthened U.S. dollar. For the six-month period, 2004 income tax
+expense was $74 million less than the 2003 period for the reasons previously
+discussed.
+
+                                       30
+<PAGE>
+
+OIL AND GAS CAPITAL EXPENDITURES
+
+<TABLE>
+<CAPTION>
+                                                                    FOR THE SIX MONTHS ENDED JUNE 30,
+                                                                    ---------------------------------
+                                                                       2004                 2003
+                                                                    -----------          -----------
+                                                                             (In thousands)
+<S>                                                                 <C>                  <C>
+Exploration and development:
+      United States .......................................         $   378,147          $   198,294
+      Canada ..............................................             339,663              300,209
+      Egypt ...............................................             140,183              123,843
+      Australia ...........................................              65,876               46,396
+      North Sea ...........................................             132,636               12,577
+      China ...............................................               4,333               14,563
+      Other International .................................                 669                  653
+                                                                    -----------          -----------
+                                                                    $ 1,061,507          $   696,535
+                                                                    ===========          ===========
+Capitalized Interest ......................................         $    26,358          $    23,850
+                                                                    ===========          ===========
+Gas gathering, transmission and processing facilities .....         $    40,363          $     6,528
+                                                                    ===========          ===========
+Acquisitions:
+      Oil and gas properties ..............................         $    (1,539)         $ 1,230,814
+      Gas gathering, transmission and processing
+        facilities ........................................                   -                5,484
+                                                                    -----------          -----------
+                                                                    $    (1,539)         $ 1,236,298
+                                                                    ===========          ===========
+</TABLE>
+
+CAPITAL RESOURCES
+
+         Apache's primary cash needs are for exploration, development and
+acquisition of oil and gas properties, operating expenses, repayment of
+principal and interest on outstanding debt, and payment of dividends. The
+Company funds its exploration and development activities primarily through
+internally generated cash flows. Apache budgets capital expenditures based upon
+projected cash flows and routinely adjusts its capital expenditures in response
+to changes in oil and natural gas prices and corresponding changes in cash flow.
+The Company cannot accurately predict future oil and gas prices.
+
+Net Cash Provided by Operating Activities
+
+         Apache's net cash provided by operating activities during the first
+half of 2004 totaled $1.3 billion, an increase of six percent from $1.2 billion
+in the first half of 2003. This increase generally reflects the impact of higher
+prices on oil and gas production revenues and higher production levels relative
+to the prior-year period.
+
+LIQUIDITY
+
+         The Company had $97 million in cash and cash equivalents on hand on
+June 30, 2004, up from $34 million on December 31, 2003. Apache's ratio of
+current assets to current liabilities on June 30, 2004 was 1.19 compared to 1.10
+on December 31, 2003.
+
+         On January 22, 2003, the Company completed a public offering of 19.8
+million shares of Apache common stock (adjusted for the five percent common
+stock dividend and the two-for-one common stock split) including underwriters'
+over-allotment option, for net proceeds of approximately $554 million. The
+proceeds were used toward Apache's acquisition from BP of producing properties
+in the North Sea and the Gulf of Mexico.
+
+         On May 15, 2003, Apache Finance Canada Corporation (Apache Finance
+Canada) issued $350 million of 4.375 percent, 12-year, senior unsecured notes in
+a private placement. On March 4, 2004, the Company completed an exchange offer
+with the holders of the notes, issuing publicly traded, registered notes of the
+same principal amount and with the same interest rates, payment terms and
+maturity. The notes are irrevocably and unconditionally guaranteed by Apache and
+are redeemable, as a whole or in part, at Apache Finance Canada's option,
+subject to a make-whole premium. Interest is payable semi-annually on May 15 and
+November 15 of each year commencing on November 15, 2003. The proceeds of the
+original note offering were used to reduce bank debt and outstanding commercial
+paper and for general corporate purposes.
+
+                                       31
+<PAGE>
+
+         Apache believes that cash on hand, net cash generated from operations,
+short-term investments, and unused committed borrowing capacity under its credit
+facilities will be adequate to satisfy future financial obligations and
+liquidity needs. In addition, Apache's strong credit ratings should facilitate
+continued access to capital markets. As of June 30, 2004, Apache's available
+borrowing capacity under its credit facilities was $1.5 billion.
+
+FUTURE TRENDS
+
+         Our objective is to build a company of lasting value by pursuing
+profitable growth through a combination of drilling and acquisitions. Our
+investment decisions are subjected to strict rate of return criteria and
+generally fall in the categories identified below, depending on which phase of
+the price and cost cycle we may be in. Those categories include:
+
+                  -        exploiting our existing property base;
+
+                  -        acquiring properties to which we can add value; and
+
+                  -        drilling high-potential exploration prospects.
+
+Exploiting Existing Asset Base
+
+         We seek to maximize the value of our existing asset base by increasing
+production and reserves while operating in the most cost efficient manner. In
+order to achieve these objectives, we actively pursue production enhancement
+opportunities such as workovers, recompletions and moderate risk drilling, while
+divesting marginal and non-strategic properties and identifying other activities
+to reduce costs. Given the significant acquisitions and discoveries over the
+last few years, including the properties acquired from BP and Shell, we have an
+abundant inventory of exploitation opportunities.
+
+Acquiring Properties to Which We Can Add Value
+
+         We seek to purchase reserves at appropriate prices by generally
+avoiding auction processes, where we are competing against other buyers and by
+targeting properties to which we believe we can add value. Our aim is to follow
+each acquisition with a cycle of reserve enhancement, property consolidation and
+cash flow acceleration, facilitating asset growth and debt reduction.
+
+Investing in High-Potential Exploration Prospects
+
+         We seek to concentrate our exploratory investments in a select number
+of international areas and to become one of the dominant operators in those
+regions. We believe that these investments, although higher-risk, offer
+potential for attractive investment returns and significant reserve additions.
+Our international investments and exploration activities are a significant
+component of our long-term growth strategy. They complement our domestic
+operations, which are more development oriented.
+
+ITEM 3 - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         Major market risk exposure continues to be the pricing applicable to
+our oil and gas production. Realized pricing is primarily driven by the
+prevailing worldwide price for crude oil and spot prices applicable to our
+United States and Canadian natural gas production. Historically, prices received
+for oil and gas production have been volatile and unpredictable.
+
+         Apache generally sells all of its Egyptian crude oil and natural gas
+production to EGPC for U.S. dollars. Weak economic conditions in Egypt continue
+to impact the timeliness of receipts from EGPC; however, the situation has not
+deteriorated since year-end and Apache continues to receive payments.
+
+         The information set forth under "Commodity Risk," "Interest Rate Risk"
+and "Foreign Currency Risk" in Item 7A of our annual report on Form 10-K for the
+year ended December 31, 2003, is incorporated herein by reference. Information
+about market risks for the quarter ended June 30, 2004 does not differ
+materially from the disclosure in our 2003 Form 10-K, except as noted below.
+
+                                       32
+<PAGE>
+
+         Although Apache uses floating-rate debt on a short-term basis, all of
+the Company's debt was at fixed-rates as of June 30, 2004. Apache's annual
+interest costs in 2004 are not expected to fluctuate materially. Therefore, the
+Company considers its interest rate risk exposure to be minimal.
+
+         On June 30, 2004, the Company had open natural gas derivative positions
+with a fair value of $(69.3) million. A 10 percent increase in natural gas
+prices would change the fair value by $(25.4) million. A 10 percent decrease in
+prices would change the fair value by $23.8 million. The Company also had open
+oil derivative positions with a fair value of $2.8 million on June 30, 2004. A
+10 percent increase in crude oil prices would change the fair value by $(8.1)
+million. A 10 percent decrease in prices would change the fair value by $9.2
+million. See Note 2 to the Company's consolidated financial statements for
+notional volumes associated with the Company's derivative contracts.
+
+ITEM 4 - CONTROLS AND PROCEDURES
+
+         G. Steven Farris, the Company's President, Chief Executive Officer and
+Chief Operating Officer, and Roger B. Plank, the Company's Executive Vice
+President and Chief Financial Officer, evaluated the effectiveness of our
+disclosure controls and procedures as of June 30, 2004, the end of the period
+covered by this report. Based on that evaluation and as of the date of that
+evaluation, these officers concluded that the Company's disclosure controls were
+effective, providing effective means to insure that information we are required
+to disclose under applicable laws and regulations is recorded, processed,
+summarized and reported in a timely manner. Also, no significant changes were
+made to internal controls over financial reporting during the quarter ending
+June 30, 2004 that have materially affected, or are reasonably likely to
+materially affect, the Company's internal control over financial reporting.
+
+         We periodically review the design and effectiveness of our disclosure
+controls, including compliance with various laws and regulations that apply to
+our operations both inside and outside the United States. We make modifications
+to improve the design and effectiveness of our disclosure controls, and may take
+other corrective action, if our reviews identify deficiencies or weaknesses in
+our controls.
+
+FORWARD-LOOKING STATEMENTS AND RISK
+
+         Certain statements in this report, including statements of the future
+plans, objectives, and expected performance of the Company, are forward-looking
+statements that are dependent upon certain events, risks and uncertainties that
+may be outside the Company's control, and which could cause actual results to
+differ materially from those anticipated. Some of these include, but are not
+limited to, the market prices of oil and gas, economic and competitive
+conditions, inflation rates, legislative and regulatory changes, financial
+market conditions, political and economic uncertainties of foreign governments,
+future business decisions, and other uncertainties, all of which are difficult
+to predict.
+
+         There are numerous uncertainties inherent in estimating quantities of
+proved oil and gas reserves and in projecting future rates of production and the
+timing of development expenditures. The total amount or timing of actual future
+production may vary significantly from reserves and production estimates. The
+drilling of exploratory wells can involve significant risks, including those
+related to timing, success rates and cost overruns. Lease and rig availability,
+complex geology and other factors can affect these risks. Although Apache may
+make use of futures contracts, swaps, options and fixed-price physical contracts
+to mitigate risk, fluctuations in oil and gas prices, or a prolonged
+continuation of low prices, may adversely affect the Company's financial
+position, results of operations and cash flows.
+
+                                       33
+<PAGE>
+
+                           PART II - OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+         The information set forth in Note 11 to the Consolidated Financial
+         Statements contained in the Company's annual report on Form 10-K for
+         the year ended December 31, 2003 (filed with the SEC on March 12, 2004)
+         and Note 11 to the Financial Statements under Part I, Item 1 of this
+         quarterly report are incorporated herein by reference.
+
+ITEM 2. CHANGES IN SECURITIES, USE OF PROCEEDS AND ISSUER PURCHASES OF EQUITY
+        SECURITIES
+
+         None
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+         None
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         The Company's annual meeting of stockholders was held in Houston, Texas
+         at 10:00 a.m. local time, on Thursday, May 6, 2004. Proxies for the
+         meeting were solicited pursuant to Regulation 14 under the Securities
+         Exchange Act of 1934, as amended.
+
+         Out of a total of 325,153,372 shares of the Company's common stock
+         outstanding and entitled to vote, 287,037,394 shares were present at
+         the meeting in person or by proxy, representing 88.3 percent. Matters
+         voted upon at the meeting were as follows:
+
+                  Election of four directors to serve on the Company's board of
+                  directors. There was no solicitation in opposition to the
+                  nominees for election as directors as listed in the proxy
+                  statement, and all nominees were elected. Mr. Fiedorek, Dr.
+                  Graham, Mr. Merelli, and Mr. Plank were elected to serve until
+                  the annual meeting in 2007. The vote tabulation with respect
+                  to each nominee was as follows:
+
+<TABLE>
+<CAPTION>
+                                                         AUTHORITY
+      NOMINEE                           FOR              WITHHELD
+      -------                           ---              --------
+<S>                                 <C>                 <C>
+Eugene C. Fiedorek                  274,927,722         12,109,672
+Patricia Albjerg Graham             279,366,345          7,671,049
+F. H. Merelli                       188,278,757         98,758,637
+Raymond Plank                       279,385,792          7,651,602
+</TABLE>
+
+                  Stockholder proposal relating to climate change. The
+                  stockholder proposal was not approved and the vote tabulation
+                  was as follows:
+
+<TABLE>
+<S>                                          <C>
+For                                           85,848,021
+Against                                      145,622,521
+Abstain                                       15,425,312
+Broker Non-Vote                               40,141,539
+</TABLE>
+
+ITEM 5. OTHER INFORMATION
+
+         None
+
+                                       34
+<PAGE>
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+         (a)      Exhibits
+
+                  10.1 -   Form of Five-Year Credit Agreement, dated as of May
+                           28, 2004, among Registrant, the Lenders named
+                           therein, JPMorgan Chase Bank, as Administrative
+                           Agent, Citibank, N.A. and Bank of America, N.A., as
+                           Co-Syndication Agents, and Barclays Bank PLC and UBS
+                           Loan Finance LLC, as Co-Documentation Agents
+                           (excluding exhibits and schedules).
+
+                  10.2 -   Form of First Amendment to Combined Credit
+                           Agreements, dated as of May 28, 2004, among
+                           Registrant, Apache Energy Limited , Apache Canada
+                           Ltd, the Lenders named therein, JPMorgan Chase Bank,
+                           as Global Administrative Agent, Bank of America,
+                           N.A., as Global Syndication Agent, and Citibank,
+                           N.A., as Global Documentation Agent (excluding
+                           exhibits and schedules).
+
+                  12.1 -   Statement of computation of ratio of earnings to
+                           fixed charges and combined fixed charges and
+                           preferred stock dividends.
+
+                  31.1 -   Certification of Chief Executive Officer.
+
+                  31.2 -   Certification of Chief Financial Officer.
+
+                  32.1 -   Certification of Chief Executive Officer and Chief
+                           Financial Officer.
+
+         (b)      Reports filed on Form 8-K
+
+                  The following current reports on Form 8-K were filed by Apache
+                  during the fiscal quarter ended June 30, 2004:
+
+                  Item 5 - Other Events - dated May 24, 2004, filed May 27, 2004
+
+                  On May 24, 2004, ExxonMobil Corporation and Apache announced
+                  that they agreed to enter into a series of transactions that
+                  will provide for transfers and joint venture activity across a
+                  broad range of prospective and mature properties in West
+                  Texas, Western Canada, onshore Louisiana and the Gulf of
+                  Mexico Continental Shelf. Apache's participation in this
+                  agreement will include a cash payment of $385 million.
+                  Completion of the transaction is subject to negotiation of
+                  definitive agreements and receipt of applicable corporate and
+                  regulatory approvals.
+
+                                       35
+<PAGE>
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this amended report to be
+signed on its behalf by the undersigned thereunto duly authorized.
+
+                                            APACHE CORPORATION
+
+Dated: August 6, 2004                       / s /  ROGER B. PLANK
+                                            -----------------------------------
+                                            Roger B. Plank
+                                            Executive Vice President and Chief
+                                            Financial Officer
+
+Dated: August 6, 2004                       / s /  THOMAS L. MITCHELL
+                                            -----------------------------------
+                                            Thomas L. Mitchell
+                                            Vice President and Controller
+                                            (Chief Accounting Officer)
+
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+         (a)      Exhibits
+
+                  10.1 -   Form of Five-Year Credit Agreement, dated as of May
+                           28, 2004, among Registrant, the Lenders named
+                           therein, JPMorgan Chase Bank, as Administrative
+                           Agent, Citibank, N.A. and Bank of America, N.A., as
+                           Co-Syndication Agents, and Barclays Bank PLC and UBS
+                           Loan Finance LLC, as Co-Documentation Agents
+                           (excluding exhibits and schedules).
+
+                  10.2 -   Form of First Amendment to Combined Credit
+                           Agreements, dated as of May 28, 2004, among
+                           Registrant, Apache Energy Limited , Apache Canada
+                           Ltd, the Lenders named therein, JPMorgan Chase Bank,
+                           as Global Administrative Agent, Bank of America,
+                           N.A., as Global Syndication Agent, and Citibank,
+                           N.A., as Global Documentation Agent (excluding
+                           exhibits and schedules).
+
+                  12.1 -   Statement of computation of ratio of earnings to
+                           fixed charges and combined fixed charges and
+                           preferred stock dividends.
+
+                  31.1 -   Certification of Chief Executive Officer.
+
+                  31.2 -   Certification of Chief Financial Officer.
+
+                  32.1 -   Certification of Chief Executive Officer and Chief
+                           Financial Officer.
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1644 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   FORM 10-Q
+
+
+(Mark One)
+   X      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+          EXCHANGE ACT OF 1934
+          For the quarter ended May 31, 2001
+                                       OR
+          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+          EXCHANGE ACT OF 1934
+          For the transition period from          to          .
+
+
+
+                        Commission File Number: 0-26281
+
+                                 RED HAT, INC.
+            (Exact name of registrant as specified in its charter)
+
+                                   Delaware
+                           (State of Incorporation)
+
+                                  06-1364380
+                     (I.R.S. Employer Identification No.)
+
+              2600 Meridian Parkway, Durham, North Carolina 27713
+         (Address of principal executive offices, including Zip Code)
+
+                                (919) 547-0012
+             (Registrant's telephone number, including area code)
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X   No ___
+                                       -
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date:
+
+As of May 31, 2001, there were 169,816,384 shares of common stock outstanding.
+<PAGE>
+
+                                 RED HAT, INC.
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                       Page
+                                                                       ----
+<S>                                                                    <C>
+PART I - FINANCIAL INFORMATION:
+
+ITEM 1:  FINANCIAL STATEMENTS
+
+  Consolidated Balance Sheets at May 31, 2001 (unaudited) and
+  February 28, 2001                                                     3
+
+  Consolidated Statements of Operations for the three months
+  ended May 31, 2001 and 2000 (unaudited)                               4
+
+  Consolidated Statements of Cash Flows for the three months
+  ended May 31, 2001 and 2000 (unaudited)                               5
+
+  Notes to Consolidated Financial Statements (unaudited)                6
+
+ITEM 2:  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS                                              11
+
+ITEM 3:  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK    26
+
+PART II - OTHER INFORMATION:
+
+ITEM 2:  CHANGES IN SECURITIES AND USE OF PROCEEDS                     27
+
+ITEM 6:  EXHIBITS AND REPORTS ON FORM 8-K                              27
+</TABLE>
+
+SIGNATURES
+
+EXHIBIT INDEX
+<PAGE>
+
+PART 1 - FINANCIAL INFORMATION
+
+ITEM 1: FINANCIAL STATEMENTS
+
+                                 RED HAT, INC.
+                          CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                  ASSETS
+                                                                                May 31,          February 28,
+                                                                                 2001                2001
+                                                                              (unaudited)
+                                                                             -------------      -------------
+<S>                                                                          <C>                <C>
+Current assets:
+   Cash and cash equivalents                                                 $  72,459,166      $  85,212,830
+   Investments in debt and equity securities                                    47,076,615         62,911,634
+   Accounts receivable, net                                                     20,800,035         25,203,635
+   Subcontractor receivable                                                         74,408          3,441,394
+   Inventory                                                                     1,357,792            739,960
+   Prepaid expenses and other current assets                                     2,287,071          2,171,721
+                                                                             -------------      -------------
+       Total current assets                                                    144,055,087        179,681,174
+Property and equipment, net                                                     15,776,131         14,591,510
+Goodwill and intangibles, net                                                  130,871,143        147,396,649
+Investments in debt and equity securities                                      175,051,633        154,556,684
+Other assets, net                                                                5,364,746          9,025,138
+                                                                             -------------      -------------
+       Total assets                                                          $ 471,118,740      $ 505,251,155
+                                                                             =============      =============
+
+                                    LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+   Accounts payable                                                          $   3,909,384      $   9,681,174
+   Accrued expenses                                                             13,303,677         15,915,682
+   Deferred revenue                                                             12,638,837         12,150,549
+   Short term payable                                                                    -          2,750,000
+   Current portion of capital lease obligations                                    265,388            193,895
+                                                                             -------------      -------------
+       Total current liabilities                                                30,117,286         40,691,300
+Capital lease obligations                                                          227,488            277,338
+Commitments and contingencies                                                            -                  -
+Stockholders' equity:
+   Noncontrolling interest in subsidiary                                            37,810                  -
+   Preferred stock, 5,000,000 shares authorized, none outstanding                        -                  -
+   Common stock, $0.0001 par value, 225,000,000
+     shares authorized, 169,816,384 and 168,485,899
+     shares issued and outstanding at May 31, 2001
+     and February 28, 2001, respectively                                            16,983             16,849
+   Additional paid-in capital                                                  627,414,567        643,712,385
+   Deferred compensation                                                       (15,438,815)       (36,051,412)
+   Accumulated deficit                                                        (171,148,542)      (143,588,767)
+   Accumulated other comprehensive income (loss)                                  (108,037)           193,462
+                                                                             -------------      -------------
+       Total stockholders' equity                                              440,773,966        464,282,517
+                                                                             -------------      -------------
+       Total liabilities and stockholders' equity                            $ 471,118,740      $ 505,251,155
+                                                                             =============      =============
+</TABLE>
+
+ The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+<PAGE>
+
+                                 RED HAT, INC.
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+<TABLE>
+<CAPTION>
+                                                                                          Three Months Ended
+                                                                            ------------------------------------------------
+                                                                                 May 31,                       May 31,
+                                                                                  2001                          2000
+                                                                               (unaudited)                   (unaudited)
+                                                                            ------------------            ------------------
+<S>                                                                         <C>                           <C>
+Subscription and services revenue:
+    Subscription                                                                $  11,353,991                 $   9,768,364
+    Services:
+      Network consulting                                                            5,196,304                     5,680,738
+      Embedded development services                                                 4,697,325                     4,241,916
+      Open source services                                                          4,355,933                     2,018,418
+                                                                                -------------                 -------------
+      Total subscription and services revenue                                      25,603,553                    21,709,436
+                                                                                -------------                 -------------
+Cost of subscription and services revenue:
+    Subscription                                                                    3,125,563                     3,749,793
+    Services                                                                        8,005,907                     7,092,774
+    Stock-based services (income) expense                                             (31,771)                       16,545
+                                                                                -------------                 -------------
+      Total cost of subscription and services revenue                              11,099,699                    10,859,112
+                                                                                -------------                 -------------
+Gross profit on subscription and services revenue                                  14,503,854                    10,850,324
+                                                                                -------------                 -------------
+Hardware resale revenue                                                                     -                       449,178
+Cost of hardware resale revenue                                                             -                       360,955
+                                                                                -------------                 -------------
+    Gross profit on hardware resale revenue                                                 -                        88,223
+                                                                                -------------                 -------------
+Operating expense:
+    Sales and marketing                                                            10,683,600                    12,162,715
+    Research and development                                                        4,296,781                     3,271,184
+    General and administrative                                                      7,088,747                     8,025,453
+    Stock-based sales and marketing expense                                         1,090,517                     1,396,082
+    Stock-based research and development expense                                    1,549,438                       285,454
+    Stock-based general and administrative expense                                  1,067,670                     1,927,727
+    Write-down of investments                                                       4,250,005                             -
+    Amortization of goodwill and intangibles                                       16,516,609                     6,709,392
+                                                                                -------------                 -------------
+      Total operating expense                                                      46,543,367                    33,778,007
+                                                                                -------------                 -------------
+Loss from operations                                                              (32,039,513)                  (22,839,460)
+                                                                                -------------                 -------------
+Other income (expense), net                                                         4,480,183                     5,481,691
+                                                                                -------------                 -------------
+Loss before income taxes                                                          (27,559,330)                  (17,357,769)
+Provision for income taxes                                                                445                        64,414
+                                                                                -------------                 -------------
+Net loss                                                                        $ (27,559,775)                $ (17,422,183)
+                                                                                =============                 =============
+
+Net loss per common share:
+          Basic                                                                        ($0.16)                       ($0.11)
+          Diluted                                                                      ($0.16)                       ($0.11)
+Weighted average shares outstanding:
+          Basic                                                                   169,002,929                   159,463,590
+          Diluted                                                                 169,002,929                   159,463,590
+</TABLE>
+
+             The accompanying notes are an integral part of these
+                      consolidated financial statements.
+<PAGE>
+
+                                 RED HAT, INC.
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+<TABLE>
+<CAPTION>
+                                                                                                    Three Months Ended
+                                                                                       --------------------------------------------
+                                                                                           May 31,                       May 31,
+                                                                                             2001                         2000
+                                                                                          (unaudited)                  (unaudited)
+                                                                                       ----------------              --------------
+<S>                                                                                    <C>                           <C>
+Cash flows from operating activities:
+      Net loss                                                                         $   (27,559,775)              $ (17,422,183)
+Adjustments to reconcile net loss to net cash used in operating activities:
+      Depreciation and amortization                                                         18,008,150                   7,674,152
+      Write-down of investments                                                              4,250,005                           -
+      Stock-based compensation expense                                                       3,513,561                   3,063,274
+      Noncontrolling interest in subsidiary                                                     37,810                           -
+      Provision for doubtful accounts                                                          225,520                   1,122,464
+      Provision for inventory obsolescence                                                           -                     165,520
+      Loss on sale of property and equipment                                                         -                      40,968
+Changes in operating assets and liabilities:
+      Accounts receivable                                                                    7,545,066                  (8,436,855)
+      Inventory                                                                               (617,832)                 (1,020,359)
+      Prepaid expenses                                                                        (115,350)                    (56,491)
+      Intangibles and other assets                                                            (592,467)                 (2,921,984)
+      Accounts payable                                                                      (5,771,790)                 (5,829,257)
+      Accrued expenses                                                                      (1,657,005)                  5,089,301
+      Deferred revenue                                                                         488,288                   2,217,104
+                                                                                       ---------------               -------------
+      Net cash used in operating activities                                                 (2,245,819)                (16,314,346)
+                                                                                       ---------------               -------------
+Cash flows from investing activities:
+    Purchase of investment securities                                                      (87,048,488)               (226,794,764)
+    Proceeds from sales and maturities of investment securities                             82,565,525                 101,113,082
+    Acquisitions of businesses, net of cash acquired                                          (993,900)                  5,463,761
+    Purchase of property and equipment                                                      (2,625,511)                 (2,382,994)
+                                                                                       ---------------               -------------
+      Net cash (used in) provided by investing activities                                   (8,102,374)               (122,600,915)
+                                                                                       ---------------               -------------
+Cash flows from financing activities:
+    Decrease in stockholders' notes receivable                                                       -                      66,899
+    Repayments of notes payable                                                             (2,750,000)                          -
+    Proceeds from issuance of common stock by PTI                                                    -                   1,264,488
+    Proceeds from issuance of common stock under Employee Stock Purchase Plan                        -                      96,674
+    Proceeds from exercise of common stock options and warrants                                801,352                   2,838,535
+    Payment of dividends to PTI shareholders                                                         -                  (3,850,000)
+    Payments on capital lease obligations                                                       21,643                     (39,780)
+                                                                                       ---------------               -------------
+      Net cash provided by financing activities                                             (1,927,005)                    376,816
+                                                                                       ---------------               -------------
+Effect of foreign currency exchange rates on cash and cash equivalents                        (478,466)                     98,224
+Net (decrease) increase in cash and cash equivalents                                       (12,753,664)               (138,440,221)
+Cash and cash equivalents at beginning of the period                                        85,212,830                 248,429,962
+                                                                                       ---------------               -------------
+Cash and cash equivalents at end of period                                             $    72,459,166               $ 109,989,741
+                                                                                       ===============               =============
+</TABLE>
+
+             The accompanying notes are an integral part of these
+                      consolidated financial statements.
+<PAGE>
+
+NOTE 1-Organization
+
+Red Hat, Inc. and its subsidiaries ("Red Hat" or the "Company") offer users one
+single, trusted point of contact and a common platform for developing, deploying
+and managing open source software across Internet infrastructure and devices
+that connect to the Internet, ranging from small embedded devices to high
+availability clusters and integrated web server/e-commerce operating systems.
+The Red Hat Network, Red Hat's unique web based system management technology,
+helps companies worldwide easily manage all of their Red Hat Linux servers and
+appliances by delivering open source products, service, support and information
+on-line in real-time.  Red Hat was incorporated in Connecticut in March 1993 as
+ACC Corp., Inc.  In September 1995, the Company changed its name to Red Hat
+Software, Inc.  In September 1998, the Company reincorporated in Delaware.  In
+June 1999, the Company changed its name to Red Hat, Inc.
+
+
+NOTE 2-Summary of Significant Accounting Policies
+
+Unaudited Interim Financial Information
+
+The interim consolidated financial statements as of May 31, 2001 have been
+prepared by the Company pursuant to the rules and regulations of the Securities
+and Exchange Commission (the "SEC") for interim financial reporting.  These
+consolidated statements are unaudited and, in the opinion of management, include
+all adjustments (consisting of normal recurring adjustments and accruals)
+necessary to present fairly the consolidated balance sheets, consolidated
+operating results, and consolidated cash flows for the periods presented in
+accordance with generally accepted accounting principles.  The consolidated
+balance sheet at February 28, 2001 has been derived from the audited
+consolidated financial statements at that date.  Operating results for the three
+month period ended May 31, 2001 are not necessarily indicative of the results
+that may be expected for the year ending February 28, 2002.  Certain information
+and footnote disclosures normally included in financial statements prepared in
+accordance with generally accepted accounting principles have been omitted in
+accordance with the rules and regulations of the SEC.  These interim
+consolidated financial statements should be read in conjunction with the
+consolidated financial statements and notes thereto for the year ended February
+28, 2001.
+
+Principles of Consolidation
+
+The accompanying consolidated financial statements include the accounts of the
+Company and all of its wholly-owned subsidiaries.  All significant intercompany
+accounts and transactions are eliminated in consolidation.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Revenue Recognition
+
+Revenue from the sale of software products for which no technical support is
+provided is generally recognized upon shipment of the products, net of a reserve
+for estimated returns. A reserve for sales returns is recognized for sales of
+software products to distributors, who have a right of return, based on the
+Company's historical experience of sell-through to the end user by the
+distributor. The Company recognizes revenue from the sale of software products
+to new distributors of its software products based upon sell-through to the end
+user until the Company has sufficient historical experience with the distributor
+to allow the accurate estimation of sales returns.
+<PAGE>
+
+The Company provides certain support and subscription services with Red Hat
+Linux for a period of time, not exceeding six months, from the date of
+registration of the software products for no additional fee.  In accordance with
+the provisions of Statement of Position No. 97-2, "Software Revenue Recognition"
+("SOP 97-2") as amended by SOP 98-4 and SOP 98-9, the Company is recognizing all
+of the revenue from the sale of Red Hat Linux ratably over the period that the
+support and subscription services are provided.
+
+Service revenue consists of revenue for technical support and maintenance
+services, other than installation support, and customer training and education,
+revenue for software compiling, debugging and optimization contracts
+("Development Contracts") and royalty revenue.  Revenue for technical support
+and maintenance services, other than installation support, is deferred and
+recognized ratably over the term of the agreement, which is typically twelve
+months.  Revenue for Development Contracts is recognized on the percentage-of-
+completion method, provided that the fee for such engineering services is fixed
+or determinable and the collection of the resulting receivable is probable.
+Revenue from customer training and education and other services is recognized at
+the date the services are performed.
+
+Professional consulting revenue, which is also included in services revenue, is
+recognized as the consultants provide services.  Provisions for estimated losses
+on uncompleted contracts are made in the period in which such losses are
+determined.
+
+Web advertising revenue, which is included in subscription revenue, is
+recognized ratably in the period in which the advertisement is displayed,
+provided that the Company has no significant remaining obligations, at the
+lesser of the ratio of connections to the advertiser's website delivered over
+total guaranteed connections to the advertiser's website or the straight line
+basis over the term of the contract. If minimum guaranteed connections are not
+met, the Company defers recognition of the corresponding revenue until the
+guaranteed connections are achieved.
+
+Hardware resale revenue is recognized based on the shipping terms of the
+product.  Effective January 1, 2000, the Company began migrating from a value
+added reseller to a pure professional services company.  Therefore, an
+immaterial amount of hardware resale revenue was generated in the first quarter
+of fiscal 2001.
+
+Net Loss Per Common Share
+
+The Company computes net loss per common share in accordance with Statement of
+Financial Accounting Standards No. 128, "Earnings Per Share," ("SFAS 128") and
+SEC Staff Accounting Bulletin No. 98 ("SAB 98").  Under the provisions of SFAS
+128 and SAB 98, basic net loss per common share ("Basic EPS") is computed by
+dividing net loss available to common stockholders by the weighted average
+number of common shares outstanding.  Diluted net loss available to common
+stockholders per common share ("Diluted EPS") is computed by dividing net loss
+by the weighted average number of common shares outstanding and dilutive
+potential common share equivalents.  Potential common shares consist of shares
+issuable upon the exercise of stock options and warrants and shares issuable
+upon conversion of outstanding mandatorily redeemable preferred stock.  The
+calculation of net loss per share available to common stockholders does not
+include 8,404,660 and 14,564,355 potential shares of common stock equivalents
+for the three month periods ended May 31, 2001 and 2000, respectively, as their
+impact would be antidilutive.
+
+Segment Reporting
+
+Management identifies its operating segments primarily based on differences in
+the nature of its products and services and on geographical location.  The
+Company's operating segments are subscription, network consulting, embedded
+development services, and open source services.  Performance of these segments
+is evaluated based on their respective gross margins.  The following table
+presents the revenues, costs and gross margins of network consulting, embedded
+development services, and open source services for the three months ended May
+31, 2001 and 2000, respectively.
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                             May 31, 2001       May 31, 2000
+                                                             ------------       ------------
+     <S>                                                     <C>                <C>
+     Network consulting revenue............................    $5,196,304         $5,680,738
+     Cost of network consulting revenue....................     3,112,137          3,480,086
+                                                             ------------       ------------
+     Gross margin..........................................    $2,084,167         $2,200,652
+
+     Embedded development services revenue.................    $4,697,325         $4,241,916
+     Cost of embedded development services revenue.........     2,417,418          2,415,467
+                                                             ------------       ------------
+     Gross margin..........................................    $2,279,907         $1,826,449
+
+     Open source services..................................    $4,355,933         $2,018,418
+     Cost of open source services revenue..................     2,476,352          1,197,221
+                                                             ------------       ------------
+     Gross margin..........................................    $1,879,581         $  821,197
+</TABLE>
+
+Information on the subscription segment is presented on the Consolidated
+Statement of Operations.
+
+Management evaluates the Company's assets on a consolidated basis only.
+Accordingly, no information has been provided and no allocations have been made
+related to segment assets.  There were no transactions entered into between the
+Company's operating segments.
+<PAGE>
+
+The Company has international sales offices in the United Kingdom, Ireland,
+Germany, Hong Kong, Australia, and Japan. The following disclosure aggregates
+individually immaterial international operations and separately discloses the
+significant international operations at and for the three months ended May 31,
+2001 and 2000.
+
+
+<TABLE>
+<CAPTION>
+                                   North                                 Asia Pacific
+                                  America            Europe               and Japan           Total
+                                  -------            ------               ---------           -----
+
+                                                   Three Months Ended May 31, 2001
+                                                   -------------------------------
+<S>                             <C>                <C>                 <C>                <C>
+Revenues from unaffiliated
+ customers.......               $ 19,949,941       $3,106,342          $ 2,547,270        $ 25,603,553
+Net loss available to
+ common stockholders....        $(26,846,225)      $ (803,454)         $    89,904        $(27,559,775)
+Total assets.....               $460,092,724       $7,238,218          $ 3,787,798        $471,118,740
+
+                                                  Three Months Ended May 31, 2000
+                                                  -------------------------------
+
+Revenues from unaffiliated
+ customers...................   $ 19,081,563       $ 2,072,556         $ 1,004,495        $ 22,158,614
+Net loss available to common
+ stockholders................   $(15,378,626)      $(1,001,157)        $(1,042,400)       $(17,422,183)
+Total assets.................   $471,592,872       $10,766,071         $ 2,632,317        $484,991,260
+</TABLE>
+
+Comprehensive Income
+
+The Company's items of accumulated other comprehensive income (loss) during the
+three months ended May 31, 2001 totaled ($108,037) and are comprised of an
+unrealized gain on investments in marketable securities of $1,454,641 and a
+foreign currency translation adjustment of ($1,562,678).  The Company's items of
+other comprehensive income (loss) during the three months ended May 31, 2000
+totaled ($1,338,988) and are comprised of an unrealized loss on investments in
+marketable securities of ($1,496,991) and a foreign currency translation
+adjustment of $158,003.
+
+Recent Accounting Pronouncements
+
+The FASB recently issued Statement of Financial Accounting Standards No. 137,
+"Accounting for Derivative Instruments and Hedging Activities - Deferral of
+Effective Date of FASB Statement No. 133" ("SFAS137").  The Statement defers for
+one year the effective date of FASB Statement No. 133, "Accounting for
+Derivative Instruments and Hedging Activities".  The rule applies to all fiscal
+quarters of all fiscal years beginning after June 15, 2000.  The adoption of
+SFAS 137 and SFAS 133 in the three months ended May 31, 2001 did not have a
+material impact on the consolidated financial position or results of operations.
+<PAGE>
+
+Legal Contingency
+
+Subsequent to the end of fiscal 2001, the Company and certain of its officers
+and directors were named as defendants in a class action suit. The plaintiff
+contends that the defendants violated federal securities laws by issuing a
+Registration Statement and Prospectus that contained materially false and
+misleading information and failed to disclose material information. The
+Prospectus was issued in connection with the Company's initial public offering
+in August 1999. The Company is reviewing the suit and believes that the
+complaints are without merit and intends to vigorously defend itself and its
+officers and directors.
+
+<PAGE>
+ITEM 2 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations contains forward-looking statements that involve known and unknown
+risks and uncertainties, including statements regarding Red Hat's strategy,
+financial performance, and revenue sources. These risks and uncertainties may
+cause Red Hat's actual results to differ materially from any forward-looking
+statements. These risks and uncertainties include, without limitation, the risks
+detailed below and in Red Hat's other filings with the Securities and Exchange
+Commission (the "SEC"), copies of which may be accessed through the SEC's web
+site at http://www.sec.gov.
+        ------------------
+
+                              Results of Operations
+
+The following table sets forth the results of operations for Red Hat expressed
+as a percentage of total revenue.
+
+<TABLE>
+<CAPTION>
+                                                                         Three Months Ended
+                                                                               May 31,
+                                                                      2001                 2000
+                                                                    ----------------------------
+                                                                             (Unaudited)
+<S>                                                                 <C>                   <C>
+Subscription and services revenue:
+    Subscription                                                      44.3%                44.1%
+    Services:
+      Network consulting                                              20.3%                25.6%
+      Embedded development services                                   18.4%                19.2%
+      Open source services                                            17.0%                 9.1%
+                                                                    ----------------------------
+      Total subscription and services revenue                        100.0%                98.0%
+
+Cost of subscription and services revenue:
+    Subscription                                                      12.2%                16.9%
+    Services                                                          31.3%                32.0%
+    Stock-based services (income) expense                             -0.1%                 0.1%
+                                                                    ----------------------------
+      Total cost of subscription and services revenue                 43.4%                49.0%
+                                                                    ----------------------------
+Gross profit on subscription and services revenue                     56.6%                49.0%
+                                                                    ----------------------------
+Hardware resale revenue                                                0.0%                 2.0%
+Cost of hardware resale revenue                                        0.0%                 1.6%
+                                                                    ----------------------------
+    Gross profit on hardware resale revenue                            0.0%                 0.4%
+                                                                    ----------------------------
+Operating expense:
+    Sales and marketing                                               41.7%                54.9%
+    Research and development                                          16.8%                14.8%
+    General and administrative                                        27.7%                36.2%
+    Stock-based sales and marketing expense                            4.3%                 6.3%
+    Stock-based research and development expense                       6.0%                 1.3%
+    Stock-based general and administrative expense                     4.1%                 8.7%
+    Write-down of investments                                         16.6%                 0.0%
+    Amortization of goodwill and intangibles                          64.5%                30.2%
+                                                                    ----------------------------
+      Total operating expense                                        181.7%               152.4%
+                                                                    ----------------------------
+Loss from operations                                                -125.1%              -103.0%
+                                                                    ----------------------------
+Other income (expense), net                                           17.5%                24.7%
+                                                                    ----------------------------
+Loss before income taxes                                            -107.6%               -78.3%
+Provision for income taxes                                             0.0%                 0.3%
+                                                                    ----------------------------
+Net loss                                                            -107.6%               -78.6%
+                                                                    ============================
+</TABLE>
+
+Three Months Ended May 31, 2001 and May 31, 2000
+
+
+Total revenue
+
+Total revenue increased 15.5% to $25.6 million in the three months ended May 31,
+2001 from $22.2 million in the three months ended May 31, 2000.  Revenue from
+international operations totaled $5.7 million during the three months ended May
+31, 2001.
+
+Subscription revenue
+
+Subscription revenue is comprised primarily of revenue from sales of Red Hat
+Linux and related software products, sales of software development tools,
+technical support and maintenance fees, and web advertising revenue.
+Subscription revenue increased 16.2% to $11.4 million in the three months ended
+May 31, 2001 from $9.8 million in the three months ended May 31, 2000.  This
+increase was primarily due to the release of Version 7.1 of Red Hat Linux in
+April 2001, rapid growth of our international operations, introduction of new
+open source offerings during the three months ended May 31, 2001, and an
+increase in technical support and maintenance revenue as a result of our
+increased focus on providing these services in the three months ended May 31,
+2001 as compared to May 31, 2000.  As a percentage of total revenue,
+subscription revenue increased to 44.3% in the three months ended May 31, 2001
+from 44.1% in the three months ended May 31, 2000.  The increase in subscription
+revenue as a percentage of total revenue is primarily a result of the timing of
+our product releases and the growth in our support revenues.
+
+Services revenue
+
+Services revenue is primarily comprised of embedded development fees, network
+consulting and engineering fees, training and education fees, and short-term
+open-source consulting contracts.  Services revenue increased 19.3% to $14.2
+million in the three months ended May 31, 2001 from $11.9 million in the three
+months ended May 31, 2000.  As a percentage of total revenue, services revenue
+increased to 55.7% in the three months ended May 31, 2001 from 53.9% in the
+three months ended May 31, 2000.  The increase in services revenue in total and
+as a percentage of total revenue resulted primarily from an increase in embedded
+development revenue due to an increase in the number, size and scope of embedded
+development contracts and an increase in training and education revenue due to
+the expansion of our course offerings.  The increase in services revenue as a
+percentage of total revenue is primarily a result of the high rate of growth of
+our learning services business and the initiation of our Open Source Consulting
+practice as open source solutions, specifically Red Hat Linux, continue to be
+adopted by the enterprise.
+
+Cost of revenue
+
+Cost of subscription revenue
+
+Cost of subscription revenue consists of expenses we incur to manufacture,
+package and distribute our products and related documentation.  These costs
+include expenses for physical media, literature and packaging, fulfillment and
+shipping, and labor related costs to provide technical support and maintenance.
+Also included are the cost of developing advertising on our web site and
+royalties we pay for licensing third-party applications included in our software
+products.  Cost of subscription revenue decreased 16.6% to $3.1 million in the
+three months ended May 31, 2001 from $3.7 million in the three months ended May
+31, 2000.  As a percentage of subscription revenue, cost of subscription revenue
+decreased to 27.5% in the three months ended May 31, 2001 from 38.3% in the
+three months ended May 31, 2000.  These decreases were directly related to a
+reduction in expenses incurred for physical media, literature, packaging and
+fulfillment, as well as efficiencies gained in providing technical support and
+maintenance of our products through consolidation and reorganization of our
+support and maintenance resources.
+<PAGE>
+
+Cost of services revenue
+
+Cost of services revenue is primarily comprised of salaries and related costs--
+including non-cash, stock-based compensation charges--incurred for our personnel
+to deliver embedded development, network consulting and engineering, and open
+source services.  We incur no direct costs related to royalties received from
+the licensing of our trademarks to third parties.  Cost of services revenue
+increased 12.2% to $8.0 million in the three months ended May 31, 2001 from $7.1
+million in the three months ended May 31, 2000.  This increase was primarily due
+to the addition of personnel to provide embedded development, network consulting
+and engineering, and the development of our open source services organization.
+As a percentage of services revenue, cost of services revenue decreased to 56.0%
+in the three months ended May 31, 2001 from 59.5% in the three months ended May
+31, 2000.  This decrease was primarily due to an increase in the utilization
+rate of our network consulting and engineering personnel.
+
+We expect cost of services to increase as we further expand our service
+offerings. Cost of services as a percentage of services revenue is expected to
+vary significantly from period to period depending upon:
+
+     .    the mix of services we provide;
+
+     .    the number and scope of embedded development contracts;
+
+     .    whether our services are provided by our employees or third-party
+          partners and contractors; and
+
+     .    the overall utilization rate of our services staff.
+
+
+Gross Profit
+
+Gross profit increased 32.6% to $14.5 million in the three months ended May 31,
+2001 from $10.9 million in the three months ended May 31, 2000.  As a percentage
+of total revenue, gross profit increased to 56.6% in the three months ended May
+31, 2001 from 49.4% in the three months ended May 31, 2000.  These increases
+were primarily the result of the increases in sales of software products, due to
+the release of Version 7.1 of Red Hat Linux in April 2001, the release of
+Version 7 of Red Hat Linux in September 2000, and an associated reduction in
+expenses incurred for packaging and fulfillment, as well as efficiencies gained
+in providing technical support and maintenance of our products.  The increase in
+gross profit as a percentage of total revenue is also due to the decreasing
+reliance upon hardware resale revenue, as these revenues generate significantly
+lower margins than do the Company's other sources of revenue.
+
+
+Operating expense
+
+Sales and marketing
+
+Sales and marketing expense consists primarily of salaries and other related
+costs--including non-cash, stock-based compensation charges--for sales and
+marketing personnel, sales commissions, travel, public relations and marketing
+materials and tradeshows.  Sales and marketing expense decreased 13.2% to $11.8
+million in the three months ended May 31, 2001 from $13.6 million in the three
+months ended May 31, 2000.  As a percentage of total revenue, sales and
+marketing expense decreased to 46.0% in the three months ended May 31, 2001 from
+61.2% in the three months ended May 31, 2000.  These decreases in sales and
+marketing expense were primarily due to a reduction in redundant marketing
+personnel subsequent to May 31, 2000.  These personnel came from acquisitions
+completed in fiscal 2001.
+<PAGE>
+
+Research and development
+
+Research and development expense consists primarily of personnel and related
+costs--including non-cash, stock-based compensation charges--for development of
+our software products and web site.  Research and development expense increased
+64.4% to $5.8 million in the three months ended May 31, 2001 from $3.6 million
+in the three months ended May 31, 2000.  As a percentage of total revenue,
+research and development expense increased to 22.8% in the three months ended
+May 31, 2001 from 16.1% in the three months ended May 31, 2000.  The increase in
+research and development expense resulted from increased spending related to the
+development of our e-commerce and database solutions, costs incurred to complete
+the development of Version 7.1 of Red Hat Linux, and an increase in stock-based
+compensation expense.
+
+General and administrative
+
+General and administrative expense consists primarily of personnel and related
+costs--including non-cash, stock-based compensation charges--for general
+corporate functions, including finance, accounting, legal, human resources,
+facilities and information systems expenses and merger and acquisition costs.
+General and administrative expense decreased 18.1% to $8.2 million in the three
+months ended May 31, 2001 from $10.0 million in the three months ended May 31,
+2000.  This decrease resulted from:
+
+     .    a decrease in payroll related information systems expenses; and
+
+     .    a reduction in redundant general and administrative personnel
+          subsequent to May 31, 2000 resulting from acquisitions completed in
+          fiscal 2001; and
+
+     .    a decrease in stock-based compensation expense.
+
+As a percentage of total revenue, general and administrative expense decreased
+to 31.9% in the three months ended May 31, 2001 from 44.9% in the three months
+ended May 31, 2000.  We expect general and administrative expense, excluding
+merger and acquisition costs, to decrease as a percentage of revenue as our
+revenues continue to increase.
+
+Write-down of investments
+
+Write-down of investments consists of the non-cash write-down of non-marketable
+equity securities.  Fair value for non-marketable equity securities is estimated
+based on prices recently paid for shares in that company, as well as changes in
+market conditions.  The estimated fair values are not necessarily representative
+of the amounts that the Company could realize in a current transaction.  Write-
+down of investments increased to $4.3 million in the three months ended May 31,
+2001 from zero in the three months ended May 31, 2000.  As a percentage of total
+revenue, write-down of investments increased to 16.6% in the three months ended
+May 31, 2001 from zero in the three months ended May 31, 2000.
+
+Amortization of goodwill and intangibles
+
+Amortization of goodwill and intangibles consists of the amortization of
+goodwill and other intangible assets.  Goodwill, which represents the excess of
+acquisition cost over the net assets acquired in business combinations, is
+amortized over its estimated useful life which is three years.  Costs incurred
+for acquiring trademarks, copyrights and patents are capitalized and amortized
+using the straight line method over their estimated useful lives, which range
+from three to five years.  Amortization of goodwill and intangibles increased
+146.2% to $16.5 million in the three months ended May 31, 2001 from $6.7 million
+in the three months ended May 31, 2000.  As a percentage of total revenue,
+amortization of goodwill and intangibles expense increased to 64.5% in the three
+months ended May 31, 2001 from 30.2% in the three months ended May 31, 2000.
+These increases were primarily due to acquisitions completed in the fiscal year
+ended February 28, 2001.
+<PAGE>
+
+Other income (expense), net
+
+Other income (expense), net consists of interest income earned on cash deposited
+in money market accounts and other short- and long-term investments, net of
+interest expense incurred on capital leases.  Other income (expense), net
+decreased 18.3% to income of $4.5 million in the three months ended May 31, 2001
+from income of $5.5 million in the three months ended May 31, 2000.  As a
+percentage of total revenue, other income (expense), net decreased to 17.5% in
+the three months ended May 31, 2001 from 24.7% in the three months ended May 31,
+2000.  These decreases resulted from lower average cash and investment balances
+in the three months ended May 31, 2001 as compared to the three months ended May
+31, 2000 due primarily to the use of a portion of the proceeds from the sale of
+common stock in our initial and secondary public offerings in August 1999 and
+February 2000, respectively, and a reduction in average interest rates in the
+first quarter of fiscal 2002 as compared to the first quarter of fiscal 2001.
+
+Provision for income taxes
+
+Provision for income taxes decreased to zero for the three months ended May 31,
+2001 from $60,000 in the three months ended May 31, 2000.  The decrease in
+provision for income taxes for the three months ended May 31, 2001 was primarily
+due to a decrease in foreign taxes paid.
+
+Liquidity and Capital Resources
+
+We have historically derived a significant portion of our liquidity and
+operating capital from the sale of equity securities, including private sales of
+preferred stock and the sale of common stock in our initial and secondary public
+offerings, and cash flows from operations.  At May 31, 2001, we had cash and
+investments of $294.6 million, which is comprised of $72.5 million in cash and
+cash equivalents, $47.1 million of short-term, fixed income investments and
+$175.0 million of long-term, fixed income investments.
+
+At May 31, 2001, cash and cash equivalents totaled $72.5 million, a decrease of
+$12.8 million as compared to February 28, 2001.  The decrease in cash and cash
+equivalents resulted from the purchase of net investments in debt and equity
+securities of $4.5 million, cash used by operations of $2.2 million, $2.6
+million for the purchase of office and computer equipment, and repayment of
+notes payable of $2.8 million.  This was partially offset by the receipt of $0.8
+million in proceeds from exercise of stock options and warrants during the three
+months ended May 31, 2001.
+
+Cash used by operations of $2.2 million in the three months ended May 31, 2001,
+represented the net loss of $27.6 million, an increase in inventory of $0.6
+million, an increase in prepaid expenses of $0.7 million, a decrease in accounts
+payable of $5.8 million, and a decrease in accrued expenses of $1.7 million,
+partially offset by an a decrease in accounts receivable of $7.6 million, an
+increase in deferred revenue of $0.5 million, and net non cash charges of $26.0
+million.
+
+Cash used in operations includes $3.7 million representing costs incurred
+related to merger and acquisition activities.  Excluding these costs, our
+recurring operations generated positive cash flow of $1.5 million during the
+three months ended May 31, 2001.  Merger and acquisition costs is a non-GAAP
+measure and includes costs incurred in connection with investigating potential
+acquisitions and costs incurred related to completed acquisitions.  Non-GAAP
+information is not prepared in accordance with GAAP and is not intended to be
+superior to GAAP information.
+
+Cash used in investing activities for the three months ended May 31, 2001 was
+comprised of the purchase of investments in debt securities, net of maturities,
+of $4.5 million, and purchases of property and equipment totaling $2.6 million.
+
+Cash used in financing activities of $1.9 million for the three months ended May
+31, 2001 was primarily comprised of $0.8 million in proceeds from the exercise
+of stock options and warrants and repayment of notes payable of Planning
+Technologies, Inc., which we acquired in January 2001 in a transaction accounted
+for as a pooling of interests, of $2.8 million.
+<PAGE>
+
+                       Factors Affecting Future Results
+
+
+Risks Related to our Linux-based Open Source Business Model
+
+Our open source software business model is unproven.
+
+We have not demonstrated the success of our open source business model, which
+gives our customers the right to freely copy and distribute our software.  No
+other company has built a successful open source business.  Few open source
+software products have gained widespread commercial acceptance partly due to the
+lack of viable open source industry participants to offer adequate service and
+support on a long term basis.  In addition, open source vendors are not able to
+provide industry standard warranties and indemnities for their products, since
+these products have been developed largely by independent parties over whom open
+source vendors exercise no control or supervision.  If open source software
+should fail to gain widespread commercial acceptance, we would not be able to
+sustain our revenue growth and our business could fail.
+
+We depend on the support of Linux developers not employed by the us to release
+major product upgrades and maintain market share.
+
+We may not be able to release major product upgrades of Red Hat Linux on a
+timely basis because the heart of Red Hat Linux, the Linux kernel, is maintained
+by third parties.  Linus Torvalds, the original developer of the Linux kernel,
+and a small group of independent engineers are primarily responsible for the
+development and evolution of the Linux kernel.  If this group of developers
+fails to further develop the Linux kernel or if Mr. Torvalds or other prominent
+Linux developers, such as Alan Cox, David Miller or Stephen Tweedie, were to
+join one of our competitors or no longer work on the Linux kernel, we would have
+to either rely on another party to further develop the kernel or develop it
+ourselves.  We cannot predict whether enhancements to the kernel would be
+available from reliable alternative sources.   We could be forced to rely to a
+greater extent on our own development efforts, which would increase our
+development expenses and may delay our product release and upgrade schedules. In
+addition, any failure on the part of the kernel developers to further develop
+and enhance the kernel could stifle the development of additional Linux-based
+applications.
+
+We may not be able to effectively assemble and test our software because it
+consists largely of code developed by independent third parties over whom we
+exercise no control, which could result in unreliable products and damage to our
+reputation.
+
+Red Hat Linux, in compressed form, consists of approximately 1.1 gigabytes of
+code.  Of that total, in excess of 1,000 megabytes have been developed by
+independent third parties, including approximately 10 megabytes of code
+contained in the Linux kernel.  Included within the 1.1 gigabytes of code are
+more than 800 distinct software components developed by thousands of individual
+programmers which we must assemble and test before we can release a new version
+of Red Hat Linux.  If these components are not reliable, Red Hat Linux could
+fail, resulting in serious damage to our reputation and potential litigation.
+Although we attempt to assemble only the best available components, we cannot be
+sure that we will be able to identify the highest quality and most reliable
+components or successfully assemble and test them.  In addition, if these
+components were no longer available, we would have to develop them ourselves,
+which would significantly increase our development expenses.
+
+The scarcity of software applications for Linux-based operating systems could
+prevent commercial adoption of our products.
+
+Our products will not gain widespread commercial adoption until there are more
+third-party software applications designed to operate on Linux-based operating
+systems.  These applications include word processors, databases, accounting
+packages, spreadsheets, e-mail programs, Internet browsers, presentation and
+graphics software and personal productivity applications.  We intend to
+encourage the
+<PAGE>
+
+development of additional applications that operate on Linux-based operating
+systems by attracting third-party developers to the Linux platform, by providing
+open source tools to create these applications and by maintaining our existing
+developer relationships through marketing and technical support for third-party
+developers. If we are not successful in achieving these goals, however, our
+products will not gain widespread commercial acceptance and we will not be able
+to maintain our product sales growth.
+
+We may not be able to generate revenue from sales of Red Hat Linux if users can
+more quickly download it from the Internet.
+
+Anyone can download a free copy of Red Hat Linux from the Internet.  However,
+because this download can take up to 36 hours using a standard telephone
+connection, many of our users choose to buy the shrink-wrapped version of Red
+Hat Linux.  If hardware and data transmission technology advances in the future
+to the point where increased bandwidth allows users to more quickly download our
+products from the Internet, users may no longer choose to purchase Red Hat
+Linux.  This could lead to a significant loss of product revenue.
+
+We may not succeed in shifting our business focus from traditional shrink-
+wrapped software sales to offering subscription-based product and services
+offerings.
+
+We are focusing our sales and marketing efforts on providing subscription-based
+products and services as opposed to relying on sales of shrink-wrapped software.
+This change has required us to expend significant financial and managerial
+resources and may ultimately prove unsuccessful.  The failure to successfully
+implement this transition of our sales model could materially adversely affect
+our operating results.
+
+Our customers may find it difficult to install and implement Red Hat Linux,
+which could lead to customer dissatisfaction and damage our reputation.
+
+Installation and implementation of Red Hat Linux often involves a significant
+commitment of resources, financial and otherwise, by our customers.  This
+process can be lengthy due to the size and complexity of our products and the
+need to purchase and install new applications.  The failure by us to attract and
+retain services personnel to support our customers, the failure of companies
+with which we have strategic alliances to commit sufficient resources towards
+the installation and implementation of our products, or a delay in
+implementation for any other reason could result in dissatisfied customers.
+This could damage our reputation and the Red Hat brand and result in decreased
+revenue.
+
+We may be unable to predict the future course of open source technology
+development, which could reduce the market appeal of our products and damage our
+reputation.
+
+We do not exercise control over many aspects of the development of open source
+technology.  Historically, different groups of open source software programmers
+have competed with each other to develop new technology.  Typically one of those
+groups develops the technology that becomes more widely used than that developed
+by others.  If we adopt new technology and incorporate it into our products, and
+competing technology becomes more widely used, the market appeal of our products
+may be reduced, which could harm our reputation, diminish the Red Hat brand and
+result in decreased revenue.
+
+Risks Related to our Financial Results and Condition
+
+Our limited operating history in the new and developing market for Linux-based
+operating systems makes it difficult to evaluate our business.
+
+Red Hat was formed in March 1993.  We began offering Red Hat Linux in October
+1994.  Our limited operating history and the developing market for Linux-based
+operating systems makes it difficult to evaluate the risks and uncertainties
+that we face.  Our failure to address these risks and uncertainties
+<PAGE>
+
+could cause our business results to suffer and result in the loss of all or part
+of your investment.
+
+We have limited combined operating history with the companies we have acquired
+since our initial public offering and may have difficulty integrating these
+businesses.
+
+The successful integration of the operations, products, services and personnel
+of Red Hat and the seven companies we have acquired since our initial public
+offering -- Cygnus Solutions, Hell's Kitchen Systems, Inc., Bluecurve, Inc.,
+WireSpeed Communications Corporation, C2Net Software, Inc. Akopia, Inc., and
+Planning Technologies, Inc. -- is important to the future financial performance
+of the combined enterprise.  The anticipated benefits of these acquisitions may
+not be achieved unless, among other things, the operations, products, services
+and personnel of the acquired companies are successfully combined with those of
+Red Hat in a timely and efficient manner.  Integration of these companies'
+operations, products, services and personnel may be hampered because, among
+other things:
+
+ .    the products and services offered by each of the acquired companies and Red
+     Hat are highly complex and have been developed independently;
+
+ .    integration of the product lines of Red Hat and each of the acquired
+     companies will require the coordination of separate development and
+     engineering teams from each company; and
+
+ .    the employees and management of the acquired companies and Red Hat are
+     located in disparate geographical regions.
+
+In addition, the costs associated with integrating these companies' operations,
+products, services and personnel may be substantial and could include, among
+other things:
+
+ .    employee redeployment or relocation; and
+
+ .    the combination of research and development teams and processes.
+
+Any of these difficulties and costs encountered in the transition process, could
+divert the attention of management, and could have an adverse impact on the
+revenues and operating results of the combined enterprise.
+
+We expect to incur substantial losses on a GAAP basis for the foreseeable
+future.
+
+We have incurred operating losses in six of our previous seven fiscal years,
+including our most recent fiscal year ended February 28, 2001.  We expect to
+incur significant losses on a GAAP basis for the foreseeable future, as we
+substantially increase our sales and marketing, research and development and
+administrative expenses.  In addition, we are investing considerable resources
+in our Red Hat Network initiative and to expand our professional services
+offerings.  As a result, we cannot be certain when or if we will achieve
+sustained profitability.  Failure to become and remain profitable may adversely
+affect the market price of our common stock and our ability to raise capital and
+continue operations.
+
+You should not rely on our quarterly results of operations as an indication of
+our future results because they fluctuate significantly and are difficult to
+forecast.
+
+Due to our limited combined operating history and the unpredictability of our
+business, our revenue and operating results may fluctuate significantly from
+quarter to quarter and are difficult to forecast.  We base our current and
+projected future expense levels in part on our estimates of future revenue.  Our
+expenses are, to a large extent, fixed in the short term.  We may not be able to
+adjust our spending quickly if our revenue falls short of our expectations.
+Accordingly, a revenue shortfall in a particular quarter would have a
+disproportionate adverse effect on our operating results for that quarter.  You
+should not rely on quarter-to-quarter comparisons of our results of operations
+as an indication of our future performance.  Our future operating results may
+fall below expectations of securities analysts or
+<PAGE>
+
+investors, which would likely cause the market price of our common stock to
+decline significantly.
+
+We may not be able to effectively attract additional enterprise customers and
+preserve relationships with current enterprise customers, which could adversely
+affect revenue.
+
+Historically, we focused our sales and marketing efforts on product sales to
+individuals.  We have recently, however, begun to focus our efforts on expanding
+our enterprise customer base.  To this end, we have invested extensively to
+attract enterprise customers.  These enterprise customers expect diverse and
+extensive service programs, and if we are unable to continue to successfully
+expand and enhance our service offerings, we may not be able to meet these
+customers' needs or attract new customers, and, consequently, our revenue would
+suffer.
+
+Our failure to update and modernize our internal systems, procedures and
+controls may prevent the implementation of our business strategies in a rapidly
+evolving market and may constrain our future growth.
+
+Our operational and financial systems, procedures and controls, which were
+adequate for a small private company, are becoming outdated as we grow.  Since
+March 1, 1999 we have increased the number of employees more than tenfold.  To
+accommodate this growth, we have evaluated our financial and operational
+systems, procedures and controls.  Although we have revised or are in the
+process of revising and updating most of them, if we continue our rapid growth,
+we may not be able to improve our transaction processing and reporting systems
+and procedures, or expand and train our expanding workforce quickly enough to
+maintain a competitive position in our markets.  In addition, failure to quickly
+replace obsolete systems, procedures and controls could impede our management's
+decision-making abilities.  This, in turn, may impair our ability to pursue
+business opportunities and may hamper future growth.
+
+We may not be able to generate enough additional revenue from our international
+expansion to offset the costs associated with establishing and maintaining
+foreign operations.
+
+A key component of our growth strategy is to expand our presence in foreign
+markets.  We have established subsidiaries or offices in Canada, Ireland, the
+United Kingdom, Germany, Italy, Japan, France, Singapore and Australia, and are
+considering further expansion worldwide.  We may also enter other markets as
+opportunities arise.  It will be costly to establish international facilities
+and operations, promote our brand internationally, and develop localized web
+sites and other systems.  Revenue from international activities may not offset
+the expense of establishing and maintaining these foreign operations. In
+addition, because we have little experience in marketing and distributing
+products or services for these markets, we may not benefit from any first-to-
+market advantages.
+
+Our management team may not be able to successfully implement our business
+strategies because it has only recently begun to work together.
+
+Our business is highly dependent on the ability of our management to work
+together effectively to meet the demands of our growth.  Several members of our
+senior management have been employed by us for a relatively short period of
+time.  These individuals have not previously worked together as a management
+team.  The failure of our management team to work together effectively could
+prevent efficient decision-making by our executive team, affecting product
+development and sales and marketing efforts, which would negatively impact our
+operating results.
+
+We depend on our key personnel.
+
+Our future success depends on the continued services of a number of key
+officers, including our Chief Executive Officer and President, Matthew J.
+Szulik, our Chief Operating Officer, Timothy J. Buckley, our Executive Vice
+President of Engineering, Paul Cormier, and our Chief Financial Officer, Kevin
+B. Thompson.  The loss of the technical knowledge and industry expertise of any
+of these people could
+<PAGE>
+
+seriously impede our success. Moreover, the loss of one or a group of our key
+employees, particularly to a competitor, and any resulting loss of customers
+could reduce our market share and diminish the Red Hat brand.
+
+With our declining stock price we may have increased difficulty in attracting
+and retaining highly skilled employees.
+
+As with most technology companies, a key component of our compensation package
+for our employees is stock options.  With the decline in our stock price, many
+of the options granted in the last 18 months are now out of the money.  In order
+to retain our highly skilled workforce, we may be compelled to grant new
+options.  If such new options are granted, they are likely to have a dilutive
+effect on our stockholders.
+
+We may lack the financial and operational resources needed to increase our
+market share and compete effectively with Microsoft, other established operating
+systems developers, software development tools developers and other service and
+support providers.
+
+In the market for operating systems, we face significant competition from larger
+companies with greater financial resources and name recognition than we have.
+These competitors, which offer hardware-independent multi-user operating systems
+for Intel platforms and/or UNIX-based operating systems, include Microsoft,
+Novell, IBM, Sun Microsystems, The Santa Cruz Operation, AT&T, Compaq, Hewlett-
+Packard, Olivetti and Unisys.  Some of these competitors currently, or may in
+the future, produce and market open source operating systems.
+
+We also face competition in the market for software development tools and
+operating systems for special purpose computing, including embedded systems.
+Our competitors in this market, some of which have greater market share than we
+do, include Wind River Systems, Integrated Systems Incorporated, Green Hills
+Software, and the Metrowerks subsidiary of Motorola.  Some of these companies
+currently produce or use open source software as part of their product
+offerings.  We may not be able to compete effectively in this market if
+customers choose proprietary solutions.  If the demand for open source solutions
+in this market expands, however, we could lose market share as existing
+competitors reposition or new companies emerge to address the opportunity.
+
+As we increase our services offerings, we may face competition from larger and
+more capable companies that currently service and support the Linux operating
+system as well as other operating systems, particularly UNIX-based operating
+systems, due to the fact that Linux-and UNIX-based operating systems share many
+common features.  These companies, including IBM and Hewlett-Packard, may be
+able to leverage their existing service organizations and provide higher levels
+of support on a more cost-effective basis than we can.  We may not be able to
+compete successfully with these current or potential competitors.
+
+We may not be able to match the promotional activities and pricing policies
+offered by other suppliers of Linux-based and other open source operating
+systems, which could result in a loss of market share.
+
+In the new and rapidly evolving market for Linux-based operating systems, we
+face intense competition from a number of other suppliers of Linux-based
+operating systems.  We also face competition to a lesser extent from developers
+of non-Linux-based open source operating systems such as BSD-based operating
+systems.  BSD-based operating systems such as FreeBSD, NetBSD and OpenBSD are
+open source operating systems produced by communities of developers working
+together via the Internet, and which are published and distributed by Walnut
+Creek CD-ROM, among others.  We expect competition in broader open source
+operating systems and the Linux-based operating systems market to intensify.  In
+addition, companies like Sun Microsystems and IBM, which are more established
+and have larger customer bases than we do, have indicated a growing interest in
+the market for Linux-based operating systems.  With the recent acquisition of
+BSDi by Wind River Systems, we will face increased competition
+<PAGE>
+
+in providing open source solutions in the embedded space. These companies may be
+able to undertake more extensive promotional activities, adopt more aggressive
+pricing policies, and offer more attractive terms to their customers than we
+can. Furthermore, because Linux-based operating systems can be downloaded from
+the Internet for free or purchased at a nominal cost and modified and re-sold
+with few restrictions, traditional barriers to entry are minimal. Accordingly,
+it is possible that new competitors or alliances among existing competitors may
+emerge and rapidly acquire significant market share.
+
+If we fail to establish and maintain strategic distribution and other
+collaborative relationships with industry-leading companies, we may not be able
+to attract and retain a larger customer base.
+
+Our success depends on our ability to continue to establish and maintain
+strategic distribution and other collaborative relationships with industry-
+leading hardware manufacturers, distributors, software vendors and enterprise
+solutions providers.  These relationships allow us to offer our products and
+services to a much larger customer base than we would otherwise be able to
+through our direct sales and marketing efforts.  We may not be able to maintain
+these relationships or replace them on attractive terms.  In addition, our
+existing strategic relationships do not, and any future strategic relationships
+may not, afford us any exclusive marketing or distribution rights.  As a result,
+the companies with which we have strategic alliances are free to pursue
+alternative technologies and to develop alternative products and services in
+addition to or in lieu of our products and services, either on their own or in
+collaboration with others, including our competitors.  Moreover, we cannot
+guarantee that the companies with which we have strategic relationships will
+market our products effectively or continue to devote the resources necessary to
+provide us with effective sales, marketing and technical support.
+
+We may not be able to meet the operational and financial challenges that we will
+encounter as our international operations expand.
+
+As we expand our international operations, we will face a number of additional
+challenges associated with the conduct of business overseas.  For example:
+
+ .    we may have difficulty managing and administering a globally-dispersed
+     business;
+
+ .    fluctuations in exchange rates may negatively affect our operating results;
+
+ .    we may not be able to repatriate the earnings of our foreign operations;
+
+ .    we have to comply with a wide variety of foreign laws with which we are not
+     familiar;
+
+ .    we may not be able to adequately protect our trademarks overseas due to the
+     uncertainty of laws and enforcement in certain countries relating to the
+     protection of intellectual property rights;
+
+ .    reductions in business activity during the summer months in Europe and
+     certain other parts of the world could negatively impact the operating
+     results of our foreign operations;
+
+ .    export controls could prevent us from shipping our products into and from
+     some markets;
+
+ .    multiple and possibly overlapping tax structures could significantly reduce
+     the financial performance of our foreign operations;
+
+ .    changes in import/export duties and quotas could affect the competitive
+     pricing of our products and services and reduce our market share in some
+     countries; and
+
+ .    economic or political instability in some international markets could
+     result in the forfeiture of some foreign assets and the loss of sums spent
+     developing and marketing those assets.
+<PAGE>
+
+Expanding our services business will be costly and may not result in any benefit
+to us.
+
+We have expanded our strategic focus to place additional emphasis on consulting,
+custom engineering and development, education and support services.  We cannot
+be certain that our customers will engage our professional services organization
+to assist with support, consulting, embedded development, training and
+implementation of our products.  We also cannot be certain that we can attract
+or retain a sufficient number of the highly qualified services personnel that
+the expansion of our services business will need.  In addition, this expansion
+has required, and will continue to require, significant additional expenses and
+development, financial and operational resources.  The need for these additional
+resources will place further strain on our management, financial and operational
+resources and may make it more difficult for us to achieve and maintain
+profitability.
+
+Attempts to expand by means of business combinations and strategic alliances may
+not be successful and may harm our operational efficiency, financial performance
+and relationships with employees and third parties.
+
+We may continue to expand our operations or market presence by entering into
+additional business combinations, investments, joint ventures or other strategic
+alliances with hardware manufacturers, software vendors, Internet companies,
+open source software developers or other companies both in the United States and
+internationally.  Our ability to expand in this way may be limited due to the
+many financial and operational risks accompanying these transactions.  For
+example:
+
+ .  we may have difficulty assimilating the operations, technology and personnel
+   of the combined companies;
+
+ .  our business may be disrupted by the allocation of resources to consummate
+   these transactions;
+
+ .  we may have problems retaining key technical and managerial personnel from
+   acquired companies;
+
+ .  we may experience one-time in-process research and development charges and
+   ongoing expenses associated with amortization of goodwill and other purchased
+   intangible assets;
+
+ .  our stockholders will suffer dilution if we issue equity to fund these
+   transactions;
+
+ .  acquired businesses may initially be unprofitable resulting in our assumption
+   of operating losses and increased expenses;
+
+ .  our reputation may be harmed if the open source development community does
+   not approve of these transactions;
+
+ .  our relationships with existing employees, customers and business partners
+   may be weakened or terminated as a result of these transactions; and
+
+ .  our investment activities, particularly with respect to emerging-growth
+   technology companies, are inherently risky and we may not realize any benefit
+   from such activities.
+
+
+Risks Related to our Internet Strategy
+
+We may fail to promote and enhance our web site effectively, which may prevent
+us from attracting new visitors, advertisers or electronic commerce partners to
+our web site.
+
+In order to attract and retain Internet users, service customers, and electronic
+commerce partners, we intend to substantially increase our expenditures for
+enhancing and further developing our web site.  Our success in promoting and
+enhancing the redhat.com web site will also depend on our ability to provide
+<PAGE>
+
+high quality service delivery, content, features and functionality.  If we fail
+to promote our web site successfully or if visitors to our web site or customers
+do not perceive our services to be useful, current or of high quality, our
+ability to generate revenue from our web site will be significantly impaired.
+
+Visitors to our web site could experience delays and decreased performance
+during periods of heavy traffic, which could result in dissatisfaction with our
+web site and damage to our reputation.
+
+Our web site must accommodate a high volume of traffic and deliver frequently
+updated information.  Our web site has in the past experienced slower response
+times or decreased traffic for a variety of reasons.  These occurrences have not
+had a material impact on our business.  These types of occurrences in the
+future, however, could materially adversely affect our reputation and brand name
+and could cause users to perceive our web site as not functioning properly.
+Under these circumstances, our users might choose another web site or other
+methods to obtain Linux-based operating systems, services, or Linux-related
+information.
+
+Our Internet strategy will fail if the infrastructure of the Internet is not
+continually developed and maintained.
+
+The success of our Internet strategy will depend in large part on the continued
+development and maintenance of the infrastructure of the Internet.  Because
+global commerce and the online exchange of information is new and evolving, we
+cannot predict with any certainty that the Internet will be a viable commercial
+marketplace in the long term.  The Internet has experienced, and we expect it to
+continue to experience, significant growth in the number of users and amount of
+traffic.  If the Internet continues to experience an increased number of users,
+frequency of use or increased bandwidth requirements of users, it may not be
+able to support the demands placed upon it by this growth, and its performance
+and reliability may suffer.  Furthermore, the Internet has experienced a variety
+of outages and other delays as a result of damage to portions of its
+infrastructure, and could face similar outages and delays in the future.  Any
+outage or delay could affect the level of Internet usage, as well as the volume
+of traffic on our web site. In addition, the Internet could lose its viability
+due to increased governmental regulation and delays in the development or
+adoption of new standards and protocols to handle increased levels of activity.
+If the necessary infrastructure, standards or protocols or complementary
+products, services or facilities are not developed, or if the Internet does not
+become a viable commercial marketplace, our Internet strategy will not succeed.
+
+We are vulnerable to unexpected network interruptions caused by system failures,
+which may result in reduced visitor traffic on our web site, decreased revenue
+and harm to our reputation.
+
+Substantially all of our communications hardware and other hardware related to
+our web site is located at our facilities, although we have back-up and co-
+location hardware for our web site located at third-party facilities.  Fire,
+floods, hurricanes, tornadoes, earthquakes, power loss, telecommunications
+failures, break-ins and similar events could damage these systems.  In addition,
+although we have implemented network security measures, our servers are
+vulnerable to computer viruses, electronic break-ins, human error and other
+similar disruptive problems which could adversely affect our systems and web
+site.  Although we try to prevent unauthorized access to our systems, we cannot
+eliminate this risk entirely.  We could lose revenue and suffer damage to our
+reputation if our systems were affected by any of these occurrences.  Our
+insurance policies may not adequately compensate us for any losses that may
+occur due to failures or interruptions in our systems.  We do not presently have
+any secondary "off-site" systems or a formal disaster recovery plan.
+<PAGE>
+
+Risks Related to Legal Uncertainty
+
+We could be prevented from selling or developing our products if the GNU General
+Public License and similar licenses under which our products are developed and
+licensed are not enforceable.
+
+The Linux kernel and the Red Hat Linux operating system have been developed and
+licensed under the GNU General Public License and similar licenses.  These
+licenses state that any program licensed under them may be liberally copied,
+modified and distributed.  We know of no circumstance under which these licenses
+have been challenged or interpreted in court.  Accordingly, it is possible that
+a court would hold these licenses to be unenforceable in the event that someone
+were to file a claim asserting proprietary rights in a program developed and
+distributed under them. Any ruling by a court that these licenses are not
+enforceable, or that Linux-based operating systems, or significant portions of
+them, may not be liberally copied, modified or distributed, would have the
+effect of preventing us from selling or developing our products.
+
+Our products may contain defects that may be costly to correct, delay market
+acceptance of our products and expose us to litigation.
+
+Despite testing by us and our customers, errors have been and may continue to be
+found in our products after commencement of commercial shipments.  This risk is
+exacerbated by the fact that most of the code in our products is developed by
+independent parties over whom we exercise no supervision or control.  If errors
+are discovered, we may have to make significant expenditures of capital to
+eliminate them and yet may not be able to successfully correct them in a timely
+manner or at all.  Errors and failures in our products could result in a loss
+of, or delay in, market acceptance of our products and could damage our
+reputation and our ability to convince commercial users of the benefits of
+Linux-based operating systems and other open source software products.
+
+In addition, failures in our products could cause system failures for our
+customers who may assert warranty and other claims for substantial damages
+against us. Although our license agreements with our customers typically contain
+provisions designed to limit our exposure to potential product liability claims,
+it is possible that these provisions may not be effective or enforceable under
+the laws of some jurisdictions.  Our insurance policies may not adequately limit
+our exposure to this type of claim.  These claims, even if unsuccessful, could
+be costly and time consuming to defend.
+
+We are vulnerable to claims that our products infringe third-party intellectual
+property rights particularly because our products are comprised of many distinct
+software components developed by thousands of independent parties.
+
+We may be exposed to future litigation based on claims that our products
+infringe the intellectual property rights of others.  This risk is exacerbated
+by the fact that most of the code in our products is developed by independent
+parties over whom we exercise no supervision or control.  Claims of infringement
+could require us to reengineer our products or seek to obtain licenses from
+third parties in order to continue offering our products.  In addition, an
+adverse legal decision affecting our intellectual property, or the use of
+significant resources to defend against this type of claim, could place a
+significant strain on our financial resources and harm our reputation.
+
+Our efforts to protect our trademarks may not be adequate to prevent third
+parties from misappropriating our intellectual property rights.
+
+Our most valuable intellectual property is our collection of trademarks.  The
+protective steps we have taken in the past have been, and may in the future
+continue to be, inadequate to deter misappropriation of our trademark rights.
+Although we do not believe that we have suffered any material harm from
+misappropriation to date, we may be unable to detect the unauthorized use of, or
+take appropriate steps to enforce, our trademark rights.  We have registered
+some of our trademarks in the United States,
+<PAGE>
+
+Europe and Australia and have other trademark applications pending in the United
+States, Europe, Australia, Canada, Europe and Japan. Effective trademark
+protection may not be available in every country in which we offer or intend to
+offer our products and services. Failure to adequately protect our trademark
+rights could damage or even destroy the Red Hat brand and impair our ability to
+compete effectively. Furthermore, defending or enforcing our trademark rights
+could result in the expenditure of significant financial and managerial
+resources.
+
+We may be sued as a result of information published or posted on or accessible
+from our redhat.com web site.
+
+We may be subjected to claims for defamation, negligence, copyright or trademark
+infringement or other claims relating to the information we publish on our web
+site.  These types of claims have been brought, sometimes successfully, against
+online services in the past, and can be costly to defend.  We may also be
+subjected to claims based on content that is accessible from our web site
+through links to other web sites or through content and materials that may be
+posted by visitors to our web site.  We believe that the scope and amount of our
+commercial and general liability insurance is appropriate, given our current
+financial position.  However, this insurance may not adequately protect us
+against these types of claims.  We have not been a party to any lawsuit of this
+type to date.
+
+
+Risks Related to the Market for Our Common Stock
+
+Our stock price has been extremely volatile and you may not be able to resell
+your shares at or above your purchase price.
+
+The trading price of our common stock has been and is likely to continue to be
+highly volatile and could be subject to wide fluctuations in response to factors
+such as:
+
+ .  actual or anticipated variations in quarterly operating results;
+
+ .  new products or services offered by Red Hat or our competitors;
+
+ .  changes in financial estimates by securities analysts;
+
+ .  conditions or trends in the Internet, Linux and software industries;
+
+ .  changes in the economic performance and/or market valuations of other
+   Internet, Linux and software industries;
+
+ .  announcements by us or our competitors of significant acquisitions, strategic
+   partnerships, joint ventures or capital commitments;
+
+ .  additions or departures of key personnel;
+
+ .  sales of common stock; and
+
+ .  other events or factors, many of which are beyond our control.
+
+In addition, the stock market in general, and the NASDAQ National Market and the
+market for Internet-related and technology companies in particular, has
+experienced extreme price and volume fluctuations that have often been unrelated
+or disproportionate to the operating performance of such companies.  In
+addition, broad market and industry factors may materially adversely affect the
+market price of our common stock, regardless of our actual operating
+performance.  In the past, following periods of volatility in the market price
+of a company's securities, securities class-action litigation has often been
+instituted against such companies. Such litigation, if instituted, could result
+in substantial costs and a diversion of management's attention and resources,
+which would materially adversely affect our business, financial condition and
+operating results.
+<PAGE>
+
+ITEM 3.   Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+
+The primary objective of Red Hat's investment activities is to preserve
+principal and liquidity while at the same time maximizing yields without
+significantly increasing risk.  To achieve this objective, the Company maintains
+its portfolio of cash equivalents, short-term and long-term investments in a
+variety of fixed-income securities, including both government and corporate
+obligations and money market funds.
+
+Red Hat did not hold derivative financial instruments as of May 31, 2001, and
+has never held such investments in the past.
+
+Foreign Currency Risk
+
+Approximately 22.1% of the Company's revenues for the three months ended May 31,
+2001 were generated by sales outside the United States. The Company is exposed
+to significant risks of foreign currency fluctuation primarily from receivables
+denominated in foreign currency and are subject to transaction gains and losses,
+which are recorded as a component in determining net income. Additionally, the
+assets and liabilities of the Company's non-U.S. operations are translated into
+U.S. dollars at exchange rates in effect as of the applicable balance sheet
+dates, and revenue and expense accounts of these operations are translated at
+average exchange rates during the month the transactions occur. Unrealized
+translation gains and losses will be included as an adjustment to stockholders'
+equity.
+<PAGE>
+
+PART II - OTHER INFORMATION
+
+ITEM 2:  CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+Use of Proceeds
+
+On August 11, 1999 the Securities and Exchange Commission declared effective the
+Company's Registration Statement on Form S-1 (File number 333-80051), relating
+to the initial public offering of the Company's Common Stock, $.0001 par value.
+The offering commenced on August 11, 1999 and all shares covered by the
+Registration Statement were sold. The proceeds to the Company, net of
+underwriting discounts and costs, was approximately $88.5 million.  Measured on
+a cash out-flow basis only, all of the proceeds have been used to fund working
+capital requirements from the effective date of the registration statement
+(August 11, 1999) through May 31, 2001.
+
+None of the net proceeds from the IPO were used to pay, directly or indirectly,
+directors, officers, persons owning ten percent or more of the Company's equity
+securities, or affiliates of the Company.
+
+
+ITEM 6:  EXHIBITS AND REPORTS ON FORM 8-K
+
+
+a.   List of Exhibits:
+
+         None
+
+b.   Reports on Form 8-K
+
+          On March 5, 2001, the Company filed a Current Report on Form 8-K to
+report, under Item 5, the completion of its acquisition of Planning
+Technologies, Inc.
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+Date:  July 12, 2001                 RED HAT, INC.
+
+
+
+                                     By:  /s/  MATTHEW J. SZULIK
+                                        ------------------------
+                                           Matthew J. Szulik
+                                           President and Chief Executive Officer
+                                           (Officer on behalf of the Registrant)
+
+                                     By:  /s/  KEVIN B. THOMPSON
+                                        ------------------------
+                                           Kevin B. Thompson
+                                           Chief Financial Officer
+                                           (Principal Financial Officer)
+</TEXT>
+</DOCUMENT>

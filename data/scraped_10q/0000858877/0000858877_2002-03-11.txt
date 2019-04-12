@@ -1,0 +1,3136 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f79749e10-q.txt
+<DESCRIPTION>FORM 10-Q DATED JANUARY 26, 2002
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+            (MARK ONE)
+
+            [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                 FOR THE QUARTERLY PERIOD ENDED JANUARY 26, 2002
+
+                                       OR
+
+            [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+            FOR THE TRANSITION PERIOD FROM ___________ TO ___________
+
+                         COMMISSION FILE NUMBER 0-18225
+
+                               CISCO SYSTEMS, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+         CALIFORNIA                                      77-0059951
+(STATE OR OTHER JURISDICTION OF                         (I.R.S. EMPLOYER
+ INCORPORATION OR ORGANIZATION)                      IDENTIFICATION NUMBER)
+
+                              170 WEST TASMAN DRIVE
+                           SAN JOSE, CALIFORNIA 95134
+              (ADDRESS OF PRINCIPAL EXECUTIVE OFFICE AND ZIP CODE)
+
+                                 (408) 526-4000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to filing requirements
+for the past 90 days.
+
+                                 YES [X] NO [ ]
+
+As of February 22, 2002, 7,321,504,303 shares of the registrant's common stock
+were outstanding.
+
+===============================================================================
+
+
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                FORM 10-Q FOR THE QUARTER ENDED JANUARY 26, 2002
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                              Page
+                                                                                              ----
+<S>           <C>                                                                             <C>
+Part I.        Financial Information
+
+Item 1.        Financial Statements (Unaudited)
+
+               a)   Consolidated Statements of Operations for the three and six months
+                    ended January 26, 2002 and January 27, 2001                                 3
+
+               b)   Consolidated Balance Sheets at January 26, 2002 and July 28, 2001           4
+
+               c)   Consolidated Statements of Cash Flows for the six months ended
+                    January 26, 2002 and January 27, 2001                                       5
+
+               d)   Consolidated Statements of Shareholders' Equity for the six months
+                    ended January 26, 2002 and January 27, 2001                                 6
+
+               e)   Notes to Consolidated Financial Statements                                  7
+
+Item 2.        Management's Discussion and Analysis of Financial Condition and
+                    Results of Operations                                                      28
+
+Item 3.        Quantitative and Qualitative Disclosures About Market Risk                      54
+
+Part II.       Other Information
+
+Item 1.        Legal Proceedings                                                               55
+
+Item 6.        Exhibits and Reports on Form 8-K                                                55
+
+               Signature                                                                       56
+
+</TABLE>
+
+
+                                       2
+<PAGE>
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                               CISCO SYSTEMS, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (IN MILLIONS, EXCEPT PER-SHARE AMOUNTS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                     Three Months Ended          Six Months Ended
+                                                  -------------------------  -------------------------
+                                                  January 26,   January 27,  January 26,   January 27,
+                                                      2002         2001         2002          2001
+                                                  -----------   -----------  -----------   -----------
+<S>                                               <C>           <C>          <C>           <C>
+NET SALES:
+   Product                                          $ 4,022      $ 6,064      $ 7,678       $11,975
+   Services                                             794          684        1,586         1,292
+                                                    -------      -------      -------       -------
+     Total net sales                                  4,816        6,748        9,264        13,267
+                                                    -------      -------      -------       -------
+
+COST OF SALES:
+   Product                                            1,593        2,310        3,093         4,432
+   Services                                             253          271          509           527
+                                                    -------      -------      -------       -------
+     Total cost of sales                              1,846        2,581        3,602         4,959
+                                                    -------      -------      -------       -------
+
+   GROSS MARGIN                                       2,970        4,167        5,662         8,308
+
+OPERATING EXPENSES:
+   Research and development                             862        1,012        1,779         1,959
+   Sales and marketing                                1,071        1,434        2,167         2,796
+   General and administrative                           148          196          299           392
+   Amortization of goodwill                              --          169           --           313
+   Amortization of purchased intangible assets          136           87          282           168
+   In-process research and development                   --          237           37           746
+                                                    -------      -------      -------       -------
+      Total operating expenses                        2,217        3,135        4,564         6,374
+                                                    -------      -------      -------       -------
+
+OPERATING INCOME                                        753        1,032        1,098         1,934
+
+Interest and other income (losses), net                 179          275         (509)          695
+                                                    -------      -------      -------       -------
+
+INCOME BEFORE PROVISION
+   FOR INCOME TAXES                                     932        1,307          589         2,629
+Provision for income taxes                              272          433          197           957
+                                                    -------      -------      -------       -------
+
+   NET INCOME                                       $   660      $   874      $   392       $ 1,672
+                                                    =======      =======      =======       =======
+
+Net income per share--basic                         $  0.09      $  0.12      $  0.05       $  0.23
+                                                    =======      =======      =======       =======
+
+Net income per share--diluted                       $  0.09      $  0.12      $  0.05       $  0.22
+                                                    =======      =======      =======       =======
+
+Shares used in per-share calculation--basic           7,311        7,144        7,309         7,121
+                                                    =======      =======      =======       =======
+
+Shares used in per-share calculation--diluted         7,496        7,556        7,480         7,567
+                                                    =======      =======      =======       =======
+
+</TABLE>
+
+See Notes to Consolidated Financial Statements.
+
+
+                                       3
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                         (IN MILLIONS, EXCEPT PAR VALUE)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                         January 26,    July 28,
+                                                                            2002          2001
+                                                                         -----------    --------
+<S>                                                                      <C>            <C>
+ASSETS
+Current assets:
+   Cash and cash equivalents                                              $  5,337      $  4,873
+   Short-term investments                                                    2,211         2,034
+   Accounts receivable, net of allowance for doubtful accounts
+     of $336 at January 26, 2002 and $288 at July 28, 2001                   1,150         1,466
+   Inventories, net                                                          1,023         1,684
+   Deferred tax assets                                                       2,085         1,809
+   Lease receivables, net                                                      389           405
+   Prepaid expenses and other current assets                                   570           564
+                                                                          --------      --------
+
+      Total current assets                                                  12,765        12,835
+
+Investments                                                                 12,299        10,346
+Restricted investments                                                       1,161         1,264
+Property and equipment, net                                                  2,504         2,591
+Goodwill                                                                     3,326         3,189
+Purchased intangible assets, net                                             1,224         1,470
+Lease receivables, net                                                          67           253
+Other assets                                                                 3,358         3,290
+                                                                          --------      --------
+
+      TOTAL ASSETS                                                        $ 36,704      $ 35,238
+                                                                          ========      ========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+   Accounts payable                                                       $    371      $    644
+   Income taxes payable                                                        277           241
+   Accrued compensation                                                      1,414         1,058
+   Deferred revenue                                                          3,047         2,470
+   Other accrued liabilities                                                 2,366         2,553
+   Restructuring liabilities                                                   278           386
+                                                                          --------      --------
+
+      Total current liabilities                                              7,753         7,352
+
+Deferred revenue                                                               790           744
+                                                                          --------      --------
+
+      Total liabilities                                                      8,543         8,096
+                                                                          --------      --------
+
+Commitments and contingencies (Note 6)
+
+Minority interest                                                               18            22
+
+Shareholders' equity:
+   Preferred stock, no par value: 5 shares authorized;
+     none issued and outstanding                                                --            --
+   Common stock and additional paid-in capital, $0.001 par value:
+     20,000 shares authorized; 7,335 and 7,324 shares issued and
+     outstanding at January 26, 2002 and July 28, 2001, respectively        20,603        20,051
+   Retained earnings                                                         7,246         7,344
+   Accumulated other comprehensive income (loss)                               294          (275)
+                                                                          --------      --------
+      Total shareholders' equity                                            28,143        27,120
+                                                                          --------      --------
+
+      TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                          $ 36,704      $ 35,238
+                                                                          ========      ========
+</TABLE>
+
+See Notes to Consolidated Financial Statements.
+
+
+                                      4
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                  (IN MILLIONS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                        Six Months Ended
+                                                                    -------------------------
+                                                                    January 26,   January 27,
+                                                                        2002          2001
+                                                                    -----------   -----------
+<S>                                                                 <C>           <C>
+Cash flows from operating activities:
+   Net income                                                         $   392       $ 1,672
+   Adjustments to reconcile net income to net cash
+     provided by operating activities:
+      Depreciation and amortization                                       935           974
+      Provision for doubtful accounts                                      60            52
+      Provision for (benefit from) inventory                               (3)          338
+      Deferred income taxes                                              (445)         (661)
+      Tax benefits from employee stock option plans                        49         1,662
+      In-process research and development                                  25           637
+      Net (gains) losses on investments and provision for losses        1,014            43
+      Change in operating assets and liabilities:
+        Accounts receivable                                               256        (1,261)
+        Inventories                                                       570        (1,637)
+        Prepaid expenses and other current assets                          15           (93)
+        Accounts payable                                                 (273)          193
+        Income taxes payable                                               35            54
+        Accrued compensation                                              356            (5)
+        Deferred revenue                                                  623           608
+        Other accrued liabilities                                        (110)          250
+        Restructuring liabilities                                        (108)           --
+                                                                      -------       -------
+         Net cash provided by operating activities                      3,391         2,826
+                                                                      -------       -------
+Cash flows from investing activities:
+   Purchases of short-term investments                                 (2,762)       (1,975)
+   Proceeds from sales and maturities of short-term investments         3,173         2,818
+   Purchases of investments                                            (8,441)       (9,866)
+   Proceeds from sales and maturities of investments                    5,680         7,793
+   Purchases of restricted investments                                    (61)         (489)
+   Proceeds from sales and maturities of restricted investments           191           705
+   Acquisition of property and equipment                                 (482)       (1,208)
+   Acquisition of businesses, net of cash and cash equivalents             14           (24)
+   Change in lease receivables, net                                       202           145
+   Purchases of investments in privately held companies                   (37)         (806)
+   Lease deposits                                                         (73)         (320)
+   Purchase of minority interest of Cisco Systems, K.K. (Japan)           (65)           --
+   Other                                                                  (43)         (535)
+                                                                      -------       -------
+         Net cash used in investing activities                         (2,704)       (3,762)
+                                                                      -------       -------
+Cash flows from financing activities:
+   Issuance of common stock                                               384           698
+   Repurchase of common stock                                            (601)           --
+   Other                                                                   (6)           (2)
+                                                                      -------       -------
+         Net cash provided by (used in) financing activities             (223)          696
+                                                                      -------       -------
+
+Net increase (decrease) in cash and cash equivalents                      464          (240)
+Cash and cash equivalents, beginning of period                          4,873         4,234
+                                                                      -------       -------
+Cash and cash equivalents, end of period                              $ 5,337       $ 3,994
+                                                                      =======       =======
+</TABLE>
+
+See Notes to Consolidated Financial Statements.
+
+
+                                       5
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                                  (IN MILLIONS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                              Common Stock                         Accumulated
+                                                                   and                                Other             Total
+Six Months                                     Shares of        Additional        Retained       Comprehensive      Shareholders'
+Ended January 27, 2001                       Common Stock    Paid-In Capital      Earnings           Income             Equity
+----------------------                       ------------    ---------------      --------       --------------     -------------
+<S>                                          <C>             <C>                  <C>           <C>                <C>
+BALANCE AT JULY 29, 2000                         7,138          $ 14,609          $  8,358          $  3,530          $ 26,497
+Net income                                          --                --             1,672                --             1,672
+Change in unrealized gains and losses
+    on investments                                  --                --                --            (2,263)           (2,263)
+Other                                               --                --                --                (2)               (2)
+                                                                                                                      --------
+Comprehensive loss                                  --                --                --                --              (593)
+                                                                                                                      --------
+Issuance of common stock                            74               698                --                --               698
+Tax benefits from employee stock
+    option plans                                    --             1,183                --                --             1,183
+Purchase acquisitions                               29             1,648                --                --             1,648
+Amortization of deferred stock-based
+    compensation                                    --                65                --                --                65
+                                              --------          --------          --------          --------          --------
+BALANCE AT JANUARY 27, 2001                      7,241          $ 18,203          $ 10,030          $  1,265          $ 29,498
+                                              ========          ========          ========          ========          ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                               Common Stock                       Accumulated
+                                                                   and                               Other             Total
+Six Months                                     Shares of        Additional        Retained       Comprehensive      Shareholders'
+Ended January 26, 2002                       Common Stock    Paid-In Capital      Earnings       Income (Loss)         Equity
+----------------------                       ------------    ---------------      --------       -------------      -------------
+<S>                                          <C>             <C>                  <C>            <C>                <C>
+BALANCE AT JULY 28, 2001                         7,324          $ 20,051          $  7,344          $   (275)         $ 27,120
+Net income                                          --                --               392                --               392
+Change in unrealized gains and losses
+    on investments                                  --                --                --               581               581
+Other                                               --                --                --               (12)              (12)
+                                                                                                                      --------
+Comprehensive income                                --                --                --                --               961
+                                                                                                                      --------
+Issuance of common stock                            43               384                --                --               384
+Repurchase of common stock                         (40)             (111)             (490)               --              (601)
+Tax benefits from employee stock
+    option plans                                    --                49                --                --                49
+Purchase acquisitions                                8               128                --                --               128
+Amortization of deferred stock-based
+    compensation                                    --               102                --                --               102
+                                              --------          --------          --------          --------          --------
+BALANCE AT JANUARY 26, 2002                      7,335          $ 20,603          $  7,246          $    294          $ 28,143
+                                              ========          ========          ========          ========          ========
+</TABLE>
+
+See Notes to Consolidated Financial Statements.
+
+
+                                       6
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1. DESCRIPTION OF BUSINESS
+
+Cisco Systems, Inc. (the "Company" or "Cisco") is the worldwide leader in
+networking for the Internet. Cisco Internet Protocol ("IP")-based networking
+solutions are the foundation of the Internet and are installed at corporations,
+public institutions, telecommunication companies, and in a growing number of
+medium-sized commercial enterprises. Cisco provides a broad line of solutions
+for transporting data, voice, and video within buildings, across campuses, or
+around the world. Cisco solutions allow networks, both public and private, to
+operate with flexibility, security, and performance.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Fiscal Year
+
+The Company's fiscal year is the 52 or 53 weeks ending on the last Saturday in
+July. Fiscal 2002 and 2001 are 52-week fiscal years.
+
+Basis of Presentation
+
+The accompanying financial data as of January 26, 2002 and for the three and six
+months ended January 26, 2002 and January 27, 2001 has been prepared by the
+Company, without audit, pursuant to the rules and regulations of the Securities
+and Exchange Commission ("SEC"). Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with generally
+accepted accounting principles have been condensed or omitted pursuant to such
+rules and regulations. The July 28, 2001 Consolidated Balance Sheet was derived
+from audited financial statements, but does not include all disclosures required
+by generally accepted accounting principles. However, the Company believes that
+the disclosures are adequate to make the information presented not misleading.
+These Consolidated Financial Statements should be read in conjunction with the
+Consolidated Financial Statements and the notes thereto included in the
+Company's Annual Report on Form 10-K for the fiscal year ended July 28, 2001.
+
+In the opinion of management, all adjustments (which include normal recurring
+adjustments except as disclosed herein) necessary to present a fair statement of
+financial position as of January 26, 2002, results of operations for the three
+and six months ended January 26, 2002 and January 27, 2001, and cash flows and
+shareholders' equity for the six months ended January 26, 2002 and January 27,
+2001 have been made. The results of operations for the three and six months
+ended January 26, 2002 are not necessarily indicative of the operating results
+for the full fiscal year or any future periods.
+
+Certain reclassifications have been made to prior period balances in order to
+conform to the current period presentation.
+
+
+                                       7
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+Computation of Net Income per Share
+
+Basic net income per share is computed using the weighted-average number of
+common shares outstanding during the period. Diluted net income per share is
+computed using the weighted-average number of common shares and dilutive
+potential common shares outstanding during the period. Dilutive potential common
+shares primarily consist of employee stock options.
+
+Goodwill and Purchased Intangible Assets
+
+In July 2001, the Financial Accounting Standards Board ("FASB") issued Statement
+of Financial Accounting Standards No. 142, "Goodwill and Other Intangible
+Assets" ("SFAS 142"). SFAS 142 requires goodwill to be tested for impairment
+under certain circumstances, and written down when impaired, rather than being
+amortized as previous standards required. Furthermore, SFAS 142 requires
+purchased intangible assets other than goodwill to be amortized over their
+useful lives unless these lives are determined to be indefinite.
+
+SFAS 142 is effective for fiscal years beginning after December 15, 2001;
+however, the Company elected to early-adopt the standard effective the beginning
+of fiscal 2002. In accordance with SFAS 142, the Company ceased amortizing
+goodwill totaling $3.2 billion as of the beginning of fiscal 2002, including $55
+million of acquired workforce intangible previously classified as purchased
+intangible assets, net of related deferred tax liabilities.
+
+Purchased intangible assets are carried at cost less accumulated amortization.
+Amortization is computed over the estimated useful lives of the respective
+assets, generally two to five years.
+
+
+                                       8
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+The following table presents the impact of SFAS 142 on net income and net income
+per share had the standard been in effect for the three and six months ended
+January 27, 2001 (in millions, except per-share amounts):
+
+<TABLE>
+<CAPTION>
+                                           Three Months Ended                Six Months Ended
+                                       ---------------------------      ---------------------------
+                                       January 26,     January 27,      January 26,     January 27,
+                                           2002            2001             2002            2001
+                                       -----------     -----------      -----------     -----------
+<S>                                    <C>             <C>              <C>             <C>
+Net income--as reported                  $   660         $   874          $   392         $ 1,672
+
+Adjustments:
+
+   Amortization of goodwill                   --             169               --             313
+
+   Amortization of acquired
+     workforce intangible
+     previously classified as
+     purchased intangible assets              --               3               --               5
+
+   Income tax effect                          --             (25)              --             (45)
+                                         -------         -------          -------         -------
+
+     Net adjustments                          --             147               --             273
+                                         -------         -------          -------         -------
+
+Net income--adjusted                     $   660         $ 1,021          $   392         $ 1,945
+                                         =======         =======          =======         =======
+
+Basic net income per
+   share--as reported                    $  0.09         $  0.12          $  0.05         $  0.23
+
+Basic net income per
+   share--adjusted                       $  0.09         $  0.14          $  0.05         $  0.27
+
+Diluted net income per
+   share--as reported                    $  0.09         $  0.12          $  0.05         $  0.22
+
+Diluted net income per
+   share--adjusted                       $  0.09         $  0.14          $  0.05         $  0.26
+</TABLE>
+
+
+The Company is required to perform goodwill impairment tests on an annual basis
+and between annual tests in certain circumstances. As of January 26, 2002, no
+impairment of goodwill has been recognized. There can be no assurance that
+future goodwill impairment tests will not result in a charge to earnings.
+
+
+                                       9
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+Recent Accounting Pronouncement
+
+In October 2001, the FASB issued Statement of Financial Accounting Standards No.
+144, "Accounting for the Impairment or Disposal of Long-Lived Assets" ("SFAS
+144"). SFAS 144 establishes a single accounting model, based on the framework
+established in Statement of Financial Accounting Standards No. 121, "Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed
+Of" ("SFAS 121"), for long-lived assets to be disposed of by sale, and resolves
+implementation issues related to SFAS 121. The Company is currently assessing
+the impact of SFAS 144 on its operating results and financial condition. The
+Company is required to adopt SFAS 144 no later than the first quarter of fiscal
+2003.
+
+3. BUSINESS COMBINATIONS
+
+During the first quarter of fiscal 2002, the Company completed the acquisitions
+of Allegro Systems, Inc. ("Allegro") and AuroraNetics, Inc. ("AuroraNetics"). No
+acquisitions were completed during the second quarter of fiscal 2002. A summary
+of the purchase transactions completed in the first six months of fiscal 2002 is
+outlined as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                       Consideration                                  Purchased
+                     Including Assumed      In-Process               Intangible
+Acquired Company        Liabilities        R&D Expense    Goodwill     Assets
+-----------------    ------------------   ------------    --------   -----------
+<S>                  <C>                  <C>             <C>        <C>
+Allegro                     $138               $ 28         $  5         $105
+
+AuroraNetics                  51                  9           16           14
+                            ----               ----         ----         ----
+   Total                    $189               $ 37         $ 21         $119
+                            ====               ====         ====         ====
+</TABLE>
+
+In connection with the above purchase acquisitions, the Company may be required
+to pay certain additional amounts of up to $145 million, payable in common stock
+and to be accounted for under the purchase method, contingent upon Allegro and
+AuroraNetics achieving certain agreed upon milestones.
+
+The amounts allocated to in-process research and development ("in-process R&D")
+were determined through established valuation techniques in the high-technology
+communications equipment industry and were expensed upon acquisition because
+technological feasibility had not been established and no future alternative
+uses existed. Total in-process R&D expense for the first six months of fiscal
+2002 and 2001 was $37 million and $746 million, respectively. The in-process R&D
+expense that was attributable to stock consideration for the same periods was
+$25 million and $637 million, respectively.
+
+
+                                       10
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+The remaining purchase price was primarily allocated to tangible assets and
+deferred stock-based compensation. At January 26, 2002 and July 28, 2001, the
+total unamortized deferred stock-based compensation was $215 million and $293
+million, respectively, and was reflected as a debit to additional paid-in
+capital in the Consolidated Statements of Shareholders' Equity.
+
+The Consolidated Financial Statements include the operating results of each
+business from the date of acquisition. Pro forma results of operations have not
+been presented because the effects of these acquisitions were not material on
+either an individual or aggregate basis.
+
+The following tables present details of the Company's total purchased intangible
+assets (in millions):
+
+<TABLE>
+<CAPTION>
+                                             Accumulated
+January 26, 2002                    Gross    Amortization     Net
+----------------                    ------   ------------   --------
+<S>                                 <C>        <C>          <C>
+Technology                          $1,096      $ (359)     $  737
+Technology licenses                    523        (259)        264
+Patents                                212         (62)        150
+Other                                  135         (62)         73
+                                    ------      ------      ------
+   Total                            $1,966      $ (742)     $1,224
+                                    ======      ======      ======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                             Accumulated
+July 28, 2001                       Gross    Amortization     Net
+-------------                       ------   ------------   --------
+<S>                                 <C>      <C>            <C>
+Technology                          $1,053      $ (240)     $  813
+Technology licenses                    523        (191)        332
+Patents                                232         (44)        188
+Acquired workforce                      91         (20)         71
+Other                                  117         (51)         66
+                                    ------      ------      ------
+   Total                            $2,016      $ (546)     $1,470
+                                    ======      ======      ======
+</TABLE>
+
+
+                                       11
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+The following table presents details of the amortization expense of purchased
+intangible assets as reported in the Consolidated Statements of Operations (in
+millions):
+
+<TABLE>
+<CAPTION>
+                           Three Months Ended          Six Months Ended
+                      -------------------------   --------------------------
+                      January 26,   January 27,   January 26,     January 27,
+                         2002          2001          2002           2001
+                      -----------   ----------    ----------     ----------
+<S>                     <C>           <C>           <C>           <C>
+Reported as:
+   Cost of sales        $    6        $    6        $   12        $    10
+   Operating expenses      136            87           282            168
+                        ------        ------        ------        -------
+     Total              $  142        $   93        $  294        $   178
+                        ======        ======        ======        =======
+</TABLE>
+
+
+The estimated future amortization expense of purchased intangible assets as of
+January 26, 2002 is as follows (in millions):
+
+<TABLE>
+<CAPTION>
+
+Fiscal Year:                                                      Amount
+------------                                                     -------
+<S>                                                              <C>
+2002 (remaining six months)                                        $ 268
+2003                                                                 416
+2004                                                                 291
+2005                                                                 199
+2006                                                                  49
+2007                                                                   1
+                                                                 -------
+   Total                                                         $ 1,224
+                                                                 =======
+</TABLE>
+
+
+The following table presents the changes in goodwill allocated to the reportable
+segments during the first six months of fiscal 2002 (in millions):
+
+
+<TABLE>
+<CAPTION>
+                       Balance at                                 Balance at
+                        July 28,                                  January 26,
+                         2001        Acquired     Adjustments       2002
+                       ---------    ---------     -----------     -----------
+<S>                    <C>          <C>           <C>             <C>
+Americas                $2,177        $   11        $   38          $2,226
+EMEA                       531             6            12             549
+Asia Pacific               110             2             4             116
+Japan                      371            63             1             435
+                        ------        ------        ------          ------
+   Total                $3,189        $   82        $   55          $3,326
+                        ======        ======        ======          ======
+</TABLE>
+
+
+                                       12
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+In the first six months of fiscal 2002, the Company purchased a portion of the
+minority interest of Cisco Systems, K.K. (Japan). As a result, the Company
+increased its ownership to 90.4% of the voting rights of Cisco Systems, K.K.
+(Japan) and recorded goodwill of $61 million. The adjustments during the first
+six months of fiscal 2002 were due to the reclassification of acquired workforce
+intangible and the related deferred tax liabilities to goodwill as a result of
+the adoption of SFAS 142.
+
+4. RESTRUCTURING COSTS AND OTHER SPECIAL CHARGES AND PROVISION FOR INVENTORY
+
+On April 16, 2001, due to macroeconomic and capital spending issues affecting
+the networking industry, the Company announced a restructuring program to
+prioritize its initiatives around a focus on profit contribution, high-growth
+areas of its business, reduction of expenses, and improved efficiency. This
+restructuring program included a worldwide workforce reduction, consolidation of
+excess facilities, and restructuring of certain business functions.
+
+As a result of the restructuring program and decline in forecasted revenue in
+the third quarter of fiscal 2001, the Company recorded restructuring costs and
+other special charges of $1.2 billion and an additional excess inventory charge
+of $2.2 billion. The following paragraphs provide detailed information relating
+to the status of the restructuring liabilities and additional excess inventory
+reserve as of January 26, 2002.
+
+Worldwide Workforce Reduction, Consolidation of Excess Facilities, and Other
+Special Charges
+
+The following table summarizes the activity related to the restructuring
+liabilities during the first six months of fiscal 2002 (in millions):
+
+<TABLE>
+<CAPTION>
+                                             Balance at                                  Cash              Balance at
+                                           July 28, 2001     Reclassification(1)       Payments         January 26, 2002
+                                           -------------     ------------------        --------         ----------------
+<S>                                        <C>               <C>                       <C>              <C>
+Workforce reduction                            $  61               $ (31)               $ (21)               $   9
+Consolidation of excess
+    facilities and other charges                 325                  31                  (87)                 269
+                                               -----               -----                -----                -----
+    Total                                      $ 386               $  --                $(108)               $ 278
+                                               =====               =====                =====                =====
+
+</TABLE>
+
+
+Note 1: Due to changes in previous estimates, the Company reclassified $31
+million of restructuring liabilities related to the workforce reduction charges
+to consolidation of excess facilities and other charges.
+
+
+                                       13
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+The following is a summary of the restructuring liabilities from the third
+quarter of fiscal 2001 to January 26, 2002 (in millions):
+
+<TABLE>
+<CAPTION>
+                                         Total                         Non-Cash          Cash         Balance at
+                                         Charge    Reclassification    Charges         Payments    January 26, 2002
+                                         ------    ----------------    --------        --------    ----------------
+<S>                                      <C>       <C>                 <C>             <C>         <C>
+Workforce reduction                      $  397         $  (31)         $  (71)         $ (286)         $    9
+Consolidation of excess
+    facilities and other charges            484             31            (141)           (105)            269
+Impairment of goodwill and
+    purchased intangible assets             289             --            (289)             --              --
+                                         ------         ------          ------          ------          ------
+    Total                                $1,170         $   --          $ (501)         $ (391)         $  278
+                                         ======         ======          ======          ======          ======
+</TABLE>
+
+
+The worldwide workforce reduction program started in the third quarter of fiscal
+2001. As of January 26, 2002, approximately 5,300 regular employees have been
+terminated and paid. Amounts related to the net lease expense due to the
+consolidation of facilities will be paid over the respective lease terms through
+fiscal 2007.
+
+Provision for Inventory
+
+The following is a summary of the change in the additional excess inventory
+reserve during the second quarter of fiscal 2002 (in millions):
+
+<TABLE>
+<CAPTION>
+                                                         Excess Inventory       Excess Inventory
+                                                              Reserve                Benefit
+                                                         -----------------      -----------------
+<S>                                                      <C>                    <C>
+Reserve balance as of October 27, 2001                         $ 843                $  --
+Usage:
+      Inventory scrapped                                        (477)                  --
+      Sale of inventory                                          (32)                  10
+      Inventory utilized                                        (140)                 140
+      Settlement of purchase commitments                         (55)                  45
+                                                               -----                -----
+                                                                (704)               $ 195
+                                                                                    =====
+                                                               -----
+Remaining reserve balance as of January 26, 2002               $ 139
+                                                               =====
+</TABLE>
+
+
+                                       14
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+The following is a summary of the additional excess inventory reserve from the
+third quarter of fiscal 2001 to January 26, 2002 (in millions):
+
+<TABLE>
+<CAPTION>
+                                                 Excess Inventory    Excess Inventory
+                                                     Reserve             Benefit
+                                                 ---------------     ----------------
+<S>                                              <C>                 <C>
+ Initial additional excess inventory charge          $ 2,249             $    --
+ Usage:
+      Inventory scrapped                              (1,032)                 --
+      Sale of inventory                                 (153)                 23
+      Inventory utilized                                (423)                423
+      Settlement of purchase commitments                (502)                226
+                                                     -------             -------
+                                                      (2,110)            $   672
+                                                     -------             =======
+ Remaining reserve balance as of January 26, 2002    $   139
+                                                     =======
+</TABLE>
+
+
+5. BALANCE SHEET DETAILS
+
+The following tables provide details of selected balance sheet items (in
+millions):
+
+<TABLE>
+<CAPTION>
+                                                   January 26,          July 28,
+                                                     2002                2001
+                                                   ---------            -------
+<S>                                                 <C>                 <C>
+Inventories, net:
+Raw materials                                       $    64             $   662
+Work in process                                         339                 260
+Finished goods                                          537                 669
+Demonstration systems                                    83                  93
+                                                    -------             -------
+    Total                                           $ 1,023             $ 1,684
+                                                    =======             =======
+
+Other assets:
+Deferred tax assets                                 $ 1,304             $ 1,314
+Investments in privately held companies, net            683                 775
+Income tax receivable                                   443                 443
+Lease deposits                                          393                 320
+Structured loans, net                                    97                  84
+Other                                                   438                 354
+                                                    -------             -------
+    Total                                           $ 3,358             $ 3,290
+                                                    =======             =======
+</TABLE>
+
+
+                                       15
+<PAGE>
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+5. BALANCE SHEET DETAILS (CONTINUED)
+
+<TABLE>
+<CAPTION>
+                                January 26,      July 28,
+                                   2002            2001
+                                ----------      -------
+<S>                             <C>            <C>
+Deferred Revenue:
+Services                         $ 2,133        $ 2,027
+Product                            1,704          1,187
+                                 -------        -------
+    Total                          3,837          3,214
+Less, current portion             (3,047)        (2,470)
+                                 -------        -------
+    Long-term deferred revenue   $   790        $   744
+                                 =======        =======
+</TABLE>
+
+6. COMMITMENTS AND CONTINGENCIES
+
+Leases
+
+The Company has entered into several agreements to lease sites, both completed
+and under construction, with buildings totaling 8.8 million square feet of space
+in San Jose, California and surrounding areas; Boxborough, Massachusetts; Salem,
+New Hampshire; Richardson, Texas; and Research Triangle Park, North Carolina.
+These lease agreements also cover 297 acres of land at these sites.
+
+All of the leases have initial terms of five to seven years and options to renew
+for an additional three to five years, subject to certain conditions. At any
+time during the terms of these leases, the Company may, at its option, purchase
+the land or both land and buildings. The Company may purchase the buildings at
+approximately the amount expended by the lessors to construct the buildings. If
+the Company elects not to purchase the land or both land and buildings at the
+end of each of the leases, the Company has guaranteed a residual value of $1.6
+billion at January 26, 2002. The lessors of the properties have committed to
+fund up to a maximum of $2.3 billion, subject to reductions based on certain
+conditions in the respective leases, with the portion of the committed amount
+actually used to be determined by the Company. Rent obligations for the
+buildings commenced on various dates and will expire at the same time as the
+land leases.
+
+As part of the above lease transactions, the Company restricted $1.2 billion of
+its investment securities as collateral for specified obligations of the lessors
+under the leases. These investment securities are restricted as to withdrawal.
+
+
+                                       16
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+The Company also leases office space in other U.S. locations, as well as
+locations in the Americas; Europe, the Middle East, and Africa ("EMEA"); Asia
+Pacific; and Japan. Future annual minimum lease payments under all noncancelable
+operating leases with an initial term in excess of one year as of January 26,
+2002 are as follows (in millions):
+
+<TABLE>
+<CAPTION>
+Fiscal Year:                         Amount
+------------                         -------
+<S>                                 <C>
+2002 (remaining six months)            $ 164
+2003                                     317
+2004                                     292
+2005                                     250
+2006                                     196
+Thereafter                               858
+                                     -------
+    Total                            $ 2,077
+                                     =======
+</TABLE>
+
+
+Derivative Instruments
+
+The Company conducts business on a global basis in several currencies. As such,
+it is exposed to adverse movements in foreign currency exchange rates. The
+Company enters into foreign exchange forward contracts to reduce the short-term
+impact of foreign currency fluctuations on foreign currency receivables,
+investments, and payables. The gains and losses on the foreign exchange forward
+contracts offset the transaction gains and losses on the foreign currency
+receivables, investments, and payables recognized in earnings.
+
+The Company does not enter into foreign exchange forward contracts for trading
+purposes. Gains and losses on the contracts are included in interest and other
+income (losses), net, in the Company's Consolidated Statements of Operations and
+offset foreign exchange gains or losses from the revaluation of intercompany
+balances or other current assets, investments, and liabilities denominated in
+currencies other than the functional currency of the reporting entity. The
+Company's foreign exchange forward contracts related to current assets and
+liabilities generally range from one to three months in original maturity.
+Additionally, the Company enters into foreign exchange forward contracts related
+to long-term financing commitments with maturities of up to three years. The
+foreign exchange contracts related to investments generally have maturities of
+less than one year.
+
+The Company periodically hedges foreign currency forecasted transactions related
+to certain operating expenses with purchased currency options. These
+transactions are treated as cash flow hedges in accordance with Statement of
+Financial Accounting Standards No. 133. These purchased currency options
+generally have maturities of less than one year. The Company does not purchase
+currency options for trading purposes.
+
+
+                                       17
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+Foreign exchange forward and option contracts as of January 26, 2002 are
+summarized as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                            Notional        Fair
+                             Amount         Value
+                            --------       ------
+<S>                         <C>           <C>
+Forward contracts:
+    Purchased                $  725         $ --
+    Sold                     $1,209         $ 10
+Option contracts:
+    Purchased                $  403         $  6
+
+</TABLE>
+
+
+The Company has entered into forward sale agreements of equity securities as
+fair value hedges of the changes in the fair value of equity securities. The
+investments were classified as available for sale.
+
+The Company's foreign exchange forward and option contracts and forward sale
+agreements expose the Company to credit risk to the extent that the
+counterparties may be unable to meet the terms of the agreement. The Company
+minimizes such risk by limiting its counterparties to major financial
+institutions. In addition, the potential risk of loss with any one party
+resulting from this type of credit risk is monitored. Management does not expect
+any material losses as a result of default by other parties.
+
+Legal Proceedings
+
+The Company is subject to legal proceedings, claims, and litigation arising in
+the ordinary course of business. While the outcome of these matters is currently
+not determinable, management does not expect that the ultimate costs to resolve
+these matters will have a material adverse effect on the Company's consolidated
+financial position, results of operations, or cash flows.
+
+Beginning on April 20, 2001, a number of purported shareholder class action
+lawsuits were filed in the United States District Court for the Northern
+District of California against Cisco and certain of its officers and directors.
+The lawsuits are essentially identical, purport to bring suit on behalf of those
+who purchased the Company's publicly traded securities between August 10, 1999
+and April 16, 2001, and have now been consolidated. Plaintiffs allege that
+defendants have made false and misleading statements, purport to assert claims
+for violations of the federal securities laws, and seek unspecified compensatory
+damages and other relief. Cisco believes the claims are without merit and
+intends to defend the actions vigorously.
+
+In addition, beginning on April 23, 2001, a number of purported shareholder
+derivative lawsuits were filed in the Superior Court of California, County of
+Santa Clara, in addition to one filed in the Superior Court of California,
+County of San Mateo. Those state court actions have been coordinated. Two
+purported derivative suits have also been filed in the United States District
+
+
+                                       18
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+Court for the Northern District of California, and those federal court actions
+have been consolidated. The complaints in the various derivative actions include
+claims for breach of fiduciary duty, waste of corporate assets, mismanagement,
+unjust enrichment and violations of the California Corporations Code, seek
+compensatory and other damages, disgorgement and other relief, and are based on
+essentially the same allegations as the class actions.
+
+Certain Investments in Privately Held Companies
+
+Cisco has entered into investment agreements with four privately held,
+development stage companies, pursuant to which Cisco has an option to acquire
+the remaining interests not owned by Cisco in each company for consideration
+consisting of shares of Cisco's common stock. In addition, each company has a
+put option enabling them to require Cisco to acquire the remaining interests not
+owned by Cisco in such company, subject to the fulfillment of various
+conditions, including the achievement of specified technology and other
+milestones.
+
+In the case of three of the companies, the purchase prices for the remaining
+interests are generally based on the achievement of certain technology or other
+milestones by the companies. The maximum aggregate purchase price for the
+acquisition of the remaining interests in all of these companies would be
+approximately $500 million of Cisco common stock. Cisco anticipates that it will
+acquire the remaining interests in these companies within the next six months.
+To date, Cisco has funded an aggregate of $38 million of its $58 million
+investment commitment in these companies. Since making its initial investments
+in each of these companies, Cisco has expensed approximately $29 million of this
+funding as research and development costs, which is Cisco's proportionate share
+of net losses reported by the privately held companies, as if such losses
+constituted development costs of Cisco. Cisco's proportionate share of the
+losses is based on its percentage of the total cash invested in each company.
+
+In the case of the fourth company, the purchase price for the remaining interest
+would be based upon a valuation to be determined by applying a multiple to the
+actual revenue generated from sales of the company's products during a specified
+three-month period, on an annualized basis. The acquisition, if it occurs, is
+expected to close no later than July 2004. The purchase price is not
+determinable at this time, and will range from $0 to a maximum purchase price of
+$2.5 billion in Cisco shares valued at the time of closing. The company's put
+option is exercisable only if the company has satisfactorily completed the
+development of a specified product by a specified date and commercial sales of
+that product have commenced. As of January 26, 2002, Cisco had funded $42
+million of its $84 million investment commitment to this company. Upon full
+funding of its commitment, which is subject to termination if certain milestones
+are not achieved, Cisco will hold a promissory note that is convertible into
+approximately 44% of the equity of the company. If either Cisco's option or the
+company's put option is exercised, Cisco is also committed to provide additional
+funding to the company through the closing of the acquisition of approximately
+$100 million. Since making its initial investment in the third quarter of fiscal
+2001, Cisco has expensed $38 million as research and development costs, which
+
+
+                                       19
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+is equal to 100% of the net losses reported by the privately held company, as if
+such losses constituted development costs of Cisco.
+
+Purchase Commitments
+
+The Company uses several supply partners to manufacture its products. During the
+normal course of business, in order to reduce manufacturing lead times and
+ensure adequate component supply, the Company enters into agreements with
+certain supply partners which allow these partners to procure inventory based
+upon criteria as defined by the Company. As of January 26, 2002, the Company may
+be committed to purchase approximately $800 million of inventory.
+
+Other Commitments
+
+In fiscal 2001, the Company entered into an agreement to invest $1.05 billion in
+the SOFTBANK Asia Infrastructure Fund, which is required to be funded upon
+demand by the general partner of the fund. As of January 26, 2002, the Company
+has funded $100 million of this investment commitment.
+
+The Company provides financing to certain qualified customers to be used for the
+purchase of equipment and other needs through its wholly-owned subsidiary, Cisco
+Systems Capital Corporation. At January 26, 2002, the outstanding loan
+commitments were approximately $1.7 billion, of which $1.0 billion is currently
+eligible for draw down. These loan commitments may be funded over a two- to
+three-year period provided these customers achieve specific business milestones
+and financial covenants.
+
+The Company has entered into several agreements to purchase or construct real
+estate, subject to the satisfaction of certain conditions. As of January 26,
+2002, the total amount of commitments, if certain conditions are met, was
+approximately $650 million.
+
+The Company has a commitment of approximately $240 million to purchase the
+remaining portion of the minority interest of Cisco Systems, K.K. (Japan).
+
+The Company also has certain other funding commitments of approximately $150
+million related to its privately held investments.
+
+
+                                       20
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+7. SHAREHOLDERS' EQUITY
+
+Stock Repurchase Program
+
+In September 2001, the Board of Directors authorized a stock repurchase program
+to acquire outstanding common stock in the open market or negotiated
+transactions. Under the program, up to $3 billion of Cisco common stock could be
+reacquired over two years. During the first six months of fiscal 2002, the
+Company repurchased and retired approximately 40 million shares of Cisco common
+stock for an aggregate purchase price of approximately $601 million.
+
+Comprehensive Income (Loss)
+
+The components of comprehensive income (loss), net of tax, are as follows (in
+millions):
+
+<TABLE>
+<CAPTION>
+                                               Three Months Ended           Six Months Ended
+                                           --------------------------   ------------------------
+                                           January 26,    January 27,   January 26,   January 27,
+                                              2002           2001         2002          2001
+                                           ----------     -----------   ----------    ----------
+<S>                                         <C>           <C>           <C>           <C>
+Net income                                   $   660       $   874       $   392       $ 1,672
+Other comprehensive income (loss):
+    Change in  unrealized gains and losses
+      on investments, net of tax                  26        (1,134)          581        (2,263)
+    Other                                        (10)           17           (12)           (2)
+                                             -------       -------       -------       -------
+      Total                                  $   676       $  (243)      $   961       $  (593)
+                                             =======       =======       =======       =======
+</TABLE>
+
+During the first six months of fiscal 2002, the Company recorded a charge of
+$858 million related to the impairment of certain publicly traded securities in
+its investment portfolio in accordance with Statement of Financial Accounting
+Standards No. 115, "Accounting for Certain Investments in Debt and Equity
+Securities." The impairment charge was related to the declines in the fair value
+of the Company's publicly traded equity investments below the cost basis that
+were judged to be other-than-temporary. The change in the unrealized gains and
+losses on investments during the first six months of fiscal 2002 was primarily
+related to the recognition of this impairment charge, net of tax.
+
+
+                                       21
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+8. INCOME TAXES
+
+The Company paid net income taxes of $550 million for the first six months of
+fiscal 2002 and received net income tax refunds of $118 million for the first
+six months of fiscal 2001. The Company's income taxes currently payable for
+federal and state purposes have been reduced by the tax benefits from employee
+stock option transactions. These benefits totaled $49 million and $1.7 billion
+in the first six months of fiscal 2002 and 2001, respectively, and were
+reflected as a credit to additional paid-in capital in the Consolidated
+Statements of Shareholders' Equity. In the first six months of fiscal 2001, the
+Company's valuation allowance against gross deferred tax assets attributable to
+employee stock option transactions increased by $479 million and was reflected
+as a debit to additional paid-in capital in the Consolidated Statements of
+Shareholders' Equity.
+
+9. SEGMENT INFORMATION AND MAJOR CUSTOMERS
+
+The Company's operations involve the design, development, manufacturing,
+marketing, and technical support of networking products and services. The
+Company offers end-to-end networking solutions for its customers. Cisco products
+include routers, LAN and ATM switches, dial-up access servers, and
+network-management software. These products, integrated by the Cisco IOS(R)
+Software, link geographically dispersed LANs and WANs into complete end-to-end
+networks.
+
+The Company conducts business globally and is managed geographically. The
+Company's management relies on an internal management system that provides sales
+and standard cost information by geographic theater. Sales are attributed to a
+theater based on the ordering location of the customer. The Company's management
+makes financial decisions and allocates resources based on the information it
+receives from this internal management system. The Company does not allocate
+research and development, sales and marketing, or general and administrative
+expenses to its geographic theaters in this internal management system, as
+management does not use the information to measure the performance of the
+operating segments. Management does not believe that allocating these expenses
+is significant in evaluating a geographic theater's performance. Based on
+established criteria, the Company has four reportable segments: the Americas;
+Europe, the Middle East, and Africa ("EMEA"); Asia Pacific; and Japan.
+
+
+                                       22
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+Summarized financial information by theater for the second quarter and first six
+months of fiscal 2002 and 2001, as taken from the internal management system
+previously discussed, is as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                                         Three Months Ended       Six Months Ended
+                                       ----------------------  ----------------------
+                                       January 26, January 27, January 26, January 27,
+                                          2002        2001        2002        2001
+                                       ----------  ----------  ----------- ----------
+<S>                                    <C>         <C>         <C>         <C>
+Net sales:
+    Americas                            $  2,781    $  3,831    $  5,577    $  7,542
+    EMEA                                   1,212       1,823       2,267       3,583
+    Asia Pacific                             435         672         827       1,282
+    Japan                                    388         422         593         860
+                                        --------    --------    --------    --------
+      Total                             $  4,816    $  6,748    $  9,264    $ 13,267
+                                        ========    ========    ========    ========
+
+Gross margin:
+    Americas                            $  2,076    $  2,676    $  4,095    $  5,371
+    EMEA                                     968       1,362       1,782       2,683
+    Asia Pacific                             353         451         658         890
+    Japan                                    325         323         478         676
+                                        --------    --------    --------    --------
+      Standard margin                      3,722       4,812       7,013       9,620
+    Production overhead                     (160)       (147)       (351)       (301)
+    Manufacturing variances and other
+      related costs                         (592)       (498)     (1,000)     (1,011)
+                                        --------    --------    --------    --------
+      Total                             $  2,970    $  4,167    $  5,662    $  8,308
+                                        ========    ========    ========    ========
+</TABLE>
+
+Substantially all of the Company's assets at January 26, 2002 and July 28, 2001
+were attributable to U.S. operations. In the second quarter and first six months
+of fiscal 2002 and 2001, no single customer accounted for 10% or more of the
+Company's net sales.
+
+
+                                       23
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+Identification of Revenue Deferrals and Adjustments to Revenue Categories and
+Resulting Reclassification
+
+Historically, the Company's internal management system has not identified all
+revenue adjustments and deferrals to geographic and product categories. Cisco
+has been developing a process to attribute all adjustments and deferrals to each
+revenue category which provides more useful and meaningful data relating to
+specific revenue categories and resulting trends. Accordingly, the Company has
+identified the revenue adjustments and deferrals to geographic theaters and
+specific product categories, for each of the past six quarters, and reclassified
+the reported amounts to reflect the adjustments to each revenue category.
+
+The following table presents net sales by geographic theater on "as previously
+reported" and "as reclassified" basis (in millions):
+
+<TABLE>
+<CAPTION>
+                                                 Three Months Ended                             Three Months Ended       Six Months
+                                      ---------------------------------------------           ------------------------     Ended
+                                      Oct. 28,     Jan. 27,    Apr. 28,    July 28,    Fiscal     Oct. 27,    Jan. 26,    Jan. 26,
+                                        2000        2001        2001        2001        2001        2001       2002*        2002*
+                                      --------    --------    --------    --------    --------    --------    --------    --------
+<S>                                   <C>         <C>         <C>         <C>         <C>         <C>         <C>         <C>
+NET SALES (AS PREVIOUSLY REPORTED):
+    Americas                          $  4,632    $  4,197    $  3,225    $  3,076    $ 15,130    $  3,007    $  2,868    $  5,875
+    EMEA                                 1,845       1,991       1,358       1,094       6,288       1,197       1,213       2,410
+    Asia Pacific                           669         731         478         506       2,384         400         430         830
+    Japan                                  484         434         341         281       1,540         325         332         657
+    Revenue adjustments                   (608)       (545)       (515)       (321)     (1,989)       (151)        (72)       (223)
+    Revenue deferrals                     (503)        (60)       (159)       (338)     (1,060)       (330)         45        (285)
+                                      --------    --------    --------    --------    --------    --------    --------    --------
+      Total                           $  6,519    $  6,748    $  4,728    $  4,298    $ 22,293    $  4,448    $  4,816    $  9,264
+                                      ========    ========    ========    ========    ========    ========    ========    ========
+
+NET SALES (AS RECLASSIFIED):
+    Americas                          $  3,711    $  3,831    $  2,635    $  2,563    $ 12,740    $  2,796    $  2,781    $  5,577
+    EMEA                                 1,760       1,823       1,303       1,017       5,903       1,055       1,212       2,267
+    Asia Pacific                           610         672         453         458       2,193         392         435         827
+    Japan                                  438         422         337         260       1,457         205         388         593
+                                      --------    --------    --------    --------    --------    --------    --------    --------
+      Total                           $  6,519    $  6,748    $  4,728    $  4,298    $ 22,293    $  4,448    $  4,816    $  9,264
+                                      ========    ========    ========    ========    ========    ========    ========    ========
+
+</TABLE>
+
+* The financial data for the three and six months ended January 26, 2002 is
+reported for the first time in the Form 10-Q.
+
+
+                                       24
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+The following table presents standard margins by geographic theater on "as
+previously reported" and "as reclassified" basis (in millions):
+
+<TABLE>
+<CAPTION>
+                                                    Three Months Ended                         Three Months Ended   Six Months
+                                         ----------------------------------------              -------------------    Ended
+                                         Oct. 28,   Jan. 27,  Apr. 28,   July 28,    Fiscal    Oct. 27,   Jan. 26,   Jan. 26,
+                                          2000        2001      2001      2001        2001      2001        2002*     2002*
+                                        --------   --------   --------   --------   --------   --------   --------   --------
+<S>                                     <C>        <C>        <C>        <C>        <C>        <C>        <C>        <C>
+GROSS MARGIN (AS PREVIOUSLY REPORTED):
+    Americas                            $  3,373   $  3,003   $  2,377   $  2,287   $ 11,040   $  2,197   $  2,171   $  4,368
+    EMEA                                   1,384      1,513      1,019        821      4,737        934        970      1,904
+    Asia Pacific                             482        504        311        368      1,665        312        348        660
+    Japan                                    387        334        259        219      1,199        254        269        523
+                                        --------   --------   --------   --------   --------   --------   --------   --------
+      Standard margin                      5,626      5,354      3,966      3,695     18,641      3,697      3,758      7,455
+    Revenue adjustments                     (608)      (545)      (515)      (321)    (1,989)      (151)       (72)      (223)
+    Revenue deferrals                       (503)       (60)      (159)      (338)    (1,060)      (330)        45       (285)
+    Cost of sales adjustments                293         63        113        112        581         75         (9)        66
+    Production overhead                     (154)      (147)      (150)      (164)      (615)      (191)      (160)      (351)
+    Manufacturing variances and other
+      related costs                         (513)      (498)    (2,927)      (548)    (4,486)      (408)      (592)    (1,000)
+                                        --------   --------   --------   --------   --------   --------   --------   --------
+      Total                             $  4,141   $  4,167   $    328   $  2,436   $ 11,072   $  2,692   $  2,970   $  5,662
+                                        ========   ========   ========   ========   ========   ========   ========   ========
+
+GROSS MARGIN (AS RECLASSIFIED):
+    Americas                            $  2,695   $  2,676   $  1,886   $  1,861   $  9,118   $  2,019   $  2,076   $  4,095
+    EMEA                                   1,321      1,362        973        757      4,413        814        968      1,782
+    Asia Pacific                             439        451        290        328      1,508        305        353        658
+    Japan                                    353        323        256        202      1,134        153        325        478
+                                        --------   --------   --------   --------   --------   --------   --------   --------
+      Standard margin                      4,808      4,812      3,405      3,148     16,173      3,291      3,722      7,013
+    Production overhead                     (154)      (147)      (150)      (164)      (615)      (191)      (160)      (351)
+    Manufacturing variances and other
+      related costs                         (513)      (498)    (2,927)      (548)    (4,486)      (408)      (592)    (1,000)
+                                        --------   --------   --------   --------   --------   --------   --------   --------
+      Total                             $  4,141   $  4,167   $    328   $  2,436   $ 11,072   $  2,692   $  2,970   $  5,662
+                                        ========   ========   ========   ========   ========   ========   ========   ========
+
+</TABLE>
+
+      * The financial data for the three and six months ended January 26, 2002
+        is reported for the first time in the Form 10-Q.
+
+                                       25
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+The following table presents net sales for groups of similar products and
+services on "as previously reported" and "as reclassified" basis (in millions):
+
+<TABLE>
+<CAPTION>
+                                                Three Months Ended                               Three Months Ended    Six Months
+                                    --------------------------------------------                --------------------     Ended
+                                    Oct. 28,    Jan. 27,    Apr. 28,    July 28,     Fiscal     Oct. 27,    Jan. 26,    Jan. 26,
+                                      2000        2001        2001        2001        2001        2001        2002*       2002*
+                                    --------    --------    --------    --------    --------    --------    --------    --------
+<S>                                 <C>         <C>         <C>         <C>         <C>         <C>         <C>         <C>
+NET SALES (AS PREVIOUSLY REPORTED):
+    Routers                         $  2,818    $  2,375    $  1,747    $  1,715    $  8,655    $  1,607    $  1,600    $  3,207
+    Switches                           2,809       3,283       2,558       1,936      10,586       1,993       2,014       4,007
+    Access                               810         616         452         455       2,333         316         266         582
+    Services                             608         684         721         721       2,734         792         794       1,586
+    Other                                642         619         400         458       2,119         479         431         910
+    Revenue adjustments                 (665)       (769)       (991)       (649)     (3,074)       (409)       (334)       (743)
+    Revenue deferrals                   (503)        (60)       (159)       (338)     (1,060)       (330)         45        (285)
+                                    --------    --------    --------    --------    --------    --------    --------    --------
+      Total                         $  6,519    $  6,748    $  4,728    $  4,298    $ 22,293    $  4,448    $  4,816    $  9,264
+                                    ========    ========    ========    ========    ========    ========    ========    ========
+
+NET SALES (RECLASSIFIED):
+    Routers                         $  2,406    $  2,060    $  1,361    $  1,352    $  7,179    $  1,361    $  1,502    $  2,863
+    Switches                           2,455       2,947       2,069       1,508       8,979       1,731       1,882       3,613
+    Access                               618         517         365         355       1,855         256         243         499
+    Services                             608         684         721         721       2,734         792         794       1,586
+    Other                                432         540         212         362       1,546         308         395         703
+                                    --------    --------    --------    --------    --------    --------    --------    --------
+      Total                         $  6,519    $  6,748    $  4,728    $  4,298    $ 22,293    $  4,448    $  4,816    $  9,264
+                                    ========    ========    ========    ========    ========    ========    ========    ========
+</TABLE>
+
+* The financial data for the three and six months ended January 26, 2002 is
+reported for the first time in the Form 10-Q.
+
+
+                                       26
+<PAGE>
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+10. NET INCOME PER SHARE
+
+The following table presents the calculation of basic and diluted net income per
+share (in millions, except per-share amounts):
+
+<TABLE>
+<CAPTION>
+                                          Three Months Ended              Six Months Ended
+                                       --------------------------    --------------------------
+                                       January 26,    January 27,    January 26,    January 27,
+                                          2002           2001           2002           2001
+                                       -----------    -----------    -----------    -----------
+<S>                                    <C>            <C>            <C>            <C>
+Net income                               $  660         $  874         $  392         $1,672
+                                         ======         ======         ======         ======
+
+Weighted-average shares--basic            7,311          7,144          7,309          7,121
+Effect of dilutive securities:
+    Employee stock options                  185            412            171            446
+                                         ------         ------         ------         ------
+Weighted-average shares--diluted          7,496          7,556          7,480          7,567
+                                         ======         ======         ======         ======
+
+Net income per share--basic              $ 0.09         $ 0.12         $ 0.05         $ 0.23
+                                         ======         ======         ======         ======
+
+Net income per share--diluted            $ 0.09         $ 0.12         $ 0.05         $ 0.22
+                                         ======         ======         ======         ======
+</TABLE>
+
+
+                                       27
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+Certain statements contained in this Quarterly Report on Form 10-Q, including,
+without limitation, statements containing the words "believes," "anticipates,"
+"estimates," "expects," "projections," and words of similar import, constitute
+"forward-looking statements." You should not place undue reliance on these
+forward-looking statements. Our actual results could differ materially from
+those anticipated in these forward-looking statements for many reasons,
+including the risks faced by us described below under the heading "Risk Factors"
+and elsewhere in this Quarterly Report, and in other documents we file with the
+Securities and Exchange Commission.
+
+Critical Accounting Policies
+
+The preparation of financial statements and related disclosures in conformity
+with accounting principles generally accepted in the United States requires
+management to make judgments, assumptions and estimates that affect the amounts
+reported in the Consolidated Financial Statements and accompanying notes. Note 2
+to the Consolidated Financial Statements in the Annual Report on Form 10-K for
+the fiscal year ended July 28, 2001 describes the significant accounting
+policies and methods used in the preparation of the Consolidated Financial
+Statements. Estimates are used for, but not limited to, the accounting for the
+allowance for doubtful accounts and sales returns, inventory allowances,
+warranty costs, investment impairments, goodwill impairments, contingencies,
+restructuring costs and other special charges and taxes. Actual results could
+differ from these estimates. The following critical accounting policies are
+impacted significantly by judgments, assumptions and estimates used in the
+preparation of the Consolidated Financial Statements.
+
+The allowance for doubtful accounts is based on our assessment of the
+collectibility of specific customer accounts and the aging of the accounts
+receivable. If there is a deterioration of a major customer's credit worthiness
+or actual defaults are higher than our historical experience, our estimates of
+the recoverability of amounts due us could be adversely affected.
+
+A reserve for sales returns is established based on historical trends in product
+returns. If the actual future returns do not reflect the historical data, our
+revenue could be affected.
+
+Inventory purchases and commitments are based upon future demand forecasts. If
+there is a sudden and significant decrease in demand for our products or there
+is a higher risk of inventory obsolescence because of rapidly changing
+technology and customer requirements, we may be required to increase our
+inventory allowances and our gross margin could be adversely affected.
+
+We accrue for warranty costs based on the expected material and labor usage
+costs to provide warranty services. If we experience an increase in warranty
+claims which are higher than our historical experience, our gross margin could
+be adversely affected.
+
+We have experienced significant volatility in the market prices of our publicly
+traded equity investments. These investments are recorded on the balance sheet
+at fair value and we recognize an impairment charge when the decline in the fair
+value below the cost basis is judged to be other-than-temporary. We consider
+various factors in determining whether we should recognize
+
+
+                                       28
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+an impairment charge including, but not limited to, the length of time and
+extent to which the market value has been less than our cost basis, the
+financial condition and near-term prospects of the issuer and our intent and
+ability to hold the investment for a period of time sufficient to allow for any
+anticipated recovery in market value. The ultimate value realized on these
+equity investments is subject to market volatility until they are sold.
+
+We will perform goodwill impairment tests on an annual basis and between annual
+tests in certain circumstances. In response to changes in industry and market
+conditions, we may strategically realign our resources and consider
+restructuring, disposing of, or otherwise exiting businesses, which could result
+in an impairment of goodwill.
+
+We are subject to the possibility of various loss contingencies arising in the
+ordinary course of business. We consider the likelihood of the loss or
+impairment of an asset or the incurrence of a liability as well as our ability
+to reasonably estimate the amount of loss in determining loss contingencies. An
+estimated loss contingency is accrued when it is probable that a liability has
+been incurred or an asset has been impaired and the amount of loss can be
+reasonably estimated. We regularly evaluate current information available to us
+to determine whether such accruals should be adjusted.
+
+Net Sales and Gross Margin
+
+The net sales and gross margin for the second quarter and first six months of
+fiscal 2002 and 2001 were as follows (in millions, except percentages):
+
+<TABLE>
+<CAPTION>
+                      Three Months Ended               Six Months Ended
+                  ---------------------------     ---------------------------
+                  January 26,     January 27,     January 26,     January 27,
+                     2002            2001            2002            2001
+                  -----------     -----------     -----------     -----------
+<S>               <C>             <C>             <C>             <C>
+Net Sales:
+    Product        $   4,022       $   6,064       $   7,678       $  11,975
+    Services             794             684           1,586           1,292
+                   ---------       ---------       ---------       ---------
+       Total       $   4,816       $   6,748       $   9,264       $  13,267
+                   =========       =========       =========       =========
+
+Gross Margin:
+    Product             60.4%           61.9%           59.7%           63.0%
+    Services            68.1%           60.4%           67.9%           59.2%
+                   ---------       ---------       ---------       ---------
+       Total            61.7%           61.8%           61.1%           62.6%
+                   =========       =========       =========       =========
+</TABLE>
+
+Net product revenue in the second quarter of fiscal 2002 decreased by 33.7% from
+the second quarter of fiscal 2001. Net product revenue in the first six months
+of fiscal 2002 decreased by 35.9% from the first six months of fiscal 2001. The
+decrease in net product revenue for the second quarter and first six months of
+fiscal 2002 compared to the same periods last year was
+
+
+                                       29
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+primarily a result of decreased unit sales of router, switch, and access
+products due to the unfavorable economic conditions and capital spending
+environment compared to the period a year ago. Net product revenue in the second
+quarter of fiscal 2002 increased by 10.0% compared with net product revenue of
+$3.7 billion in the first quarter of fiscal 2002.
+
+The decrease in product gross margin for the second quarter and first six months
+of fiscal 2002 compared to the same periods last year was primarily due to lower
+shipment volumes and the absorption of related manufacturing overhead partially
+offset by an excess inventory benefit. Excluding the excess inventory benefit,
+product gross margin was 55.5% in the second quarter of fiscal 2002 compared
+with 51.0% in the first quarter of fiscal 2002.
+
+Due to a sudden and significant decrease in demand for our products in the third
+quarter of fiscal 2001, inventory levels exceeded our estimated requirements
+based on demand forecasts and an additional excess inventory charge of $2.2
+billion was recorded in accordance with our accounting policy. This additional
+excess inventory charge was subsequently reduced in the fourth quarter of fiscal
+2001 by a $187 million benefit primarily related to lower settlement charges for
+purchase commitments. In the first and second quarter of fiscal 2002, this
+additional excess inventory charge was further reduced by a $290 million and
+$195 million benefit, respectively, primarily related to inventory used to
+manufacture products sold and the settlement of purchase commitments for less
+than the estimated amount, which was credited to the provision for inventory. As
+of January 26, 2002, the remaining additional excess inventory reserve balance
+was $139 million. For additional information regarding the additional excess
+inventory reserve, see Note 4 "Restructuring Costs and Other Special Charges and
+Provision for Inventory" to the Consolidated Financial Statements.
+
+Net service revenue in the second quarter of fiscal 2002 increased by 16.1% from
+the second quarter of fiscal 2001. Net service revenue in the first six months
+of fiscal 2002 increased by 22.8% from the first six months of fiscal 2001. The
+increase in net service revenue for the second quarter and first six months of
+fiscal 2002 compared to the same periods last year was primarily due to the
+increase in support revenue related to a higher installed base of networking
+equipment. Service revenue is generally deferred and, in most cases, recognized
+ratably over the service period obligations, which are typically one to three
+years. Net service revenue in the second quarter of fiscal 2002 remained
+relatively constant compared to net service revenue of $792 million in the first
+quarter of fiscal 2002. The increase in service margin for the second quarter
+and first six months of fiscal 2002 compared to the same periods last year was
+primarily due to cost efficiencies in our technical assistance centers. Service
+margin was 67.7% in the first quarter of fiscal 2002.
+
+
+                                       30
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+We manage our business based on four geographic theaters: the Americas; Europe,
+the Middle East, and Africa ("EMEA"); Asia Pacific; and Japan. Financial
+information by theater for the second quarter and first six months of fiscal
+2002 and 2001 is summarized in the following table (in millions):
+
+<TABLE>
+<CAPTION>
+                                              Three Months Ended            Six Months Ended
+                                          --------------------------    --------------------------
+                                          January 26,    January 27,    January 26,    January 27,
+                                             2002           2001           2002           2001
+                                          -----------    -----------    -----------    -----------
+<S>                                       <C>            <C>            <C>            <C>
+Net sales:
+    Americas                               $  2,781       $  3,831       $  5,577       $  7,542
+    EMEA                                      1,212          1,823          2,267          3,583
+    Asia Pacific                                435            672            827          1,282
+    Japan                                       388            422            593            860
+                                           --------       --------       --------       --------
+      Total                                $  4,816       $  6,748       $  9,264       $ 13,267
+                                           ========       ========       ========       ========
+
+Gross margin:
+    Americas                               $  2,076       $  2,676       $  4,095       $  5,371
+    EMEA                                        968          1,362          1,782          2,683
+    Asia Pacific                                353            451            658            890
+    Japan                                       325            323            478            676
+                                           --------       --------       --------       --------
+      Standard margin                         3,722          4,812          7,013          9,620
+    Production overhead                        (160)          (147)          (351)          (301)
+    Manufacturing variances and other
+      related costs                            (592)          (498)        (1,000)        (1,011)
+                                           --------       --------       --------       --------
+      Total                                $  2,970       $  4,167       $  5,662       $  8,308
+                                           ========       ========       ========       ========
+</TABLE>
+
+The following table shows the standard margin for each theater:
+
+<TABLE>
+<CAPTION>
+                                              Three Months Ended             Six Months Ended
+                                          --------------------------    --------------------------
+                                          January 26,    January 27,    January 26,    January 27,
+                                             2002           2001           2002           2001
+                                          -----------    -----------    -----------    -----------
+<S>                                       <C>            <C>            <C>            <C>
+Standard margin:
+    Americas                                 74.6%          69.9%          73.4%          71.2%
+    EMEA                                     79.9%          74.7%          78.6%          74.9%
+    Asia Pacific                             81.1%          67.1%          79.6%          69.4%
+    Japan                                    83.8%          76.5%          80.6%          78.6%
+                                             ----           ----           ----           ----
+    Total                                    77.3%          71.3%          75.7%          72.5%
+                                             ====           ====           ====           ====
+</TABLE>
+
+
+                                       31
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+Product gross margin may be adversely affected in the future by increases in
+material or labor costs, excess inventory, obsolescence charges, changes in
+shipment volume, loss of cost savings, price competition, and changes in
+channels of distribution or in the mix of products sold. If product or related
+warranty costs associated with our products are greater than we have
+experienced, product gross margin may also be adversely affected. Product gross
+margin may also be impacted by geographic mix, as well as the mix of
+configurations within each product group. We continue to utilize third-party or
+indirect-distribution channels, which generally results in a lower product gross
+margin. These distribution channels are generally given privileges to return
+inventory and participate in various cooperative marketing programs. In
+addition, increasing third-party and indirect-distribution channels generally
+result in greater difficulty in forecasting the mix of our products, and to a
+certain degree, the timing of orders from our customers. We recognize revenue to
+two-tier distributors based on information provided by our distributors and also
+maintain accruals and allowances for all cooperative marketing and other
+programs. Service gross margin will typically experience some variability over
+time due to various factors such as the changes in mix between support and
+professional services, as well as the timing of support contract renewals.
+
+Research and Development, Sales and Marketing, and General and Administrative
+Expenses
+
+Research and development ("R&D"), sales and marketing, and general and
+administrative ("G&A") expenses are summarized in the following table (in
+millions, except percentages):
+
+<TABLE>
+<CAPTION>
+                                            Three Months Ended                      Six Months Ended
+                                       ------------------------------        ------------------------------
+                                       January 26,        January 27,        January 26,        January 27,
+                                          2002               2001               2002               2001
+                                       -----------        -----------        -----------        -----------
+<S>                                    <C>                <C>                <C>                <C>
+Research and development                $    862           $  1,012           $  1,779           $  1,959
+       Percentage of net sales              17.9%              15.0%              19.2%              14.8%
+
+Sales and marketing                     $  1,071           $  1,434           $  2,167           $  2,796
+       Percentage of net sales              22.2%              21.3%              23.4%              21.1%
+
+General and administrative              $    148           $    196           $    299           $    392
+       Percentage of net sales               3.1%               2.9%               3.2%               3.0%
+</TABLE>
+
+In the third quarter of fiscal 2001, we announced a restructuring program to
+prioritize our initiatives around a focus on profit contribution, high-growth
+areas of our business, reduction of expenses, and improved efficiency. This
+restructuring program included a worldwide workforce reduction, consolidation of
+excess facilities, and restructuring of certain business functions. For
+additional information regarding the restructuring program, see Note 4
+"Restructuring Costs and Other Special Charges and Provision for Inventory" to
+the Consolidated Financial Statements.
+
+R&D, sales and marketing, and G&A expenses as a percentage of net sales have
+increased compared with the second quarter and first six months of fiscal 2001
+primarily due to the decline
+
+
+                                       32
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+in net sales. R&D, sales and marketing, and G&A expenses decreased in absolute
+dollars from the prior year primarily due to the impact of the restructuring
+program and cost control measures to contain hiring and reduce discretionary
+spending. As a result, these expenses have been reduced on a quarterly basis by
+approximately $600 million compared to the high point in the second quarter of
+fiscal 2001.
+
+R&D expenses in the second quarter of fiscal 2002 decreased by 14.8% from the
+second quarter of fiscal 2001. R&D expenses in the first six months of fiscal
+2002 decreased by 9.2% from the first six months of fiscal 2001. R&D expenses in
+the second quarter of fiscal 2002 decreased by 6.0% compared with R&D expenses
+of $917 million in the first quarter of fiscal 2002. A significant portion of
+the decrease in R&D expenses for the second quarter and first six months of
+fiscal 2002 compared to the same periods last year was due to lower expenditures
+on prototypes, lower depreciation on lab equipment, and reduced discretionary
+spending. R&D includes efforts in a wide variety of areas such as data, voice,
+and video over IP; advanced access technologies such as cable and other
+broadband technologies; advanced enterprise switching; optical transport;
+storage networking; content networking; security; network management; advanced
+core and edge routing technologies; among others. We have also continued to
+purchase technology in order to bring a broad range of products to the market in
+a timely fashion. If we believe that we are unable to enter a particular market
+in a timely manner with internally developed products, we may license technology
+from other businesses or acquire businesses as an alternative to internal R&D.
+All of our R&D costs have been expensed as incurred.
+
+Sales and marketing expenses in the second quarter of fiscal 2002 decreased by
+25.3% from the second quarter of fiscal 2001. Sales and marketing expenses in
+the first six months of fiscal 2002 decreased by 22.5% from the first six months
+of fiscal 2001. Sales and marketing expenses in the second quarter of fiscal
+2002 decreased by 2.3% compared with sales and marketing expenses of $1.1
+billion in the first quarter of fiscal 2002. The decrease in sales and marketing
+expenses for the second quarter and first six months of fiscal 2002 compared to
+the same periods last year was principally due to the decrease in the size of
+our sales force and marketing organization, reduced marketing and advertising
+investments associated with existing and new product introductions, and reduced
+investments in general corporate branding. However, we have continued our
+efforts to invest in certain key areas, such as expansion of our end-to-end
+networking strategy and service provider coverage, in order to be positioned to
+take advantage of future market opportunities.
+
+G&A expenses in the second quarter of fiscal 2002 decreased by 24.5% from the
+second quarter of fiscal 2001. G&A expenses in the first six months of fiscal
+2002 decreased by 23.7% from the first six months of fiscal 2001. G&A expenses
+in the second quarter of fiscal 2002 decreased by 2.0% compared with G&A
+expenses of $151 million in the first quarter of fiscal 2002. The decrease in
+G&A expenses for the second quarter and first six months of fiscal 2002 compared
+to the same periods last year was primarily related to the reductions in
+investments in infrastructure, personnel in support and administrative
+functions, and discretionary spending.
+
+
+                                       33
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+Amortization of Goodwill
+
+We elected to early-adopt Statement of Financial Accounting Standards No. 142,
+"Goodwill and Other Intangible Assets" ("SFAS 142") effective the beginning of
+fiscal 2002. In accordance with SFAS 142, we ceased amortizing goodwill. We are
+required to perform goodwill impairment tests on an annual basis and between
+annual tests in certain circumstances. As of January 26, 2002, no impairment of
+goodwill has been recognized. There can be no assurance that future goodwill
+impairment tests will not result in a charge to earnings. For additional
+information regarding SFAS 142, see Note 2 "Summary of Significant Accounting
+Policies" to the Consolidated Financial Statements.
+
+Amortization of Purchased Intangible Assets
+
+Amortization of purchased intangible assets included in operating expenses was
+$136 million in the second quarter of fiscal 2002, compared to $87 million in
+the second quarter of fiscal 2001. Amortization of purchased intangible assets
+included in operating expenses was $282 million in the first six months of
+fiscal 2002, compared to $168 million in the first six months of fiscal 2001.
+Amortization of purchased intangible assets in the first quarter of fiscal 2002
+was $146 million. The increase in the amortization of purchased intangible
+assets for the second quarter and first six months of fiscal 2002 compared to
+the same periods last year was primarily related to the additional amortization
+from recent acquisitions and accelerated amortization for certain technology and
+patent intangibles due to a reduction in their estimated useful lives. For
+additional information regarding purchased intangible assets, see Note 3
+"Business Combinations" to the Consolidated Financial Statements.
+
+In-Process Research and Development
+
+The amount expensed to in-process research and development ("in-process R&D")
+arose from purchase acquisitions (see Note 3 to the Consolidated Financial
+Statements). The fair values of the existing purchased technology and patents,
+as well as the technology currently under development, were determined using the
+income approach, which discounts expected future cash flows to present value.
+The discount rates used in the present value calculations were typically derived
+from a weighted-average cost of capital analysis and venture capital surveys,
+adjusted upward to reflect additional risks inherent in the development life
+cycle. We consider the pricing model for products related to these acquisitions
+to be standard within the high-technology communications equipment industry.
+However, we do not expect to achieve a material amount of expense reductions or
+synergies as a result of integrating the acquired in-process technology.
+Therefore, the valuation assumptions do not include significant anticipated cost
+savings.
+
+The development of these technologies remains a significant risk due to the
+remaining efforts to achieve technical viability, rapidly changing customer
+markets, uncertain standards for new products, and significant competitive
+threats from numerous companies. The nature of the efforts to develop these
+technologies into commercially viable products consists principally of
+
+
+                                       34
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+planning, designing, experimenting, and testing activities necessary to
+determine that the technologies can meet market expectations, including
+functionality and technical requirements. Failure to bring these products to
+market in a timely manner could result in a loss of market share or a lost
+opportunity to capitalize on emerging markets and could have a material adverse
+impact on our business and operating results.
+
+The following table summarizes the key assumptions underlying the valuations for
+our purchase acquisitions completed in the first six months of fiscal 2002 (in
+millions, except percentages):
+
+<TABLE>
+<CAPTION>
+                              Estimated Cost to               Risk-Adjusted
+                            Complete Technology at          Discount Rate for
+Acquired Company             Time of Acquisition             In-Process R&D
+----------------            ----------------------          -----------------
+<S>                         <C>                             <C>
+Allegro Systems, Inc.                 $ 5                         52.5%
+AuroraNetics, Inc.                    $ 2                         35.0%
+</TABLE>
+
+Regarding our purchase acquisitions, actual results to date have been
+consistent, in all material respects, with our assumptions at the time of
+acquisitions except for certain purchase acquisitions where the purchased
+intangible assets have been impaired and written-down as reflected in the
+Consolidated Statements of Operations. The assumptions primarily consist of an
+expected completion date for the in-process projects, estimated costs to
+complete the projects, and revenue and expense projections assuming the products
+have entered the market. Failure to achieve the expected levels of revenue and
+net income from these products will negatively impact the return on investment
+expected at the time that the acquisitions were completed and may result in
+impairment charges.
+
+Interest and Other Income (Losses), Net
+
+Interest and other income (losses), net, were $179 million in the second quarter
+of fiscal 2002, compared with $275 million in the second quarter of fiscal 2001.
+Interest and other income (losses), net, were ($509) million in the first six
+months of fiscal 2002, compared with $695 million in the first six months of
+fiscal 2001. The decrease in interest and other income (losses), net, for the
+second quarter of fiscal 2002 compared to the same period last year was
+primarily due to the impact of lower average interest rates and lower net gains
+on investments. Interest and other income (losses), net, for the first six
+months of fiscal 2002 included a charge of $858 million related to the
+impairment on certain publicly traded securities in our investment portfolio. In
+accordance with Statement of Financial Accounting Standards No. 115, "Accounting
+for Certain Investments in Debt and Equity Securities," we have recorded an
+impairment charge related to the declines in the fair value of our publicly
+traded equity investments below their cost basis that were judged to be
+other-than-temporary.
+
+Provision for Income Taxes
+
+The effective tax rate was 29.2% for the second quarter of fiscal 2002 and 33.4%
+for the first six months of fiscal 2002. The effective tax rate differs from the
+statutory rate primarily due to the
+
+
+                                       35
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+impact of nondeductible in-process R&D, acquisition-related costs, research and
+experimentation tax credits, and the tax impact of foreign operations. Our
+future effective tax rates could be adversely affected if earnings are lower
+than anticipated in countries where we have lower statutory rates or by
+unfavorable changes in tax laws and regulations.
+
+
+                                       36
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+Liquidity and Capital Resources
+
+Cash and cash equivalents and total investments, including restricted
+investments, were $21.0 billion at January 26, 2002, an increase of $2.5 billion
+from July 28, 2001. The increase was primarily a result of cash provided by
+operating activities of $3.4 billion and cash provided by the issuance of common
+stock of $384 million. This increase was partially offset by cash used in
+capital expenditures of $482 million, cash used for the repurchase of common
+stock of $601 million, and a net decrease of $118 million in the fair value of
+investments. We expect our cash provided by operating activities may fluctuate
+in future periods as a result of fluctuations in our operating results, shipment
+linearity and accounts receivable collections, inventory management, and the
+timing of payments, among others. For additional discussion, see also the Risk
+Factors section below.
+
+Accounts receivable decreased 21.6% from July 28, 2001 to January 26, 2002. Days
+sales outstanding in receivables decreased to 22 days at January 26, 2002 from
+31 days at July 28, 2001. The decrease in accounts receivable and days sales
+outstanding were primarily due to shipment linearity and process improvements in
+billing and collections.
+
+Inventories decreased 39.3% from July 28, 2001 to January 26, 2002. Inventory
+turns, excluding the additional excess inventory benefit previously discussed,
+were 7.0 for the second quarter of fiscal 2002 and 5.5 for the first quarter of
+fiscal 2002. The inventory levels and inventory turns reflected our ongoing
+effort to reduce our manufacturing inventory balance. Inventory management
+remains an area of focus as we balance the need to maintain strategic inventory
+levels to ensure competitive lead times versus the risk of inventory
+obsolescence because of rapidly changing technology and customer requirements.
+
+We have entered into several agreements to lease sites in San Jose, California
+(where our headquarters are established) and surrounding areas; Boxborough,
+Massachusetts; Salem, New Hampshire; Richardson, Texas; and Research Triangle
+Park, North Carolina where we have pledged $1.2 billion of our investments as
+collateral for certain obligations under the leases. We may occupy more leased
+property in the future that will require similar pledged securities; however, we
+do not expect the impact of this activity to be material to our liquidity
+position.
+
+We have entered into investment agreements with four privately held, development
+stage companies, pursuant to which we have an option to acquire the remaining
+interests not owned by us in each company for consideration consisting of shares
+of Cisco common stock. In addition, each company has a put option enabling them
+to require us to acquire the remaining interests not owned by us in such
+company, subject to the fulfillment of various conditions, including the
+achievement of specified technology and other milestones.
+
+In the case of three of the companies, the purchase prices for the remaining
+interests are generally based on the achievement of certain technology or other
+milestones by the companies. The maximum aggregate purchase price for the
+acquisition of the remaining interests in all of
+
+
+                                       37
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+these companies would be approximately $500 million of Cisco common stock. We
+anticipate that we will acquire the remaining interests in these companies
+within the next six months. To date, we have funded an aggregate of $38 million
+of our $58 million investment commitment in these companies. Since making our
+initial investments in each of these companies, we have expensed approximately
+$29 million of this funding as research and development costs, which is our
+proportionate share of net losses reported by the privately held companies, as
+if such losses constituted our development costs. Our proportionate share of the
+losses is based on our percentage of the total cash invested in each company.
+
+In the case of the fourth company, the purchase price for the remaining interest
+would be based upon a valuation to be determined by applying a multiple to the
+actual revenue generated from sales of the company's products during a specified
+three-month period, on an annualized basis. The acquisition, if it occurs, is
+expected to close no later than July 2004. The purchase price is not
+determinable at this time, and will range from $0 to a maximum purchase price of
+$2.5 billion in Cisco shares valued at the time of closing. The company's put
+option is exercisable only if the company has satisfactorily completed the
+development of a specified product by a specified date and commercial sales of
+that product have commenced. As of January 26, 2002, we have funded $42 million
+of our $84 million investment commitment to this company. Upon full funding of
+our commitment, which is subject to termination if certain milestones are not
+achieved, we will hold a promissory note that is convertible into approximately
+44% of the equity of the company. If either our option or the company's put
+option is exercised, we are also committed to provide additional funding to the
+company through the closing of the acquisition of approximately $100 million.
+Since making our initial investment in the third quarter of fiscal 2001, we have
+expensed $38 million as research and development costs, which is equal to 100%
+of the net losses reported by the privately held company as though such losses
+constituted our development costs.
+
+We use several supply partners to manufacture our products. During the normal
+course of business, in order to reduce manufacturing lead times and ensure
+adequate component supply, we enter into agreements with certain supply partners
+which allow these partners to procure inventory based upon criteria as defined
+by us. As of January 26, 2002, we may be committed to purchase approximately
+$800 million of inventory.
+
+In fiscal 2001, we entered into an agreement to invest $1.05 billion in the
+SOFTBANK Asia Infrastructure Fund, which is required to be funded upon demand by
+the general partner of the fund. As of January 26, 2002, we have funded $100
+million of this investment commitment.
+
+We provide financing to certain qualified customers to be used for the purchase
+of equipment and other needs through our wholly-owned subsidiary, Cisco Systems
+Capital Corporation. At January 26, 2002, the outstanding loan commitments were
+approximately $1.7 billion, of which $1.0 billion is currently eligible for draw
+down. These loan commitments may be funded over a two- to three-year period
+provided these customers achieve specific business milestones and financial
+covenants.
+
+
+                                       38
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+We have entered into several agreements to purchase or construct real estate,
+subject to the satisfaction of certain conditions. As of January 26, 2002, the
+total amount of commitments, if certain conditions are met, was approximately
+$650 million.
+
+We have a commitment of approximately $240 million to purchase the remaining
+portion of the minority interest of Cisco Systems, K.K. (Japan).
+
+We also have certain other funding commitments of approximately $150 million
+related to our privately held investments.
+
+In September 2001, the Board of Directors authorized a stock repurchase program
+to acquire outstanding common stock in the open market or negotiated
+transactions. Under the program, up to $3 billion of Cisco common stock could be
+reacquired over two years. During the first six months of fiscal 2002, we
+repurchased and retired approximately 40 million shares of Cisco common stock
+for an aggregate purchase price of approximately $601 million.
+
+We believe that our current cash and cash equivalents, short-term investments,
+and cash generated from operations will satisfy our expected working capital
+needs, capital expenditures, investment requirements, stock repurchases,
+commitments (see Note 6 to the Consolidated Financial Statements) and other
+liquidity requirements associated with our existing operations through at least
+the next 12 months. In addition, there are no transactions, arrangements and
+other relationships with unconsolidated entities or other persons that are
+reasonably likely to affect materially liquidity or the availability of or
+requirements for capital resources.
+
+
+                                       39
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+Set forth below and elsewhere in this Quarterly Report and in the other
+documents we file with the SEC are risks and uncertainties that could cause
+actual results to differ materially from the results contemplated by the
+forward-looking statements contained in this Quarterly Report.
+
+YOU SHOULD EXPECT THAT OUR OPERATING RESULTS MAY FLUCTUATE IN FUTURE PERIODS
+
+The results of operations for any quarter or fiscal year are not necessarily
+indicative of results to be expected in future periods. Our operating results
+have been in the past, and will continue to be, subject to quarterly and annual
+fluctuations as a result of a number of factors. These factors include:
+
+-      Overall information technology spending
+
+-      Changes in general global economic conditions and specific market
+       conditions in the communications and networking industries
+
+-      Fluctuations in demand for our products and services
+
+-      The effects of terrorist activity and armed conflict, such as disruptions
+       in general global economic activity, changes in logistics and security
+       arrangements, and reduced customer demand for our products and services
+
+-      The long sales and implementation cycle for our products and the reduced
+       visibility into our customers' spending plans and associated revenue
+
+-      Inventory levels and purchase commitments exceeding our estimated
+       requirements based upon future demand forecasts
+
+-      Existing network capacity, sharing of existing network capacity, and
+       network capacity utilization rates of our customers
+
+-      Price and product competition in the networking industry
+
+-      The overall trend toward industry consolidation
+
+-      The introduction and market acceptance of new technologies and products,
+       as well as the adoption of new networking standards
+
+-      Variations in sales channels, product costs, or mix of products sold
+
+-      The timing of orders, timing of shipments, and the ability to satisfy all
+       contractual obligations in customer contracts
+
+-      Manufacturing lead times
+
+-      The impact of acquired businesses and technologies
+
+-      The geographical mix of our revenue and the associated impact on gross
+       margin
+
+-      Our ability to achieve targeted cost reductions
+
+-      Adverse changes in the public and private equity and debt markets
+
+-      The ability of our customers and suppliers to obtain financing or to fund
+       capital expenditures
+
+-      The trend toward sales of integrated network solutions
+
+-      The timing and amount of employer payroll tax to be paid on employees'
+       gains on stock options exercised
+
+
+                                       40
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+-      Actual events, circumstances, outcomes and amounts differing from
+       judgments, assumptions and estimates used in determining the amounts of
+       certain assets (including the amounts of related valuation allowances),
+       liabilities and other items reflected in our financial statements.
+
+As a consequence, operating results for a particular future period are difficult
+to predict, especially in recent periods. Any of the foregoing factors, or any
+other factors discussed elsewhere herein, could have a material adverse effect
+on our business, results of operations, and financial condition.
+
+In response to changes in industry and market conditions, we may strategically
+realign our resources and consider restructuring, disposing of, or otherwise
+exiting businesses. Any decision to limit investment in or to dispose of or
+otherwise exit businesses may result in the recording of special charges, such
+as workforce reduction costs. Estimates with respect to the useful life or
+ultimate recoverability of our carrying basis of assets, including purchased
+intangible assets, could change as a result of such assessments and decisions.
+Additionally, we are required to perform goodwill impairment tests on an annual
+basis and between annual tests in certain circumstances. There can be no
+assurance that future goodwill impairment tests will not result in a charge to
+earnings.
+
+WE ARE EXPOSED TO GENERAL GLOBAL ECONOMIC AND MARKET CONDITIONS
+
+Our business is subject to the effects of general economic conditions in the
+United States and globally, and, in particular, market conditions in the
+communications and networking industries. In recent quarters, our operating
+results have been adversely affected as a result of unfavorable economic
+conditions and reduced capital spending in the United States, Europe, and Asia.
+If the economic conditions in the United States and globally do not improve, or
+if we experience a worsening in the global economic slowdown, we may continue to
+experience material adverse impacts on our business, operating results, and
+financial condition.
+
+OPERATING RESULTS FOR A PARTICULAR QUARTER ARE DIFFICULT TO PREDICT
+
+As a result of a variety of factors discussed herein, operating results for a
+particular quarter are extremely difficult to predict. Given the continued
+uncertainty surrounding many variables that may impact the industry we compete
+in, our visibility into future periods is limited. Our net sales may grow at a
+slower rate than experienced in past periods and, in particular periods, may
+decline. Our ability to meet financial expectations could also be adversely
+affected if the nonlinear sales pattern seen in certain of our past quarters
+recurs in future periods. We generally have had at least one quarter of the
+fiscal year when backlog has been reduced. In addition, in response to customer
+demand, we continue to attempt to reduce our product manufacturing lead times,
+which may result in corresponding reductions in order backlog. A decline in
+backlog
+
+
+                                       41
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+levels could result in more variability and less predictability in our
+quarter-to-quarter net sales and operating results going forward. On the other
+hand, for certain products, lead times are longer than our goal. If we cannot
+reduce manufacturing lead times for such products, our customers may place the
+same orders within our various sales channels, cancel orders, or not place
+further orders if shorter lead times are available from other vendors.
+
+We plan our operating expense levels primarily based on forecasted revenue
+levels. These expenses and the impact of long-term commitments are relatively
+fixed in the short-term. A shortfall in revenue could lead to operating results
+being below expectations as we may not be able to quickly reduce these fixed
+expenses in response to short-term business changes.
+
+Any of the above factors could have a material adverse impact on our operations
+and financial results. For example, from time to time, we have made acquisitions
+that result in in-process research and development expenses being charged in an
+individual quarter. These charges may occur in any particular quarter resulting
+in variability in our quarterly earnings. Additionally, the operating results
+for a quarter could be materially adversely affected if a number of large orders
+are either not received or are delayed, for example, due to cancellations,
+delays, or deferrals by customers.
+
+WE EXPECT GROSS MARGIN VARIABILITY OVER TIME
+
+Product gross margin may be adversely affected in the future by increases in
+material or labor costs, excess inventory, obsolescence charges, changes in
+shipment volume, loss of cost savings, price competition, and changes in
+channels of distribution or in the mix of products sold. If product or related
+warranty costs associated with our products are greater than we have
+experienced, product gross margin may also be adversely affected. Product gross
+margin may also be impacted by geographic mix, as well as the mix of
+configurations within each product group. We continue to utilize third-party or
+indirect-distribution channels, which generally results in a lower product gross
+margin. These distribution channels are generally given privileges to return
+inventory and participate in various cooperative marketing programs. In
+addition, increasing third-party and indirect-distribution channels generally
+results in greater difficulty in forecasting the mix of our products, and to a
+certain degree, the timing of orders from our customers. We recognize revenue to
+two-tier distributors based on information provided by our distributors and also
+maintain accruals and allowances for all cooperative marketing and other
+programs. Service gross margin will typically experience some variability over
+time due to various factors such as the changes in mix between support and
+professional services, as well as the timing of support contract renewals.
+
+
+                                       42
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+WE ARE DEPENDENT UPON ADEQUATE COMPONENT SUPPLY AND MANUFACTURING CAPACITY
+
+Our growth and ability to meet customer demands also depend in part on our
+ability to obtain timely deliveries of parts from our suppliers. We have
+experienced component shortages in the past that have adversely affected our
+operations. Although we work closely with our suppliers to avoid these types of
+shortages, there can be no assurance that we will not encounter these problems
+in the future. Although we generally use standard parts and components for our
+products, certain components are presently available only from a single source
+or limited sources.
+
+While our suppliers have performed effectively and have been relatively flexible
+to date, we believe that we may be faced with the following challenges going
+forward:
+
+-      New markets that we participate in may grow quickly and thus, consume
+       significant component capacity
+
+-      As we continue to acquire companies and new technologies, we are
+       dependent, at least initially, on unfamiliar supply chains or relatively
+       small supply partners
+
+-      We face competition for certain components, which are supply constrained,
+       from existing competitors and companies in other markets
+
+Manufacturing capacity and component supply constraints could be significant
+issues for us. We use several supply partners to manufacture our products.
+During the normal course of business, in order to reduce manufacturing lead
+times and ensure adequate component supply, we enter into agreements with
+certain supply partners which allow these partners to procure inventory based
+upon criteria as defined by us. For additional information regarding our
+purchase commitments, see Note 6 "Commitments and Contingencies" to the
+Consolidated Financial Statements. A reduction or interruption in supply, a
+significant increase in the price of one or more components, or a decrease in
+demand of products could materially adversely affect our business, operating
+results and financial condition and could materially damage customer
+relationships.
+
+WE COMPETE IN THE HIGHLY COMPETITIVE TELECOMMUNICATIONS EQUIPMENT MARKET
+
+We compete in the Internet infrastructure market, providing solutions for
+transporting data, voice, and video traffic across intranets, extranets, and the
+Internet. The market is characterized by rapid change, converging technologies,
+and a conversion to networking solutions that offer superior advantages. These
+market factors represent both an opportunity and a competitive threat to us. We
+compete with numerous vendors in each product category. The overall number of
+competitors providing niche product solutions may increase due to the market's
+long-term attractive growth. On the other hand, we expect the number of vendors
+supplying end-to-end
+
+
+                                       43
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+networking solutions will decrease, due to consolidations in and accompanying
+economic pressure upon the industry.
+
+Our competitors include Alcatel, Ciena, Ericsson, Extreme Networks, Foundry
+Networks, Juniper, Lucent, Nortel Networks, Redback Networks, Siemens AG, and
+Sycamore Networks, among others. Some of our competitors compete across many of
+our product lines, while others do not offer as wide a breadth of solutions.
+Several of our current and potential competitors may have greater resources,
+including technical and engineering resources, than we do.
+
+The principal competitive factors in the markets in which we presently compete
+and may compete in the future are:
+
+-      The ability to provide end-to-end networking solutions and support
+
+-      Performance
+
+-      Price
+
+-      The ability to provide new technologies and products
+
+-      The ability to provide value-added features such as security,
+       reliability, and investment protection
+
+-      Conformance to standards
+
+-      Market presence
+
+-      The ability to provide financing
+
+We also face competition from customers to whom we license technology and
+suppliers from whom we transfer technology. The inherent nature of networking
+requires interoperability. As such, we must cooperate and at the same time
+compete with these companies. Our inability to effectively manage these
+complicated relationships with customers and suppliers, or the uncontrollable
+and unpredictable acts of others, could have a material adverse effect on our
+business, operating results, and financial condition.
+
+WE HAVE INVESTED IN AND WILL CONTINUE TO INVEST IN NEW AND EXISTING MARKET
+OPPORTUNITIES
+
+We have made investments in headcount, inventory, manufacturing capacity, and
+product development through internal efforts and acquisitions, as a result of
+growth in existing opportunities and new or emerging opportunities in our target
+markets over the past years. We will continue to invest in these markets either
+through additional investments or through re-alignment of existing resources. If
+we are unable to meet expected revenue levels in a particular quarter, it could
+have a material, negative impact on our operating results for that period as we
+may not be able to react quickly enough to scale back expenses.
+
+
+                                       44
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+WE DEPEND UPON THE DEVELOPMENT OF NEW PRODUCTS AND ENHANCEMENTS TO EXISTING
+PRODUCTS AND ARE SUBJECT TO RAPID CHANGES IN TECHNOLOGY AND THE MARKET
+
+Our operating results may depend on our ability to develop and introduce new
+products into existing and emerging markets and to reduce the costs to produce
+existing products. The success of new products is dependent on several factors,
+including proper new product definition, product cost, timely completion and
+introduction of new products, differentiation of new products from those of our
+competitors, and market acceptance of these products. The markets for our
+products are characterized by rapidly changing technology, evolving industry
+standards, new product introductions, and evolving methods of building and
+operating networks. There can be no assurance that we will successfully identify
+new product opportunities, develop and bring new products to market in a timely
+manner, and achieve market acceptance of our products, or that products and
+technologies developed by others will not render our products or technologies
+obsolete or noncompetitive.
+
+OUR BUSINESS SUBSTANTIALLY DEPENDS UPON THE CONTINUED GROWTH OF THE INTERNET AND
+INTERNET-BASED SYSTEMS
+
+A substantial portion of our business and revenue depends on the continued
+growth of the Internet and on the deployment of our products by customers that
+depend on the growth of the Internet. As a result of the economic slowdown and
+the reduction in capital spending, spending on Internet infrastructure has
+declined, which has had a material adverse effect on our business. To the extent
+that the economic slowdown and reduction in capital spending continue to
+adversely affect spending on Internet infrastructure, we could continue to
+experience material adverse effects on our business, operating results, and
+financial condition.
+
+We believe that there will be certain performance problems with Internet
+communications in the future, which could receive a high degree of publicity and
+visibility. As we are a large supplier of networking products, we may be
+materially adversely affected, regardless of whether or not these problems are
+due to the performance of our products. Such an event could also result in a
+material adverse effect on the market price of our common stock and could
+materially adversely affect our business, operating results, and financial
+condition.
+
+
+                                       45
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+WE EXPECT TO MAKE FUTURE ACQUISITIONS WHERE ADVISABLE AND ACQUISITIONS INVOLVE
+NUMEROUS RISKS
+
+The networking business is highly competitive, and as such, our growth is
+dependent upon market growth, our ability to enhance our existing products, and
+our ability to introduce new products on a timely basis. One of the ways we have
+addressed and will continue to address the need to develop new products is
+through acquisitions of other companies and technologies. Acquisitions involve
+numerous risks, including the following:
+
+-      Difficulties in integrating the operations, technologies, and products of
+       the acquired companies
+
+-      The risk of diverting management's attention from normal daily operations
+       of the business
+
+-      Potential difficulties in completing projects associated with in-process
+       research and development
+
+-      Risks of entering markets in which we have no or limited direct prior
+       experience and where competitors in such markets have stronger market
+       positions
+
+-      Initial dependence on unfamiliar supply chains or relatively small supply
+       partners
+
+-      Insufficient revenues to offset increased expenses associated with
+       acquisitions
+
+-      The potential loss of key employees of the acquired companies
+
+Mergers and acquisitions of high-technology companies are inherently risky, and
+no assurance can be given that our previous or future acquisitions will be
+successful and will not materially adversely affect our business, operating
+results, or financial condition. We must also manage any growth effectively.
+Failure to manage growth effectively and successfully integrate acquisitions we
+make could harm our business and operating results in a material way.
+
+THE ENTRANCE INTO NEW OR DEVELOPING MARKETS EXPOSES OUR BUSINESS AND OPERATIONS
+TO RISKS
+
+As we focus on new market opportunities, such as transporting data, voice, and
+video traffic across the same network, we will increasingly compete with large
+telecommunications equipment suppliers such as Alcatel, Ericsson, Lucent,
+Nortel, and Siemens AG, among others, and several startup companies. Several of
+our current and potential competitors may have greater resources, including
+technical and engineering resources, than we do. Additionally, as customers in
+these markets complete infrastructure deployments, they may require greater
+levels of service, support, and financing than we have experienced in the past.
+We expect that demand for these types of service contracts may increase in the
+future. There can be no assurance that we can provide products, service,
+support, and financing to effectively compete for these market opportunities.
+Further, provision of greater levels of services by us may result in less
+favorable timing of revenue recognition than we have historically experienced.
+
+
+                                       46
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+SALES TO THE SERVICE PROVIDER MARKET ARE SUBJECT TO VARIATION
+
+Sales to the service provider market have been characterized by large and often
+sporadic purchases. We have experienced decreases in sales to the service
+provider market. Sales activity in this industry depends upon the stage of
+completion of expanding network infrastructures, the availability of funding,
+and the extent that service providers are affected by regulatory, economic, and
+business conditions in the country of operations. Continued declines or delays
+in sales orders from this industry could have a material adverse effect on our
+business, operating results, and financial condition. The slowdown in the
+general economy, over-capacity, changes in the service provider market, and the
+constraints on capital availability have had a material adverse effect on many
+of our service provider customers, with a number of such customers going out of
+business or substantially reducing their expansion plans. These conditions have
+had a material adverse effect on our business and operating results, and we
+expect that these conditions may continue for the foreseeable future.
+
+THE INDUSTRY IN WHICH WE COMPETE IS SUBJECT TO CONSOLIDATION
+
+There has been a trend toward industry consolidation in our markets for several
+years. We expect this trend toward industry consolidation to continue as
+companies attempt to strengthen or hold their market positions in an evolving
+industry. We believe that industry consolidation may result in stronger
+competitors that are better able to compete as sole-source vendors for
+customers. This could lead to more variability in operating results as we
+compete to be a single or primary vendor solution and could have a material
+adverse effect on our business, operating results, and financial condition.
+
+OUR BUSINESS IS SUBJECT TO RISKS FROM INTERNATIONAL OPERATIONS
+
+We conduct business globally. Accordingly, our future results could be
+materially adversely affected by a variety of uncontrollable and changing
+factors including, among others, foreign currency exchange rates; regulatory,
+political, or economic conditions in a specific country or region; trade
+protection measures and other regulatory requirements; service provider and
+government spending patterns; and natural disasters. Any or all of these factors
+could have a material adverse impact on our future international business.
+
+WE ARE EXPOSED TO FLUCTUATIONS IN THE EXCHANGE RATES OF FOREIGN CURRENCY
+
+As a global concern, we face exposure to adverse movements in foreign currency
+exchange rates. These exposures may change over time as business practices
+evolve and could have a material adverse impact on our financial results and
+cash flows. Historically, our primary exposures have related to
+nondollar-denominated sales in Japan, Canada, and Australia and
+nondollar-denominated operating expenses in Europe, Latin America, and Asia
+where we sell primarily in U.S. dollars. Additionally, we have exposures to
+emerging market currencies which can have
+
+
+                                       47
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+extreme currency volatility. We will continue to monitor our exposures and may
+hedge against these or any other emerging market currencies as necessary.
+
+At the present time, we hedge only those currency exposures associated with
+certain assets and liabilities denominated in nonfunctional currencies and
+periodically will hedge anticipated foreign currency cash flows. The hedging
+activity undertaken by us is intended to offset the impact of currency
+fluctuations on certain nonfunctional currency assets and liabilities.
+
+The formal adoption of the euro on January 1, 2002 as the common currency for
+members of the European Union did not have a material adverse effect on our
+internal systems, operating results, or financial condition.
+
+WE ARE EXPOSED TO THE CREDIT RISK OF SOME OF OUR CUSTOMERS AND TO CREDIT
+EXPOSURES IN WEAKENED MARKETS
+
+A portion of our sales is derived through our resellers in two-tier distribution
+channels. These resellers/customers are generally given privileges to return
+inventory, receive credits for changes in selling prices, and participate in
+cooperative marketing programs. We maintain estimated accruals and allowances
+for such exposures. However, such resellers tend to have access to more limited
+financial resources than other resellers and end-user customers and therefore
+represent potential sources of increased credit risk. We have experienced
+increased demands for customer financing, including loan financing and leasing
+solutions. We expect demands for customer financing may continue. We believe
+customer financing is a competitive factor in obtaining business, particularly
+in supplying customers involved in significant infrastructure projects. Our loan
+financing arrangements may include not only financing the acquisition of our
+products but also providing additional funds for soft costs associated with
+network installation and integration of our products and for working capital
+purposes. Due to the current slowdown in the economy, the credit risks relating
+to these resellers/customers have increased. Although we have programs in place
+to monitor and mitigate the associated risk, there can be no assurance that such
+programs will be effective in reducing our credit risks. We also continue to
+monitor credit exposures from weakened financial conditions in certain
+geographic regions, and the impact that such conditions may have on the
+worldwide economy. We have experienced losses due to customers failing to meet
+their obligations. Although these losses have not been significant, future
+losses, if incurred, could harm our business and have a material adverse effect
+on our operating results and financial condition.
+
+OUR BUSINESS DEPENDS UPON OUR PROPRIETARY RIGHTS AND THERE IS A RISK OF
+INFRINGEMENT
+
+Our success is dependent upon our proprietary technology. We generally rely upon
+patents, copyrights, trademarks, and trade secret laws to establish and maintain
+our proprietary rights in our technology and products. We have a program to file
+applications for and obtain patents in the United States and in selected foreign
+countries where a potential market for our products
+
+
+                                       48
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+exists. We have been issued a number of patents; other patent applications are
+currently pending. There can be no assurance that any of these patents will not
+be challenged, invalidated, or circumvented, or that any rights granted
+thereunder will provide competitive advantages to us. In addition, there can be
+no assurance that patents will be issued from pending applications, or that
+claims allowed on any future patents will be sufficiently broad to protect our
+technology. Furthermore, the laws of some foreign countries may not permit the
+protection of our proprietary rights to the same extent as do the laws of the
+United States. Although we believe the protection afforded by our patents,
+patent applications, copyrights, and trademarks has value, the rapidly changing
+technology in the networking industry makes our future success dependent
+primarily on the innovative skills, technological expertise, and management
+abilities of our employees rather than on patent, copyright, and trademark
+protection.
+
+The industry in which we compete is characterized by the existence of a large
+number of patents and frequent claims and related litigation regarding patent
+and other intellectual property rights. From time to time, third parties have
+asserted exclusive patent, copyright, trademark and other intellectual property
+rights to technologies and related standards that are important to us. These
+claims have increased recently as a result of our acquisitions of businesses and
+technologies. Such parties have pursued and may in the future assert claims or
+initiate litigation against us or our manufacturers, suppliers, or customers
+alleging infringement of their proprietary rights with respect to our existing
+or future products. Regardless of the merit of these claims, they could be
+time-consuming, result in costly litigation and diversion of technical
+management personnel, or require us to develop a non-infringing technology or
+enter into royalty or license agreements. If any infringement or other
+intellectual property claim made against us by any third party is successful, or
+if we fail to develop non-infringing technology or license the proprietary
+rights, our business could be materially and adversely affected.
+
+Many of our products are designed to include software or other intellectual
+property licensed from third parties. While it may be necessary in the future to
+seek or renew licenses relating to various aspects of our products, we believe
+that based upon past experience and standard industry practice, such licenses
+generally could be obtained on commercially reasonable terms. Because of the
+existence of a large number of patents in the networking field and the rapid
+rate of issuance of new patents, it is not economically practical to determine
+in advance whether a product or any of our components infringe patent rights of
+others. From time to time, we receive notices from or are sued by third parties
+regarding patent infringement claims. If infringement claims are found to have
+merit, we believe that, based upon industry practice, any necessary license or
+rights under such patents may be obtained on terms that would not have a
+material adverse effect on our financial condition. Nevertheless, there can be
+no assurance that the necessary licenses would be available on acceptable terms,
+if at all. The inability to obtain certain licenses or other rights or to obtain
+such licenses or rights on favorable terms, or the need to engage in litigation
+regarding these matters could have a material adverse effect on our business,
+operating results, and financial condition.
+
+
+                                       49
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+WE FACE RISKS FROM THE UNCERTAINTIES OF REGULATION OF THE INTERNET
+
+There are currently few laws or regulations that apply directly to access or
+commerce on the Internet. We could be materially adversely affected by
+regulation of the Internet and Internet commerce in any country where we
+operate. Such regulations could include matters such as voice over the Internet,
+encryption technology, and access charges for Internet service providers. Our
+business could be materially adversely affected by the changes in the
+regulations surrounding the telecommunications industry. The adoption of
+regulation of the Internet and Internet commerce could decrease demand for our
+products, and at the same time increase the cost of selling our products, which
+could have a material adverse effect on our business, operating results, and
+financial condition.
+
+OUR SUCCESS LARGELY DEPENDS ON OUR ABILITY TO RETAIN AND RECRUIT KEY PERSONNEL
+
+Our success has always depended in large part on our ability to attract and
+retain highly skilled technical, managerial, sales, and marketing personnel. In
+spite of the economic slowdown, competition for these personnel is intense,
+especially in the Silicon Valley area of Northern California. Volatility or lack
+of positive performance in our stock price may also adversely affect our ability
+to retain key employees, all of whom have been granted stock options. The loss
+of services of any of our key personnel, the inability to retain and attract
+qualified personnel in the future, or delays in hiring required personnel,
+particularly engineers and sales personnel, could make it difficult to meet key
+objectives, such as timely product introductions. In addition, companies in the
+networking industry whose employees accept positions with competitors frequently
+claim that competitors have engaged in improper hiring practices. We have
+received these claims in the past and may receive additional claims to this
+effect in the future.
+
+WE FACE CERTAIN LITIGATION RISKS
+
+We are a party to lawsuits in the normal course of our business. Litigation can
+be expensive, lengthy and disruptive to normal business operations. Moreover,
+the results of complex legal proceedings are difficult to predict. An
+unfavorable resolution of a particular lawsuit could have a material adverse
+effect on our business, results of operations, or financial condition. For
+additional information regarding certain of the lawsuits in which we are
+involved, see Note 6 "Commitments and Contingencies" to the Consolidated
+Financial Statements.
+
+
+                                       50
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+OUR BUSINESS IS SUBJECT TO THE RISKS OF EARTHQUAKES, FLOODS, AND OTHER
+CATASTROPHIC EVENTS
+
+Our corporate headquarters, including certain of our research and development
+operations and our manufacturing facilities, are located in the Silicon Valley
+area of Northern California, a region known for seismic activity. Additionally,
+certain of our facilities, which include one of our manufacturing facilities,
+are located near rivers that have experienced flooding in the past. A
+significant natural disaster, such as an earthquake or a flood, could have a
+material adverse impact on our business, operating results, and financial
+condition. In addition, despite our implementation of network security measures,
+our servers are vulnerable to computer viruses, break-ins, and similar
+disruptions from unauthorized tampering with our computer systems. Any such
+event could have a material adverse effect on our business, operating results,
+and financial condition. In addition, the effects of war or acts of terrorism
+could have a material adverse effect on our business, operating results, and
+financial condition. The recent terrorist attacks in New York and Washington,
+D.C. on September 11, 2001 disrupted commerce throughout the world and
+intensified the uncertainty of the U.S. economy and other economies around the
+world. The continued threat of terrorism and heightened security and military
+action in response to this threat, or any future acts of terrorism, may cause
+further disruptions to these economies and create further uncertainties. To the
+extent that such disruptions or uncertainties result in delays or cancellations
+of customer orders, or the manufacture or shipment of our products, our
+business, operating results and financial condition could be materially and
+adversely affected.
+
+THE ENERGY CRISIS IN CALIFORNIA COULD DISRUPT OUR BUSINESS AND THE BUSINESSES OF
+OUR SUPPLIERS AND SUPPLY PARTNERS AND COULD INCREASE OUR EXPENSES
+
+The western United States (and California in particular) has experienced
+repeated episodes of diminished electrical power supply, and we anticipate that
+this situation could continue or worsen in the near future. As a result of these
+episodes, certain of our operations or facilities have been and may continue to
+be subject to "rolling blackouts" or other unscheduled interruptions of
+electrical power. The prospect of such unscheduled interruptions may continue
+for the foreseeable future, and we are unable to predict their occurrence or
+duration. Certain of our suppliers and supply partners are also located in this
+area and their operations may also be materially and adversely affected by such
+interruptions. These suppliers and manufacturers may be unable to manufacture
+sufficient quantities of our products to meet our demands, or they may increase
+the costs of such products, which in turn could have a material adverse effect
+on our business or results of operations.
+
+
+                                       51
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+WE ARE EXPOSED TO FLUCTUATIONS IN THE MARKET VALUES OF OUR PORTFOLIO INVESTMENTS
+AND IN INTEREST RATES
+
+We maintain an investment portfolio of various holdings, types, and maturities.
+These securities are generally classified as available for sale and,
+consequently, are recorded on the balance sheet at fair value with unrealized
+gains or losses reported as a separate component of accumulated other
+comprehensive income (loss), net of tax. Part of this portfolio includes equity
+investments in several publicly traded companies, the values of which are
+subject to market price volatility. Recent events have adversely affected the
+public equities market and general economic conditions may continue to worsen.
+As a result, we may recognize in earnings declines in fair value of our publicly
+traded equity investments below the cost basis that are judged to be
+other-than-temporary. For information regarding the sensitivity of and risks
+associated with the market value of portfolio investments and interest rates,
+see the section titled "Quantitative and Qualitative Disclosures About Market
+Risk" contained in this Quarterly Report.
+
+WE ARE SUBJECT TO RISKS ASSOCIATED WITH STRATEGIC ALLIANCES
+
+We have a number of strategic alliances with large and complex organizations and
+our ecosystem partners. These arrangements are generally limited to specific
+projects, the goal of which is generally to facilitate product compatibility and
+adoption of industry standards. If successful, these relationships may be
+mutually beneficial and result in industry growth. However, these alliances
+carry an element of risk because, in most cases, we must compete in some
+business areas with a company with which we have a strategic alliance and, at
+the same time, cooperate with that company in other business areas. Also, if
+these companies fail to perform or if these relationships fail to materialize as
+expected, we could suffer delays in product development or other operational
+difficulties.
+
+WE FACE RISKS ASSOCIATED WITH CHANGES IN TELECOMMUNICATIONS REGULATION AND
+TARIFFS
+
+Changes in domestic and international telecommunications requirements could
+affect the sales of our products. In particular, we believe it is possible that
+there may be changes in domestic telecommunications regulation in the future
+that could slow the expansion of the service providers' network infrastructures
+and materially adversely affect our business, operating results, and financial
+condition. Future changes in tariffs by regulatory agencies or application of
+tariff requirements to currently untariffed services could affect the sales of
+our products for certain classes of customers. Additionally, in the United
+States, our products must comply with various Federal Communications Commission
+requirements and regulations. In countries outside of the United States, our
+products must meet various requirements of local telecommunications authorities.
+Changes in tariffs or failure by us to obtain timely approval of products could
+have a material adverse effect on our business, operating results, and financial
+condition.
+
+
+                                       52
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                  RISK FACTORS
+
+OUR STOCK PRICE MAY CONTINUE TO BE VOLATILE
+
+Our common stock has experienced substantial price volatility, particularly as a
+result of variations between our actual and anticipated financial results, the
+published expectations of analysts, and as a result of announcements by our
+competitors and us. In addition, the stock market has experienced extreme price
+and volume fluctuations that have affected the market price of many technology
+companies, in particular, and that have often been unrelated to the operating
+performance of these companies. These factors, as well as general economic and
+political conditions, may materially adversely affect the market price of our
+common stock in the future. Additionally, volatility or a lack of positive
+performance in our stock price may adversely affect our ability to retain key
+employees, all of whom have been granted stock options.
+
+
+                                       53
+<PAGE>
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We maintain an investment portfolio of various holdings, types, and maturities.
+These securities are generally classified as available for sale and,
+consequently, are recorded on the balance sheet at fair value with unrealized
+gains or losses reported as a separate component of accumulated other
+comprehensive income (loss), net of tax. Part of this portfolio includes equity
+investments in several publicly traded companies, the values of which are
+subject to market price volatility. During the first six months of fiscal 2002,
+we recorded a charge of $858 million related to the impairment of certain
+publicly traded securities in our investment portfolio, in accordance with
+Statement of Financial Accounting Standards No. 115, "Accounting for Certain
+Investments in Debt and Equity Securities." The impairment charge was related to
+the declines in the fair value of our publicly traded equity investments below
+their cost basis that were judged to be other-than-temporary. We have also
+invested in numerous privately held companies, many of which can still be
+considered in the start-up or development stages. These investments are
+inherently risky as the market for the technologies or products they have under
+development are typically in the early stages and may never materialize. We
+could lose our entire initial investment in these companies. We also have
+certain real estate lease commitments with payments tied to short-term interest
+rates. At any time, a sharp rise in interest rates could have a material adverse
+impact on the fair value of our investment portfolio while increasing the costs
+associated with our lease commitments. Conversely, declines in interest rates
+could have a material impact on interest earnings for our investment portfolio.
+We do not currently hedge these interest rate exposures.
+
+Readers are referred to pages 21 to 22 of the fiscal 2001 Annual Report to
+Shareholders for a more detailed discussion of quantitative and qualitative
+disclosures about market risk.
+
+The following analysis presents the hypothetical changes in fair values of
+public equity investments that are sensitive to changes in the stock market (in
+millions):
+
+<TABLE>
+<CAPTION>
+                                   Valuation of Securities                                      Valuation of Securities
+                                      Given X% Decrease                 Fair Value               Given X% Increase
+                                    in Each Stock's Price                  as of                 in Each Stock's Price
+                            ------------------------------------         Jan. 26,        --------------------------------------
+                            (75%)           (50%)         (25%)            2002            25%             50%            75%
+                           -------         -------       -------        ----------       -------         -------        -------
+<S>                        <C>             <C>           <C>            <C>              <C>             <C>            <C>
+Corporate equities          $ 334           $ 667        $ 1,001         $ 1,335         $ 1,669         $ 2,002        $ 2,336
+</TABLE>
+
+These equity securities are held for purposes other than trading. The modeling
+technique used measures the hypothetical change in fair values arising from
+selected hypothetical changes in each stock's price. Stock price fluctuations of
+plus or minus 25%, 50%, and 75% were selected based on the probability of their
+occurrence. Our equity portfolio consists of securities with characteristics
+that most closely match the S&P Index or companies traded on the NASDAQ National
+Market. The NASDAQ Composite Index has shown a 25% and 50% movement in each of
+the last three years and a 75% movement in at least one of the last three years.
+
+
+                                       54
+<PAGE>
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+The Company is subject to legal proceedings, claims, and litigation arising in
+the ordinary course of business. While the outcome of these matters is currently
+not determinable, management does not expect that the ultimate costs to resolve
+these matters will have a material adverse effect on the Company's consolidated
+financial position, results of operations, or cash flows.
+
+Beginning on April 20, 2001, a number of purported shareholder class action were
+filed in the United States District Court for the Northern District of
+California against Cisco and certain of its officers and directors. The lawsuits
+are essentially identical, purport to bring suit on behalf of those who
+purchased the Company's publicly traded securities between August 10, 1999 and
+April 16, 2001, and have now been consolidated. Plaintiffs allege that
+defendants have made false and misleading statements, purport to assert claims
+for violations of the federal securities laws, and seek unspecified compensatory
+damages and other relief. Cisco believes the claims are without merit and
+intends to defend the actions vigorously.
+
+In addition, beginning on April 23, 2001, a number of purported shareholder
+derivative lawsuits were filed in the Superior Court of California, County of
+Santa Clara, in addition to one filed in the Superior Court of California,
+County of San Mateo. Those state court actions have been coordinated. Two
+purported derivative suits have also been filed in the United States District
+Court for the Northern District of California, and those federal court actions
+have been consolidated. The complaints in the various derivative actions include
+claims for breach of fiduciary duty, waste of corporate assets, mismanagement,
+unjust enrichment and violations of the California Corporations Code, seek
+compensatory and other damages, disgorgement and other relief, and are based on
+essentially the same allegations as the class actions.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)    Exhibits
+
+       10.12  Professional and Leadership Incentive Plan -- Fiscal Year 2002
+
+(b)    Reports on Form 8-K
+
+       None
+
+
+                                       55
+<PAGE>
+
+                                   SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                                 Cisco Systems, Inc.
+
+Date: March 11, 2002                  By /s/         Larry R. Carter
+                                         ---------------------------------------
+                                      Larry R. Carter, Senior Vice
+                                      President, Finance and
+                                      Administration, Chief Financial
+                                      Officer and Secretary
+
+
+                                       56
+<PAGE>
+
+                                 Exhibit Index
+
+<TABLE>
+<CAPTION>
+Exhibit Number          Description
+--------------          -----------
+<S>                     <C>
+10.12                   Professional and Leadership Incentive Plan --
+                        Fiscal Year 2002
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>

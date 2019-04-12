@@ -1,0 +1,1634 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>e10-q.txt
+<DESCRIPTION>FORM 10-Q QUARTERLY PERIOD ENDED JUNE 30, 2000
+<TEXT>
+
+<PAGE>   1
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+                            ------------------------
+
+     [X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2000
+
+                                       OR
+
+     [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+         FOR THE TRANSITION PERIOD FROM ____________ TO ____________ .
+
+                        COMMISSION FILE NUMBER 000-30713
+
+                            INTUITIVE SURGICAL, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                                            <C>
+                  DELAWARE                                      77-0416458
+       (STATE OR OTHER JURISDICTION OF                       (I.R.S. EMPLOYER
+       INCORPORATION OR ORGANIZATION)                       IDENTIFICATION NO.)
+</TABLE>
+
+                           1340 WEST MIDDLEFIELD ROAD
+                      MOUNTAIN VIEW, CALIFORNIA 94043-3061
+                    (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (650) 237-7000
+
+     Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter periods that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+     The Registrant had 35,679,209 shares of Common Stock, $0.001 par value per
+share, outstanding as of August 7, 2000.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>   2
+
+                            INTUITIVE SURGICAL, INC.
+
+                         TABLE OF CONTENTS TO FORM 10-Q
+
+<TABLE>
+<CAPTION>
+                                                                         PAGE
+                                                                         ----
+<S>        <C>                                                           <C>
+                        PART I. FINANCIAL INFORMATION
+Item 1.    Financial Statements
+           Consolidated statements of operations for the three-month
+           and six-month periods ended June 30, 2000 and June 30,
+           1999........................................................    1
+           Consolidated balance sheets as of June 30, 2000 and December
+           31, 1999....................................................    2
+           Consolidated statements of cash flows for the six-month
+           periods ended June 30, 2000 and June 30, 1999...............    3
+           Notes to Consolidated Financial Statements..................    4
+Item 2.    Management's Discussion and Analysis of Financial Condition
+           and Results
+           of Operations...............................................    7
+Item 3.    Quantitative and Qualitative Disclosures About Market
+           Risk........................................................   19
+
+                         PART II. OTHER INFORMATION
+Item 1.    Legal Proceedings...........................................   20
+Item 2.    Changes in Securities and Use of Proceeds...................   20
+Item 3.    Defaults Upon Senior Securities.............................   21
+Item 4.    Submission of Matters to a Vote of Security Holders.........   21
+Item 5.    Other Information...........................................   21
+Item 6.    Exhibits and Reports on Form 8-K............................   22
+           SIGNATURE...................................................   23
+</TABLE>
+
+                                        i
+<PAGE>   3
+
+                         PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                            INTUITIVE SURGICAL, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                                  (UNAUDITED)
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                      THREE MONTHS ENDED       SIX MONTHS ENDED
+                                                     --------------------    --------------------
+                                                     JUNE 30,    JUNE 30,    JUNE 30,    JUNE 30,
+                                                       2000        1999        2000        1999
+                                                     --------    --------    --------    --------
+<S>                                                  <C>         <C>         <C>         <C>
+Sales..............................................  $ 5,127     $ 3,635     $  8,060    $ 3,635
+Cost of sales......................................    3,503       3,243        6,035      3,243
+                                                     -------     -------     --------    -------
+  Gross profit.....................................    1,624         392        2,025        392
+Operating costs and expenses:
+  Research and development.........................    2,822       1,807        5,453      5,770
+  Selling, general and administrative..............    3,976       2,228        7,114      4,015
+                                                     -------     -------     --------    -------
+          Total operating costs and expenses.......    6,798       4,035       12,567      9,785
+Loss from operations...............................   (5,174)     (3,643)     (10,542)    (9,393)
+Interest income....................................      802         461        1,240        737
+Interest expense...................................     (118)        (93)        (220)      (180)
+                                                     -------     -------     --------    -------
+  Interest income, net.............................      684         368        1,020        557
+Net loss...........................................  $(4,490)    $(3,275)    $ (9,522)   $(8,836)
+                                                     =======     =======     ========    =======
+Basic and diluted net loss per common share........  $ (0.23)    $ (0.70)    $  (0.75)   $ (1.96)
+                                                     =======     =======     ========    =======
+Shares used in computing net loss per common
+  share............................................   19,808       4,649       12,691      4,509
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                        1
+<PAGE>   4
+
+                            INTUITIVE SURGICAL, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+                                     ASSETS
+
+<TABLE>
+<CAPTION>
+                                                               JUNE 30,      DECEMBER 31,
+                                                                 2000            1999
+                                                              -----------    ------------
+                                                              (UNAUDITED)    (SEE NOTE 1)
+<S>                                                           <C>            <C>
+Current assets:
+  Cash and cash equivalents.................................   $ 40,484        $  4,106
+  Short-term investments....................................     46,856          22,154
+  Accounts receivable.......................................      5,285           2,044
+  Inventories...............................................      4,796           2,861
+  Prepaid expenses..........................................      1,014             581
+                                                               --------        --------
+          Total current assets..............................     98,435          31,746
+Property and equipment, net.................................      3,672           2,709
+Other assets................................................      4,465              --
+                                                               --------        --------
+          Total assets......................................   $106,572        $ 34,455
+                                                               ========        ========
+                          LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable..........................................   $  4,825        $  2,722
+  Accrued compensation and employee benefits................      1,336           1,325
+  Warranty provision........................................      1,115             812
+  Accrued liabilities.......................................      1,485           1,116
+  Deferred revenue..........................................      2,744           2,130
+  Current portion of notes payable..........................      1,746           1,618
+                                                               --------        --------
+          Total current liabilities.........................     13,251           9,723
+Notes payable...............................................      2,038           2,521
+Stockholders' equity
+  Preferred stock, 5,000,000 shares authorized, $0.001 par
+     value, issuable in series: no shares and 19,134,375
+     shares issued and outstanding at June 30, 2000 and
+     December 31, 1999, respectively........................         --              19
+  Common stock, 200,000,000 shares authorized, $0.001 par
+     value, 34,929,209 and 6,681,848 shares issued and
+     outstanding as of June 30, 2000 and December 31, 1999,
+     respectively...........................................         35               7
+  Additional paid-in capital................................    180,171          98,508
+  Deferred compensation.....................................     (3,964)           (943)
+  Accumulated deficit.......................................    (84,669)        (75,147)
+  Accumulated other comprehensive income....................       (290)           (233)
+                                                               --------        --------
+          Total stockholders' equity........................     91,283          22,211
+                                                               --------        --------
+          Total liabilities and stockholders' equity........   $106,572        $ 34,455
+                                                               ========        ========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                        2
+<PAGE>   5
+
+                            INTUITIVE SURGICAL, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                  (UNAUDITED)
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                                SIX MONTHS ENDED
+                                                              --------------------
+                                                              JUNE 30,    JUNE 30,
+                                                                2000        1999
+                                                              --------    --------
+<S>                                                           <C>         <C>
+OPERATING ACTIVITIES
+Net loss....................................................  $ (9,522)   $ (8,836)
+Adjustments to reconcile net loss to net cash used in
+  operating activities:
+  Depreciation..............................................       749         696
+  Amortization of deferred compensation.....................     1,042         446
+  Amortization of other assets..............................       205          --
+Changes in operating assets and liabilities:
+  Accounts receivable.......................................    (3,241)     (1,937)
+  Inventories...............................................    (1,935)     (1,155)
+  Prepaid expenses..........................................      (433)         63
+  Accounts payable..........................................     2,103         227
+  Accrued compensation and employee benefits................        11         (95)
+  Warranty provision........................................       303         400
+  Accrued liabilities.......................................       369         385
+  Deferred revenue..........................................       614         (95)
+                                                              --------    --------
+Net cash used in operating activities.......................    (9,735)     (9,901)
+INVESTING ACTIVITIES
+Capital expenditures........................................    (1,712)       (454)
+Acquisition of patents......................................    (3,000)         --
+Purchase of short-term investments..........................   (34,771)    (21,614)
+Proceeds from sales and maturities of short-term
+  investments...............................................    10,012       5,027
+                                                              --------    --------
+Net cash used in investing activities.......................   (29,471)    (17,041)
+FINANCING ACTIVITIES
+Proceeds from issuance of convertible preferred stock.......    34,756      19,290
+Proceeds from issuance of common stock......................    41,192           8
+Repurchase of common stock..................................        (9)        (38)
+Proceeds from notes payable.................................       500       1,500
+Repayment of notes payable..................................      (855)       (429)
+                                                              --------    --------
+Net cash provided by financing activities...................    75,584      20,331
+Net increase (decrease) in cash and cash equivalents........    36,378      (6,611)
+Cash and cash equivalents at beginning of period............     4,106      10,169
+                                                              --------    --------
+Cash and cash equivalents at end of period..................  $ 40,484    $  3,558
+                                                              ========    ========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                        3
+<PAGE>   6
+
+                            INTUITIVE SURGICAL, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (UNAUDITED)
+
+NOTE 1. BASIS OF PRESENTATION
+
+     In this report, "Intuitive Surgical," "we," "us," and "our" refer to
+Intuitive Surgical, Inc.
+
+     The accompanying unaudited consolidated financial statements have been
+prepared in accordance with generally accepted accounting principles for interim
+financial information and with the instructions to Form 10-Q and Article 10 of
+Regulation S-X. Accordingly, they do not include all of the information and
+footnotes required by accounting principles generally accepted in the United
+States for complete financial statements. In the opinion of management, all
+normal, recurring adjustments considered necessary for a fair presentation have
+been included. The financial statements should be read in conjunction with the
+audited financial statements for the year ended December 31, 1999, included in
+the Registration Statement on Form S-1 of Intuitive Surgical, Inc., as amended,
+filed with the Securities and Exchange Commission. The results for the interim
+period ended June 30, 2000 are not necessarily indicative of the results to be
+expected for the full year ending December 31, 2000 or future operating periods.
+
+NOTE 2. CASH AND CASH EQUIVALENTS
+
+     Intuitive Surgical considers all highly liquid investments with an original
+maturity from date of purchase of three months or less to be cash equivalents
+for the purpose of balance sheet and statement of cash flows presentation. The
+carrying value of cash and cash equivalents approximates market value at
+December 31, 1999 and June 30, 2000.
+
+NOTE 3. SHORT-TERM INVESTMENTS
+
+     All short-term investments are classified as available-for-sale and
+therefore carried at fair value. We view our available-for-sale portfolio as
+available for use in its current operations. Accordingly, we have classified all
+investments as short-term, even though the stated maturity date may be one year
+or more beyond the current balance sheet date. Available-for-sale securities are
+stated at fair value based upon quoted market prices of the securities.
+Unrealized gains and losses on such securities, when material, are reported as a
+separate component of stockholders' equity. Realized gains and losses, net, on
+available-for-sale securities are included in interest income. The cost of
+securities sold is based on the specific identification method. Interest and
+dividends on securities classified as available-for-sale are included in
+interest income.
+
+NOTE 4. INVENTORIES
+
+     Inventories consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                         JUNE 30,    DECEMBER 31,
+                                                           2000          1999
+                                                         --------    ------------
+<S>                                                      <C>         <C>
+Raw materials..........................................   $1,883        $1,147
+Work-in-process........................................    1,114           619
+Finished goods.........................................    1,799         1,095
+                                                          ------        ------
+                                                          $4,796        $2,861
+                                                          ======        ======
+</TABLE>
+
+NOTE 5. OTHER ASSETS
+
+     In April 2000, we entered into an agreement with Heartport, Inc. to
+exclusively license a number of Heartport's patents in exchange for cash of $3.0
+million and a warrant to purchase 200,000 shares of our common stock at an
+exercise price of $3.00 per share. In accordance with EITF 96-18, "Accounting
+for Equity Instruments That Are Issued to Other Than Employees for Acquiring, or
+in Conjunction with Selling, Goods or Services," we valued the warrant to be
+approximately $1.7 million using the Black-Scholes option
+
+                                        4
+<PAGE>   7
+                            INTUITIVE SURGICAL, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                                  (UNAUDITED)
+
+pricing model. As a result of this agreement, we capitalized approximately $4.7
+million as other assets, which will be amortized over the estimated useful life
+of the patents.
+
+NOTE 6. COMPREHENSIVE LOSS
+
+     The components of comprehensive loss consist of the following (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                              THREE MONTHS ENDED     SIX MONTHS ENDED
+                                                   JUNE 30,              JUNE 30,
+                                              ------------------    ------------------
+                                               2000       1999       2000       1999
+                                              -------    -------    -------    -------
+<S>                                           <C>        <C>        <C>        <C>
+Net loss....................................  $(4,490)   $(3,275)   $(9,522)   $(8,836)
+Other comprehensive income (loss):
+  Foreign currency translation
+     adjustments............................     (101)        14        (91)        19
+  Change in unrealized gain (loss) on
+     available-for-sale securities..........      (50)      (137)       (57)      (181)
+                                              -------    -------    -------    -------
+Comprehensive loss..........................  $(4,641)   $(3,398)   $(9,670)   $(8,998)
+                                              =======    =======    =======    =======
+</TABLE>
+
+NOTE 7. NET LOSS PER SHARE
+
+     Statement of Financial Accounting Standard No. 128, "Earnings Per Share,"
+requires presentation of both basic and diluted net loss per share in the
+financial statements. Intuitive Surgical's basic net loss per share is the same
+as its diluted net loss per share because inclusion of outstanding stock options
+and warrants in the calculation is antidilutive. Net loss per share is
+calculated using the weighted average number of common shares outstanding during
+the period.
+
+NOTE 8. REVENUE RECOGNITION
+
+     Intuitive Surgical recognizes system revenue upon installation for direct
+sales and upon shipment for sales to its distributors. If substantial
+contractual obligations exist after system installation, revenue is recognized
+after such obligations are fulfilled. Distributors do not have price protection
+or return rights. We recognize revenue for instruments and accessories upon
+shipment. Amounts are billed in accordance with the terms of the underlying
+sales agreement, and amounts billed in excess of revenue recognized are included
+as deferred revenue in the accompanying consolidated balance sheets.
+
+NOTE 9. STOCKHOLDERS' EQUITY
+
+     On June 13, 2000, we commenced the initial public offering of our common
+stock. Upon the closing of the initial public offering, we issued 5,000,000
+shares of our common stock at an offering price of $9.00 per share and all of
+Intuitive Surgical's convertible preferred stock automatically converted into
+22,813,173 shares of common stock. On July 13, 2000, the underwriters exercised
+in full their over-allotment option to purchase an additional 750,000 shares at
+$9.00 per share. Cash proceeds from the sale of the 5,750,000 shares of common
+stock, net of underwriters' discount and offering expenses, totaled
+approximately $46.6 million.
+
+     In April 2000, we issued a warrant to purchase 200,000 shares of our common
+stock in connection with a patent licensing agreement. (See Note 5.)
+
+NOTE 10. RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In June 1998, the Financial Accounting Standards Board issued Statement No.
+133, "Accounting for Derivative Instruments and Hedging Activities ("SFAS 133"),
+which, as amended, is required to be adopted in years beginning after June 15,
+2000. Because we do not use derivatives, management does not anticipate
+
+                                        5
+<PAGE>   8
+                            INTUITIVE SURGICAL, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                                  (UNAUDITED)
+
+that the adoption of SFAS 133 will have a significant effect on our results of
+operations, financial position or cash flows.
+
+     In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin No. 101 "Revenue Recognition in Financial Statements" ("SAB
+101"). SAB 101 summarizes some areas of the Staff's views in applying generally
+accepted accounting principles to revenue recognition in financial statements.
+We believe that our current revenue recognition principles comply with SAB 101.
+
+     On March 31, 2000, the FASB issued Interpretation No. 44, "Accounting for
+Certain Transactions Involving Stock Compensation," ("FIN 44") which provides
+guidance on several implementation issues related to Accounting Principles Board
+Opinion No. 25 ("APB 25"). The most significant topics discussed in FIN 44 are
+the clarification of the definition of employee for purposes of applying Opinion
+No. 25 and the accounting for stock options that have been repriced. FIN 44 is
+effective for the most significant topics discussed beginning July 15, 2000. The
+impact of the interpretation on Intuitive Surgical's financial position and
+results of operations is not expected to be material.
+
+                                        6
+<PAGE>   9
+
+ITEM 2.MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+       OF OPERATIONS
+
+     This Management's Discussion and Analysis of Financial Condition and
+Results of Operations as of June 30, 2000 and for the three and six-month
+periods ended June 30, 2000 and June 30, 1999 should be read in conjunction with
+the Management's Discussion and Analysis of Financial Condition and Results of
+Operations included in Intuitive Surgical's Registration Statement on Form S-1
+for the year ended December 31, 1999.
+
+     Except for historical information, the discussion in this report contains
+forward-looking statements that involve risks and uncertainties, such as
+statements of our plans, objectives, expectations and intentions. The cautionary
+statements made in this report should be read as applying to all related
+forward-looking statements wherever they appear in this report. Our actual
+results could differ materially from those discussed here. Factors that could
+cause or contribute to these differences include those discussed in "-- Factors
+Affecting Operating Results" below as well as those discussed elsewhere.
+
+     In this report, "Intuitive Surgical," "we," "us," and "our" refer to
+Intuitive Surgical, Inc.
+
+     Intuitive(TM), da Vinci(TM) and EndoWrist(TM) are trademarks of Intuitive
+Surgical, Inc.
+
+OVERVIEW
+
+     We design and manufacture the da Vinci Surgical System, an advanced
+surgical system that we believe represents a new generation of surgery. The da
+Vinci System consists of a surgeon's console, a patient-side cart, a high
+performance vision system and proprietary instruments. The da Vinci System
+seamlessly translates the surgeon's natural hand movements on instrument
+controls at a console into corresponding micro-movements of instruments
+positioned inside the patient through small puncture incisions, or ports. We
+believe that the da Vinci Surgical System is the only commercially available
+technology that can provide the surgeon with the intuitive control, range of
+motion, fine tissue manipulation capability and 3-D visualization characteristic
+of open surgery, while simultaneously allowing the surgeon to work through the
+small ports of minimally invasive surgery or MIS. By placing computer-enhanced
+technology between the surgeon and the patient, we believe that the da Vinci
+System enables surgeons to perform better surgery while giving patients the
+benefits of MIS surgery, including decreased trauma and postoperative pain,
+reduced surgical complications, shorter hospital stays and lower total treatment
+costs.
+
+     In early 1999, we obtained permission from the European Union to affix the
+CE Mark to the da Vinci Surgical System and EndoWrist instruments for general
+surgical and cardiac surgical use. Based on this approval, we recognized revenue
+for the first time in the second quarter of 1999 for the sale of our products.
+In July 2000, we received clearance from the U.S. Food and Drug Administration,
+the FDA, to begin commercialization of our da Vinci Surgical System in the
+United States for use in laparoscopic surgical procedures. In June and July
+2000, we raised net proceeds of approximately $46.6 million through the initial
+public offering of our common stock.
+
+     To date, the majority of our revenues have come from the sales of the da
+Vinci Surgical System, which are high revenue dollar items. A smaller percentage
+of revenues have come from sales of EndoWrist instruments and accessories, which
+are lower revenue dollar items. Although we expect the majority of our revenues
+to continue to come from the sale of da Vinci Surgical Systems over the next few
+years, the percentage of revenue from our EndoWrist instruments should continue
+to increase. Due to the high dollar revenue per system sold, small variations in
+system unit sales may cause revenue to vary significantly from quarter to
+quarter. During the useful life of each installed da Vinci Surgical System, we
+expect to generate recurring revenue through sales of the EndoWrist instruments
+and accessories.
+
+RESULTS OF OPERATIONS
+
+     Sales. Sales for the three months ended June 30, 2000 were $5.1 million, up
+41% from $3.6 million for the three months ended June 30, 1999. Sales for the
+first half of 2000 were $8.1 million, up 122% from $3.6 million for the first
+half of 1999. The increase in sales from the first half of 1999 to the first
+half of 2000 was primarily due to an increase in the number of da Vinci Surgical
+Systems sold. Sales in the first half of
+
+                                        7
+<PAGE>   10
+
+2000 were driven by the sale and installation of six and three da Vinci Surgical
+Systems in the second and first quarters of 2000, respectively, compared with
+four da Vinci Surgical Systems sold in the second quarter of 1999.
+
+     Gross Profit. Gross profit for the three months ended June 30, 2000 was
+$1.6 million, or 32% of sales, compared with $392,000, or 11% of sales, during
+the three months ended June 30, 1999. Gross profit for the first half of 2000
+was $2.0 million, or 25% of sales, compared with $392,000, or 11% of sales, for
+the first half of 1999. The improvement in gross profit for the three-month and
+six-month periods ended June 30, 2000 compared to the same periods from the
+prior year resulted from sales growth and increased manufacturing efficiencies.
+
+     Research and Development Expenses. Research and development expenses for
+the three months ended June 30, 2000 were $2.8 million, up 56% from $1.8 million
+for the three months ended June 30, 1999. Research and development expenses for
+the first half of 2000 were $5.5 million, down 5% from $5.8 million for the
+first half of 1999. The increase from the second quarter of 1999 to the second
+quarter of 2000 was primarily attributable to additional headcount and increased
+spending for product development efforts and regulatory approval processes.
+Research and development costs decreased from the six-month period ended June
+30, 1999 to the comparable period in 2000. This decrease is primarily
+attributable to a change in our treatment of manufacturing-related costs.
+Starting in the second quarter of 1999, as we recognized sales for the first
+time, we transitioned from recording manufacturing-related costs as research and
+development expense to cost of sales.
+
+     Research and development expenses include costs associated with the design,
+development, testing and enhancement of our products. These enhancements
+represent significant improvements to our products. Research and development
+expenses also include expenditures for clinical trials and purchases of
+laboratory supplies. Research and development costs are expensed as incurred. We
+expect to continue to make substantial investments in research and development
+and anticipate that research and development expenses will continue to increase
+in the future.
+
+     Selling, General and Administrative Expenses. Selling, general and
+administrative expenses for the three months ended June 30, 2000 were $4.0
+million, up 78% from $2.2 million for the three months ended June 30, 1999.
+Selling, general and administrative expenses for the first half of 2000 were
+$7.1 million, up 77% from $4.0 million for the first half of 1999. The increase
+between the second quarter of 2000 and the second quarter of 1999 and between
+the first half of 2000 and the first half of 1999 was primarily attributable to
+an increase in headcount and increased marketing and training costs.
+
+     Selling, general and administrative expenses include personnel costs for
+sales, marketing and administrative personnel, tradeshow expenses, legal
+expenses, regulatory fees and general corporate expenses. Selling, general and
+administrative expenses are expected to increase in the future to support
+expanding business activities and the additional administrative costs related to
+being a public company.
+
+     Deferred Compensation. We recorded deferred compensation as the difference
+between the exercise price of options granted and the fair value of our common
+stock at the time of grant for financial reporting purposes. Deferred
+compensation is amortized to research and development expenses and selling,
+general and administrative expenses. Deferred compensation recorded through June
+30, 2000 was $8.8 million with accumulated amortization of $4.8 million. The
+remaining $4.0 million will be amortized over the remaining vesting periods of
+the options, generally four years from the date of grant, using a graded-vesting
+method. The amount of deferred compensation expense to be recorded in future
+periods may decrease if unvested options for which deferred compensation has
+been recorded are subsequently canceled.
+
+     Interest Income (Expense), Net. Net interest income increased 86% to
+$684,000 for the three months ended June 30, 2000 from $368,000 for the three
+months ended June 30, 1999. Net interest income increased 83% to $1.0 million
+for the first half of 2000 from $557,000 for the first half of 1999. The
+increase between the second quarter of 2000 and 1999 and the first half of 2000
+and 1999 resulted from increased interest income earned on higher average cash
+balances, which was driven by the exercise of warrants to purchase preferred
+
+                                        8
+<PAGE>   11
+
+stock in March 2000, yielding approximately $34.8 million in net proceeds, and
+our initial public offering in June 2000, which raised net proceeds of
+approximately $40.3 million.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Since our inception, we have financed our operations primarily through
+sales of our preferred stock, yielding net proceeds of approximately $127.3
+million, and equipment financing arrangements yielding approximately $6.5
+million. The equipment arrangements provide financing at specific interest rates
+for periods of up to 48 months, by which time the principal is repaid to the
+lessors. As collateral for the equipment financing, we have granted the lessors
+a security interest in equipment specified under each arrangement. In June and
+July 2000, we sold and issued 5,750,000 shares of common stock in our initial
+public offering, yielding net proceeds of approximately $46.6 million.
+
+     As of June 30, 2000, we had cash, cash equivalents and short-term
+investments of $87.3 million. Working capital at June 30, 2000 was approximately
+$85.2 million, compared to approximately $22.0 million at December 31, 1999. The
+increase in working capital was primarily attributable to the exercise of
+warrants to purchase preferred stock in March 2000, yielding approximately $34.8
+million in net proceeds, and our initial public offering in June 2000, raising
+net proceeds of approximately $40.3 million.
+
+     Net cash used in operating activities was $9.7 million for the six months
+ended June 30, 2000, compared to $9.9 million for the six months ended June 30,
+1999. Differences between the periods related to higher accounts payable and
+accruals to support expanding business activities, which was offset by higher
+inventory and accounts receivable levels to support increased sales activity.
+
+     Net cash used in investing activities was $29.5 million for the six months
+ended June 30, 2000, compared to $17.0 million for the six months ended June 30,
+1999. Differences between the periods related to the investment of the net
+proceeds of $40.3 million from our initial public offering in June 2000 and the
+net proceeds of $34.8 million from the exercise of warrants to purchase
+preferred stock in March 2000.
+
+     Net cash provided by financing activities was $75.6 million for the six
+months ended June 30, 2000, compared to $20.3 million for the six months ended
+June 30, 1999. The primary difference between the first half of 2000 and the
+first half of 1999 relates to our initial public offering in June 2000, yielding
+net proceeds of $40.3 million, and the exercise of warrants to purchase
+preferred stock in March 2000, yielding net proceeds of $34.8 million.
+
+     Our capital requirements depend on numerous factors, including market
+acceptance of our products, the resources we devote to developing and supporting
+our products and other factors. We expect to devote substantial capital
+resources to continue our research and development efforts, to expand our
+support and product development activities and for other general corporate
+activities. We believe that our current cash balances, together with revenue to
+be derived from the sale of our products, will be sufficient to fund our
+operations at least through 2001. During or after this period, if cash generated
+by operations is insufficient to satisfy our liquidity requirements, we may need
+to sell additional equity or debt securities or obtain additional credit
+arrangements. Additional financing may not be available on terms acceptable to
+us or at all. The sale of additional equity or convertible debt securities may
+result in additional dilution to our stockholders.
+
+FACTORS AFFECTING OPERATING RESULTS
+
+OUR FUTURE OPERATING RESULTS MAY BE BELOW SECURITIES ANALYSTS' OR INVESTORS'
+EXPECTATIONS, WHICH COULD CAUSE OUR STOCK PRICE TO DECLINE.
+
+     Because of our limited operating history, we have limited insight into
+trends that may emerge in our market and affect our business. The revenue and
+income potential of our market are unproven, and we may be unable to generate
+significant commercial revenues. In addition, our costs may be higher than we,
+securities analysts or investors expect. If we fail to generate sufficient
+revenues or our costs are higher than we expect, our results of operations will
+suffer, which in turn could cause our stock price to decline. Further, future
+
+                                        9
+<PAGE>   12
+
+revenue from sales of our products, if any, will be difficult to forecast
+because the market for new surgical technologies is still evolving. Our results
+of operations will depend upon numerous factors, including:
+
+     - the progress and results of clinical trials;
+
+     - actions relating to regulatory matters;
+
+     - the extent to which our products gain market acceptance;
+
+     - our timing and ability to develop our manufacturing and sales and
+       marketing capabilities;
+
+     - demand for our products;
+
+     - the progress of surgical training in the use of our products;
+
+     - our ability to develop, introduce and market new or enhanced versions of
+       our products on a timely basis;
+
+     - product quality problems;
+
+     - our ability to protect our proprietary rights;
+
+     - our ability to license additional intellectual property rights; and
+
+     - third-party payor reimbursement policies.
+
+Our operating results in any particular period will not be a reliable indication
+of our future performance. It is likely that in some future quarters, our
+operating results will be below the expectations of securities analysts or
+investors. If this occurs, the price of our common stock, and the value of your
+investment, will likely decline.
+
+WE HAVE A LARGE ACCUMULATED DEFICIT, WE EXPECT FUTURE LOSSES, AND WE MAY NOT
+ACHIEVE OR MAINTAIN PROFITABILITY.
+
+     We have incurred substantial losses since inception and we expect to incur
+substantial additional operating losses for at least the next two years,
+primarily as a result of expected increases in expenses for our manufacturing
+and sales and marketing capabilities, research and development activities,
+clinical trials and regulatory approval applications. The extent of our future
+losses and the timing of profitability are highly uncertain, and we may never
+achieve profitable operations. If the time required to generate significant
+revenues and achieve profitability is longer than anticipated, we may not be
+able to continue our operations. Our net loss for the year ended December 31,
+1999 was $18.4 million and was $9.5 million for the six months ended June 30,
+2000. As of June 30, 2000, we had an accumulated deficit of $84.7 million.
+
+WE EXPERIENCE LONG AND VARIABLE SALES CYCLES, WHICH COULD HAVE A NEGATIVE IMPACT
+ON OUR RESULTS OF OPERATIONS FOR ANY GIVEN QUARTER.
+
+     Our da Vinci Surgical System has a lengthy sales and purchase order cycle
+because it is a major capital item and generally requires the approval of senior
+management at purchasing institutions. We do not plan to maintain an inventory
+of assembled da Vinci Surgical Systems, but rather plan to manufacture our
+products only after receiving customer orders. These factors may contribute to
+substantial fluctuations in our quarterly operating results, particularly during
+the periods in which our sales volume is low. Because of these fluctuations, it
+is likely that in some future quarters, our operating results could fall below
+the expectations of securities analysts or investors. If that happens, the
+market price of our stock would likely decrease. These fluctuations also mean
+that you will not be able to rely upon our operating results in any particular
+period as an indication of future performance.
+
+BECAUSE A SMALL NUMBER OF CUSTOMERS HAVE AND ARE LIKELY TO CONTINUE TO ACCOUNT
+FOR A SUBSTANTIAL PORTION OF OUR REVENUES, OUR REVENUES COULD DECLINE DUE TO THE
+LOSS OR DELAY OF A SINGLE CUSTOMER ORDER.
+
+     A relatively small number of customers account for a significant portion of
+our total revenues. In 1999 and in the first half of 2000, the majority of our
+revenues came from the sales of da Vinci Surgical Systems,
+
+                                       10
+<PAGE>   13
+
+which are high revenue dollar items. Due to the high dollar revenue per system
+sold, small variations in system unit sales may cause revenue to vary
+significantly from quarter to quarter. For the year ended December 31, 1999, two
+customers, AB Medica SRL, located in Italy, and Marubeni America Corporation,
+located in New York, each accounted for 16% of our total sales. AB Medica SRL
+and Marubeni America Corporation are our Italian and Japanese distributors,
+respectively. For the six months ended June 30, 2000, seven customers, AB Medica
+SRL, Association pour la Recherche en Chirurgie Cardiaque, located in Paris,
+France, Beheer Medische Apparatuur Joseph Israels C.V., located in Utrecht,
+Netherlands, Baylor University Medical Center, located in Texas, Brigham &
+Women's Hospital, located in Massachusetts, Henrico Doctors' Hospital, located
+in Virginia and the University of Nebraska Medical Center, located in Nebraska,
+accounted for 11%, 11%, 11%, 11%, 11%, 11% and 10% of total sales, respectively.
+
+     We expect that revenues from a limited number of new customers will account
+for a large percentage of total revenues in future quarters. Our ability to
+attract new customers will depend on a variety of factors, including the
+capability, safety, efficacy, ease of use, price, quality and reliability of our
+products and effective sales, support, training and service. The loss or delay
+of individual orders could have a significant impact on revenues and operating
+results. Our failure to add new customers that make significant purchases of our
+products would reduce our future revenues.
+
+IF OUR PRODUCTS DO NOT ACHIEVE MARKET ACCEPTANCE, WE WILL NOT BE ABLE TO
+GENERATE THE REVENUE NECESSARY TO SUPPORT OUR BUSINESS.
+
+     Our products represent a fundamentally new way of performing surgery.
+Achieving physician, patient and third-party payor acceptance of Intuitive
+surgery as a preferred method of performing surgery will be crucial to our
+success. If our products fail to achieve market acceptance, hospitals will not
+purchase our products and we will not be able to generate the revenue necessary
+to support our business. We believe that physicians' and third-party payors'
+acceptance of the benefits of procedures performed using our products will be
+essential for acceptance of our products by patients. Physicians will not
+recommend the use of our products unless we can demonstrate that they produce
+results comparable or superior to existing surgical techniques. Even if we can
+prove the effectiveness of our products through clinical trials, surgeons may
+elect not to use our products for any number of other reasons. For example,
+cardiologists may continue to recommend conventional open heart surgery simply
+because such surgery is already so widely accepted. In addition, surgeons may be
+slow to adopt our products because of the perceived liability risks arising from
+the use of new products and the uncertainty of reimbursement from third-party
+payors.
+
+     We expect that there will be a learning process involved for surgical teams
+to become proficient in the use of our products. Broad use of our products will
+require training of surgical teams. Market acceptance could be delayed by the
+time required to complete this training. We may not be able to rapidly train
+surgical teams in numbers sufficient to generate adequate demand for our
+products. Although we are in the process of developing training programs for
+surgical teams, we cannot be certain that our training programs will be cost
+effective or sufficient to meet our customers' needs.
+
+OUR PRODUCTS ARE SUBJECT TO A LENGTHY AND UNCERTAIN DOMESTIC REGULATORY PROCESS.
+IF WE DO NOT OBTAIN AND MAINTAIN THE NECESSARY DOMESTIC REGULATORY APPROVALS, WE
+WILL NOT BE ABLE TO MARKET AND SELL OUR PRODUCTS IN THE UNITED STATES.
+
+     Our products are subject to extensive regulation in the United States by
+the U.S. Food and Drug Administration, or FDA. The FDA regulates the research,
+testing, manufacturing, safety, labeling, storage, recordkeeping, promotion,
+distribution and production of medical devices in the United States. In November
+1999, we submitted a premarket approval, or PMA, application requesting
+permission to market our da Vinci Surgical System and EndoWrist instruments for
+laparoscopic surgical procedures, which the FDA accepted for review in December
+1999. In July 2000, we received clearance from the FDA for the commercialization
+of our da Vinci Surgical System in the United States for use in laparoscopic
+surgical procedures. In addition, the FDA determined through review of
+Intuitive's PMA application that this and future submissions for Intuitive's
+devices, including new clinical indications, could be more appropriately
+reviewed through the Premarket Notification or 510(k) process and as such, the
+FDA reclassified Intuitive's devices from Class III
+
+                                       11
+<PAGE>   14
+
+to Class II, thus requiring a premarket notification rather than a premarket
+approval. In August 2000, we submitted a 510(k) application to the FDA
+requesting clearance to expand the labeling of the da Vinci Surgical System and
+EndoWrist instruments to include thoracoscopic procedures such as internal
+mammary artery mobilization. A 510(k) application must be supported by valid
+scientific evidence, which typically includes extensive preclinical and clinical
+trials and other data, to demonstrate the safety and effectiveness of the
+device. Data obtained from clinical trials are subject to varying
+interpretations that could delay, limit or prevent us from obtaining FDA
+clearance. We cannot assure you that we will successfully obtain FDA clearance
+for the use of our products in other surgical procedures on a timely basis or at
+all. Even if our products are cleared by the FDA, if we modify them, the FDA may
+require us to obtain clearance of the modified products before we are permitted
+to market and sell them. We anticipate that the FDA will require a new 510(k)
+clearance for additional types of surgical procedures for which we propose to
+market our products. Any delay in receiving clearance, failure to receive
+clearance or failure to comply with existing or future regulatory requirements
+would harm our ability to market and sell our products. For additional
+information concerning regulatory approval of our products, see
+"Business -- Government Regulation," included in the Registration Statement on
+Form S-1 of Intuitive Surgical, Inc., as amended, filed with the Securities and
+Exchange Commission or SEC.
+
+OUR PRODUCTS ARE SUBJECT TO VARIOUS INTERNATIONAL REGULATORY PROCESSES AND
+APPROVAL REQUIREMENTS. IF WE DO NOT OBTAIN AND MAINTAIN THE NECESSARY
+INTERNATIONAL REGULATORY APPROVALS, WE WILL NOT BE ABLE TO MARKET AND SELL OUR
+PRODUCTS IN FOREIGN COUNTRIES.
+
+     To be able to market and sell our products in other countries, we must
+obtain regulatory approvals and comply with the regulations of those countries.
+These regulations, including the requirements for approvals, and the time
+required for regulatory review vary from country to country. Obtaining and
+maintaining foreign regulatory approvals are expensive, and we cannot be certain
+that we will receive regulatory approvals in any foreign country in which we
+plan to market our products. If we fail to obtain regulatory approval in any
+foreign country in which we plan to market our products, our ability to generate
+revenue will be harmed.
+
+     The European Union requires that manufacturers of medical products obtain
+the right to affix the CE mark to their products before selling them in member
+countries of the European Union. The CE mark is an international symbol of
+adherence to quality assurance standards and compliance with applicable European
+medical device directives. In order to obtain the right to affix the CE mark to
+products, a manufacturer must obtain certification that its processes meet
+certain European quality standards. In January 1999, we received permission to
+affix the CE mark to our da Vinci Surgical System and EndoWrist instruments for
+general surgical use. We received additional CE approvals for use of our da
+Vinci Surgical System and EndoWrist instruments in cardiac surgery in September
+1999 and February 2000.
+
+     If we modify existing products or develop new products in the future,
+including new instruments, we will need to apply for permission to affix the CE
+mark to such products. In addition, we will be subject to annual regulatory
+audits in order to maintain the CE mark permissions we have already obtained. We
+cannot be certain that we will be able to obtain permission to affix the CE mark
+for new or modified products or that we will continue to meet the quality and
+safety standards required to maintain the permissions we have already received.
+If we are unable to maintain permission to affix the CE mark to our products, we
+will no longer be able to sell our products in member countries of the European
+Union.
+
+IF INSTITUTIONS OR SURGEONS ARE UNABLE TO OBTAIN REIMBURSEMENT FROM THIRD-PARTY
+PAYORS FOR PROCEDURES USING OUR PRODUCTS, OR IF REIMBURSEMENT IS INSUFFICIENT TO
+COVER THE COSTS OF PURCHASING OUR PRODUCTS, WE MAY BE UNABLE TO GENERATE
+SUFFICIENT SALES TO SUPPORT OUR BUSINESS.
+
+     Domestic institutions will typically bill the services performed with our
+products to various third-party payors, such as Medicare, Medicaid and other
+government programs and private insurance plans. If hospitals do not obtain
+sufficient reimbursement from third-party payors for procedures performed with
+our products, or if government and private payors' policies do not permit
+reimbursement for surgical procedures performed using our products, we may not
+be able to generate the revenues necessary to support our business. In such
+circumstances, we may have to apply to the American Medical Association for a
+unique Current Procedural
+
+                                       12
+<PAGE>   15
+
+Terminology code covering computer-enhanced surgery. If an application for a
+unique code is required, reimbursement for any use of our products may be
+unavailable until an appropriate code is granted. The application process, from
+filing until adoption of a new code, can take two or more years.
+
+     Our success in international markets also depends upon the eligibility of
+our products for reimbursement through government-sponsored health care payment
+systems and third-party payors. Reimbursement practices vary significantly by
+country. Many international markets have government-managed healthcare systems
+that control reimbursement for new products and procedures. Other foreign
+markets have both private insurance systems and government-managed systems that
+control reimbursement for new products and procedures. Market acceptance of our
+products may depend on the availability and level of reimbursement in any
+country within a particular time. In addition, health care cost containment
+efforts similar to those we face in the United States are prevalent in many of
+the other countries in which we intend to sell our products and these efforts
+are expected to continue. For further information on third-party reimbursement
+policies, see "Business -- Third-Party Reimbursement," included in the
+Registration Statement on Form S-1 of Intuitive Surgical, Inc., as amended,
+filed with the SEC.
+
+WE ARE INVOLVED IN INTELLECTUAL PROPERTY LITIGATION WITH COMPUTER MOTION THAT
+MAY HURT OUR COMPETITIVE POSITION, MAY BE COSTLY TO US AND MAY PREVENT US FROM
+SELLING OUR PRODUCTS.
+
+     On May 10, 2000, Computer Motion, Inc. filed a lawsuit in United States
+District Court for the Central District of California (Case No. CV00-4988 CBM)
+alleging that by making, using, selling or offering for sale our da Vinci
+Surgical System, we are infringing United States Patent Numbers 5,524,180,
+5,878,193, 5,762,458, 6,001,108, 5,815,640, 5,907,664 and 5,855,583 in willful
+disregard of Computer Motion's patent rights. On June 1, 2000, Computer Motion
+amended its lawsuit to allege that we also infringe U.S. Patent Number
+6,063,095. These patents concern methods and devices for conducting various
+aspects of robotic surgery. Beginning in May 1999, we requested that the U.S.
+Patent and Trademark Office declare interferences between some of our
+exclusively licensed patent applications and five of Computer Motion's U.S.
+patents, each of which is included in Computer Motion's suit. An interference is
+a proceeding within the U.S. Patent and Trademark Office to resolve questions
+regarding who was the first to invent the subject matter of a patent and/or a
+patent application.
+
+     If we lose Computer Motion's suit against us, it will hurt our competitive
+position, may be costly to us and may prevent us from selling our products. In
+addition, if we lose the patent suit, we will need to obtain from Computer
+Motion a license to this technology if we are to continue to market our products
+that have been found to infringe Computer Motion's patents. This license could
+be expensive, or could require us to license to Computer Motion some of our
+technology which would result in a partial loss of our competitive advantage in
+the marketplace, each of which could seriously harm our business. We believe
+that we have meritorious defenses in this action. However, litigation is
+unpredictable and we may not prevail with any of these defenses. If Computer
+Motion is successful in its suit against us and is unwilling to grant us a
+license, we will be required to stop selling our products that are found to
+infringe Computer Motion's patents unless we can redesign them so they do not
+infringe Computer Motion's patents, which we may be unable to do. In addition,
+if we lose the patent suit, we could be required to pay Computer Motion damages,
+including treble damages, which could be substantial and harm our financial
+position.
+
+     This litigation will be expensive to litigate, may be protracted and our
+confidential information may be compromised. Whether or not we are successful in
+this lawsuit, this litigation could consume substantial amounts of our financial
+and managerial resources. At any time Computer Motion may file additional claims
+against Intuitive Surgical, or we may file claims against Computer Motion, which
+could increase the risk, expense and duration of the litigation. Further,
+because of the substantial amount of discovery often involved in connection with
+this type of litigation, there is a risk that some of our confidential
+information could be compromised by disclosure. For more information on our
+litigation with Computer Motion, see "Business -- Legal Proceedings," included
+in the Registration Statement on Form S-1 of Intuitive Surgical, Inc., as
+amended, filed with the SEC.
+
+                                       13
+<PAGE>   16
+
+PUBLIC ANNOUNCEMENTS OF LITIGATION EVENTS WITH COMPUTER MOTION MAY HURT OUR
+STOCK PRICE.
+
+     During the course of our lawsuit with Computer Motion, there may be public
+announcements of the results of hearings, motions, and other interim proceedings
+or developments in the litigation. If securities analysts or investors perceive
+these results to be negative, it could have a substantial negative effect on the
+trading price of our stock.
+
+IF WE ARE UNABLE TO PROTECT THE INTELLECTUAL PROPERTY CONTAINED IN OUR PRODUCTS
+FROM USE BY THIRD PARTIES, OUR ABILITY TO COMPETE IN THE MARKET WILL BE HARMED.
+
+     Our commercial success will depend in part on obtaining patent and other
+intellectual property protection for the technologies contained in our products,
+and on successfully defending our patents and other intellectual property
+against third party challenges.
+
+     We will incur substantial costs in obtaining patents and, if necessary,
+defending our proprietary rights. The patent positions of medical device
+companies, including ours, can be highly uncertain and involve complex and
+evolving legal and factual questions. We cannot assure you that we will obtain
+the patent protection we seek, or that the protection we do obtain will be found
+valid and enforceable if challenged. We also cannot assure you that we will be
+able to develop additional patentable proprietary technologies. If we fail to
+obtain adequate protection of our intellectual property, or if any protection we
+obtain is reduced or eliminated, others could use our intellectual property
+without compensating us, resulting in harm to our business. We may also
+determine that it is in our best interests to voluntarily challenge a third
+party's products or patents in litigation or administrative proceedings,
+including patent interferences or reexaminations. Given the early priority dates
+of some of our licensed patents, we believe one or more patent proceedings may
+be in our best interests. In addition, the laws of certain foreign countries do
+not protect intellectual property rights to the same extent as do the laws of
+the United States.
+
+OTHERS MAY ASSERT THAT OUR PRODUCTS INFRINGE THEIR INTELLECTUAL PROPERTY RIGHTS,
+WHICH MAY CAUSE US TO ENGAGE IN COSTLY DISPUTES AND, IF WE ARE NOT SUCCESSFUL IN
+DEFENDING OURSELVES, COULD ALSO CAUSE US TO PAY SUBSTANTIAL DAMAGES AND PROHIBIT
+US FROM SELLING OUR PRODUCTS.
+
+     We are aware of both United States and foreign patents issued to third
+parties that relate to computer-assisted surgery and minimally invasive surgery.
+Some of these patents on their face appear broad enough to cover one or more
+aspects of our present technology, and may cover aspects of our future
+technology. We do not know whether any of these patents, if challenged, would be
+held valid, enforceable and infringed. From time to time, we receive, and likely
+will continue to receive, letters from third parties inviting us to license
+their patents. We may be sued by, or become involved in an administrative
+proceeding because of one or more of these third parties, regardless of the
+merits or likely outcome of such suit or proceeding. We cannot assure you that a
+court or administrative body would agree with any arguments or defenses we have
+concerning invalidity, unenforceability or noninfringement of any third-party
+patent. In addition to the issued patents of which we are aware, other parties
+may have filed, and in the future are likely to file, patent applications
+covering surgical products that are similar or identical to ours. We cannot
+assure you that any patents issuing from applications filed by a third party
+will not cover our products or will not have priority over our patent
+applications.
+
+     The medical device industry has been characterized by extensive litigation
+and administrative proceedings regarding patents and other intellectual property
+rights, and companies have employed such actions to gain a competitive
+advantage. If third parties assert infringement or other intellectual property
+claims against us as Computer Motion has done, our technical and management
+personnel will experience a significant diversion of time and effort and we will
+incur large expenses defending ourselves. If third parties in any patent action
+are successful, our patent portfolio may be damaged, we may have to pay
+substantial damages, including treble damages, and we may be required to stop
+selling our products or obtain a license which, if available at all, may require
+us to pay substantial royalties. We cannot be certain that we will have the
+financial resources or the substantive arguments to defend our patents from
+infringement or claims of invalidity or unenforceability, or to defend against
+allegations of infringement of third-party patents. In addition, any public
+announcements related to
+
+                                       14
+<PAGE>   17
+
+litigation or administrative proceedings initiated by us, or initiated or
+threatened against us, could cause our stock price to decline.
+
+THE RIGHTS AND MEASURES WE RELY ON TO PROTECT THE INTELLECTUAL PROPERTY
+UNDERLYING OUR PRODUCTS MAY NOT BE ADEQUATE TO PREVENT THIRD PARTIES FROM USING
+OUR TECHNOLOGY WHICH COULD HARM OUR ABILITY TO COMPETE IN THE MARKET.
+
+     In addition to patents, we typically rely on a combination of trade secret,
+copyright and trademark laws, nondisclosure agreements and other contractual
+provisions and technical security measures to protect our intellectual property
+rights. Nevertheless, these measures may not be adequate to safeguard the
+technology underlying our products. If they do not protect our rights
+adequately, third parties could use our technology, and our ability to compete
+in the market would be reduced. In addition, employees, consultants and others
+who participate in developing our products may breach their agreements with us
+regarding our intellectual property, and we may not have adequate remedies for
+the breach. We also may not be able to effectively protect our intellectual
+property rights in some foreign countries. For a variety of reasons, we may
+decide not to file for patent, copyright or trademark protection outside the
+United States. We also realize that our trade secrets may become known through
+other means not currently foreseen by us. Notwithstanding our efforts to protect
+our intellectual property, our competitors may independently develop similar or
+alternative technologies or products that are equal or superior to our
+technology and products without infringing any of our intellectual property
+rights, or may design around our proprietary technologies. For further
+information on our intellectual property and the difficulties in protecting it,
+see "Business -- Intellectual Property," included in the Registration Statement
+on Form S-1 of Intuitive Surgical, Inc., as amended, filed with the SEC.
+
+OUR PRODUCTS RELY ON LICENSES FROM THIRD PARTIES, AND IF WE LOSE ACCESS TO THESE
+TECHNOLOGIES, OUR REVENUES COULD DECLINE.
+
+     We rely on technology that we license from others, including technology
+that is integral to our products. We have entered into license agreements with
+SRI International, IBM, MIT and Heartport. Any of these agreements may be
+terminated for breach, including the failure to make required payments under the
+IBM license and the failure to commercialize our products under the SRI
+International license. If any of these agreements is terminated, we may be
+unable to reacquire the necessary license on satisfactory terms, or at all. The
+loss or failure to maintain these licenses could prevent or delay further
+development or commercialization of our products. See "Business -- Intellectual
+Property," included in the Registration Statement on Form S-1 of Intuitive
+Surgical, Inc., as amended, filed with the SEC, for further information on our
+license agreements.
+
+BECAUSE OUR MARKETS ARE HIGHLY COMPETITIVE, CUSTOMERS MAY CHOOSE TO PURCHASE OUR
+COMPETITORS' PRODUCTS OR MAY NOT ACCEPT INTUITIVE SURGERY, WHICH WOULD RESULT IN
+REDUCED REVENUE AND LOSS OF MARKET SHARE.
+
+     Intuitive surgery is a new technology that must compete with established
+minimally invasive surgery and open surgery. These procedures are widely
+accepted in the medical community and in many cases have a long history of use.
+We also face competition from several companies that are developing new
+approaches and products for the minimally invasive surgery market. In addition,
+we presently face increasing competition from companies who are developing
+robotic and computer-assisted surgical systems. Our revenues may be reduced or
+eliminated if our competitors develop and market products that are more
+effective or less expensive than our products. If we are unable to compete
+successfully, our revenues will suffer. We may not be able to maintain or
+improve our competitive position against current or potential competitors,
+especially those with greater resources.
+
+     In many cases, the medical conditions that can be treated using our
+products can also be treated by pharmaceuticals or other medical devices and
+procedures. Many of these alternative treatments are also widely accepted in the
+medical community and have a long history of use. In addition, technological
+advances could make such treatments more effective or less expensive than using
+our products, which could render our products obsolete or unmarketable. We
+cannot be certain that physicians will use our products to replace or supplement
+established treatments or that our products will be competitive with current or
+future technologies.
+
+                                       15
+<PAGE>   18
+
+IF SOFTWARE DEFECTS ARE DISCOVERED IN OUR PRODUCTS, WE MAY INCUR ADDITIONAL
+UNFORESEEN COSTS, HOSPITALS MAY NOT PURCHASE OUR PRODUCTS AND OUR REPUTATION MAY
+SUFFER.
+
+     Our products incorporate sophisticated computer software. Complex software
+frequently contains errors or failures, especially when first introduced. In
+addition, new products or enhancements may contain undetected errors or
+performance problems that, despite testing, are discovered only after commercial
+shipment. Because our products are designed to be used to perform complex
+surgical procedures, we expect that our customers will have an increased
+sensitivity to software defects. We cannot assure you that our software will not
+experience errors or performance problems in the future. If we experience
+software errors or performance problems, any of the following could occur:
+
+     - delays in product shipments;
+
+     - loss of revenue;
+
+     - delay in market acceptance;
+
+     - diversion of our resources;
+
+     - damage to our reputation;
+
+     - increased service or warranty costs; or
+
+     - product liability claims.
+
+WE HAVE LIMITED EXPERIENCE IN MANUFACTURING OUR PRODUCTS AND MAY ENCOUNTER
+MANUFACTURING PROBLEMS OR DELAYS THAT COULD RESULT IN LOST REVENUE.
+
+     We have manufactured a limited number of our products for prototypes and
+sales to customers. We may be unable to establish or maintain reliable,
+high-volume manufacturing capacity. Even if this capacity can be established and
+maintained, the cost of doing so may increase the cost of our products and
+reduce our ability to compete. We may encounter difficulties in scaling up
+production of our products, including:
+
+     - problems involving production yields;
+
+     - quality control and assurance;
+
+     - component supply shortages;
+
+     - shortages of qualified personnel; and
+
+     - compliance with state, federal and foreign regulations.
+
+     Manufacturing our products is a complex process. We plan to manufacture
+products to fill purchase orders rather than to maintain inventories of our
+assembled products. If demand for our products exceeds our manufacturing
+capacity, we could develop a substantial backlog of customer orders. If we are
+unable to establish and maintain larger-scale manufacturing capabilities, our
+ability to generate revenues will be limited and our reputation in the
+marketplace would be damaged.
+
+IF OUR MANUFACTURING FACILITIES DO NOT CONTINUE TO MEET FEDERAL, STATE OR
+EUROPEAN MANUFACTURING STANDARDS, WE MAY BE REQUIRED TO TEMPORARILY CEASE ALL OR
+PART OF OUR MANUFACTURING OPERATIONS, WHICH WOULD RESULT IN PRODUCT DELIVERY
+DELAYS AND LOST REVENUE.
+
+     Our manufacturing facilities are subject to periodic inspection by
+regulatory authorities and our operations will continue to be regulated by the
+FDA for compliance with Good Manufacturing Practice requirements. We are also
+required to comply with the ISO 9000 series standards in order to produce
+products for sale in Europe. If we fail to continue to comply with Good
+Manufacturing Practice requirements or ISO 9000 series standards, we may be
+required to cease all or part of our operations until we comply with these
+regulations. We are currently in compliance with ISO 9000 series standards. In
+March 2000, the FDA inspected our Mountain View facility and the Good
+Manufacturing Practice issues raised during the inspection have been resolved.
+Maintaining such compliance is difficult and costly. We cannot be certain that
+
+                                       16
+<PAGE>   19
+
+our facilities will be found to comply with Good Manufacturing Practice
+requirements or the ISO 9000 series standards in future audits by regulatory
+authorities.
+
+     The state of California also requires that we maintain a license to
+manufacture medical devices. Our facilities and manufacturing processes were
+inspected in February 1998. In March 1998, we passed the inspection and received
+a device manufacturing license from the California Department of Health
+Services. We will be subject to periodic inspections by the California
+Department of Health Services and if we are unable to maintain this license
+following any future inspections, we will be unable to manufacture or ship any
+products.
+
+OUR RELIANCE ON SOLE AND SINGLE SOURCE SUPPLIERS COULD HARM OUR ABILITY TO MEET
+DEMAND FOR OUR PRODUCTS IN A TIMELY MANNER OR WITHIN BUDGET.
+
+     Some of the components necessary for the assembly of our products are
+currently provided to us by sole source suppliers or single source suppliers. We
+purchase components through purchase orders rather than long-term supply
+agreements and generally do not maintain large volumes of inventory. The
+disruption or termination of the supply of components could cause a significant
+increase in the costs of these components, which could affect our profitability.
+A disruption or termination in the supply of components could also result in our
+inability to meet demand for our products, which could harm our ability to
+generate revenues, lead to customer dissatisfaction and damage our reputation.
+Furthermore, if we are required to change the manufacturer of a key component of
+our products, we may be required to verify that the new manufacturer maintains
+facilities and procedures that comply with quality standards and with all
+applicable regulations and guidelines. The delays associated with the
+verification of a new manufacturer could delay our ability to manufacture our
+products in a timely manner or within budget.
+
+THE USE OF OUR PRODUCTS COULD RESULT IN PRODUCT LIABILITY CLAIMS THAT COULD BE
+EXPENSIVE, DIVERT MANAGEMENT'S ATTENTION AND HARM OUR BUSINESS.
+
+     Our business exposes us to significant risks of product liability claims.
+The medical device industry has historically been litigious, and we face
+financial exposure to product liability claims if the use of our products were
+to cause injury or death. There is also the possibility that defects in the
+design or manufacture of our products might necessitate a product recall.
+Although we maintain product liability insurance, the coverage limits of these
+policies may not be adequate to cover future claims. Particularly as sales of
+our products increase, we may be unable to maintain product liability insurance
+in the future at satisfactory rates or adequate amounts. A product liability
+claim, regardless of its merit or eventual outcome, could result in significant
+legal defense costs. A product liability claim or any product recalls could also
+harm our reputation or result in a decline in revenues.
+
+OUR GROWTH WILL PLACE A SIGNIFICANT STRAIN ON OUR MANAGEMENT SYSTEMS AND
+RESOURCES AND, IF WE FAIL TO MANAGE OUR GROWTH, OUR ABILITY TO MARKET, SELL AND
+DEVELOP OUR PRODUCTS MAY BE HARMED.
+
+     In order to complete clinical trials, scale-up manufacturing, expand
+marketing and distribution capabilities and develop future products, we must
+expand our operations. We expect that future expansion will occur particularly
+in the areas of sales and marketing, manufacturing and research and development.
+This expansion will likely result in new and increased responsibilities for
+management personnel and place significant strain upon our management, operating
+and financial systems and resources. We plan to sell our products primarily
+through direct sales, and we currently have a small sales organization. Our
+products require a complex marketing and sales effort targeted at several levels
+within a prospective customer's organization. We will need to expand our sales
+team significantly over the next 12 months to achieve our sales growth goals. We
+will face significant challenges and risks in building and managing our sales
+team, including managing geographically dispersed sales efforts and adequately
+training our sales people in the use and benefits of our products. To
+accommodate our growth and compete effectively, we will be required to improve
+our information systems, create additional procedures and controls and expand,
+train, motivate and manage our work force. Our future success will depend in
+part on the ability of current and future management personnel to operate
+effectively,
+
+                                       17
+<PAGE>   20
+
+both independently and as a group. We cannot be certain that our personnel,
+systems, procedures and controls will be adequate to support our future
+operations.
+
+IF WE LOSE OUR KEY PERSONNEL OR ARE UNABLE TO ATTRACT AND RETAIN ADDITIONAL
+PERSONNEL, OUR ABILITY TO COMPETE WILL BE HARMED.
+
+     We are highly dependent on the principal members of our management and
+scientific staff, in particular Lonnie M. Smith, our President and Chief
+Executive Officer, Frederic H. Moll, M.D., our Vice President and Medical
+Director and Robert G. Younge, our Vice President and Chief Technology Officer.
+In order to pursue our product development, marketing and commercialization
+plans, we will need to hire additional qualified personnel with expertise in
+research and development, clinical testing, government regulation,
+manufacturing, sales and marketing, and finance. Our product development plans
+depend in part on our ability to attract and retain engineers with experience in
+mechanics, software and optics. Attracting and retaining qualified personnel
+will be critical to our success, and competition for qualified personnel is
+intense, particularly in Silicon Valley. We may not be able to attract and
+retain personnel on acceptable terms given the competition for such personnel
+among technology and healthcare companies, and universities. The loss of any of
+these persons or our inability to attract and retain qualified personnel could
+harm our business and our ability to compete.
+
+INTERNATIONAL SALES OF OUR PRODUCTS ACCOUNT FOR A SIGNIFICANT PORTION OF OUR
+REVENUES, WHICH EXPOSES US TO RISKS INHERENT IN INTERNATIONAL OPERATIONS. OUR
+GROWTH MAY BE LIMITED IF WE ARE UNABLE TO SUCCESSFULLY MANAGE OUR INTERNATIONAL
+ACTIVITIES.
+
+     Our business currently depends in large part on our activities in Europe,
+and a component of our growth strategy is to expand our presence into additional
+foreign markets. Sales to markets outside of the United States accounted for
+approximately 91% of our sales for the year ended December 31, 1999 and 45% for
+the six months ended June 30, 2000. We will be subject to a number of challenges
+that specifically relate to our international business activities. These
+challenges include:
+
+     - failure of local laws to provide the same degree of protection against
+       infringement of our intellectual property;
+
+     - protectionist laws and business practices that favor local competitors,
+       which could slow our growth in international markets;
+
+     - the risks associated with foreign currency exchange rate fluctuation;
+
+     - the expense of establishing facilities and operations in new foreign
+       markets; and
+
+     - building an organization capable of supporting geographically dispersed
+       operations.
+
+Currently, a majority of our international sales are denominated in U.S.
+dollars. As a result, an increase in the value of the U.S. dollar relative to
+foreign currencies could make our products less competitive in international
+markets. If we are unable to meet and overcome these challenges, our
+international operations may not be successful, which would limit the growth of
+our business.
+
+FAILURE TO RAISE ADDITIONAL CAPITAL OR GENERATE THE SIGNIFICANT CAPITAL
+NECESSARY TO EXPAND OUR OPERATIONS AND INVEST IN NEW PRODUCTS COULD REDUCE OUR
+ABILITY TO COMPETE, RESULT IN LOWER REVENUES AND MAY PREVENT US FROM TAKING
+ADVANTAGE OF MARKET OPPORTUNITIES.
+
+     We expect that our existing capital resources and the revenue to be derived
+from the sale of our products will be sufficient to meet our working capital and
+capital expenditure needs at least through 2001. After that, we may need to
+raise additional funds and we cannot be certain that we will be able to obtain
+additional financing on favorable terms, or at all. If we need additional
+capital and cannot raise it on acceptable terms, we may not be able to, among
+other things:
+
+     - develop or enhance our products and services;
+
+     - acquire technologies, products or businesses;
+
+     - expand operations in the United States or internationally;
+
+                                       18
+<PAGE>   21
+
+     - hire, train and retain employees; or
+
+     - respond to competitive pressures or unanticipated capital requirements.
+
+     Our failure to do any of these things could result in lower revenues and
+could harm our business.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The primary objective of our investment activities is to preserve principal
+while at the same time maximizing the income we receive from our investments
+without significantly increasing risk. Some of the securities that we invest in
+may have market risk. This means that a change in prevailing interest rates may
+cause the principal amount of the investment to fluctuate. For example, if we
+hold a security that was issued with a fixed interest rate at the
+then-prevailing rate and the prevailing interest rate later rises, the principal
+amount of our investment will probably decline. To minimize this risk in the
+future, we intend to maintain our portfolio of cash equivalents and short-term
+investments in a variety of securities, including commercial paper, money market
+funds and government and non-government debt securities. The average duration of
+all of our investments as of June 30, 2000 was less than one year. Due to the
+short term nature of these investments, we believe that we have no material
+exposure to interest rate risk arising from our investments. Therefore, no
+quantitative tabular disclosure is required.
+
+                                       19
+<PAGE>   22
+
+                           PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+     On May 10, 2000, Computer Motion, Inc. filed a lawsuit in United States
+District Court for the Central District of California (Case No. CV00-4988 CBM)
+alleging that by making, using, selling or offering for sale our da Vinci
+Surgical System, we are infringing United States Patent Numbers 5,524,180,
+5,878,193, 5,762,458, 6,001,108, 5,815,640, 5,907,664 and 5,855,583 in willful
+disregard of Computer Motion's patent rights. On June 1, 2000, Computer Motion
+amended its lawsuit to allege that we also infringe U.S. Patent Number
+6,063,095. These patents concern methods and devices for conducting various
+aspects of robotic surgery. The Computer Motion action seeks damages based upon
+the making, using, selling and offering for sale of our products and processes,
+and seeks to enjoin our continued activities relating to these products. This
+action subjects us to potential liability for damages, including treble damages,
+and could require us to cease making, using or selling the affected products, or
+to obtain a license in order to continue to manufacture, use or sell the
+affected products. The litigation is still in the early stages of discovery.
+While we continue to believe we have meritorious defenses to this action, we
+cannot provide assurance that we will prevail in this action, nor can we provide
+assurance that any license required would be made available on commercially
+acceptable terms, if at all. Failure to successfully defend itself against the
+Computer Motion action could harm our business, financial condition and
+operating results. Due to the inherent uncertainties of litigation, we cannot
+accurately predict the ultimate outcome of this matter at this time and,
+therefore, cannot estimate the range of possible loss.
+
+     Beginning in May 1999, we requested that the U.S. Patent and Trademark
+Office declare interferences between some of our exclusively licensed patent
+applications and five of Computer Motion's U.S. patents. An interference is a
+proceeding within the U.S. Patent and Trademark Office to resolve questions
+regarding who was the first to invent the subject matter of a patent and/or a
+patent application. All five of Computer Motion's patents were issued by the
+U.S. Patent and Trademark Office without consideration of the
+exclusively-licensed and earlier-filed patent applications on which we now rely
+to request the interferences. All five of Computer Motion's patents subject to
+our request for interference are included in Computer Motion's May 2000 suit for
+patent infringement.
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+RECENT SALES OF UNREGISTERED SECURITIES
+
+     Since April 1, 2000, we have sold and issued the following unregistered
+securities:
+
+          (1) From April 1, 2000 through June 30, 2000, we granted stock options
+     to purchase 232,150 shares of our common stock at an exercise price of
+     $3.00 per share, to employees pursuant to our 2000 Equity Incentive Plan.
+
+          (2) From April 1, 2000 through June 30, 2000, we issued 415,022 shares
+     of our common stock, at prices ranging from $0.05 to $3.00 per share, to
+     employees, consultants and directors pursuant to outstanding stock options
+     to purchase shares of our common stock.
+
+          (3) In April 2000, we issued a warrant to purchase 200,000 shares of
+     our common stock at an exercise price of $3.00 per share to Heartport,
+     Inc., in connection with a license agreement, with an aggregate value of
+     $600,000.
+
+          (4) In June 2000, we issued a warrant to purchase 5,081 shares of our
+     common stock, at an exercise price of $9.00 per share, to one company for
+     services rendered to Intuitive Surgical, with an aggregate value of
+     $45,729.
+
+     The sales and issuance of securities described in paragraphs (1) and (2)
+above were deemed to be exempt from registration under the Securities Act by
+virtue of Rule 701 promulgated thereunder in that they were offered and sold
+either pursuant to a written compensatory benefit plan or pursuant to a written
+contract relating to compensation, as provided by Rule 701. The sale and
+issuance of securities described in
+
+                                       20
+<PAGE>   23
+
+paragraph (3) and (4) above were deemed to be exempt from registration under the
+Securities Act by virtue of Section 4(2).
+
+USE OF PROCEEDS FROM SALES OF REGISTERED SECURITIES
+
+     Our initial public offering of common stock was effected through a
+Registration Statement on Form S-1 (File No. 333-33016) that was declared
+effective by the SEC on June 13, 2000, and pursuant to which we sold 5,750,000
+shares of our common stock that had been registered.
+
+     Our initial public offering was completed after the shares of common stock
+that were registered were sold. The managing underwriters in the offering were
+Lehman Brothers Inc., Bear, Stearns & Co. Inc., FleetBoston Robertson Stephens
+Inc. and UBS Warburg LLC. The aggregate offering price of the 5,750,000 shares
+registered and sold was $51.8 million. Of this amount, $3.6 million was paid in
+underwriting discounts and commissions, and an additional $1.1 million of
+expenses was incurred through June 30, 2000. None of the expenses were paid,
+directly or indirectly, to directors, officers or persons owning 10 percent or
+more of our common stock, or to our affiliates. As of June 30, 2000, we had
+applied the estimated aggregated net proceeds of $40.3 million from our initial
+public offering as follows:
+
+     Temporary investments: $40.3 million
+
+     The foregoing amounts represent our best estimate of our use of proceeds
+for the period indicated. No such payments were made to our directors or
+officers or their associates, holders of 10% or more of any class of our equity
+securities or to our affiliates, other than payments to officers for salaries in
+the ordinary course of business.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+     None
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     In April 2000, we submitted an information statement to our stockholders in
+connection with our initial public offering asking them to approve certain
+matters. By action taken by written consent effective as of April 30, 2000, our
+stockholders approved each of these matters, as set forth below. As of the
+record date for taking such actions, we had outstanding 29,477,297 shares of our
+common stock, calculated on an as-if-converted to common stock basis. We did not
+receive written consents from each stockholder. Set forth below are each of the
+matters voted upon and the results of the voting from the stockholders that
+returned written consents to us:
+
+A. Approval of the Amendment and Restatement of our Certificate of Incorporation
+   to be effective following our initial public offering:
+   Approved: 27,171,215  Disapproved: 0
+
+B. Approval of the Amendment and Restatement of our Bylaws:
+    Approved: 27,171,215  Disapproved: 0
+
+C. Approval of Adoption of our 2000 Non-Employee Directors' Stock Option Plan:
+    Approved: 27,171,215  Disapproved: 0
+
+D. Approval of Adoption of our 2000 Employee Stock Purchase Plan:
+    Approved: 27,171,215  Disapproved: 0
+
+E. Approval of Adoption of our 2000 Equity Incentive Plan:
+    Approved: 27,171,215  Disapproved: 0
+
+ITEM 5. OTHER INFORMATION
+
+     None
+
+                                       21
+<PAGE>   24
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+     (a) Exhibits.
+
+<TABLE>
+<CAPTION>
+      EXHIBIT
+      NUMBER                            DESCRIPTION
+      -------                           -----------
+      <C>       <S>
+                Amended and Restated Certificate of Incorporation of
+       3.1(1)   Intuitive Surgical.
+       3.2(2)   Bylaws of Intuitive Surgical.
+       4.1      Reference is made to Exhibits 3.1 and 3.2.
+       4.2(3)   Specimen Stock Certificate.
+                Warrant to purchase shares of Common Stock, dated April 26,
+       4.3(3)   2000.
+      27.1      Financial Data Schedule.
+</TABLE>
+
+------------
+
+(1) Previously filed as Exhibit 3.2 to our Registration Statement on Form S-1,
+    Registration No. 333-33016.
+
+(2) Previously filed as Exhibit 3.3 to our Registration Statement on Form S-1,
+    Registration No. 333-33016.
+
+(3) Previously filed as like-numbered Exhibit to our Registration Statement on
+    Form S-1, Registration No. 333-33016.
+
+     (b) We did not file a Current Report on Form 8-K during the three month
+         period ending June 30, 2000.
+
+                                       22
+<PAGE>   25
+
+                                   SIGNATURE
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                          INTUITIVE SURGICAL, INC.
+
+                                          By:      /s/ SUSAN K. BARNES
+                                            ------------------------------------
+                                                      Susan K. Barnes,
+                                               Vice President, Finance, Chief
+                                                      Financial Officer
+                                                  and Assistant Secretary
+                                            (Principal Financial and Accounting
+                                                           Officer)
+
+Date: August 14, 2000
+
+                                       23
+<PAGE>   26
+
+                                 EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                             DESCRIPTION
+-------                            -----------
+<C>        <S>
+           Amended and Restated Certificate of Incorporation of
+ 3.1(1)    Intuitive Surgical.
+ 3.2(2)    Bylaws of Intuitive Surgical.
+ 4.1       Reference is made to Exhibits 3.1 and 3.2.
+ 4.2(3)    Specimen Stock Certificate.
+           Warrant to purchase shares of Common Stock, dated April 26,
+ 4.3(3)    2000.
+27.1       Financial Data Schedule.
+</TABLE>
+
+------------
+
+(1) Previously filed as Exhibit 3.2 to our Registration Statement on Form S-1,
+    Registration No. 333-33016.
+
+(2) Previously filed as Exhibit 3.3 to our Registration Statement on Form S-1,
+    Registration No. 333-33016.
+
+(3) Previously filed as like-numbered Exhibit to our Registration Statement on
+    Form S-1, Registration No. 333-33016.
+
+                                       24
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2105 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a2053816z10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+                                    FORM 10-Q
+
+                                ----------------
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                ----------------
+
+     [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+                   For the quarterly period ended May 31, 2001
+
+                                       OR
+
+     [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+                                ----------------
+
+                         Commission File Number: 1-10658
+
+
+                             MICRON TECHNOLOGY, INC.
+
+     State or other jurisdiction of incorporation or organization: Delaware
+
+                                ----------------
+
+        Internal Revenue Service - Employer Identification No. 75-1618004
+
+
+                  8000 S. Federal Way, Boise, Idaho 83716-9632
+                                 (208) 368-4000
+
+                                ----------------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes  X   No
+                                             -----    -----
+
+     The number of outstanding shares of the registrant's common stock as of
+June 29, 2001 was 597,334,645.
+
+<PAGE>
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+                             MICRON TECHNOLOGY, INC.
+
+                           Consolidated Balance Sheets
+              (Dollar amounts in millions except par value amounts)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,             August 31,
+As of                                                                              2001                   2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+ASSETS
+Cash and equivalents                                                            $    622.7            $    701.7
+Liquid investments                                                                 1,105.9               1,764.7
+Receivables                                                                          678.8               1,413.1
+Inventories                                                                          836.6                 688.6
+Prepaid expenses                                                                      28.8                  14.9
+Deferred income taxes                                                                143.2                 137.1
+                                                                                ----------            ----------
+     Total current assets                                                          3,416.0               4,720.1
+
+Product and process technology, net                                                  219.8                 213.0
+Property, plant and equipment, net                                                 4,802.4               4,171.7
+Other assets                                                                         410.2                 254.2
+Net assets of discontinued PC Operations                                                --                  32.9
+                                                                                ----------            ----------
+     Total assets                                                               $  8,848.4            $  9,391.9
+                                                                                ==========            ==========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Accounts payable and accrued expenses                                           $    650.6            $  1,271.4
+Deferred income                                                                       31.7                  83.0
+Equipment purchase contracts                                                          40.0                  45.9
+Current portion of long-term debt                                                     91.4                  46.8
+                                                                                ----------            ----------
+     Total current liabilities                                                       813.7               1,447.1
+
+Long-term debt                                                                       454.9                 931.4
+Deferred income taxes                                                                166.0                 333.5
+Other liabilities                                                                     91.1                  70.0
+                                                                                ----------            ----------
+     Total liabilities                                                             1,525.7               2,782.0
+                                                                                ----------            ----------
+
+Commitments and contingencies
+
+Minority interest                                                                    124.1                 177.9
+                                                                                ----------            ----------
+
+Common stock, $0.10 par value, authorized 3.0 billion shares, issued and
+   outstanding 596.9 million and 567.3 million shares, respectively                   59.7                  56.7
+Additional capital                                                                 3,638.4               2,824.2
+Retained earnings                                                                  3,500.1               3,549.6
+Accumulated other comprehensive income                                                 0.4                   1.5
+                                                                                ----------            ----------
+     Total shareholders' equity                                                    7,198.6               6,432.0
+                                                                                ----------            ----------
+     Total liabilities and shareholders' equity                                 $  8,848.4            $  9,391.9
+                                                                                ==========            ==========
+</TABLE>
+
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                       1
+
+<PAGE>
+
+
+                             MICRON TECHNOLOGY, INC.
+
+                      Consolidated Statements of Operations
+                 (Amounts in millions except per share amounts)
+                                   (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                                                   May 31,              June 1,
+For the quarter ended                                                               2001                  2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+Net sales                                                                       $    818.3            $  1,553.8
+Costs and expenses:
+    Cost of goods sold                                                             1,094.1                 892.1
+    Selling, general and administrative                                              104.3                 112.4
+    Research and development                                                         114.5                 100.5
+    Other operating expense, net                                                      32.6                   5.7
+                                                                                ----------            ----------
+         Total costs and expenses                                                  1,345.5               1,110.7
+                                                                                ----------            ----------
+
+Operating income (loss)                                                             (527.2)                443.1
+Interest income                                                                       30.4                  30.5
+Interest expense                                                                      (3.5)                (19.6)
+Other non-operating income, net                                                        0.6                   5.5
+                                                                                ----------            ----------
+Income (loss) before income taxes and minority interest                             (499.7)                459.5
+
+Income tax (provision) benefit                                                       195.5                (160.3)
+
+Minority interest in net (income) loss                                                 3.1                  (9.3)
+                                                                                ----------            ----------
+Income (loss) from continuing operations                                            (301.1)                289.9
+
+Discontinued PC Operations, net of taxes and minority interest:
+    Loss from operations of PC business                                                 --                 (15.0)
+    Loss on disposal of PC Operations                                                (12.3)                   --
+                                                                                ----------            ----------
+    Net loss from discontinued PC Operations                                         (12.3)                (15.0)
+                                                                                ----------            ----------
+
+Net income (loss)                                                               $   (313.4)           $    274.9
+                                                                                ==========            ==========
+
+Basic earnings (loss) per share:
+    Continuing operations                                                       $   (0.50)            $    0.53
+    Discontinued PC Operations                                                      (0.02)                (0.03)
+    Net income (loss)                                                               (0.53)                 0.50
+
+Diluted earnings (loss) per share:
+    Continuing operations                                                       $   (0.50)            $    0.50
+    Discontinued PC Operations                                                      (0.02)                (0.02)
+    Net income (loss)                                                               (0.53)                 0.47
+
+Number of shares used in per share calculations:
+    Basic                                                                           596.3                 551.0
+    Diluted                                                                         596.3                 602.5
+</TABLE>
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                       2
+
+<PAGE>
+                             MICRON TECHNOLOGY, INC.
+
+                      Consolidated Statements of Operations
+                 (Amounts in millions except per share amounts)
+                                   (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,               June 1,
+For the nine months ended                                                          2001                   2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+Net sales                                                                       $  3,455.6            $  4,056.6
+Costs and expenses:
+    Cost of goods sold                                                             2,768.6               2,139.1
+    Selling, general and administrative                                              319.7                 309.4
+    Research and development                                                         384.4                 295.3
+    Other operating expense, net                                                      30.8                  37.8
+                                                                                ----------            ----------
+         Total costs and expenses                                                  3,503.5               2,781.6
+                                                                                ----------            ----------
+
+Operating income (loss)                                                              (47.9)              1,275.0
+Interest income                                                                      114.4                  80.3
+Interest expense                                                                     (11.7)                (80.0)
+Other non-operating income, net                                                        5.8                  14.8
+                                                                                ----------            ----------
+Income before income taxes and minority interest                                      60.6               1,290.1
+
+Income tax (provision) benefit                                                         0.8                (448.6)
+
+Minority interest in net income                                                       (7.1)                (29.9)
+                                                                                ----------            ----------
+Income from continuing operations                                                     54.3                 811.6
+
+Discontinued PC Operations, net of taxes and minority interest:
+    Loss from operations of PC business                                              (36.1)                (34.1)
+    Loss on disposal of PC Operations                                                (67.7)                   --
+                                                                                ----------            ----------
+    Net loss from discontinued PC Operations                                        (103.8)                (34.1)
+                                                                                ----------            ----------
+
+Net income (loss)                                                               $    (49.5)           $    777.5
+                                                                                ==========            ==========
+
+Basic earnings (loss) per share:
+    Continuing operations                                                       $    0.09             $    1.51
+    Discontinued PC Operations                                                      (0.18)                (0.06)
+    Net income (loss)                                                               (0.08)                 1.45
+
+Diluted earnings (loss) per share:
+    Continuing operations                                                       $    0.09             $    1.43
+    Discontinued PC Operations                                                      (0.17)                (0.06)
+    Net income (loss)                                                               (0.08)                 1.37
+
+Number of shares used in per share calculations:
+    Basic                                                                           590.7                 537.7
+    Diluted                                                                         605.8                 593.0
+</TABLE>
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                       3
+<PAGE>
+
+
+                             MICRON TECHNOLOGY, INC.
+
+                      Consolidated Statements of Cash Flows
+                              (Amounts in millions)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,               June 1,
+For the nine months ended                                                          2001                   2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss)                                                               $    (49.5)           $    777.5
+Loss from discontinued PC Operations, net of taxes and minority interest             103.8                  34.1
+Adjustments to reconcile income from continuing operations to net cash
+   provided by operating activities:
+        Depreciation and amortization                                                819.2                 713.2
+        Provision to write-down inventories to estimated market values               261.1                    --
+        Additional paid in capital tax effect from stock purchase plans               37.3                 147.6
+        Change in operating assets and liabilities:
+           Decrease (increase) in receivables, net of noncash
+              reclassifications                                                      767.7                (409.2)
+           Increase in inventories                                                  (362.4)               (265.2)
+           Increase (decrease) in accounts payable and accrued
+              expenses, net of plant and equipment purchases                        (664.1)                134.0
+        Other                                                                        (67.9)                 (7.0)
+                                                                                ----------            ----------
+        Net cash provided by operating activities                                    845.2               1,125.0
+                                                                                ----------            ----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Expenditures for property, plant and equipment                                    (1,225.4)               (713.9)
+Purchase of available-for-sale securities                                         (1,907.2)             (1,916.6)
+Proceeds from maturities of available-for-sale securities                          2,354.2               1,653.1
+Proceeds from sales of available-for-sale securities                                 110.7                 100.1
+Purchase of held-to-maturity securities                                             (116.3)               (158.2)
+Proceeds from maturities of held-to-maturity securities                              167.5                 212.5
+Cash paid in connection with disposition of PC Operations                            (76.5)                   --
+Other                                                                               (132.7)                (62.6)
+                                                                                ----------            ----------
+Net cash used for investing activities                                              (825.7)               (885.6)
+                                                                                ----------            ----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from issuance of common stock                                                91.5                 202.8
+Payments on equipment purchase contracts                                            (142.5)               (191.6)
+Repayments of debt                                                                   (48.5)               (165.4)
+Other                                                                                  1.0                   3.4
+                                                                                ----------            ----------
+Net cash used for financing activities                                               (98.5)               (150.8)
+                                                                                ----------            ----------
+
+Net increase (decrease) in cash and equivalents                                      (79.0)                 88.6
+
+Cash and equivalents at beginning of period                                          701.7                 294.6
+                                                                                ----------            ----------
+Cash and equivalents at end of period                                           $    622.7            $    383.2
+                                                                                ==========            ==========
+
+SUPPLEMENTAL DISCLOSURES
+Income taxes paid, net                                                          $   (435.5)           $   (175.0)
+Interest paid, net of amounts capitalized                                            (35.8)                (87.7)
+Noncash investing and financing activities:
+    Equipment acquisitions on contracts payable and capital leases                   136.5                 147.0
+    Net conversion of notes to equity                                                684.6                 498.6
+</TABLE>
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                       4
+
+<PAGE>
+
+                             MICRON TECHNOLOGY, INC.
+
+             Consolidated Statements of Comprehensive Income (Loss)
+                              (Amounts in millions)
+                                   (Unaudited)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,               June 1,
+For the quarter ended                                                              2001                   2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+Net income (loss)                                                               $   (313.4)           $    274.9
+Unrealized loss on investments                                                        (0.9)                (32.5)
+Foreign currency translation adjustment                                               (0.1)                   --
+                                                                                ----------            ----------
+    Total comprehensive income (loss), net of tax                               $   (314.4)           $    242.4
+                                                                                ==========            ==========
+
+
+<CAPTION>
+                                                                                  May 31,               June 1,
+For the nine months ended                                                          2001                   2000
+-------------------------------------------------------------------------------------------------------------------
+
+Net income (loss)                                                               $    (49.5)           $    777.5
+Unrealized gain (loss) on investments                                                 (1.0)                  7.0
+Foreign currency translation adjustment                                               (0.1)                   --
+                                                                                ----------            ----------
+    Total comprehensive income (loss), net of tax                               $    (50.6)           $    784.5
+                                                                                ==========            ==========
+</TABLE>
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                       5
+<PAGE>
+
+
+
+
+                   Notes to Consolidated Financial Statements
+                  (All tabular amounts are stated in millions)
+
+UNAUDITED INTERIM FINANCIAL STATEMENTS
+
+     In the opinion of management, the accompanying unaudited consolidated
+financial statements contain all adjustments necessary to present fairly the
+consolidated financial position of Micron Technology, Inc., and subsidiaries
+(the "Company"), and their consolidated results of operations and cash flows.
+Micron Technology, Inc. and its wholly-owned subsidiaries are collectively
+hereinafter referred to as "MTI." The Company's Web-hosting Operations are, and
+the discontinued Personal Computer ("PC") Operations were, operated through
+Micron Electronics, Inc. ("MEI"), an approximately 60% owned, publicly-traded
+subsidiary of MTI. Certain reclassifications have been made, none of which
+affect results of operations, to present the financial statements on a
+consistent basis.
+
+     As a result of MEI's disposal of its PC Operations, the net assets
+(liabilities), results of operations and cash flows of the PC business have been
+reported separately as discontinued PC Operations in the Company's consolidated
+financial statements and previously reported consolidated financial statements
+have been restated to present consistently the discontinued PC Operations. (See
+"Discontinued PC Operations" note).
+
+     Recently issued accounting standards include Statement of Financial
+Accounting Standards ("SFAS") No. 133 "Accounting for Derivative Instruments and
+Hedging Activities," issued by the Financial Accounting Standards Board ("FASB")
+in June 1998 and Staff Accounting Bulletin ("SAB") No. 101 "Revenue Recognition
+in Financial Statements," issued by the Securities and Exchange Commission
+("SEC") in December 1999.
+
+     SFAS No. 133 requires that all derivatives be recorded as either assets or
+liabilities in the balance sheet and marked to market on an ongoing basis. SFAS
+No. 133 applies to all derivatives including stand-alone instruments, such as
+forward currency exchange contracts and interest rate swaps, or embedded
+derivatives, such as call options contained in convertible debt investments.
+Along with the derivatives, certain underlying hedged items are also to be
+marked to market on an ongoing basis. These market value adjustments are to be
+included either in the statement of operations or as a component of
+comprehensive income, depending on the nature of the transaction. The Company
+adopted the standard in the first quarter of 2001. The adoption did not have a
+significant impact on the Company's results of operations or financial position.
+
+     SAB No. 101 summarizes certain views of the SEC staff in applying generally
+accepted accounting principles to revenue recognition in financial statements.
+Adoption is required for the Company in the fourth quarter of 2001. The Company
+does not expect the implementation of SAB No. 101 to have a significant impact
+on its future results of operations or financial position.
+
+     The financial statements and accompanying notes included in the Company's
+Form 10-K for the year ended August 31, 2000, have been restated to present
+consistently the discontinued PC Operations. These unaudited interim financial
+statements should be read in conjunction with the restated consolidated
+financial statements and accompanying notes included in the Company's Current
+Report on Form 8-K filed on July 10, 2001.
+
+                                       6
+
+<PAGE>
+
+Notes to Consolidated Financial Statements, continued
+
+
+SUPPLEMENTAL BALANCE SHEET INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,              August 31,
+As of                                                                              2001                   2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+Receivables
+-------------------------------------------------------------------------------------------------------------------
+    Trade receivables                                                           $    296.0            $  1,199.1
+    Income and other taxes receivable                                                342.2                  78.9
+    Receivables from joint ventures                                                   15.0                  79.4
+    Other receivables                                                                 54.9                  89.1
+    Allowance for returns and discounts                                              (23.8)                (19.0)
+    Allowance for doubtful accounts                                                   (5.5)                (14.4)
+                                                                                ----------            ----------
+                                                                                $    678.8            $  1,413.1
+                                                                                ==========            ==========
+
+Inventories
+-------------------------------------------------------------------------------------------------------------------
+
+    Finished goods                                                              $    538.1            $    284.4
+    Work in progress                                                                 190.1                 330.6
+    Raw materials and supplies                                                       121.2                  83.0
+    Allowance for obsolescence                                                       (12.8)                 (9.4)
+                                                                                ----------            ----------
+                                                                                $    836.6            $    688.6
+                                                                                ==========            ==========
+</TABLE>
+
+     Cost of goods sold in the third quarter and first nine months of 2001
+includes a charge to write down the value of work in progress and finished goods
+inventories by $261.1 million to their estimated market values.
+
+<TABLE>
+<CAPTION>
+
+Property, plant and equipment
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+    Land                                                                        $     62.0            $     46.3
+    Buildings                                                                      1,433.9               1,360.6
+    Equipment                                                                      5,640.1               4,793.5
+    Construction in progress                                                         804.0                 611.1
+    Software                                                                         160.6                 140.2
+                                                                                ----------            ----------
+                                                                                   8,100.6               6,951.7
+    Less accumulated depreciation and amortization                                (3,298.2)             (2,780.0)
+                                                                                ----------            ----------
+                                                                                $  4,802.4            $  4,171.7
+                                                                                ==========            ==========
+</TABLE>
+
+     As of May 31, 2001, net property, plant and equipment includes a carrying
+value of $1,018.9 million for the Company's semiconductor memory manufacturing
+facility in Lehi, Utah, of which $593.2 million relates to construction in
+progress that has not been placed in service and is not being depreciated.
+Timing for completion of the Lehi facility is dependent upon market conditions,
+including, but not limited to, worldwide market supply of and demand for
+semiconductor products, and the Company's operations, cash flows and alternative
+uses of capital. The Company continues to evaluate the carrying value of the
+facility and as of May 31, 2001, it was determined there was no impairment.
+
+     Depreciation expense was $264.1 million and $769.9 million, respectively,
+for the third quarter and first nine months of 2001, and $232.6 million and
+$660.7 million for the third quarter and first nine months of 2000,
+respectively.
+
+                                       7
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements, continued
+
+
+Supplemental balance sheet information, continued
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,               August 31,
+As of                                                                              2001                    2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+Accounts payable and accrued expenses
+-------------------------------------------------------------------------------------------------------------------
+    Accounts payable                                                            $    439.0            $    588.8
+    Salaries, wages and benefits                                                     140.1                 222.3
+    Income taxes payable                                                              17.2                 288.2
+    Taxes payable other than income                                                   15.1                  95.9
+    Other                                                                             39.2                  76.2
+                                                                                ----------            ----------
+                                                                                $    650.6            $  1,271.4
+                                                                                ==========            ==========
+
+Debt
+-------------------------------------------------------------------------------------------------------------------
+
+    Notes payable in periodic installments through July 2015, weighted
+        average interest rate of 2.8% and 7.3%, respectively                    $    311.7            $     94.5
+    Subordinated notes payable, due October 2005, with an effective
+        yield to maturity of 10.7%, net of unamortized discount of
+        $29.4 million and $33.3 million, respectively                                180.6                 176.7
+    Capitalized lease obligations payable in monthly installments
+        through August 2004, weighted average interest rate of
+        3.5% and 7.4%, respectively                                                   54.0                  23.2
+    Convertible subordinated notes payable, due October 2005, with
+        an effective yield to maturity of 8.4%, net of unamortized
+        discount of $56.2 million                                                       --                 683.8
+                                                                                ----------            ----------
+                                                                                     546.3                 978.2
+    Less current portion                                                             (91.4)                (46.8)
+                                                                                ----------            ----------
+                                                                                $    454.9            $    931.4
+                                                                                ==========            ==========
+</TABLE>
+
+     The convertible subordinated notes due October 2005 were converted into
+approximately 24.7 million shares of the Company's common stock on October 10,
+2000. The subordinated notes due October 2005 have a face value of $210 million
+and a stated interest rate of 6.5%.
+
+     MEI terminated its $100 million unsecured credit agreement effective March
+28, 2001.
+
+OTHER OPERATING EXPENSE, NET
+
+     Other operating expense for the third quarter of 2001 includes losses of
+$12.5 million on write-downs and disposals, net of gains, of semiconductor
+equipment and a $14.8 million write-off of certain design costs associated with
+the Company's Lehi facility. Other operating expense for the first nine months
+of 2000 includes losses of $27.3 million from the write-down and disposal, net
+of gains, of semiconductor equipment.
+
+OTHER NON-OPERATING INCOME, NET
+
+     Other non-operating income for the nine months ended May 31, 2001, reflects
+a gain of $4.5 million on the sale of MEI's remaining interest in MCMS. Other
+non-operating income for the third quarter and first nine months of 2000
+includes a gain of $4.5 million and $14.2 million, respectively, from the
+contribution to the Micron Technology Foundation of MEI common stock owned by
+the Company.
+
+                                       8
+
+<PAGE>
+
+Notes to Consolidated Financial Statements, continued
+
+INCOME TAX (PROVISION) BENEFIT
+
+     The Company's effective tax rate for the first nine months of 2001 reflects
+the mix of income and losses among tax jurisdictions with differing statutory
+rates, and the benefit of a $34.0 million change in the prior year's accrual for
+income taxes upon filing of the tax returns. In periods in which the Company's
+results of operations approximate break-even, the effective tax rate percentage
+can vary significantly. The Company's future effective income tax rate will also
+vary based on fluctuations in the mix of income and losses among tax
+jurisdictions with differing rates. Excluding the effect of the change in the
+prior year's accrual, the Company's effective tax rate for the first nine months
+of 2001 was 55%.
+
+MINORITY INTEREST
+
+     Minority interest for the third quarter and first nine months of 2001
+and 2000 includes minority shareholders' interest in the SpecTek component
+recovery business and the Web-hosting Operation. The component recovery
+business was purchased from MEI on April 5, 2001, at which time it became a
+wholly-owned operation of MTI and, as a result, the Company no longer
+recorded minority interest in the earnings of the component recovery business
+after April 5, 2001. Approximately $0.7 million and $18.1 million of minority
+interest is attributable to the earnings of MEI's component recovery business
+for the third quarter and first nine months of 2001, respectively, and $12.0
+million and $34.0 million for the third quarter and first nine months of
+2000, respectively.
+
+DISCONTINUED PC OPERATIONS
+
+     On May 31, 2001, MEI completed the disposition of its PC Operations to
+Gores Technology Group ("GTG"). In connection with the disposal, GTG received
+assets, including $76.5 million in cash, and assumed specified liabilities of
+the PC Operations. MEI may be required to provide additional cash to GTG if
+certain working capital requirements based on the net assets and liabilities
+transferred to GTG are not met. Summary operating results for the discontinued
+PC Operations follow:
+
+<TABLE>
+<CAPTION>
+                                                                Quarter ended                Nine months ended
+                                                           ------------------------      ---------------------
+                                                             May 31,        June 1,       May 31,        June 1,
+                                                              2001           2000           2001          2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                        <C>           <C>             <C>           <C>
+ Net sales                                                 $    124.6    $    235.4      $    579.8    $    709.5
+                                                           ==========    ==========      ==========    ==========
+
+ Loss from operations of PC business                       $       --    $    (36.3)     $    (64.1)   $    (83.8)
+ Minority interest                                                 --          10.1            18.0          22.8
+ Income tax benefit                                                --          11.2            10.0          26.9
+                                                           ----------    ----------      ----------    ----------
+ Loss from operations of PC business, net                          --         (15.0)          (36.1)        (34.1)
+                                                           ----------    ----------      ----------    ----------
+
+ Loss on disposal of PC Operations                              (16.8)           --          (126.4)           --
+ Operating losses during phase-out period                       (26.9)           --           (70.2)           --
+ Minority interest                                               12.9            --            71.1            --
+ Income tax benefit                                              18.5            --            57.8            --
+                                                           ----------    ----------      ----------    ----------
+ Loss on disposal of PC Operations, net                         (12.3)           --           (67.7)           --
+                                                           ----------    ----------      ----------    ----------
+
+ Loss on discontinued PC Operations, net                   $    (12.3)   $    (15.0)     $   (103.8)   $    (34.1)
+                                                           ==========    ==========      ==========    ==========
+</TABLE>
+
+     The Company recorded a loss of $12.3 million, net of taxes and minority
+interest, for the discontinued PC Operations in the third quarter of 2001, which
+reflects higher operating losses during the phase-out period and a higher loss
+on disposal of the PC Operations than were estimated at the end of the second
+quarter of 2001.
+
+                                       9
+
+<PAGE>
+
+Notes to Consolidated Financial Statements, continued
+
+     Summarized balance sheet information for the discontinued PC Operations is
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                                      August 31,
+As of                                                                                                    2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                                                   <C>
+Current assets                                                                                        $    184.3
+Property, plant and equipment                                                                               85.9
+Other long-term assets                                                                                       2.3
+                                                                                                      ----------
+       Total assets                                                                                        272.5
+                                                                                                      ----------
+
+Current liabilities                                                                                       (200.4)
+Long-term liabilities                                                                                      (17.8)
+                                                                                                      ----------
+       Total liabilities                                                                                  (218.2)
+                                                                                                      ----------
+
+Minority interest                                                                                          (21.4)
+                                                                                                      ----------
+       Net assets of discontinued PC Operations                                                       $     32.9
+                                                                                                      ==========
+</TABLE>
+
+KMT ACQUISITION
+
+     On April 30, 2001, the Company acquired Kobe Steel, Ltd.'s ("KSL") 75%
+interest in KMT Semiconductor, Limited ("KMT") (the "KMT Acquisition"), at
+which time KMT became a wholly-owned subsidiary of the Company. The KMT
+Acquisition was accounted for as a business combination using the purchase
+method of accounting. The purchase price of $31.3 million, net of $37.7
+million cash acquired, which includes $25.0 million cash paid to KSL for land
+and KSL's equity interest in KMT, was allocated to the assets acquired and
+liabilities assumed based on their estimated fair value. In connection with
+the KMT Acquisition, the Company recorded total assets of $408.1 million, net
+of cash acquired, including deferred income taxes of $204.6 million and
+property, plant and equipment of $103.6 million, and total liabilities of
+$376.8 million, including debt and capital lease obligations totaling $296.4
+million. The results of operations of KMT have been included in the
+accompanying financial statements from the date of acquisition.
+
+     The following unaudited pro forma financial information reflects the
+consolidated results of operations of the Company as if the KMT Acquisition
+had taken place at the beginning of 2001 and 2000 for the respective periods.
+The pro forma information includes adjustments for depreciation based on the
+value assigned in purchase accounting to the purchase of the property, plant
+and equipment acquired, amortization of intangible assets arising from the
+transaction, and the tax effects thereof. The pro forma financial information
+is not necessarily indicative of the results of continuing operations had the
+transaction occurred at the beginning of 2001 and 2000.
+
+<TABLE>
+<CAPTION>
+                                                                Quarter ended                Nine months ended
+                                                           ------------------------      ------------------------
+                                                             May 31,       June 1,        May 31,        June 1,
+                                                              2001           2000           2001          2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                        <C>           <C>             <C>           <C>
+ Net sales from continuing operations                      $    818.3    $  1,553.8      $  3,455.6    $  4,056.6
+ Income (loss) from continuing operations, net of taxes
+    and minority interest                                      (310.0)        320.4           135.5         980.4
+ Income (loss) per share from continuing operations -
+    diluted                                                     (0.52)          0.55            0.22          1.71
+</TABLE>
+
+
+                                       10
+<PAGE>
+
+Notes to Consolidated Financial Statements, continued
+
+EARNINGS PER SHARE
+
+     Basic earnings per share is calculated using the weighted average number of
+shares outstanding during the period. Diluted earnings per share incorporates
+the additional shares issued from the assumed exercise of outstanding stock
+options using the "treasury stock" method and conversion of convertible
+debentures using the "if-converted" method, when dilutive. Diluted earnings per
+share also incorporates an adjustment to net income to exclude the after-tax
+effect of interest expense that would have been avoided from the assumed
+conversion of convertible debentures which amounted to $10.7 million for the
+third quarter of 2001 and $34.8 million for the first nine months of 2000. Net
+income per diluted earnings per share in the first nine months of 2001 did not
+incorporate an adjustment for the assumed conversion of convertible debentures
+because it would have been anti-dilutive.
+
+     A reconciliation of the number of common shares used in per share
+calculations follows:
+
+<TABLE>
+<CAPTION>
+                                                                Quarter ended              Nine months ended
+                                                           ------------------------      --------------------------
+                                                             May 31,       June 1,        May 31,        June 1,
+                                                              2001           2000           2001          2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                        <C>           <C>           <C>           <C>
+ Weighted average common shares outstanding                    596.3         551.0           590.7         537.7
+ Adjustment for effects of assumed exercises
+    and conversion                                                --          51.5            15.1          55.3
+                                                           ---------     ----------    ------------  -----------
+ Weighted average common shares and share
+    equivalents outstanding                                    596.3         602.5           605.8         593.0
+                                                           ==========     ========     ===========   ===========
+</TABLE>
+
+     The average shares listed below were not included in the computation of
+diluted earnings per share because they were anti-dilutive for the periods
+presented:
+
+<TABLE>
+<CAPTION>
+                                                                  Quarter ended               Nine months ended
+                                                             ------------------------     ---------------------
+                                                              May 31,       June 1,         May 31,        June 1,
+                                                                2001          2000           2001           2000
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                        <C>            <C>            <C>             <C>
+Employee stock plans                                             62.6           0.1            3.9            0.2
+8.4% convertible subordinated notes payable due 2005               --            --            5.3             --
+7.0% convertible subordinated notes payable due 2004               --           5.2             --             --
+</TABLE>
+
+
+JOINT VENTURES
+
+     MTI participates in TECH Semiconductor Singapore, Pte. Ltd. ("TECH"), a
+joint venture among MTI, the Singapore Economic Development Board, Canon Inc.
+and Hewlett-Packard Company. Subject to certain terms and conditions, MTI has
+agreed to purchase all of TECH's production. MTI purchases semiconductor memory
+products from TECH at prices generally based on a discount from MTI's prior
+quarter average selling prices. MTI performs assembly and test services on
+products manufactured by TECH. MTI is also a party to various agreements with
+TECH whereby MTI provides technology, engineering, and training support to
+assist TECH in operating an advanced wafer fabrication facility to produce MTI
+DRAM products. The net cost of products purchased from TECH amounted to $82.0
+million for the third quarter of 2001 and $654.9 million for the first nine
+months of 2001. The net cost of products purchased from TECH amounted to $142.8
+million for the third quarter of 2000 and $392.2 million for the first nine
+months of 2000. MTI amortizes the value of the TECH supply arrangement on a
+straight-line basis over the remaining contractual life of the shareholder
+agreement. Amortization expense resulting from the TECH supply arrangement,
+included in the cost of product purchased from TECH, was $2.7 million and $8.0
+million for the third quarter and first nine months of 2001, respectively, and
+was $0.3 and $1.0 million for the third quarter and first nine months of 2000,
+respectively. Receivables from TECH were $15.0 million and payables were $54.6
+million as of May 31, 2001. As of August 31, 2000, receivables from TECH were
+$66.8 million and payables were $89.3 million.
+
+                                       11
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements, continued
+
+     Through April 30, 2001, MTI participated in KMT, a joint venture between
+MTI and KSL. On April 30, 2001, MTI acquired the remaining interest in KMT by
+completing the KMT Acquisition. The results of operations of KMT have been
+included in the accompanying financial statements from the date of acquisition.
+(See "KMT Acquisition" note). Through the date of acquisition, MTI purchased all
+of KMT's production at prices generally based on a discount from MTI's average
+selling prices. MTI was also party to various agreements with KMT whereby MTI
+provided assembly and test services, and technology, engineering, and training
+support to KMT. The net cost of products purchased from KMT amounted to $36.3
+million for the third quarter of 2001 and $293.3 million for the first nine
+months of 2001. The net cost of products purchased from KMT amounted to $125.4
+million for the third quarter of 2000 and $386.1 million for the first nine
+months of 2000. Receivables from KMT were $12.6 million and payables were $90.1
+million as of August 31, 2000.
+
+OPERATING SEGMENT INFORMATION
+
+     The Company's reportable segments have been determined based on the nature
+of its operations and products offered to customers. The Company's two
+reportable segments are Semiconductor Operations and Web-hosting Operations. The
+Semiconductor Operations' primary product is DRAM. The Web-hosting Operations'
+primary products are internet access and web-hosting services. Segment operating
+results are measured based on operating income (loss).
+
+<TABLE>
+<CAPTION>
+                                                               Quarter ended               Nine months ended
+                                                          ------------------------      ----------------------
+                                                           May 31,       June 1,        May 31,       June 1,
+                                                            2001           2000          2001           2000
+<S>                                                       <C>           <C>           <C>           <C>
+Net sales
+--------------------------------------------------------------------------------------------------------------
+Semiconductor Operations:
+    External                                              $    798.7    $  1,534.4    $  3,390.5    $  4,000.4
+    Sales to discontinued PC Operations                          4.2           9.1          21.6          34.6
+                                                          -----------   -----------   ----------    ----------
+                                                               802.9       1,543.5       3,412.1       4,035.0
+
+Web-hosting Operations                                          15.4          10.2          43.4          21.5
+Other                                                             --           0.1           0.1           0.1
+                                                          -----------   -----------   ----------    ----------
+Total consolidated net sales                              $    818.3    $  1,553.8    $  3,455.6    $  4,056.6
+                                                          ==========    ==========    ==========    ==========
+
+Operating income (loss)
+--------------------------------------------------------------------------------------------------------------
+
+Semiconductor Operations                                  $   (511.4)   $    458.1    $      2.6    $  1,305.1
+Web-hosting Operations                                         (15.8)        (14.0)        (50.9)        (25.6)
+Other                                                             --          (1.0)          0.4          (4.5)
+                                                          ----------    ---------- -  ----------    ----------
+Total consolidated operating income (loss)                $   (527.2)   $    443.1    $    (47.9)   $  1,275.0
+                                                          ==========    ==========    ==========    ==========
+</TABLE>
+
+
+                                       12
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements, continued
+
+
+     Segment assets consist of cash, investments, accounts receivable, inventory
+and property, plant and equipment.
+
+<TABLE>
+<CAPTION>
+                                                                                  May 31,              August 31,
+Segment assets as of                                                               2001                  2000
+-----------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>                   <C>
+Semiconductor Operations                                                        $  7,882.4            $  8,416.1
+Web-hosting Operations                                                               302.1                 411.3
+All other                                                                             13.1                  14.6
+                                                                                -----------           ----------
+                                                                                   8,197.6               8,842.0
+Elimination of intersegment                                                          (50.9)                (96.0)
+                                                                                ----------            ----------
+                                                                                $  8,146.7            $  8,746.0
+                                                                                ==========            ==========
+
+Reconciliation to total assets:
+
+Total segment assets                                                            $  8,146.7            $  8,746.0
+Prepaid expenses                                                                      28.8                  14.9
+Deferred income taxes                                                                143.2                 137.1
+Product and process technology, net                                                  219.8                 213.0
+Other assets (net of segment assets)                                                 309.9                 248.0
+Net assets of discontinued PC Operations                                                --                  32.9
+                                                                                ----------            ----------
+Total consolidated assets                                                       $  8,848.4            $  9,391.9
+                                                                                ==========            ==========
+</TABLE>
+
+
+COMMITMENTS AND CONTINGENCIES
+
+     As of May 31, 2001, the Company had commitments of approximately $709.4
+million for equipment purchases and software infrastructure and $179.7 million
+for the construction of buildings.
+
+     From time to time, others have asserted, and may in the future assert, that
+the Company's products or its processes infringe their product or process
+technology rights. In this regard, the Company is currently engaged in
+litigation with Rambus, Inc. ("Rambus") relating to certain of Rambus' patents.
+Lawsuits between Rambus and the Company are pending in the United States,
+Germany, France, the United Kingdom and Italy. The Company is unable to predict
+the outcome of these suits. A determination that the Company's manufacturing
+processes or products infringe the product or process rights of others could
+result in significant liability and/or require the Company to make material
+changes to its products and/or manufacturing processes. Any of the foregoing
+results could have a material adverse effect on the Company's business, results
+of operations or financial condition.
+
+     The Company has a number of patent and intellectual property license
+agreements. Some of these license agreements require the Company to make
+one-time or periodic payments. The Company may need to obtain additional patent
+licenses or renew existing license agreements in the future. The Company is
+unable to predict whether these license agreements can be obtained or renewed on
+acceptable terms.
+
+     The Company has accrued a liability and charged operations for the
+estimated costs of settlement or adjudication of asserted and unasserted claims
+for alleged infringement prior to the balance sheet date. The Company is
+currently a party to various other legal actions arising out of the normal
+course of business, none of which is expected to have a material effect on the
+Company's financial position or results of operations.
+
+INTERLAND MERGER
+
+     On March 23, 2001, MEI entered into a merger agreement to acquire
+Interland, Inc. ("Interland") in a stock-for-stock acquisition (the "Interland
+Merger") whereby Interland shareholders will own at closing approximately 30% of
+the combined company. Upon completion of the Interland Merger as proposed, MTI's
+ownership, approximately 59 million shares of MEI common stock, would be reduced
+from approximately 60% to 40%. As a result, MEI's results would no longer be
+consolidated in the Company's financial statements. The net book value of MEI
+
+                                       13
+
+<PAGE>
+
+
+common stock is expected to exceed the fair value of the MEI common stock to be
+issued in the Interland Merger. Upon completion of the Interland Merger as
+proposed, the Company currently estimates it will recognize a loss of
+approximately $35 million.
+
+     The Interland Merger has been approved by the Boards of Directors of MEI
+and Interland. The Interland Merger is subject to several conditions and
+approvals, including shareholder and regulatory approvals. MTI has agreed to
+vote its shares of MEI common stock in favor of the Interland Merger and the
+holders of approximately 38% of Interland's outstanding common stock have agreed
+to vote their shares in favor of the Interland Merger. The Interland Merger is
+expected to close in August 2001.
+
+
+                                       14
+
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+     Micron Technology, Inc. and its subsidiaries (hereinafter referred to
+collectively as the "Company") principally design, develop, manufacture and
+market semiconductor memory products. Micron Technology, Inc. and its
+wholly-owned subsidiaries are hereinafter referred to collectively as "MTI."
+
+     THE FOLLOWING DISCUSSION CONTAINS TREND INFORMATION AND OTHER
+FORWARD-LOOKING STATEMENTS THAT INVOLVE A NUMBER OF RISKS AND UNCERTAINTIES.
+FORWARD-LOOKING STATEMENTS INCLUDE, BUT ARE NOT LIMITED TO, STATEMENTS MADE
+IN: "MICRON ELECTRONICS, INC." REGARDING MEI'S PLANS TO MERGE WITH INTERLAND,
+INC.; MTI'S ESTIMATED LOSS UPON COMPLETION OF THE INTERLAND MERGER AND THE
+POSSIBILITY OF MTI'S FUTURE CONTRIBUTIONS OF MEI COMMON STOCK TO THE MICRON
+TECHNOLOGY FOUNDATION; "NET SALES" REGARDING FUTURE INVENTORY LEVELS;
+"RESEARCH AND DEVELOPMENT" REGARDING THE TRANSITION TO .15 MICRON AND .13
+MICRON LINE-WIDTH PROCESS TECHNOLOGY; "RECENTLY ISSUED ACCOUNTING STANDARDS"
+REGARDING THE IMPACT OF THE IMPLEMENTATION OF SAB NO. 101; AND "LIQUIDITY AND
+CAPITAL RESOURCES" REGARDING THE FUTURE ISSUANCE OF SECURITIES BY MTI AND
+CAPITAL SPENDING IN 2001 AND 2002. THE COMPANY'S ACTUAL RESULTS COULD DIFFER
+MATERIALLY FROM THE COMPANY'S HISTORICAL RESULTS OF CONTINUING OPERATIONS AND
+THOSE DISCUSSED IN THE FORWARD-LOOKING STATEMENTS. FACTORS THAT COULD CAUSE
+ACTUAL RESULTS TO DIFFER MATERIALLY INCLUDE, BUT ARE NOT LIMITED TO, THOSE
+IDENTIFIED IN "CERTAIN FACTORS." THIS DISCUSSION SHOULD BE READ IN
+CONJUNCTION WITH THE COMPANY'S ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDED
+AUGUST 31, 2000 AND THE COMPANY'S CURRENT REPORT ON FORM 8-K FILED JULY 10,
+2001. ALL PERIOD REFERENCES ARE TO THE COMPANY'S FISCAL PERIODS, UNLESS
+OTHERWISE INDICATED. ALL PER SHARE AMOUNTS ARE PRESENTED ON A DILUTED BASIS
+UNLESS OTHERWISE STATED.
+
+KMT ACQUISITION
+
+     On April 30, 2001, the Company acquired Kobe Steel, Ltd.'s ("KSL") 75%
+interest in KMT Semiconductor, Limited ("KMT") (the "KMT Acquisition"), at which
+time KMT became a wholly-owned subsidiary of the Company. The KMT Acquisition
+was accounted for as a business combination using the purchase method of
+accounting. The purchase price of $31 million, net of $38 million cash acquired,
+which includes $25 million cash paid to KSL for land and KSL's equity interest
+in KMT, was allocated to the assets acquired and liabilities assumed based on
+their estimated fair values. In connection with the KMT Acquisition, the Company
+recorded total assets of $408 million, net of cash acquired, including deferred
+income taxes of $205 million and property, plant and equipment of $104 million,
+and total liabilities of $377 million, including debt and capital lease
+obligations totaling $296 million. The results of operations of KMT have been
+included in the accompanying financial statements from the date of acquisition.
+(See "Notes to Consolidated Financial Statements - KMT Acquisition.")
+
+
+MICRON ELECTRONICS, INC.
+
+     The Company has Web-hosting Operations which are operated through Micron
+Electronics, Inc. ("MEI"), an approximately 60% owned, publicly-traded
+subsidiary of MTI.
+
+     In the third quarter of 2001, MEI announced its intent to merge with
+Interland, Inc. ("Interland"), a provider of web-hosting services, disposed of
+its PC Operations and sold its SpecTek component recovery business to MTI. (See
+"Minority Interest.")
+
+     On March 23, 2001, MEI entered into a merger agreement to acquire Interland
+in a stock-for-stock acquisition (the "Interland Merger") whereby Interland
+shareholders will own at closing approximately 30% of the combined company. Upon
+completion of the Interland Merger as proposed, MTI's ownership, approximately
+59 million shares of MEI common stock, would be reduced from approximately 60%
+to 40%. As a result, MEI's results would no longer be consolidated in the
+Company's financial statements. The net book value of MEI common stock is
+expected to exceed the fair value of the MEI common stock to be issued in the
+Interland Merger. As a result, upon completion of the Interland Merger as
+proposed, the Company currently estimates it will recognize a loss of
+approximately $35 million.
+
+                                       15
+
+<PAGE>
+
+     The Interland Merger has been approved by the Boards of Directors of MEI
+and Interland. The Interland Merger is subject to several conditions and
+approvals, including shareholder and regulatory approvals. MTI has agreed to
+vote its shares of MEI common stock in favor of the Interland Merger and the
+holders of approximately 38% of Interland's outstanding common stock have agreed
+to vote their shares in favor of the Interland Merger. The Interland Merger is
+expected to close in August 2001.
+
+     On May 31, 2001, MEI completed the disposition of its PC Operations to
+Gores Technology Group ("GTG"). In connection with the disposal, GTG received
+assets, including $76 million in cash, and assumed specified liabilities of the
+PC Operations. MEI may be required to provide additional cash to GTG if certain
+working capital requirements based on the net assets and liabilities transferred
+to GTG are not met. The Company's consolidated results of operations for the
+first nine months of 2001 include the effects of the disposition of MEI's PC
+Operations. The Company's consolidated net loss for the first nine months of
+2001 of $50 million (or $0.08 per share) includes the loss, net of taxes and
+minority interest, on discontinued PC Operations of $104 million ($0.17 per
+share). The loss of $104 million for the first nine months of 2001 for the
+discontinued PC Operations consists of losses of $47 million on the disposal of
+the discontinued PC Operations, $21 million from the operations of the
+discontinued PC business from March 2, 2001 (the date on which MEI adopted its
+plan to discontinue its PC operations) through May 31, 2001, and $36 million
+from the operations of the discontinued PC business from the beginning of fiscal
+2001 through March 1, 2001. The Company recorded a loss of $12 million, net of
+taxes and minority interest, for the discontinued PC Operations in the third
+quarter of 2001 which reflects higher operating losses and a higher loss on the
+disposal of the PC Operations than was estimated at the end of the second
+quarter of 2001. The losses from operations of the PC business, net of taxes and
+minority interest, were $15 million and $34 million, respectively, for the third
+quarter and first nine months of 2000. (See "Notes to Consolidated Financial
+Statements - Discontinued PC Operations," and "Certain Factors.")
+
+     Net sales from the Company's discontinued PC Operations were $125 million
+and $580 million for the third quarter and first nine months of 2001,
+respectively, and $235 million and $710 million for the third quarter and first
+nine months of 2000, respectively. The Company's consolidated financial
+information presents the discontinued PC Operations separate from the results of
+the Company's continuing operations and the discussion and analysis that follows
+generally focuses on continuing operations.
+
+     From time to time MTI has contributed shares of MEI common stock to the
+Micron Technology Foundation, a charitable organization established by the
+Company, and may make additional contributions of a portion or all of its shares
+of MEI common stock in the future. Upon contribution of MEI shares to the Micron
+Technology Foundation, the Company incurs a charge to its results of operations
+for the carrying value of the shares contributed. As of May 31, 2001, the
+carrying value of the Company's investment in MEI was $190 million.
+
+
+                                       16
+<PAGE>
+
+RESULTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                  Third Quarter                                Nine Months
+                                     ------------------------------------------ ------------------------------------------
+                                              2001                 2000                  2001                  2000
+                                     -------------------- --------------------- --------------------- --------------------
+                                                            (Amounts in millions, except per share data)
+<S>                                    <C>          <C>     <C>          <C>      <C>          <C>      <C>          <C>
+Net sales from continuing operations:
+         Semiconductor Operations      $    802.9   98.1%   $  1,543.5   99.3%    $  3,412.1   98.7%    $  4,035.0   99.5%
+         Web-hosting Operations              15.4    1.9%         10.2    0.7%          43.4    1.3%          21.5    0.5%
+         Other                                 --    0.0%          0.1    0.0%           0.1    0.0%           0.1    0.0%
+                                       ---------- ------    ---------- ------     ---------- ------     -----------------
+   Net sales                           $    818.3  100.0%   $  1,553.8  100.0%    $  3,455.6  100.0%    $  4,056.6  100.0%
+                                       ==========  =====    ==========  =====     ==========  =====     ==========  =====
+
+Operating income (loss) from
+continuing operations:
+         Semiconductor Operations      $   (511.4)          $    458.1            $      2.6            $  1,305.1
+         Web-hosting Operations             (15.8)               (14.0)                (50.9)                (25.6)
+         Other                                 --                 (1.0)                  0.4                  (4.5)
+                                       ----------           ----------            ----------            ----------
+   Operating income (loss)             $   (527.2)          $    443.1            $    (47.9)           $  1,275.0
+                                       ==========           ==========            ==========            ==========
+
+Income (loss) from continuing
+operations, net of taxes and minority
+interest                               $   (301.1)          $    289.9            $     54.3            $    811.6
+
+Net loss from discontinued PC
+Operations                                  (12.3)               (15.0)               (103.8)                (34.1)
+                                       ----------           ----------            ----------            ----------
+
+Net income (loss)                      $   (313.4)          $    274.9            $    (49.5)           $    777.5
+                                       ==========           ==========            ==========            ==========
+
+Earnings (loss) per share from
+continuing operations - diluted        $    (0.50)          $     0.50            $     0.09            $     1.43
+                                       ==========           ==========            ==========            ==========
+
+Net income (loss) per share - diluted  $    (0.53)          $     0.47            $    (0.08)           $     1.37
+                                       ==========           ==========            ==========            ==========
+</TABLE>
+
+     For the second quarter of 2001, loss from continuing operations, net of
+taxes and minority interest, was $4 million (or $0.01 per share) on net sales of
+$1,066 million. Net loss for the second quarter of 2001 was $88 million (or
+$0.15 per share). The Company's two reporting segments are Semiconductor
+Operations and Web-hosting Operations.
+
+     NET SALES
+
+     Substantially all the Company's net sales from continuing operations for
+all periods presented were derived from its Semiconductor Operations. Net sales
+from Semiconductor Operations for the third quarter and first nine months of
+2001 decreased by 48% and 15% as compared to the third quarter and first nine
+months of 2000, respectively. These decreases in net sales were due to decreases
+in average selling prices for the Company's semiconductor memory products of
+approximately 60% and 50%, respectively. Megabit shipments increased by
+approximately 35% and 60% for these same comparative periods. The Company's
+primary memory product in the third quarter and first nine months of 2001 was
+the 128 Meg Synchronous DRAM ("SDRAM"), which constituted approximately 57% and
+46%, respectively, of the net sales of Semiconductor Operations.
+
+      Net sales from Semiconductor Operations decreased 24% in the third quarter
+of 2001 as compared to the second quarter of 2001 as a result of an approximate
+35% decrease in the Company's overall average selling price per megabit of its
+semiconductor memory products. The effect of this decrease in average selling
+prices was partially offset by an approximate 20% increase in total megabits
+shipped. Average selling prices for the Company's semiconductor memory products
+have continued to decline in the first few weeks of the fourth quarter of fiscal
+2001.
+
+                                       17
+
+<PAGE>
+
+     The Company's aggregate work in progress and finished goods inventories of
+semiconductor memory products, as measured in megabits, increased approximately
+23% and 88% as of the end of the third quarter of 2001 compared to the end of
+the second quarter of 2001 and the prior year end, respectively. The 23%
+increase in inventory was principally due to the consolidation of KMT's
+financial statements with those of the Company. The 88% increase in inventory
+was due to a number of factors, including increases in megabit production
+resulting from increases in total wafer outs and ongoing improvements in
+manufacturing efficiency combined with relatively weak industry demand for
+memory products, product and process transitions to next generation devices, and
+the consolidation of KMT's financial statements with those of the Company. If
+industry demand for semiconductor memory products does not improve, the
+Company's inventory could continue to increase.
+
+     GROSS MARGIN
+
+<TABLE>
+<CAPTION>
+                                                      Third Quarter                          Nine Months
+                                              ----------------------------------   -----------------------------------
+                                                  2001     % Change     2000           2001      % Change     2000
+                                              ----------------------------------   -----------------------------------
+<S>                                            <C>          <C>        <C>           <C>           <C>       <C>
+Gross margin                                   $(275.8)     (141.7)%   $661.7        $687.0        (64.2)%   $1,917.5
+   as a % of net sales                           (33.7)%                 42.6%         19.9%                     47.3%
+</TABLE>
+
+     Substantially all of the Company's gross margin from continuing operations
+for all periods presented was attributed to its Semiconductor Operations. The
+gross margin percentage from Semiconductor Operations was 18% for the second
+quarter of 2001. The decreases in gross margin percentage for the third quarter
+and first nine months of 2001 as compared to the corresponding periods of 2000
+and for the third quarter of 2001 as compared to the second quarter of 2001 were
+principally due to the decreases in average selling prices per megabit of memory
+for the same periods. In addition, in the third quarter of 2001 the Company
+wrote down the carrying value of its semiconductor memory inventories by $261
+million to their estimated market values.
+
+     Subject to specific terms and conditions, MTI has agreed to purchase all of
+the products manufactured by its joint venture wafer fabrication facility, TECH
+Semiconductor Singapore Pte. Ltd. ("TECH"). TECH supplied approximately 20% of
+the total megabits of memory produced by the Company in the third quarter and
+first nine months of 2001. MTI purchases semiconductor memory products from TECH
+at prices determined quarterly generally based on a discount from average
+selling price realized by the Company for the immediately preceeding quarter.
+MTI performs assembly and test services on products manufactured by TECH. MTI
+also provides certain technology, engineering, and training support to TECH. All
+transactions with TECH are recognized as part of the net cost of products
+purchased from TECH. The Company realized lower gross margins on sales of TECH
+products than for products manufactured by its wholly-owned facilities in the
+third quarter and first nine months of 2001 and 2000.
+
+     SELLING, GENERAL AND ADMINISTRATIVE
+
+<TABLE>
+<CAPTION>
+                                                       Third Quarter                          Nine Months
+                                              ----------------------------------   -----------------------------------
+                                                  2001     % Change     2000           2001      % Change     2000
+                                              ----------------------------------   -----------------------------------
+<S>                                            <C>          <C>      <C>            <C>           <C>      <C>
+Selling, general and administrative              $104.3       (7.2)%   $112.4         $319.7        3.3%     $309.4
+   as a % of net sales                             12.7%                  7.2%           9.3%                   7.6%
+</TABLE>
+
+     Selling, general and administrative expenses ("SG&A") for continuing
+operations decreased in the third quarter of 2001 compared to the third quarter
+of 2000 primarily due to lower performance-based compensation expense. In
+addition, SG&A for the third quarter of 2000 included a $6 million charge for
+the market value of MEI common stock contributed by MTI to the Micron Technology
+Foundation.
+
+     SG&A for continuing operations increased in the first nine months of 2001
+as compared to the first nine months of 2000 primarily due to increased costs
+associated with Web-hosting Operations. SG&A for the Company's Semiconductor
+Operations decreased slightly comparing the first nine months of 2001 with the
+first nine months of 2000. SG&A for the first nine months of 2000 included a $25
+million charge for the market value of MEI common stock contributed by MTI to
+the Micron Technology Foundation. In addition to the prior-year contribution
+charge, this decrease in Semiconductor Operations' SG&A is due to decreased
+performance-based compensation and bad debt expense, partially offset by
+increased legal costs associated with product and process technology rights
+litigation and patent prosecution, technical and professional fees, and
+depreciation expense associated with the Company's business software systems.
+(See "Notes to Consolidated Financial Statements - Commitments and
+Contingencies.") SG&A for the third quarter of 2001 was flat compared to the
+second quarter of 2001.
+
+                                       18
+<PAGE>
+
+     SG&A for continuing operations attributable to the Company's Web-hosting
+Operations approximated 16% of the total for continuing operations for the third
+quarter and first nine months of 2001 and approximated 13% and 9% for the third
+quarter and first nine months of 2000, respectively.
+
+     The Company may make additional contributions of a portion or all of its
+shares of MEI common stock in the future. Upon contribution of MEI shares, the
+Company incurs a charge to its results of operations for the carrying value of
+the shares contributed. As of May 31, 2001, the carrying value of the Company's
+investment in MEI was $190 million.
+
+     RESEARCH AND DEVELOPMENT
+
+<TABLE>
+<CAPTION>
+                                                      Third Quarter                          Nine Months
+                                              ----------------------------------   -----------------------------------
+                                                  2001     % Change     2000           2001      % Change     2000
+                                              ----------------------------------   -----------------------------------
+<S>                                              <C>         <C>        <C>           <C>         <C>        <C>
+Research and development                         $114.5      13.9%      $100.5        $384.4      30.2%      $295.3
+   as a % of net sales                             14.0%                   6.5%         11.1%                   7.3%
+</TABLE>
+
+     Substantially all the Company's research and development efforts relate
+to its Semiconductor Operations. Research and development expenses vary
+primarily with the number of development wafers processed, the cost of
+advanced equipment dedicated to new product and process development, and
+personnel costs. The increases in research and development expenses in the
+third quarter and first nine months of 2001 as compared to corresponding
+periods of 2000 are primarily due to an increased number of development
+wafers processed and higher compensation expenses reflective of an increased
+number of personnel. Process technology research and development efforts are
+focused on .15 micron, .13 micron and .11 micron line-width process
+technologies which are designed to facilitate the Company's transition to
+next generation products.
+
+     Application of advanced process technology currently is concentrated on
+design of shrink versions of the Company's 128 Meg SDRAMs and on design and
+development of the Company's 256 Meg and 512 Meg SDRAMs, DDR SDRAM, Flash and
+SRAM memory products. Other research and development efforts are currently
+devoted to the design and development of embedded memory and the Company's
+advanced memory products and technologies. The Company is also developing
+technology designed to enable customers to more rapidly adopt the Company's
+advanced memory architectures.
+
+     The Company has transitioned a majority of its manufacturing operations
+to .15 micron line-width process technology and will evaluate any ongoing
+transition in light of market conditions. The Company anticipates that it
+will move its manufacturing operations to .13 micron line-width process
+technology in the next few years as needed for the development of future
+generation semiconductor products.
+
+     OTHER OPERATING EXPENSE, NET
+
+     Other operating expense for the third quarter of 2001 includes a $13
+million loss, net of gains, on write-downs and disposals of semiconductor
+equipment and a $15 million write-off of certain design costs associated with
+the Company's Lehi facility. Other operating expense for the first nine months
+of 2000 includes a $27 million loss, net of gains, on write-downs and disposals
+of semiconductor equipment.
+
+     INTEREST INCOME AND EXPENSE
+
+     Interest income was higher for the third quarter and first nine months of
+2001 as compared to the third quarter and first nine months of 2000 primarily
+due to the Company's higher levels of cash and liquid investments in 2001
+periods.
+
+     Interest expense was lower for the third quarter and first nine months of
+2001 as compared to the third quarter and first nine months of 2000, primarily
+as a result of the Company's conversions of debt to equity in the third quarter
+of 2000 and the first quarter of 2001. The Company converted its $500 million,
+7.0% convertible subordinated notes to equity in the third quarter of 2000 and
+converted its $740 million face amount, 6.5% convertible subordinated notes to
+equity in the first quarter of 2001. (See "Notes to Consolidated Financial
+Statements - Supplemental Balance Sheet Information - Debt.")
+
+                                       19
+
+<PAGE>
+
+     OTHER NON-OPERATING INCOME, NET
+
+     Other non-operating income for the first nine months of 2001 includes a $5
+million gain on MEI's sale of its remaining interest in MCMS, Inc., formerly
+Micron Custom Manufacturing Services and a wholly-owned subsidiary of MEI. Other
+non-operating income for the first nine months of 2000 includes a $14 million
+gain on the contribution by MTI of 2.3 million shares of MEI common stock to the
+Micron Technology Foundation. Selling, general and administrative expense in the
+first nine months of 2000 includes a $25 million charge for the market value of
+the stock contributed. The Company may make additional contributions of a
+portion or all of its shares of MEI common stock in the future. Upon
+contribution of MEI shares, the Company incurs a charge to its results of
+operations for the carrying value of the shares contributed. As of May 31, 2001,
+the carrying value of the Company's investment in MEI was $190 million.
+
+
+     INCOME TAX (PROVISION) BENEFIT
+
+     The Company's effective tax rate for the first nine months of 2001 reflects
+the mix of income and losses among tax jurisdictions with differing statutory
+rates, and the benefit of a $34 million change in the prior year's accrual for
+income taxes upon filing of the tax returns. In periods in which the Company's
+results of operations approximate break-even, the effective tax rate percentage
+can vary significantly. The Company's future effective income tax rate will also
+vary based on fluctuations in the mix of income and losses among tax
+jurisdictions with differing rates. Excluding the effect of the change in the
+prior year's accrual, the Company's effective tax rate for the first nine months
+of 2001 was 55%.
+
+     MINORITY INTEREST
+
+     Minority interest for the third quarter and first nine months of 2001
+and 2000 includes minority shareholders' interest in the SpecTek component
+recovery business and the Web-hosting Operation. The component recovery
+business was purchased from MEI on April 5, 2001, at which time it became a
+wholly-owned operation of MTI and, as a result, the Company no longer
+recorded minority interest in the earnings of the component recovery business
+after April 5, 2001. Approximately $1 million and $18 million of minority
+interest is attributable to the earnings of MEI's component recovery business
+for the third quarter and first nine months of 2001, respectively. Minority
+interest for the third quarter of 2001 includes one month of minority
+interest attributable to the earnings of MEI's component recovery business.
+
+     RECENTLY ISSUED ACCOUNTING STANDARDS
+
+     Recently issued accounting standards include Statement of Financial
+Accounting Standards ("SFAS") No. 133 "Accounting for Derivative Instruments and
+Hedging Activities," issued by the FASB in June 1998 and Staff Accounting
+Bulletin ("SAB") No. 101 "Revenue Recognition in Financial Statements," issued
+by the Securities and Exchange Commission in December 1999.
+
+     SFAS No. 133 requires that all derivatives be recorded as either assets or
+liabilities in the balance sheet and marked to market on an ongoing basis. SFAS
+No. 133 applies to all derivatives including stand-alone instruments, such as
+forward currency exchange contracts and interest rate swaps, or embedded
+derivatives, such as call options contained in convertible debt investments.
+Along with the derivatives, certain underlying hedged items are also to be
+marked to market on an ongoing basis. These market value adjustments are to be
+included either in the statement of operations or as a component of
+comprehensive income, depending on the nature of the transaction. The Company
+adopted SFAS 133 in the first quarter of 2001. The adoption did not have a
+significant impact on the Company's results of operations or financial position.
+
+     SAB No. 101 summarizes certain views of the SEC staff in applying generally
+accepted accounting principles to revenue recognition in financial statements.
+Adoption is required for the Company in the fourth quarter of 2001. The Company
+does not expect the implementation of SAB No. 101 to have a significant impact
+on its future results of operations or financial position.
+
+                                       20
+
+<PAGE>
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     The Company's principal source of liquidity during the first nine months
+of 2001 was net cash flow from continuing operations of $845 million, which
+reflects the favorable effect of a decrease in receivables, partially offset
+by an increase in the level of semiconductor memory inventory. During the
+first nine months of 2001, the Company expended $1,225 million for property,
+plant and equipment for continuing operations. As of May 31, 2001, the
+Company's Semiconductor Operations had cash and liquid investments totaling
+$1,543 million, representing a decrease of $597 million from August 31, 2000.
+
+     In the first quarter of 2001, the Company's 6.5% convertible subordinated
+notes due October 2005, with a face amount of $740 million, were converted into
+approximately 24.7 million shares of common stock, resulting in a
+reclassification of $685 million from debt to equity.
+
+     The Company believes that to develop new product and process technologies,
+support future growth, achieve operating efficiencies and maintain product
+quality, it must continue to invest in manufacturing technology, facilities and
+capital equipment, research and development, and product and process technology.
+The Company continuously evaluates the financing of capital improvements and in
+this regard has a shelf registration statement in place pursuant to which the
+Company may from time to time issue debt or equity securities for up to $1
+billion. The Company may also seek to raise funds through issuing securities not
+covered by the existing shelf registration statement. The Company acquired
+approximately $1.4 billion of property, plant and equipment in the first nine
+months of 2001 and expects capital spending to approximate $1.8 billion in 2001
+and $1 billion in 2002. As of May 31, 2001, the Company had commitments
+extending into 2003 of approximately $710 million for equipment purchases and
+software infrastructure, and approximately $180 million for the construction of
+facilities.
+
+     On April 30, 2001, MTI completed the acquisition of KMT and, in connection
+therewith, MTI assumed $296 million in debt and capital lease obligations.
+
+     As of May 31, 2001, approximately $185 million of the Company's
+consolidated cash and liquid investments were held by MEI. Cash generated by
+MEI is not readily available to finance operations or other expenditures of
+the Company's Semiconductor Operations. MEI terminated its unsecured credit
+agreement effective March 28, 2001.
+
+                                       21
+
+<PAGE>
+
+CERTAIN FACTORS
+
+     IN ADDITION TO THE FACTORS DISCUSSED ELSEWHERE IN THIS FORM 10-Q AND IN THE
+COMPANY'S FORM 10-K FOR THE FISCAL YEAR ENDED AUGUST 31, 2000, THE FOLLOWING ARE
+IMPORTANT FACTORS WHICH COULD CAUSE ACTUAL RESULTS OR EVENTS TO DIFFER
+MATERIALLY FROM THOSE CONTAINED IN ANY FORWARD LOOKING STATEMENTS MADE BY OR ON
+BEHALF OF THE COMPANY.
+
+THE VOLATILE NATURE OF THE DRAM INDUSTRY COULD ADVERSELY AFFECT OUR FUTURE
+OPERATING RESULTS
+
+     The DRAM industry is highly volatile. Due to the commodity nature of DRAM
+products, when the supply of DRAM products exceeds the demand for such products,
+average selling prices for DRAM products decline, sometimes rapidly. DRAMs are
+our primary product and constituted approximately 93% of our consolidated net
+sales in the third quarter of 2001 and 87% of our consolidated net sales in the
+first nine months of 2001. In the past, our operating results and cash flows
+have been adversely affected by declines in average selling prices for DRAM
+products.
+
+WE ARE DEPENDENT ON THE PERSONAL COMPUTER ("PC") MARKET AS MOST OF THE MEMORY
+PRODUCTS WE SELL ARE USED IN PCS OR PERIPHERALS. IF THE GROWTH RATE OF EITHER
+PCS SOLD OR THE AMOUNT OF MEMORY INCLUDED IN EACH PC DECREASES, SALES OF OUR
+MEMORY PRODUCTS COULD DECREASE
+
+     In the third quarter and first nine months of 2001, we sold most of our
+memory products to PC or peripheral markets. DRAMs are the most widely used
+semiconductor memory components in PCs. In recent periods, the growth rate of
+PCs sold has slowed significantly or declined; and the growth rate for the
+amount of memory included in each PC has slowed. These declining growth rates
+affected our third quarter results of operations. If we experience a sustained
+reduction in the growth rate of either PCs sold or the amount of memory included
+in each PC, sales of our memory products could decrease and our results of
+operations, cash flows and financial condition could be adversely affected.
+
+WE HAVE EXPERIENCED DRAMATIC DECLINES IN AVERAGE SELLING PRICES FOR OUR MEMORY
+PRODUCTS, WHICH HAVE ADVERSELY AFFECTED OUR BUSINESS
+
+     Average per megabit selling prices for our memory products decreased by
+approximately 35% in the third quarter of 2001 as compared to the second quarter
+of 2001 and have decreased by an average of approximately 30% per year over the
+last 10 years. Further, significant fluctuations in average selling prices for
+our memory products have occurred, including periods when decreases exceeded 30%
+per year. For instance, we experienced decreases in average selling prices in
+excess of a long-term 30% rate in four of the last five fiscal years, as
+follows: 37% decline in 1999, 60% decline in 1998, 75% decline in 1997 and 46%
+decline in 1996.
+
+     We are unable to predict pricing conditions for any future period. If
+average selling prices for our memory products continue to decrease faster than
+we are able to decrease per megabit manufacturing costs, our results of
+operations, cash flows and financial condition would continue to be adversely
+affected.
+
+INCREASED WORLDWIDE DRAM PRODUCTION COULD LEAD TO FURTHER DECLINES IN AVERAGE
+SELLING PRICES FOR DRAM
+
+     We and our competitors constantly seek to improve yields, reduce die size
+and use fewer manufacturing steps. These improvements increase worldwide supply
+of DRAM. In addition, we and several of our competitors are evaluating plans to
+manufacture semiconductors in facilities that process 300-millimeter ("300mm")
+wafers. 300mm wafers have approximately 130% greater usable surface area than
+200mm wafers, the current industry standard. Their widespread use in the
+industry, which is expected to occur within the next two to five years, will
+lead to a significant increase in the worldwide supply of DRAM. Increases in
+worldwide supply of DRAM also result from DRAM capacity expansions, by way of
+either new facilities, increased capacity utilization or reallocation of other
+semiconductor production to DRAM production. Increases in worldwide supply of
+DRAM could lead to further declines in average selling prices for our products
+and adversely affect our results of operations and cash flows.
+
+                                       22
+
+<PAGE>
+
+IF AVERAGE SELLING PRICES OF MEMORY PRODUCTS CONTINUE TO DECLINE, WE MAY NOT BE
+ABLE TO GENERATE SUFFICIENT CASH FLOW TO FUND OUR OPERATIONS
+
+     Historically, we have invested substantially all cash flow from
+Semiconductor Operations in capacity expansion and enhancement programs. Our
+cash flow from operations depends primarily on average selling prices and per
+megabit manufacturing costs of our semiconductor memory products. In recent
+periods, our average selling prices declined at a faster rate than our per
+megabit manufacturing costs. If average selling prices continue to decline at a
+faster rate than our per megabit manufacturing costs, we may not be able to
+generate sufficient cash flows to sustain our operations. We may be unable to
+obtain other external sources of liquidity to fund our operations or efforts to
+enhance our capacity and product and process technology. Without additional
+financing, we may be unable to invest sufficiently in capacity expansion and
+enhancement programs, which could materially adversely affect our business,
+results of operations and financial condition.
+
+AVERAGE SELLING PRICES MAY BE BELOW THE COST OF MANUFACTURING AND DISTRIBUTING
+SEMICONDUCTOR MEMORY PRODUCTS REQUIRING INVENTORY WRITE DOWNS
+
+     To the extent the estimated market price of products held in finished goods
+and work in progress at each quarter end is below the cost of these products, we
+must recognize a charge against operations to write down the carrying value to
+market value. In the third quarter of 2001, we recognized a $261 million write
+down of inventories. Depending on market conditions, future quarters may be
+significantly impacted by future inventory write downs.
+
+IF ANY ONE OF OUR MAJOR PC ORIGINAL EQUIPMENT MANUFACTURER ("OEM") CUSTOMERS
+SIGNIFICANTLY REDUCES ITS PURCHASES OF DRAM FROM US, OUR RESULTS OF OPERATIONS
+AND CASH FLOWS COULD BE ADVERSELY AFFECTED
+
+     We supply several major PC OEMs with more than 30% of their memory
+requirements. Sales to three of our PC OEM customers approximated 30% of our
+Semiconductor operation's net sales in the third quarter and first nine months
+of 2001. If any one of our major PC OEM customers significantly reduces its
+purchases of DRAM from us, our results of operations and cash flows could be
+adversely affected.
+
+IF WE ARE UNABLE TO MAKE ADEQUATE CAPITAL INVESTMENTS, OUR RESULTS OF OPERATIONS
+AND CASH FLOWS COULD BE ADVERSELY AFFECTED
+
+     To develop new product and process technologies, support future growth,
+achieve operating efficiencies and maintain product quality, we must invest
+significant capital in manufacturing technology, facilities and capital
+equipment, research and development, and product and process technology.
+Substantial capital investments will be required to convert manufacturing
+operations to 300mm wafer processing over the next several years. We made $1.4
+billion in capital investments in the first nine months of 2001 and currently
+estimate that our capital investments will approximate $1.8 billion in fiscal
+2001 and $1 billion in fiscal 2002. If we are unable to make adequate capital
+investments, our results of operations and cash flows could be adversely
+affected.
+
+IF WE ARE UNABLE TO REDUCE PER MEGABIT MANUFACTURING COSTS OF OUR MEMORY
+PRODUCTS AT AN ACCEPTABLE RATE, OUR RESULTS OF OPERATIONS COULD BE ADVERSELY
+AFFECTED
+
+     To reduce per megabit manufacturing costs we must design and develop new
+generation products, reduce the die size of our existing products and increase
+the production of these products at acceptable rates to acceptable yields. If we
+are unable to reduce per megabit manufacturing costs, our results of operations
+and cash flows could be adversely affected.
+
+IF OUR MANUFACTURING PROCESS IS INTERRUPTED, OUR RESULTS OF OPERATIONS AND CASH
+FLOWS COULD BE ADVERSELY AFFECTED
+
+     We manufacture products using highly complex processes that require
+technologically advanced and costly equipment and continuous modification to
+improve yields and performance. Difficulties in the manufacturing process can
+reduce yields or interrupt production and affect our ability to deliver products
+on time or cost-effectively. Additionally, if production at a fabrication
+facility is interrupted for any reason, including, but not limited to,
+disruptions in power or water supply, we may be unable to meet our customers'
+demand and they may
+
+                                       23
+
+<PAGE>
+
+
+purchase products from other suppliers. The resulting loss of revenues and
+damage to customer relationships could be significant.
+
+AN ADVERSE DETERMINATION THAT OUR PRODUCTS AND PROCESSES INFRINGE THE
+INTELLECTUAL PROPERTY RIGHTS OF OTHERS COULD ADVERSELY AFFECT OUR BUSINESS,
+RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+     From time to time, others have asserted, and may in the future assert,
+that our products or our processes infringe their product or process
+technology rights. In this regard, we are currently engaged in litigation
+with Rambus, Inc. ("Rambus") relating to certain of Rambus' patents. Lawsuits
+between Rambus and the Company are pending in the United States, Germany,
+France, the United Kingdom and Italy. On September 29, 2000, Rambus filed a
+preliminary proceeding against the Company and EBV (a distributor of the
+Company's products) in the Civil Court of Monza, Italy, alleging that certain
+SDRAM and DDR SDRAM products infringe the Italian counterpart to European
+patent 525 068, and seeking the entry of a preliminary injunction as to
+products manufactured at the Company's Avezzano, Italy, site. On May 24,
+2001, the trial judge issued a decision in which the court rejected Rambus'
+assertions of infringement and denied its request for a preliminary
+injunction. Rambus appealed the ruling to the Monza appeals panel and a
+hearing is set for July 12, 2001. Legal proceedings are also pending between
+the Company and Rambus in the U.S. District Court for the District of
+Delaware and in other jurisdictions. On August 28, 2000, the Company filed a
+declaratory judgment action against Rambus in the U.S. District Court for the
+District of Delaware. On February 1, 2001, the Company amended its complaint.
+Pursuant to its complaint, the Company is seeking (1) relief under the
+federal antitrust laws for violations by Rambus of Section 2 of the Sherman
+Act; (2) a declaratory judgment that (a) certain Rambus patents are not
+infringed, are invalid and/or are unenforceable, (b) the Company has an
+implied license to Rambus' patents, and (c) Rambus is estopped from enforcing
+its patents against the Company because of its conduct in the Joint Electron
+Device Engineering Council standards setting body; and (3) damages and
+declaratory relief for Rambus' breach of contract, fraud, deceptive trade
+practices, negligent misrepresentation, and conduct requiring the application
+of equitable estoppel. On February 15, 2001, Rambus filed an Answer and
+Counterclaim. Rambus denies that the Company is entitled to relief and has
+alleged willful infringement by the Company of eight Rambus patents. Trial is
+currently scheduled for October 29, 2001. The Company cannot predict the
+outcome of these suits. A determination that our manufacturing processes or
+products infringe the product or process rights of others could result in
+significant liability and/or require us to make material changes to our
+products and/or manufacturing processes. Any of the foregoing results could
+have a material adverse effect on our business, results of operations or
+financial condition.
+
+     We have a number of patent and intellectual property license agreements.
+Some of these license agreements require us to make one-time or periodic
+payments. We may need to obtain additional patent licenses or renew existing
+license agreements in the future. We are unable to predict whether these license
+agreements can be obtained or renewed on acceptable terms.
+
+WE MAY NOT BE ABLE TO INCREASE MEGABIT PRODUCTION AT THE SAME RATE IN FUTURE
+PERIODS AS WE HAVE IN THE PAST
+
+     In recent years, we have increased our megabit production through
+improvements in our manufacturing processes, including reducing the die size of
+our existing products. As a result, we have decreased per megabit production
+costs and significantly increased our megabit production. However, we may not be
+able to increase megabit production at historical rates in future periods. Our
+ability to increase megabit production in future periods may be limited because
+of the following factors:
+
+     -    our substantial completion of product and process technology upgrades
+          in our international and joint venture facilities,
+
+     -    our ability to implement more complex technologies without
+          compromising our manufacturing yields,
+
+     -    our ability to ramp the latest reduced die size versions of existing
+          devices or new generation devices to commercial volumes, or
+
+     -    our increase in wafer starts for our Flash and SRAM products.
+
+SEMICONDUCTOR MEMORY MARKET CONDITIONS MAY LEAD US TO SLOW DOWN THE RATE AT
+WHICH WE IMPLEMENT TECHNOLOGY IMPROVEMENTS AND CAPACITY EXPANSION PROGRAMS
+
+     Historically we have decreased per megabit production costs through
+improvements in our manufacturing processes. To the extent market conditions
+limit cash flows from operations, we may be forced to or may choose to slow down
+the rate at which we implement technology improvements. As a result, we would
+not be able to increase megabit production output and reduce our per megabit
+manufacturing costs to the fullest extent possible, and our results of
+operations would be adversely affected.
+
+
+                                       24
+
+<PAGE>
+
+IF MEI IS UNABLE TO EFFECTIVELY COMPETE IN THE WEB-HOSTING INDUSTRY OR TO
+COMPLETE ITS MERGER WITH INTERLAND, OUR RESULTS OF OPERATIONS COULD BE ADVERSELY
+AFFECTED
+
+     MEI's business strategy is to focus on web-hosting. In an effort to
+continue to focus on web-hosting, MEI has agreed, subject to various terms and
+conditions, to merge with Interland, Inc. The web-hosting industry is highly
+competitive. A number of MEI's web-hosting competitors have greater brand
+awareness and market share and have substantially greater financial, technical,
+marketing and other resources than MEI. If MEI is unable to complete its merger
+with Interland or to effectively compete in the web-hosting industry, our
+results of operations could be adversely affected.
+
+VARIOUS MEI STOCK TRANSACTIONS COULD ADVERSELY AFFECT OUR RESULTS OF OPERATIONS
+
+     As of May 31, 2001, we owned approximately 59 million shares of MEI
+common stock and the carrying value of our investment in MEI was $190
+million. We currently estimate that we will incur a loss of approximately $35
+million upon consummation of the Interland Merger. The actual amount of the
+loss may vary depending on the market value, net book value and number of MEI
+shares of common stock outstanding at the time of the Interland Merger, as
+well as the actual number of shares issued in the merger. If the carrying
+value of our MEI stock exceeds the fair value of MEI stock at the time MEI
+issues stock in connection with the Interland Merger or if we sell MEI shares
+for a price less than our carrying value, our results of operations will be
+adversely affected.
+
+     In addition to the anticipated loss upon consummation of the Interland
+Merger, if future events determine that there is a permanent decline in the
+value of MEI stock, our consolidated financial statements could reflect a charge
+to write down our investment in MEI to its market value.
+
+     From time to time we have contributed shares of MEI common stock to the
+Micron Technology Foundation and may make additional contributions of a portion
+or all of its shares of MEI common stock in the future. As of May 31, 2001, we
+have contributed approximately 2 million shares of MEI common stock to the
+Micron Technology Foundation. Upon contribution of the MEI shares, we incur a
+charge for the carrying value of the shares contributed.
+
+IF WE ARE NOT ABLE TO PURCHASE TECHNOLOGICALLY-ADVANCED SEMICONDUCTOR
+MANUFACTURING EQUIPMENT, OUR RESULTS OF OPERATIONS COULD BE HARMED
+
+     Our Semiconductor Operations require highly advanced, complex and costly
+semiconductor equipment. To continue to be a low-cost producer of semiconductor
+memory products, we will need to replace obsolete equipment and purchase the
+most technologically-advanced semiconductor manufacturing equipment. However,
+there are only a limited number of suppliers capable of providing this critical
+equipment. Equipment shortages have occurred from time to time in the past and
+lead times for ordering new equipment are typically 6 to 18 months. We often
+need to place orders for new equipment several months in advance to ensure
+timely delivery, which may limit our ability to alter plans in response to
+changes in market conditions. Our supply of new equipment could be significantly
+delayed if any shortages occur. Any equipment delays could limit our ability to
+use the most cost-effective processes and limit our ability to expand or
+maintain our capacity.
+
+INTERRUPTIONS IN OUR SUPPLY OF RAW MATERIALS COULD ADVERSELY AFFECT OUR RESULTS
+OF OPERATIONS
+
+     Our Semiconductor Operations require raw materials that meet exacting
+standards. We generally have multiple sources of supply for our raw materials;
+however, only a limited number of suppliers are capable of delivering certain
+raw materials that meet our standards. Various factors, including increases in
+worldwide semiconductor manufacturing, could reduce the availability of raw
+materials such as silicon wafers, photomasks, chemicals, gases, lead frames and
+molding compound. Although raw materials shortages have not interrupted our
+operations in the past, shortages may occur from time to time in the future.
+Also, lead times for the supply of raw materials have been extended in the past.
+If our supply of raw materials is interrupted or our lead times extended, our
+results of operations could be adversely affected.
+
+                                       25
+
+<PAGE>
+
+
+IF WE ARE UNABLE TO RETAIN EXISTING KEY EMPLOYEES, OUR OPERATING RESULTS COULD
+BE ADVERSELY AFFECTED
+
+     We depend on a limited number of key management and technical personnel.
+Our future success depends in part on our ability to attract and retain highly
+qualified personnel in our worldwide operations, particularly as we add
+different product types. Competition for skilled management and technical
+employees is intense within our industry. Other employers have increased
+recruitment of our existing personnel.
+
+WE FACE RISKS ASSOCIATED WITH OUR FOREIGN SALES AND OPERATIONS THAT COULD
+ADVERSELY AFFECT OUR OPERATING RESULTS
+
+     Foreign sales approximated 48% of our consolidated net sales in the
+third quarter of 2001 and 45% of our consolidated net sales in the first nine
+months of 2001. In addition, we support manufacturing operations in Italy,
+Singapore, Japan and Scotland. Our foreign sales and foreign operations are
+subject to a variety of risks, including:
+
+     -    currency fluctuations, export duties, changes to import and export
+          regulations, and restrictions on the transfer of funds,
+
+     -    employee turnover and labor unrest,
+
+     -    longer payment cycles and greater difficulty in collecting accounts
+          receivable,
+
+     -    compliance with a variety of foreign laws, and
+
+     -    political and economic instability.
+
+These factors may adversely affect our business, results of operations and
+financial condition.
+
+IF WE FAIL TO COMPETE EFFECTIVELY IN THE HIGHLY COMPETITIVE SEMICONDUCTOR MEMORY
+INDUSTRY, OUR RESULTS OF OPERATIONS AND CASH FLOWS WOULD BE ADVERSELY AFFECTED
+
+     The semiconductor memory industry is highly competitive. We face intense
+competition from a number of companies, including Elpida Memory, Inc., Hynix
+Semiconductor, Inc., Infineon Technologies AG and Samsung Semiconductor, Inc.
+Some of these competitors are large corporations or conglomerates that may have
+greater resources to withstand downturns in the semiconductor memory market,
+invest in technology and capitalize on growth opportunities. Consolidations in
+the semiconductor memory industry could weaken our position against competitors.
+If we fail to compete effectively, our results of operations and cash flows
+would be adversely affected.
+
+PRODUCTS THAT DO NOT MEET SPECIFICATIONS OR THAT CONTAIN, OR ARE RUMORED TO
+CONTAIN, DEFECTS OR THAT ARE OTHERWISE INCOMPATIBLE WITH END USES COULD IMPOSE
+SIGNIFICANT COSTS ON US OR OTHERWISE ADVERSELY AFFECT OUR RESULTS OF OPERATIONS
+
+     Because the design and production process for semiconductor memory is
+highly complex, it is possible that we may produce products that do not comply
+with customer specifications, contain defects or are otherwise incompatible with
+end uses. If, despite design review, quality control and product qualification
+procedures, problems with nonconforming, defective or incompatible products
+occur after we have shipped such products, we could be adversely affected in one
+or both of the following ways:
+
+     -    we may need to replace product or otherwise compensate customers for
+          costs incurred or damages caused by defective or incompatible product,
+          and
+
+     -    we may encounter adverse publicity, which could cause a decrease in
+          sales of our products.
+
+                                       26
+<PAGE>
+
+IF WE DECIDE NOT TO COMPLETE OUR LEHI FABRICATION FACILITY, OR IF FUTURE EVENTS
+OCCUR WHERE WE OTHERWISE DETERMINE THAT THERE IS A PERMANENT DECLINE IN THE FAIR
+VALUE OF THE FACILITY, OUR RESULTS OF OPERATIONS COULD BE ADVERSELY AFFECTED
+
+     Timing for completion of the Lehi facility is dependent upon market
+conditions, including, but not limited to, worldwide market supply of and
+demand for semiconductor products and our operations, cash flows and
+alternative uses of capital. We continue to evaluate the carrying value of
+the facility, and as of May 31, 2001, its $1 billion carrying value was
+determined not to be impaired. If future events occur where we determine the
+carrying value of the Lehi facility to be impaired, our consolidated
+financial statements could reflect a charge to write down the carrying value
+of the facility.
+
+IF OUR SUPPLY OF MEMORY PRODUCTS FROM OUR TECH JOINT VENTURE IS INTERRUPTED, OUR
+RESULTS OF OPERATIONS COULD BE ADVERSELY AFFECTED
+
+     TECH currently supplies us with approximately 20% of our total megabits
+of memory produced. We have agreements to purchase all of the production from
+TECH subject to specific terms and conditions. TECH has historically been
+required to seek additional financing to fund its ongoing operations and
+transition to next generation technologies. Our source of supply may be
+interrupted if TECH is unable to obtain required financing. In addition, our
+supply from TECH may be interrupted if TECH experiences a disruption in its
+manufacturing process. Any reduction in supply could adversely affect our
+results of operations and cash flows.
+
+IF WE ARE UNABLE TO SUCCESSFULLY TRANSITION OUR SEMICONDUCTOR OPERATIONS TO
+300MM WAFER MANUFACTURING PROCESSES, THE RESULTS OF OUR OPERATIONS AND CASH
+FLOWS COULD BE ADVERSELY AFFECTED
+
+     We have in the past reduced our per megabit manufacturing costs by
+transitioning to larger wafer sizes. By transitioning to larger wafers, we
+should be able to produce significantly more die for each wafer at a slightly
+higher cost for each wafer, resulting in substantially reduced costs for each
+die. Several of our competitors have announced intentions to shift part or all
+of their memory manufacturing operations to 300mm wafers in the near future.
+Some of these competitors have established pilot 300mm wafer lines. If these
+competitors are able to transition operations to 300mm wafers before us, we
+could be at a cost disadvantage. Our transition to 300mm wafer processing will
+require us to make substantial capital investments, which will depend on our
+ability to generate funds from operations or to otherwise raise funds. We may
+also experience disruptions in manufacturing operations and reduced yields
+during our initial transition stage to larger wafer sizes. If we are unable to
+successfully transition to 300mm wafer processing, our results of operations and
+cash flows could be adversely affected.
+
+WE EXPECT THE DRAM MARKET TO UNDERGO CONSIDERABLE MARKET SEGMENTATION IN THE
+NEAR FUTURE. IF WE FAIL TO ACCURATELY PREDICT AND MEET MARKET DEMAND FOR VARIOUS
+PRODUCTS, THE RESULTS OF OUR OPERATIONS AND CASH FLOWS COULD BE HARMED
+
+     The DRAM market in the past has been characterized by production of
+large volumes of one dominant part type with the lowest possible megabit
+cost. We expect the DRAM market to partially change its focus from the
+production of one dominant part type to a market with several different part
+types based on a variety of new technologies. These new technologies may
+include PC133 SDRAM, Double Data Rate (DDR) DRAM, and Rambus(R) DRAM. We also
+expect to support a larger number of product densities in the future. This
+segmentation of the DRAM market is expected to continue in future periods, as
+our memory products are used in a wide variety of different products. If we
+are to maintain our large market share with major OEM customers we must offer
+a broader range of products to meet the memory requirements of these OEMs. It
+takes several months, or even years, to develop and qualify new products. If
+we are unable to accurately predict the demand for new products or the
+technologies on which these new products are based, our results of operations
+and cash flows could be adversely affected given the long lead times
+associated with product development. In addition, if we are unable to offer a
+broader range of products in a cost-effective manner, our results of
+operations and cash flows may be adversely affected.
+
+                                       27
+
+<PAGE>
+
+NEW TECHNOLOGIES COULD AFFECT DEMAND FOR OUR SEMICONDUCTOR MEMORY PRODUCTS AND
+HAVE AN ADVERSE AFFECT ON OUR RESULTS OF OPERATIONS AND CASH FLOWS
+
+     We, and our competitors, need to spend substantial resources to develop new
+semiconductor memory technologies. If our competitors introduce new products and
+processes before we do, demand for our products could decrease and our results
+of operations could be harmed. We expect our competitors will continue to
+develop new products and processes in the future. Although we will continue to
+invest substantially in our own research and development efforts, we cannot
+guarantee that our new products and processes will be competitive.
+
+
+
+
+                                       28
+
+<PAGE>
+
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Substantially all of the Company's liquid investments and long-term debt
+are at fixed interest rates; therefore, the fair value of these instruments is
+affected by changes in market interest rates. However, substantially all of the
+Company's liquid investments mature within one year. As a result, the Company
+believes that the market risk arising from its holdings of financial instruments
+is minimal. As of May 31, 2001, the Company held aggregate cash and receivables
+in foreign currency valued at approximately US $63 million and aggregate foreign
+currency liabilities valued at approximately US $453 million (including
+long-term debt denominated in Yen valued at approximately US $284 million).
+Foreign currency receivables and payables are comprised primarily of Japanese
+Yen, British Pounds, Singapore Dollars and Euros.
+
+
+                                       29
+
+<PAGE>
+
+                           PART II. OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+     On August 28, 2000, the Company filed suit against Rambus, Inc.
+("Rambus") in U.S. District Court for the District of Delaware seeking (1)
+relief under the federal antitrust laws for violations of Section 2 of the
+Sherman Act; (2) a declaratory judgment (a) that certain Rambus patents are
+not infringed by the Company, are invalid, and/or are unenforceable due to,
+among other reasons, Rambus' fraudulent conduct in misusing and enforcing
+those patents, (b) that the Company has an implied license to those patents
+and (c) that Rambus is estopped from enforcing those patents against the
+Company because of its conduct in the Joint Electron Device Engineering
+Council, and (3) damages and declaratory relief for Rambus' breach of
+contract, fraud, deceptive trade practices, negligent misrepresentation, and
+conduct requiring the application of equitable estoppel. On February 15,
+2001, Rambus filed an answer and counterclaim against the Company in Delaware
+alleging infringement of eight (8) Rambus patents subject to the Company's
+declatory judgment action. A trial date of October 29, 2001, has been set by
+the Delaware court. On September 1, 2000, Rambus filed suit against Micron
+Semiconductor GmbH in the District Court of Mannheim, Germany, alleging that
+certain SDRAM and DDR SDRAM products infringe German patent and utility model
+counterparts to European patent 525 068. On September 13, 2000, Rambus filed
+suit against Micron Europe Limited in the High Court of Justice, Chancery
+Division in London, England, alleging that certain SDRAM and DDR SDRAM
+products infringe the U.K. counterpart to European patent 525 068. On
+September 22, 2000, Rambus filed a complaint against the Company and
+Reptronic (a distributor of the Company's products) in Court of First
+Instance of Paris, France, alleging that certain SDRAM and DDR SDRAM products
+infringe the French counterpart to European patent 525 068. In its suits
+against the Company, Rambus is seeking monetary damages and injunctive
+relief. On September 29, 2000, the Company filed suit against Rambus in the
+Civil Court of Milan, Italy alleging invalidity and non-infringement of the
+Italian counterpart to European patent 525 068. On September 29, 2000, Rambus
+filed a preliminary proceeding against the Company and EBV (a distributor of
+the Company's products) in the Civil Court of Monza, Italy, alleging that
+certain SDRAM and DDR SDRAM products infringe the Italian counterpart to
+European patent 525 068, and seeking the seizure of certain materials and the
+entry of a preliminary injunction as to products manufactured at the
+Company's Avezzano, Italy, site. On October 6, 2000, pursuant to an ex parte
+proceeding, the Monza trial court ordered the seizure of certain SDRAM masks
+used at the Company's Avezzano site. On December 21, 2000, an appeals panel
+of the Court of Monza ordered that the seizure be revoked and held that the
+Monza trial court had no jurisdiction to adjudicate the matter. Despite the
+appeals panel's jurisdictional finding, the Monza trial court ordered that
+technical review proceedings continue with respect to the issue of
+preliminary injunction. On May 24, 2001, the trial judge issued a decision in
+which the court rejected Rambus' assertions of infringement and denied its
+request for a preliminary injunction. Rambus appealed the ruling to the Monza
+appeals panel and a hearing is set for July 12, 2001. On December 29, 2000,
+the Company filed suit against Rambus in the Civil Court of Avezzano, Italy,
+alleging invalidity and non-infringement of the Italian counterpart to
+European patent 1 004 956. The Company is unable to predict the outcome of
+these suits.
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+
+(a)  The following are filed as a part of this report:
+
+<TABLE>
+<CAPTION>
+     Exhibit
+     Number             Description of Exhibit
+     ------             -------------------------------------------------------
+<S>                     <C>
+     3.1                Restated Certificate of Incorporation
+</TABLE>
+
+(b)  The registrant did not file any reports on Form 8-K during the fiscal
+     quarter ended May 31, 2001.
+
+
+                                       30
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+                                        Micron Technology, Inc.
+                                        ---------------------------------------
+                                        (Registrant)
+
+
+
+
+Dated: July 10, 2001                    /s/ Wilbur G. Stover, Jr.
+                                        ---------------------------------------
+                                        Wilbur G. Stover, Jr., Vice President of
+                                        Finance and Chief Financial Officer
+                                        (Principal Financial and Accounting
+                                        Officer)
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,794 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10Q
+<TEXT>
+<PAGE>
+
+                                UNITED STATES-
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                   FORM 10-Q
+
+(Mark One)
+ [X]         QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+
+                 For the quarterly period ended March 31, 2002
+
+                                      OR
+
+ [_]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                       Commission file number:  0-20853
+
+                                  ANSYS, Inc.
+            (exact name of registrant as specified in its charter)
+
+                      DELAWARE                   04-3219960
+           (State or other jurisdiction of      (IRS Employer
+           incorporation or organization)       Identification No.)
+
+           275 Technology Drive, Canonsburg, PA       15317
+           (Address of principal executive offices)   (Zip Code)
+
+                                 724-746-3304
+             (Registrant's telephone number, including area code)
+
+           Indicate by a check mark whether the registrant (1) has filed all
+           reports required to be filed by Section 13 or 15(d) of the Securities
+           Exchange Act of 1934 during the preceding 12 months (or for such
+           shorter period that the registrant was required to file such
+           reports), and (2) has been subject to such filing requirements for
+           the past 90 days.
+           Yes   X     No
+                ----     ----
+
+           The number of shares of the Registrant's Common Stock, par value $.01
+           per share, outstanding as of May 3, 2002 was 14,740,067 shares.
+
+                                                                               1
+<PAGE>
+
+                          ANSYS, INC. AND SUBSIDIARIES
+
+                                     INDEX
+                                     -----
+
+<TABLE>
+<CAPTION>
+                                                                           Page No.
+                                                                           --------
+<S>                                                                        <C>
+PART I.     FINANCIAL INFORMATION
+
+Item 1.     Financial Statements
+
+            Condensed Consolidated Balance Sheets - March 31, 2002 and
+            December 31, 2001                                                   3
+
+            Condensed Consolidated Statements of Income - Three Months
+            Ended March 31, 2002 and 2001                                       4
+
+            Condensed Consolidated Statements of Cash Flows - Three
+            Months Ended March 31, 2002 and 2001                                5
+
+            Notes to Condensed Consolidated Financial Statements               6-8
+
+            Independent Accountants' Report                                     9
+
+Item 2.     Management's Discussion and Analysis of Financial Condition       10-14
+            and Results of Operations
+
+Item 3.     Quantitative and Qualitative Disclosures Regarding Market
+            Risk - No Significant Changes
+
+PART II.    OTHER INFORMATION
+
+Item 1.     Legal Proceedings                                                  15
+
+Item 2.     Changes in Securities                                              15
+
+Item 4.     Submission of Matters to a Vote of Security Holders                15
+
+Item 6.     Exhibits and Reports Filed on Form 8-K                             16
+
+SIGNATURES                                                                     17
+
+EXHIBIT
+INDEX                                                                          18
+</TABLE>
+
+Trademarks used in this Form 10-Q: ANSYS(R) and DesignSpace(R) are registered
+trademarks of SAS IP, Inc., a wholly-owned subsidiary of ANSYS, Inc.
+
+                                                                               2
+<PAGE>
+
+                        PART I - FINANCIAL INFORMATION
+Item 1. - Financial Statements:
+                         ANSYS, INC. AND SUBSIDIARIES
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                   (in thousands, except share information)
+                                  (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                          March 31,        Dec. 31,
+                                                                            2002            2001
+                                                                        -----------      -----------
+<S>                                                                       <C>              <C>
+     ASSETS
+Current assets:
+Cash and cash equivalents                                                  $ 18,457         $ 28,545
+Short-term investments                                                       31,843           24,903
+Accounts receivable, less allowance for doubtful
+accounts of $1,640 and $1,610, respectively                                  13,057           15,352
+Other current assets                                                         12,738           12,803
+Deferred income taxes                                                         1,842            1,799
+                                                                        -----------      -----------
+          Total current assets                                               77,937           83,402
+                                                                        -----------      -----------
+Long-term investments                                                         1,100              500
+Property and equipment, net                                                   4,995            4,915
+Capitalized software costs, net                                                 693              817
+Goodwill, net                                                                18,468           16,937
+Other intangibles, net                                                        5,978            6,499
+Deferred income taxes                                                         4,577            4,692
+                                                                        -----------      -----------
+          Total assets                                                     $113,748         $117,762
+                                                                        ===========      ===========
+     LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                                                           $    406         $    624
+Accrued bonuses                                                               1,350            4,578
+Other accrued expenses and liabilities                                        6,287           13,047
+Deferred revenue                                                             26,510           25,120
+                                                                        -----------      -----------
+          Total current liabilities                                          34,553           43,369
+                                                                        -----------      -----------
+Stockholders' equity:
+Preferred stock, $.01 par value, 2,000,000 shares authorized                      -                -
+Common stock, $.01 par value; 50,000,000 shares authorized;
+16,584,758 shares issued                                                        166              166
+Additional paid-in capital                                                   39,085           37,822
+Less treasury stock, at cost: 1,890,200 and 2,071,123 shares,
+respectively                                                                (24,007)         (23,953)
+Retained earnings                                                            64,317           60,429
+Accumulated other comprehensive loss                                           (366)             (71)
+                                                                        -----------        ---------
+          Total stockholders' equity                                         79,195           74,393
+                                                                        -----------        ---------
+          Total liabilities and stockholders' equity                       $113,748         $117,762
+                                                                        ===========        =========
+</TABLE>
+
+The accompanying notes are an integral part of the condensed consolidated
+financial statements.
+
+                                                                               3
+<PAGE>
+
+                          ANSYS, INC. AND SUBIDARIES
+                  CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                     (in thousands, except per share data)
+                                  (Unaudited)
+
+                                                  Three months ended
+                                           ---------               ---------
+                                            March 31,               March 31,
+                                              2002                   2001
+                                           ----------              ---------
+Revenue:
+    Software licenses                       $  11,330              $   9,482
+    Maintenance and service                     9,935                  8,740
+                                            ---------              ---------
+     Total revenue                             21,265                 18,222
+
+Cost of sales:
+    Software licenses                           1,037                  1,110
+    Maintenance and service                     1,814                  1,553
+                                            ---------              ---------
+     Total cost of sales                        2,851                  2,663
+                                            ---------              ---------
+Gross profit                                   18,414                 15,559
+
+Operating expenses:
+    Selling and marketing                       5,161                  4,934
+    Research and development                    4,819                  3,915
+    Amortization                                  599                  1,325
+    General and administrative                  2,330                  2,571
+                                            ---------              ---------
+     Total operating expenses                  12,909                 12,745
+                                            ---------              ---------
+Operating income                                5,505                  2,814
+
+Other income                                      171                    644
+                                            ---------              ---------
+Income before income tax provision              5,676                  3,458
+
+Income tax provision                            1,788                  1,087
+                                            ---------              ---------
+Net income                                  $   3,888              $   2,371
+                                            =========              =========
+
+Earnings per share - basic:
+    Basic earnings per share                $    0.27              $    0.16
+    Weighted average shares -
+    basic                                      14,588                 14,914
+
+Earnings per share - diluted:
+    Diluted earnings per share              $    0.25              $    0.15
+    Weighted average shares -
+    diluted                                    15,843                 15,493
+
+     The accompanying notes are an integral part of the condensed consolidated
+financial statements.
+
+                                                                               4
+<PAGE>
+
+                          ANSYS, INC. AND SUBSIDIARIES
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+                                  (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                    Three months ended
+                                                                                    ------------------
+                                                                                 March 31,               March 31,
+                                                                                   2002                    2001
+                                                                                 ---------              ---------
+<S>                                                                              <C>                    <C>
+Cash flows from operating activities:
+Net income                                                                       $   3,888              $   2,371
+Adjustments to reconcile net income to net cash provided by operating
+ activities:
+      Depreciation and amortization                                                  1,146                  1,964
+      Deferred income tax provision                                                     72                     85
+      Provision for bad debts                                                           49                      -
+Changes in operating assets and liabilities:
+      Accounts receivable                                                            2,246                  3,507
+      Other current assets                                                              65                    347
+      Accounts payable, accrued expenses and
+       liabilities                                                                  (5,967)                (3,908)
+      Deferred revenue                                                               1,390                  1,980
+                                                                                 ---------              ---------
+          Net cash provided by operating
+          Activities                                                                 2,889                  6,346
+                                                                                 ---------              ---------
+Cash flows from investing activities:
+      Capital expenditures                                                            (645)                  (722)
+      Acquisition payments                                                            (845)                  (150)
+      Purchases of short-term investments                                           (6,976)                (5,023)
+      Maturities of short-term investments                                              35                 21,570
+      ICEM CFD acquisition                                                          (2,591)                  (183)
+      Purchase of long-term investment                                                (600)                     -
+                                                                                 ---------              ---------
+          Net cash (used in) provided by
+          investing activities                                                     (11,622)                15,492
+
+                                                                                 ---------              ---------
+Cash flows from financing activities:
+      Proceeds from issuance of common stock
+       under Employee Stock Purchase Plan                                              136                     86
+      Purchase of treasury stock                                                    (3,317)               (11,199)
+      Proceeds from exercise of stock options                                        2,061                    451
+                                                                                 ---------              ---------
+          Net cash used in financing activities                                     (1,120)               (10,662)
+                                                                                 ---------              ---------
+  Effect of exchange rate changes on cash                                             (235)                  (195)
+                                                                                 ---------              ---------
+Net increase in cash and cash equivalents                                          (10,088)                10,981
+Cash and cash equivalents, beginning of period                                      28,545                  6,313
+                                                                                 ---------              ---------
+Cash and cash equivalents, end of period                                         $  18,457              $  17,294
+                                                                                 =========              =========
+Supplemental disclosures of cash flow
+information:
+  Cash paid during the period for:
+    Income taxes                                                                 $   2,466               $ 1,590
+                                                                                 =========               ========
+</TABLE>
+
+The accompanying notes are an integral part of the condensed consolidated
+financial statements.
+
+                                                                               5
+<PAGE>
+
+                         ANSYS, INC. AND SUBSIDIARIES
+             NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                March 31, 2002
+                                  (UNAUDITED)
+
+1.   BASIS OF PRESENTATION
+
+The accompanying unaudited condensed consolidated financial statements included
+herein have been prepared by ANSYS, Inc. (the "Company") in accordance with
+accounting principles generally accepted in the United States of America for
+interim financial information for commercial and industrial companies and the
+instructions to Form 10-Q and Rule 10-01 of Regulation S-X.  The financial
+statements as of and for the three months ended March 31, 2002 should be read in
+conjunction with the Company's consolidated financial statements (and notes
+thereto) included in the Company's Annual Report on Form 10-K for the year ended
+December 31, 2001.  Accordingly, the accompanying statements do not include all
+of the information and footnotes required by accounting principles generally
+accepted in the United States of America for complete financial statements.  In
+the opinion of management, all adjustments considered necessary for a fair
+presentation of the financial statements have been included, and all adjustments
+are of a normal and recurring nature.  Operating results for the three months
+ended March 31, 2002 are not necessarily indicative of the results that may be
+expected for the year ending December 31, 2002.
+
+2.   Accumulated Other Comprehensive Income
+
+As of March 31, 2002 and December 31, 2001, accumulated other comprehensive
+income, as reflected on the condensed consolidated balance sheets, was comprised
+of foreign currency translation adjustments.
+
+Comprehensive income for the three-month periods ended March 31, 2002 and 2001
+was $3,593,000 and $2,175,000, respectively.
+
+3.   Other Current Assets
+
+The Company reports accounts receivable related to the portion of annual lease
+licenses and software maintenance that has not yet been recognized as revenue as
+a component of other current assets.  These amounts totaled $9.1 million and
+$10.3 million as of March 31, 2002 and December 31, 2001, respectively.
+
+                                                                               6
+<PAGE>
+
+4.   Recently Issued Accounting Pronouncements
+
+Effective January 1, 2002, the Company adopted Statement of Financial Accounting
+Standard No. 142 (Statement 142), "Goodwill and Other Intangible Assets," for
+existing goodwill and other intangible assets, including the non-amortization
+provisions of this standard arising from business combinations after June 30,
+2001.  This standard eliminates the amortization of goodwill and intangible
+assets with indefinite useful lives and requires annual testing for impairment.
+This standard also requires the assignment of assets acquired and liabilities
+assumed, including goodwill, to reporting units for purposes of the annual
+impairment test.  As of March 31, 2002 and December 31, 2001, ANSYS had net
+unamortized goodwill of $18.5 million and $16.9 million, respectively.  The
+Company expects to complete the required transitional goodwill impairment test
+during the quarter ended June 30, 2002.  The following table sets forth the
+condensed consolidated pro forma results of operations for the three-month
+periods ended March 31, 2002 and 2001 as if Statement 142 had been in effect for
+both periods:
+
+                                      Three Months Ended      Three Months Ended
+                                        March 31, 2002           March 31, 2001
+                                     --------------------     ------------------
+
+Reported net income                                $3,888                 $2,371
+Add back: Goodwill and trademark
+ amortization, net of tax                               -                    633
+
+Adjusted net income                                $3,888                 $3,004
+
+Earnings per share-basic:
+Reported net income                                $ 0.27                 $ 0.16
+Goodwill and trademark amortization                     -                    .04
+Adjusted net income                                $ 0.27                 $ 0.20
+
+Earnings per share-diluted:
+Reported net income                                $ 0.25                 $ 0.15
+Goodwill and trademark amortization                     -                    .04
+Adjusted net income                                $ 0.25                 $ 0.19
+
+                                                                               7
+<PAGE>
+
+As of March 31, 2002, the Company's intangible assets are classified as follows:
+
+                                  Gross Carrying            Accumulated
+           (in thousands)             Amount                Amortization
+
+Amortized intangible assets:
+ Core technology                    $     4,335                   $(1,435)
+ Non-compete agreements                   2,280                      (521)
+ Customer List                            1,407                      (445)
+                                    -----------             -------------
+     Total                          $     8,022                   $(2,401)
+                                    ===========             =============
+
+Unamortized intangible assets:
+  Trademark                         $       357
+                                    ===========
+
+Amortization expense for the amortized intangible assets reflected above is
+expected to be approximately $1,743,000, $1,482,000, $961,000, $738,000 and
+$199,000 for the years ending December 31, 2002, 2003, 2004, 2005 and 2006,
+respectively.
+
+                                                                               8
+<PAGE>
+
+                        INDEPENDENT ACCOUNTANTS' REPORT
+                        -------------------------------
+
+
+To the Board of Directors and Stockholders of
+ANSYS, Inc.
+Canonsburg, Pennsylvania
+
+We have reviewed the accompanying condensed consolidated balance sheet of ANSYS,
+Inc. and subsidiaries (the "Company") as of March 31, 2002, and the related
+condensed consolidated statements of income and cash flows for the three-month
+period then ended.  These financial statements are the responsibility of the
+Company's management.
+
+We conducted our review in accordance with standards established by the American
+Institute of Certified Public Accountants.  A review of interim financial
+information consists principally of applying analytical procedures to financial
+data and of making inquiries of persons responsible for financial and accounting
+matters.  It is substantially less in scope than an audit conducted in
+accordance with generally accepted auditing standards, the objective of which is
+the expression of an opinion regarding the financial statements taken as a
+whole.  Accordingly, we do not express such an opinion.
+
+Based on our review, we are not aware of any material modifications that should
+be made to such condensed consolidated financial statements for them to be in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+
+
+
+/s/ Deloitte & Touche LLP
+-----------------------------
+Pittsburgh, Pennsylvania
+April 12, 2002
+
+                                                                               9
+<PAGE>
+
+Item 2.
+
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ANSYS, Inc. (the "Company") develops and globally markets engineering simulation
+software and technologies widely used by engineers and designers across a broad
+spectrum of industries, including aerospace, automotive, manufacturing,
+electronics and biomedical.  Headquartered at Southpointe in Canonsburg,
+Pennsylvania, the Company employs approximately 460 people and focuses on the
+development of open and flexible solutions that enable users to analyze designs
+directly on the desktop, providing a common platform for fast, efficient and
+cost-conscious product development, from design concept to final-stage testing
+and validation.  The Company distributes its ANSYS(R), DesignSpace(R),
+AI*Solutions, ICEM CFD Engineering and CADOE products through a network of
+channel partners in 37 countries, in addition to its own direct sales offices in
+18 strategic locations throughout the world.  The following discussion should be
+read in conjunction with the accompanying unaudited condensed consolidated
+financial statements and notes thereto for the three-month periods ended March
+31, 2002 and 2001, and with the Company's audited financial statements and notes
+thereto for the year ended December 31, 2001 filed in Form 10-K with the
+Securities and Exchange Commission.
+
+This Form 10-Q contains forward-looking statements within the meaning of Section
+27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act
+of 1934, including statements below concerning future trends regarding the
+Company's intentions related to continued investments in sales and marketing and
+research and development, plans related to future capital spending, the
+sufficiency of existing cash and cash equivalent balances to meet future working
+capital and capital expenditure requirements, estimates of tax rates in future
+periods, as well as statements which contain such words as "anticipates",
+"intends", "believes", "plans" and other similar expressions.  The Company's
+actual results could differ materially from those set forth in forward-looking
+statements. Certain factors that might cause such a difference include risks and
+uncertainties detailed in the "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" section in the 2001 Annual Report to
+Shareholders and in "Certain Factors Regarding Future Results" included herein
+as Exhibit 99 to this Form 10-Q.
+
+
+Results of Operations
+
+Three Months Ended March 31, 2002 Compared to Three Months Ended March 31, 2001
+
+Revenue.  The Company's total revenue increased 16.7% in the 2002 first quarter
+to $21.3 million from $18.2 million in the 2001 first quarter.  Reported revenue
+for the prior year first quarter was affected by a modification of the Company's
+revenue recognition policy related to noncancellable annual software leases.
+
+                                                                              10
+<PAGE>
+
+As previously disclosed, in 2001 the Company modified its revenue recognition
+policy for annual software leases to comply with Technical Practice Aid ("TPA")
+5100.53 "Fair Value of PCS in a Short-Term Time-Based License and Software
+Revenue Recognition," issued by the American Institute of Certified Public
+Accountants. Prior to the revenue recognition modification, the Company
+recognized a portion of the license fee from annual software leases upon
+inception or renewal of the lease, while the remaining portion was recognized
+ratably over the lease period. The TPA requires all revenue from noncancellable
+annual software lease licenses to be recognized ratably over the lease term. Had
+this revenue recognition policy modification been initially made in January
+2002, first quarter 2002 revenue would have been approximately $19.6 million.
+
+Software license revenue increased 19.5% in the 2002 quarter to $11.3 million
+from $9.5 million in the 2001 quarter.  The quarterly revenue increase was
+primarily the result of an increase in license revenue related to annual
+software leases, which substantially resulted from the adverse impact of the
+revenue recognition policy modification discussed above on reported revenue in
+the first quarter of 2001.  Also contributing to the increase in the 2002
+quarter were higher sales of paid-up software licenses.
+
+Maintenance and service revenue increased 13.7% in the 2002 quarter to $9.9
+million from $8.7 million in the 2001 quarter. This increase was primarily the
+result of maintenance contracts sold in association with increased paid-up
+license sales in recent quarters, as well as an increase in consulting revenue
+provided by the Company's environmental business unit.
+
+Of the Company's total revenue in the 2002 quarter, approximately 56.1% and
+43.9%, respectively, were attributable to international and domestic sales, as
+compared to 56.5% and 43.5%, respectively, in the 2001 quarter.
+
+Cost of Sales and Gross Profit.  The Company's total cost of sales increased
+7.1% to $2.9 million, or 13.4% of total revenue, in the 2002 first quarter from
+$2.7 million, or 14.6% of total revenue, in the 2001 first quarter.  The
+increase in the 2002 quarter was principally attributable to costs associated
+with engineering consulting services provided by the Company's environmental
+business unit.
+
+As a result of the foregoing, the Company's gross profit increased 18.3% to
+$18.4 million in the 2002 quarter from $15.6 million in the 2001 quarter.
+
+                                                                              11
+<PAGE>
+
+Selling and Marketing.  Total selling and marketing expenses increased from $4.9
+million, or 27.1% of total revenue in the 2001 quarter, to $5.2 million, or
+24.3% of total revenue in the 2002 quarter.  The increase resulted from higher
+salaries and related headcount costs associated with the addition of personnel
+within the Company's direct sales and sales support organization.  These
+additions include personnel associated with the Company's recently established
+direct sales offices in India and France. The Company anticipates that it will
+continue to make significant investments throughout the remainder of 2002 in its
+global sales and marketing organization to strengthen its competitive position,
+to enhance major account sales activities and to support its worldwide sales
+channels and marketing strategies.
+
+Research and Development.  Research and development expenses increased 23.1% in
+the 2002 first quarter to $4.8 million, or 22.7% of total revenue, from $3.9
+million, or 21.5% of total revenue, in the 2001 quarter. The increase primarily
+resulted from additional headcount and related costs, across all business units,
+related to the development and introduction of new and enhanced products.  The
+Company has traditionally invested significant resources in research and
+development activities and intends to continue to make significant investments
+in this area.
+
+Amortization.  Amortization expense decreased to $599,000 in the 2002 first
+quarter from $1.3 million in the prior year quarter.  The reduction primarily
+related to the adoption of Statement of Financial Accounting Standards No. 142,
+Goodwill and Other Intangible Assets.  This standard eliminates the amortization
+of goodwill and other intangible assets with indefinite useful lives and
+requires annual testing for impairment.  Had this standard been in effect for
+the first quarter of 2001, amortization expense in that quarter would have been
+approximately $513,000.
+
+General and Administrative.  General and administrative expenses decreased from
+$2.6 million, or 14.1% of total revenue in the 2001 quarter, to $2.3 million, or
+11.0% of total revenue in the 2002 quarter.  The decrease was primarily the
+result of lower legal expenses in the 2002 quarter.
+
+Other Income.  Other income decreased to $171,000 in the 2002 first quarter from
+$644,000 in the prior year quarter.  The decrease was primarily attributable to
+a reduced interest rate environment in the 2002 first quarter as compared to
+that in the 2001 first quarter.
+
+Income Tax Provision. The Company's effective rates of taxation were 31.5% in
+the 2002 quarter and 31.4% in the 2001 quarter. These rates are lower than the
+federal and state combined statutory rate as a result of the utilization of a
+foreign sales corporation, as well as the generation of research and
+experimentation credits.  The Company expects that the effective tax rate will
+remain in the range of 29.5% - 31.5% for the remainder of the year.
+
+                                                                              12
+<PAGE>
+
+Net Income.  The Company's net income in the 2002 quarter was $3.9 million as
+compared to $2.4 million in the 2001 quarter.  Diluted earnings per share
+increased to $.25 in the 2002 quarter as compared to $.15 in the 2001 quarter as
+a result of the increase in net income.  The weighted average shares used in
+computing diluted earnings per share were 15.8 million in the 2002 quarter and
+15.5 million in the 2001 quarter.
+
+Excluding acquisition-related amortization, net income increased 28.4% to $4.2
+million, or diluted earnings per share of $0.26.
+
+
+Liquidity and Capital Resources
+
+As of March 31, 2002, the Company had cash, cash equivalents and short-term
+investments totaling $50.3 million and working capital of $43.4 million, as
+compared to cash, cash equivalents and short-term investments of $53.4 million
+and working capital of $40.0 million at December 31, 2001.  The short-term
+investments are generally investment grade and liquid, which allows the Company
+to minimize interest rate risk and to facilitate liquidity in the event an
+immediate cash need arises.
+
+The Company's operating activities provided cash of $2.9 million for the three
+months ended March 31, 2002 and $6.3 million for the three months ended March
+31, 2001.  The decrease in the company's cash flow from operations in the 2002
+three-month period as compared to the comparable 2001 period was primarily a
+result of the payment of approximately $2.0 million associated with the
+settlement of a dispute with a former distributor.  This amount was fully
+accrued in the third quarter of 2001.  Also contributing to the reduction in
+cash generated from operating activities were higher income tax payments.  Net
+cash generated by operating activities provided sufficient resources to fund
+increased headcount and capital needs, as well as to sustain share repurchase
+activity under the Company's ongoing stock repurchase program.
+
+The Company's investing activities used cash of $11.6 million in the three
+months ended March 31, 2002 and provided cash of $15.5 million in the three
+months ended March 31, 2001.  In the 2002 three-month period, cash outlays
+primarily related to purchases of short-term investments and a final payment of
+$2.6 million related to the 2000 acquisition of ICEM CFD Engineering.  In the
+2001 three-month period, cash was primarily generated from net maturities of
+short-term investments. The Company currently plans additional capital spending
+of approximately $1.9 million throughout the remainder of 2002; however, the
+level of spending will be dependent upon various factors, including growth of
+the business and general economic conditions.
+
+Financing activities used cash of approximately $1.1 million and $10.7 million
+in the three months ended March 31, 2002 and 2001, respectively.  In both
+periods, cash outlays related to the Company's share repurchase program were
+partially offset by proceeds from the issuance of common stock under employee
+stock purchase and option plans.
+
+                                                                              13
+<PAGE>
+
+The Company believes that existing cash and cash equivalent balances, together
+with cash generated from operations, will be sufficient to meet the Company's
+working capital and capital expenditure requirements through the remainder of
+fiscal 2002.  The Company's cash requirements in the future may also be financed
+through additional equity or debt financings.  There can be no assurance that
+such financings can be obtained on favorable terms, if at all.
+
+Critical Accounting Policies
+
+ANSYS believes the following critical accounting policies affect its more
+significant judgments and estimates used in the preparation of its consolidated
+financial statements. ANSYS recognizes revenue in accordance with SOP 97-2,
+Software Revenue Recognition, and related interpretations.  Revenue for
+perpetual licenses is recognized upon delivery of the authorization keys to the
+end user, acceptance by the customer and receipt of a signed contractual
+obligation, provided that no significant Company obligations remain and
+collection of the receivable is probable.  Revenue for software lease licenses
+is recognized ratably over the period of the lease contract.  Revenue is
+recorded at the net price to ANSYS for sales through the ANSYS distribution
+network.  The Company estimates the value of post-contract customer support sold
+together with perpetual licenses by reference to published price lists which
+generally represent the prices at which customers could purchase renewal
+contracts for such services.  ANSYS maintains allowances for doubtful accounts
+for estimated losses resulting from the inability of its customers to make
+required payments. If the financial condition of ANSYS customers, including
+ANSYS distributors, were to deteriorate, resulting in an impairment of their
+ability to make payments, additional allowances may be required.  ANSYS
+capitalizes internal labor costs associated with the development of product
+enhancements subsequent to the determination of technological feasibility.
+Amortization of capitalized software costs, both for internally developed as
+well as for purchased software products, is computed on a product-by-product
+basis over the estimated economic life of the product, which is generally three
+years.  The Company periodically reviews the carrying value of capitalized
+software and impairments will be recognized in the results of operations if the
+expected future undiscounted operating cash flow derived from the capitalized
+software is less than its carrying value.
+
+                                                                              14
+<PAGE>
+
+                          PART II - OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+         The Company is subject to various legal proceedings from time to time
+         that arise in the ordinary course of business. Each of these matters is
+         subject to various uncertainties, and it is possible that these matters
+         may be resolved unfavorably to the Company.
+
+Item 2.  Changes in Securities
+
+         (c) The following information is furnished in connection with
+         securities sold by the Registrant during the period covered by this
+         Form 10-Q which were not registered under the Securities Act. The
+         transactions constitute sales of the Registrant's Common Stock, par
+         value $.01 per share, upon the exercise of vested options issued
+         pursuant to the Company's 1994 Stock Option and Grant Plan, issued in
+         reliance upon the exemption from registration under Rule 701
+         promulgated under the Securities Act and issued prior to the Registrant
+         becoming subject to the reporting requirements of Section 13 or 15(d)
+         of the Exchange Act of 1934, as amended.
+
+
+                          Number of      Number of         Aggregate
+         Month/Year         Shares      Individuals     Exercise Price
+         ----------       ---------     -----------     --------------
+
+         March 2002              750           1          $   7,500.00
+
+
+Item 3.  Defaults upon Senior Securities
+
+         Not Applicable.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+         Not Applicable.
+
+Item 5.  Other information
+
+         Not Applicable.
+
+                                                                              15
+<PAGE>
+
+Item 6.  Exhibits and Reports Filed on Form 8-K
+
+         (a)   Exhibits.
+
+                  15   Independent Accountants' Letter Regarding
+                       Unaudited Financial Information
+                  99   Certain Factors Regarding Future Results
+
+         (b)   Reports on Form 8-K.
+
+         The Company filed a Current Report on Form 8-K with the Securities and
+         Exchange Commission on March 19, 2002 to report a change in the
+         Company's certifying accountants from PricewaterhouseCoopers LLP to
+         Deloitte and Touche LLP.
+
+                                                                              16
+<PAGE>
+
+                                  SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                  ANSYS, Inc.
+
+Date: May 3, 2002                 By:  /s/ James E. Cashman, III
+                                  ------------------------------
+                                       James E. Cashman, III
+                                       President and Chief
+                                       Executive Officer
+
+Date: May 3, 2002                 By:  /s/ Maria T. Shields
+                                  -------------------------
+                                       Maria T. Shields
+                                       Chief Financial Officer
+
+                                                                              17
+<PAGE>
+
+Item 6.
+
+                                 EXHIBIT INDEX
+                               -----------------
+
+            Exhibit
+            -------
+              No.
+              ---
+
+               15         Independent Accountants' Letter Regarding Unaudited
+                          Financial Information
+
+               99         Certain Factors Regarding Future Results
+
+                                                                              18
+
+</TEXT>
+</DOCUMENT>

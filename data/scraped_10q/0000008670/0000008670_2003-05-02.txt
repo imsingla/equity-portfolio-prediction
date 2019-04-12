@@ -1,0 +1,1400 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>march.txt
+<DESCRIPTION>FROM 10Q
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                  QUARTERLY REPORT UNDER SECTION 13 or 15 (d)
+                    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For Quarter Ended March 31, 2003    Commission File Number 1-5397
+                  ----------------                         --------
+
+
+
+                       Automatic Data Processing, Inc.
+-----------------------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+
+
+ Delaware                                                 22-1467904
+-----------------------------------------------------------------------
+(State or other jurisdiction of                (I.R.S. Employer
+incorporation or organization)                 Identification Number)
+
+
+ One ADP Boulevard, Roseland, New Jersey                       07068
+-----------------------------------------------------------------------
+(Address of principal executive offices)                  (Zip Code)
+
+
+Registrant's Telephone Number, Including Area Code  (973) 974-5000
+                                                   --------------------
+
+                              No change
+-----------------------------------------------------------------------
+Former name, former address & former fiscal year, if changed since
+last report.
+
+
+
+Indicate by check mark whether the Registrant (1) has filed all annual,
+quarterly and other reports required to be filed with the commission and (2) has
+been subject to the filing requirements for at least the past 90 days.
+
+                    X              Yes                               No
+----------------------------------     ----------------------------
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Securities and Exchange Act of 1934, as amended).
+
+                    X              Yes                               No
+----------------------------------     ----------------------------
+
+As of March 31, 2003 there were 598,029,348 common shares outstanding.
+
+
+<PAGE>
+
+
+PART I.  FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS
+
+                  AUTOMATIC DATA PROCESSING, INC. AND SUBSIDIARIES
+                        CONSOLIDATED STATEMENTS OF EARNINGS
+                   (In thousands, except per share amounts)
+                                   (Unaudited)
+
+                                Three Months Ended      Nine Months Ended
+                                      March 31,              March 31,
+                              ---------------------  ----------------------
+REVENUES:                           2003       2002        2003        2002
+                                    ----       ----        ----        ----
+Revenues, other than interest
+ on funds held for clients
+ and PEO revenues             $1,704,454 $1,691,261  $4,691,274  $4,633,659
+
+Interest on funds held for
+ clients                          99,108    107,880     276,735     331,140
+
+PEO revenues (A)                 102,216     70,895     267,449     194,148
+                              ---------- ----------  ----------  ----------
+
+TOTAL REVENUES                 1,905,778  1,870,036   5,235,458   5,158,947
+                              ---------- ----------  ----------  ----------
+
+EXPENSES:
+Operating expenses               796,580    772,492   2,207,764   2,140,814
+
+Selling, general, and
+ administrative expenses         412,793    369,217   1,262,751   1,219,336
+
+Systems development and
+ programming costs               123,401    116,387     364,679     349,756
+
+Depreciation and amortization     67,503     73,203     203,886     211,115
+
+Other income, net                (27,499)   (33,113)   (100,472)    (84,024)
+                              ---------- ----------  ----------  ----------
+
+TOTAL EXPENSES                 1,372,778  1,298,186   3,938,608   3,836,997
+                              ---------- ----------  ----------  ----------
+EARNINGS BEFORE INCOME TAXES     533,000    571,850   1,296,850   1,321,950
+
+Provision for income taxes       203,610    219,590     495,370     508,490
+                              ---------- ----------  ----------  ----------
+
+NET EARNINGS                  $  329,390 $  352,260  $  801,480  $  813,460
+                              ========== ==========  ==========  ==========
+
+BASIC EARNINGS PER SHARE      $     0.55 $     0.57  $     1.33  $     1.31
+                              ========== ==========  ==========  ==========
+
+DILUTED EARNINGS PER SHARE    $     0.54 $     0.56  $     1.32  $     1.29
+                              ========== ==========  ==========  ==========
+
+Basic average shares
+ outstanding                     600,217    620,118     601,737     619,344
+                              ========== ==========  ==========  ==========
+
+Diluted average shares
+ outstanding                     605,340    632,307     607,911     631,706
+                              ========== ==========  ==========  ==========
+
+Dividends per common share    $   0.1200 $   0.1150  $   0.3550  $   0.3325
+                              ========== ==========  ==========  ==========
+
+(A)   Net of pass-through costs of $904,391 and $676,409 for the three months
+      ended March 31, 2003 and 2002, respectively, and $2,541,258 and $1,922,810
+      for the nine months ended March 31, 2003 and 2002, respectively.
+               See notes to the consolidated financial statements.
+
+
+<PAGE>
+
+
+               AUTOMATIC DATA PROCESSING, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                    (In thousands, except per share amounts)
+
+
+                                                (Unaudited)
+                                                  March 31,     June 30,
+Assets                                             2003            2002
+------                                         -----------    -----------
+Current assets:
+  Cash and cash equivalents                    $ 1,188,660    $   798,810
+  Short-term marketable securities                 933,670        677,005
+  Accounts receivable, net                       1,022,367      1,045,170
+  Other current assets                             348,869        296,272
+                                               -----------    -----------
+    Total current assets                         3,493,566      2,817,257
+
+Long-term marketable securities                    601,872      1,273,768
+Long-term receivables                              176,751        192,769
+Property, plant and equipment, net                 561,644        596,451
+Other assets                                       523,194        293,808
+Goodwill                                         1,511,423      1,375,654
+Intangible assets, net                             528,425        501,544
+                                               -----------    -----------
+  Total assets before funds held for clients     7,396,875      7,051,251
+Funds held for clients                          12,932,524     11,225,271
+                                               -----------    -----------
+Total assets                                   $20,329,399    $18,276,522
+                                               ===========    ===========
+
+
+Liabilities and Shareholders' Equity
+------------------------------------
+Current liabilities:
+  Accounts payable                             $   148,663    $   148,694
+  Accrued expenses and other liabilities         1,165,452      1,035,389
+  Income taxes payable                             195,925        227,019
+                                               -----------    -----------
+   Total current liabilities                     1,510,040      1,411,102
+
+Long-term debt                                      81,930         90,648
+Other liabilities                                  237,142        233,671
+Deferred income taxes                              332,798        237,633
+Deferred revenue                                   334,890        138,893
+                                               -----------    -----------
+  Total liabilities before client funds
+    obligations                                  2,496,800      2,111,947
+Client funds obligations                        12,604,743     11,050,370
+                                               -----------    -----------
+  Total liabilities                             15,101,543     13,162,317
+
+Shareholders' equity:
+  Common stock, par value $0.10 per share:
+   authorized 1,000,000 shares; issued 638,702
+   shares, respectively                             63,870         63,870
+  Capital in excess of par value                   220,397        333,371
+  Retained earnings                              6,565,569      5,977,318
+  Treasury stock, at cost: 40,673 and 22,385
+   shares, respectively                         (1,678,217)    (1,142,041)
+  Accumulated other comprehensive income (loss)     56,237       (118,313)
+                                               -----------    -----------
+    Total shareholders' equity                   5,227,856      5,114,205
+                                               -----------    -----------
+Total liabilities and shareholders' equity     $20,329,399    $18,276,522
+                                               ===========    ===========
+
+
+
+               See notes to the consolidated financial statements.
+
+
+<PAGE>
+
+
+              AUTOMATIC DATA PROCESSING, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (In thousands)
+                                   (Unaudited)
+
+                                                     Nine Months Ended
+                                                          March 31,
+                                                       2003        2002
+                                                  ----------   ----------
+Cash Flows From Operating Activities
+------------------------------------
+
+Net earnings                                      $  801,480   $  813,460
+
+Adjustments to reconcile net earnings to net
+ cash flows provided by operating activities:
+
+  Expenses not requiring outlay of cash              276,464      247,280
+
+  Changes in operating net assets                     88,448      124,188
+                                                  ----------   ----------
+
+ Net cash flows provided by operating activities   1,166,392    1,184,928
+                                                  ----------   ----------
+
+Cash Flows From Investing Activities
+------------------------------------
+Purchases of marketable securities                (2,828,261)  (4,410,232)
+Proceeds from sale of marketable securities        3,012,380    3,017,654
+Net (purchases of) proceeds from client fund
+ money market securities                          (1,310,516)      40,128
+Net change in client funds obligations             1,554,373    1,038,602
+Capital expenditures                                 (85,164)    (100,328)
+Additions to intangibles                             (64,916)     (78,538)
+Acquisitions of businesses, net of cash acquired     (99,759)    (148,260)
+Other                                                  4,394       12,677
+                                                  ----------   ----------
+
+ Net cash flows provided by (used in)
+  investing activities                               182,531     (628,297)
+                                                  ----------   ----------
+
+Cash Flows From Financing Activities
+------------------------------------
+
+Proceeds from short-term borrowings                      864          264
+Payments of debt                                      (1,254)      (3,764)
+Proceeds from stock purchase plan and exercises
+ of stock options                                     71,649      206,038
+Repurchases of common stock                         (817,104)    (624,704)
+Dividends paid                                      (213,228)    (205,855)
+                                                  ----------   ----------
+
+ Net cash flows used in financing activities        (959,073)    (628,021)
+                                                  ----------   ----------
+
+Net change in cash and cash equivalents              389,850      (71,390)
+
+Cash and cash equivalents, beginning of period       798,810    1,275,356
+                                                  ----------   ----------
+Cash and cash equivalents, end of period          $1,188,660   $1,203,966
+                                                  ==========   ==========
+
+
+
+              See notes to the consolidated financial statements.
+
+
+<PAGE>
+
+
+               AUTOMATIC DATA PROCESSING, INC. AND SUBSIDIARIES
+                NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+    (Unless otherwise noted, amounts in thousands, except per share amounts)
+                                   (Unaudited)
+
+Note 1.    Basis of Presentation
+
+The accompanying unaudited Consolidated Financial Statements reflect all
+adjustments, which in the opinion of management, are necessary for a fair
+presentation of the results for the interim periods. Adjustments are of a normal
+recurring nature. Certain reclassifications have been made to the prior period
+amounts to conform to the current period presentation. These unaudited
+Consolidated Financial Statements should be read in conjunction with the
+Consolidated Financial Statements and related notes of Automatic Data
+Processing, Inc. and Subsidiaries (ADP or the Company) as of and for the year
+ended June 30, 2002. The results of operations for the three and nine months
+ended March 31, 2003 may not be indicative of the results to be expected for the
+year ending June 30, 2003.
+
+
+Note 2. Significant Accounting Policies (Supplemental to the Notes to the
+Consolidated Financial Statements as of and for the year ended June 30, 2002)
+
+A. Revenue Recognition. A majority of the Company's revenues are attributable to
+fees for providing services (e.g., Employer Services' payroll processing fees
+and Brokerage Services' trade processing fees) as well as investment income on
+payroll funds, tax filing funds and other Employer Services client related
+funds. The Company typically enters into agreements for a fixed fee per
+transaction (e.g., number of payees). Fees associated with services are
+recognized in the period services are rendered and earned under service
+arrangements with clients where service fees are fixed or determinable and
+collectibility is reasonably assured. Interest income on collected but not yet
+remitted funds held for clients is recognized in revenues as earned.
+
+The Company also recognizes revenues associated with the sale of software
+systems and associated software licenses. For a majority of the Company's
+software sales arrangements, which provide hardware, software licenses,
+installation and post customer support, revenues are recognized ratably over the
+software license term as objective evidence of the fair values of the individual
+elements in the sales arrangement does not exist. For the remainder of sales of
+software systems, revenues are recognized when the objective evidence of the
+fair values of the individual elements of a sales arrangement containing
+hardware, software license, implementation, conversion and post-implementation
+services can be objectively determined. The amounts and timing of revenue
+recognition are determined for each element in an arrangement. As part of the
+sale of software systems, the Company recognizes revenue from the sale of
+hardware, which is recorded net of the associated costs.
+
+Postage fees for client mailings are included in revenues and the associated
+postage expenses are included in operating expenses. Professional Employer
+Organization (PEO) service revenues are included in revenues and are reported
+net of direct costs billed and incurred for PEO worksite employees, which
+primarily include payroll wages and payroll taxes.
+
+B. Internal Use Software. The Company capitalizes certain costs associated with
+computer software developed or obtained for internal use in accordance with the
+provisions of Statement of Position No. 98-1, "Accounting for the Costs of
+Computer Software Developed or Obtained for Internal Use". The Company's policy
+provides for the capitalization of external direct costs of materials and
+services associated with developing or obtaining internal use computer software.
+In addition, ADP also capitalizes certain payroll and payroll related costs for
+employees who are directly associated with internal use computer software
+projects. The amount of capitalizable payroll costs with respect to these
+employees is limited to the time directly spent on such projects. Costs
+associated with preliminary project stage activities, training, maintenance and
+all other post implementation stage activities are expensed as incurred. The
+Company also expenses internal costs related to minor upgrades and enhancements,
+as it is impractical to separate these costs from normal maintenance activities.
+Capitalized costs related to computer software developed or obtained for
+internal use are amortized over a three-year period on a straight-line basis.
+
+C. Computer Software to be Sold, Leased or Otherwise Marketed. The Company
+capitalizes certain costs of computer software to be sold, leased or otherwise
+marketed in accordance with the provisions of Statement of Financial Accounting
+Standards No. 86, "Accounting for the Costs of Computer Software to be Sold,
+Leased or Otherwise Marketed". The Company's policy provides for the
+capitalization of all software production costs upon reaching technological
+feasibility for a specific product. Technological feasibility is attained when
+software products have a completed working model whose consistency with the
+overall product design has been confirmed by testing. Costs incurred prior to
+the establishment of technological feasibility are expensed as incurred. The
+establishment of technological feasibility requires considerable judgment by
+management and in many instances is only attained a short time prior to the
+general release of the software. Upon the general release of the software
+product to customers, capitalization ceases and such costs are amortized over a
+three-year period on a straight-line basis. Maintenance related costs are
+expensed as incurred.
+
+D. Fair Value Accounting for Stock Plans. In December 2002, the Financial
+Accounting Standards Board (FASB) issued Statement of Financial Accounting
+Standards No. 148, "Accounting for Stock-Based Compensation - Transition and
+Disclosure"(SFAS No. 148) which amends Statement of Financial Accounting
+Standards No. 123, "Accounting for Stock-Based Compensation" (SFAS No. 123).
+SFAS No. 148 provides alternative methods of transition for a voluntary change
+to the fair value based method of accounting for stock-based employee
+compensation and requires disclosures in annual and interim financial
+statements of the effects of stock-based compensation as reflected below.
+
+The Company continues to account for its stock option and employee stock
+purchase plans under the recognition and measurement principles of Accounting
+Principles Board Opinion No. 25, "Accounting for Stock Issued to Employees," and
+related Interpretations. No stock-based employee compensation expense related to
+the Company's stock option and stock purchase plans is reflected in net
+earnings, as all options granted under those plans had an exercise price equal
+to the market value of the underlying common stock on the date of grant. The
+following table illustrates the effect on net earnings and earnings per share if
+the Company had applied the fair value recognition provisions of SFAS No. 123 to
+stock-based employee compensation.
+
+
+<PAGE>
+
+
+                                    Three Months Ended    Nine Months Ended
+                                          March 31,            March 31,
+                                      2003      2002        2003      2002
+                                    --------  --------    --------  --------
+Net earnings, as reported           $329,390  $352,260    $801,480  $813,460
+Deduct: Total stock-based employee
+  compensation expense determined
+  using the fair value based method
+  for all awards, net of related
+  tax effects                        (28,851)  (27,037)    (93,722)  (89,473)
+                                    --------  --------    --------  --------
+
+Pro forma net earnings              $300,539  $325,223    $707,758  $723,987
+                                    ========  ========    ========  ========
+
+Earnings per share:
+  Basic - as reported                  $0.55     $0.57       $1.33     $1.31
+                                       =====     =====       =====     =====
+  Basic - pro forma                    $0.50     $0.52       $1.18     $1.17
+                                       =====     =====       =====     =====
+
+  Diluted - as reported                $0.54     $0.56       $1.32     $1.29
+                                       =====     =====       =====     =====
+  Diluted - pro forma                  $0.50     $0.51       $1.17     $1.15
+
+
+E. Changes in Accounting Policies
+
+In November 2002, the FASB issued Interpretation No. 45, "Guarantor's Accounting
+and Disclosure Requirements for Guarantees, Including Indirect Guarantees of
+Indebtedness of Others" which elaborates on the disclosures to be made by a
+guarantor in its interim and annual financial statements about its obligations
+under certain guarantees that it has issued. It also clarifies that a guarantor
+is required to recognize, at the inception of a guarantee, a liability for the
+fair value of the obligation undertaken in issuing the guarantee. The initial
+recognition and measurement provisions of this Interpretation are applicable on
+a prospective basis to guarantees issued or modified after December 31, 2002.
+The disclosure requirements in this Interpretation are effective for financial
+statements of interim or annual periods ending after December 15, 2002. The
+Company has provided information regarding commitments and contingencies
+relating to guarantees in Note 10. There have been no material commitments and
+contingencies requiring recognition in the Consolidated Financial Statements
+since December 31, 2002.
+
+In June 2002, the FASB issued Statement of Financial Accounting Standards No.
+146, "Accounting for Costs Associated with Exit or Disposal Activities" (SFAS
+No. 146), which nullifies Emerging Issues Task Force Issue No. 94-3 (EITF 94-3),
+"Liability Recognition for Certain Employee Termination Benefits and Other Costs
+to Exit an Activity (including Certain Costs Incurred in a Restructuring)." SFAS
+No. 146 requires that a liability for a cost associated with an exit or disposal
+activity be recognized when the liability is incurred. Under EITF 94-3, a
+liability for an exit cost as defined in EITF 94-3 was recognized at the date of
+an entity's commitment to an exit plan. The provisions of SFAS No. 146 are
+effective and are being applied to all exit or disposal activities initiated
+since December 31, 2002. These provisions affect the timing of the recognition
+of the Company's exit and disposal costs.
+
+F. New Accounting Pronouncements
+
+In March 2003, the EITF published Issue No. 00-21 "Accounting for Revenue
+Arrangements with Multiple Deliverables" (EITF 00-21). This Issue addresses
+certain aspects of the accounting by a vendor for arrangements under which it
+performs multiple revenue-generating activities and how to determine whether
+such an arrangement involving multiple deliverables contains more than one unit
+of accounting for purposes of revenue recognition. The guidance in this Issue is
+effective for revenue arrangements entered into in fiscal periods beginning
+after June 15, 2003, accordingly, the Company will adopt EITF 00-21 on July 1,
+2003. The Company does not expect EITF 00-21 to have a material impact on
+the Consolidated Financial Statements.
+
+Note 3.    Earnings Per Share (EPS)
+
+                               For the periods ended March 31, 2003
+                      ----------------------------------------------------
+                          Three Months Ended          Nine Months Ended
+                      ------------------------    ------------------------
+                      Net       Average           Net       Average
+                      Earnings  Shares    EPS     Earnings  Shares   EPS
+                      --------  ------    ---     --------  ------   ---
+Basic                 $329,390  600,217  $0.55    $801,480  601,737  $1.33
+
+Effect of zero coupon
+ subordinated notes        293    1,639                908    1,718
+
+Effect of stock
+ options                     -    3,484                  -    4,456
+                      --------  -------           --------  -------
+
+Diluted               $329,683  605,340  $0.54    $802,388  607,911  $1.32
+                      ========  =======  =====    ========  =======  =====
+
+                              For the periods ended March 31, 2002
+                      -----------------------------------------------------
+                         Three Months Ended         Nine Months Ended
+                      -------------------------   -------------------------
+                      Net       Average           Net        Average
+                      Earnings  Shares    EPS     Earnings   Shares   EPS
+                      --------  -------   ---     --------   ------   ---
+
+Basic                 $352,260  620,118   $0.57   $813,460   619,344  $1.31
+
+Effect of zero coupon
+ subordinated notes        373    2,204              1,253     2,438
+
+Effect of stock
+ options                     -    9,985                  -     9,924
+                      --------  -------           --------   -------
+
+Diluted               $352,633  632,307   $0.56   $814,713   631,706  $1.29
+                      ========  =======   =====   ========   =======  =====
+
+
+Note 4.    Other Income, net
+
+                                 Three Months Ended     Nine Months Ended
+                                      March 31,              March 31,
+                                --------------------  -------------------
+                                   2003        2002       2003      2002
+                                   ----        ----       ----      ----
+Interest income on corporate
+  funds                         $(21,529)   $(26,317) $ (95,581) $(84,142)
+Interest expense                   2,198       2,683     17,652    16,051
+Realized gains on available-
+  for-sale securities             (9,365)    (12,220)   (25,957)  (19,534)
+Realized losses on available-
+  for-sale securities              1,197       2,741      3,414     3,601
+                                --------    --------   --------  --------
+
+Other income, net               $(27,499)   $(33,113) $(100,472) $(84,024)
+                                ========    ========  =========  ========
+
+Proceeds from the sale of available-for-sale securities were $0.9 billion and
+$1.9 billion for the three months ended March 31, 2003 and 2002, respectively,
+and $3.0 billion for the nine months ended March 31, 2003 and 2002.
+
+
+<PAGE>
+
+
+Note 5.   Comprehensive Income
+
+                                Three Months Ended      Nine Months Ended
+                                      March 31,             March 31,
+                                -------------------    ------------------
+                                   2003       2002        2003      2002
+                                   ----       ----        ----      ----
+Net earnings                    $329,390   $352,260    $801,480  $813,460
+Other comprehensive income:
+Foreign currency translation
+ adjustments                      42,691     (8,903)     82,364    38,515
+Unrealized gains(losses) on
+ available-for-sale securities,
+ net                              (4,182)   (75,352)     92,186   (40,410)
+                                --------   --------    --------  --------
+Total comprehensive income      $367,899   $268,005    $976,030  $811,565
+                                ========   ========    ========  ========
+
+
+Note 6.    Interim Financial Data by Segment
+
+Employer Services, Brokerage Services and Dealer Services are the Company's
+largest business units. ADP evaluates performance of its business units based on
+operating results before interest on corporate funds, foreign currency gains and
+losses and income taxes. Certain revenues and expenses are charged to business
+units at a standard rate for management and motivation reasons. Other costs are
+recorded based on management responsibility. Prior year's business unit revenues
+and earnings before income taxes have been adjusted to reflect updated fiscal
+year 2003 budgeted foreign exchange rates. "Other" consists primarily of Claims
+Services, miscellaneous processing services and corporate. Reconciling items for
+revenues and earnings before income taxes include foreign exchange differences
+between the actual foreign exchange rates and the fiscal year 2003 budgeted
+foreign exchange rates and the adjustment for the difference between actual
+interest income earned on invested funds held for clients and interest credited
+to Employer Services at a standard rate of 6%. The business unit results also
+include a cost of capital charge related to the funding of acquisitions and
+other investments. This charge is eliminated in consolidation and as such
+represents a reconciling item to earnings before income taxes.
+
+Business Segment Results:
+
+(In millions)                                 Revenues
+                            -------------------------------------------
+                             Three Months Ended       Nine Months Ended
+                                  March 31,               March 31,
+                            -------------------      ------------------
+                              2003        2002         2003       2002
+                            ------      ------       ------     ------
+
+     Employer Services      $1,245      $1,173       $3,317     $3,169
+     Brokerage Services        396         460        1,065      1,185
+     Dealer Services           203         176          587        525
+     Other                      86          94          317        319
+      Reconciling items:
+        Foreign exchange        34          (1)          68          3
+        Client fund interest   (58)        (32)        (119)       (42)
+                            ------      ------       ------     ------
+     Total revenues         $1,906      $1,870       $5,235     $5,159
+                            ======      ======       ======     ======
+
+
+<PAGE>
+
+
+(In millions)                    Earnings Before Income Taxes
+                            ------------------------------------------
+                            Three Months Ended       Nine Months Ended
+                                 March 31,                March 31,
+                            ------------------       -----------------
+                              2003        2002         2003      2002
+                            ------      ------       ------    ------
+     Employer Services      $  444      $  386       $  980    $  875
+     Brokerage Services         44          87          133       217
+     Dealer Services            35          30           98        87
+     Other                      36          66          113        94
+      Reconciling items:
+        Foreign exchange         6          (1)           8         -
+        Client fund interest   (58)        (32)        (119)      (42)
+        Cost of capital
+         charge                 26          36           83        91
+                            ------      ------       ------    ------
+     Total earnings before
+       income taxes         $  533      $  572       $1,296    $1,322
+                            ======      ======       ======    ======
+
+
+Note 7. Corporate Investments and Funds Held for Clients
+
+                                March 31, 2003             June 30, 2002
+                          ------------------------   ------------------------
+                               Cost     Fair Value        Cost     Fair Value
+                          -----------  -----------   -----------  -----------
+Money market securities
+ and other cash
+ equivalents:
+  Corporate investments   $ 1,188,660  $ 1,188,660   $   798,810  $   798,810
+  Funds held for clients    4,543,821    4,543,821     3,319,646    3,319,646
+                          -----------   ----------   -----------  -----------
+
+Total money market
+ securities and other
+ cash equivalents           5,732,481    5,732,481     4,118,456    4,118,456
+                          -----------  -----------   -----------  -----------
+
+Available-for-sale
+  securities:
+  Corporate investments     1,510,460    1,535,542     1,916,896    1,950,773
+  Funds held for clients    8,061,922    8,388,703     7,730,724    7,905,625
+                          -----------  -----------   -----------  -----------
+
+Total available-for-sale
+  securities                9,572,382    9,924,245     9,647,620    9,856,398
+                          -----------  -----------   -----------  -----------
+
+Total corporate investments
+ and funds held for
+ clients                  $15,304,863  $15,656,726   $13,766,076  $13,974,854
+                          ===========  ===========   ===========  ===========
+
+All of the Company's marketable securities are considered to be
+"available-for-sale" at March 31, 2003 and June 30, 2002 and accordingly, are
+carried on the Consolidated Balance Sheets at fair value.
+
+
+
+<PAGE>
+
+
+Note 8. Goodwill and Intangible Assets, net
+
+Changes in goodwill for the nine months ended March 31, 2003 are as follows:
+
+                     Employer   Brokerage  Dealer
+                     Services   Services   Services   Other      Total
+                     --------   --------   --------  ------      -----
+Balance as of
+ June 30, 2002       $751,451   $348,960   $182,642  $ 92,601  $1,375,654
+
+Additions              57,785      6,054     27,897     5,514      97,250
+
+Cumulative
+ translation
+  adjustments          32,250        302        449     5,518      38,519
+                     --------   --------   --------  --------  ----------
+Balance as of
+ March 31, 2003      $841,486   $355,316   $210,988  $103,633  $1,511,423
+                     ========   ========   ========  ========  ==========
+
+Components of intangible assets are as follows:
+
+                                     March 31,             June 30,
+                                        2003                 2002
+                                    ----------           ----------
+Intangible assets:
+ Software licenses                  $  513,320           $  462,474
+ Customer contracts and lists          439,318              384,785
+ Other intangibles                     392,102              373,978
+                                    ----------           ----------
+                                     1,344,740            1,221,237
+Less accumulated amortization         (816,315)            (719,693)
+                                    ----------           ----------
+Intangible assets, net              $  528,425           $  501,544
+                                    ==========           ==========
+
+
+Other intangible assets consist primarily of purchased rights, covenants and
+patents (acquired directly or through acquisitions). All of the intangible
+assets have finite lives and as such are subject to amortization. The
+weighted-average remaining useful life of the intangible assets is 12 years (2
+years for software licenses, 17 years for customer contracts and lists and 14
+years for other). Amortization of intangibles totaled $28.1 million and $33.3
+million for the three months ended March 31, 2003 and 2002, respectively, and
+$82.8 million and $87.4 million for the nine months ended March 31, 2003 and
+2002, respectively. Estimated amortization expense of the Company's existing
+intangible assets over the remaining three months of fiscal 2003 and the
+succeeding five fiscal years is as follows:
+
+                                   Amount
+                                   ------
+     2003                        $ 30,406
+     2004                          97,445
+     2005                          59,335
+     2006                          34,969
+     2007                          27,883
+     2008                          22,040
+
+Note 9.  Short-term Financing
+
+In October 2002, the Company entered into a new $4.0 billion unsecured revolving
+credit agreement with certain financial institutions, replacing an existing $4.0
+billion credit agreement. The interest rate applicable to the borrowings is tied
+to LIBOR or prime rate depending on the notification provided to the syndicated
+financial institutions prior to borrowing. The Company is also required to pay a
+facility fee on the credit agreement. The primary uses of the credit facility
+are to provide liquidity to the unsecured commercial paper program and to fund
+normal business operations, if necessary. The Company has had no borrowings to
+date under the credit agreement, which expires in October 2003.
+
+
+In April 2002,  the Company  initiated a  short-term  commercial  paper  program
+providing for the issuance of up to $4.0 billion in aggregate  maturity value of
+commercial  paper at the Company's  discretion.  The Company's  commercial paper
+program is rated A-1+ by  Standard  and  Poor's  and Prime 1 by  Moody's.  These
+ratings denote the highest quality  investment grade  securities.  Maturities of
+commercial  paper can range from  overnight  to 270 days.  The Company  uses the
+commercial  paper issuances as a primary  instrument to meet short-term  funding
+requirements  related to client funds obligations.  For the three and nine month
+periods  ended March 31,  2003,  the Company  had average  borrowings  of $266.1
+million and $941.1  million,  respectively,  at an  effective  weighted  average
+interest rate of 1.3% and 1.6%,  respectively.  The weighted average maturity of
+the Company's commercial  paper during the nine months ended March 31, 2003 was
+less than two days. There was no commercial paper outstanding at March 31, 2003.
+
+Note 10.  Commitments and Contingencies
+
+In the normal course of business, the Company enters into contracts in which it
+makes representations and warranties that guarantee the performance of the
+Company's products and counter-party risk as well as other indemnifications
+entered into in the normal course of business. Historically, there have been no
+material losses related to such guarantees.
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+CRITICAL ACCOUNTING POLICIES
+
+Our Consolidated Financial Statements and accompanying notes have been prepared
+in accordance with accounting principles generally accepted in the United States
+of America. The preparation of these financial statements requires management to
+make estimates, judgments, and assumptions that affect reported amounts of
+assets, liabilities, revenues and expenses. We continually evaluate the
+accounting policies and estimates used to prepare the consolidated financial
+statements. The estimates are based on historical experience and assumptions
+believed to be reasonable under current facts and circumstances. Actual amounts
+and results could differ from these estimates made by management. Certain
+accounting policies that require significant management estimates and are deemed
+critical to our results of operations or financial position are discussed below.
+
+Revenue Recognition. Our revenues are primarily attributable to fees for
+providing services (e.g., Employer Services' payroll processing fees and
+Brokerage Services' trade processing fees) as well as investment income on
+payroll funds, tax filing funds and other Employer Services client related
+funds. We typically enter into agreements for a fixed fee per transaction (e.g.,
+number of payees). Fees associated with services are recognized in the period
+services are rendered and earned under service arrangements with clients where
+service fees are fixed or determinable and collectibility is reasonably assured.
+Interest income on collected but not yet remitted funds held for clients is
+recognized in revenues as earned.
+
+We also recognize revenues associated with the sale of software systems and
+associated software licenses. For a majority of our software sales arrangements,
+which provide hardware, software licenses, installation and post customer
+support, revenues are recognized ratably over the software license term as
+objective evidence of the fair values of the individual elements in the sales
+arrangement does not exist. For the remainder of sales of software systems,
+revenues are recognized when the objective evidence of the fair values of the
+individual elements of a sales arrangement containing hardware, software
+license, implementation, conversion and post-implementation services can be
+objectively determined. The amounts and timing of revenue recognition are
+determined for each element in an arrangement.
+
+The majority of our revenues are generated from a fee for service model (e.g.,
+fixed-fee per transaction processed) in which revenue is recognized when the
+related services have been rendered under written price quotations or service
+agreements having stipulated terms and conditions which do not require
+management to make any significant judgments or assumptions regarding any
+potential uncertainties.
+
+Goodwill. We review the carrying value of all our goodwill in accordance with
+Statement of Financial Accounting Standard (SFAS) No. 142, "Goodwill and Other
+Intangible Assets," by comparing the carrying value of our reporting units to
+their fair values. We are required to perform this comparison at least annually
+or more frequently if circumstances indicate possible impairment. When
+determining fair value, we utilize various assumptions, including projections of
+future cash flows. Any significant adverse changes in key assumptions about our
+businesses and their prospects or an adverse change in market conditions may
+cause a change in the estimation of fair value and could result in an impairment
+charge. Given the significance of our goodwill, an adverse change to the fair
+value could result in an impairment charge, which could be material to our
+financial statements.
+
+Income taxes. We account for income taxes in accordance with SFAS No. 109,
+"Accounting for Income Taxes," which establishes financial accounting and
+reporting standards for the effect of income taxes. The objectives of accounting
+for income taxes are to recognize the amount of taxes payable or refundable for
+the current year and deferred tax liabilities and assets for the future tax
+consequences of events that have been recognized in an entity's financial
+statements or tax returns. Judgment is required in assessing the future tax
+consequences of events that have been recognized in our financial statements or
+tax returns (e.g., realization of deferred tax assets). Fluctuations in the
+actual outcome of these future tax consequences could materially impact our
+financial statements.
+
+RESULTS OF OPERATIONS
+(TABULAR DOLLARS ARE PRESENTED IN MILLIONS, EXCEPT PER SHARE AMOUNTS)
+
+ANALYSIS OF CONSOLIDATED OPERATIONS
+
+                             Three Months Ended        Nine Months Ended
+                                  March 31,                March 31,
+                         -----------------------   ------------------------
+                           2003     2002  Change    2003      2002   Change
+                           ----     ----  ------    ----      ----   ------
+
+Total revenues           $1,906   $1,870    2%     $5,235   $5,159      1%
+                         -----------------------   -----------------------
+
+Total expenses           $1,373   $1,298    6%     $3,939   $3,837      3%
+                         -----------------------   -----------------------
+
+Earnings before income
+ taxes                   $  533   $  572   (7%)    $1,296   $1,322     (2%)
+Margin                     28.0%    30.6%            24.8%    25.6%
+                         -----------------------   -----------------------
+
+Provision for income
+ taxes                   $  204   $  220   (7%)    $  495   $  509     (3%)
+Effective tax rate         38.2%    38.4%            38.2%    38.5%
+                         -----------------------   -----------------------
+
+Net earnings             $  329   $  352   (6%)    $  801   $  813     (1%)
+Net earnings per
+ share - diluted         $ 0.54   $ 0.56   (4%)    $ 1.32   $ 1.29      2%
+                         -----------------------   -----------------------
+<PAGE>
+
+Our consolidated revenues for the quarter increased 2% to $1.9 billion,
+primarily due to an increase in Employer Services of 6% to $1.2 billion and a
+double-digit increase at Dealer Services of 15% to $203 million. These increases
+were offset by a decrease in our Brokerage Services business of 14%, or $64
+million, and a decrease in interest income from funds held for clients of
+approximately 8%, or $9 million. Interest income decreased due to lower interest
+yields, despite higher average client balances during the period. Our revenue
+growth continues to be impacted primarily by continued weak economic conditions
+impacting our Employer Services business, weakness in the financial services
+industry, including low trading volumes and decreased corporate activity, and
+lower interest rates.
+
+Year-to-date consolidated revenues increased 1% to $5.2 billion primarily due to
+increases in Employer  Services of 5% to $3.3 billion and Dealer Services of 12%
+to $587 million.  Brokerage Services' revenues were down 10% to $1.1 billion for
+the  year-to-date  period and  interest  income from funds held for clients have
+decreased $54 million, or 16%, compared to the prior year.
+
+Earnings before income taxes for the quarter decreased by 7% to $533 million as
+total expenses grew at a faster rate than revenues. Selling, general and
+administrative expenses increased 12% or $44 million, primarily driven by the
+growth in Employer Services and Dealer Services. There were also restructuring
+charges of approximately $10 million in the quarter primarily relating to
+severance activity. Operating expenses generally increased with revenues for the
+quarter, except at Brokerage Services where the decrease in revenues was greater
+than the decrease in operating expenses. Other income was lower primarily due to
+a decrease in interest income on corporate funds of 18% to $21.5 million. Slight
+increases in systems development and programming costs were offset by lower
+depreciation and amortization.
+
+Year-to-date earnings before income taxes decreased 2% to $1.3 billion as total
+expenses grew 3% while total revenues grew 1%. Increases in operating and
+selling, general and administrative expenses of $67 million, or 3%, and $43
+million, or 4%, respectively, were generally driven by revenue growth in
+Employer Services and Dealer Services. The percentage decrease in operating and
+selling, general and administrative expenses at Brokerage Services was lower
+than the significant percentage decrease in revenue. Systems development and
+programming costs increased approximately $15 million, or 4%, as we continue to
+focus on enhancing our products and services and maintaining our existing
+technologies. Other income for the year increased $16 million, or 20%, from last
+year primarily due to increased income on corporate funds attributable to an
+increase in the balances of the corporate fund portfolios, offset by a decline
+in interest yield.
+
+For the quarter and year-to-date, the effective income tax rate decreased 0.2%
+and 0.3%, respectively, to 38.2%, primarily due to a favorable mix in income
+among tax jurisdictions.
+
+Net earnings for the quarter decreased 6% to $329 million from $352 million and
+the related diluted earnings per share decreased 4% to $0.54 per share from
+$0.56 per share. The decrease in net earnings primarily reflects the decrease in
+earnings before income taxes slightly offset by a lower effective tax rate. The
+decrease in diluted earnings per share reflects the decrease in net earnings,
+partially offset by fewer shares outstanding due to share repurchases during the
+year.
+<PAGE>
+
+Year-to-date net earnings decreased 1% to $801 million from $813 million while
+the related diluted earnings per share increased 2% to $1.32 per share from
+$1.29 per share. The decrease in net earnings primarily reflects the decrease in
+earnings before income taxes slightly offset by a lower effective tax rate. The
+increase in diluted earnings per share is a result of fewer shares outstanding
+due to share repurchases offset by the decrease in net income.
+
+ANALYSIS OF BUSINESS SEGMENTS
+
+REVENUES
+                          Three Months Ended          Nine Months Ended
+                               March 31,                  March 31,
+                        -----------------------    -----------------------
+                          2003      2002 Change      2003      2002 Change
+                          ----      ---- ------      ----      ---- ------
+
+Employer Services       $1,245    $1,173    6%     $3,317    $3,169    5%
+Brokerage Services         396       460  (14%)     1,065     1,185  (10%)
+Dealer Services            203       176   15%        587       525   12%
+Other                       86        94   (9%)       317       319   (1%)
+Reconciling items:
+ Foreign exchange           34        (1)              68         3
+ Client fund interest      (58)      (32)            (119)      (42)
+                        ------    ------           ------     -----
+Total revenues          $1,906    $1,870    2%     $5,235    $5,159    1%
+                        ======    ======           ======    ======
+
+
+EARNINGS BEFORE INCOME TAXES
+
+
+                          Three Months Ended          Nine Months Ended
+                               March 31,                  March 31,
+                          ---------------------    ------------------------
+                          2003    2002   Change      2003      2002  Change
+                          ----    ----   ------      ----      ----  ------
+Employer Services         $444    $386    15%      $  980    $  875    12%
+Brokerage Services          44      87   (49%)        133       217   (39%)
+Dealer Services             35      30    17%          98        87    13%
+Other                       36      66   (46%)        113        94    21%
+Reconciling items:
+ Foreign exchange            6      (1)                 8         -
+ Client fund interest      (58)    (32)              (119)      (42)
+ Cost of capital charge     26      36                 83        91
+                          ------------             ----------------
+Total earnings before
+ income taxes             $533    $572    (7%)     $1,296    $1,322   (2%)
+                          ============             ================
+
+Revenues in our Employer Services business increased 6% for the quarter and 5%
+for the year-to-date period as compared to the prior year. Despite the continued
+negative impacts of the weak economy, Employer Services continues to grow
+primarily due to increases in our North America payroll and tax businesses,
+including strong growth in our beyond payroll products. Client retention
+improved by more than 1.5% and 1.0% for the quarter and year-to-date,
+respectively. Revenues in our PEO business increased $31 million, or 44%, for
+the quarter and $73 million, or 38%, year-to-date. New business sales declined
+8% for the quarter and 2% year to date, and pays per control, which represents
+the number of employees on our clients' payrolls, decreased 1% for both the
+quarter and year-to-date periods. Earnings before income taxes in Employer
+Services increased 15% and 12% for the quarter and year-to-date periods as a
+result of increased revenues and continued cost containment efforts.
+
+Brokerage Services' revenues declined by 14% for the quarter and 10% for the
+year-to-date period due to the continued weakness in the financial services
+industry. Our Brokerage Processing Services Division revenues declined 24% for
+the quarter and 18% year-to-date, primarily due to a decline in average trades
+per day of 26% for the quarter and 11% year-to-date. Retail trade volume
+continues to be very weak. Revenues in our Investor Communications Division
+declined 10% for the quarter and 6% year-to-date primarily due to lower
+corporate transaction and mutual fund activity. Earnings before income taxes in
+Brokerage Services declined 49% in the quarter and 39% year-to-date primarily
+due to the decline in revenues.
+
+Dealer Services' revenues increased 15% in the quarter and 12% for the
+year-to-date period compared to the prior year. Growth for both periods has been
+generated by acquisitions, strong client retention, and increased revenues in
+the traditional core business as well as from new businesses, primarily
+Application Service Provider (ASP) managed services, Networking and Computer
+Vehicle Registration. Sales of our Customer Relationship Management Systems
+continue to be strong. Earnings before income taxes for the quarter and
+year-to-date grew by 17% and 13%, respectively, compared to the prior year due
+primarily to the increase in revenues.
+
+The prior year's business unit revenues and earnings before income taxes have
+been adjusted to reflect updated fiscal year 2003 budgeted foreign exchange
+rates. "Other" consists primarily of Claims Services, miscellaneous processing
+services and corporate.
+
+Reconciling items for revenues and earnings before income taxes include foreign
+exchange differences between the actual and the fiscal year 2003 budgeted
+foreign exchange rates and the adjustment for the difference between actual
+interest income earned on invested funds held for clients and interest credited
+to Employer Services at a standard rate of 6%.
+
+The business unit results also include a cost of capital charge related to the
+funding of acquisitions and other investments. This charge is eliminated in
+consolidation and as such represents a reconciling item to earnings before
+income taxes.
+
+FINANCIAL CONDITION
+
+Our financial condition and balance sheet remain strong. At March 31, 2003, we
+had cash and marketable securities of $2.7 billion. Shareholders' equity was
+approximately $5.2 billion and the ratio of long-term debt to equity was
+approximately 1.6%.
+
+Capital  expenditures  for fiscal year 2003 are  expected to be between $125 and
+$135 million compared to $146 million in fiscal 2002.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash flows generated from operations of $1.2 billion for the nine months ended
+March 31, 2003 were flat compared to the prior year. The primary drivers of cash
+flow from operations in both periods were strong net earnings and increased
+working capital.
+
+Cash flows provided by investing activities totaled $182.5 million for the
+year-to-date period ended March 31, 2003 and cash flows used in investing
+activities totaled $628.3 million for the year-to-date period ended March 31,
+2002. The fluctuation between periods is primarily due to the timing of
+purchases and proceeds of marketable securities and client fund money market
+securities and the net change in client funds obligations. We also had $77.3
+million less investment in capital expenditures, intangibles and acquisitions
+during 2003 compared to 2002.
+
+<PAGE>
+
+Cash flows used in financing activities totaled $959.1 million for the
+year-to-date period ended March 31, 2003 compared to $628.0 million in prior
+year. The increase in cash used in financing is primarily due to $192.4 million
+of higher repurchases of common stock and $134.4 million less proceeds from
+stock purchase plans and exercises of stock options. We purchased approximately
+23.7 million shares of common stock at an average price per share of
+approximately $34 during the period. As of March 31, 2003, we have remaining
+Board of Directors authorization to purchase up to 47.2 million additional
+shares.
+
+During the nine month period ended March 31, 2003,  approximately twenty percent
+of our overall  investment  portfolio was invested in cash and cash equivalents,
+which are impacted almost  immediately by changes in short-term  interest rates.
+The  other  eighty  percent  of  our   investment   portfolio  was  invested  in
+fixed-income  securities,  with varying maturities of less than ten years, which
+are also subject to interest  rate risk,  including  reinvestment  risk. We have
+historically  had the  ability  to hold these  investments  until  maturity  and
+therefore,  fluctuations  in  interest  rates have not had an adverse  impact on
+income or cash flows.
+
+Details regarding our combined corporate investments and funds held for clients
+portfolios are as follows:
+
+                                Three Months Ended        Nine Months Ended
+                                     March 31,               March 31,
+                                -------------------    -----------------
+                                   2003      2002        2003       2002
+                                   ----      ----        ----       ----
+Average investment balances
+  at cost:
+  Corporate investments         $ 2,812    $ 2,803     $ 3,395    $ 2,971
+  Funds held for clients         10,445      9,384       8,692      8,267
+                                -------    -------     -------    -------
+
+  Total                         $13,257    $12,187     $12,087    $11,238
+                                =======    =======     =======    =======
+
+
+Average interest rates earned
+  exclusive of realized gains
+  (losses) for the total
+  combined corporate investments
+  and funds held for clients'
+  portfolios (pre-tax)             3.7%       4.4%        4.1%       5.0%
+
+Realized gains on available-
+  for-sale securities           $  9.4     $ 12.2      $ 26.0     $ 19.5
+Realized losses on available-
+  for-sale securities             (1.2)      (2.7)       (3.4)      (3.6)
+                                ------     ------      ------     ------
+
+Net realized gains              $  8.2     $  9.5      $ 22.6     $ 15.9
+                                ======     ======      ======     ======
+
+                                             March 31,      June 30,
+                                                2003          2002
+                                             ---------      --------
+Unrealized pre-tax gains on available-for-
+ sale securities                             $   352        $   209
+Total available-for-sale securities          $ 9,924        $ 9,856
+
+The earnings impact of future interest rate changes is based on many factors,
+which influence the return on our portfolio. These factors include, among
+others, the overall portfolio mix between short-term and long-term investments.
+This mix varies during the year and is impacted by daily interest rate changes.
+A hypothetical change in interest rates of 25 basis points applied to the
+average projected investment balances for fiscal 2003 would result in
+approximately a $9 million impact to earnings before income taxes over the
+twelve-month period.
+<PAGE>
+
+In October 2002, we entered into a new $4.0 billion unsecured revolving credit
+agreement with certain financial institutions, replacing an existing $4.0
+billion credit agreement. The interest rate applicable to the borrowings is tied
+to LIBOR or prime rate depending on the notification provided to the syndicated
+financial institutions prior to borrowing. We are also required to pay a
+facility fee on the credit agreement. The primary uses of the credit facility
+are to provide liquidity to the unsecured commercial paper program and to fund
+normal business operations, if necessary. There have been no borrowings to date
+under the credit agreement, which expires in October 2003.
+
+In April 2002, we initiated a short-term  commercial paper program providing for
+the  issuance of up to $4.0 billion in aggregate  maturity  value of  commercial
+paper at any given time. Our commercial  paper program is rated A-1+ by Standard
+and Poor's and Prime 1 by Moody's.  These  ratings  denote the  highest  quality
+investment  grade  securities.  Maturities  of  commercial  paper can range from
+overnight  to 270  days.  We use the  commercial  paper  issuances  as a primary
+instrument  to meet  short-term  funding  requirements  related to client  funds
+obligations.  For the three and nine month  periods ended March 31, 2003, we had
+average  borrowings of $266.1 million and $941.1  million,  respectively,  at an
+effective  weighted  average interest rate of 1.3% and 1.6%,  respectively.  The
+weighted  average  maturity of our commercial paper during the nine months ended
+March 31, 2003 was less than two days. There was no commercial paper outstanding
+at March 31, 2003.
+
+NEW ACCOUNTING PRONOUNCEMENT
+
+In March 2003,  the Emerging  Issues Task Force (EITF)  published EITF Issue No.
+00-21  "Accounting  for Revenue  Arrangements  with Multiple  Deliverables"(EITF
+00-21).  This Issue addresses  certain aspects of the accounting by a vendor for
+arrangements under which it performs multiple revenue-generating  activities and
+how to determine  whether such an arrangement  involving  multiple  deliverables
+contains more than one unit of accounting  for purposes of revenue  recognition.
+The guidance in this Issue is effective for revenue arrangements entered into in
+fiscal periods  beginning after June 15, 2003,  accordingly,  we will adopt EITF
+00-21 on July 1, 2003. We do not expect EITF 00-21 to have a material  impact on
+our Consolidated Financial Statements.
+
+PROBUSINESS TRANSACTION
+
+On January 5, 2003, the Company entered into a definitive agreement to acquire
+all of the outstanding shares of ProBusiness Services, Inc. (ProBusiness) for
+$17.00 per common share. The transaction will be consummated in cash and is
+valued at approximately $500 million. The transaction is subject to ProBusiness
+shareholder approval and regulatory review.
+
+On February  14, 2003,  the  Department  of Justice,  Antitrust  Division  (DOJ)
+requested additional information and documentary material in connection with its
+review of the proposed  merger.  The DOJ request resulted in an extension of the
+waiting period under the Hart-Scott-Rodino  Antitrust  Improvements Act of 1976.
+ProBusiness and ADP are responding to the DOJ request.
+
+OTHER MATTERS
+
+This report contains "forward-looking statements" based on management's
+expectations and assumptions and are subject to risks and uncertainties that may
+cause actual results to differ from those expressed. Factors that could cause
+differences include, but are not limited to: ADP's success in obtaining,
+retaining and selling additional services to clients; the pricing of products
+and services; changes in laws regulating payroll taxes and employee benefits;
+overall economic trends, including interest rate and foreign currency trends;
+stock market activity; auto sales and related industry changes; employment
+levels; changes in technology; availability of skilled technical associates and
+the impact of new acquisitions and divestitures. ADP disclaims any obligation to
+update any forward-looking statements, whether as a result of new information,
+future events or otherwise.
+
+<PAGE>
+
+ITEM 4.  CONTROLS AND PROCEDURES
+
+Within the 90 days prior to the filing date of this report, the Company carried
+out an evaluation, under the supervision and with the participation of the
+Company's management, including the Company's Chief Executive Officer and Chief
+Financial Officer, of the effectiveness of the Company's disclosure controls and
+procedures, as defined in Rules 13a-14 and 15d-14 under the Securities and
+Exchange Act of 1934, as amended. Based on that evaluation, the Chief Executive
+Officer and Chief Financial Officer have concluded that the Company's disclosure
+controls and procedures are effective to ensure that information required to be
+disclosed by the Company in reports that it files or submits under the
+Securities Exchange Act of 1934, as amended, is recorded, processed, summarized
+and reported within the time periods specified in Securities and Exchange
+Commission rules and forms.
+
+There have been no significant changes in the Company's internal controls or in
+other factors that could significantly affect these disclosure controls,
+subsequent to the date of this evaluation.
+
+
+PART II.  OTHER INFORMATION
+
+Except as noted below, all other items are either inapplicable or would result
+in negative responses and, therefore, have been omitted.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K.
+
+(a)   Exhibits
+
+       Exhibit Number                         Exhibit
+       --------------                         -------
+
+        99.1         Certification by Arthur F. Weinbach pursuant to 18 U.S.C.
+                     Section 1350, as adopted pursuant to Section 906 of the
+                     Sarbanes-Oxley Act of 2002
+
+        99.2         Certification by Karen E. Dykstra pursuant to 18 U.S.C.
+                     Section 1350, as adopted pursuant to Section 906 of the
+                     Sarbanes-Oxley Act of 2002
+
+(b) Reports on Form 8-K
+
+     The Company furnished a report on Form 8-K on March 13, 2003 that included
+     the Company's press release dated March 13, 2003 announcing  revised
+     revenue and earnings per share guidance for fiscal year 2003.
+
+     The Company furnished a report on Form 8-K on April 17, 2003 that included
+     the Company's press release dated April 17, 2003 reporting third quarter
+     results of fiscal year 2003.
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+                                   ----------
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                            AUTOMATIC DATA PROCESSING, INC.
+                            -------------------------------
+                                    (Registrant)
+
+Date: May 2, 2003              /s/ Karen E. Dykstra
+                               --------------------
+                                  Karen E. Dykstra
+
+                             Chief Financial Officer
+                             -----------------------
+                                     (Title)
+
+
+<PAGE>
+
+
+
+                                 CERTIFICATIONS
+                                 --------------
+
+I, Arthur F. Weinbach, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Automatic Data
+Processing, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+Date:  May 2, 2003
+
+/s/  Arthur F. Weinbach
+-----------------------
+Arthur F. Weinbach
+Chief Executive Officer
+
+
+<PAGE>
+
+
+
+I, Karen E. Dykstra, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Automatic Data
+Processing, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+Date:  May 2, 2003
+
+/s/  Karen E. Dykstra
+-----------------------
+Karen E. Dykstra
+Chief Financial Officer
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

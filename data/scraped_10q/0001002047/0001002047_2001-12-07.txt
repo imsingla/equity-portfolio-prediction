@@ -1,0 +1,2097 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f77709e10-q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<PAGE>
+================================================================================
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                 ---------------
+
+                                    FORM 10-Q
+
+                                 ---------------
+
+(MARK ONE)
+
+   [X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934
+
+                 FOR THE QUARTERLY PERIOD ENDED OCTOBER 26, 2001
+
+                                       OR
+
+   [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934
+
+          FOR THE TRANSITION PERIOD FROM ____________ TO ____________ .
+
+                         COMMISSION FILE NUMBER 0-27130
+
+                             NETWORK APPLIANCE, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+             DELAWARE                                     77-0307520
+ (STATE OR OTHER JURISDICTION OF              (IRS EMPLOYER IDENTIFICATION NO.)
+  INCORPORATION OR ORGANIZATION)
+
+                              495 EAST JAVA DRIVE,
+                           SUNNYVALE, CALIFORNIA 94089
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, INCLUDING ZIP CODE)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (408) 822-6000
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+   Yes [X]     No [ ]
+
+   Number of shares outstanding of the registrant's common stock, $.001 par
+value, as of the latest practicable date.
+
+<TABLE>
+<CAPTION>
+                                                 OUTSTANDING AT
+           CLASS                                OCTOBER 26, 2001
+           -----                                ----------------
+<S>                                               <C>
+        Common Stock........................      331,130,974
+</TABLE>
+
+
+
+================================================================================
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                                                    PAGE NO.
+                                                                                                    --------
+<S>     <C>                                                                                         <C>
+                                 PART I -- FINANCIAL INFORMATION
+
+Item 1. Condensed Consolidated Financial Statements (Unaudited)
+          Condensed Consolidated Balance Sheets as of October 26, 2001 and April 30, 2001               2
+          Condensed Consolidated Statements of Operations for the three and six-month periods
+            ended October 26, 2001 and October 27, 2000                                                 3
+          Condensed Consolidated Statements of Cash Flows for the six-month periods ended
+            October 26, 2001 and October 27, 2000                                                       4
+          Notes to Condensed Consolidated Financial Statements                                          5
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations          11
+Item 3. Quantitative and Qualitative Disclosures About Market Risk                                     26
+
+                                  PART II -- OTHER INFORMATION
+
+Item 1. Legal Proceedings                                                                              28
+Item 2. Changes in Securities                                                                          28
+Item 3. Defaults Upon Senior Securities                                                                28
+Item 4. Submission of Matters to Vote of Securityholders                                               28
+Item 5. Other Information                                                                              29
+Item 6. Exhibits and Reports on Form 8-K                                                               29
+SIGNATURE                                                                                              30
+</TABLE>
+
+
+
+                                       1
+<PAGE>
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                             NETWORK APPLIANCE, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                   OCTOBER 26,       APRIL 30,
+                                                      2001             2001
+                                                   -----------      -----------
+                                                   (UNAUDITED)          **
+<S>                                                <C>              <C>
+                       ASSETS
+CURRENT ASSETS:
+
+     Cash and cash equivalents                     $   177,760      $   271,931
+     Short-term investments                            155,505           92,094
+     Accounts receivable, net                          172,329          186,956
+     Inventories                                        22,069           22,504
+     Prepaid expenses and other                         22,831           25,745
+     Deferred income taxes                              37,649           36,287
+                                                   -----------      -----------
+         Total current assets                          588,143          635,517
+RESTRICTED CASH                                        262,791          193,747
+PROPERTY AND EQUIPMENT, NET                            101,032          103,238
+INTANGIBLE ASSETS, NET                                  69,058           79,510
+OTHER ASSETS                                            14,752           24,240
+                                                   -----------      -----------
+                                                   $ 1,035,776      $ 1,036,252
+                                                   ===========      ===========
+
+       LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+
+     Accounts payable                              $    48,577      $    64,892
+     Income taxes payable                               10,771           21,844
+     Accrued compensation and related benefits          40,797           50,523
+     Other accrued liabilities                          39,816           23,198
+     Deferred revenue                                   60,105           58,316
+                                                   -----------      -----------
+         Total current liabilities                     200,066          218,773
+LONG-TERM DEFERRED REVENUE                              20,392           12,882
+LONG-TERM OBLIGATIONS                                      366              149
+                                                   -----------      -----------
+         Total liabilities                             220,824          231,804
+                                                   -----------      -----------
+
+STOCKHOLDERS' EQUITY:
+
+     Common stock                                      633,996          616,595
+     Deferred stock compensation                        (8,607)         (12,044)
+     Retained earnings                                 192,908          204,632
+     Cumulative other comprehensive loss                (3,345)          (4,735)
+                                                   -----------      -----------
+         Total stockholders' equity                    814,952          804,448
+                                                   -----------      -----------
+                                                   $ 1,035,776      $ 1,036,252
+                                                   ===========      ===========
+</TABLE>
+
+** Derived from audited consolidated financial statements.
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       2
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                    THREE MONTHS ENDED            SIX MONTHS ENDED
+                                                ---------------------------   ---------------------------
+                                                OCTOBER 26,     OCTOBER 27,   OCTOBER 26,     OCTOBER 27,
+                                                   2001           2000           2001            2000
+                                                -----------     -----------   -----------     -----------
+<S>                                             <C>             <C>           <C>             <C>
+NET SALES                                        $ 194,715       $260,777      $ 395,141       $491,936
+COST OF SALES                                       80,984         99,314        169,061        188,771
+                                                 ---------       --------      ---------       --------
+       Gross Margin                                113,731        161,463        226,080        303,165
+                                                 ---------       --------      ---------       --------
+
+OPERATING EXPENSES:
+       Sales and marketing                          70,922         72,236        142,564        136,054
+       Research and development                     28,354         28,217         57,437         51,840
+       General and administrative                   10,552         10,150         20,814         19,029
+       Amortization of intangible assets             5,226          1,273         10,452          1,939
+       In-process research and development              --             --             --         26,688
+       Stock compensation (1)                        1,923            443          4,622            872
+       Restructuring charges                         7,980             --          7,980             --
+                                                 ---------       --------      ---------       --------
+          Total operating expenses                 124,957        112,319        243,869        236,422
+                                                 ---------       --------      ---------       --------
+
+INCOME (LOSS) FROM OPERATIONS                      (11,226)        49,144        (17,789)        66,743
+                                                 ---------       --------      ---------       --------
+
+OTHER INCOME (EXPENSE), NET:
+       Interest income and other, net                4,735          5,511         10,229          9,891
+       Impairment loss on investments              (13,008)            --        (13,008)            --
+                                                 ---------       --------      ---------       --------
+          Total other income (expense), net         (8,273)         5,511         (2,779)         9,891
+                                                 ---------       --------      ---------       --------
+
+INCOME (LOSS) BEFORE INCOME TAXES                  (19,499)        54,655        (20,568)        76,634
+PROVISION (BENEFIT) FOR INCOME TAXES                (8,288)        19,295         (8,844)        36,298
+                                                 ---------       --------      ---------       --------
+
+NET INCOME (LOSS)                                $ (11,211)      $ 35,360      $ (11,724)      $ 40,336
+                                                 =========       ========      =========       ========
+
+NET INCOME (LOSS) PER SHARE:
+       Basic                                     $   (0.03)      $   0.11      $   (0.04)      $   0.13
+                                                 =========       ========      =========       ========
+       Diluted                                   $   (0.03)      $   0.10      $   (0.04)      $   0.11
+                                                 =========       ========      =========       ========
+SHARES USED IN PER SHARE CALCULATIONS:
+       Basic                                       330,440        318,223        329,888        315,891
+                                                 =========       ========      =========       ========
+       Diluted                                     330,440        364,035        329,888        361,906
+                                                 =========       ========      =========       ========
+
+(1)  Stock compensation:
+       Sales and marketing                       $     230       $    209      $     543       $    449
+       Research and development                      1,563            140          3,806            222
+       General and administrative                      130             94            273            201
+                                                 ---------       --------      ---------       --------
+                                                 $   1,923       $    443      $   4,622       $    872
+                                                 =========       ========      =========       ========
+</TABLE>
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       3
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                                               SIX MONTHS ENDED
+                                                                                     ------------------------------------
+                                                                                     OCTOBER 26, 2001    OCTOBER 27, 2000
+                                                                                     ----------------    ----------------
+<S>                                                                                  <C>                 <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net income (loss)                                                                     $ (11,724)         $  40,336
+   Adjustments to reconcile net income (loss) to
+     net cash provided by operating activities:
+       Depreciation and amortization                                                        21,884             12,594
+       In-process research and development                                                      --             26,688
+       Amortization of intangible assets                                                    10,452              1,939
+       Stock compensation                                                                    4,622                872
+       Impairment loss on investments                                                       13,008                 --
+       Provision for doubtful accounts                                                       3,701                813
+       Deferred income taxes                                                                   901             (6,356)
+       Deferred rent                                                                           (54)                (2)
+       Changes in assets and liabilities, net of effects of businesses acquired:
+         Accounts receivable                                                                10,906            (53,968)
+         Inventories                                                                        (1,949)           (10,735)
+         Prepaid expenses and other assets                                                     685              2,696
+         Accounts payable                                                                  (16,315)            24,431
+         Income taxes payable                                                              (11,073)            44,960
+         Accrued compensation and related benefits                                          (9,726)            24,577
+         Other accrued liabilities                                                          16,889             16,269
+         Deferred revenue                                                                    9,299             22,574
+                                                                                         ---------          ---------
+            Net cash provided by operating activities                                       41,506            147,688
+                                                                                         ---------          ---------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Purchases of short-term investments                                                    (185,909)          (125,894)
+   Redemptions of short-term investments                                                   121,525             70,829
+   Purchases of property and equipment                                                     (17,665)           (39,386)
+   Purchase of equity securities                                                              (800)            (1,000)
+   Purchase of businesses, net of cash acquired                                                 --             (2,161)
+                                                                                         ---------          ---------
+            Net cash used in investing activities                                          (82,849)           (97,612)
+                                                                                         ---------          ---------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Proceeds from sale of common stock, net                                                  16,216             39,891
+   Increase in restricted cash                                                             (69,044)           (63,150)
+                                                                                         ---------          ---------
+            Net cash used in financing activities                                          (52,828)           (23,259)
+                                                                                         ---------          ---------
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS                                                    (94,171)            26,817
+
+CASH AND CASH EQUIVALENTS:
+   Beginning of period                                                                     271,931            279,014
+                                                                                         ---------          ---------
+   End of period                                                                         $ 177,760          $ 305,831
+                                                                                         =========          =========
+
+NONCASH INVESTING AND FINANCING ACTIVITIES:
+   Income tax benefit from employee stock transactions                                   $      --          $  41,000
+   Conversion of evaluation inventory to fixed assets                                        2,225              7,066
+   Common stock issued and options assumed for acquired businesses                              --             47,579
+SUPPLEMENTAL CASH FLOW INFORMATION:
+   Income taxes paid                                                                            62                 54
+</TABLE>
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       4
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+         (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+                                   (UNAUDITED)
+
+
+1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+        The accompanying condensed consolidated financial statements have been
+prepared by Network Appliance, Inc. without audit and reflect all adjustments,
+which are, in the opinion of management, necessary for a fair presentation of
+our financial position, results of operations and cash flows for the interim
+periods presented. The statements have been prepared in accordance with the
+regulations of the Securities and Exchange Commission ("SEC") for interim
+financial statements. Accordingly, they do not include all information and
+footnotes required by accounting principles generally accepted in the United
+States of America for annual financial statements.
+
+        These financial statements should be read in conjunction with the
+audited consolidated financial statements and accompanying notes included in our
+Annual Report on Form 10-K for the year ended April 27, 2001. The results of
+operations for the three and six-month periods ended October 26, 2001 are not
+necessarily indicative of the operating results to be expected for the full
+fiscal year or future operating periods.
+
+2. RECLASSIFICATIONS
+
+        Certain reclassifications have been made to prior-period balances, none
+of which affected our financial position, results of operations and cash flows,
+to present the consolidated financial statements on a consistent basis.
+
+3. SIGNIFICANT ACCOUNTING POLICIES
+
+        Foreign Currency Translation - In the first quarter of fiscal 2002, we
+determined that the functional currency of one of our subsidiaries had changed
+from the Euro to the US Dollar. Accordingly, all monetary assets and liabilities
+were translated at the current exchange rate in effect as of the balance sheet
+date, nonmonetary assets and liabilities were translated at historical rates and
+net sales and expenses were translated at average exchange rates in effect
+during the period. Transaction gains and losses, which are included in other
+income (expense) in the accompanying consolidated statements of operations, were
+not significant in any of the periods presented.
+
+4. INVENTORIES
+
+        Inventories consist of the following:
+
+<TABLE>
+<CAPTION>
+                                              OCTOBER 26,    APRIL 30,
+                                                 2001          2001
+                                              -----------    ---------
+<S>                                           <C>            <C>
+           Purchased components                 $ 7,440       $11,106
+           Work in process                          297           560
+           Finished goods                        14,332        10,838
+                                                -------       -------
+                                                $22,069       $22,504
+                                                =======       =======
+</TABLE>
+
+
+                                       5
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+         (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+                                   (UNAUDITED)
+
+
+5. STOCK COMPENSATION
+
+        We record stock compensation in accordance with provisions of Accounting
+Principle Board Opinion No. 25, "Accounting for Stock Issued to Employees," for
+employee awards and Statement of Financial Accounting Standards ("SFAS") No.
+123, "Accounting for Stock-Based Compensation," for non-employee awards.
+Accordingly, we recognize the intrinsic value for employees and the fair value
+for non-employees as stock compensation expense over the vesting terms of the
+awards. During the first and second quarters of fiscal 2002, under terms of the
+acquisition agreement with Orca Systems, Inc. ("Orca"), we issued an additional
+66 and 66 shares, respectively, of common stock to former Orca shareholders upon
+meeting certain performance criteria. The fair market values of the shares of
+$1,434 and $1,006, respectively, were measured on the date the performance
+criteria were met and were recognized as stock compensation during the first and
+second quarters of fiscal 2002.
+
+6. DERIVATIVE INSTRUMENTS
+
+        Effective May 1, 2001, we adopted SFAS No. 133, "Accounting for
+Derivative Instruments and Hedging Activities," as amended, which establishes
+accounting and reporting standards for derivative instruments, including certain
+derivative instruments embedded in other contracts, and for hedging activities.
+Under SFAS No. 133, certain contracts that were not formerly considered
+derivatives may now meet the definition of a derivative. SFAS No. 133 requires
+that all derivatives be recognized as either assets or liabilities at fair
+value. Derivatives that are not designated as hedges are adjusted to fair value
+through earnings. If the derivative is designated as a hedge, depending on the
+nature of the exposure being hedged, changes in fair value will either be offset
+against the change in fair value of the hedged asset, liability, or firm
+commitment through earnings, or recognized in other comprehensive income until
+the hedged item is recognized in earnings. The ineffective portion of the hedge
+is recognized in earnings immediately.
+
+        As a result of our significant international operations, we are subject
+to risks associated with fluctuating exchange rates. We use foreign currency
+forward contracts, to attempt to minimize the impact of exchange rate movements
+on our balance sheet relating to certain foreign currency assets and
+liabilities. Gains and losses on these undesignated derivatives offset gains and
+losses on the assets and liabilities being hedged and the net amount is included
+in earnings. For the first quarter of fiscal 2002, net losses generated by
+hedged assets and liabilities totaled $246, which were offset by gains on the
+related derivative instruments of $265. For the second quarter of fiscal 2002,
+net gains generated by hedged assets and liabilities totaled $1,142, which were
+offset by losses on the related derivative instruments of $1,585. We do not
+enter into derivative financial instruments for speculative or trading purposes.
+
+        Currently, we do not enter into any foreign exchange forward contracts
+to hedge exposures related to forecasted transactions, firm commitments or
+equity investments. The adoption of SFAS No. 133 did not have a significant
+impact on our financial position, results of operations or cash flow.
+
+
+                                       6
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+         (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+                                   (UNAUDITED)
+
+
+7. EARNINGS PER SHARE
+
+        Basic and diluted net income (loss) per share are computed using
+weighted-average common shares outstanding in accordance with SFAS No. 128,
+"Earnings Per Share." Diluted net income per share also includes the dilutive
+effect of stock options.
+
+        During the three and six-month periods ended October 26, 2001, we had
+options outstanding which could potentially dilute basic earnings per share in
+the future, but were excluded in the computation of diluted earnings per share
+in such periods, as their effect would have been antidilutive due to the net
+loss reported in such periods, or the options' exercise prices were above the
+average market prices. At October 26, 2001 and October 27, 2000, 74,186 and
+1,377 shares of common stock options with a weighted average exercise price of
+$20.77 and $118.52, respectively, were excluded from the diluted net income
+(loss) per share computation.
+
+        The following is a reconciliation of the numerators and denominators of
+the basic and diluted net income (loss) per share computations for the periods
+presented:
+
+<TABLE>
+<CAPTION>
+                                                           THREE MONTHS ENDED                 SIX MONTHS ENDED
+                                                      OCTOBER 26,      OCTOBER 27,      OCTOBER 26,      OCTOBER 27,
+                                                         2001             2000             2001             2000
+                                                      -----------      -----------      -----------      -----------
+<S>                                                   <C>              <C>              <C>              <C>
+NET INCOME (LOSS) (NUMERATOR):
+   Net income (loss), basic and diluted                $ (11,211)       $  35,360        $ (11,724)       $  40,336
+                                                       =========        =========        =========        =========
+
+SHARES (DENOMINATOR):
+
+   Weighted average common shares outstanding            330,576          318,520          330,063          316,136
+   Weighted average common shares outstanding
+     subject to repurchase                                  (136)            (297)            (175)            (245)
+                                                       ---------        ---------        ---------        ---------
+   Shares used in basic computation                      330,440          318,223          329,888          315,891
+   Weighted average common shares outstanding
+     subject to repurchase                                    --              297               --              245
+   Common shares issuable upon exercise of stock
+     options                                                  --           45,515               --           45,770
+                                                       ---------        ---------        ---------        ---------
+   Shares used in diluted computation                    330,440          364,035          329,888          361,906
+                                                       =========        =========        =========        =========
+
+NET INCOME (LOSS) PER SHARE:
+
+   Basic                                               $   (0.03)       $    0.11        $   (0.04)       $    0.13
+                                                       =========        =========        =========        =========
+   Diluted                                             $   (0.03)       $    0.10        $   (0.04)       $    0.11
+                                                       =========        =========        =========        =========
+</TABLE>
+
+
+                                       7
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+         (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+                                   (UNAUDITED)
+
+
+8. COMPREHENSIVE INCOME (LOSS)
+
+        The components of comprehensive income (loss), net of tax, were as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                 THREE MONTHS ENDED               SIX MONTHS ENDED
+                                             OCTOBER 26,     OCTOBER 27,     OCTOBER 26,     OCTOBER 27,
+                                                2001            2000            2001            2000
+                                             -----------     -----------     -----------     -----------
+<S>                                          <C>             <C>             <C>             <C>
+Net income (loss)                             $(11,211)       $ 35,360        $(11,724)       $ 40,336
+Foreign currency translation adjustment             84          (1,556)           (179)         (1,392)
+Unrealized gain (loss) on investments            2,285          (6,674)          1,569           4,793
+                                              --------        --------        --------        --------
+Comprehensive income (loss)                   $ (8,842)       $ 27,130        $(10,334)       $ 43,737
+                                              ========        ========        ========        ========
+</TABLE>
+
+9. COMMITMENTS
+
+        We have commitments related to operating lease arrangements for our
+headquarter site in Sunnyvale, California, under which we have options to
+purchase various properties at the expiration or termination of the leases for
+$309,000, or arrange for the sale of the property to third parties for at least
+$309,000 with a contingent liability for any deficiency. If the property is not
+purchased or sold as described above, we will be obligated for additional lease
+payments of approximately $276,566.
+
+        Restricted cash, classified as non-current assets collateralizing these
+leases, was $250,709 at October 26, 2001. The lease payments under operating
+leases collateralized by restricted cash, will vary based on London Interbank
+Offered Rate (LIBOR) plus a spread (2.7% at October 26, 2001). The operating
+leases mentioned above require us to maintain specified financial covenants with
+which we were in compliance as of October 26, 2001.
+
+        We also entered into agreements and established Network Appliance
+accounts with Deutsche Banc Alex Brown whereby we guarantee any defaults by two
+corporate officers, of certain margin loans made to them by these financial
+institutions on their Network Appliance stock. The amount of the guarantee is
+limited to the difference between the amount of such loans and fair market value
+of the Network Appliance stock securing the loans. As of October 26, 2001, the
+ending balance in these accounts was approximately $12,082 in order to
+collaterize the margin requirement and as of that date the amount Network
+Appliance would owe, that was not covered by the value of the stock, was $0. The
+balance under these accounts mentioned above was classified as restricted cash.
+
+10. NEW ACCOUNTING PRONOUNCEMENTS
+
+        In June 2001, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 141, "Business Combinations," and SFAS No. 142, "Goodwill and Other
+Intangible Assets". Under SFAS No. 141, all business combinations initiated
+after June 30, 2001 must be accounted for using the purchase method. Under SFAS
+No. 142, goodwill and intangible assets with indefinite lives are no longer
+amortized but are reviewed annually for impairment (or more frequently if
+indicators of impairment arise). Separable intangible assets that are not deemed
+to have indefinite lives will continue to be amortized over their useful lives
+(but with no maximum life). The amortization provisions of SFAS No. 142 apply to
+goodwill and
+
+
+                                       8
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+                     NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+                                   (UNAUDITED)
+
+
+intangible assets acquired after June 30, 2001. With respect to goodwill and
+intangible assets acquired prior to July 1, 2001, we are required to adopt SFAS
+No. 142 effective April 27, 2002. Upon adoption of SFAS No. 142, we will stop
+the amortization of goodwill with a net carrying value of approximately $48,912
+at April 26, 2002 and the annual amortization of $14,575 that resulted from
+business combinations initiated prior to the adoption. We will evaluate goodwill
+under the SFAS No. 142 transitional impairment test. Any transitional impairment
+loss will be recognized as a change in accounting principle on the date of
+adoption. If any impairment of goodwill is recognized, under existing
+pronouncement rules, prior to the date of adoption, the loss will be charged to
+operating expenses.
+
+        In October 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets," which addresses financial
+accounting and reporting for the impairment or disposal of long-lived assets.
+SFAS No. 144 supersedes SFAS No. 121, "Accounting for the Impairment of
+Long-Lived Assets and for Assets to Be Disposed Of." Adoption of SFAS No. 144 is
+required for our fiscal year beginning April 27, 2002. We are currently
+evaluating the potential impact of adoption of SFAS No. 144 on our financial
+position and results of operations and have not yet determined the impact of
+adopting this statement.
+
+11. RESTRUCTURING CHARGES
+
+        In August 2001, we implemented a restructuring plan, which included a
+reduction in workforce by approximately 200 employees and a consolidation of
+facilities. The action was required to properly align and manage the business
+commensurate with our current revenue levels. All functional areas of the
+Company were affected by the reduction. We completed our actions during the
+second quarter of fiscal 2002. As a result of this restructuring, we incurred a
+charge of $7,980. The restructuring charge included $4,796 of severance-related
+amounts, $2,656 of committed excess facilities and facility closure expenses,
+and $528 in fixed assets write off.
+
+        The following analysis sets forth the significant components of the
+restructuring reserve at October 26, 2001:
+
+<TABLE>
+<CAPTION>
+                                        Severance-      Fixed Assets
+                                      related amounts    write-off      Facility        Total
+                                      ---------------   ------------    --------       -------
+<S>                                   <C>               <C>             <C>            <C>
+Restructuring charge                      $ 4,796          $ 528        $ 2,656        $ 7,980
+Cash payments                              (4,128)            --            (81)        (4,209)
+Non-cash portion                               --           (528)            --           (528)
+                                          -------          -----        -------        -------
+Reserve balance at October 26, 2001       $   668          $  --        $ 2,575        $ 3,243
+                                          =======          =====        =======        =======
+</TABLE>
+
+        Of the reserve balance at October 26, 2001, $2,972 was included in other
+accrued liabilities and the remaining $271 classified as long-term obligations.
+We expect to utilize the restructuring reserve over the next four years.
+
+
+
+                                       9
+<PAGE>
+
+                             NETWORK APPLIANCE, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+         (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+                                   (UNAUDITED)
+
+
+12. IMPAIRMENT LOSS ON INVESTMENTS
+
+        We perform periodic reviews of our investments for impairment. Our
+investments in publicly held companies are generally considered impaired when a
+decline in the fair value of an investment as measured by quoted market prices
+is less than its carrying value and such a decline is not considered temporary.
+Our investments in privately held companies are considered impaired when a
+review of the investees operations and other indicators of impairment indicate
+that the carrying value of the investment is not likely to be recoverable. Such
+indicators include, but are not limited to, limited capital resources, limited
+prospects of receiving additional financing, and prospects for liquidity of the
+related securities. In the second quarter of fiscal 2002, we recorded a non
+cash, other-than-temporary write down of $13,008 related to impairments of our
+investments in publicly traded and private companies. There were no realized
+gains or losses on equity investments in the three or six-month periods of
+fiscal 2001.
+
+13. CONTINGENCIES
+
+        We are subject to various legal proceedings and claims which arise in
+the normal course of business. We do not believe that any current litigation or
+claims will have a material adverse effect on the Company's business, operating
+results or financial condition.
+
+14. EQUITY
+
+        Network Appliance was incorporated in California in April 1992, and
+reincorporated in Delaware in November 2001. We have established our common
+stock at $.001 par value.
+
+
+
+                                       10
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+        In addition to historical information, this Form 10-Q contains
+forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These
+statements may contain words such as "expects," "anticipates," "intends,"
+"plans," "believes," "estimates," or other words indicating future results.
+These forward-looking statements are subject to certain risks and uncertainties
+that could cause actual results to differ materially from those reflected in the
+forward-looking statement. Factors that could cause or contribute to such
+differences include, but are not limited to, those discussed in the following
+sections entitled "Risk Factors" and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations." This discussion should be read
+in conjunction with our Annual Report on Form 10-K for the year ended April 27,
+2001. We undertake no obligation to revise or publicly release the results of
+any revision to these forward-looking statements. Given these risks and
+uncertainties, readers are cautioned not to place undue reliance on such
+forward-looking statements.
+
+OVERVIEW
+
+        Based in Sunnyvale, California, Network Appliance was incorporated in
+California in April 1992, and reincorporated in Delaware in November 2001. We
+pioneered the concept of the "network appliance" for storage, an extension of
+the industry trend toward dedicated, specialized products that perform a single
+function. Our storage and content delivery platforms (filers and NetCache(R)
+appliances) are coupled with content distribution and reporting software. This
+Center-to-Edge(TM) solution offers seamless data management from the back-end
+data center to the edge of the network quickly, simply, and reliably. The
+Network Appliance product portfolio utilizes our innovative data access
+software, known as the Data ONTAP(TM) operating system, as well as
+standards-compliant hardware. It also offers multiprotocol support and
+integration for UNIX(R) and Windows(R) environments.
+
+        RESULTS OF OPERATIONS
+
+        The following table sets forth certain consolidated statements of
+operations data as a percentage of net sales for the periods indicated:
+
+
+
+                                       11
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                 THREE MONTHS ENDED           SIX MONTHS ENDED
+                                              -------------------------   -------------------------
+                                              OCTOBER 26,   OCTOBER 27,   OCTOBER 26,   OCTOBER 27,
+                                                 2001          2000          2001          2000
+                                              -----------   -----------   -----------   -----------
+<S>                                           <C>           <C>           <C>           <C>
+Net sales                                        100.0%        100.0%        100.0%        100.0%
+Cost of sales                                     41.6          38.1          42.8          38.4
+                                                 -----         -----         -----         -----
+            Gross margin                          58.4          61.9          57.2          61.6
+                                                 -----         -----         -----         -----
+Operating expenses:
+     Sales and marketing                          36.4          27.7          36.1          27.7
+     Research and development                     14.6          10.8          14.5          10.5
+     General and administrative                    5.4           3.9           5.3           3.9
+     Amortization of intangible assets             2.7           0.4           2.6           0.4
+     In-process research and development            --            --            --           5.4
+     Stock compensation                            1.0           0.2           1.2           0.1
+     Restructuring charges                         4.1            --           2.0            --
+                                                 -----         -----         -----         -----
+            Total operating expenses              64.2          43.0          61.7          48.0
+                                                 -----         -----         -----         -----
+Income (loss) from operations                     (5.8)         18.9          (4.5)         13.6
+Total other income (expense), net                 (4.2)          2.1          (0.7)          2.0
+                                                 -----         -----         -----         -----
+Income (loss) before income taxes                (10.0)         21.0          (5.2)         15.6
+Provision (benefit) for income taxes              (4.2)          7.4          (2.2)          7.4
+                                                 -----         -----         -----         -----
+            Net income (loss)                     (5.8)%        13.6%         (3.0)%         8.2%
+                                                 =====         =====         =====         =====
+</TABLE>
+
+        Net Sales -- Net sales decreased by 25.3% to $194.7 million for the
+three-month period ended October 26, 2001, from $260.8 million for the
+three-month period ended October 27, 2000. Net sales decreased by 19.7% to
+$395.1 million for the six-month period ended October 26, 2001, from $491.9
+million for the six-month period ended October 27, 2000. The decline in net
+sales was due to a decrease in sales to Internet-based companies and weak
+capital spending among technology companies across all geographies, but
+primarily in North America. This decrease in net sales was specifically
+attributable to a lower volume of units and software licenses shipped, as
+compared to the corresponding period of the prior fiscal year.
+
+        Factors negatively impacting net sales include:
+
+-   reduced demand for our products resulting from deteriorating macro economic
+    conditions;
+
+-   continued weakness in technology spending from Internet- and
+    technology-related customers;
+
+-   decreased sales through indirect channels, including sales through our OEM
+    partners, representing 16.0% and 17.5% of total net sales for the three and
+    six-month periods ended October 26, 2001, respectively, as compared to 25.7%
+    and 26.1% of total net sales for three and six-month periods ended October
+    27, 2000;
+
+-   declining average selling price of the F700 filers and older caching
+    products; and
+
+-   declining unit sales of our older products.
+
+        Net sales were favorably impacted by the following factors:
+
+-   competitive advantage relating to pricing and technology;
+
+-   a higher average selling price of our new products: our first multiprocessor
+    high-end F880, higher capacity F840, mid-range F820 and entry-level F85
+    filer products as well as new NetCache appliances and software features;
+
+-   Center-to-Edge data fabric solutions that bundle filers with caching and
+    content delivery software providing for enterprise storage infrastructure
+    and disaster recovery capability;
+
+-   increased revenue and units shipped from our new content delivery solutions,
+    including new NetCache platforms C6100, C3100, C1105 and C1100 and new
+    NetCache software;
+
+
+                                       12
+<PAGE>
+
+-   competitive pricing advantage offered by the Total Cost of Ownership (TCO)
+    proposition in four aspects: lower acquisition cost, reduced administrative
+    overhead, minimized service cost and reduced downtime of critical business
+    applications;
+
+-   data management and content delivery software offering a unique set of
+    features to ensure mission-critical availability, while reducing the
+    complexity of enterprise storage management;
+
+-   increased sales from new industry verticals: energy, telecommunications,
+    financial services, manufacturing, Life Sciences and the government;
+
+-   higher software subscription and service revenues to support a growing
+    installed base;
+
+-   increased add-on software revenue from Multi-Protocol solutions; and
+
+-   expansion of our sales organization to 921 as of October 26, 2001 from 806
+    as of October 27, 2000.
+
+        International net sales (including United States exports) decreased by
+10.2% and 2.3% for the three and six-month periods ended October 26, 2001 as
+compared to the same periods ended October 27, 2000, respectively. International
+net sales were $75.8 million, or 38.9% of total net sales, and $153.9 million,
+or 39.0% of total net sales, for the three and six-month periods ended October
+26, 2001, respectively. The decline in international sales for the three and six
+month periods ended October 26, 2001 was primarily a result of a slower demand
+in Europe and Asia Pacific markets offset by our increased sales and marketing
+efforts internationally. We expect to continue to selectively add sales capacity
+in an effort to expand domestic and international markets, introduce new
+products, establish and expand new distribution channels and increase product
+and company awareness. We believe our international net sales will not increase
+in fiscal 2002 at the rate at which they grew in fiscal 2001.
+
+        Gross Margin -- Gross margin decreased to 58.4% for the three-month
+period ended October 26, 2001 from 61.9% for the three-month period ended
+October 27, 2000. Gross margin decreased to 57.2% for the six-month period ended
+October 26, 2001 from 61.6% for the six-month period ended October 27, 2000.
+
+        Gross margin was negatively impacted by:
+
+-   the decrease in product sales volume;
+
+-   sales price reductions due to competitive pricing pressure and selective
+    pricing discounts;
+
+-   lower of cost or market adjustments to inventory;
+
+-   lower average selling price of certain add-on software options; and
+
+-   higher disk content with an expanded storage capacity for the higher-end
+    filers including the F840 and F880 filers.
+
+        Gross margin was favorably impacted by:
+
+-   lower costs of key components;
+
+-   higher average selling prices for our new products;
+
+-   cost control and reduction efforts, including the restructuring impact;
+
+-   increased licensing of new NetCache software, including
+    ContentReporter(TM)and ContentDirector(TM); and
+
+-   growth in software subscriptions due primarily to a larger installed base.
+
+        The overall gross margin decline during the six-month periods ended
+October 26, 2001 compared to October 27, 2000 was generally attributed to the
+same factors cited above for the second quarters of fiscal 2002 and 2001. In
+addition, gross margin was also negatively impacted by increased investments in
+customer service and positively impacted by a one week facility shutdown for the
+six-month period ended October 26, 2001 compared to the same period a year ago.
+
+        Sales and Marketing -- Sales and marketing expenses consist primarily of
+salaries, commissions, advertising and promotional expenses and certain customer
+service and support costs. Sales and marketing expenses decreased 1.8% to $70.9
+million for the three-month period ended October 26, 2001 from $72.2 million for
+the three-month periods ended October 27, 2000. These expenses were 36.4% and
+27.7% of net
+
+
+                                       13
+<PAGE>
+
+sales for the three-month periods ended October 26, 2001 and October 27, 2000,
+respectively. The decrease in absolute dollars was attributed to various cost
+control and reduction measures, restructuring impact, lower commission expenses
+and other profit-dependent payroll related expenses, partially offset by the
+continued worldwide investment in our sales and customer service organizations.
+
+        Sales and marketing expenses increased 4.8% to $142.6 million for the
+six-month period ended October 26, 2001 from $136.1 million for the six-month
+period ended October 27, 2000. These expenses were 36.1% and 27.7% of net sales
+for the six-month periods ended October 26, 2001 and October 27, 2000,
+respectively. The increase in absolute dollars was primarily related to the
+continued worldwide investment in our sales and customer service organizations,
+partially offset by various cost control and reduction measures, restructuring
+impact, lower commission expenses and other profit-dependent payroll related
+expenses. Sales and marketing headcount increased to 1,217 at October 26, 2001
+from 1,052 at October 27, 2000. We expect to continue to selectively add sales
+capacity in an effort to expand domestic and international markets, introduce
+new products, establish and expand new distribution channels and increase
+product and company awareness. We do not expect to increase our sales and
+marketing expenses materially in fiscal 2002.
+
+        Research and Development -- Research and development expenses consist
+primarily of salaries and benefits, prototype expenses, non-recurring
+engineering charges and fees paid to outside consultants. Research and
+development expenses increased 0.5% to $28.4 million for the three-month period
+ended October 26, 2001 from $28.2 million for the three-month period ended
+October 27, 2000. These expenses represented 14.6% and 10.8% of net sales for
+the three-month periods ended October 26, 2001 and October 27, 2000,
+respectively. Research and development expenses increased 10.8% to $57.4 million
+for the six-month period ended October 26, 2001 from $51.8 million for the
+six-month period ended October 27, 2000. These expenses represented 14.5% and
+10.5% of net sales for the six-month periods ended October 26, 2001 and October
+27, 2000, respectively. Research and development expenses increased in absolute
+dollars, primarily as a result of increased headcount, the operating impact of
+the Orca and WebManage acquisitions, ongoing support of current and future
+product development and enhancement efforts, prototyping expenses and
+non-recurring engineering charges associated with the development of new
+products and technologies, partially offset by cost control, reduction in
+discretionary spending efforts, restructuring impact and lower profit-related
+payroll and related costs. Research and development headcount increased to 541
+at October 26, 2001 from 444 at October 27, 2000.
+
+        During the first quarter of fiscal 2002, we continued our enterprise
+focus by introducing new Center-to-Edge solutions for global Information
+Technology (IT) infrastructures, offering greater data availability and enhanced
+disaster recovery:
+
+-   NetApp(R) DataFabric(TM) Manager, a software package for global enterprise
+    and content delivery network deployments allowing IT staff to monitor and
+    configure multiple storage and content delivery appliances throughout a
+    network;
+
+-   new Fibre Channel Fabric Tape Storage Area Network (SAN) Backup solutions,
+    along with leading data protection companies, underscoring our open storage
+    networking approach to data management;
+
+-   DiskShelf14, a new 14-slot Fibre Channel disk drive shelf that holds up to
+    one terabyte of data. Customers will benefit from the increased data storage
+    and performance densities, which help to lower their overall cost of
+    storage;
+
+-   SnapManager 1.1 for Microsoft(R) Exchange 5.5 environments, a new version of
+    the industry-leading online backup and rapid data recovery solution.
+    SnapManager 1.1 simplifies data management by providing near instantaneous
+    on-line backup and recovery, faster response times, and enhanced Windows(R)
+    2000 support;
+
+-   SecureShare(R) Quota Manager 2.0, a graphical user interface tool to
+    centrally manage and control hard and soft quotas on thousands of Microsoft
+    Windows NT(R)/2000 versions working with many NetApp filers. The solution is
+    based on the Microsoft Management Console standard interface, and allows for
+    a single point of control across multiple filers.
+
+
+                                       14
+<PAGE>
+
+        During the second quarter of fiscal 2002, we outlined our global data
+fabric strategy and launched new storage solutions for evolving data centers. We
+began shipping the new F880 series filers, our first multiprocessor systems that
+extend the high end of our Center-to-Edge solution. We also began shipping five
+new software upgrades:
+
+        -   SnapManager(R)for Microsoft(R)Exchange 2000, our first block access
+            product for Windows 2000 environments;
+
+        -   New software releases designed to ease the deployment and management
+            of global data fabrics, including NetCache 5.2(R), which delivers
+            improved security and manageability in Windows 2000 environments and
+            Data Fabric(TM) Manager 1.1 software that allows customers to view
+            and centrally manage hundreds of terabytes of networked storage;
+
+        -   ContentDirector(TM) 2.0 and ContentReporter(TM) 3.0, content
+            distribution management software that automates and simplifies the
+            movement and management of streaming media, Web pages, and rich
+            content files from centralized storage locations to access points
+            around the world.
+
+        We believe that our future performance will depend in large part on our
+ability to maintain and enhance our current product line, develop new products
+that achieve market acceptance, maintain technological competitiveness and meet
+an expanding range of customer requirements. We intend to continuously expand
+our existing product offerings and introduce new products and expect that such
+expenditures will continue to increase moderately in absolute dollars. For the
+three and six-month periods ended October 26, 2001 and October 27, 2000, no
+software development costs were capitalized.
+
+        General and Administrative -- General and administrative expenses
+increased 4.0% to $10.6 million for the three-month period ended October 26,
+2001, from $10.2 million for the three-month period ended October 27, 2000.
+These expenses represented 5.4% and 3.9% of net sales for the three-month
+periods ended October 26, 2001 and October 27, 2000, respectively. General and
+administrative expenses increased 9.4% to $20.8 million for the six-month period
+ended October 26, 2001, from $19.0 million for the six-month period ended
+October 27, 2000. These expenses represented 5.3% and 3.9% of net sales for the
+six-month periods ended October 26, 2001 and October 27, 2000, respectively.
+Increases in absolute dollars were primarily due to increased headcount,
+expenses associated with initiatives to enhance enterprise-wide management
+information systems and an increase in the allowance for bad debts, partially
+offset by cost control, reduction in discretionary spending efforts,
+restructuring impact and lower profit-dependent personnel and other expenses.
+General and administrative headcount increased to 269 at October 26, 2001 from
+204 at October 27, 2000. We believe that our general and administrative expenses
+will not increase significantly in absolute dollars in fiscal 2002.
+
+        Amortization of Intangible Assets -- Amortization of intangible assets
+represents the amortization on acquired intangible assets and the excess of the
+aggregate purchase price over the fair value of the tangible and identifiable
+intangible assets acquired by us. Intangible assets as of October 26, 2001,
+including goodwill, existing workforce and technology, are being amortized over
+estimated useful lives of three to five years. We assess the recoverability of
+intangible assets by determining whether the amortized asset over its useful
+life may be recovered through estimated useful cash flows. Amortization of
+intangible assets charged to operations increased due to a full quarter impact
+of acquisitions occurring in fiscal 2002 and was $5.2 million and $1.3 million,
+respectively, in the second quarter of fiscal 2002 and 2001. Amortization of
+intangible assets charged to operations was $10.5 million and $1.9 million,
+respectively, for the six-month periods ended October 26, 2001 and October 27,
+2000.
+
+        In-process Research and Development -- We incurred in-process research
+and development charges of approximately $26.7 million in the first quarter of
+fiscal 2001 related to the acquisition of Orca. The purchase price of the
+transaction was allocated to the acquired assets and liabilities based on their
+estimated fair values as of the date of the acquisition. Approximately $26.7
+million was allocated to in-process research and development and charged to
+operations, because the acquired technology had not reached technological
+feasibility and had no alternative uses. The value was determined by estimating
+the costs to develop the acquired in-process technology into commercially viable
+products, estimating the resulting net cash flows from such projects, and
+discounting the net cash flows back to their present value.
+
+
+                                       15
+<PAGE>
+
+The discount rate included a factor that took into account the uncertainty
+surrounding the successful development of the acquired in-process technology.
+These estimates are subject to change, given the uncertainties of the
+development process, and no assurance can be given that deviations from these
+estimates will not occur. Excluding the charge that may result from the
+remaining 132,249 contingently issuable common shares, research and development
+costs to bring the products from Orca to technological feasibility are not
+expected to have a material impact on our future results of operations or
+financial condition. Costs incurred prior to establishment of technological
+feasibility are charged to research and development expense and have not been
+material through October 26, 2001.
+
+        The Orca acquisition has been successfully utilized for the design and
+development of the Direct Access File System (DAFS) protocol. By eliminating
+much of the traditional operating system overhead, DAFS allows for improved I/O
+performance while using fewer CPU cycles. The protocol leverages next generation
+networking technologies that provide remote memory transfer capabilities (RDMA)
+found in VI and Infiniband. This protocol has good industry support and is now
+under consideration as an industry standard. We expect to deliver DAFS capable
+product in early calendar 2002. However, there is risk associated with the
+completion of the in-process project and there can be no assurance that such
+project will meet with either technological or commercial success. Failure to
+successfully develop and commercialize this in-process project would result in
+the loss of the expected economic return inherent in the fair value allocation.
+Additionally, the value of other intangible assets acquired may become impaired.
+The risks associated with the research and development are still considered high
+and no assurance can be made that upcoming products will meet market
+expectations or gain market acceptance.
+
+        Stock Compensation -- We account for stock-based employee compensation
+arrangements in accordance with provisions of APB No. 25, "Accounting for Stock
+Issued to Employees," and comply with the provisions of SFAS No. 123,
+"Accounting for Stock-Based Compensation," for non-employee compensation awards.
+Accordingly, we recognize the intrinsic value for employees and the fair value
+for non-employees as stock compensation expense over the vesting terms of the
+awards. Stock compensation expenses were $1.9 million and $0.4 million in the
+second quarter of fiscal 2002 and 2001, respectively. This increase was
+primarily attributable to the recognition of stock compensation on options
+assumed in the WebManage acquisition and the issuance of 66,124 contingently
+issuable milestones shares relating to Orca valued at $1.0 million. For the
+six-month periods, stock compensation expenses increased to $4.6 million in
+fiscal 2002 from $0.9 million in fiscal 2001, respectively for those periods.
+This increase was primarily attributable to the recognition of stock
+compensation on options assumed in the WebManage acquisition and the issuance of
+132,248 contingently issuable milestones shares relating to Orca valued at $2.4
+million.
+
+        Restructuring charges -- In August 2001, we implemented a restructuring
+plan, which included a reduction in workforce of approximately 200 employees and
+a consolidation of facilities. The action was required to properly align and
+manage the business commensurate with our current revenue levels. All functional
+areas of the Company were affected by the reduction. We completed our actions
+during the second quarter of fiscal 2002. As a result of this restructuring, we
+incurred a charge of approximately $8.0 million. The restructuring charge
+included approximately $4.8 million of severance-related amounts, $2.7 million
+of committed excess facilities and facility closure costs, and $0.5 million in
+fixed assets write off. As of October 26, 2001, $3.2 million of accrued
+committed excess facility costs and other severance-related amounts remained
+outstanding. Of this amount, approximately $2.9 million was included in other
+accrued liabilities and the remaining $0.3 million classified as long-term
+obligations. We expect to utilize the restructuring reserve over the next four
+years. We also expect annual cost savings of approximately $26.1 million as a
+result of restructuring and reduction in force actions taken in the second
+quarter of fiscal 2002.
+
+        Interest income and other, net -- Interest income and other, net, was
+$4.7 million and $5.5 million for the three-month periods ended October 26, 2001
+and October 27, 2000, respectively. The decrease is attributable to lower
+interest income primarily due to lower average interest rates, lower net
+proceeds from stock option exercises partially offset by higher average
+investment balances from cash, short-term investments and restricted cash
+generated from operations. During the six-month period ended October 26, 2001,
+interest income and other, net was $10.2 million, as compared to $9.9 million in
+the corresponding period of the prior year. The slight increase in interest
+income was primarily due to
+
+
+                                       16
+<PAGE>
+
+increased cash, short-term investments and restricted cash generated from
+operations, partially offset by lower average interest rates and a reduction of
+net proceeds from stock exercises. We expect interest income to moderately
+decline in future quarters in fiscal 2002, as existing investments mature and
+proceeds are reinvested in a lower interest-rate environment.
+
+        Impairment loss on investments -- We perform periodic reviews of our
+investments for impairment. Our investments in publicly held companies are
+generally considered impaired when a decline in the fair value of an investment
+as measured by quoted market prices is less than its carrying value and such a
+decline is not considered temporary. Our investments in privately held companies
+are considered impaired when a review of the investees' operations and other
+indicators of impairment indicate that the carrying value of the investment is
+not likely to be recoverable. Such indicators include, but are not limited to,
+limited capital resources, limited prospects of receiving additional financing,
+and prospects for liquidity of the related securities. In the second quarter of
+fiscal 2002, we recorded a non cash, other-than-temporary write down of $13.0
+million related to impairments of our investments in publicly traded and private
+companies. There were no realized gains or losses on equity investments in the
+three or six-month periods of fiscal 2001.
+
+        Provision (Benefit), for Income Taxes -- For the six-month period ended
+October 26, 2001, we applied an annual rate of 43% benefit to pretax loss and
+have recorded an adjustment in the current quarter to reflect this rate. For the
+three and six-month periods ended October 27, 2000, our effective tax rate was
+34.5%, which excluded the effect of the write-off of acquired in-process
+research and development. Our estimate is based on existing tax laws and our
+current projections of income/(loss) and distributions of income/(loss) among
+different entities and tax jurisdictions, and is subject to change, based
+primarily on varying levels of profitability.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+        As of October 26, 2001, as compared to the April 30, 2001 balances, our
+cash, cash equivalents and short-term investments decreased by $30.8 million to
+$333.3 million. Working capital decreased by $28.7 million to $388.1 million. We
+generated cash from operating activities totaling $41.5 million and $147.7
+million for the six-month periods ended October 26, 2001 and October 27, 2000,
+respectively. Net cash provided by operating activities for the six-month period
+ended October 26, 2001 was principally related to decreases in accounts
+receivable, prepaid expenses and other assets, and deferred income taxes and
+increases in other accrued liabilities, deferred revenue, coupled with
+depreciation, impairment loss on investments, amortization of intangibles and
+stock compensation, partially offset by net loss of $11.7 million, decreases in
+accounts payable, income taxes payable, accrued compensation and related
+benefits and increases in inventories.
+
+        In addition to lower net income in fiscal 2002, the primary factors that
+impacted the period-to-period change in cash flows relating to operating
+activities included the following:
+
+        -   lower accounts receivable balances due to lower sales and more
+            collections in the first six-month period of fiscal 2002;
+
+        -   non-cash acquisition-related charges, stock compensation, impairment
+            loss on investments, provision for doubtful accounts and
+            depreciation included in net income (loss);
+
+        -   increased accrued liabilities relating to the restructuring; and
+
+        -   an increase in deferred sales related to service and software
+            subscriptions.
+
+        The above factors were partially offset by the effects of:
+
+        -   decreased balances for accounts payable and deferred revenue due to
+            lower levels of business activity in the six-month period of fiscal
+            2002;
+
+        -   decreased accrued compensation and related benefits due to payouts
+            of profit dependent personnel expenses accrued in fiscal 2001 and
+            paid in fiscal 2002, vacation taken during a
+
+
+                                       17
+<PAGE>
+
+            July 2001 facility shutdown and lower commission accrual as a result
+            of lower levels of sales; and
+
+        -   decreased income taxes payable, primarily reflecting lower
+            profitability in fiscal 2002.
+
+        As a result of the restructuring actions implemented in the second
+quarter of fiscal 2002, we believe that cash operating expenses are likely to
+decline in the remainder of fiscal 2002.
+
+        Since we have curtailed capital expenditures, purchases of property and
+equipment were only $17.7 million in the six-month period of fiscal 2002,
+compared to $39.4 million the same period a year ago. The decrease was primarily
+attributed to the slowdown in hiring and various cost control and cutting
+measures. We have used $64.4 million and $55.1 million during the six-month
+periods ended October 26, 2001 and October 27, 2000, respectively, for net
+purchases of short-term investments. In the first quarter of fiscal 2001, we
+acquired Orca for a purchase price of approximately $50.0 million, including
+common stock, contingently issuable common stock, assumed options, cash payments
+of $2.0 million and related transaction costs. Investing activities in the
+six-month period ended October 26, 2001 also included new equity investments of
+$0.8 million.
+
+        We have used $52.8 million and $23.3 million during the six-month
+periods ended October 26, 2001 and October 27, 2000, respectively, from
+financing activities, primarily from the increase in restricted cash (see "
+Commitments" Note 9 to Notes to Condensed Consolidated Financial Statements)
+partially offset by proceeds from the sale of common stock. The decrease in cash
+provided by sales of common stock for the six-month period ended October 26,
+2001, compared to the corresponding period of the prior fiscal year, was
+primarily due to lower stock option exercise proceeds as a result of the recent
+decline in our stock price.
+
+        Excluding the commitments related to operating lease arrangements for
+various properties in our Sunnyvale headquarters, which aggregate $309.0
+million, we currently have no significant commitments other than commitments
+under operating leases. We believe that our existing liquidity and capital
+resources, including the available amounts under our $5.0 million line of
+credit, are sufficient to fund our operations for at least the next twelve
+months. We may also investigate other financing alternatives; however, we cannot
+be certain that additional financing will be available on satisfactory terms.
+
+NEW ACCOUNTING STANDARDS
+
+        Effective May 1, 2001, we adopted SFAS No. 133, "Accounting for
+Derivative Instruments and Hedging Activities," as amended, which establishes
+accounting and reporting standards for derivative instruments, including certain
+derivative instruments embedded in other contracts, and for hedging activities.
+Under SFAS No. 133, certain contracts that were not formerly considered
+derivatives may now meet the definition of a derivative. SFAS No. 133 requires
+that all derivatives be recognized as either assets or liabilities at fair
+value. Derivatives that are not designated as hedges are adjusted to fair value
+through earnings. If the derivative is designated as a hedge, depending on the
+nature of the exposure being hedged, changes in fair value will either be offset
+against the change in fair value of the hedged asset, liability, or firm
+commitment through earnings, or recognized in other comprehensive income until
+the hedged item is recognized in earnings. The ineffective portion of the hedge
+is recognized in earnings immediately.
+
+        As a result of our significant international operations, we are subject
+to risks associated with fluctuating exchange rates. We use foreign currency
+forward contracts, to attempt to minimize the impact of exchange rate movements
+on our balance sheet relating to certain foreign currency assets and
+liabilities. Gains and losses on these undesignated derivatives offset gains and
+losses on the assets and liabilities being hedged and the net amount is included
+in earnings. For the first quarter of fiscal 2002, net losses generated by
+hedged assets and liabilities totaled approximately $0.2 million, which were
+offset by gains on the related derivative instruments of approximately $0.3
+million. For the second quarter of fiscal 2002, net gains generated by hedged
+assets and liabilities totaled approximately $1.1 million, which were offset by
+losses on the related derivative instruments of approximately $1.6 million. We
+do not enter into derivative financial instruments for speculative or trading
+purposes.
+
+
+                                       18
+<PAGE>
+
+        Currently, we do not enter into any foreign exchange forward contracts
+to hedge exposures related to forecasted transactions, firm commitments or
+equity investments. The adoption of SFAS No. 133 did not have a significant
+impact on our financial position, results of operations or cash flow.
+
+        In June 2001, the Financial Accounting Standards Board ("FASB") issued
+SFAS No. 141, "Business Combinations," and SFAS No. 142, "Goodwill and Other
+Intangible Assets". Under SFAS No. 141, all business combinations initiated
+after June 30, 2001 must be accounted for using the purchase method. Under SFAS
+No. 142, goodwill and intangible assets with indefinite lives are no longer
+amortized but are reviewed annually for impairment (or more frequently if
+indicators of impairment arise). Separable intangible assets that are not deemed
+to have indefinite lives will continue to be amortized over their useful lives
+(but with no maximum life). The amortization provisions of SFAS No. 142 apply to
+goodwill and intangible assets acquired after June 30, 2001. With respect to
+goodwill and intangible assets acquired prior to July 1, 2001, we are required
+to adopt SFAS No. 142 effective April 27, 2002. Upon adoption of SFAS No. 142,
+we will stop the amortization of goodwill with a net carrying value of
+approximately $48.9 million at April 26, 2002 and the annual amortization of
+$14.6 million that resulted from business combinations initiated prior to the
+adoption. We will evaluate goodwill under the SFAS No. 142 transitional
+impairment test. Any transitional impairment loss will be recognized as a change
+in accounting principle on the date of adoption. If any impairment of goodwill
+is recognized, under existing accounting rules, prior to the date of adoption,
+the loss will be charged to operating expenses.
+
+        In October 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets," which addresses financial
+accounting and reporting for the impairment or disposal of long-lived assets.
+SFAS No. 144 supersedes SFAS No. 121, "Accounting for the Impairment of
+Long-Lived Assets and for Assets to Be Disposed Of." Adoption of SFAS No. 144 is
+required for our fiscal year beginning April 27, 2002. We are currently
+evaluating the potential impact of adoption of SFAS No. 144 on our financial
+position and results of operations and have not yet determined the impact of
+adopting this statement.
+
+RISK FACTORS
+
+        The following risk factors and other information included in this Form
+10-Q should be carefully considered. The risks and uncertainties described below
+are not the only ones we face. Additional risks and uncertainties not presently
+known to us or that we presently deem less significant may also impair our
+business operations. If any of the following risks actually occur, our business,
+operating results, and financial condition could be materially adversely
+affected.
+
+FACTORS BEYOND OUR CONTROL COULD CAUSE OUR QUARTERLY RESULTS TO FLUCTUATE.
+
+        Although we did experience significant revenue growth in periods prior
+to the third quarter of fiscal 2001, this growth may not be indicative of our
+future operating results. As a result, we believe that period-to-period
+comparisons of our results of operations are not necessarily meaningful and
+should not be relied upon as indicators of future performance. Many of the
+factors that could cause our quarterly operating results to fluctuate
+significantly in the future are beyond our control and include the following:
+
+    -   general economic trends;
+
+    -   global trends related to Information Technology spending;
+
+    -   demand for storage and content delivery products;
+
+    -   the level of competition in our target product markets;
+
+    -   the size, timing, and cancellation of significant orders;
+
+    -   product configuration and mix;
+
+    -   market acceptance of new products and product enhancements;
+
+    -   new product announcements or introductions by us or our competitors;
+
+    -   deferrals of customer orders in anticipation of new products or product
+        enhancements;
+
+    -   changes in pricing by us or our competitors;
+
+
+                                       19
+<PAGE>
+
+    -   our ability to develop, introduce, and market new products and
+        enhancements in a timely manner;
+
+    -   supply constraints;
+
+    -   technological changes in our target product markets;
+
+    -   the levels of expenditure on research and development and expansion of
+        our sales and marketing programs; and
+
+    -   seasonality.
+
+        Current global economic and political factors, including terrorism,
+could harm our business. Weak economic conditions, terrorist actions, and the
+effects of ongoing military actions against terrorists could lead to significant
+business interruptions. If such disruptions result in cancellations of customer
+orders, a general decrease in corporate spending on information technology, or
+direct impacts on our marketing, manufacturing, financial functions or our
+suppliers' logistics function, our results of operations and financial condition
+could be adversely affected.
+
+        In addition, sales for any future quarter may vary and accordingly be
+inconsistent with our plans. We generally operate with limited order backlog
+because our products are typically shipped shortly after orders are received. As
+a result, product sales in any quarter are generally dependent on orders booked
+and shipped in that quarter. Product sales are also difficult to forecast
+because the network storage market is rapidly evolving and our sales cycle
+varies substantially from customer to customer.
+
+        Due to all of the foregoing factors, it is possible that in one or more
+future quarters our results may fall below the expectations of public market
+analysts and investors, as has been the case through the last two quarters of
+fiscal 2001 and first two quarters of fiscal 2002. In such event, the trading
+price of our common stock would likely decrease.
+
+OUR GROSS MARGINS MAY VARY BASED ON THE CONFIGURATION OF OUR PRODUCTS.
+
+        We derive a significant portion of our sales from the resale of disk
+drives as components of our filers, and the resale market for hard disk drives
+is highly competitive and subject to intense pricing pressures. Our sales of
+disk drives generate lower gross margin percentages than those of our filer
+products. As a result, as we sell more highly configured systems with greater
+disk drive content, overall gross margin percentages will be negatively
+affected. Conversely, we believe our increased licensing of add-on software
+products may favorably impact gross margins.
+
+        Our gross margins have been and may continue to be affected by a variety
+of other factors, including:
+
+    -   demand for storage and content delivery products;
+
+    -   discount levels and price competition;
+
+    -   direct versus indirect sales;
+
+    -   the mix of software as a percentage of revenue;
+
+    -   the mix and average selling prices of products;
+
+    -   new product introductions and enhancements; and
+
+    -   the cost of components, manufacturing labor, and quality.
+
+A SIGNIFICANT PERCENTAGE OF OUR EXPENSES ARE FIXED WHICH COULD AFFECT OUR NET
+INCOME.
+
+        Our expense levels are based in part on our expectations as to future
+sales and a significant percentage of our expenses are fixed. As a result, if
+sales levels are below expectations, as has been the case through the second
+half of fiscal 2001 and the first two quarters of fiscal 2002, net income will
+be disproportionately affected.
+
+OUR FUTURE FINANCIAL PERFORMANCE DEPENDS ON GROWTH IN THE NETWORK STORAGE AND
+CONTENT DELIVERY MARKET AND ANY LACK OF GROWTH WILL HAVE A MATERIAL ADVERSE
+EFFECT ON OUR OPERATING RESULTS.
+
+        All of our products address the storage and content delivery market.
+Accordingly, our future financial performance will depend in large part on
+continued growth in the storage and content delivery market and on emerging
+standards in these markets. We cannot assure you that the market for storage and
+content delivery will continue to grow or that emerging standards in these
+markets will not adversely affect
+
+
+                                       20
+<PAGE>
+
+the growth of UNIX, Windows NT and the World Wide Web server markets. In
+addition, our business also depends on general economic and business conditions.
+A reduction in demand for network storage and content delivery caused by
+weakening economic conditions and decreases in corporate spending has resulted
+in decreased revenues or lower revenue growth rates. The network storage and
+content delivery market growth declined significantly beginning in the third
+quarter of fiscal 2001, causing both our revenues and operating results to
+decline. If the network storage and content delivery markets grow more slowly
+than anticipated or if network storage and content delivery based on emerging
+standards other than those adopted by us become increasingly accepted by the
+market, our operating results could be materially adversely affected.
+
+THE MARKET PRICE FOR OUR COMMON STOCK HAS FLUCTUATED SIGNIFICANTLY IN THE PAST
+AND WILL LIKELY CONTINUE TO DO SO IN THE FUTURE.
+
+        The market price for our common stock has been volatile in the past, and
+several factors could cause the price to fluctuate substantially in the future.
+
+        These factors include:
+
+    -   fluctuations in our operating results;
+
+    -   fluctuations in the valuation of companies perceived by investors to be
+        comparable to us;
+
+    -   a shortfall in revenues or earnings compared to securities analysts'
+        expectations;
+
+    -   changes in analysts' recommendations or projections;
+
+    -   announcements of new products, applications or product enhancements by
+        us or our competitors; and
+
+    -   changes in our relationships with our suppliers, customers and strategic
+        partners.
+
+        In addition, the stock market has experienced volatility that has
+particularly affected the market prices of equity securities of many high
+technology companies. Additionally, certain macro economic factors such as
+changes in interest rates as well as market climate for the high technology
+sector could also have an impact on the trading price of our stock. As a result,
+the market price of our common stock may fluctuate significantly in the future
+and any broad market decline, as well as our own operating results, may
+materially adversely affect the market price of our common stock.
+
+THE SUCCESS OF OUR NETCACHE APPLIANCE PRODUCTS DEPENDS UPON MARKET ACCEPTANCE OF
+CACHING TECHNOLOGY AND CONTINUED GROWTH IN THE CONTENT DELIVERY MARKET.
+
+        In late 1997, we released our NetCache appliance products, a new
+category of hardware-based Internet caching appliances designed to speed and
+manage the delivery of information stored on the Web. However, hardware-based
+caching technology is still developing.
+
+        Our future financial performance will depend in part on the acceptance
+of caching technology and the acceptance of our NetCache appliance products. We
+cannot assure you that the caching appliance market will continue to grow at
+previous rates or at all.
+
+IF WE ARE UNABLE TO DEVELOP AND INTRODUCE NEW PRODUCTS AND RESPOND TO
+TECHNOLOGICAL CHANGE, OR IF OUR NEW PRODUCTS DO NOT ACHIEVE MARKET ACCEPTANCE,
+OUR OPERATING RESULTS COULD BE MATERIALLY ADVERSELY AFFECTED.
+
+        Our future growth depends upon the successful development and
+introduction of new hardware and software products. Due to the complexity of
+storage sub-systems and Internet caching devices, and the difficulty in gauging
+the engineering effort required to produce new products, such products are
+subject to significant technical risks. However, we cannot assure you that any
+of our new products will achieve market acceptance. Additional product
+introductions in future periods may also impact the sales of existing products.
+In addition, our new products must respond to technological changes and evolving
+industry standards. If we are unable, for technological or other reasons, to
+develop and introduce new products in a timely manner in response to changing
+market conditions or customer requirements, or if such products do not achieve
+market acceptance, our operating results could be materially adversely affected.
+
+WE DEPEND ON ATTRACTING AND RETAINING QUALIFIED TECHNICAL AND SALES PERSONNEL.
+
+
+                                       21
+<PAGE>
+
+        Our continued success depends, in part, on our ability to identify,
+attract, motivate and retain qualified technical and sales personnel. Because
+our future success is dependent on our ability to continue to enhance and
+introduce new products, we are particularly dependent on our ability to
+identify, attract, motivate and retain qualified engineers with the requisite
+education, backgrounds and industry experience. Competition for qualified
+engineers, particularly in Silicon Valley, is intense. The loss of the services
+of a significant number of our engineers or sales people could be disruptive to
+our development efforts or business relationships and could materially adversely
+affect our operating results.
+
+RISKS INHERENT IN OUR INTERNATIONAL OPERATIONS COULD HAVE A MATERIAL ADVERSE
+EFFECT ON OUR OPERATING RESULTS.
+
+        We conduct business internationally. International customers (including
+United States exports) were approximately 38.9% and 39.0% of our net sales for
+the three and six-month periods ended October 26, 2001, respectively.
+Accordingly, our future operating results could be materially adversely affected
+by a variety of factors, some of which are beyond our control, including
+regulatory, political or economic conditions in a specific country or region,
+trade protection measures and other regulatory requirements and government
+spending patterns.
+
+        Our international sales are denominated in U.S. dollars and in foreign
+currencies. An increase in the value of the U.S. dollar relative to foreign
+currencies could make our products more expensive and, therefore, potentially
+less competitive in foreign markets. For international sales and expenditures
+denominated in foreign currencies, we are subject to risks associated with
+currency fluctuations. We hedge risks associated with foreign currency
+transactions in order to minimize the impact of changes in foreign currency
+exchange rates on earnings. We utilize forward contracts to hedge trade and
+intercompany receivables and payables. All hedge contracts are marked to market
+through earnings every period. There can be no assurance that such hedging
+strategy will be successful and that currency exchange rate fluctuations will
+not have a material adverse effect on our operating results.
+
+        Additional risks inherent in our international business activities
+generally include, among others, longer accounts receivable payment cycles,
+difficulties in managing international operations and potentially adverse tax
+consequences. Such factors could materially adversely affect our future
+international sales and, consequently, our operating results.
+
+        Although operating results have not been materially adversely affected
+by seasonality in the past, because of the significant seasonal effects
+experienced within the industry, particularly in Europe, our future operating
+results could be materially adversely affected by seasonality.
+
+        We cannot assure you that we will be able to maintain or increase
+international market demand for our products. We believe our net sales will not
+increase in fiscal 2002 at the rate at which they grew in fiscal 2001.
+
+AN INCREASE IN COMPETITION COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING
+RESULTS.
+
+        The storage and content delivery markets are intensely competitive and
+are characterized by rapidly changing technology.
+
+        In the storage market, our filer appliances and data management software
+compete primarily against storage products and data management software from EMC
+Corporation, Hitachi Data Systems, Compaq Computer Corporation, Sun
+Microsystems, Inc., Hewlett-Packard Company, and IBM Corporation. We also
+encounter less frequent competition from companies including MTI Corp., Procom
+Technology, LSI Logic Corp., and Auspex Systems, Inc.
+
+        In the content delivery market, our NetCache appliances and content
+delivery software compete against caching appliance and content delivery
+software vendors including Cisco Systems, Inc., CacheFlow, Inc., Inktomi Corp.,
+Akamai Technologies, Inc., and Volera.
+
+        This past year has seen an increasing number of new, privately held
+companies attempting to enter our markets, some of which may become significant
+competitors in the future.
+
+        We believe that the principal competitive factors affecting our market
+include but are not limited to:
+
+
+                                       22
+<PAGE>
+
+    -   Response time and performance
+
+    -   Scalability
+
+    -   Data availability
+
+    -   Multiprotocol data sharing
+
+    -   Acquisition price and low overall total cost of ownership
+
+    -   Ease-of-use and deployment
+
+    -   Customer service and support
+
+        Although we believe that our products currently compete favorably with
+respect to these factors, we can not assure you that we can maintain our
+competitive position against current and potential competitors, especially those
+with significantly greater financial, marketing, service, support, technical,
+and other resources.
+
+        Increased competition could result in price reductions, reduced gross
+margins and loss of market share, any of which could materially adversely affect
+our operating results. Our competitors may be able to respond more quickly than
+we can to new or emerging technologies and changes in customer requirements, or
+devote greater resources to the development, promotion, sale and support of
+their products. In addition, current and potential competitors have established
+or may establish cooperative relationships among themselves or with third
+parties. Accordingly, it is possible that new competitors or alliances among
+competitors may emerge and rapidly acquire significant market share. We cannot
+assure you that we will be able to compete successfully against current or
+future competitors. Competitive pressures we face could materially adversely
+affect our operating results.
+
+WE RELY ON A LIMITED NUMBER OF SUPPLIERS AND ANY DISRUPTION OR TERMINATION OF
+THESE SUPPLY ARRANGEMENTS COULD DELAY SHIPMENT OF OUR PRODUCTS AND COULD
+MATERIALLY ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        We rely on a limited number of suppliers of several key components
+utilized in the assembly of our products. We purchase most of our disk drives
+through a single supplier. We purchase computer boards and microprocessors from
+a limited number of suppliers. Our reliance on a limited number of suppliers
+involves several risks, including:
+
+    -   a potential inability to obtain an adequate supply of required
+        components because we do not have long-term supply commitments;
+
+    -   supplier capacity constraints;
+
+    -   price increases;
+
+    -   timely delivery; and
+
+    -   component quality.
+
+        In the future, we intend to increasingly rely on contract manufacturers
+to assemble our products. If our contract manufacturers' operations were
+interrupted for any reason, our ability to meet scheduled product deliveries to
+customers would be materially adversely affected.
+
+        Component quality is particularly significant with respect to our
+supplier of disk drives. In order to meet product performance requirements, we
+must obtain disk drives of extremely high quality and capacity. In addition,
+there are periodic supply and demand issues for disk drives, microprocessors and
+for semiconductor memory components, which could result in component shortages,
+selective supply allocations and increased prices of such components. We cannot
+assure you that we will be able to obtain our full requirements of such
+components in the future or that prices of such components will not increase. In
+addition, problems with respect to yield and quality of such components and
+timeliness of deliveries could occur. Disruption or termination of the supply of
+these components could delay shipments of our products and could materially
+adversely affect our operating results. Such delays could also damage
+relationships with current and prospective customers.
+
+WE CANNOT ASSURE YOU THAT WE WILL NOT INCUR PROBLEMS WITH CURRENT OR FUTURE
+EQUITY INVESTMENTS AND ACQUISITIONS OR THAT WE WILL REALIZE VALUE FROM SUCH
+STRATEGIC RELATIONSHIPS.
+
+
+                                       23
+<PAGE>
+
+        We are continuously evaluating alliances and external investment in
+technologies related to our business. We have already made relatively small
+strategic investments in a number of network storage related technology
+companies and acquired two companies since the beginning of fiscal 2001. Equity
+investments may result in the loss of investment capital. Acquisitions of
+companies or products and alliances and strategic investments entail numerous
+risks, and we cannot assure you that we will be able to successfully integrate
+acquired operations and products or to realize anticipated synergies, economies
+of scale, or other value. In addition, we may experience a diversion of
+management's attention, the loss of key employees of acquired operations or the
+inability to recover strategic investments in development stage entities. Any
+such problems could have a material adverse effect on our business, financial
+condition and results of operation.
+
+WE DO NOT HAVE EXCLUSIVE RELATIONSHIPS WITH OUR DISTRIBUTORS AND ACCORDINGLY
+THERE IS A RISK THAT THOSE DISTRIBUTORS MAY GIVE HIGHER PRIORITY TO PRODUCTS OF
+OTHER SUPPLIERS, WHICH COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        Our distribution customers generally offer products of several different
+companies, including products of our competitors. Accordingly, there is risk
+that these distributors may give higher priority to products of other suppliers,
+which could materially adversely affect our operating results.
+
+UNDETECTED SOFTWARE ERRORS OR FAILURES FOUND IN NEW PRODUCTS MAY RESULT IN LOSS
+OF OR DELAY IN MARKET ACCEPTANCE OF OUR PRODUCTS WHICH COULD MATERIALLY
+ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        Our products may contain undetected software errors or failures when
+first introduced or as new versions are released. Despite testing by us and by
+current and potential customers, errors may not be found in new products until
+after commencement of commercial shipments, resulting in loss of or delay in
+market acceptance, which could materially adversely affect our operating
+results.
+
+IF WE ARE UNABLE TO PROTECT OUR INTELLECTUAL PROPERTY WE MAY BE SUBJECT TO
+INCREASED COMPETITION THAT COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING
+RESULTS.
+
+        Our success depends significantly upon our proprietary technology. We
+currently rely on a combination of copyright and trademark laws, trade secrets,
+confidentiality procedures, contractual provisions and patents to protect our
+proprietary rights. We seek to protect our software, documentation and other
+written materials under trade secret, copyright and patent laws, which afford
+only limited protection. Other United States trademarks and some of the other
+United States--registered trademarks are registered internationally as well. We
+will continue to evaluate the registration of additional trademarks as
+appropriate. We generally enter into confidentiality agreements with our
+employees and with our resellers and customers. We currently have multiple
+United States and international patent applications pending and multiple United
+States patents issued. The pending applications may not be approved and if
+patents are issued, such patents may be challenged. If such challenges are
+brought, the patents may be invalidated. We cannot assure you that we will
+develop proprietary products or technologies that are patentable, that any
+issued patent will provide us with any competitive advantages or will not be
+challenged by third parties, or that the patents of others will not materially
+adversely affect our ability to do business.
+
+        Litigation may be necessary to protect our proprietary technology. Any
+such litigation may be time-consuming and costly. Despite our efforts to protect
+our proprietary rights, unauthorized parties may attempt to copy aspects of our
+products or to obtain and use information that we regard as proprietary. In
+addition, the laws of some foreign countries do not protect proprietary rights
+to as great an extent as do the laws of the United States. We cannot assure you
+that our means of protecting our proprietary rights will be adequate or that our
+competitors will not independently develop similar technology, duplicate our
+products or design around patents issued to us or other intellectual property
+rights of ours.
+
+        We are subject to intellectual property infringement claims. We may,
+from time to time receive claims that we are infringing third parties'
+intellectual property rights. Third parties may in the future claim infringement
+by us with respect to current or future products, patents, trademarks or other
+proprietary rights. We expect that companies in the appliance market will
+increasingly be subject to infringement claims as the number of products and
+competitors in our industry segment grows and the functionality of products in
+different industry segments overlaps. Any such claims could be time-consuming,
+result in costly litigation, cause product shipment delays, require us to
+redesign our products or require us to enter
+
+
+                                       24
+<PAGE>
+
+into royalty or licensing agreements, any of which could materially adversely
+affect our operating results. Such royalty or licensing agreements, if required,
+may not be available on terms acceptable to us or at all.
+
+PROTECTIVE ANTI-TAKEOVER PROVISIONS IN OUR CHARTER AND BYLAWS COULD MATERIALLY
+ADVERSELY AFFECT STOCKHOLDERS.
+
+        Our Board of Directors has the authority to issue up to 5,000,000 shares
+of preferred stock and to determine the price, rights, preferences, privileges
+and restrictions, including voting rights, of those shares without any further
+vote or action by the shareholders. The rights of the holders of common stock
+will be subject to, and may be materially adversely affected by, the rights of
+the holders of any preferred stock that may be issued in the future. The
+issuance of preferred stock could have the effect of making it more difficult
+for a third party to acquire a majority of our outstanding voting stock.
+
+WE RELY ON A CONTINUOUS POWER SUPPLY AND ANY POWER SHORTAGE COULD INTERRUPT OUR
+MANUFACTURING OPERATIONS AND COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING
+RESULTS.
+
+        California is in the midst of an energy crisis that could disrupt our
+operations and increase our expenses. In the event of an acute power shortage,
+that is, when power reserves for the State of California fall below certain
+critical levels, California has on some occasions implemented, and may in the
+future continue to implement, rolling blackouts. We currently have limited
+backup generators or alternate sources of power in the event of a blackout, and
+our current insurance does not provide coverage for any damages we or our
+customers/suppliers may suffer as a result of any interruption in our power
+supply. If blackouts interrupt our power supply or our suppliers' power supply,
+we could be temporarily unable to continue operations at our California
+facilities. Any such interruption in our ability to continue operations at our
+facilities or our suppliers' facilities to manufacture products could damage our
+reputation, harm our ability to retain existing customers and to obtain new
+customers, and could result in lost revenue, any of which could materially
+adversely affect our operating results.
+
+
+
+                                       25
+<PAGE>
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+        We are exposed to market risk related to fluctuations in interest rates,
+market prices and foreign currency exchange rates. We use certain derivative
+financial instruments to manage these risks. We do not use derivative financial
+instruments for speculative or trading purposes. All financial instruments are
+used in accordance with Board-approved policies.
+
+Market Interest and Interest Income Risk
+
+        Interest and Investment Income - As of October 26, 2001, we had
+short-term investments of $155.5 million. Our investment portfolio primarily
+consists of highly liquid investments with original maturities at the date of
+purchase between three and twelve months and investment in marketable equity
+securities in certain technology companies. These highly liquid investments,
+consisting primarily of government and corporate debt securities, are subject to
+interest rate and interest income risk and will decrease in value if market
+interest rates increase. A hypothetical 10 percent increase in market interest
+rates from levels at October 26, 2001, would cause the fair value of these
+short-term investments to decline by an immaterial amount. Because we have the
+ability to hold these investments until maturity we would not expect any
+significant decline in value of our investments caused by market interest rate
+changes. Declines in interest rates over time will, however, reduce our interest
+income. We do not use derivative financial instruments in our investment
+portfolio.
+
+        Operating Lease Commitments - As of October 26, 2001, we have
+outstanding lease commitments to a third-party entity under operating lease
+agreements, which vary based on a monthly LIBOR rate plus a spread. A
+hypothetical 10 percent increase in interest rates would increase our annual
+rent expense under operating lease commitments by approximately $0.8 million.
+Increases in interest rates could, however, increase our rent expenses
+associated with future lease payments. We do not currently hedge against
+interest rate increases. Our investment portfolio offers a natural hedge against
+interest rate risk from our operating lease commitments in the event of a
+significant increase in the market interest rate. Moreover, a total of $250.7
+million in operating leases are collateralized with investments that have
+similar, and thus offsetting, interest rate characteristics.
+
+Market Price Risk
+
+        Equity Securities - We are also exposed to market price risk on our
+equity securities included in our short-term investments. These investments are
+in publicly traded companies in the volatile high-technology industry sector. We
+do not attempt to reduce or eliminate our market exposure on these securities
+and as a result, the amount of income and cash flow that we ultimately realize
+from these investments in future periods may vary materially from the current
+unrealized amount. A 50% adverse change in the equity price would result in an
+approximate $1.0 million decrease in the fair value of our equity securities as
+of October 26, 2001.
+
+        The hypothetical changes and assumptions discussed above will be
+different from what actually occurs in the future. Furthermore, such
+computations do not anticipate actions that may be taken by management, should
+the hypothetical market changes actually occur over time. As a result, the
+effect on actual earnings in the future will differ from those described above.
+
+Foreign Currency Exchange Rate Risk
+
+        We hedge risks associated with foreign currency transactions in order to
+minimize the impact of changes in foreign currency exchange rates on earnings.
+We utilize forward contracts to hedge against the short-term impact of foreign
+currency fluctuations on certain assets and liabilities denominated in foreign
+currencies. All hedge instruments are marked to market through earnings every
+period. We believe that these forward contracts do not subject us to undue risk
+due to foreign exchange movements because gains and losses on these contracts
+are offset by losses and gains on the underlying assets and liabilities.
+
+
+                                       26
+<PAGE>
+
+        All contracts have a maturity of less than one year and we do not defer
+any gains and losses, as they are all accounted for through earnings every
+period.
+
+        The following table provides information about our foreign exchange
+forward contracts outstanding on October 26, 2001, (in thousands):
+
+<TABLE>
+<CAPTION>
+                BUY/              FOREIGN        CONTRACT VALUE     FAIR VALUE
+CURRENCY        SELL          CURRENCY AMOUNT          USD            IN USD
+------------------------------------------------------------------------------
+<S>             <C>           <C>                <C>                <C>
+AUD             Sell               4,976             $ 2,483          $ 2,488
+CHF             Sell               2,224             $ 1,349          $ 1,349
+EUR             Sell              51,266             $45,499          $45,561
+GBP             Sell               9,649             $13,838          $13,860
+</TABLE>
+
+
+
+
+
+                                       27
+<PAGE>
+
+
+                           PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+   None
+
+ITEM 2. CHANGES IN SECURITIES
+
+   None
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+   None
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   On October 18, 2001, we held our 2001 Annual Meeting of Stockholders. On the
+record date, 330,366,171 shares of our Common Stock were outstanding and
+entitled to be voted. Tabulated proxies at the meeting represented 297,473,504
+shares, or 90.0% of the total eligible. Voting results are summarized below:
+
+   Proposal I - To elect the following individuals to serve as members of the
+Board of the Directors for the ensuing year or until their respective successors
+are duly elected and qualified:
+
+<TABLE>
+<CAPTION>
+        NAME                                        VOTES FOR      WITHHELD
+        --------------------------------------------------------------------
+<S>                                                <C>            <C>
+        Daniel J. Warmenhoven                      282,192,775    15,278,629
+        Donald T. Valentine                        294,926,187     2,545,217
+        Sanjiv Ahuja                               294,932,648     2,538,756
+        Carol A. Bartz                             294,941,998     2,529,406
+        Michael R. Hallman                         294,951,914     2,519,490
+        Sachio Semmoto                             294,939,934     2,531,470
+        Robert T. Wall                             294,943,456     2,527,948
+</TABLE>
+
+        Proposal II - To approve a series of amendments to the Company's 1999
+Stock Option Plan (the "1999 Plan") which will increase the share reserve under
+the plan by an additional 13,400,000 shares of Common Stock and effect certain
+changes to the automatic option grant program in effect for the non-employee
+members of the Board of Directors.
+
+<TABLE>
+<CAPTION>
+        VOTES FOR            AGAINST               WITHHELD
+        ----------------------------------------------------
+<S>                          <C>                   <C>
+        218,310,199          77,689,224            1,419,983
+</TABLE>
+
+
+        Proposal III - To approve an amendment to the Company's Employee Stock
+Purchase Plan (the "the ESPP") which will increase the share reserve under the
+plan by an additional 3,000,000 shares of Common Stock and extend the term of
+the ESPP to the last business day of May 2011.
+
+<TABLE>
+<CAPTION>
+        VOTES FOR            AGAINST               WITHHELD
+        ----------------------------------------------------
+<S>                          <C>                   <C>
+        285,940,309          10,149,868            1,327,129
+</TABLE>
+
+
+
+                                       28
+<PAGE>
+
+        Proposal IV - To approve the Company's reincorporation under the laws of
+the state of Delaware.
+
+<TABLE>
+<CAPTION>
+        VOTES FOR            AGAINST               WITHHELD
+        ----------------------------------------------------
+<S>                          <C>                   <C>
+        188,143,555          7,429,199             1,225,255
+</TABLE>
+
+        Proposal V - To ratify the appointment of Deloitte and Touche LLP as
+independent accountants of the Company for the fiscal year ending April 26,
+2002.
+
+<TABLE>
+<CAPTION>
+        VOTES FOR            AGAINST               WITHHELD
+        ----------------------------------------------------
+<S>                          <C>                   <C>
+        295,730,023          655,667               1,085,714
+</TABLE>
+
+        Proposal VI - To transact such other business as may properly come
+before the meeting or any adjournment thereof.
+
+<TABLE>
+<CAPTION>
+        VOTES FOR            AGAINST               WITHHELD
+        -----------------------------------------------------
+<S>                          <C>                   <C>
+        209,620,491          50,321,829            37,529,084
+</TABLE>
+
+
+ITEM 5. OTHER INFORMATION
+
+   None
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+   (a) EXHIBITS
+
+       None
+
+   (b) REPORTS ON FORM 8-K
+
+       None
+
+
+
+
+                                       29
+<PAGE>
+
+                                    SIGNATURE
+
+   Pursuant to the requirements of the Securities and Exchange Act of 1934, as
+amended, the registrant duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+                                        NETWORK APPLIANCE INC.
+                                        (Registrant)
+
+                                               /s/       JEFFRY R. ALLEN
+                                        ----------------------------------------
+                                                         Jeffry R. Allen
+                                         Executive Vice President Finance and
+                                        Operations, and Chief Financial Officer
+
+Date: December 7, 2001
+
+
+
+
+
+                                       30
+
+</TEXT>
+</DOCUMENT>

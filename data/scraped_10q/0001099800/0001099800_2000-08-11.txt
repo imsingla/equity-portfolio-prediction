@@ -1,0 +1,1802 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+<TABLE>
+<C>        <S>
+   /X/     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2000
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                         COMMISSION FILE NUMBER 1-15525
+
+                            ------------------------
+
+                        EDWARDS LIFESCIENCES CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                                         <C>
+                      DELAWARE                                           36-4316614
+          (State or other jurisdiction of                   (I.R.S. Employer Identification No.)
+           incorporation or organization)
+
+        ONE EDWARDS WAY, IRVINE, CALIFORNIA                                92614
+(formerly 17221 Red Hill Avenue, Irvine, California)                     (Zip Code)
+      (Address of principal executive offices)
+</TABLE>
+
+                                 (949) 250-2500
+              (Registrant's telephone number, including area code)
+
+                            ------------------------
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                            Yes __X__       No ____
+
+    The number of shares of the registrant's Common Stock, par value $1.00 per
+share, outstanding as of July 31, 2000, the latest practicable date, was
+58,436,511 shares.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+                                   FORM 10-Q
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2000
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                        PAGE NUMBER
+                                                                        -----------
+<S>       <C>                                                           <C>
+PART I.   FINANCIAL INFORMATION
+
+Item 1.   Financial Statements (Unaudited)
+
+            Consolidated Condensed Balance Sheets.....................       2
+
+            Consolidated Condensed Statements of Income...............       3
+
+            Consolidated Condensed Statements of Cash Flows...........       4
+
+            Notes to Consolidated Condensed Financial Statements......       5
+
+Item 2.   Management's Discussion and Analysis of Financial Condition
+            and Results of Operations.................................      15
+
+PART II.  OTHER INFORMATION
+
+Item 1.   Legal Proceedings...........................................      25
+
+Item 6.   Exhibits and Reports on Form 8-K............................      25
+
+Signature.............................................................      26
+
+Exhibits..............................................................      27
+</TABLE>
+
+                                       1
+<PAGE>
+                         PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                        EDWARDS LIFESCIENCES CORPORATION
+
+                     CONSOLIDATED CONDENSED BALANCE SHEETS
+
+                  (UNAUDITED) (IN MILLIONS, EXCEPT SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                              JUNE 30,   DECEMBER 31,
+                                                                2000         1999
+                                                              --------   ------------
+<S>                                                           <C>        <C>
+                                       ASSETS
+
+CURRENT ASSETS
+  Cash and cash equivalents.................................   $    2       $   --
+  Accounts receivable, net..................................      162          155
+  Inventories...............................................       95          169
+  Prepaid expenses and other current assets.................       36           32
+                                                               ------       ------
+    Total current assets....................................      295          356
+
+Property, plant and equipment, net..........................      178          226
+Investments in equity instruments...........................       99            1
+Goodwill and other intangibles, net.........................      528          819
+Other assets................................................       23           35
+                                                               ------       ------
+                                                               $1,123       $1,437
+                                                               ======       ======
+
+                        LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+  Accounts payable and accrued liabilities..................   $  121       $  156
+  Short-term debt...........................................      210           --
+                                                               ------       ------
+    Total current liabilities...............................      331          156
+                                                               ------       ------
+Long-term debt..............................................      321           --
+Other.......................................................       60           57
+
+Commitments and Contingencies
+
+STOCKHOLDERS' EQUITY
+  Common stock, $1 par value, authorized 350,000,000 shares,
+    58,426,091 shares outstanding...........................       58           --
+  Additional contributed capital............................      274           --
+  Retained earnings.........................................       83          418
+  Investment by Baxter International Inc., net..............       --          833
+  Accumulated other comprehensive loss......................       (4)         (27)
+                                                               ------       ------
+    Total stockholders' equity..............................      411        1,224
+                                                               ------       ------
+                                                               $1,123       $1,437
+                                                               ======       ======
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED
+                        CONDENSED FINANCIAL STATEMENTS.
+
+                                       2
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+                  CONSOLIDATED CONDENSED STATEMENTS OF INCOME
+
+                (UNAUDITED) (IN MILLIONS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                                  THREE MONTHS              SIX MONTHS ENDED
+                                                                 ENDED JUNE 30,                 JUNE 30,
+                                                             ----------------------      ----------------------
+                                                               2000          1999          2000          1999
+                                                             --------      --------      --------      --------
+<S>                                                          <C>           <C>           <C>           <C>
+Net sales..................................................   $  205        $ 233         $ 431         $ 454
+Cost of goods sold.........................................     (115)        (115)         (233)         (228)
+                                                              ------        -----         -----         -----
+Gross profit...............................................       90          118           198           226
+                                                              ------        -----         -----         -----
+  Selling, general and administrative expenses.............       59           60           119           118
+  Research and development expenses........................       14           13            28            25
+  Goodwill amortization....................................        9            9            18            18
+  Disposition of assets and other non-recurring charges,
+    net....................................................      301           --           301            --
+  Non-recurring spin-off expenses..........................       17           --            18            --
+  Other operating income...................................       (6)          --            (6)           --
+                                                              ------        -----         -----         -----
+                                                                 394           82           478           161
+                                                              ------        -----         -----         -----
+Operating income (loss)....................................     (304)          36          (280)           65
+  Interest expense.........................................       (6)          --            (6)           --
+  Other expense, net.......................................       (1)          (3)           (2)           (2)
+                                                              ------        -----         -----         -----
+Income (loss) before provision for income taxes............     (311)          33          (288)           63
+Benefit (provision) for income taxes.......................        2           (9)           (4)          (17)
+                                                              ------        -----         -----         -----
+Net income (loss)..........................................   $ (309)       $  24         $(292)        $  46
+                                                              ======        =====         =====         =====
+Share information:
+  Net loss per share
+    Basic..................................................   $(5.31)
+    Diluted................................................   $(5.31)
+  Weighted average number of common shares outstanding
+    Basic..................................................     58.2
+    Diluted................................................     58.2
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED
+                        CONDENSED FINANCIAL STATEMENTS.
+
+                                       3
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+                CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+
+                           (UNAUDITED) (IN MILLIONS)
+
+<TABLE>
+<CAPTION>
+                                                                 SIX MONTHS ENDED
+                                                                     JUNE 30,
+                                                              -----------------------
+                                                                2000           1999
+                                                              --------       --------
+                                                                 (BRACKETS DENOTE
+                                                                  CASH OUTFLOWS)
+<S>                                                           <C>            <C>
+CASH FLOWS PROVIDED BY OPERATING ACTIVITIES
+  Net income (loss).........................................   $(292)          $ 46
+  Adjustments
+    Dispositions and write-downs of assets and other
+      non-recurring charges, net............................     323             --
+    Depreciation and amortization...........................      44             43
+    Deferred tax expense....................................       3             --
+    Other...................................................       1              1
+  Changes in operating assets and liabilities, net of effect
+    from deconsolidation of     Japan business (Note 1)
+    Accounts receivable.....................................     (12)            12
+    Inventories.............................................      11            (23)
+    Accounts payable and accrued liabilities................     (20)           (12)
+    Other...................................................     (13)            (6)
+                                                               -----           ----
+      Net cash provided by operating activities.............      45             61
+                                                               -----           ----
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Capital expenditures......................................     (21)           (22)
+  Purchases of convertible debt and equity instruments......     (40)            --
+                                                               -----           ----
+      Net cash used in investing activities.................     (61)           (22)
+                                                               -----           ----
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Proceeds from issuance of short-term debt.................     210             --
+  Proceeds from issuance of long-term debt..................     352             --
+  Payments on long-term debt................................     (32)            --
+  Debt issuance costs.......................................      (3)            --
+  Payments to Baxter International Inc., net................    (511)           (39)
+                                                               -----           ----
+      Net cash provided by (used in) financing activities...      16            (39)
+                                                               -----           ----
+Effect of currency exchange rate changes on cash............       2             --
+                                                               -----           ----
+Net increase in cash and cash equivalents...................       2             --
+Cash and cash equivalents at beginning of period............      --             --
+                                                               -----           ----
+Cash and cash equivalents at end of period..................   $   2           $ --
+                                                               =====           ====
+Supplemental disclosures of non-cash activities:
+  Deconsolidation of Japan business (Note 1)................   $  43
+  Net assets sold in consideration for convertible preferred
+    stock...................................................      13
+  Unrealized gain on available-for-sale securities..........       6
+  Issuance of common stock under employee stock plans.......       4
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED
+                        CONDENSED FINANCIAL STATEMENTS.
+
+                                       4
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+              NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+1.  DESCRIPTION OF BUSINESS
+
+    Edwards Lifesciences Corporation (Edwards Lifesciences or the Company) was
+incorporated under the original name of CVG Controlled Inc., in Delaware on
+September 10, 1999, as a subsidiary of Baxter International Inc. (Baxter). On
+March 31, 2000 (the Distribution Date), Baxter transferred its cardiovascular
+business (the Edwards Lifesciences Business) to Edwards Lifesciences in
+connection with a tax-free spin-off by Baxter of the Edwards Lifesciences
+Business. The spin-off was effected on the Distribution Date through a
+distribution of 58.1 million shares of Edwards Lifesciences Common Stock (the
+Distribution) to Baxter stockholders of record on March 29, 2000, resulting in
+Edwards Lifesciences operating as an independent entity commencing April 1, 2000
+with publicly traded common stock. The Company has authorized the issuance of
+50 million shares of preferred stock, par value $.01 per share. No shares of
+preferred stock have been issued. No earnings per share data for the three and
+six months ended June 30, 1999 and the six months ended June 30, 2000 is
+presented as the Edwards Lifesciences earnings were part of Baxter's earnings
+through the close of business on March 31, 2000.
+
+    Baxter has no ownership interest in Edwards Lifesciences after March 31,
+2000, but performs certain services for Edwards Lifesciences pursuant to various
+agreements that are outlined in Note 8. However, unless released by third
+parties, Baxter may remain liable for certain lease and other obligations and
+liabilities that were transferred to and assumed by Edwards Lifesciences.
+Edwards Lifesciences is obligated to indemnify Baxter for liabilities related to
+those transferred obligations and liabilities.
+
+    Subsequent to the Distribution, the cardiovascular business in Japan is
+being operated pursuant to a joint venture under which a Japanese subsidiary of
+Baxter retains ownership of the Japanese business assets, but a subsidiary of
+Edwards Lifesciences holds a 90% profit interest. Edwards Lifesciences has an
+option to purchase the Japanese business assets that may be exercised no earlier
+than 28 months following the Distribution Date and no later than 60 months
+following the Distribution Date. The Japanese operations are consolidated in the
+accompanying Consolidated Condensed Statements of Income for periods prior to
+the Distribution, consistent with the treatment of the Company's operations
+while a part of Baxter. Subsequent to the Distribution, Edwards Lifesciences
+recognizes as sales its shipments into the joint venture and utilizes the equity
+method of accounting to record its interest in the operations of the joint
+venture.
+
+    Edwards Lifesciences is a global leader in providing the manufacturing,
+marketing and selling of a comprehensive line of products and services to treat
+late-stage cardiovascular disease. Edwards Lifesciences' sales are categorized
+in four main product areas: (a) cardiac surgery, (b) critical care,
+(c) vascular and (d) perfusion products and services. Edwards Lifesciences'
+CARDIAC SURGERY portfolio is comprised of products relating to heart-valve
+therapy, mechanical cardiac assist (see Note 4), and cannulae and cardioplegia
+products used during open-heart surgery. Edwards Lifesciences is the world's
+leader in, and has been a pioneer in the development and commercialization of,
+tissue valves and repair products used to replace or repair a patient's diseased
+or defective heart valve. In the CRITICAL CARE area, Edwards Lifesciences is a
+world leader in hemodynamic monitoring systems that are used to measure a
+patient's heart function, and also provides central venous access products for
+fluid and drug delivery. Edwards Lifesciences' VASCULAR product lines include a
+line of balloon catheter-based products, surgical clips and inserts, angioscopy
+equipment, and artificial implantable grafts, as well as an
+
+                                       5
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+1.  DESCRIPTION OF BUSINESS (CONTINUED)
+endovascular system under development to be used to treat less invasively
+life-threatening abdominal aortic aneurysms. In the PERFUSION PRODUCTS AND
+SERVICES category, Edwards Lifesciences designs, develops, manufactures and
+markets a diverse line of disposable products used during cardiopulmonary bypass
+procedures, including oxygenators, blood containers, filters and related
+devices, as well as bypass equipment (see Note 4). Edwards Lifesciences also is
+the world's leading provider of perfusion services, employing approximately 400
+certified perfusionists who perform an aggregate of approximately 50,000
+perfusion cases for open heart surgery per year.
+
+2.  FINANCIAL INFORMATION
+
+    The unaudited interim consolidated condensed financial statements of Edwards
+Lifesciences prior to the Distribution use Baxter's historical bases in the
+assets, liabilities and historical results of operations of the cardiovascular
+business, operated primarily as a division of Baxter, and have been prepared
+pursuant to the rules and regulations of the Securities and Exchange Commission.
+Certain information and footnote disclosures normally included in financial
+statements prepared in accordance with generally accepted accounting principles
+have been condensed or omitted. Certain reclassifications have been made to
+prior periods for consistency purposes. These interim consolidated condensed
+financial statements should be read in conjunction with the financial statements
+and notes included in the Company's Registration Statement on Form 10, as
+amended and filed with the Securities and Exchange Commission on April 5, 2000
+(the Form 10).
+
+    In the opinion of management, the interim consolidated condensed financial
+statements reflect all adjustments necessary for a fair presentation of the
+interim periods. All such adjustments are of a normal, recurring nature. The
+results of operations for the interim periods are not necessarily indicative of
+the results of operations to be expected for the full year.
+
+3.  PRO FORMA INFORMATION
+
+    The following unaudited pro forma consolidated condensed statement of income
+for the six months ended June 30, 2000 presents the consolidated results of
+Edwards Lifesciences assuming that the transactions contemplated by the
+Distribution had been completed as of January 1, 2000. The unaudited pro forma
+information has been prepared utilizing the historical consolidated condensed
+financial statements of Edwards Lifesciences.
+
+                                       6
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+3.  PRO FORMA INFORMATION (CONTINUED)
+                        EDWARDS LIFESCIENCES CORPORATION
+
+              PRO FORMA CONSOLIDATED CONDENSED STATEMENT OF INCOME
+
+                (UNAUDITED) (IN MILLIONS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                                 SIX MONTHS ENDED JUNE 30, 2000
+                                                          ---------------------------------------------
+                                                                            PRO FORMA
+                                                                           ADJUSTMENTS
+                                                                       --------------------
+                                                                       JAPAN ON
+                                                                       AN EQUITY
+                                                          HISTORICAL     BASIS      OTHERS    PRO FORMA
+                                                          ----------   ---------   --------   ---------
+<S>                                                       <C>          <C>         <C>        <C>
+Net sales...............................................     $ 431       $(29)(a)              $  402
+Cost of goods sold......................................      (233)        12 (a)                (221)
+                                                             -----       ----                  ------
+Gross profit............................................       198        (17)                    181
+                                                             -----       ----                  ------
+  Selling, general and administrative expenses..........       119        (12)(a)    $  5(b)      112
+  Research and development expenses.....................        28         (1)(a)                  27
+  Goodwill amortization.................................        18                                 18
+  Disposition of assets and other non-recurring charges,
+    net.................................................       301                                301
+  Non-recurring spin-off expenses.......................        18                                 18
+  Other operating income................................        (6)        (4)(a)                 (10)
+                                                             -----       ----        ----      ------
+                                                               478        (17)          5         466
+                                                             -----       ----        ----      ------
+Operating loss..........................................      (280)        --          (5)       (285)
+  Interest expense......................................        (6)                    (7)(c)     (13)
+  Other expense, net....................................        (2)                                (2)
+                                                             -----       ----        ----      ------
+Loss before provision for income taxes..................      (288)        --         (12)       (300)
+Benefit (provision) for income taxes....................        (4)                     3(d)       (1)
+                                                             -----       ----        ----      ------
+Net loss................................................     $(292)      $ --        $ (9)     $ (301)
+                                                             =====       ====        ====      ======
+Share information:
+  Pro forma net loss per share
+    Basic...............................................                                       $(5.17)
+    Diluted.............................................                                       $(5.17)
+  Weighted average number of common shares outstanding
+    Basic...............................................                                         58.2(e)
+    Diluted.............................................                                         58.2(e)
+</TABLE>
+
+------------------------
+
+PRO FORMA ADJUSTMENTS
+
+(a) To reflect the Edwards Lifesciences Japanese operations on an equity basis
+    for the three months ended March 31, 2000 (Note 1).
+
+                                       7
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+3.  PRO FORMA INFORMATION (CONTINUED)
+(b) To reflect estimated incremental costs associated with being an independent
+    public company for the three months ended March 31, 2000, including costs
+    associated with corporate administrative services such as accounting, tax,
+    treasury, risk management, insurance, legal, investor relations and human
+    resources. The Company's historical consolidated condensed financial
+    statements for the three months ended March 31, 2000 include all costs
+    incurred by Baxter on behalf of the Company. However, there are incremental
+    and continuing costs directly attributable to the spin-off, as there is a
+    loss of certain synergies and benefits of economies of scale that existed
+    while Edwards Lifesciences was part of Baxter. Management estimated such
+    incremental costs utilizing Baxter's historical headcount and cost analysis,
+    and the Company's organization chart. The following is a summary of the
+    estimated incremental costs by significant function for the three months
+    ended March 31, 2000 (in millions):
+
+<TABLE>
+<S>                                                           <C>
+Accounting, tax and legal...................................  $ 2
+Insurance and risk management...............................    1
+Human resources.............................................    1
+Treasury, investor relations and other costs................    1
+                                                              ---
+  Total.....................................................  $ 5
+                                                              ===
+</TABLE>
+
+(c) To reflect the estimated interest expense which would have been incurred by
+    Edwards Lifesciences for the three months ended March 31, 2000 based on the
+    incurrence of $529 million of debt at a weighted-average interest rate of
+    approximately 5%. An increase or decrease of 0.2 points in the
+    weighted-average interest rate would result in a per annum increase or
+    decrease in interest expense of approximately $1 million.
+
+(d) To reflect the estimated tax impact at statutory rates, for pro forma
+    adjustments (b) and (c), as well as the estimated impact of different tax
+    rates available to Edwards Lifesciences as a stand-alone company for the
+    three months ended March 31, 2000.
+
+(e) Computed as if the 58.2 million common shares of Edwards Lifesciences had
+    been outstanding as of January 1, 2000 (comprised of 58.1 million common
+    shares of Edwards Lifesciences distributed to Baxter shareholders on the
+    Distribution Date and approximately 0.1 million common shares of Edwards
+    Lifesciences distributed to Edwards Lifesciences' hourly employees
+    subsequent to the Distribution Date). Due to the net loss for the six-months
+    ended June 30, 2000, the pro forma basic and diluted net loss per share are
+    the same amounts since the impact of the common stock equivalents (of
+    approximately 1.2 million shares) would be anti-dilutive.
+
+                                       8
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+4.  DISPOSITION OF ASSETS AND OTHER NON-RECURRING CHARGES, NET
+
+    LOSS ON SALE AND ABANDONMENT OF ASSETS ($291 MILLION)
+
+    Effective July 15, 2000, the Company entered into a definitive agreement,
+subject to customary closing conditions including regulatory approvals, to sell
+the majority of its United States and Western European assets and rights related
+to its perfusion products to Jostra AG for cash proceeds of approximately
+$30 million. Sales of the Company's impacted perfusion products were
+approximately $17 million during the second quarter 2000. In accordance with
+Statement of Financial Accounting Standards ("SFAS") No. 121, "Accounting for
+the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+Of," and Staff Accounting Bulletin No. 100, "Restructuring and Impairment
+Charges," the Company recorded a pre-tax impairment charge of $291 million in
+the second quarter of 2000 to reduce the carrying value of these assets to fair
+value based upon the estimated net proceeds from the sale. Assets subject to
+this impairment charge consist primarily of goodwill ($245 million) and
+special-use manufacturing and support assets. The goodwill impairment charge was
+calculated based upon a pro rata allocation of the goodwill using the relative
+fair values of the affected long-lived assets and identifiable intangibles
+acquired at the inception date of the goodwill.
+
+    In conjunction with the planned sale of the perfusion products, the Company
+anticipates incurring an additional $10 million pre-tax charge during the third
+quarter of 2000 related to personnel costs, at which time the Company expects it
+will have met the criteria of Emerging Issues Task Force ("EITF") No. 94-3,
+"Liability Recognition for Certain Employee Termination Benefits and Other Costs
+to Exit an Activity." The personnel costs will consist primarily of severance,
+medical plan continuation and outplacement services for employees expected to be
+terminated. As of July 31, 2000, no such payments have been made to these
+employees.
+
+    GAIN ON SALE OF ASSETS ($35 MILLION)
+
+    On June 30, 2000, Edwards Lifesciences transferred the rights, intellectual
+property and U.S. assets of its mechanical cardiac assist product line to World
+Heart Corporation (World Heart). In return, the Company received (a) preferred
+stock of a subsidiary of World Heart which, at Edwards' option, can be exchanged
+for approximately 5 million shares of World Heart's common stock commencing
+July 2002 and (b) exclusive worldwide distribution rights to the Novacor left
+ventricular assist system and any ventricular assist technologies developed by
+World Heart. Edwards Lifesciences also will provide components and technical
+support to World Heart for ventricular assist products at agreed upon prices.
+The Company recorded a pre-tax gain of $35 million in connection with this
+transaction. Sales of the Company's impacted mechanical cardiac assist products
+were approximately $1 million during the second quarter 2000.
+
+    As part of the transaction with World Heart, the Company invested
+$20 million in World Heart convertible preferred stock. The preferred stock
+bears a cumulative dividend, is callable at any time by World Heart and is
+convertible by the Company into World Heart common stock commencing July 2006.
+Edwards Lifesciences reports its investment in World Heart as available-for-sale
+securities.
+
+                                       9
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+4.  DISPOSITION OF ASSETS AND OTHER NON-RECURRING CHARGES, NET (CONTINUED)
+    OTHER NON-RECURRING CHARGES ($45 MILLION)
+
+    As a result of Edwards Lifesciences' continuing efforts to focus the
+Company's product portfolio and affect the Company's business strategy following
+the spin-off from Baxter, the Company decided to discontinue certain products in
+its portfolio that did not meet the objectives of its business strategy. The
+long-lived assets or the investments in these products were evaluated to
+determine whether any impairment in their recoverability existed at the
+determination date. As a result, Edwards Lifesciences assessed whether the
+estimated cash flows of the products over the estimated lives of the related
+assets were sufficient to recover their costs. Where such cash flows were
+insufficient, the Company utilized a discounted cash flow model to estimate the
+fair value of assets or investments and recorded an impairment charge to adjust
+the carrying values to estimated fair values. As a result of this evaluation,
+Edwards Lifesciences recorded a non-cash charge of $45 million primarily related
+to the impairment of goodwill unrelated to perfusion products ($37 million),
+impairment of other intangibles ($5 million) and the write-down of
+non-productive assets ($3 million).
+
+5.  INVENTORIES
+
+    Inventories consisted of the following (see Note 1):
+
+<TABLE>
+<CAPTION>
+                                                       JUNE 30,       DECEMBER 31,
+                                                         2000             1999
+                                                       --------       ------------
+                                                              (IN MILLIONS)
+<S>                                                    <C>            <C>
+Raw materials........................................    $22              $ 29
+Work in process......................................     22                28
+Finished products....................................     51               112
+                                                         ---              ----
+Total inventories....................................    $95              $169
+                                                         ===              ====
+</TABLE>
+
+6.  COMMON STOCK AND STOCK OPTIONS
+
+    On April 3, 2000, the Company granted options to purchase shares of Edwards
+Lifesciences Common Stock under the Edwards Lifesciences Long-Term Incentive
+Stock Plan (the Plan). The Plan includes two stock option programs: Founders
+Options and Edwards Conversion Options. The Founders Options were awarded to all
+salaried employees of the Company, and permit the purchase of approximately
+5.7 million shares at an exercise price of $13.875, the fair market value at the
+date of grant. The Founders Options vest 30% after two years, and the balance
+vests after three years. The Founders Options include approximately 634,000
+options granted to non-employees of the Company in Japan (deemed to be employees
+of Baxter as described in Note 1). In accordance with Statement of Financial
+Accounting Standards No. 123, "Accounting for Stock-Based Compensation," the
+$4.2 million value of these options is being amortized over the three-year
+vesting period on a straight-line basis. The Edwards Conversion Options permit
+the purchase of approximately 2.4 million shares at an exercise price based upon
+an equitable conversion of the exercise price under the Baxter stock option
+plan, with reference to the when-issued price of the Company's stock and the
+closing price of Baxter's common
+
+                                       10
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+6.  COMMON STOCK AND STOCK OPTIONS (CONTINUED)
+stock on March 31, 2000. The Edwards Conversion Options retained the vesting
+periods under the Baxter stock option plan, resulting in various vesting periods
+through September 2001.
+
+    During the quarter ended June 30, 2000, Edwards Lifesciences issued to
+certain hourly employees approximately 125,000 shares of the Company's common
+stock valued at $1.7 million.
+
+    On April 1, 2000, Edwards Lifesciences' five non-employee directors were
+each granted 5,000 shares of the Company's common stock, valued at $339,000,
+with restrictions that lapse over a two-year period.
+
+7.  COMPREHENSIVE INCOME
+
+    The reconciliation of net income to comprehensive income is as follows:
+
+<TABLE>
+<CAPTION>
+                                                       THREE MONTHS           SIX MONTHS
+                                                           ENDED                 ENDED
+                                                         JUNE 30,              JUNE 30,
+                                                    -------------------   -------------------
+                                                      2000       1999       2000       1999
+                                                    --------   --------   --------   --------
+                                                                  (IN MILLIONS)
+<S>                                                 <C>        <C>        <C>        <C>
+Net income (loss).................................   $(309)      $24       $(292)      $46
+Other comprehensive income:
+  Currency translation adjustments................      (4)       (3)         (8)       (6)
+  Unrealized gain on marketable securities........       6        --           6        --
+                                                     -----       ---       -----       ---
+Comprehensive income..............................   $(307)      $21       $(294)      $40
+                                                     =====       ===       =====       ===
+</TABLE>
+
+8.  RELATED PARTY TRANSACTIONS
+
+    Prior to the Distribution Date, Baxter provided to Edwards Lifesciences
+certain legal, treasury, employee benefit, insurance and administrative
+services. Charges for these services were based on actual costs incurred by
+Baxter. The bases for the amounts charged to Edwards Lifesciences varied
+depending on the nature of the service, but generally were determined using
+headcount, sales, payroll, square footage or other appropriate data, or were
+determined based on actual utilization of services. Management believes that the
+bases used for allocating service charges are reasonable. However, the terms of
+these transactions may differ from those that would result from transactions
+with unrelated third parties or had Edwards Lifesciences performed these
+functions on its own.
+
+    Prior to the Distribution Date, Edwards Lifesciences participated in a
+centralized cash management program administered by Baxter. Short-term advances
+from Baxter or excess cash sent to Baxter have been treated as an adjustment to
+the "Investment by Baxter International Inc., net" account as of and through
+March 31, 2000. No interest was charged on this balance.
+
+    Effective on the Distribution Date, Baxter and Edwards Lifesciences entered
+into a series of administrative services agreements pursuant to which Baxter and
+Edwards Lifesciences will continue to provide, for a specified period of time,
+certain administrative services (primarily information systems support, payroll,
+accounting and warehousing and logistics support) that each entity historically
+has
+
+                                       11
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+8.  RELATED PARTY TRANSACTIONS (CONTINUED)
+provided to the other. These agreements require the parties to pay each other a
+fee that approximates the actual costs of these services. Additionally,
+subsequent to March 31, 2000, Edwards Lifesciences has continuing relationships
+with Baxter as a customer and supplier for certain products, and uses Baxter as
+a distributor of the Company's products in certain regions of the world.
+
+    The following table summarizes the charges from Baxter for the
+above-mentioned services, as recorded in Edwards Lifesciences Consolidated
+Condensed Statements of Income:
+
+<TABLE>
+<CAPTION>
+                                                         THREE MONTHS                 SIX MONTHS
+                                                            ENDED                       ENDED
+                                                           JUNE 30,                    JUNE 30,
+                                                    ----------------------      ----------------------
+                                                      2000          1999          2000          1999
+                                                    --------      --------      --------      --------
+                                                                      (IN MILLIONS)
+<S>                                                 <C>           <C>           <C>           <C>
+Cost of goods sold................................     $1           $ 1           $ 3           $ 3
+Selling, general and administrative expenses......      3            10            13            21
+Research and development expenses.................     --             1             1             1
+</TABLE>
+
+    Sales to Baxter represented approximately 14% of the Company's total net
+sales for the three months ended June 30, 2000.
+
+9.  COMMITMENTS AND CONTINGENCIES
+
+    Upon the Distribution, Edwards Lifesciences assumed the defense of certain
+Baxter litigation involving cases and claims related to the Edwards Lifesciences
+business. Edwards Lifesciences has not been named as a defendant in such matters
+but will be defending and indemnifying Baxter for all related expenses and
+potential liabilities. It is possible that Edwards Lifesciences may be added as
+a defendant in these cases and claims.
+
+    Edwards Lifesciences is also subject to various environmental laws and
+regulations both within and outside of the United States. The operations of
+Edwards Lifesciences, like those of other medical device companies, involve the
+use of substances regulated under environmental laws, primarily in manufacturing
+and sterilization processes. While it is difficult to quantify the potential
+impact of compliance with environmental protection laws, management believes
+that such compliance will not have a material impact on Edwards Lifesciences'
+financial position, results of operations or liquidity.
+
+    As previously announced, on June 29, 2000 Edwards Lifesciences filed a
+lawsuit for patent infringement against Medtronic, Inc. alleging infringement of
+two of Edwards Lifesciences' United States patents, and against St. Jude
+Medical, Inc. alleging infringement of three patents. The Medtronic lawsuit was
+filed in the United States District Court for the District of Delaware and the
+St. Jude lawsuit in the United States District Court for the Central District of
+California. Both lawsuits seek monetary damages and injunctive relief. Medtronic
+has answered, and asserted various affirmative defenses and counterclaims. No
+responsive pleadings from St. Jude have been served upon Edwards Lifesciences.
+
+    Edwards Lifesciences is, or may be, a party to pending or threatened
+lawsuits, related primarily to products and services currently or formerly
+manufactured or performed, as applicable, by Edwards
+
+                                       12
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+9.  COMMITMENTS AND CONTINGENCIES (CONTINUED)
+Lifesciences. Such cases and claims raise difficult and complex factual and
+legal issues and are subject to many uncertainties and complexities, including,
+but not limited to, the facts and circumstances of each particular case or
+claim, the jurisdiction in which each suit is brought, and differences in
+applicable law. Upon resolution of any pending legal matters, Edwards
+Lifesciences may incur charges in excess of presently established reserves.
+While such a charge could have a material adverse impact on Edwards
+Lifesciences' net income or net cash flows in the period in which it is recorded
+or paid, management believes that no such charge would have a material adverse
+effect on Edwards Lifesciences' consolidated financial position.
+
+10.  SEGMENT INFORMATION
+
+    The Company manages its business on the basis of one reportable segment.
+Edwards Lifesciences' products and services share similar distribution channels
+and customers and are sold principally to hospitals and physicians. Management
+evaluates its various global product portfolios on a revenue basis, which is
+presented below, and profitability is generally evaluated on an enterprise-wide
+basis due to shared infrastructures. Edwards Lifesciences' principal markets are
+the United States, Europe and Japan.
+
+                                       13
+<PAGE>
+                        EDWARDS LIFESCIENCES CORPORATION
+
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 2000
+
+                                  (UNAUDITED)
+
+10.  SEGMENT INFORMATION (CONTINUED)
+    Geographic area data includes net sales based on product shipment
+destination and long-lived asset data is presented based upon physical location.
+
+<TABLE>
+<CAPTION>
+                                                       THREE MONTHS           SIX MONTHS
+                                                           ENDED                 ENDED
+                                                         JUNE 30,              JUNE 30,
+                                                    -------------------   -------------------
+                                                      2000       1999       2000       1999
+                                                    --------   --------   --------   --------
+                                                                  (IN MILLIONS)
+<S>                                                 <C>        <C>        <C>        <C>
+NET SALES BY GEOGRAPHIC AREA
+
+United States.....................................    $124       $132       $249       $257
+Japan (see Note 1)................................      17         39         63         82
+Other countries...................................      64         62        119        115
+                                                      ----       ----       ----       ----
+Totals............................................    $205       $233       $431       $454
+                                                      ====       ====       ====       ====
+NET SALES BY MAJOR PRODUCT AND SERVICE AREA
+
+Cardiac Surgery...................................    $ 81       $ 80       $160       $156
+Critical Care.....................................      53         59        114        119
+Vascular..........................................      14         16         29         31
+Perfusion Products and Services...................      55         61        115        121
+Other.............................................       2         17         13         27
+                                                      ----       ----       ----       ----
+Totals............................................    $205       $233       $431       $454
+                                                      ====       ====       ====       ====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                          JUNE 30,    DECEMBER 31,
+                                                            2000          1999
+                                                          ---------   ------------
+                                                               (IN MILLIONS)
+<S>                                                       <C>         <C>
+LONG-LIVED ASSETS BY GEOGRAPHIC AREA
+United States...........................................    $798         $1,022
+Other countries.........................................      24             39
+                                                            ----         ------
+Totals..................................................    $822         $1,061
+                                                            ====         ======
+</TABLE>
+
+    Sales to Allegiance Corporation, a subsidiary of Cardinal Health, Inc.,
+represented approximately 12% of the Company's total net sales for the three and
+six months ended June 30, 2000, and approximately 9% of the Company's total net
+sales for the three and six months ended June 30, 1999.
+
+                                       14
+<PAGE>
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+  OF OPERATIONS
+
+    The following discussion and analysis presents the factors that had a
+material effect on the results of operations of Edwards Lifesciences during the
+three and six months ended June 30, 2000 and 1999. Also discussed is Edwards
+Lifesciences' financial position as of June 30, 2000. You should read this
+discussion in conjunction with the historical and pro forma consolidated
+condensed financial statements and related notes thereto included elsewhere in
+this Form 10-Q.
+
+OVERVIEW
+
+    Edwards Lifesciences provides a comprehensive line of products and services
+to treat late-stage cardiovascular disease. Edwards Lifesciences' sales are
+categorized in four main product areas: cardiac surgery, critical care,
+vascular, and perfusion products and services. In addition, Edwards Lifesciences
+also offers a diverse grouping of product lines comprised mostly of select
+distributed products that are sold in international markets, and miscellaneous
+pharmaceutical products. Edwards Lifesciences is headquartered in Irvine,
+California, and supplies its products and services to customers in more than 80
+countries, both through direct sales and distributor relationships. Edwards
+Lifesciences' products are manufactured in locations throughout the world,
+including Brazil, the Dominican Republic, The Netherlands, Puerto Rico,
+Switzerland and the United States.
+
+    Edwards Lifesciences' CARDIAC SURGERY portfolio is comprised of products
+relating to heart-valve therapy, mechanical cardiac assist (see "Disposition of
+Assets and other Non-recurring Charges, net"), and cannulae and cardioplegia
+products used during open-heart surgery. Edwards Lifesciences is the world's
+leader in, and has been a pioneer in the development and commercialization of,
+tissue valves and repair products, used to replace or repair a patient's
+diseased or defective heart valve. In the CRITICAL CARE area, Edwards
+Lifesciences is a world leader in hemodynamic monitoring systems used to measure
+a patient's heart function, and also provides central venous access products for
+fluid and drug delivery. Edwards Lifesciences' VASCULAR product lines include a
+line of balloon catheter-based products, surgical clips and inserts, angioscopy
+equipment, and artificial implantable grafts, as well as an endovascular system
+under development to be used to treat less invasively life-threatening abdominal
+aortic aneurysms. In the PERFUSION PRODUCTS AND SERVICES category, Edwards
+Lifesciences designs, develops, manufactures and markets a diverse line of
+disposable products used during cardiopulmonary bypass procedures, including
+oxygenators, blood containers, filters and related devices, as well as bypass
+equipment (see "Disposition of Assets and other Non-recurring Charges, net" for
+a description of the pending sale of the majority of perfusion products to
+Jostra AG). Edwards Lifesciences also is the world's leading provider of
+perfusion services, employing approximately 400 certified perfusionists who
+perform an aggregate of approximately 50,000 perfusion cases for open heart
+surgery per year.
+
+    Cardiovascular disease is the leading cause of death in the world. Edwards
+Lifesciences believes that there is a continual and growing need for the
+treatment of cardiovascular disease primarily due to the aging population, the
+progressive nature of the disease, and the continued economic development of
+countries around the world that allows for additional funds to be allocated for
+the treatment of chronic health conditions. Edwards Lifesciences' business
+strategy is to develop, manufacture and market products and services that result
+in improved therapeutic outcomes for patients with late-stage cardiovascular
+disease. Edwards Lifesciences plans to aggressively expand its leading product
+offerings and develop new products and therapies that improve the quality of
+patient care and reduce overall treatment costs.
+
+    The health-care marketplace continues to be competitive. There has been
+consolidation in Edwards Lifesciences' customer base and among its competitors,
+which has resulted in pricing and market share pressures. Edwards Lifesciences
+has experienced increases in its labor and material costs, which are primarily
+influenced by general inflationary trends. Competitive market conditions have
+minimized
+
+                                       15
+<PAGE>
+inflation's impact on the selling prices of Edwards Lifesciences' products and
+services. Management expects these trends to continue.
+
+RESULTS OF OPERATIONS
+
+    NET SALES TRENDS
+
+    The following is a summary of domestic and international net sales:
+
+<TABLE>
+<CAPTION>
+                                                THREE MONTHS
+                                                    ENDED                   SIX MONTHS ENDED
+                                                  JUNE 30,                      JUNE 30,
+                                           -----------------------       -----------------------
+                                             2000           1999           2000           1999
+                                           --------       --------       --------       --------
+                                                           (DOLLARS IN MILLIONS)
+<S>                                        <C>            <C>            <C>            <C>
+United States............................   $  124           132          $ 249           $257
+  % CHANGE IN 2000.......................     (6.1%)                       (3.1%)
+International............................       81           101            182            197
+  % CHANGE IN 2000.......................    (19.8%)                       (7.6%)
+                                            ------          ----          -----           ----
+Total net sales..........................   $  205          $233          $ 431           $454
+                                            ======          ====          =====           ====
+  % CHANGE IN 2000.......................    (12.0%)                       (5.1%)
+</TABLE>
+
+    The decrease in international net sales resulted primarily from a change in
+accounting for sales in Japan. Subsequent to the Distribution, Edwards
+Lifesciences only recognizes as sales its shipments into a joint venture with
+Baxter (see "Joint Venture in Japan" below). Excluding this change in accounting
+in Japan, international net sales for the three and six months ended June 30,
+2000 would have increased 1.3% and 0.9%, respectively, and total net sales for
+the three and six months ended June 30, 2000 would have decreased 3.0% and 1.4%,
+respectively. The net sales decrease in the United States was due primarily to
+(a) declines in the vascular and perfusion product lines and (b) a one-time
+$5 million sale of a patent in the second quarter last year.
+
+    Net sales within product lines were impacted by fluctuations in foreign
+currency exchange rates, primarily the movement of the U.S. dollar against the
+Euro and the Japanese yen. Excluding the change in accounting in Japan and the
+impact of changes in foreign currency exchange rates, sales for the three and
+six months ended June 30, 2000 would have decreased 0.4% and increased 0.1%,
+respectively. The impact of foreign currency exchange rate fluctuations on net
+sales would not necessarily be indicative of the impact on net income due to the
+corresponding effect of foreign currency exchange rate fluctuations on operating
+costs and expenses and Edwards Lifesciences' hedging activities. For more
+information, see "Currency and Interest Rate Risk" below.
+
+                                       16
+<PAGE>
+    The following is a summary of net sales by product line:
+
+<TABLE>
+<CAPTION>
+                                               THREE MONTHS                SIX MONTHS ENDED
+                                              ENDED JUNE 30,                   JUNE 30,
+                                          -----------------------       -----------------------
+                                            2000           1999           2000           1999
+                                          --------       --------       --------       --------
+                                                          (DOLLARS IN MILLIONS)
+<S>                                       <C>            <C>            <C>            <C>
+Cardiac surgery.........................   $   81          $ 80          $  160          $156
+  % CHANGE IN 2000......................      1.3%                          2.6%
+Critical care...........................       53            59             114           119
+  % CHANGE IN 2000......................    (10.2%)                        (4.2%)
+Vascular................................       14            16              29            31
+  % CHANGE IN 2000......................    (12.5%)                        (6.5%)
+Perfusion products and services.........       55            61             115           121
+  % CHANGE IN 2000......................     (9.8%)                        (5.0%)
+Other...................................        2            17              13            27
+  % CHANGE IN 2000......................    (88.2%)                       (51.9%)
+                                           ------          ----          ------          ----
+Total net sales.........................   $  205          $233          $  431          $454
+                                           ======          ====          ======          ====
+  % CHANGE IN 2000......................    (12.0%)                        (5.1%)
+</TABLE>
+
+    CARDIAC SURGERY
+
+    Excluding the change in accounting for sales in Japan, net sales of cardiac
+surgery products would have increased 4.3% and 4.0% for the three and six months
+ended June 30, 2000, respectively. Additionally, excluding the impact of foreign
+currency exchange rate fluctuations, net sales would have increased 6.7% and
+6.5% for the three and six months ended June 30, 2000, respectively.
+
+    The growth in this product line resulted primarily from continued,
+double-digit sales growth in pericardial tissue valves, particularly in Europe
+and Japan, offset primarily by declines in porcine tissue valves (as a result of
+competition) and other non-valve products. Management expects that its heart-
+valve therapy products will continue to serve as a key driver of Edwards
+Lifesciences' sales growth as a result of the shift from mechanical to tissue
+valve use, as well as the Company's expectation of FDA approval for the
+Carpentier-Edwards PERIMOUNT mitral pericardial tissue valve.
+
+    CRITICAL CARE
+
+    Excluding the change in accounting for sales in Japan, net sales of critical
+care products would have increased 3.2% and 1.4% for the three and six months
+ended June 30, 2000, respectively. Additionally, excluding the impact of foreign
+currency exchange rate fluctuations, net sales would have increased 5.4% and
+3.8% for the three and six months ended June 30, 2000, respectively.
+
+    The growth in this product line was due primarily to strong sales in the
+access and hemofiltration product categories, as well as solid sales in base
+hemodynamic monitoring products. During the quarter ended June 30, 2000, Edwards
+Lifesciences received FDA clearance to commence U.S. sales of its Vantex central
+venous catheter. Critical Care products have been, and are expected to continue
+to be, significant contributors to Edwards Lifesciences' total sales,
+particularly as the Vantex catheter becomes available and hemofiltration
+products gain acceptance in new markets. Management believes that future sales
+growth of Critical Care products could be negatively impacted by global pricing
+pressures, including anticipated decreased governmental reimbursement in Japan.
+
+    VASCULAR
+
+    Excluding the change in accounting for sales in Japan, net sales of vascular
+products would have decreased 8.6% and 6.1% for the three and six months ended
+June 30, 2000, respectively. Additionally,
+
+                                       17
+<PAGE>
+excluding the impact of foreign currency exchange rate fluctuations, net sales
+would have decreased 6.0% and 3.2% for the three and six months ended June 30,
+2000, respectively.
+
+    The decline in this product line resulted primarily from lower unit sales in
+several surgery-based product categories. During the quarter ended June 30,
+2000, Edwards Lifesciences received FDA approval to commence U.S. sales of its
+Thrombex Percutaneous Mechanical Thrombectomy System, a device used for removing
+blood clots from the access grafts of hemodialysis patients. Management expects
+that this new product will have a positive impact on future vascular sales.
+
+    Edwards Lifesciences has made a significant commitment to the development of
+endovascular grafts, which are used to treat potentially life-threatening
+abdominal aortic aneurysms (AAA) cases, through a minimally invasive approach.
+In 1999, Edwards Lifesciences commercially launched its Lifepath AAA
+Endovascular Graft System in certain regions. In April 2000, the Company
+voluntarily suspended its clinical trials in the United States and sales of its
+Lifepath AAA Endovascular Graft System following the discovery of cases in which
+the products' wireform had fractured. The Company has undertaken a review of all
+Lifepath AAA cases and will determine what further action is required to resume
+clinical trials and sales of this product.
+
+    PERFUSION PRODUCTS AND SERVICES
+
+    Excluding the change in accounting for sales in Japan, net sales of
+perfusion products and services would have decreased 4.8% and 3.2% for the three
+and six months ended June 30, 2000, respectively. Additionally, excluding the
+impact of foreign currency exchange rate fluctuations, net sales would have
+decreased 3.3% and 2.3% for the three and six months ended June 30, 2000,
+respectively.
+
+    Management believes that the decrease in sales of perfusion products and
+services was due primarily to an increase in the number of "beating heart"
+coronary artery bypass surgeries, particularly in the U.S. and Western Europe,
+and this trend has reduced the need for perfusion services and the use of many
+traditional perfusion products manufactured and sold by Edwards Lifesciences. In
+addition, there continues to be a slowing in the number of coronary artery
+bypass graft procedures on a worldwide basis, as well as continuing pricing
+pressures. Management believes that the slowdown in the number of traditional
+coronary bypass graft procedure surgeries has been caused by increased
+acceptance of newer, less-invasive procedures such as coronary stenting, which
+often eliminates or defers the need for cardiac surgery.
+
+    Effective July 15, 2000, Edwards Lifesciences entered into a definitive
+agreement, subject to customary closing conditions including regulatory
+approvals, to sell a majority of its perfusion products business to Jostra AG,
+which will allow Edwards Lifesciences to exit the perfusion products business in
+the United States and Western Europe, while retaining certain portions of the
+operation that will continue to support its existing selling organization.
+Management expects this transaction to be completed by September 30, 2000 and to
+have a positive impact on earnings thereafter.
+
+    OTHER
+
+    Other sales include a diverse grouping of product lines comprised primarily
+of select distributed products that are sold in international regions (primarily
+Japan), and miscellaneous pharmaceutical products. This category of sales, which
+generally represents less than ten percent of Edwards Lifesciences' total sales,
+decreased for the three and six months ended June 30, 2000 primarily due to the
+change in accounting for sales in Japan and a one-time $5 million sale of a
+patent in the second quarter last year.
+
+    JOINT VENTURE IN JAPAN
+
+    Subsequent to the Distribution, the cardiovascular business in Japan is
+being operated pursuant to a joint venture under which a Japanese subsidiary of
+Baxter retains ownership of the Japanese business
+
+                                       18
+<PAGE>
+assets, but a subsidiary of Edwards Lifesciences holds a 90% profit interest.
+Edwards Lifesciences has an option to purchase the Japanese business assets that
+may be exercised no earlier than 28 months following the Distribution Date and
+no later than 60 months following the Distribution Date. The Japanese operations
+are included in the accompanying Consolidated Condensed Statements of Income for
+periods prior to the Distribution, consistent with the historical treatment of
+the Company's operations while a part of Baxter. Subsequent to the Distribution,
+Edwards Lifesciences recognizes as sales its shipments into the joint venture
+and utilizes the equity method of accounting to record its interest in the
+operations of the joint venture. On a pro forma basis, sales and other income
+statement amounts have been adjusted to reflect the Japanese operations on this
+basis, resulting in pro forma sales of $402 million for the six months ended
+June 30, 2000 (see further pro forma information in Note 3 of Notes to
+Consolidated Condensed Financial Statements).
+
+    GROSS MARGIN
+
+<TABLE>
+<CAPTION>
+                                                 THREE MONTHS               SIX MONTHS ENDED
+                                                ENDED JUNE 30,                  JUNE 30,
+                                            -----------------------      -----------------------
+                                              2000           1999          2000           1999
+                                            ---------      --------      ---------      --------
+<S>                                         <C>            <C>           <C>            <C>
+Gross margin percentage...................       44.0%       50.6%            45.9%       49.8%
+  CHANGE IN 2000..........................  (6.6 pts.)                   (3.9 pts.)
+</TABLE>
+
+    Excluding the impact of foreign currency exchange rate fluctuations, the
+gross margin percentage would have decreased 5.6 points and 2.9 points for the
+three and six months ended June 30, 2000, respectively. The decrease in the
+gross margin percentage for the three months ended June 30, 2000 was due
+primarily to a change commencing April 1, 2000 in the Company's accounting for
+Japan's operations (see "Joint Venture in Japan" above), one-time unusual items
+in the prior year, costs associated with the relocation of certain manufacturing
+operations during the year 2000 and pricing pressures within the industry,
+partially offset by increased sales of higher-margin cardiac surgery products.
+
+    The decrease in the gross margin percentage for the six months ended
+June 30, 2000 resulted primarily from the same factors mentioned immediately
+above, except the impact is reduced since the change in Japan's operations and
+the prior year one-time items affect only the three months ended June 30, 2000.
+
+    SELLING, GENERAL AND ADMINISTRATIVE (S, G & A) EXPENSES
+
+<TABLE>
+<CAPTION>
+                                                  THREE MONTHS              SIX MONTHS ENDED
+                                                 ENDED JUNE 30,                 JUNE 30,
+                                             ----------------------      ----------------------
+                                               2000          1999          2000          1999
+                                             --------      --------      --------      --------
+<S>                                          <C>           <C>           <C>           <C>
+S, G & A expenses as a percentage of
+  sales....................................      28.8%       25.8%           27.6%       26.0%
+  CHANGE IN 2000...........................  3.0 pts.                    1.6 pts.
+</TABLE>
+
+    Excluding the impact of foreign currency exchange rate fluctuations,
+S, G & A expenses as a percentage of sales would have increased 3.7 points and
+2.0 points for the three and six months ended June 30, 2000, respectively. These
+increases are due primarily to (a) the establishment of $9.5 million of reserves
+during the second quarter 2000 for litigation, property taxes and uncollectable
+receivables and (b) additional personnel costs associated with the Company's
+operation as an independent company commencing April 1, 2000, partially offset
+by reduced spending in its perfusion products and cardiac assist product lines
+(see "Disposition of Assets and Other Non-Recurring Charges, net").
+
+                                       19
+<PAGE>
+    RESEARCH AND DEVELOPMENT EXPENSES
+
+<TABLE>
+<CAPTION>
+                                                    THREE MONTHS
+                                                       ENDED                  SIX MONTHS ENDED
+                                                      JUNE 30,                    JUNE 30,
+                                               ----------------------      ----------------------
+                                                 2000          1999          2000          1999
+                                               --------      --------      --------      --------
+                                                             (DOLLARS IN MILLIONS)
+<S>                                            <C>           <C>           <C>           <C>
+Research and development expenses............    $ 14          $ 13         $  28          $ 25
+  % CHANGE IN 2000...........................     7.7%                       12.0%
+Research and development expenses as a
+  percentage of sales........................     6.8%          5.6%          6.5%          5.5%
+</TABLE>
+
+    Edwards Lifesciences is engaged in ongoing research and development to
+introduce new products, to maximize the effectiveness, ease of use, safety and
+reliability of its existing products and to expand the applications of its
+products as appropriate. The increases in research and development expenses for
+the three and six months ended June 30, 2000 reflect Edwards Lifesciences'
+strong commitment to bolster its research and development activities in the
+future with the goal of developing and commercializing new innovative products
+and therapies that enhance performance and patient quality of life and address
+cost-containment issues.
+
+    DISPOSITION OF ASSETS AND OTHER NON-RECURRING CHARGES, NET
+
+    During the second quarter of 2000, the Company recorded a non-recurring net
+charge comprised of three items as follows:
+
+    Loss on Sale and Abandonment of Assets ($291 million)
+
+    Effective July 15, 2000, the Company entered into a definitive agreement,
+subject to customary closing conditions including regulatory approvals, to sell
+the majority of its United States and Western European assets and rights related
+to its perfusion products to Jostra AG for cash proceeds of approximately
+$30 million. Sales of the Company's impacted perfusion products were
+approximately $17 million during the second quarter 2000. In accordance with
+Statement of Financial Accounting Standards No. 121, "Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed Of,"
+and Staff Accounting Bulletin No. 100, "Restructuring and Impairment Charges,"
+the Company recorded a pre-tax impairment charge of $291 million in the second
+quarter of 2000 to reduce the carrying value of these assets to fair value based
+upon the estimated net proceeds from the sale. Assets subject to this impairment
+charge consist primarily of goodwill ($245 million) and special-use
+manufacturing and support assets. The goodwill impairment charge was calculated
+based upon a pro rata allocation of the goodwill using the relative fair values
+of the affected long-lived assets and identifiable intangibles acquired at the
+inception date of the goodwill.
+
+    In conjunction with the planned sale of the perfusion products, the Company
+anticipates incurring an additional $10 million pre-tax charge during the third
+quarter of 2000 related to personnel costs, at which time the Company expects it
+will have met the criteria of EITF 94-3, "Liability Recognition for Certain
+Employee Termination Benefits and Other Costs to Exit an Activity." The
+personnel costs will consist primarily of severance, medical plan continuation
+and outplacement services for employees expected to be terminated. As of
+July 31, 2000, no such payments have been made to these employees.
+
+    Gain on Sale of Assets ($35 million)
+
+    On June 30, 2000, Edwards Lifesciences transferred the rights, intellectual
+property and U.S. assets of its mechanical cardiac assist product line to World
+Heart Corporation (World Heart). In return, the Company received (a) preferred
+stock of a subsidiary of World Heart which, at Edwards' option, can be exchanged
+for approximately 5 million shares of World Heart's common stock commencing
+July 2002 and (b) exclusive worldwide distribution rights to the Novacor left
+ventricular assist system and any
+
+                                       20
+<PAGE>
+ventricular assist technologies developed by World Heart. Edwards Lifesciences
+also will provide components and technical support to World Heart for
+ventricular assist products at agreed upon prices. The Company recorded a
+pre-tax gain of $35 million in connection with this transaction. Sales of the
+Company's impacted mechanical cardiac assist products were approximately
+$1 million during the second quarter 2000.
+
+    As part of the transaction with World Heart, the Company invested
+$20 million in World Heart convertible preferred stock. The preferred stock
+bears a cumulative dividend, is callable at any time by World Heart and is
+convertible by the Company into World Heart common stock commencing July 2006.
+Edwards Lifesciences reports its investment in World Heart as available-for-sale
+securities.
+
+    Other Non-recurring Charges ($45 million)
+
+    As a result of Edwards Lifesciences' continuing efforts to focus the
+Company's product portfolio and affect the Company's business strategy following
+the spin-off from Baxter, the Company decided to discontinue certain products in
+its portfolio that did not meet the objectives of its business strategy. The
+long-lived assets or the investments in these products were evaluated to
+determine whether any impairment in their recoverability existed at the
+determination date. As a result, Edwards Lifesciences assessed whether the
+estimated cash flows of the products over the estimated lives of the related
+assets were sufficient to recover their costs. Where such cash flows were
+insufficient, the Company utilized a discounted cash flow model to estimate the
+fair value of assets or investments and recorded an impairment charge to adjust
+the carrying values to estimated fair values. As a result of this evaluation,
+Edwards Lifesciences recorded a non-cash charge of $45 million primarily related
+to the impairment of goodwill unrelated to perfusion products ($37 million),
+impairment of other intangibles ($5 million) and the write-down of
+non-productive assets ($3 million).
+
+    NON-RECURRING SPIN-OFF EXPENSES
+
+    In connection with the spin-off of Edwards Lifesciences from Baxter, certain
+one-time costs totaling $17 million and $18 million were incurred by Edwards
+Lifesciences during the three and six months ended June 30, 2000, respectively.
+These costs primarily related to (a) the coordination and implementation of the
+transaction and (b) the recruitment of personnel to perform new corporate
+administrative functions.
+
+    OTHER OPERATING INCOME
+
+    Other operating income represents the Company's 90% profit interest in the
+cardiovascular business in Japan effective April 1, 2000. For more information,
+see "Joint Venture in Japan" above.
+
+    OTHER EXPENSE, NET
+
+    The decrease in Other Expense, net for the three months ended June 30, 2000
+results primarily from fluctuations in currency exchange rates.
+
+    INCOME TAXES
+
+    The effective income tax rate for the three and six months ended June 30,
+2000 was impacted by the non-deductibility of the majority of the $301 million
+non-recurring second quarter 2000 charge (see "Disposition of Assets and Other
+Non-recurring Charges, net" above). The Company expects its effective tax rate
+will be 27% for the remainder of the current year.
+
+                                       21
+<PAGE>
+LIQUIDITY AND CAPITAL RESOURCES
+
+    Cash flow provided by operating activities for the six months ended
+June 30, 2000 decreased $16 million due primarily to reduced accounts receivable
+collections, increased payments to vendors and lower earnings, partially offset
+by reduced inventory. Included in cash flows provided by operating activities
+for 1999 was approximately $25 million related to insurance proceeds associated
+with hurricane damage at one of the Company's manufacturing facilities, and
+approximately $7 million in additional proceeds relating to the sale of certain
+trade receivables in Japan to an independent financial institution. An
+insignificant loss was recognized on the sale of receivables.
+
+    Uses of cash for investing activities during the six months ended June 30,
+2000 included the purchase of two convertible debentures in Sangamo
+Biosciences, Inc. ($13 million) which were subsequently converted into common
+stock during the second quarter 2000, and investments in A-Med Systems, Inc.
+($7 million) and World Heart Corporation ($20 million). Capital expenditures
+have remained relatively constant.
+
+    As of the Distribution Date, Edwards Lifescience had revolving credit
+facilities in place for $650 million. As of June 30, 2000, Edwards Lifesciences
+had borrowed $531 million against the credit facilities. The proceeds of the
+credit facilities were used to repay intercompany debt to Baxter, satisfy
+initial working capital requirements, and execute asset transfers from Baxter.
+The Company incurred approximately $3 million of fees during the six months
+ended June 30, 2000 associated with obtaining the credit facilities.
+
+    In addition to the revolving credit facilities, Management believes that it
+has sufficient cash flow from operations and financial flexibility to attract
+long-term capital to fund short-term and long-term growth objectives. However,
+no assurances can be given that such long-term capital will be available to
+Edwards Lifesciences on favorable terms, or at all.
+
+EURO CONVERSION
+
+    On January 1, 1999, the European Economic and Monetary Union created and
+introduced the Euro, the official single Eurocurrency for the eleven
+participating member countries. A transition period is currently in effect which
+began January 1, 1999 and will continue through December 31, 2001, during which
+time transactions will be executed in both the Euro and the member countries'
+individual currencies. Effective January 1, 2002, Euro bank notes will be
+introduced and as of July 1, 2002, the Euro will be the sole legal tender of the
+European Economic and Monetary Union countries.
+
+    Edwards Lifesciences has appointed a team of individuals to address all
+issues associated with the conversion to the Euro and expects to be prepared for
+such conversion as of the designated dates. At the time Edwards Lifesciences
+switches to using the Euro as the sole functional currency for the affected
+regions, certain modifications that are primarily related to information systems
+will be required. The costs associated with preparing for the conversion and
+continued use of the Euro will be expensed as incurred and are not expected to
+be material to Edwards Lifesciences' financial position, results of operations
+or cash flows. The ultimate impact on Edwards Lifesciences' business, including
+the impact on the competitive environment in which Edwards Lifesciences
+operates, is currently unknown.
+
+NEW ACCOUNTING AND DISCLOSURE STANDARDS
+
+    In June 1998, the Financial Accounting Standards Board ("FASB") issued SFAS
+No. 133, "Accounting for Derivative Instruments and Hedging Activities,"
+effective for fiscal years beginning after June 15, 1999. SFAS No. 133 requires
+companies to record derivatives on the balance sheet as assets and liabilities,
+measured at fair value. Gains and losses resulting from changes in the values of
+those derivatives would be accounted for as either components of earnings or
+accumulated other
+
+                                       22
+<PAGE>
+comprehensive income depending on the use of the derivative and whether it
+qualifies for hedge accounting. In June 1999, the FASB issued SFAS No. 137,
+"Accounting for Derivative Instruments and Hedging Activities--Deferral of the
+Effective Date of FASB Statement No. 133," which defers the effective date of
+SFAS No. 133 to fiscal years beginning after June 15, 2000. In June 2000, the
+FASB issued SFAS No. 138, "Accounting for Certain Derivative Instruments and
+Certain Hedging Activities--an Amendment of FASB Statement No. 133," which
+amends the accounting and reporting standards of SFAS No. 133. The Company has
+not determined the impact that adoption of these Standards will have on its
+consolidated financial statements.
+
+    In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin ("SAB") No. 101, "Revenue Recognition in Financial
+Statements," which was amended by SAB No. 101A in March 2000 and SAB No. 101B in
+June 2000. SAB 101A and 101B delayed the implementation date of SAB No. 101.
+These SABs, which provide guidance on the recognition, presentation and
+disclosure of revenue in financial statements, are effective in the fourth
+quarter of 2000. Management has evaluated these Bulletins and believes that
+adoption will not have a material impact on Edwards Lifesciences' consolidated
+financial statements.
+
+CURRENCY AND INTEREST RATE RISK
+
+    Edwards Lifesciences operates on a global basis and therefore is subject to
+the exposure resulting from foreign currency exchange rate fluctuations. These
+exposures arise from transactions denominated in foreign currencies, primarily
+from translation of results of operations from outside the United States.
+Additionally, such exposures may change over time as changes occur in Edwards
+Lifesciences' international operations.
+
+    For all periods prior to April 1, 2000, Edwards Lifesciences was considered
+in Baxter's overall risk management strategy. As part of this strategy, Baxter
+managed its foreign currency exchange rate risk to an acceptable level based on
+management's judgment of the appropriate trade-off between risk, opportunity and
+costs. With respect to Edwards Lifesciences' currency risks, Baxter primarily
+utilized options to hedge these exposures.
+
+    As a stand-alone company, Edwards Lifesciences manages its exposure to
+foreign currency and interest rate fluctuations to minimize earnings and cash
+flow volatility associated with foreign exchange rate changes. In order to
+reduce the risk of foreign currency exchange rate fluctuations, Edwards
+Lifesciences has established a policy of hedging a substantial portion of its
+expected foreign currency denominated cash flow from operations. The instruments
+that Edwards Lifesciences uses for hedging are readily marketable traded forward
+contracts and options with financial institutions. Edwards Lifesciences expects
+that the changes in fair value of such contracts will have a high correlation to
+the price changes in the related hedged cash flow. Edwards Lifesciences does not
+expect that the risk of transaction gains or losses from changes in the fair
+value of its foreign exchange position will be material because most
+transactions will occur in either the functional currency or in a currency that
+has a high correlation to the functional currency. The principal currencies that
+Edwards Lifesciences hedges are the Japanese Yen and the Euro, which present the
+primary risk of loss. Any gains and losses on these hedge contracts are expected
+to offset changes in the value of the related exposures. Edwards Lifesciences
+will enter into foreign currency transactions only to the extent that foreign
+currency exposure exists; it will not enter into foreign currency transactions
+for speculative purposes.
+
+    Edwards Lifesciences utilizes interest rate swap agreements in managing its
+exposure to interest rate fluctuations. Interest rate swap agreements are
+executed as an integral part of specific debt transactions. The differential
+paid or received on interest rate swap agreements is recorded on an accrual
+basis as an adjustment to interest expense over the term of the agreements.
+Edwards Lifesciences' interest rate swap agreements involve agreements to
+receive a floating rate and pay a fixed rate, at specified intervals, calculated
+on an agreed-upon notional amount. As of July 31, 2000,
+
+                                       23
+<PAGE>
+Edwards Lifesciences had in place four interest rate swap agreements with a
+total notional amount of $263 million to swap floating rate U.S. dollar and Yen
+denominated debt obtained under the Company's revolving credit facilities for
+fixed rates. The original maturities of the interest rate swap agreements are
+three months.
+
+FORWARD-LOOKING STATEMENTS
+
+    This Form 10-Q and other materials filed or to be filed by Edwards
+Lifesciences with the SEC (as well as information included in oral statements or
+other written statements made, or to be made, by Edwards Lifesciences) contain,
+or will contain, disclosures that are "forward-looking statements."
+Forward-looking statements include all statements that do not relate solely to
+historical or current facts, and can generally be identified by the use of words
+such as "may," "believe," "will," "expect," "project," "estimate," "anticipate,"
+"plan," or "continue." These forward-looking statements address, among other
+things, strategic objectives and the effects of the Distribution. These
+forward-looking statements are based on the current plans and expectations of
+management and are subject to a number of uncertainties and risks that could
+significantly affect current plans and expectations and the future financial
+condition and results of Edwards Lifesciences. These factors include, but are
+not limited to:
+
+    - the highly competitive nature of the health care industry;
+
+    - the efforts of insurers, health care providers and others to contain
+      health care costs;
+
+    - possible changes in United States or foreign programs that may further
+      limit reimbursements to health care providers and insurers;
+
+    - changes in federal, state or local regulation affecting the health care
+      industry;
+
+    - the possible enactment of federal or state health care reform;
+
+    - the departure of key executive officers from Edwards Lifesciences;
+
+    - claims and legal actions relating to product and other liability;
+
+    - fluctuations in the market value of Edwards Lifesciences common stock;
+
+    - changes in accounting practices;
+
+    - changes in general economic conditions and foreign currency fluctuations;
+
+    - product demand and risks associated with industry acceptance;
+
+    - the receipt of timely regulatory approvals;
+
+    - new product development and commercialization; and
+
+    - other risk factors described above.
+
+    As a consequence, current plans, anticipated actions and future financial
+conditions and results may materially differ from those expressed in any
+forward-looking statements made by or on behalf of Edwards Lifesciences.
+Shareholders are cautioned not to unduly rely on such forward-looking statements
+when evaluating the information presented in this Form 10-Q.
+
+TRADEMARKS
+
+    Edwards Lifesciences, Edwards, Lifepath AAA, Thrombex PMT and Vantex are
+trademarks of Edwards Lifesciences Corporation. Carpentier-Edwards and PERIMOUNT
+are trademarks of Edwards Lifesciences Corporation and are registered in the
+U.S. Patent and Trademark office.
+
+                                       24
+<PAGE>
+                           PART II. OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+    As previously announced, on June 29, 2000 Edwards Lifesciences filed a
+lawsuit for patent infringement against Medtronic, Inc. alleging infringement of
+two of Edwards Lifesciences' United States patents, and against St. Jude
+Medical, Inc. alleging infringement of three patents. The Medtronic lawsuit was
+filed in the United States District Court for the District of Delaware and the
+St. Jude lawsuit in the United States District Court for the Central District of
+California. Both lawsuits seek monetary damages and injunctive relief. Medtronic
+has answered, and asserted various affirmative defenses and counterclaims. No
+responsive pleadings from St. Jude have been served upon Edwards Lifesciences.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K.
+
+    (a) Exhibits
+
+        Exhibits required by Item 601 of Regulation S-K are listed in the
+    Exhibit Index hereto.
+
+    (b) Reports on Form 8-K
+
+        During the quarter for which this Report on Form 10-Q is filed, the
+    registrant filed no reports on Form 8-K.
+
+                                       25
+<PAGE>
+                                   SIGNATURE
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+<TABLE>
+<S>                                                    <C> <C>
+                                                       EDWARDS LIFESCIENCES CORPORATION
+                                                                   (Registrant)
+
+Date: August 11, 2000                                  By: /s/ BRUCE J. BENTCOVER
+                                                           ------------------------------------------
+                                                           Bruce J. Bentcover
+                                                           CORPORATE VICE PRESIDENT AND CHIEF
+                                                           FINANCIAL OFFICER
+</TABLE>
+
+                                       26
+<PAGE>
+             EXHIBITS FILED WITH SECURITIES AND EXCHANGE COMMISSION
+
+<TABLE>
+<CAPTION>
+NUMBER                  DESCRIPTION OF EXHIBIT
+------                  ----------------------
+<C>                     <S>
+          3.1*          Amended and Restated Certificate of Incorporation of Edwards
+                        Lifesciences Corporation
+
+          3.2*          Amended and Restated Bylaws of Edwards Lifesciences
+                        Corporation
+
+          3.3*          Form of Certificate of Designation for Edwards Lifesciences
+                        Corporation Series A Junior Participating Preferred Stock
+                        (included as Exhibit A to Exhibit 10.9)
+
+          4.1*          Specimen form of certificate representing Edwards
+                        Lifesciences Corporation common stock
+
+         10.1*          Agreement and Plan of Reorganization, dated March 31, 2000,
+                        between Edwards Lifesciences Corporation and Baxter
+                        International Inc.
+
+         10.2*          Tax Sharing Agreement, dated March 31, 2000, between Edwards
+                        Lifesciences Corporation and Baxter International Inc.
+
+         10.3*          Edwards Lifesciences Corporation Long-Term Stock Incentive
+                        Compensation Program
+
+         10.4*          Edwards Lifesciences Corporation Change in Control Severance
+                        Agreement
+
+         10.5*          Employment Agreement for Michael A. Mussallem
+
+         10.6*          Edwards Lifesciences Corporation Employee Stock Purchase
+                        Plan for United States Employees
+
+         10.7*          Edwards Lifesciences Corporation Deferred Compensation Plan
+
+         10.8*          Edwards Lifesciences Corporation Chief Executive Officer
+                        Change in Control Severance Agreement
+
+         10.9*          Rights Agreement between Edwards Lifesciences Corporation
+                        and EquiServe Trust Company, N.A, as Rights Agent, dated as
+                        of March 31, 2000
+
+        10.10*          Services and Distribution Agreement between Edwards
+                        Lifesciences LLC, as successor in interest to Baxter
+                        Healthcare Corporation, and Allegiance Healthcare
+                        Corporation, dated as of October 1, 1996. CONFIDENTIAL
+                        INFORMATION APPEARING IN THIS DOCUMENT HAS BEEN OMITTED AND
+                        FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION
+                        IN ACCORDANCE WITH SECTION 24(b) OF THE SECURITIES EXCHANGE
+                        ACT OF 1934, AS AMENDED AND RULE 24b-2 PROMULGATED
+                        THEREUNDER. OMITTED INFORMATION HAS BEEN REPLACED WITH
+                        ASTERISKS.
+
+        10.11*          Form of Employment Agreement
+
+        10.12*          Form of Consulting Agreement
+
+        10.13*          Form of Outgoing Confidentiality Agreement
+
+        10.14*          Edwards Lifesciences Corporation Nonemployee Directors and
+                        Consultants Stock Incentive Program
+
+        10.15*          Edwards Lifesciences Corporation Employee Stock Purchase
+                        Plan for International Employees
+
+        10.16*          Tokumei Kumiai Agreement by and between Baxter Limited and
+                        Edwards Lifesciences Finance Limited, dated as of April 1,
+                        2000
+
+        10.17*          Option Agreement by and between Baxter Limited and Edwards
+                        Lifesciences Limited, dated as of April 1, 2000
+
+        10.18*          Japan Distribution Agreement by and between Baxter Limited
+                        and Edwards Lifesciences LLC, dated as of April 1, 2000
+</TABLE>
+
+                                       27
+<PAGE>
+
+<TABLE>
+<CAPTION>
+NUMBER                  DESCRIPTION OF EXHIBIT
+------                  ----------------------
+<C>                     <S>
+        10.19**         Five Year Credit Agreement dated as of March 30, 2000, among
+                        Edwards Lifesciences Corporation, a Delaware corporation;
+                        the Swiss Borrowers; the Japanese Borrowers; the Lenders
+                        from time to time party hereto, The Chase Manhattan Bank, as
+                        Administrative Agent; Chase Manhattan International Limited,
+                        as London Agent; The Fuji Bank, Limited, as the Tokyo Agent;
+                        Bank One, N.A., as Syndication Agent; and Credit Suisse
+                        First Boston, as Documentation Agent.
+
+        10.20**         364-Day Credit Agreement dated as of March 30, 2000, among
+                        Edwards Lifesciences Corporation, a Delaware corporation
+                        (the "Company"); the Lenders from time to time party hereto;
+                        The Chase Manhattan Bank, as Administrative Agent; Bank One,
+                        N.A., as Syndication Agent; and Credit Suisse First Boston,
+                        as Documentation Agent.
+
+        10.21**         Edwards Lifesciences Corporation Severance Pay Plan
+
+        10.22           Contribution Agreement By and Among Edwards Lifesciences
+                        LLC, Edwards Novacor LLC, World Heart Corporation and
+                        Valentine Acquisition Corp. Dated as of May 24, 2000
+
+        10.23           AMENDMENT NO. 1, dated as of June 30, 2000 (this
+                        "AMENDMENT"), to the FIVE YEAR CREDIT AGREEMENT dated as of
+                        March 30, 2000 (the "FIVE YEAR CREDIT AGREEMENT"), among
+                        EDWARDS LIFESCIENCES CORPORATION, a Delaware corporation
+                        (the "COMPANY"); the SWISS BORROWERS (as defined in the
+                        Credit Agreement); the JAPANESE BORROWERS (as defined in the
+                        Credit Agreement); the LENDERS from time to time party
+                        thereto; THE CHASE MANHATTAN BANK, as Administrative Agent;
+                        CHASE MANHATTAN INTERNATIONAL LIMITED, as London Agent; THE
+                        FUJI BANK, LIMITED, as the Tokyo Agent; BANK ONE, N.A., as
+                        Syndication Agent; and CREDIT SUISSE FIRST BOSTON, as
+                        Documentation Agent, and to the 364 Day CREDIT AGREEMENT
+                        dated as of March 30, 2000 (the "364 DAY CREDIT AGREEMENT"
+                        and together with the Five Year Credit Agreement the "CREDIT
+                        AGREEMENTS") among the Company, the Lenders from time to
+                        time party thereto, THE CHASE MANHATTAN BANK, as
+                        Administrative Agent, BANK ONE, N.A., as Syndication Agent
+                        and CREDIT SUISSE FIRST BOSTON, as Documentation Agent.
+
+         21.1*          Subsidiaries of Edwards Lifesciences Corporation
+
+         27.1*          Financial Data Schedule -- December 31, 1999
+
+         27.2*          Financial Data Schedule -- December 31, 1998
+
+         27.3*          Financial Data Schedule -- December 31, 1997
+
+         27.4**         Financial Data Schedule -- March 31, 2000
+
+         27.5           Financial Data Schedule -- June 30, 2000
+</TABLE>
+
+------------------------
+
+*   Incorporated by reference from Registrant's Registration Statement on Form
+    10, as amended, under the Securities Exchange Act of 1934.
+
+**  Incorporated by reference from Registrant's Registration Form 10-Q for the
+    quarterly period ended March 31, 2000, under the Securities Exchange Act of
+    1934.
+
+                                       28
+</TEXT>
+</DOCUMENT>

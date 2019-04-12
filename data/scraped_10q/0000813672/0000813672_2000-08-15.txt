@@ -1,0 +1,2315 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+(MARK ONE)
+
+<TABLE>
+<C>        <S>
+   /X/     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+                  FOR THE QUARTERLY PERIOD ENDED JULY 1, 2000
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                         COMMISSION FILE NUMBER 1-10606
+
+                            ------------------------
+
+                          CADENCE DESIGN SYSTEMS, INC.
+
+             (Exact name of registrant as specified in its charter)
+
+                            ------------------------
+
+<TABLE>
+<S>                                            <C>
+               DELAWARE                                     77-0148231
+    (State or Other Jurisdiction of             (IRS Employer Identification No.)
+    Incorporation or Organization)
+
+  2655 SEELY AVENUE, BUILDING 5, SAN                          95134
+           JOSE, CALIFORNIA                                 (zip code)
+    (Address of principal executive
+               offices)
+</TABLE>
+
+                                 (408) 943-1234
+              (Registrant's telephone number, including area code)
+
+                            ------------------------
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/  No / /
+
+    At August 4, 2000, there were 246,240,851 shares of the registrant's common
+stock, $0.01 par value, outstanding.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                          CADENCE DESIGN SYSTEMS, INC.
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                PAGE
+                                                              --------
+<S>                                                           <C>
+PART I. FINANCIAL INFORMATION
+
+  Item 1. Financial Statements:
+
+          Condensed Consolidated Balance Sheets:
+            July 1, 2000 and January 1, 2000................      3
+
+          Condensed Consolidated Statements of Income:
+            Three and Six Months Ended July 1, 2000 and July
+              3, 1999.......................................      4
+
+          Condensed Consolidated Statements of Cash Flows:
+            Six Months Ended July 1, 2000 and July 3,
+              1999..........................................      5
+
+          Notes to Condensed Consolidated Financial
+            Statements......................................      6
+
+  Item 2. Management's Discussion and Analysis of Financial
+          Condition and Results of Operations...............     12
+
+  Item 3. Quantitative and Qualitative Disclosures About
+    Market Risk.............................................     27
+
+PART II. OTHER INFORMATION
+
+  Item 1. Legal Proceedings.................................     31
+
+  Item 2. Changes in Securities and Use of Proceeds.........     32
+
+  Item 3. Defaults Upon Senior Securities...................     33
+
+  Item 4. Submission of Matters to a Vote of Security
+    Holders.................................................     33
+
+  Item 5. Other Information.................................     33
+
+  Item 6. Exhibits and Reports on Form 8-K..................     33
+
+Signatures..................................................     34
+</TABLE>
+
+                                       2
+<PAGE>
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+                                     ASSETS
+
+<TABLE>
+<CAPTION>
+                                                                JULY 1,     JANUARY 1,
+                                                                 2000          2000
+                                                              -----------   ----------
+                                                              (UNAUDITED)
+<S>                                                           <C>           <C>
+Current Assets:
+  Cash and cash equivalents.................................  $  113,165    $  111,401
+  Short-term investments....................................       6,278         7,357
+  Receivables, net..........................................     231,839       248,034
+  Inventories, net..........................................      15,219        19,872
+  Prepaid expenses and other................................     117,774        93,248
+                                                              ----------    ----------
+    Total current assets....................................     484,275       479,912
+
+Property, plant, and equipment, net.........................     337,755       330,409
+Software development costs, net.............................      10,725        10,692
+Acquired intangibles, net...................................     366,984       402,154
+Installment contract receivables............................      45,907        84,160
+Other assets................................................     150,087       152,332
+                                                              ----------    ----------
+                                                              $1,395,733    $1,459,659
+                                                              ==========    ==========
+                         LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+  Notes payable and current portion of capital leases.......  $    3,447    $    3,924
+  Accounts payable and accrued liabilities..................     256,988       265,518
+  Deferred revenue..........................................     192,468       152,116
+                                                              ----------    ----------
+    Total current liabilities...............................     452,903       421,558
+                                                              ----------    ----------
+Long-term Liabilities:
+  Long-term notes payable and capital leases................       4,198        25,024
+  Other long-term liabilities...............................      31,175        26,928
+                                                              ----------    ----------
+    Total long-term liabilities.............................      35,373        51,952
+                                                              ----------    ----------
+
+Stockholders' Equity:
+  Common stock and capital in excess of par value...........     820,225       857,960
+  Treasury stock at cost....................................    (246,251)     (240,748)
+  Retained earnings.........................................     338,063       344,247
+  Accumulated other comprehensive gain (loss)...............      (4,580)       24,690
+                                                              ----------    ----------
+    Total stockholders' equity..............................     907,457       986,149
+                                                              ----------    ----------
+                                                              $1,395,733    $1,459,659
+                                                              ==========    ==========
+</TABLE>
+
+  The accompanying notes are an integral part of these condensed consolidated
+                             financial statements.
+
+                                       3
+<PAGE>
+                          CADENCE DESIGN SYSTEMS, INC.
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                      THREE MONTHS ENDED     SIX MONTHS ENDED
+                                                      -------------------   -------------------
+                                                      JULY 1,    JULY 3,    JULY 1,    JULY 3,
+                                                        2000       1999       2000       1999
+                                                      --------   --------   --------   --------
+<S>                                                   <C>        <C>        <C>        <C>
+Revenue:
+  Product...........................................  $140,383   $117,890   $245,915   $305,247
+  Services..........................................    80,177     74,943    155,992    147,417
+  Maintenance.......................................    78,122     71,360    154,268    146,720
+                                                      --------   --------   --------   --------
+    Total revenue...................................   298,682    264,193    556,175    599,384
+                                                      --------   --------   --------   --------
+
+Costs and Expenses:
+  Cost of product...................................    20,501     20,064     40,979     38,600
+  Cost of services..................................    52,182     48,844    101,183     96,102
+  Cost of maintenance...............................    15,329     12,930     29,518     25,830
+  Amortization of acquired intangibles..............    19,868     12,856     39,534     25,570
+  Marketing and sales...............................    95,031     82,936    181,198    162,999
+  Research and development..........................    65,772     50,359    128,345    101,227
+  General and administrative........................    23,751     20,903     46,283     42,163
+  Unusual items.....................................        --     19,648         --     33,840
+                                                      --------   --------   --------   --------
+
+    Total costs and expenses........................   292,434    268,540    567,040    526,331
+                                                      --------   --------   --------   --------
+
+      Income (loss) from operations.................     6,248     (4,347)   (10,865)    73,053
+
+Other income, net...................................     1,407        141      2,453        276
+                                                      --------   --------   --------   --------
+
+      Income (loss) before provision (benefit) for
+        income taxes................................     7,655     (4,206)    (8,412)    73,329
+
+Provision (benefit) for income taxes................     2,029     (1,199)    (2,229)    23,474
+                                                      --------   --------   --------   --------
+
+      Net income (loss).............................  $  5,626   $ (3,007)  $ (6,183)  $ 49,855
+                                                      ========   ========   ========   ========
+Basic net income (loss) per share...................  $   0.02   $  (0.01)  $  (0.03)  $   0.21
+                                                      ========   ========   ========   ========
+Diluted net income (loss) per share.................  $   0.02   $  (0.01)  $  (0.03)  $   0.19
+                                                      ========   ========   ========   ========
+
+Weighted average common shares outstanding..........   244,404    241,978    244,516    241,026
+                                                      ========   ========   ========   ========
+Weighted average common and potential common shares
+  outstanding--assuming dilution....................   258,583    241,978    244,516    257,016
+                                                      ========   ========   ========   ========
+</TABLE>
+
+    The accompanying notes are an integral part of these condensed consolidated
+financial statements.
+
+                                       4
+<PAGE>
+                          CADENCE DESIGN SYSTEMS, INC.
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                               SIX MONTHS ENDED
+                                                              -------------------
+                                                              JULY 1,    JULY 3,
+                                                                2000       1999
+                                                              --------   --------
+<S>                                                           <C>        <C>
+Cash and Cash Equivalents at Beginning of Period............  $111,401   $209,074
+                                                              --------   --------
+Cash Flows from Operating Activities:
+  Net income (loss).........................................    (6,183)    49,855
+  Adjustments to reconcile net income (loss) to net cash
+    provided by operating activities:
+    Depreciation and amortization...........................    95,819     76,736
+    Asset impairment and write-off of equipment and
+      non-current assets....................................        --      4,974
+    Deferred income taxes...................................        14     13,584
+    Net investment gains on sale, equity loss, and
+      write-downs...........................................    (5,124)     2,633
+    Write-off of acquired in-process technology.............        --      8,900
+    Minority interest expense...............................        --       (126)
+    Provisions for losses on trade accounts receivable......       883      6,250
+    Write-off of non-current assets.........................        --      2,145
+    Changes in operating assets and liabilities, net of
+      effect of acquired businesses:
+      Receivables...........................................   (65,265)   (54,947)
+      Inventories...........................................      (809)       162
+      Prepaid expenses and other............................   (24,458)   (16,666)
+      Installment contract receivables......................    38,251     18,980
+      Accounts payable and accrued liabilities..............    10,682     (6,441)
+      Income taxes payable..................................        --       (783)
+      Deferred revenue......................................    40,352     21,804
+      Other long-term liabilities...........................     4,247     (5,834)
+                                                              --------   --------
+        Net cash provided by operating activities...........    88,409    121,226
+                                                              --------   --------
+
+Cash Flows from Investing Activities:
+  Maturities of short-term investments--held-to-maturity....       999     27,245
+  Purchases of short-term investments--held-to-maturity.....        --        (57)
+  Maturities of short-term
+    investments--available-for-sale.........................     1,107         --
+  Purchases of property, plant, and equipment...............   (46,652)   (71,377)
+  Capitalization of software development costs..............   (14,714)   (13,528)
+  Increase in acquired intangibles and other assets.........   (21,848)   (13,452)
+  Net investment in venture capital partnership and equity
+    investments.............................................      (497)    (5,770)
+  Cash effect of business acquisitions......................    (4,503)    (2,806)
+  Sale of put warrants......................................    25,516      3,609
+  Purchase of call options..................................   (25,516)    (3,609)
+                                                              --------   --------
+        Net cash used for investing activities..............   (86,108)   (79,745)
+                                                              --------   --------
+Cash Flows from Financing Activities:
+  Proceeds from long-term debt..............................        --     30,168
+  Principal payments on long-term debt and capital leases...   (21,763)  (165,000)
+  Proceeds from issuance of common stock....................    40,945     49,642
+  Purchases of treasury stock...............................   (98,631)   (49,125)
+  Proceeds from transfer of financial assets in exchange for
+    cash....................................................    80,808     77,162
+                                                              --------   --------
+        Net cash provided by (used for) financing
+          activities........................................     1,359    (57,153)
+                                                              --------   --------
+Effect of exchange rate changes on cash.....................    (1,896)      (442)
+                                                              --------   --------
+Net increase (decrease) in cash and cash equivalents........     1,764    (16,114)
+                                                              --------   --------
+Cash and Cash Equivalents at End of Period..................  $113,165   $192,960
+                                                              ========   ========
+</TABLE>
+
+  The accompanying notes are an integral part of these condensed consolidated
+                             financial statements.
+
+                                       5
+<PAGE>
+                          CADENCE DESIGN SYSTEMS, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                  (UNAUDITED)
+
+BASIS OF PRESENTATION
+
+    The condensed consolidated financial statements included herein have been
+prepared by Cadence, without audit, pursuant to the rules and regulations of the
+Securities and Exchange Commission. Certain information and footnote disclosures
+normally included in consolidated financial statements prepared in accordance
+with generally accepted accounting principles have been condensed or omitted
+pursuant to such rules and regulations. However, Cadence believes that the
+disclosures are adequate to make the information presented not misleading. These
+condensed consolidated financial statements should be read in conjunction with
+the consolidated financial statements and the notes thereto included in
+Cadence's Annual Report on Form 10-K for the fiscal year ended January 1, 2000.
+
+    The unaudited condensed consolidated financial statements included herein
+reflect all adjustments (which include only normal, recurring adjustments) that
+are, in the opinion of management, necessary to state fairly the results for the
+periods presented. The results for such periods are not necessarily indicative
+of the results to be expected for the full fiscal year.
+
+    The preparation of condensed consolidated financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the condensed consolidated financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+    Certain amounts in the condensed consolidated financial statements as of
+January 1, 2000 and for the three and six months ended July 3, 1999 have been
+reclassified to conform with the July 1, 2000 presentation.
+
+INVENTORIES
+
+    Cadence's inventories include high technology parts and components for
+complex computer systems that emulate the performance and operation of computer
+chips and electronic systems.
+
+    A summary of inventories follows:
+
+<TABLE>
+<CAPTION>
+                                                           JULY 1,    JANUARY 1,
+                                                             2000        2000
+                                                           --------   ----------
+                                                              (IN THOUSANDS)
+<S>                                                        <C>        <C>
+Raw materials............................................  $12,615      $19,033
+Work in process..........................................    2,604          839
+                                                           -------      -------
+  Total inventories, net.................................  $15,219      $19,872
+                                                           =======      =======
+</TABLE>
+
+                                       6
+<PAGE>
+RESTRUCTURING
+
+    The following table summarizes Cadence's restructuring activity during the
+six months ended July 1, 2000:
+
+<TABLE>
+<CAPTION>
+                                                          FOR THE SIX MONTHS ENDED JULY 1, 2000
+                                               ------------------------------------------------------------
+                                               SEVERANCE
+                                                  AND        EXCESS         OTHER
+                                               BENEFITS    FACILITIES   RESTRUCTURING    ASSETS     TOTAL
+                                               ---------   ----------   -------------   --------   --------
+                                                                      (IN THOUSANDS)
+<S>                                            <C>         <C>          <C>             <C>        <C>
+Balance, January 1, 2000.....................   $8,013       $6,464         $ 426        $5,861    $20,764
+  Non-cash charges...........................     (110)         (71)          (62)       (3,345)    (3,588)
+  Cash charges...............................   (1,650)        (302)         (364)         (598)    (2,914)
+                                                ------       ------         -----        ------    -------
+Balance, July 1, 2000........................   $6,253       $6,091         $  --        $1,918    $14,262
+                                                ======       ======         =====        ======    =======
+</TABLE>
+
+CREDIT FACILITY
+
+    In October 1998, Cadence entered into a senior unsecured credit facility,
+referred to as the 1998 Facility, with a syndicate of banks that allows Cadence
+to borrow up to $355 million. As amended in September and November of 1999, the
+1998 Facility is divided between a $177.5 million two year revolving credit
+facility, referred to as the Two Year Facility, and a $177.5 million 364-day
+revolving credit facility convertible into a one year term loan, referred to as
+the 364-Day Facility. The Two Year Facility expires on September 29, 2001. The
+364-Day Facility will either expire on September 27, 2000, be converted to a one
+year term loan with a maturity date of September 27, 2001, or, at the request of
+Cadence and with the agreement of the bank group, be renewed for one additional
+year. Cadence has the option to pay interest based on LIBOR plus a spread of
+between 1.25% and 1.50%, based on a pricing grid tied to a financial covenant,
+or the higher of the (i) Federal Funds Rate plus 0.50% and (ii) prime rate. As a
+result, Cadence's interest rate expenses associated with this borrowing will
+vary with market rates. In addition, commitment fees are payable on the
+unutilized portion of the Two Year Facility at rates between 0.23% and 0.30%
+based on a pricing grid tied to a financial covenant and on the unutilized
+portion of the 364-Day Facility at a fixed rate of 0.18%. The 1998 Facility
+contains certain financial and other covenants.
+
+    During the six months ended July 1, 2000, Cadence repaid all of the
+$20 million outstanding under the 1998 Facility at January 1, 2000. At July 1,
+2000, there were no borrowings outstanding under the 1998 Facility.
+
+COMPREHENSIVE INCOME (LOSS)
+
+    Comprehensive income (loss) includes foreign currency translation gains and
+losses and other unrealized gains and losses that have been previously excluded
+from net income (loss) and reflected instead in equity. A summary of
+comprehensive income (loss) follows:
+
+<TABLE>
+<CAPTION>
+                                                         THREE MONTHS ENDED     SIX MONTHS ENDED
+                                                         -------------------   -------------------
+                                                         JULY 1,    JULY 3,    JULY 1,    JULY 3,
+                                                           2000       1999       2000       1999
+                                                         --------   --------   --------   --------
+                                                                      (IN THOUSANDS)
+<S>                                                      <C>        <C>        <C>        <C>
+Net income (loss)......................................  $  5,626   $(3,007)   $ (6,183)  $49,855
+Translation loss.......................................    (1,549)   (1,411)     (1,667)     (472)
+Unrealized loss on investments.........................   (20,826)     (104)    (27,603)     (156)
+                                                         --------   -------    --------   -------
+  Comprehensive income (loss)..........................  $(16,749)  $(4,522)   $(35,453)  $49,227
+                                                         ========   =======    ========   =======
+</TABLE>
+
+                                       7
+<PAGE>
+NET INCOME (LOSS) PER SHARE
+
+    The following is a reconciliation of the weighted average common shares used
+to calculate basic net income (loss) per share to the weighted average common
+and potential common shares used to calculate diluted net income (loss) per
+share:
+
+<TABLE>
+<CAPTION>
+                                                          THREE MONTHS ENDED     SIX MONTHS ENDED
+                                                          -------------------   -------------------
+                                                          JULY 1,    JULY 3,    JULY 1,    JULY 3,
+                                                            2000       1999       2000       1999
+                                                          --------   --------   --------   --------
+                                                                       (IN THOUSANDS)
+<S>                                                       <C>        <C>        <C>        <C>
+Weighted average common shares used to calculate basic
+  net income (loss) per share...........................  244,404    241,978    244,516    241,026
+  Options...............................................   11,996         --         --     14,368
+  Warrants and other contingent shares..................      712         --         --        307
+  Puts..................................................    1,471         --         --      1,315
+                                                          -------    -------    -------    -------
+Weighted average common and potential common shares used
+  to calculate diluted net income (loss) per share......  258,583    241,978    244,516    257,016
+                                                          =======    =======    =======    =======
+</TABLE>
+
+    Had Cadence recorded net income for the six months ended July 1, 2000,
+dilutive weighted outstanding options would have been 15.4 million and weighted
+outstanding warrants, puts, and other dilutive contingent shares would have been
+1.4 million.
+
+CONTINGENCIES
+
+    Refer to Part II, Item 1 for a description of legal proceedings.
+
+PUT WARRANTS AND CALL OPTIONS
+
+    Cadence has authorized three seasoned systematic stock repurchase programs
+under which it repurchases common stock to satisfy estimated requirements for
+shares to be issued under its Employee Stock Purchase Plan, or ESPP, the 1997
+Nonstatutory Stock Option Plan, referred to as the 1997 Plan, and the 2000
+Nonstatutory Stock Option Plan, referred to as the 2000 Plan. These repurchases
+are intended to cover Cadence's expected reissuances under the ESPP for the next
+12 months and both the 1997 Plan and 2000 Plan for the next 24 months.
+
+    As part of its authorized repurchase programs, Cadence has sold put warrants
+through private placements. At July 1, 2000, there were 6.3 million put warrants
+outstanding, each of which entitles the holder to sell one share of common stock
+to Cadence on a specified date and at a specified price ranging from $18.02 to
+$22.31 per share. Additionally, Cadence purchased call options that entitle
+Cadence to buy shares of its common stock at a specified price to satisfy
+anticipated stock repurchase requirements under Cadence's systematic stock
+repurchase programs. At July 1, 2000, Cadence had 4.6 million call options
+outstanding at exercise prices ranging from $18.27 to $22.56 per share. The put
+warrants and call options outstanding at July 1, 2000 are exercisable on various
+dates through February 2001 and Cadence has the contractual ability to settle
+the options prior to their maturity. At July 1, 2000, the fair value of the call
+options was approximately $12.1 million and the fair value of the put warrants
+was approximately $16.7 million. The fair value of the put warrants and call
+options was estimated by Cadence's investment bankers.
+
+    If exercised, Cadence has the right to settle the put warrants with that
+number of shares of Cadence common stock having a value equal to the difference
+between the exercise price and the fair value at the date of exercise.
+Settlement of the put warrants with common stock could cause Cadence to issue a
+substantial number of shares, depending on the exercise price of the put
+warrants and the per share fair value of Cadence's common stock at the time of
+exercise. In addition, settlement of put warrants in common stock could lead to
+the disposition by put warrant holders of shares of Cadence's common stock
+
+                                       8
+<PAGE>
+that such holders may have accumulated in anticipation of the exercise of the
+put warrants or call options, which may negatively affect the price of Cadence's
+common stock. At July 1, 2000, because Cadence had the ability to settle these
+put warrants with common stock, no amount was classified out of stockholders'
+equity in the condensed consolidated balance sheets.
+
+SEGMENT REPORTING
+
+    The following tables present information about reported segments for the
+three months ended July 1, 2000 and July 3, 1999:
+
+<TABLE>
+<CAPTION>
+                                                 FOR THE THREE MONTHS ENDED JULY 1, 2000
+                                         --------------------------------------------------------
+                                         PRODUCT    SERVICES   MAINTENANCE     OTHER      TOTAL
+                                         --------   --------   -----------   ---------   --------
+                                                              (IN THOUSANDS)
+<S>                                      <C>        <C>        <C>           <C>         <C>
+Revenue................................  $140,383   $80,177      $78,122     $      --   $298,682
+Cost of revenue........................    20,501    52,182       15,329            --     88,012
+Amortization of acquired intangibles...    10,562     9,306           --            --     19,868
+                                         --------   -------      -------     ---------   --------
+    Gross margin.......................   109,320    18,689       62,793            --    190,802
+Marketing and sales....................        --        --           --       (95,031)   (95,031)
+Research and development...............        --        --           --       (65,772)   (65,772)
+General and administrative.............        --        --           --       (23,751)   (23,751)
+Other income, net......................        --        --           --         1,407      1,407
+                                         --------   -------      -------     ---------   --------
+Income (loss) before provision
+  (benefit) for income taxes...........  $109,320   $18,689      $62,793     $(183,147)  $  7,655
+                                         ========   =======      =======     =========   ========
+
+<CAPTION>
+                                                 FOR THE THREE MONTHS ENDED JULY 3, 1999
+                                         --------------------------------------------------------
+Revenue.                                 $117,890   $ 74,943   $    71,360   $      --   $264,193
+<S>                                      <C>        <C>        <C>           <C>         <C>
+Cost of revenue........................    20,064    48,844       12,930            --     81,838
+Amortization of acquired intangibles...    11,632     1,224           --            --     12,856
+                                         --------   -------      -------     ---------   --------
+  Gross margin.........................    86,194    24,875       58,430            --    169,499
+Marketing and sales....................        --        --           --       (82,936)   (82,936)
+Research and development...............        --        --           --       (50,359)   (50,359)
+General and administrative.............        --        --           --       (20,903)   (20,903)
+Unusual items..........................        --        --           --       (19,648)   (19,648)
+Other income, net......................        --        --           --           141        141
+                                         --------   -------      -------     ---------   --------
+Income (loss) before provision
+  (benefit) for income taxes...........  $ 86,194   $24,875      $58,430     $(173,705)  $ (4,206)
+                                         ========   =======      =======     =========   ========
+</TABLE>
+
+                                       9
+<PAGE>
+    The following tables present information about reported segments for the six
+months ended July 1, 2000 and July 3, 1999:
+
+<TABLE>
+<CAPTION>
+                                                 FOR THE SIX MONTHS ENDED JULY 1, 2000
+                                        --------------------------------------------------------
+                                        PRODUCT    SERVICES   MAINTENANCE     OTHER      TOTAL
+                                        --------   --------   -----------   ---------   --------
+                                                             (IN THOUSANDS)
+<S>                                     <C>        <C>        <C>           <C>         <C>
+Revenue...............................  $245,915   $155,992    $154,268     $      --   $556,175
+Cost of revenue.......................    40,979    101,183      29,518            --    171,680
+Amortization of acquired
+  intangibles.........................    21,140     18,394          --            --     39,534
+                                        --------   --------    --------     ---------   --------
+  Gross margin........................   183,796     36,415     124,750            --    344,961
+Marketing and sales...................        --         --          --      (181,198)  (181,198)
+Research and development..............        --         --          --      (128,345)  (128,345)
+General and administrative............        --         --          --       (46,283)   (46,283)
+Other income, net.....................        --         --          --         2,453      2,453
+                                        --------   --------    --------     ---------   --------
+Income (loss) before provision
+  (benefit) for income taxes..........  $183,796   $ 36,415    $124,750     $(353,373)  $ (8,412)
+                                        ========   ========    ========     =========   ========
+
+<CAPTION>
+                                                 FOR THE SIX MONTHS ENDED JULY 3, 1999
+                                        --------------------------------------------------------
+Revenue.                                $305,247   $147,417   $   146,720   $      --   $599,384
+<S>                                     <C>        <C>        <C>           <C>         <C>
+Cost of revenue.......................    38,600     96,102      25,830            --    160,532
+Amortization of acquired
+  intangibles.........................    22,951      2,619          --            --     25,570
+                                        --------   --------    --------     ---------   --------
+  Gross margin........................   243,696     48,696     120,890            --    413,282
+Marketing and sales...................        --         --          --      (162,999)  (162,999)
+Research and development..............        --         --          --      (101,227)  (101,227)
+General and administrative............        --         --          --       (42,163)   (42,163)
+Unusual items.........................        --         --          --       (33,840)   (33,840)
+Other income, net.....................        --         --          --           276        276
+                                        --------   --------    --------     ---------   --------
+Income (loss) before provision
+  (benefit) for income taxes..........  $243,696   $ 48,696    $120,890     $(339,953)  $ 73,329
+                                        ========   ========    ========     =========   ========
+</TABLE>
+
+TALITY CORPORATION
+
+    On July 17, 2000, Cadence announced its plan to separate its electronics
+design services group into a new, publicly traded company named Tality
+Corporation, or Tality. In furtherance of this plan, Tality has filed a
+registration statement with the Securities and Exchange Commission for its
+initial public offering. The completion of the separation and initial public
+offering is contingent upon certain conditions, including market conditions. The
+financial statements and financial information in this Quarterly Report on
+Form 10-Q do not give effect to the separation, which has not been completed as
+of the date of this report. We expect that the separation of this business from
+Cadence, including the transfer of related assets, liabilities and intellectual
+property rights, will be substantially completed prior to the completion of the
+initial public offering. Immediately following the separation and initial public
+offering, Cadence will own approximately 80% of Tality's equity and consolidate
+its financial results.
+
+    The full impact of the planned separation, if it occurs, on Cadence's
+business, operating results, and financial condition cannot be predicted at this
+time. However, certain incremental expenses are expected to be incurred in
+future periods as decisions are made regarding the separation.
+
+NEW ACCOUNTING STANDARDS
+
+    In March 2000, the Financial Accounting Standards Board, or FASB, issued
+interpretation No. 44, "Accounting for Certain Transactions involving Stock
+Compensation", an interpretation of Accounting
+
+                                       10
+<PAGE>
+Pinciples Board, or APB, Opinion No. 25. This interpretation provides guidance
+regarding the application of APB Opinion No. 25 to stock compensation involving
+employees. This interpretation is effective July 1, 2000 and is not expected to
+have a material effect on Cadence's financial position, results of operations,
+or cash flows.
+
+    In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin, No. 101, "Revenue Recognition in Financial Statements," or
+SAB 101, which provides guidance on the recognition, presentation, and
+disclosure of revenue in financial statements. SAB 101 will be adopted in the
+fourth quarter of fiscal 2000. The adoption of this statement is not expected to
+have a material effect on Cadence's financial position, results of operations,
+or cash flows.
+
+    In June 1998, the FASB issued Statement of Financial Accounting Standards,
+or SFAS, No. 133, "Accounting for Derivative Instruments and Hedging
+Activities." SFAS No. 133 establishes accounting and reporting standards
+requiring that every derivative instrument be recorded in the balance sheet as
+either an asset or liability measured at its fair value. It requires that
+changes in the derivative's fair value be recognized currently in earnings
+unless specific hedge accounting criteria are met and that a company must
+formally document, designate, and assess the effectiveness of transactions that
+receive hedge accounting. In June 1999, SFAS No. 137, "Accounting for Derivative
+Instruments and Hedging Activities--Deferral of the Effective Date of FASB
+Statement No. 133," was issued. The statement defers the effective date of SFAS
+No. 133 until the first quarter of fiscal 2001. The adoption of this statement
+is not expected to have a material effect on Cadence's financial position,
+results of operations, or cash flows.
+
+                                       11
+<PAGE>
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+  OF OPERATIONS
+
+    THE FOLLOWING DISCUSSION SHOULD BE READ IN CONJUNCTION WITH THE CONDENSED
+CONSOLIDATED FINANCIAL STATEMENTS AND NOTES THERETO INCLUDED ELSEWHERE IN THIS
+QUARTERLY REPORT ON FORM 10-Q. EXCEPT FOR HISTORICAL INFORMATION, THE FOLLOWING
+DISCUSSION CONTAINS FORWARD-LOOKING STATEMENTS BASED ON CURRENT EXPECTATIONS
+THAT INVOLVE CERTAIN RISKS AND UNCERTAINTIES. CADENCE'S ACTUAL RESULTS COULD
+DIFFER MATERIALLY FROM THOSE DISCUSSED HEREIN. FACTORS THAT COULD CAUSE ACTUAL
+RESULTS OR PERFORMANCE TO DIFFER MATERIALLY OR CONTRIBUTE TO SUCH DIFFERENCES
+INCLUDE, BUT ARE NOT LIMITED TO, THOSE DISCUSSED BELOW IN "RESULTS OF
+OPERATIONS," "LIQUIDITY AND CAPITAL RESOURCES," "FACTORS THAT MAY AFFECT FUTURE
+RESULTS," AND "DISCLOSURES ABOUT MARKET RISK."
+
+OVERVIEW
+
+    Cadence Design Systems, Inc., or Cadence, provides comprehensive software
+and other technology and offers design and methodology services for the product
+development requirements of the world's leading electronics companies. Cadence
+licenses its leading-edge electronic design automation, or EDA, software and
+hardware technology and provides a range of services to companies throughout the
+world to help its customers optimize their product development processes.
+Cadence is a supplier of products and services which are used by companies to
+design and develop complex chips and electronic systems including
+semiconductors, computer systems and peripherals, telecommunications and
+networking equipment, mobile and wireless devices, automotive electronics,
+consumer products, and other advanced electronics.
+
+TALITY CORPORATION
+
+    On July 17, 2000, Cadence announced its plan to separate its electronics
+design services group into a new, publicly traded company named Tality
+Corporation, or Tality. In furtherance of this plan, Tality has filed a
+registration statement with the Securities and Exchange Commission for its
+initial public offering. The completion of the separation and initial public
+offering is contingent upon certain conditions, including market conditions. The
+financial statements and financial information in this Quarterly Report on
+Form 10-Q do not give effect to a separation, which has not been completed as of
+the date of this report. We expect that the separation of this business from
+Cadence, including the transfer of related assets, liabilities and intellectual
+property rights, will be substantially completed prior to the completion of the
+initial public offering. Immediately following the separation and initial public
+offering, Cadence will own approximately 80% of Tality's equity and consolidate
+its financial results.
+
+    As Cadence executes the separation of Tality from Cadence, Cadence is
+incurring certain incremental costs, primarily for legal and accounting
+services, strategic business planning, information systems separation,
+development of compensation and benefits strategies, and recruitment of certain
+key Tality management. Direct costs of the Tality initial public offering, such
+as the underwriter's commissions, legal, and accounting fees will be deducted
+from the proceeds of the offering.
+
+    The full impact of the planned separation, if it occurs, on Cadence's
+business, operating results, and financial condition cannot be predicted at this
+time. However, certain incremental expenses are expected to be incurred in
+future periods as decisions are made regarding the separation.
+
+                                       12
+<PAGE>
+RESULTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                                                    SIX MONTHS
+                                              THREE MONTHS ENDED                       ENDED
+                                             ---------------------              -------------------
+                                              JULY 1,     JULY 3,               JULY 1,    JULY 3,
+                                               2000        1999      % CHANGE     2000       1999     % CHANGE
+                                             ---------   ---------   --------   --------   --------   --------
+                                                             (IN MILLIONS, EXCEPT PERCENTAGES)
+<S>                                          <C>         <C>         <C>        <C>        <C>        <C>
+REVENUE
+Product....................................   $140.4      $117.9        19%      $245.9     $305.3      (19)%
+Services...................................     80.2        74.9         7%       156.0      147.4        6%
+Maintenance................................     78.1        71.4         9%       154.3      146.7        5%
+                                              ------      ------                 ------     ------
+  Total revenue............................   $298.7      $264.2        13%      $556.2     $599.4       (7)%
+                                              ======      ======                 ======     ======
+
+SOURCES OF REVENUE AS A PERCENT OF TOTAL REVENUE
+Product....................................       47%         45%                    44%        51%
+Services...................................       27%         28%                    28%        25%
+Maintenance................................       26%         27%                    28%        24%
+</TABLE>
+
+    Product revenue increased $22.5 million and decreased $59.4 million in the
+three and six months ended July 1, 2000, respectively, when compared to the same
+periods in 1999. The increase in the three months ended July 1, 2000 was
+primarily due to the increased sales volume of intellectual property creation
+products, which include mixed signal and simulation products, as well as sales
+of printed circuit board related product associated with the acquisition of
+OrCAD, Inc., or OrCAD, which was completed in the third quarter of 1999 and for
+which there were no similar sales in the comparable period in 1999. The decrease
+in the six months ended July 1, 2000 was due to an overall decrease in sales
+volume of Cadence's software products and the implementation of Cadence's
+software subscription licensing model, first implemented during the third
+quarter of 1999. The decrease in sales volume of products was primarily
+attributable to lower sales of integrated circuit implementation products, which
+include place and route and physical design and verification products, partially
+offset by sales associated with the OrCAD acquisition.
+
+    Services revenue increased $5.3 million and $8.6 million in the three and
+six months ended July 1, 2000, respectively, when compared to the same periods
+in 1999, primarily due to an increase in demand for Cadence's design services
+and billable hours incurred for design services, partially offset by a decrease
+in methodology services engagements due to lower staffing levels in the current
+periods. Increases in design services revenue were primarily due to an increase
+in the wireless communications area with general increases in each of the other
+remaining areas, wired communications, information appliances, and industrial
+electronics.
+
+    Maintenance revenue increased $6.7 million and $7.6 million in the three and
+six months ended July 1, 2000, respectively, when compared to the same periods
+in 1999, primarily due to the growth of the installed customer base and the
+renewal of maintenance and support contracts.
+
+<TABLE>
+<CAPTION>
+                                                                                    SIX MONTHS
+                                              THREE MONTHS ENDED                       ENDED
+                                             ---------------------              -------------------
+                                              JULY 1,     JULY 3,               JULY 1,    JULY 3,
+                                               2000        1999      % CHANGE     2000       1999     % CHANGE
+                                             ---------   ---------   --------   --------   --------   --------
+                                                             (IN MILLIONS, EXCEPT PERCENTAGES)
+<S>                                          <C>         <C>         <C>        <C>        <C>        <C>
+REVENUE BY GEOGRAPHY
+Domestic...................................   $160.5      $142.9        12%      $312.7     $277.5       13%
+International..............................    138.2       121.3        14%       243.5      321.9      (24)%
+                                              ------      ------                 ------     ------
+  Total revenue............................   $298.7      $264.2        13%      $556.2     $599.4       (7)%
+                                              ======      ======                 ======     ======
+
+REVENUE BY GEOGRAPHY AS A PERCENT OF TOTAL
+  REVENUE
+Domestic...................................       54%         54%                    56%        46%
+International..............................       46%         46%                    44%        54%
+</TABLE>
+
+                                       13
+<PAGE>
+    International revenue increased $16.9 million and decreased $78.4 million in
+the three and six months ended July 1, 2000, respectively, when compared to the
+same periods in 1999. The increase in the three months ended July 1, 2000 was
+primarily due to increases in product and maintenance revenue in Europe,
+partially offset by a decrease in services revenue in Europe and product and
+maintenance revenue in Japan. The decrease in the six months ended July 1, 2000
+was primarily due to decreases in product revenue in Japan and Asia and
+decreases in services revenue in Europe and Japan.
+
+    Foreign currency exchange rates positively affected revenue by $2.9 million
+and $4.6 million during the three and six months ended July 1, 2000,
+respectively, when compared to the same periods in 1999, primarily due to the
+strengthening of the Japanese yen in relation to the U.S. dollar, offset
+partially by the weakening of the British pound sterling and German deutsche
+mark in relation to the U.S. dollar. Foreign currency exchange rates positively
+affected revenue by $3.9 million and $8 million during the three and six months
+ended July 3, 1999, respectively, primarily due to the strengthening of the
+Japanese yen in relation to the U.S. dollar.
+
+<TABLE>
+<CAPTION>
+                                          THREE MONTHS ENDED                 SIX MONTHS ENDED
+                                         ---------------------              -------------------
+                                          JULY 1,     JULY 3,               JULY 1,    JULY 3,
+                                           2000        1999      % CHANGE     2000       1999     % CHANGE
+                                         ---------   ---------   --------   --------   --------   --------
+                                                         (IN MILLIONS, EXCEPT PERCENTAGES)
+<S>                                      <C>         <C>         <C>        <C>        <C>        <C>
+COST OF REVENUE
+Product................................    $20.5       $20.1         2%      $ 41.0     $38.6         6%
+Services...............................    $52.2       $48.8         7%      $101.2     $96.1         5%
+Maintenance............................    $15.3       $12.9        19%      $ 29.5     $25.8        14%
+
+COST OF REVENUE AS A PERCENT OF RELATED
+  REVENUE
+Product................................       15%         17%                    17%       13%
+Services...............................       65%         65%                    65%       65%
+Maintenance............................       20%         18%                    19%       18%
+</TABLE>
+
+    Cost of product revenue includes costs of production personnel, packaging
+and documentation, royalties, and amortization of capitalized software
+development costs for software products. Manufacturing costs associated with
+hardware emulation system products include materials, labor, and overhead.
+
+    Cost of product revenue remained flat for the three months ended July 1,
+2000 and increased $2.4 million for the six months ended July 1, 2000, when
+compared to the same periods in 1999. The increase in cost of product revenue in
+the six months ended July 1, 2000 was primarily due to higher manufacturing
+costs associated with emulation system products.
+
+    Because the majority of Cadence's cost of software product revenue does not
+vary significantly with changes in revenue, product gross margin increased in
+the three months ended July 1, 2000, when compared to the same period in 1999,
+primarily due to an increase in sales volume of software products. Product gross
+margin decreased in the six months ended July 1, 2000, when compared to the same
+period in 1999, due to a decrease in sales volume of software products and the
+implementation of Cadence's software subscription licensing model, which was
+implemented during the third quarter of 1999.
+
+    Cost of services revenue includes costs associated with providing services
+to customers, primarily salaries and costs to recruit, develop, and retain
+personnel, and costs to maintain the infrastructure necessary to manage a
+services organization. Cost of services revenue increased $3.4 million and
+$5.1 million in the three and six months ended July 1, 2000, respectively, when
+compared to the same periods in 1999, primarily due to Cadence's addition of
+services professionals, in connection with its acquisition of Diablo Research
+Company LLC, or Diablo, which was completed in the fourth quarter of 1999.
+
+    Services gross margin remained flat for the three and six months ended
+July 1, 2000, when compared to the same periods in 1999. Services gross margin
+has been, and may continue to be, harmed by Cadence's inability to fully utilize
+its services resources. In addition, services gross margin may continue to be
+harmed
+
+                                       14
+<PAGE>
+by Cadence's inability to achieve operating efficiencies while implementing a
+growing number of services offerings.
+
+    Cost of maintenance revenue includes the cost of customer services, such as
+hot-line and on-site support, production personnel, packaging, and documentation
+of maintenance updates. Cost of maintenance revenue increased $2.4 million and
+$3.7 million in the three and six months ended July 1, 2000, respectively, when
+compared to the same periods in 1999, due to increases in employee-related costs
+and costs associated with the OrCAD acquisition which was completed in the third
+quarter of 1999 for which there were no similar costs in the first six months of
+1999.
+
+<TABLE>
+<CAPTION>
+                                                               THREE MONTHS ENDED      SIX MONTHS ENDED
+                                                              ---------------------   -------------------
+                                                               JULY 1,     JULY 3,    JULY 1,    JULY 3,
+                                                                2000        1999        2000       2000
+                                                              ---------   ---------   --------   --------
+                                                                             (IN MILLIONS)
+<S>                                                           <C>         <C>         <C>        <C>
+AMORTIZATION OF ACQUIRED INTANGIBLES
+Amortization of acquired intangibles........................    $19.9       $12.9      $39.5      $25.6
+
+AMORTIZATION OF ACQUIRED INTANGIBLES AS A PERCENT OF TOTAL
+  REVENUE
+Amortization of acquired intangibles........................        7%          5%         7%         4%
+</TABLE>
+
+    Amortization of acquired intangibles increased $7 million and $13.9 million
+in the three and six months ended July 1, 2000, respectively, when compared with
+the same periods in 1999, primarily due to the 1999 acquisitions of OrCAD and
+Diablo.
+
+<TABLE>
+<CAPTION>
+                                                                                    SIX MONTHS
+                                              THREE MONTHS ENDED                       ENDED
+                                             ---------------------              -------------------
+                                              JULY 1,     JULY 3,               JULY 1,    JULY 3,
+                                               2000        1999      % CHANGE     2000       1999     % CHANGE
+                                             ---------   ---------   --------   --------   --------   --------
+                                                             (IN MILLIONS, EXCEPT PERCENTAGES)
+<S>                                          <C>         <C>         <C>        <C>        <C>        <C>
+OPERATING EXPENSES
+Marketing and sales........................    $95.0       $82.9        15%      $181.2     $163.0       11%
+Research and development...................    $65.8       $50.4        31%      $128.3     $101.2       27%
+General and administrative.................    $23.8       $20.9        14%      $ 46.3     $ 42.2       10%
+
+EXPENSES AS A PERCENT OF TOTAL REVENUE
+Marketing and sales........................       32%         31%                    33%        27%
+Research and development...................       22%         19%                    23%        17%
+General and administrative.................        8%          8%                     8%         7%
+</TABLE>
+
+    Marketing and sales expenses increased $12.1 million and $18.2 million in
+the three and six months ended July 1, 2000, respectively, when compared to the
+same periods in 1999, primarily due to an increase in employee-related costs and
+costs associated with the 1999 acquisition of OrCAD for which there were no
+similar costs in the first six months of 1999. Foreign currency exchange rates
+for the three and six months ended July 1, 2000, when compared to the same
+periods in 1999, had a negligible effect on reported marketing and sales
+expense.
+
+    Cadence's expenses in research and development, prior to the reduction for
+capitalization of software development costs, were $71.7 million, representing
+24% of total revenue, in the three months ended July 1, 2000 and $57.5 million,
+representing 22% of total revenue, for the three months ended July 3, 1999. For
+the three and six months ended July 1, 2000, Cadence capitalized software
+development costs of $6 million and $14.7 million, respectively, representing 8%
+and 10% of total research and development expenditures, respectively. For the
+three and six months ended July 3, 1999, Cadence capitalized software
+development costs of $7.1 million and $13.5 million, respectively, representing
+12% and 10% of total research and development expenditures, respectively. The
+decrease and increase in capitalized software development costs for the three
+and six month periods ended July 1, 2000, respectively, resulted primarily from
+increases and decreases in hours incurred on new product development and new
+product releases. In any given period, the amount of capitalized software
+development costs may vary depending on the exact nature of the development
+performed.
+
+                                       15
+<PAGE>
+    The increase in net research and development expenses of $15.4 million and
+$27.1 million for the three and six months ended July 1, 2000, respectively,
+when compared to the same periods in 1999, was primarily attributable to
+employee-related costs, consulting costs, and costs associated with the 1999
+acquisition of OrCAD for which there were no similar costs in the first six
+months of 1999.
+
+    General and administrative expenses increased $2.8 million and $4.1 million
+in the three and six months ended July 1, 2000, respectively, when compared to
+the same periods in 1999, primarily due to employee-related costs and costs
+attributable to the OrCAD and Diablo acquisitions, offset partially by a
+reduction in bad debt expense.
+
+UNUSUAL ITEMS
+
+    The following table presents information regarding unusual items for the
+three and six months ended July 3, 1999:
+
+<TABLE>
+<CAPTION>
+                                                       THREE MONTHS   SIX MONTHS
+                                                          ENDED         ENDED
+                                                         JULY 3,       JULY 3,
+                                                           1999          1999
+                                                       ------------   ----------
+                                                             (IN MILLIONS)
+<S>                                                    <C>            <C>
+Restructuring charges................................      $10.7        $12.9
+Merger costs.........................................        8.4          8.4
+Asset impairment.....................................        3.5          6.6
+Litigation settlement................................       (3.0)        (3.0)
+Write-off of acquired in-process technology..........         --          8.9
+                                                           -----        -----
+    Total unusual items..............................      $19.6        $33.8
+                                                           =====        =====
+</TABLE>
+
+    RESTRUCTURING
+
+    In the three months ended July 3, 1999, Cadence recorded $10.7 million in
+restructuring charges, including severance costs to terminate 49 employees and
+to consolidate facilities. Severance costs of $8.7 million relate to
+restructuring plans primarily aimed at reducing costs after Cadence merged with
+Quickturn, further actions taken to restructure the Cadence services business in
+Japan, and severance expense resulting from the resignation of Cadence's former
+Chief Executive Officer.
+
+    Facilities consolidation charges of $2 million were incurred in connection
+with the closure of 15 Quickturn facilities, including $1 million to close and
+exit the excess facilities and $1 million of related leasehold improvement
+abandonment costs. Closure and exit costs include payments required under lease
+contracts, less any applicable sublease income, after the properties were
+abandoned, lease buyout costs, restoration costs associated with certain lease
+arrangements, and costs to maintain facilities during the period after
+abandonment. Asset related costs written-off consist of leasehold improvements
+of facilities that were abandoned and whose estimated fair market value is zero.
+As of July 1, 2000, all of the 15 excess Quickturn sites had been vacated.
+Noncancelable lease payments on vacated facilities will be paid out through
+2003.
+
+    In the three months ended April 3, 1999, Cadence recorded $2.2 million in
+severance costs to terminate 45 employees. These actions were taken to complete
+Cadence's restructuring program initiated in the fourth quarter of 1998. The
+restructuring plan was primarily aimed at reducing the costs of excess personnel
+in its services business.
+
+    Actual amounts of termination benefits, facilities, and other restructuring
+related payments can be found in Notes to Condensed Consolidated Financial
+Statements under "RESTRUCTURING."
+
+                                       16
+<PAGE>
+    MERGER COSTS
+
+    In connection with the acquisition of Quickturn, Cadence charged to expense
+$8.4 million representing merger costs in the three month period ended July 3,
+1999. These merger costs represented professional fees for financial advisors,
+attorneys, and accountants.
+
+    ASSET IMPAIRMENT
+
+    In the three months ended July 3, 1999, Cadence incurred charges totaling
+$3.5 million in connection with the cancellation of an information technology
+services contract with a third-party and the abandonment of capitalized software
+development costs associated with Cadence products that will no longer be sold.
+
+    In the three months ended April 3, 1999, Cadence incurred charges totaling
+$3.1 million in connection with the abandonment of certain third-party software
+licenses that will no longer be used by its design services business and
+capitalized software development costs associated with Cadence products that
+will no longer be sold.
+
+    The impairment losses recorded for the six months ended July 3, 1999 were
+the amounts by which the carrying amounts of the intangible assets exceeded
+their fair market values.
+
+    LITIGATION SETTLEMENT
+
+    In June 1999, Cadence and Mentor Graphics Corporation announced the
+settlement of a patent infringement action pending in the United States District
+Court for the District of Oregon. As a result, the court entered a judgment
+declaring that certain Quickturn patents are valid, enforceable, and were
+infringed by Mentor's sale of SimExpress products in the U.S. Mentor is
+permanently enjoined from producing, marketing or selling SimExpress emulation
+systems in the U.S. In connection with the settlement, Mentor paid Cadence
+$3 million.
+
+    IN-PROCESS TECHNOLOGY
+
+    In January 1999, Cadence acquired Design Acceleration, Inc., or DAI, a
+supplier of design verification technology used in system-on-a-chip, or SOC,
+design. The total purchase price was $25.7 million and the acquisition was
+accounted for as a purchase.
+
+    Upon consummation of the DAI acquisition, Cadence immediately charged to
+expense $8.9 million representing acquired in-process technology that had not
+yet reached technological feasibility and had no alternative future use. The
+value assigned to acquired in-process technology was determined by identifying
+research projects in areas for which technological feasibility has not been
+established. The value was determined by estimating the costs to develop the
+acquired in-process technology into commercially viable products, estimating the
+resulting net cash flows from such projects, and discounting the net cash flows
+back to their present value. The discount rate included a factor that took into
+account the uncertainty surrounding the successful development of the acquired
+in-process technology. Certain acquired in-process technology under development
+at the time of acquisition was initially expected to become commercially viable
+in 1999, but has since been delayed to 2000 and 2001. Expenditures to complete
+this in-process technology are expected to total approximately $1.5 million.
+These estimates are subject to change, given the uncertainties of the
+development process, and no assurance can be given that deviations from these
+estimates will not occur. Additionally, these projects will require expenditures
+for additional research and development after they have reached a state of
+technological and commercial feasibility.
+
+    To date, DAI's results have not differed significantly from the forecasted
+assumptions. In addition, Cadence's research and development expenditures since
+the acquisition have not differed materially from expectations. Revenue
+contribution from the acquired technology falls within an acceptable range of
+plans in its role in Cadence's suite of design systems and tools. The risks
+associated with the research and
+
+                                       17
+<PAGE>
+development are still considered high and no assurance can be made that these
+future products will meet market expectations.
+
+OTHER INCOME AND INCOME TAXES
+
+    Other income increased $1.3 million and $2.2 million in the three and six
+months ended July 1, 2000, respectively, when compared to the same periods in
+1999, primarily due to an increase in foreign exchange gains and a decrease in
+interest income. The decrease in interest income was due to a lower average
+balance of invested cash and short-term investments.
+
+    Cadence's estimated effective tax rate for the three and six months ended
+July 1, 2000 was 26.5%. The effective tax rate for the three and six months
+ended July 3, 1999 was 28.5%, excluding the effect of the write-off of acquired
+in-process technology of $8.9 million, which is not deductible for income tax
+purposes. The decrease in the 2000 effective tax rate when compared to 1999 is
+primarily due to foreign earnings being taxed at a lower rate.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    At July 1, 2000, Cadence's principal sources of liquidity consisted of
+$119.4 million of cash and short-term investments, compared to $118.8 million at
+January 1, 2000, and a $355 million senior unsecured credit facility. As of
+July 1, 2000, Cadence had no outstanding borrowings under the credit facility.
+
+    Cash provided by operating activities decreased $32.8 million to
+$88.4 million for the six months ended July 1, 2000, when compared to the six
+months ended July 3, 1999. The decrease was primarily due to decreases in net
+income before unusual items, deferred income taxes, receivables, and prepaid
+expenses, partially offset by increases in depreciation and amortization,
+installment contract receivables, accounts payable and accrued liabilities, and
+deferred revenue.
+
+    At July 1, 2000, Cadence had net working capital of $31.5 million compared
+with $58.4 million at January 1, 2000. The working capital decrease was driven
+primarily by a decrease in receivables of $16.2 million and an increase in
+deferred revenue of $40.4 million, partially offset by an increase in prepaid
+expenses and other of $24.6 million, and to a lesser extent, a decrease in
+accounts payable and accrued liabilities of $8.5 million. The increase in
+prepaid expenses and other was primarily due to an increase in unbilled
+professional services and prepaid income taxes.
+
+    In addition to its short-term investments, Cadence's primary investing
+activities consisted of purchases of property, plant, and equipment,
+capitalization of software development costs, acquired intangibles and other
+assets, venture capital partnership investments and equity investments, and
+business acquisitions, which combined represented $95.8 million and
+$106.9 million of cash used for investing activities in the six months ended
+July 1, 2000 and July 3, 1999, respectively.
+
+    Since 1994, Cadence has sold put warrants and purchased call options through
+private placements. See "Notes to Condensed Consolidated Financial Statements."
+At July 1, 2000, Cadence had a maximum potential obligation related to put
+warrants to repurchase 6.3 million shares of its common stock at an aggregate
+price of approximately $131 million. The put warrants will expire on various
+dates through February 2001, and Cadence has the contractual ability to settle
+the options prior to their maturity. Cadence has the ability to settle these put
+warrants with stock and, therefore, no amount was classified out of
+stockholders' equity in the condensed consolidated balance sheets.
+
+    Anticipated cash requirements for the remainder of 2000 includes working
+capital, capital expenditures and payment of operating expenses, including
+marketing and sales expense, research and development expense, general and
+administrative expense and potential acquisitions of, or investments in,
+complementary businesses or technologies, and the purchase of treasury stock
+through Cadence's stock repurchase programs.
+
+                                       18
+<PAGE>
+    As part of its overall investment strategy, Cadence has become a limited
+partner in a venture capital fund and is committed to invest up to
+$100 million. As of July 1, 2000, Cadence had contributed approximately
+$45.2 million to this partnership, which is reflected in other assets in the
+accompanying condensed consolidated balance sheets, net of operating losses.
+
+    Cadence anticipates that current cash and short-term investment balances,
+cash flows from operations, and its $355 million revolving credit facility will
+be sufficient to meet its working capital requirements on a short-and long-term
+basis.
+
+    Cadence will continue to fund Tality's operations, as it has done
+historically, through the date that Tality receives the net proceeds from its
+planned initial public offering.
+
+NEW ACCOUNTING STANDARDS
+
+    In March 2000, the Financial Accounting Standards Board, or FASB, issued
+interpretation No. 44, "Accounting for Certain Transactions involving Stock
+Compensation", an interpretation of Accounting Principles Board, or APB, Opinion
+No. 25. This interpretation provides guidance regarding the application of APB
+Opinion No. 25 to stock compensation involving employees. This interpretation is
+effective July 1, 2000 and is not expected to have a material effect on
+Cadence's financial position, results of operations, or cash flows.
+
+    In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin, No. 101, "Revenue Recognition in Financial Statements," or
+SAB 101, which provides guidance on the recognition, presentation, and
+disclosure of revenue in financial statements. SAB 101 will be adopted in the
+fourth quarter of fiscal 2000. The adoption of this statement is not expected to
+have a material effect on Cadence's financial position, results of operations,
+or cash flows.
+
+    In June 1998, the FASB issued Statement of Financial Accounting Standards,
+or SFAS, No. 133, "Accounting for Derivative Instruments and Hedging
+Activities." SFAS No. 133 establishes accounting and reporting standards
+requiring that every derivative instrument be recorded in the balance sheet as
+either an asset or liability measured at its fair value. It requires that
+changes in the derivative's fair value be recognized currently in earnings
+unless specific hedge accounting criteria are met and that a company must
+formally document, designate, and assess the effectiveness of transactions that
+receive hedge accounting. In June 1999, SFAS No. 137, "Accounting for Derivative
+Instruments and Hedging Activities--Deferral of the Effective Date of FASB
+Statement No. 133," was issued. The statement defers the effective date of SFAS
+No. 133 until the first quarter of fiscal 2001. The adoption of this statement
+is not expected to have a material effect on Cadence's financial position,
+results of operations, or cash flows.
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+    The following risk factors and other information included in this Quarterly
+Report on Form 10-Q should be carefully considered. The risks and uncertainties
+described below are not the only ones we face. Additional risks and
+uncertainties not presently known to us or that we currently deem immaterial
+also may impair our business operations. If any of the following risks actually
+occurs, our business, operating results, and financial condition could be
+materially harmed. The risk factors affecting Tality Corporation which,
+immediately after its separation from Cadence and initial public offering, will
+remain a subsidiary of Cadence, are described in detail in the Registration
+Statement on Form S-1 filed by Tality Corporation with the Securities and
+Exchange Commission on July 17, 2000, as amended.
+
+WE ARE IN THE PROCESS OF RESTRUCTURING OUR DESIGN SERVICES GROUP AS A SEPARATE
+  COMPANY, WHICH MAY IMPACT OUR FINANCIAL RESULTS
+
+    Since 1995, Cadence has operated an internal electronics design services
+group. On July 17, 2000, Cadence announced its plan to separate its design
+services group into a separate company focused on
+
+                                       19
+<PAGE>
+providing design solutions and proprietary technology to electronics product
+companies and integrated circuit manufacturers, and announced the planned
+initial public offering of the separate company. Upon completion of this
+offering, Cadence will hold approximately 80% of the voting power of the new
+company. While Cadence does not currently plan to distribute to Cadence
+stockholders its equity interests in Tality Corporation or its subsidiaries, it
+will have the right at any time to convert and thereafter sell some or all of
+its shares of voting stock. Cadence has agreed with the underwriters not to
+transfer its equity interests in Tality Corporation and limited partnership
+units in Tality, LP for 180 days after the date of the initial public offering
+of Tality Corporation, except with the prior written consent of Goldman,
+Sachs & Co. After the expiration of this 180-day period, Cadence will no longer
+be restricted from transferring any of its common stock of Tality Corporation or
+limited partnership units in Tality, LP to the public or its stockholders.
+Cadence currently expects that the principal factors that it would consider in
+determining whether and when to exchange, convert, sell or distribute to its
+stockholders any of its shares or partnership units include:
+
+    - The relative market prices of its Tality's common stock and Cadence's
+      common stock;
+
+    - The ability of an affiliate of Tality to make sales under Rule 144 of the
+      Securities Act of 1933 or under an effective registration statement
+      covering Cadence's shares of Tality's common stock;
+
+    - The absence of any court order or other regulation prohibiting or
+      restricting such sales; and
+
+    - Other conditions affecting Tality's business or Cadence's business.
+
+CADENCE ALSO RETAINS THE RIGHT TO SELL ANY OR ALL OF ITS TALITY, LP LIMITED
+  PARTNERSHIP UNITS TO ONE OR MORE THIRD PARTIES FOR STRATEGIC OR OTHER REASONS
+
+    In connection with the separation, Cadence will also enter into a number of
+agreements governing the business relationships between the companies and the
+provision of certain services, including provision of certain facilities, and
+accounting, finance, legal, human resources and other administrative services.
+As a result, Cadence will be obligated to provide certain services to Tality for
+the periods defined in the various agreements.
+
+CADENCE LACKS LONG-TERM EXPERIENCE IN ITS ELECTRONICS DESIGN AND METHODOLOGY
+  SERVICES BUSINESS
+
+    Cadence has no long-term experience in offering electronics design and
+methodology services and therefore may not be as experienced in this business as
+others. The market for these services is relatively new and rapidly evolving.
+Cadence expects the expenses of the design services business to increase
+substantially in connection with Tality's separation from Cadence and as it
+continues to expand its operations. The rate of growth of the design services
+group's revenue over prior periods may not continue or increase, and its
+separation and expansion may prove more expensive than Cadence anticipates. If
+Tality fails to increase its revenue to offset its expenses, the design services
+group will continue to experience losses. Cadence's or Tality's failure to
+succeed in these services businesses may seriously harm Cadence's business,
+operating results, and financial condition.
+
+THE SUCCESS OF CADENCE'S ELECTRONIC DESIGN AND METHODOLOGY SERVICES BUSINESSES
+  DEPENDS ON MANY FACTORS THAT ARE BEYOND ITS CONTROL
+
+    In order to be successful with its electronics design and methodology
+services, Cadence must overcome several factors that are beyond its control,
+including the following:
+
+    - MANY SERVICE CONTRACTS GENERALLY REPRESENT LARGE AMOUNTS OF REVENUE.
+      Cadence's electronics design and methodology services contracts generally
+      represent a relatively large amount of revenue per order. Therefore, the
+      loss of individual orders could seriously hurt Cadence's revenue and
+      operating results.
+
+                                       20
+<PAGE>
+    - CADENCE'S COST OF SERVICES PERSONNEL IS HIGH AND REDUCES GROSS MARGIN.
+      Gross margin represents the difference between the amount of revenue from
+      the sale of services and Cadence's cost of providing those services.
+      Cadence must pay high salaries to professional services personnel to
+      attract and retain them. This results in a lower gross margin than the
+      gross margin in Cadence's software business. In addition, the high cost of
+      training new services personnel or not fully utilizing these personnel can
+      significantly lower gross margin.
+
+    Additionally, a substantial portion of these services contracts are
+fixed-price contracts. This means that the customer pays a fixed price that has
+been agreed upon ahead of time, no matter how much time or how many resources
+Cadence must devote to perform the contract. If Cadence's cost in performing the
+services consistently and significantly exceeds the amount the customer has
+agreed to pay, it could seriously harm Cadence's business, operating results,
+and financial condition.
+
+CADENCE'S FAILURE TO RESPOND QUICKLY TO TECHNOLOGICAL DEVELOPMENTS COULD MAKE
+  ITS PRODUCTS UNCOMPETITIVE AND OBSOLETE
+
+    The industries in which Cadence competes experience rapid technology
+developments, changes in industry standards, changes in customer requirements
+and frequent new product introductions and improvements. Currently, the
+electronic chip design industry is experiencing several revolutionary trends:
+
+    - The size of features such as wires, transistors, and contacts on chips is
+      shrinking due to advances in semiconductor manufacturing processes.
+      Process feature sizes refer to the width of the transistors and the width
+      and spacing of the interconnect on the chip. Feature size is normally
+      identified by the headline transistor length, which is shrinking from 0.35
+      microns to 0.18 microns and below. This is commonly referred to in the
+      semiconductor industry as the migration to deep submicron and represents a
+      major challenge for all levels of the semiconductor industry from design
+      and design automation to design of manufacturing equipment and the
+      manufacturing process itself. Shrinkage of transistor length to such
+      infinitesimal proportions (for reference, the diameter of the period at
+      the end of this sentence is approximately 400 microns) is challenging
+      fundamental laws of physics and chemistry.
+
+    - The ability to design very large chips, in particular integration of
+      entire electronic systems onto a single chip instead of a circuit board (a
+      process that is referred to in the industry as SOC), increases the
+      complexity of managing a design that at the lowest level is represented by
+      billions of shapes on the fabrication mask. In addition, systems typically
+      incorporate microprocessors and digital signal processors that are
+      programmed with software, requiring simultaneous design of the silicon
+      chip and the related embedded software on the chip.
+
+    If Cadence is unable to respond quickly and successfully to these
+developments and changes, Cadence may lose its competitive position and its
+products or technologies may become uncompetitive or obsolete. In order to
+compete successfully, Cadence must develop or acquire new products and improve
+its existing products and processes on a schedule that keeps pace with
+technological developments in its industries. Cadence must also be able to
+support a range of changing computer software, hardware platforms and customer
+preferences. There is no guarantee that Cadence will be successful in this
+regard.
+
+CADENCE'S FAILURE TO OBTAIN SOFTWARE OR OTHER INTELLECTUAL PROPERTY LICENSES OR
+  ADEQUATELY PROTECT ITS PROPRIETARY RIGHTS COULD SERIOUSLY HARM ITS BUSINESS
+
+    Cadence's success depends, in part, upon its proprietary technology. Many of
+Cadence's products include software or other intellectual property licensed from
+third parties, and Cadence may have to seek new or renew existing licenses for
+this software and other intellectual property in the future. Cadence's design
+services business also requires it to license software or other intellectual
+property of third parties. Cadence's failure to obtain for its use software or
+other intellectual property licenses or other intellectual property rights on
+favorable terms, or the need to engage in litigation over these licenses or
+rights, could seriously harm Cadence's business, operating results, and
+financial condition.
+
+                                       21
+<PAGE>
+    Also, Cadence generally relies on patents, copyrights, trademarks and trade
+secret laws to establish and protect its proprietary rights in technology and
+products. Despite precautions Cadence may take to protect its intellectual
+property, Cadence cannot assure you that third parties will not try to
+challenge, invalidate, or circumvent these patents. Cadence also cannot assure
+you that the rights granted under its patents will provide it with any
+competitive advantages, patents will be issued on any of its pending
+applications, or future patents will be sufficiently broad to protect Cadence's
+technology. Furthermore, the laws of foreign countries may not protect Cadence's
+proprietary rights in those countries to the same extent as U.S. law protects
+these rights in the U.S.
+
+    Cadence cannot assure you that its reliance on licenses from or to third
+parties, or patent, copyright, trademark, and trade secret protection, will be
+enough to be successful and profitable in the industries in which Cadence
+competes.
+
+INTELLECTUAL PROPERTY INFRINGEMENT BY OR AGAINST CADENCE COULD SERIOUSLY HARM
+  ITS BUSINESS
+
+    There are numerous patents in the EDA industry and new patents are being
+issued at a rapid rate. It is not always economically practicable to determine
+in advance whether a product or any of its components infringes the patent
+rights of others. As a result, from time to time, Cadence may be forced to
+respond to or prosecute intellectual property infringement claims to protect its
+rights or defend a customer's rights. These claims, regardless of merit, could
+consume valuable management time, result in costly litigation, or cause product
+shipment delays, all of which could seriously harm Cadence's business, operating
+results, and financial condition. In settling these claims, Cadence may be
+required to enter into royalty or licensing agreements with the third parties
+claiming infringement. These royalty or licensing agreements, if available, may
+not have terms acceptable to Cadence. Being forced to enter into a license
+agreement with unfavorable terms could seriously harm Cadence's business,
+operating results, and financial condition.
+
+CADENCE OBTAINS KEY COMPONENTS FOR ITS HARDWARE PRODUCTS FROM A LIMITED NUMBER
+  OF SUPPLIERS
+
+    Cadence depends on several suppliers for certain key components and board
+assemblies used in its hardware-based emulation products. Cadence's inability to
+develop alternative sources or to obtain sufficient quantities of these
+components or board assemblies could result in delays or reductions in product
+shipments. In particular, Cadence currently relies on Xilinx, Inc. and Taiwan
+Semiconductor Manufacturing Corporation for the supply of key integrated
+circuits and on IBM for the hardware components for both Cadence's CoBALT-TM-
+product and Mercury Design Verification System-TM-. Other disruptions in supply
+may also occur. If there were such a reduction or interruption, Cadence's
+results of operations would be seriously harmed. Even if Cadence can eventually
+obtain these components from alternative sources, a significant delay in
+Cadence's ability to deliver products would result.
+
+FLUCTUATIONS IN QUARTERLY RESULTS OF OPERATIONS COULD HURT CADENCE'S BUSINESS
+  AND THE MARKET PRICE OF ITS STOCK
+
+    Cadence has experienced, and may continue to experience, varied quarterly
+operating results. Various factors affect Cadence's quarterly operating results
+and some of them are not within Cadence's control, including the mix of products
+and services sold, the mix of licenses used to sell products and the timing of
+significant orders for its software products by customers. Quarterly operating
+results are affected by the mix of products sold because there are significant
+differences in margins from the sale of hardware and software products and
+services. For example, based on a three-year average in 1999 Cadence had
+realized gross margins on software product sales of approximately 91% but
+realized gross margins of approximately 65% on hardware product sales and 32% on
+its performance of services. In the second quarter of 2000, realized gross
+margins decreased to approximately 90% for software products and increased to
+approximately 67% for hardware products and to 35% for services. In addition,
+Cadence's quarterly operating results are affected by the mix of licenses
+entered into in connection with the sale of software products. Cadence has three
+basic licensing models: perpetual, fixed-term, and subscription. Perpetual and
+fixed-term licenses recognize a larger portion of the revenue at the beginning
+of the license period and
+
+                                       22
+<PAGE>
+subscription licenses recognize revenue ratably over each quarter of the term of
+the license. As Cadence customers purchase more software products pursuant to
+subscription agreements, future operating results may be lower than that of
+comparable quarters in which perpetual and fixed-term licenses were in greater
+use for software product transactions. Finally, Cadence's quarterly operating
+results are affected by the timing of significant orders for its software
+products because a significant number of contracts for software products are in
+excess of $5 million. The failure to close a contract for the sale of one or
+more orders of Cadence's software products could seriously harm its quarterly
+operating results.
+
+    Cadence's hardware verification products typically have a lengthy sales
+cycle, during which Cadence may expend substantial funds and management effort
+without any assurance that a sale will result. Sales of Cadence's hardware
+products depend, in significant part, upon the decision of the prospective
+customer to commence a project for the design and development of complex
+computer chips and systems. Such projects often require significant commitments
+of time and capital. Cadence's hardware sales may be delayed if customers delay
+commencement of projects. Lengthy hardware sales cycles subject Cadence to a
+number of significant risks over which Cadence has little or no control,
+including inventory obsolescence and fluctuations in quarterly operating
+results.
+
+    In addition, Cadence bases its expense budgets partially on its expectations
+of future revenue. However, it is difficult to predict revenue levels or growth.
+Revenue levels that are below Cadence's expectations could seriously hurt
+Cadence's business, operating results, and financial condition. If revenue or
+operating results fall short of the levels expected by public market analysts
+and investors, the trading price of Cadence common stock could decline
+dramatically. Also, because of the timing of large orders and its customers'
+buying patterns, Cadence may not learn of revenue shortfalls, earnings
+shortfalls or other failures to meet market expectations until late in a fiscal
+quarter, which could cause even more immediate and serious harm to the trading
+price of Cadence common stock.
+
+    Because Cadence has no long-term experience providing services, it believes
+that quarter-to-quarter comparisons of its results of operations may not be
+meaningful. Therefore, stockholders should not view Cadence's historical results
+of operations as reliable indicators of its future performance.
+
+CADENCE EXPECTS TO ACQUIRE OTHER COMPANIES AND MAY NOT SUCCESSFULLY INTEGRATE
+  THEM OR THE COMPANIES IT RECENTLY ACQUIRED
+
+    Cadence has acquired other businesses before and may do so again. While
+Cadence expects to analyze carefully all potential transactions before
+committing to them, Cadence cannot assure you that any transaction that is
+completed will result in long-term benefits to Cadence or its stockholders, or
+that Cadence's management will be able to manage the acquired businesses
+effectively. In addition, growth through acquisition involves a number of risks.
+If any of the following events occurs after Cadence acquires another business,
+it could seriously harm Cadence's business, operating results, and financial
+condition:
+
+    - Difficulties in combining previously separate businesses into a single
+      unit;
+
+    - The substantial diversion of management's attention from day-to-day
+      business when negotiating these transactions and then integrating an
+      acquired business;
+
+    - The discovery after the acquisition has been completed of liabilities
+      assumed from the acquired business;
+
+    - The failure to realize anticipated benefits such as cost savings and
+      revenue enhancements;
+
+    - The failure to retain key personnel of the acquired business; and
+
+    - Difficulties related to assimilating the products of an acquired business
+      in, for example, distribution, engineering, and customer support areas.
+
+                                       23
+<PAGE>
+CADENCE'S INTERNATIONAL OPERATIONS MAY SERIOUSLY HARM ITS FINANCIAL CONDITION
+  BECAUSE OF SEVERAL WEAK FOREIGN ECONOMIES AND THE EFFECT OF FOREIGN EXCHANGE
+  RATE FLUCTUATIONS
+
+    Cadence has significant operations outside the United States. Cadence's
+revenue from international operations as a percentage of total revenue was
+approximately 46% for the three months ended July 1, 2000 and July 3, 1999.
+Cadence also transacts business in various foreign currencies. Recent economic
+uncertainty and the volatility of foreign currencies in certain parts of the
+Asia-Pacific region, has had, and may continue to have, a seriously harmful
+effect on Cadence's revenue and operating results.
+
+    Fluctuations in the rate of exchange between the U.S. dollar and the
+currencies of countries other than the U.S. in which Cadence conducts business
+could seriously harm its business, operating results, and financial condition.
+For example, if there is an increase in the rate at which a foreign currency
+exchanges into U.S. dollars, it will take more of the foreign currency to equal
+a specified amount of U.S. dollars than before the rate increase. If Cadence
+prices its products and services in the foreign currency, it will receive less
+in U.S. dollars than it did before the rate increase went into effect. If
+Cadence prices its products and services in U.S. dollars, an increase in the
+exchange rate will result in an increase in the price for Cadence's products and
+services compared to those products of its competitors that are priced in local
+currency. This could result in Cadence's prices being uncompetitive in markets
+where business is transacted in the local currency. Cadence's international
+operations may also be subject to other risks, including:
+
+    - The adoption and expansion of government trade restrictions;
+
+    - Volatile foreign exchange rates and currency conversion risks;
+
+    - Limitations on repatriation of earnings;
+
+    - Reduced protection of intellectual property rights in some countries;
+
+    - Recessions in foreign economies;
+
+    - Longer receivables collection periods and greater difficulty in collecting
+      accounts receivable;
+
+    - Difficulties in managing foreign operations;
+
+    - Political and economic instability;
+
+    - Unexpected changes in regulatory requirements;
+
+    - Tariffs and other trade barriers; and
+
+    - U.S. government licensing requirements for export which make licenses
+      difficult to obtain.
+
+    Cadence expects that revenue from its international operations will continue
+to account for a significant portion of its total revenue.
+
+    Exposure to foreign currency transaction risk can arise when transactions
+are conducted in a currency different from the functional currency of a Cadence
+subsidiary. A subsidiary's functional currency is the currency in which it
+primarily conducts its operations, including product pricing, expenses and
+borrowings. Cadence uses foreign currency forward exchange contracts and
+purchases foreign currency put options to help protect against currency exchange
+risks. These forward contracts and put options allow Cadence to buy or sell
+specific foreign currencies at specific prices on specific dates. Increases or
+decreases in the value of Cadence's foreign currency transactions are partially
+offset by gains and losses on these forward contracts and put options. Although
+Cadence attempts to reduce the impact of foreign currency fluctuations,
+significant exchange rate movements may hurt Cadence's results of operations as
+expressed in U.S. dollars.
+
+    Foreign currency exchange risk occurs for some of Cadence's foreign
+operations whose functional currency is the local currency. The primary effect
+of foreign currency translation on Cadence's results of operations is a
+reduction in revenue from a strengthening U.S. dollar, offset by a smaller
+reduction in
+
+                                       24
+<PAGE>
+expenses. Exchange rate gains and losses on the translation into U.S. dollars of
+amounts denominated in foreign currencies are included as a separate component
+of stockholders' equity.
+
+CADENCE'S INABILITY TO DEAL EFFECTIVELY WITH THE CONVERSION TO THE EURO MAY
+  NEGATIVELY IMPACT ITS MARKETING AND PRICING STRATEGIES
+
+    On January 1, 1999, 11 member countries of the European Union adopted the
+Euro as their common legal currency and established fixed conversion rates
+between their sovereign currencies and the Euro. Transactions can be made in
+either the sovereign currencies or the Euro until January 1, 2002, when the Euro
+must be used exclusively. Currently, only electronic transactions may be
+conducted using the Euro. Cadence believes that its internal systems and
+financial institution vendors are capable of handling the Euro conversion and is
+in the process of examining current marketing and pricing policies and
+strategies that may be affected by conversion to the Euro. The cost of this
+effort is not expected to materially hurt Cadence's results of operations or
+financial condition. However, Cadence cannot assure you that all issues related
+to the Euro conversion have been identified and that any additional issues would
+not materially hurt Cadence's results of operations or financial condition. For
+example, the conversion to the Euro may have competitive implications on
+Cadence's pricing and marketing strategies and Cadence may be at risk to the
+extent its principal European suppliers and customers are unable to deal
+effectively with the impact of the Euro conversion. Cadence has not yet
+completed its evaluation of the impact of the Euro conversion on its functional
+currency designations.
+
+FAILURE TO OBTAIN EXPORT LICENSES COULD HARM CADENCE'S BUSINESS
+
+    Cadence must comply with U.S. Department of Commerce regulations in shipping
+its software products and other technologies outside the U.S. Although Cadence
+has not had any significant difficulty complying with these regulations so far,
+any significant future difficulty in complying could harm Cadence's business,
+operating results, and financial condition.
+
+CADENCE'S INABILITY TO COMPETE IN ITS INDUSTRIES COULD SERIOUSLY HARM ITS
+  BUSINESS
+
+    The EDA market and the commercial electronics design and methodology
+services industries are highly competitive. If Cadence is unable to compete
+successfully in these industries, it could seriously harm Cadence's business,
+operating results, and financial condition. To compete in these industries,
+Cadence must identify and develop innovative and cost competitive electronic
+design automation software products and market them in a timely manner. It must
+also gain industry acceptance for its design and methodology services and offer
+better strategic concepts, technical solutions, prices and response time, or a
+combination of these factors, than those of other design companies and the
+internal design departments of electronics manufacturers. Cadence cannot assure
+you that it will be able to compete successfully in these industries. Factors
+which could affect Cadence's ability to succeed include:
+
+    - The development of competitive EDA products and design and methodology
+      services could result in a shift of customer preferences away from
+      Cadence's products and services and significantly decrease revenue;
+
+    - The electronics design and methodology services industries are relatively
+      new and electronics design companies and manufacturers are only beginning
+      to purchase these services from outside vendors;
+
+    - The pace of the technology change demands continuous technological
+      development to meet the requirements of next-generation design challenges;
+      and
+
+    - There are a significant number of current and potential competitors in the
+      EDA industry and the cost of entry is low.
+
+    In the electronic design automation products industry, Cadence currently
+competes with a number of large companies, including Avant! Corporation, Mentor
+Graphics Corporation, Synopsys, Inc. and Zuken-
+
+                                       25
+<PAGE>
+Redac, and numerous small companies. Cadence also competes with manufacturers of
+electronic devices that have developed or have the capability to develop their
+own EDA products. Many manufacturers of electronic devices may be reluctant to
+purchase services from independent vendors such as Cadence because they wish to
+promote their own internal design departments. In the electronics design and
+methodology services industries, Cadence competes with numerous electronic
+design and consulting companies as well as with the internal design capabilities
+of electronics manufacturers. Other electronics companies and management
+consulting firms continue to enter the electronic design and methodology
+services industries.
+
+CADENCE'S FAILURE TO ATTRACT, TRAIN, MOTIVATE, AND RETAIN KEY EMPLOYEES MAY HARM
+  ITS BUSINESS
+
+    Competition for highly skilled employees is very intense. Cadence's business
+depends on the efforts and abilities of its senior management, its research and
+development staff, and a number of other key management, sales, support,
+technical, and services personnel. The robust economy and opportunities
+available in other companies has made and could continue to make employee
+retention and recruiting more difficult for Cadence. Additionally, Cadence
+expects more than 1,000 of its employees to become employees of Tality in
+connection with the separation of its design services group. Cadence's failure
+to attract, train, motivate, and retain key employees would impair its
+development of new products, its ability to provide design and methodology
+services and the management of its businesses. This would seriously harm
+Cadence's business, operating results, and financial condition.
+
+IF CADENCE BECOME SUBJECT TO UNFAIR HIRING CLAIMS, CADENCE COULD BE PREVENTED
+  FROM HIRING NEEDED PERSONNEL, INCUR LIABILITY FOR DAMAGES AND INCUR
+  SUBSTANTIAL COSTS IN DEFENDING OURSELVES
+
+    Companies in Cadence's industry whose employees accept positions with
+competitors frequently claim that these competitors have engaged in unfair
+hiring practices or that the employment of these persons would involve the
+disclosure or use of trade secrets. These claims could prevent us from hiring
+personnel or cause us to incur liability for damages. Cadence could also incur
+substantial costs in defending ourselves or its employees against these claims,
+regardless of their merits. Defending ourselves from these claims could also
+divert the attention of its management away from its operations.
+
+ERRORS OR DEFECTS IN ITS DESIGNS COULD EXPOSE US TO LIABILITY AND HARM OUR
+  REPUTATION
+
+    Cadence's clients use its products and services in designing and developing
+products that involve a high degree of technological complexity, each of which
+has its own specifications and is based on various industry standards. Because
+of the complexity of the systems and products with which Cadence works, some of
+its products and designs can be adequately tested only when put to full use in
+the marketplace. As a result, its clients or their end users may discover errors
+or defects in Cadence's software or the systems Cadence designs, or the products
+or systems incorporating its design and intellectual property may not operate as
+expected. Errors or defects could result in:
+
+    - Loss of current clients and loss of or delay in revenue and loss of market
+      share;
+
+    - Failure to attract new clients or achieve market acceptance;
+
+    - Diversion of development resources to resolving the problem;
+
+    - Increased service costs; and
+
+    - Liability for damages.
+
+                                       26
+<PAGE>
+ANTI-TAKEOVER DEFENSES IN CADENCE'S CHARTER, BY LAWS, AND UNDER DELAWARE LAW
+  COULD PREVENT AN ACQUISITION OF CADENCE OR LIMIT THE PRICE THAT INVESTORS
+  MIGHT BE WILLING TO PAY FOR CADENCE COMMON STOCK
+
+    Provisions of the Delaware General Corporation Law that apply to Cadence and
+its Certificate of Incorporation could make it difficult for another company to
+acquire control of Cadence. For example:
+
+    - Section 203 of the Delaware General Corporation Law generally prohibits a
+      Delaware corporation from engaging in any business combination with a
+      person owning 15% or more of its voting stock, or who is affiliated with
+      the corporation and owned 15% or more of its voting stock at any time
+      within three years prior to the proposed business combination, for a
+      period of three years from the date the person became a 15% owner, unless
+      specified conditions are met.
+
+    - Cadence's Certificate of Incorporation allows Cadence's Board of Directors
+      to issue, at any time and without stockholder approval, preferred stock
+      with such terms as it may determine. No shares of preferred stock are
+      currently outstanding. However, the rights of holders of any Cadence
+      preferred stock that may be issued in the future may be superior to the
+      rights of holders of its common stock.
+
+    - Cadence has a rights plan, commonly known as a "poison pill," which would
+      make it difficult for someone to acquire Cadence without the approval of
+      Cadence's Board of Directors.
+
+    All or any one of these factors could limit the price that certain investors
+would be willing to pay for shares of Cadence common stock and could delay,
+prevent or allow Cadence's Board of Directors to resist an acquisition of
+Cadence, even if the proposed transaction was favored by a majority of Cadence's
+independent stockholders.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+DISCLOSURES ABOUT MARKET RISK
+
+    INTEREST RATE RISK
+
+    Cadence's exposure to market risk for changes in interest rates relates
+primarily to its investment portfolio and long-term debt obligations. While
+Cadence is exposed with respect to interest rate fluctuations in many of the
+world's leading industrialized countries, Cadence's interest income and expense
+is most sensitive to fluctuations in the general level of U.S. interest rates.
+In this regard, changes in U.S. interest rates affect the interest earned on
+Cadence's cash and cash equivalents, short-term and long-term investments, and
+interest paid on its long-term debt obligations as well as costs associated with
+foreign currency hedges.
+
+    Cadence invests in high quality credit issuers and, by policy, limits the
+amount of its credit exposure to any one issuer. As stated in its policy,
+Cadence's first priority is to reduce the risk of principal loss. Consequently,
+Cadence seeks to preserve its invested funds by limiting default risk, market
+risk, and reinvestment risk. Cadence mitigates default risk by investing in only
+high quality credit securities that it believes to be low risk and by
+positioning its portfolio to respond appropriately to a significant reduction in
+a credit rating of any investment issuer or guarantor. The portfolio includes
+only marketable securities with active secondary or resale markets to ensure
+portfolio liquidity.
+
+    In October 1998, Cadence entered into a senior unsecured credit facility,
+referred to as the 1998 Facility, with a syndicate of banks that allows Cadence
+to borrow up to $355 million. As amended in September and November of 1999, the
+1998 Facility is divided between a $177.5 million two year revolving credit
+facility, referred to as the Two Year Facility, and a $177.5 million 364-day
+revolving credit facility convertible into a one year term loan, referred to as
+the 364-Day Facility. The Two Year Facility expires on September 29, 2001. The
+364-Day Facility will either expire on September 27, 2000, be converted to a one
+year term loan with a maturity date of September 27, 2001, or, at the request of
+Cadence and with the agreement of the bank group, be renewed for one additional
+year. Cadence has the option to pay interest
+
+                                       27
+<PAGE>
+based on LIBOR plus a spread of between 1.25% and 1.50%, based on a pricing grid
+tied to a financial covenant, or the higher of the (i) Federal Funds Rate plus
+0.50% and (ii) prime rate. As a result, Cadence's interest rate expenses
+associated with this borrowing will vary with market rates. In addition,
+commitment fees are payable on the unutilized portion of the Two Year Facility
+at rates between 0.23% and 0.30% based on a pricing grid tied to a financial
+covenant and on the unutilized portion of the 364-Day Facility at a fixed rate
+of 0.18%. The 1998 Facility contains certain financial and other covenants.
+
+    The table below presents the carrying value and related weighted average
+interest rates for Cadence's investment portfolio. All highly liquid investments
+with an original maturity of three months or less at the date of purchase are
+considered to be cash equivalents; investments with original maturities between
+three and 12 months are considered to be short-term investments. Investments
+with original maturities greater than 12 months are considered non-current
+assets. As of July 1, 2000, substantially all of Cadence's investments have
+maturities less than 12 months. The carrying value approximated fair value at
+July 1, 2000.
+
+<TABLE>
+<CAPTION>
+                                                                FAIR        AVERAGE
+                                                               VALUE     INTEREST RATE
+                                                              --------   -------------
+<S>                                                           <C>        <C>
+(In millions, except for average interest rates)
+Investment Securities:
+  Short-term investments--fixed rate........................   $ 6.3         5.75%
+  Long-term investments--fixed rate.........................     1.0         6.90%
+                                                               -----
+    Total short-term and long-term securities...............     7.3         5.91%
+  Cash equivalents--fixed rate..............................    15.7         6.25%
+  Cash equivalents--variable rate...........................    35.1         5.04%
+                                                               -----
+    Total interest bearing instruments......................   $58.1         5.48%
+                                                               =====
+</TABLE>
+
+    INTEREST RATE SWAP RISK
+
+    Cadence entered into a 4.8% fixed interest rate-swap in connection with its
+accounts receivable financing program to modify the interest rate
+characteristics of the receivables sold to a financing institution on a
+non-recourse basis. At July 1, 2000, the notional amount payable was
+$13 million which will be amortized in quarterly installments of approximately
+$2.2 million through October 2001. The estimated fair value at July 1, 2000 was
+immaterial.
+
+    FOREIGN CURRENCY RISK
+
+    Cadence's operations include transactions in foreign currencies and, as a
+result, Cadence benefits from a weaker dollar and is harmed by a stronger dollar
+relative to major currencies worldwide. Accordingly, the primary effect of
+foreign currency transactions on Cadence's results of operations is a reduction
+in revenue from a strengthening U.S. dollar, offset by a smaller reduction in
+expenses.
+
+    Cadence enters into foreign currency forward exchange contracts and
+purchases foreign currency put options with financial institutions primarily to
+protect against currency exchange risks associated with existing assets and
+liabilities and probable but not firmly committed transactions, respectively.
+Forward contracts are not accounted for as hedges and, therefore, the unrealized
+gains and losses are recognized in other income, net in advance of the actual
+foreign currency cash flows with the fair value of these forward contracts being
+recorded as accrued liabilities.
+
+                                       28
+<PAGE>
+    Cadence purchases put options to hedge the currency exchange risks
+associated with probable but not firmly committed transactions. Probable but not
+firmly committed transactions consist of revenue from Cadence's products and
+maintenance contracts in a currency other than the functional currency. These
+transactions are made through Cadence's subsidiaries in Ireland and Japan. The
+premium costs of the put options are recorded in other current assets while the
+gains and losses are deferred and recognized in income in the same period as the
+hedged transaction. Gains and losses on accounting hedges realized before the
+settlement date of the related hedged transaction are also generally deferred
+and recognized in income in the same period as the hedged transaction. Cadence
+does not use forward contracts and put options for trading purposes. Cadence's
+ultimate realized gain or loss with respect to currency fluctuations will depend
+on the currency exchange rates and other factors in effect as the forward
+contracts and put options mature.
+
+    The table below provides information as of July 1, 2000 about Cadence's
+forward contracts and put options. The information is provided in U.S. dollar
+equivalent amounts. The table presents the notional amounts, at contract
+exchange rates, and the weighted average contractual foreign currency exchange
+rates. These forward contracts mature prior to August 17, 2000. The put options
+mature prior to September 30, 2000.
+
+<TABLE>
+<CAPTION>
+                                                                         AVERAGE
+                                                              NOTIONAL   CONTRACT
+                                                               AMOUNT      RATE
+                                                              --------   --------
+<S>                                                           <C>        <C>
+Forward Contracts:
+  (In millions, except for average contract rates)
+  Japanese yen..............................................   $ 49.9     106.28
+  Euro......................................................     31.8       0.94
+  British pound sterling....................................     19.9       1.51
+  Canadian dollars..........................................      2.9       1.47
+  Swedish krona.............................................      2.7       8.63
+  Hong Kong dollars.........................................      0.6       7.79
+  Singapore dollars.........................................      0.2       1.72
+                                                               ------
+                                                               $108.0
+                                                               ======
+Put Option:
+  Japanese yen..............................................   $  9.3     107.00
+                                                               ======
+</TABLE>
+
+    While Cadence actively manages its foreign currency risks on an ongoing
+basis, there can be no assurance that Cadence's foreign currency hedging
+activities will substantially offset the impact of fluctuations in currency
+exchange rates on its results of operations, cash flows, and financial position.
+On a net basis, foreign currency fluctuations did not have a material impact on
+Cadence's results of operations and financial position during the three months
+ended July 1, 2000. Due to the short-term nature of the forward contracts and
+the put option, the fair value at July 1, 2000 was negligible. The realized gain
+(loss) on the forward contracts and the put option as they matured was not
+material to the consolidated operations of Cadence.
+
+    EQUITY PRICE RISK
+
+    As part of its authorized repurchase program, Cadence has sold put warrants
+and purchased call options through private placements. The put warrants, if
+exercised, would entitle the holder to sell shares of Cadence common stock to
+Cadence at a specified price. Similarly, the call options entitle Cadence to buy
+shares of Cadence common stock at a specified price.
+
+    Cadence repurchases shares of its common stock under stock repurchase
+programs for issuance under its Employee Stock Purchase Plan, or ESPP, its 1997
+Stock Option Plan, referred to as the 1997 Plan, and its 2000 Stock Option Plan.
+As part of these repurchase programs, Cadence has purchased and will purchase
+call options or has sold and will sell put warrants. These transactions may
+result in sales of a large
+
+                                       29
+<PAGE>
+number of shares and consequent decline in the market price of Cadence common
+stock. Cadence's stock repurchase program includes the following
+characteristics:
+
+    - Call options allow Cadence to buy shares of its common stock on a
+      specified day at a specified price. If the market price of the stock is
+      greater than the exercise price of a call option, Cadence will typically
+      exercise the option and receive shares of its stock. If the market price
+      of the common stock is less than the exercise price of a call option,
+      Cadence typically will not exercise the option.
+
+    - Call option issuers may accumulate a substantial number of shares of
+      Cadence common stock in anticipation of Cadence's exercising its call
+      option and may dispose of these shares if and when Cadence fails to
+      exercise its call option. This could cause the market price of Cadence
+      common stock to fall.
+
+    - Put warrants allow the holder to sell to Cadence shares of Cadence common
+      stock on a specified day at a specified price. Cadence has the right to
+      settle the put warrants with shares of Cadence common stock valued at the
+      difference between the exercise price and the fair value of the stock at
+      the date of exercise.
+
+    - Depending on the exercise price of the put warrants and the market price
+      of Cadence common stock at the time of exercise, settlement of the put
+      warrants with Cadence common stock could cause Cadence to issue a
+      substantial number of shares to the holder of the put warrant. The holder
+      may sell these shares in the open market, which could cause the price of
+      Cadence common stock to fall.
+
+    - Put warrant holders may accumulate a substantial number of shares of
+      Cadence common stock in anticipation of exercising their put warrants and
+      may dispose of these shares if and when they exercise their put warrants
+      and Cadence issues shares in settlement of their put warrants. This could
+      also cause the market price of Cadence common stock to fall.
+
+    The table below provides information at July 1, 2000 about Cadence's
+outstanding put warrants and call options. The table presents the contract
+amounts and the weighted average strike prices. The put warrants and call
+options expire on various dates through February 2001 and Cadence has the
+contractual ability to settle the options prior to their maturity.
+
+<TABLE>
+<CAPTION>
+                                                                2000       2001     ESTIMATED
+                                                              MATURITY   MATURITY   FAIR VALUE
+                                                              --------   --------   ----------
+<S>                                                           <C>        <C>        <C>
+(Shares and contract amounts in millions)
+Put Warrants:
+  Shares....................................................      6.1        0.2
+  Weighted average strike price.............................   $20.72     $19.77
+  Contract amount...........................................   $127.3     $  3.7      $16.7
+Call Options:
+  Shares....................................................      4.5        0.1
+  Weighted average strike price.............................   $20.94     $20.02
+  Contract amount...........................................   $ 94.2     $  2.8      $12.1
+</TABLE>
+
+                                       30
+<PAGE>
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+    From time to time Cadence is involved in various disputes and litigation
+matters that arise in the ordinary course of business. These include disputes
+and lawsuits related to intellectual property, licensing, contract law,
+distribution arrangements, and employee relations matters.
+
+    Cadence filed a complaint in the U.S. District Court for the Northern
+District of California on December 6, 1995 against Avant! Corporation and
+certain of its employees for misappropriation of trade secrets, copyright
+infringement, conspiracy, and other illegal acts.
+
+    On January 16, 1996, Avant! filed various counterclaims against Cadence and
+Joseph B. Costello, Cadence's former President and Chief Executive Officer, and
+with leave of the court, on January 29, 1998, filed a second amended
+counterclaim. The second amended counterclaim alleges, INTER ALIA, that Cadence
+and Mr. Costello had cooperated with the Santa Clara County, California,
+District Attorney and initiated and pursued its complaint against Avant! for
+anticompetitive reasons, engaged in wrongful activity in an attempt to
+manipulate Avant!'s stock price, and utilized certain pricing policies and other
+acts to unfairly compete against Avant! in the marketplace. The second amended
+counterclaim also alleges that certain Cadence insiders engaged in illegal
+insider trading with respect to Avant!'s stock. Cadence and Mr. Costello believe
+that they have meritorious defenses to Avant!'s claims, and each intends to
+defend such action vigorously. By an order dated July 13, 1996, the court
+bifurcated Avant!'s counterclaim from Cadence's complaint and stayed the
+counterclaim pending resolution of Cadence's complaint. The counterclaim remains
+stayed.
+
+    In an order issued on December 19, 1997, as modified on January 26, 1998,
+the District Court entered a preliminary injunction barring Avant! from any
+further infringement of Cadence's copyrights in Design Framework II software, or
+selling, licensing or copying such product derived from Design Framework II,
+including, but not limited to, Avant!'s ArcCell products. On December 7, 1998,
+the District Court issued a further preliminary injunction, which enjoined
+Avant! from selling its Aquarius product line. Cadence posted a $10 million bond
+in connection with the issuance of the preliminary injunction. On July 30, 1999,
+the U.S. Court of Appeals for the Ninth Circuit affirmed the preliminary
+injunction.
+
+    By an order dated July 22, 1997, the District Court stayed most activity in
+the case pending in that court and ordered Avant! to post a $5 million bond in
+light of related criminal proceedings pending against Avant! and several of its
+executives.
+
+    On September 7, 1999, the District Court ruled on the parties' Motions for
+Summary Adjudication, and granted in part, and denied in part, each party's
+motion regarding the scope of a June 6, 1994 Release Agreement between the
+parties. The Court held that Cadence's copyright infringement claim against
+Avant! is not barred by the release and that Cadence may proceed on that claim.
+The Court also held that Cadence's trade secret claim based on Avant!'s use of
+Cadence's Design Framework II source code is barred by the release. The Ninth
+Circuit has agreed to hear both parties' appeal from the District Court's order.
+The trial date has been vacated pending a decision on the appeal.
+
+    On April 30, 1999, Cadence and several of its officers and directors were
+named as defendants in a lawsuit filed in the U.S. District Court for the
+Northern District of California, entitled Spett v. Cadence Design Systems, et
+al., civil action no. C 99-2082. The action was brought on behalf of a class of
+stockholders who purchased Cadence common stock between November 4, 1998 and
+April 20, 1999, and alleges violations of Sections 10(b) and 20(a) of the
+Securities Exchange Act of 1934. The lawsuit arises out of Cadence's
+announcement of its first quarter 1999 financial results.
+
+    In February 1998, Aptix Corporation and Meta Systems, Inc. filed a lawsuit
+against Quickturn Design Systems, Inc. in the U.S. District Court for the
+Northern District of California. In this lawsuit, entitled Aptix Corporation and
+Meta Systems, Inc. v. Quickturn Design Systems, Civil Action No. C 98-00762
+
+                                       31
+<PAGE>
+WHA, Aptix and Meta Systems alleged that Quickturn infringed a U.S. patent owned
+by Aptix and licensed to Meta. Quickturn filed a counterclaim requesting the
+District Court to declare the Aptix patent invalid in view of the prior art and
+unenforceable based on inequitable conduct during the prosecution of the patent.
+In June 2000 the District Court entered judgment in favor of Quickturn,
+dismissing the complaint and declaring the patent unenforceable. The plaintiffs
+have filed a notice of appeal from the District's Court's judgment.
+
+    On July 21, 1999, Mentor filed suit against Quickturn in the U.S. District
+Court for the District of Delaware, alleging that Quickturn's Mercury-TM-
+hardware emulation systems infringe U.S. Patent Nos. 5,777,489 and 5,790,832
+allegedly assigned to Mentor. At Quickturn's request, Cadence was added as a
+party defendant. Mentor has since asserted that Quickturn's Mercury
+Plus(Plus-TM-) emulation systems also infringe U.S. Patent Nos. 5,777,489 and
+5,790,832. The complaint seeks a permanent injunction and unspecified damages.
+Cadence intends to vigorously defend itself against these claims. On
+December 14, 1999, this action was transferred to the U.S. District Court for
+the Northern District of California, and renumbered Civil Action No. C 99-5464
+SI.
+
+    On February 25, 2000, Cadence and several of its officers were named as
+defendants in a lawsuit filed in the U.S. District Court for the Northern
+District of California, entitled Maxick v. Cadence Design Systems, Inc., File
+No. C 00 0658PJH. The action was brought on behalf of a class of shareholders of
+OrCAD, Inc., and alleges violations of Section 14(d)(7) of the Securities
+Exchange Act of 1934, as amended, and Rule 14d-10 thereunder. The lawsuit arises
+out of Cadence's acquisition of OrCAD, which was completed in August 1999.
+
+    On March 24, 2000, Mentor and Meta and several founders of Meta filed suit
+against Quickturn and Cadence and a former Quickturn employee in the U.S.
+District Court for the Northern District of California, Civil Action No. C
+00-01030 SI. The suit alleges patent infringement of a U.S. Patent allegedly
+assigned to Mentor, misappropriation of trade secrets and breach of confidence,
+and seeks unspecified damages, injunctive relief and the assignment to Mentor of
+a patent previously issued to Quickturn. Cadence intends to vigorously defend
+itself against these claims, and has filed a counterclaim for declaratory
+judgment of invalidity of several patents allegedly assigned to Mentor.
+Following a motion by Cadence, the former Quickturn employee was dismissed as a
+party to the action. Discovery in the action has subsequently been consolidated
+with discovery in Civil Action No. C 99-5464, the Mentor v. Quickturn suit
+transferred from Delaware.
+
+    On January 7, 1999, in the suit, Mentor Graphics Corporation, et. al. v.
+Lobo, et. al., Delaware Chancery Court, New Castle County, Civ. Action
+No. 16843-NC, an amended complaint was filed and served by Mentor asserting
+claims against Cadence, Quickturn Design Systems, Inc. and its Board of
+Directors for declaratory and injunctive relief for various alleged breaches of
+fiduciary duty purportedly owned by Quickturn and its Board of Directors to
+Quickturn's shareholders in connection with the merger between Quickturn and
+Cadence. Mentor alleged that Cadence aided and abetted Quickturn and its Board
+of Directors in those purported breaches. Mentor has not prosecuted the matter
+since January 1999. In May 2000, Mentor advised the Delaware Chancery Court of
+its objection to the settlement of a companion action brought on behalf of
+certain Quickturn shareholders. Mentor further advised the court that it would
+seek an award of attorneys' fees related to its prosecution of the action. At
+the request of the court, on July 28, 2000, Mentor filed its brief in support of
+its standing to seek such an award. Cadence intends to vigorously oppose
+Mentor's request.
+
+    Management believes that the ultimate resolution of the disputes and
+litigation matters discussed above will not have a material adverse effect on
+Cadence's business, operating results, or financial condition.
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+    None.
+
+                                       32
+<PAGE>
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+    None.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    At the Annual Meeting of Stockholders held on May 24, 2000, the stockholders
+of Cadence approved the following matters:
+
+1.  A proposal to elect eight (8) directors of Cadence to serve for the ensuing
+    year and until their successors are elected or until such director's earlier
+    resignation or removal.
+
+<TABLE>
+<CAPTION>
+NOMINEE                                                        IN FAVOR     WITHHELD
+-------                                                       -----------   ---------
+<S>                                                           <C>           <C>
+Carol A. Bartz..............................................  215,429,157     994,735
+H. Raymond Bingham..........................................  210,083,179   6,340,713
+Dr. Leonard Y. W. Liu.......................................  215,452,707     971,185
+Donald L. Lucas.............................................  215,261,253   1,162,639
+Dr. Alberto Sangiovanni-Vincentelli.........................  215,442,956     980,936
+George M. Scalise...........................................  215,436,453     987,439
+Dr. John B. Shoven..........................................  215,441,858     982,034
+Roger S. Siboni.............................................  215,436,538     987,354
+</TABLE>
+
+2.  A proposal for the ratification of the selection of Arthur Andersen LLP as
+    independent public accountants for the fiscal year ending December 30, 2000
+    was approved by a vote of 216,074,304 for, 204,609 opposed, and 144,979
+    withheld.
+
+ITEM 5. OTHER INFORMATION
+
+    None.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+    (a) The following exhibits are filed herewith:
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                           EXHIBIT TITLE
+-------   ------------------------------------------------------------
+<C>       <S>
+  2.01    Master Separation Agreement, dated as of July 14, 2000 by
+          and among the registrant, Cadence Holders, Inc. and Tality
+          Corporation.
+ 10.01    Form of Indemnity Agreement between Cadence Design Systems,
+          Inc. and its directors and executive officers.
+ 27.01    Financial data schedule for the period ended July 1, 2000.
+</TABLE>
+
+    (b) Reports on Form 8-K:
+
+        Cadence filed a Current Report on Form 8-K dated July 17, 2000
+    announcing the planned separation and initial public offering of its design
+    services group.
+
+                                       33
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+<TABLE>
+<S>    <C>              <C>  <C>
+                        CADENCE DESIGN SYSTEMS, INC.
+                        (REGISTRANT)
+
+DATE:  August 15, 2000  By:  /s/ H. RAYMOND BINGHAM
+       -------------         ---------------------------------------
+                             H. Raymond Bingham
+                             PRESIDENT, CHIEF EXECUTIVE OFFICER, AND
+                             DIRECTOR
+
+DATE:  August 15, 2000  By:  /s/ WILLIAM PORTER
+       -------------         ---------------------------------------
+                             William Porter
+                             SENIOR VICE PRESIDENT AND
+                             CHIEF FINANCIAL OFFICER
+</TABLE>
+
+                                       34
+</TEXT>
+</DOCUMENT>

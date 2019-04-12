@@ -1,0 +1,849 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q FOR THE QUARTERLY PERIOD ENDED 06/30/01
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                               ------------------
+
+                                    FORM 10-Q
+
+(Mark one)
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934.
+
+For the quarterly period ended June 30, 2001
+
+                                       OR
+
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934.
+
+For the transition period from _______________ to _________________
+
+Commission file number 0-21918
+
+                               FLIR Systems, Inc.
+             (Exact name of Registrant as specified in its charter)
+
+                  Oregon                                       93-0708501
+     (State or other jurisdiction of                       (I.R.S. Employer
+      incorporation or organization)                       Identification No.)
+
+     16505 S.W. 72nd Avenue, Portland, Oregon                     97224
+     (Address of principal executive offices)                   (Zip Code)
+
+                                 (503) 684-3731
+              (Registrant's telephone number, including area code)
+
+                               ------------------
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes  X . No ____.
+                                       ---
+
+At July 31, 2001, there were 15,095,948 shares of the Registrant's common stock,
+$0.01, par value, outstanding.
+
+
+================================================================================
+
+<PAGE>
+
+                                      INDEX
+
+                          PART I. FINANCIAL INFORMATION
+
+<TABLE>
+<S>                                                                                            <C>
+Item 1. Financial Statements
+
+        Consolidated Statement of Operations - Three Months And Six Months Ended June
+            30, 2001 and 2000 ............................................................     3
+
+        Consolidated Balance Sheet - June 30, 2001 and December 31, 2000 .................     4
+
+        Consolidated Statement of Cash Flows - Six Months Ended June 30, 2001 and 2000 ...     5
+
+        Notes to the Consolidated Financial Statements ...................................     6
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of
+            Operations ...................................................................    10
+
+
+                           PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings ................................................................    16
+
+Item 2. Changes in Securities ............................................................    16
+
+Item 6. Exhibits and Current Reports on Form 8-K .........................................    16
+
+        Signature ........................................................................    17
+</TABLE>
+
+                                       2
+
+<PAGE>
+
+                          PART 1. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+                               FLIR SYSTEMS, INC.
+
+                      CONSOLIDATED STATEMENT OF OPERATIONS
+                    (In thousands, except per share amounts)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                        Three Months Ended            Six Months Ended
+                                                             June 30,                     June 30,
+                                                      -----------------------     -----------------------
+                                                         2001           2000          2001          2000
+                                                      ---------     ---------     ---------     ---------
+<S>                                                   <C>           <C>           <C>           <C>
+Revenue .........................................     $  51,395     $  52,560     $ 101,867     $  89,238
+Cost of goods sold ..............................        22,700        29,861        45,881        47,381
+                                                      ---------     ---------     ---------     ---------
+       Gross profit .............................        28,695        22,699        55,986        41,857
+
+Operating expenses:
+    Research and development ....................         6,635         9,514        12,740        16,435
+    Selling and other operating costs ...........        13,490        16,847        26,852        32,816
+                                                      ---------     ---------     ---------     ---------
+       Total operating expenses .................        20,125        26,361        39,592        49,251
+
+       Earnings (loss) from operations ..........         8,570        (3,662)       16,394        (7,394)
+
+
+Interest expense ................................         2,004         2,846         5,458         4,938
+Other (income) expense - net ....................           (50)           67          (238)          (15)
+                                                      ---------     ---------     ---------     ---------
+
+       Earnings (loss) before income taxes ......         6,616        (6,575)       11,174       (12,317)
+
+Income tax provision (benefit) ..................           992          --           1,676        (1,836)
+                                                      ---------     ---------     ---------     ---------
+
+Net earnings (loss) .............................     $   5,624     $  (6,575)    $   9,498     $ (10,481)
+                                                      =========     =========     =========     =========
+
+Net earnings (loss) per share:
+
+   Basic ........................................     $    0.38     $   (0.45)    $    0.65     $   (0.73)
+                                                      =========     =========     =========     =========
+   Diluted ......................................     $    0.36     $   (0.45)    $    0.63     $   (0.73)
+                                                      =========     =========     =========     =========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+
+                                       3
+
+<PAGE>
+
+                               FLIR SYSTEMS, INC.
+
+                           CONSOLIDATED BALANCE SHEET
+                      (In thousands, except share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                         June 30,    December 31,
+                                                                           2001         2000
+                                                                        ----------   ------------
+                                                                        (Unaudited)
+<S>                                                                     <C>            <C>
+                                 ASSETS
+                                 ------
+
+Current assets:
+    Cash and cash equivalents .......................................   $   8,101      $  11,858
+    Accounts receivable, net ........................................      39,301         39,663
+    Inventories .....................................................      45,731         55,844
+    Prepaid expenses and other current assets .......................       3,138          3,030
+    Deferred income taxes ...........................................      11,943         11,943
+                                                                        ---------      ---------
+        Total current assets ........................................     108,214        122,338
+Property and equipment, net .........................................      14,959         15,407
+Deferred income taxes, net ..........................................      11,772         11,772
+Intangible assets, net ..............................................      16,031         16,635
+Other assets ........................................................         835            839
+                                                                        ---------      ---------
+                                                                        $ 151,811      $ 166,991
+                                                                        =========      =========
+
+                  LIABILITIES AND SHAREHOLDERS' EQUITY
+                  ------------------------------------
+
+Current liabilities:
+    Notes payable ...................................................   $   7,138      $  17,716
+    Accounts payable ................................................       8,568         16,247
+    Accrued payroll and other liabilities ...........................      23,336         19,186
+    Accrued income taxes ............................................         892          2,217
+    Current portion of capital lease obligations ....................         916          1,103
+                                                                        ---------      ---------
+        Total current liabilities ...................................      40,850         56,469
+Long-term debt ......................................................      64,906         75,485
+Pension and other long-term liabilities .............................       6,451          6,012
+
+Commitments and contingencies
+
+Shareholders' equity:
+   Preferred stock, $0.01 par value, 10,000,000 shares authorized; no
+      shares issued at June 30, 2001, and December 31, 2000 .........          --             --
+   Common stock, $0.01 par value, 30,000,000 shares authorized,
+      14,849,792 and 14,548,370 shares issued at June 30, 2001, and
+      December 31, 2000, respectively ...............................         148            145
+    Additional paid-in capital ......................................     146,148        144,118
+    Accumulated deficit .............................................    (101,300)      (110,798)
+    Accumulated other comprehensive loss ............................      (5,392)        (4,440)
+                                                                        ---------      ---------
+        Total shareholders' equity ..................................      39,604         29,025
+                                                                        ---------      ---------
+                                                                        $ 151,811      $ 166,991
+                                                                        =========      =========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+
+                                       4
+
+<PAGE>
+
+                               FLIR SYSTEMS, INC.
+
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                                 (In thousands)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                          Six Months Ended
+                                                                                              June 30,
+                                                                                   -----------------------------
+                                                                                       2001            2000
+                                                                                   --------------  -------------
+<S>                                                                                <C>             <C>
+Cash provided (used) by operations:
+    Net earnings (loss)...........................................................    $   9,498      $  (10,481)
+    Income charges not affecting cash:
+        Depreciation..............................................................        3,067           4,617
+        Amortization..............................................................          875             800
+        Disposals and write-offs of property and equipment........................          526           1,315
+        Fair value adjustment on interest swaps...................................          510              93
+        Deferred income taxes.....................................................           (9)         (2,671)
+    Changes in operating assets and liabilities:
+        (Increase) decrease in accounts receivable................................         (733)         13,932
+        Decrease (increase) in inventories........................................        8,833          (2,931)
+        (Increase) decrease in prepaid expenses...................................         (245)          2,410
+        (Increase) decrease in other assets.......................................         (278)          1,035
+        Decrease in accounts payable..............................................       (7,272)         (9,794)
+        Increase (decrease) in accrued payroll and other liabilities..............        5,325          (4,749)
+        Decrease in accrued income taxes .........................................       (1,093)         (1,726)
+        Increase (decrease) in pension and other long-term liabilities............          701             (98)
+                                                                                   ------------    ------------
+    Cash provided (used) by operating activities..................................       19,705          (8,248)
+                                                                                   ------------    ------------
+Cash used by investing activities:
+    Additions to property and equipment...........................................       (3,424)         (4,299)
+                                                                                   ------------    ------------
+    Cash used by investing activities.............................................       (3,424)         (4,299)
+                                                                                   ------------    ------------
+Cash (used) provided by financing activities:
+    Repayment of credit agreement including current portion.......................      (20,500)         (7,000)
+    Proceeds from credit agreement................................................           --          21,500
+    Net (decrease) increase in international credit line..........................          (78)            558
+    Repayment of capital leases, including current portion........................       (1,222)           (567)
+    Proceeds from exercise of stock options.......................................        1,720             157
+    Stock issued pursuant to employee stock purchase plan.........................          313             292
+                                                                                   ------------    ------------
+    Cash (used) provided by financing activities..................................      (19,767)         14,940
+                                                                                   ------------    ------------
+Effect of exchange rate changes on cash...........................................         (271)            (21)
+                                                                                   ------------    ------------
+Net (decrease) increase in cash and cash equivalents..............................       (3,757)          2,372
+Cash and cash equivalents, beginning of period....................................       11,858           4,255
+                                                                                   ------------    ------------
+Cash and cash equivalents, end of period..........................................  $     8,101     $     6,627
+                                                                                   ============    ============
+</TABLE>
+
+              The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+
+                                       5
+
+<PAGE>
+
+                               FLIR SYSTEMS, INC.
+
+                 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+Note 1.   Basis of Presentation
+
+The accompanying consolidated financial statements of FLIR Systems, Inc. (the
+"Company") are unaudited and have been prepared by the Company pursuant to the
+rules and regulations of the Securities and Exchange Commission. In the opinion
+of management, these statements have been prepared on the same basis as the
+audited consolidated financial statements and include all adjustments necessary
+for a fair presentation of the consolidated financial position and results of
+operations for the interim periods. Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with accounting
+principles generally accepted in the United States have been condensed or
+omitted pursuant to such rules and regulations. These consolidated financial
+statements should be read in conjunction with the Company's audited consolidated
+financial statements and the notes thereto included in the Company's annual
+report on Form 10-K for the year ended December 31, 2000.
+
+The accompanying financial statements include the accounts of FLIR Systems, Inc.
+and its subsidiaries. All intercompany accounts and transactions have been
+eliminated. The results of operations for the interim periods presented are not
+necessarily indicative of the operating results to be expected for any
+subsequent interim period or for the year ending December 31, 2001.
+
+Note 2.   Net Earnings (Loss) Per Share
+
+Basic net earnings (loss) per share is calculated by dividing net earnings
+(loss) for the period by the weighted average number of common shares
+outstanding during the period. Diluted net earnings (loss) per share is
+calculated by dividing net earnings (loss) by the average number of common
+shares plus the potential shares issuable upon assumed exercise of outstanding
+stock options based on the treasury stock method. Approximately 428,000 and
+1,795,000 outstanding stock options for the three months ended June 30, 2001 and
+June 30, 2000, respectively, and approximately 740,000 and 1,795,000 for the six
+months ended June 30, 2001 and June 30, 2000, respectively, were excluded from
+the calculation of diluted earnings (loss) per share because they were
+anti-dilutive. However, these options could be dilutive in the future.
+
+The following table sets forth the reconciliation of the denominator utilized in
+the computation of basic and diluted earnings (loss) per share (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                  Three Months Ended        Six Months Ended
+                                                                        June 30,                 June 30,
+                                                                 ----------------------    --------------------
+                                                                    2001        2000         2001        2000
+                                                                 ----------   ---------    --------    --------
+<S>                                                              <C>          <C>          <C>         <C>
+Weighted average number of common shares outstanding .......         14,710      14,461      14,636      14,437
+Dilutive effect of stock options ...........................            720          --         472          --
+                                                                 ----------   ---------    --------    --------
+Diluted shares outstanding .................................         15,430      14,461      15,108      14,437
+                                                                 ==========   =========    ========    ========
+</TABLE>
+
+                                       6
+
+<PAGE>
+
+                               FLIR SYSTEMS, INC.
+
+           NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+                                   (Unaudited)
+
+Note 3.   Inventories
+
+Inventories consist of the following (in thousands):
+
+                                                   June 30,       December 31,
+                                                     2001            2000
+                                                  ----------      -----------
+Raw material and subassemblies .................  $   28,068      $    29,546
+Work-in-progress ...............................       9,726           14,139
+Finished goods .................................       7,937           12,159
+                                                  ----------      -----------
+                                                  $   45,731      $    55,844
+                                                  ==========      ===========
+
+Note 4.   Comprehensive Income
+
+Comprehensive income includes foreign currency translation gains and losses that
+are reflected in shareholders' equity instead of net income. The following table
+sets forth the calculation of comprehensive income for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                                          Three Months Ended          Six Months Ended
+                                                               June 30,                   June 30,
+                                                       -----------------------    ------------------------
+                                                          2001          2000         2001          2000
+                                                       ----------    ---------    -----------   ----------
+<S>                                                    <C>           <C>          <C>           <C>
+Net income (loss) .................................     $   5,624     $ (6,575)    $    9,498    $ (10,481)
+Foreign currency translation gain (loss) ..........           155         (257)          (952)        (148)
+                                                       ----------    ---------    -----------   ----------
+Total comprehensive income (loss) .................     $   5,779     $ (6,832)    $    8,546    $ (10,629)
+                                                       ==========    =========    ===========   ==========
+</TABLE>
+
+
+Foreign currency translation gains and losses represents unrealized gains/losses
+in the translation of the financial statements of the Company's subsidiaries in
+accordance with SFAS No. 52, "Foreign Currency Translation." The Company has no
+intention of liquidating the assets of the foreign subsidiaries in the
+foreseeable future.
+
+Note 5.   Litigation
+
+On July 24, 2000, a complaint consolidating five previously filed complaints and
+alleging violations of the Securities Exchange Act of 1934 and Rule 10b-5
+promulgated thereunder was filed against the Company, Robert P. Daltry, J.
+Kenneth Stringer, III, and J. Mark Samper in the United States District Court
+for the District of Oregon on behalf of a class of purchasers of the Company's
+common stock between March 3, 1999 and March 6, 2000. On April 3, 2001, the
+court gave final approval to a settlement reached by the parties on January 8,
+2001. The settlement required payment by defendants of $6.0 million, $5.5
+million of which was paid by the Company's insurance carrier and $0.5 million of
+which was paid by the Company and accrued as of December 31, 2000.
+
+                                       7
+
+<PAGE>
+
+                               FLIR SYSTEMS, INC.
+
+           NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+                                   (Unaudited)
+
+Note 5.     Litigation--(Continued)
+
+The Securities and Exchange Commission (the "SEC") is conducting an
+investigation relating to the Company. The investigation is a non-public,
+fact-finding inquiry to determine whether there have been any violations of the
+federal securities laws. The Company is cooperating fully with the SEC
+investigation.
+
+The Company is involved in other litigation and various legal matters that are
+being defended and handled in the ordinary course of business.
+
+While the ultimate results of the matters described above cannot presently be
+determined, management does not expect that they will have a material adverse
+effect on the Company's results of operations or financial position. Therefore,
+no adjustments have been made to the accompanying financial statements relative
+to these matters.
+
+Note 6.     Segment Information
+
+The Company has determined its operating segments to be the Thermography and
+Imaging market segments. The Thermography market is comprised of a broad range
+of commercial and industrial applications utilizing infrared cameras to provide
+precise temperature measurement. The Imaging market is comprised of a broad
+range of applications that is focused on providing enhanced vision capabilities
+where temperature measurement is not required, although differences in
+temperatures are used to create an image. The Imaging market also includes high
+performance daylight imaging applications.
+
+The accounting policies of each segment are the same. The Company evaluates
+performance based upon revenue for each segment and does not evaluate segment
+performance on any other income measurement.
+
+Previously, the Company reported its operating segments to be the commercial and
+government market segments.
+
+Operating segment information for net revenue is as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                    Three Months Ended              Six Months Ended
+                                                         June 30,                       June 30,
+                                                ----------------------------  -----------------------------
+                                                    2001            2000          2001             2000
+                                                -------------  -------------  -------------   -------------
+<S>                                             <C>            <C>            <C>             <C>
+Thermography ..............................       $ 22,758        $ 20,029     $  44,691         $ 41,556
+Imaging ...................................         28,637          32,531        57,176           47,682
+                                                  --------        --------     ---------         --------
+                                                  $ 51,395        $ 52,560     $ 101,867         $ 89,238
+                                                  ========        ========     =========         ========
+</TABLE>
+
+
+                                       8
+
+<PAGE>
+
+                               FLIR SYSTEMS, INC.
+
+           NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+                                   (Unaudited)
+
+Note 6.     Segment Information--(Continued)
+
+Long-lived assets by significant geographic location is as follows (in
+thousands):
+
+                                                June 30,        December 31,
+                                                  2001              2000
+                                              ------------     --------------
+United States .........................        $  12,988         $  13,052
+Europe ................................           18,837            19,829
+                                               ---------         ---------
+                                               $  31,825         $  32,881
+                                               =========         =========
+
+
+                                       9
+
+<PAGE>
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+Results of Operations:
+
+   Revenue. The Company's revenue for the three months ended June 30, 2001
+decreased 2.2 percent, from $52.6 million in the second quarter of 2000 to $51.4
+million in the second quarter of 2001. The Company's revenue for the six months
+ended June 30, 2001 increased 14.2 percent, from $89.2 million in the first six
+months of 2000 to $101.9 million in the first six months of 2001. The decrease
+in revenue in the second quarter of 2001 is mainly due to the Company's efforts
+to produce and deliver its products more evenly throughout the year to better
+manage inventory, costs, quality and receivables, than has historically been
+experienced.
+
+Thermography revenue increased 13.6 percent, from $20.0 million in the second
+quarter of 2000 to $22.8 million in the second quarter of 2001. Thermography
+revenue for the six months ended June 30, 2001 increased 7.5 percent, from $41.6
+million in the first six months of 2000 to $44.7 million in the first six months
+of 2001. Revenue comparisons between 2001 and 2000 for both the three-month and
+six-month periods are negatively impacted by foreign currency translations as
+the US dollar has strengthened against European currencies. These impacts are
+significant to Thermography revenue due to the production and distribution of
+Thermography products that occur in Europe. Excluding the negative impact of the
+changing currency translation rates, Thermography revenue would have shown an
+increase of 22.9 percent and 15.4 percent, for the three-month and six-month
+periods ended June 30, 2001, respectively.
+
+Imaging revenue decreased $3.9 million, or 12.0 percent, from $32.5 million in
+the second quarter of 2000 to $28.6 million in the second quarter of 2001. The
+decrease in Imaging revenue in the second quarter of 2001 is mainly due to the
+Company's efforts to produce and deliver its products more evenly throughout the
+year to better manage inventory, costs, quality and receivables, than has
+historically been experienced.
+
+Revenue from the sale of systems to Imaging customers for the six months ended
+June 30, 2001 increased $9.5 million, or 19.9 percent, from $47.7 million in the
+first six months of 2000 to $57.2 million in the first six months of 2001. The
+increase is primarily related to increased deliveries of products for the
+airborne and maritime market segments.
+
+As a percentage of revenue, international sales were 39.3 percent and 41.4
+percent for the quarters ended June 30, 2001 and 2000, respectively. For the
+first six months of 2001, revenue from sales outside the United States
+constituted 39.6 percent of total revenue, as compared to 45.3 percent for the
+first six months of 2000. While the percentage of revenue from international
+sales will continue to fluctuate from quarter to quarter due to the timing of
+shipments under international and domestic government contracts, management
+anticipates that revenue from international sales as a percentage of total
+revenue will continue to comprise a significant percentage of revenue.
+
+                                       10
+
+<PAGE>
+
+  Gross profit. Gross profit for the quarter ended June 30, 2001 was $28.7
+million compared to $22.7 million for the same quarter last year. As a
+percentage of revenue, gross profit increased to 55.8 percent in the second
+quarter of 2001 compared to 43.2 percent in the second quarter of 2000. The
+gross profit for the quarter ended June 30, 2000, includes one-time charges of
+$4.1 million. Excluding these one-time charges, gross profit as a percentage of
+revenue would have been 50.9 percent in 2000.
+
+Gross profit for the six months ended June 30, 2001 was $56.0 million compared
+to $41.9 million for the six months ended June 30, 2000. As a percentage of
+revenue, gross profit increased to 55.0 percent in the first six months of 2001
+compared to 46.9 percent in the first six months of 2000. Excluding the one-time
+charges of $4.1 million taken in the six months ended June 30, 2000, gross
+profit as a percentage of revenue would have been 51.5 percent. The increases
+for both the three-month and six-month periods are primarily due to higher
+shipments and price increases in 2001 and decreases in manufacturing costs
+resulting from actions taken during 2000 to streamline operations.
+
+  Research and development. Research and development expense for the second
+quarter of 2001 totaled $6.6 million, compared to $9.5 million in the second
+quarter of 2000. The expense in 2000 includes certain one-time charges of $2.2
+million. Excluding the one-time charges, research and development expense, as a
+percentage of revenue decreased from 13.8 percent to 12.9 percent for the three
+months ended June 30, 2000 and 2001, respectively.
+
+Research and development expense for the first six months of 2001 totaled $12.7
+million, a decrease from $16.4 million in the first six months of 2000.
+Excluding the one-time charges taken in 2000, research and development expense
+as a percentage of revenue decreased from 15.9 percent to 12.5 percent for the
+six months ended June 30, 2000 and 2001, respectively.
+
+The Company anticipates annual spending for research and development on a basis
+of percent of revenue, to be comparable to the level experienced in the first
+six months of 2001. The overall level of research and development expense
+reflects the continued emphasis on product development and new product
+introductions.
+
+  Selling and other operating costs. Selling and other operating costs decreased
+from $16.8 million for the quarter ended June 30, 2000, to $13.5 million for the
+quarter ended June 30, 2001. Included in the 2000 expenses are certain one-time
+charges of $1.0 million. Excluding the one-time charges, selling and other
+operating costs as a percentage of revenue decreased from 30.2 percent to 26.2
+percent for the quarter ended June 30, 2000 and 2001, respectively.
+
+As a percentage of revenue, selling and other operating costs for the first six
+months of 2001 was 26.4 percent, as compared to 35.7 percent, excluding the
+one-time charges taken in 2000, for the first six months of 2000. The decrease
+in selling and other operating costs for both the three-month and six-month
+periods were due to cost savings in 2001 as a result of actions taken in 2000 to
+streamline operations and lower audit and legal expenses in 2001 compared to
+2000.
+
+                                       11
+
+<PAGE>
+
+  Interest expense. Interest expense decreased from $2.8 million in the second
+quarter of 2000 to $2.0 million for the quarter ended June 30, 2001. Interest
+expense for the first six months of 2001 was $5.5 million, as compared to $4.9
+million for the first six months of 2000. The decrease in the second quarter of
+2001, as compared to the same quarter last year was primarily due to the
+continued reduction of the outstanding debt and lower interest rates.
+
+  Income taxes. The income tax provision of $1.0 million and $1.7 million for
+the three months and six months ended June 30, 2001, which represents an
+effective tax rate of 15 percent, reflects the Company's estimate of expected
+year-end earnings and losses and resultant taxes in its various tax
+jurisdictions. Management will continue to assess the extent and timing of
+future profitability and will adjust the effective tax rate as necessary to
+reflect the impact of actual results.
+
+Liquidity and Capital Resources
+
+At June 30, 2001, the Company had cash on hand, net of short-term borrowings of
+$1.0 million compared to short-term borrowings, net of cash on hand of $4.5
+million at March 31, 2001 and $5.9 million at December 31, 2000. The decrease in
+short-term borrowings during the six months ended June 30, 2001, was primarily
+due to repayments made on the Company's Credit Agreement in the first half of
+2001.
+
+Cash provided by operating activities in the first six months of 2001 was $19.7
+million, compared to cash used by operating activities of $8.2 million for the
+first six months of 2000. Cash provided from operating activities was
+principally due to net earnings for the period, a reduction in inventories and
+an increase in accrued liabilities offset by the reduction in accounts payable.
+
+Accounts receivable decreased slightly from $39.7 million at December 31, 2000
+to $39.3 million at June 30, 2001. The Company has increased its collection
+efforts and tightened its credit policies. Days sales outstanding decreased from
+78 at December 31, 2000 to 70 at June 30, 2001. The timing of sales,
+particularly the recording of large system sales, can significantly impact the
+calculation of days sales outstanding at any point in time.
+
+At June 30, 2001, the Company had inventories on hand of $45.7 million compared
+to $55.8 million at December 31, 2000. The decrease was primarily the result of
+inventory reduction initiatives in process in the Company's manufacturing
+facilities.
+
+The Company had accounts payable of $8.6 million at June 30, 2001, compared to
+$16.2 million at December 31, 2000. The decrease is primarily due to lower
+inventories and continued improvements in the availability of cash to settle
+trade accounts payable.
+
+Accrued payroll and other liabilities increased from $19.2 million at December
+31, 2000 to $23.3 million at June 30, 2001. The increase was primarily due to
+the accrual of incentive programs based upon results for the first six months of
+2001 and to the timing of certain operational accruals and expenses.
+
+The Company's investing activities have consisted primarily of expenditures for
+fixed assets, which totaled $3.4 million and $4.3 million for six months ended
+June 30, 2001 and 2000, respectively.
+
+                                       12
+
+<PAGE>
+
+The Company entered into a Credit Agreement with a number of lender banks as of
+December 16, 1999. This Credit Agreement was amended as of January 23, 2001. The
+Amended Credit Agreement provides the Company with a borrowing facility to a
+maximum of $93.4 million. The Company made principal payments totaling $11.5
+million during the quarter ended June 30, 2001, for a total of $20.5 million of
+principal payments made during the six months then ended. As of June 30, 2001,
+the Company had $69.4 million of borrowings in addition to $1.2 million of
+standby letters of credit, with $4.8 million of financing available to the
+Company on its line of credit.
+
+The interest rate on the borrowings under the Amended Credit Agreement as of
+June 30, 2001 was 8.75 percent, which was the prime rate of the primary lender
+for domestic borrowings plus 2.0 percent. The interest rate on borrowings
+decline as certain principal payments are made. A reduction of 25 basis points
+was provided after the payment of $7.5 million, and an additional 25 basis point
+reduction was provided after each $5.0 million principal reduction thereafter,
+for total reduction of 75 basis points. The Amended Credit Agreement provides
+for one final reduction of 25 basis points for the next $5.0 million principal
+reduction.
+
+The Amended Credit Agreement requires minimum cumulative principal payments
+totaling not less than $2.5 million on or before March 31, 2001, $5.0 million on
+or before June 30, 2001, $9.0 million on or before September 30, 2001, $15.0
+million on or before December 31, 2001, $20.0 million on or before June 30,
+2002, and $25.0 million on or before June 30, 2002. The Amended Credit Agreement
+expires on July 15, 2002.
+
+The Amended Credit Agreement includes one financial covenant related to the
+Company achieving certain levels of profitability beginning with the quarter
+ending March 31, 2001. The Company was in compliance with the financial covenant
+as of June 30, 2001. The Amended Credit Agreement is collateralized by
+substantially all of the assets of the Company.
+
+Additionally, the Company, through one of its subsidiaries, has a 40,000,000
+Swedish Kronar (approximately $3.7 million) line of credit at 4.3 percent at
+June 30, 2001. At June 30, 2001, the Company had $2.6 million outstanding on
+this line. This credit line is secured primarily by accounts receivable and
+inventories of the subsidiary and is subject to automatic renewal on an annual
+basis.
+
+We believe that our existing cash, cash generated by operating activities,
+available credit facilities and financing available from other sources, combined
+with our continuing efforts to control costs, to improve the collections of
+accounts receivable and to better manage our inventory levels will be sufficient
+to meet our cash requirements for the foreseeable future. At the present, we do
+not have any significant capital commitments for the coming year.
+
+                                       13
+
+<PAGE>
+
+New Accounting Pronouncements
+
+In July 2001, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 141,"Business Combinations" (SFAS 141), and
+Statement of Financial Accounting Standards No. 142, "Goodwill and Other
+Intangible Assets" (SFAS 142). SFAS 141 requires that the purchase method of
+accounting be used for all business combinations initiated after June 30, 2001.
+Use of the pooling-of-interest method will be prohibited on a prospective basis
+only. SFAS 142 changes the accounting for goodwill from an amortization method
+to an impairment-only approach. Thus, amortization of goodwill, including
+goodwill recorded in past business combinations, will cease upon adoption of
+that Statement, which will be adopted by the Company beginning in fiscal year
+2002.
+
+The Company does not expect that the adoption of SFAS No. 141 to have a
+significant impact on the financial condition or results of operations of the
+Company. The Company expects that the adoption of SFAS No. 142 will result in a
+pre-tax increase to net income of approximately $1.1 million for the fiscal year
+2002 from the cessation of amortization of previously recorded goodwill and does
+not expect to recognize any impairments.
+
+In June 2000, the FASB issued Statement of Financial Accounting Standards No.
+138, "Accounting for Certain Derivative Instruments and Certain Hedging
+Activities-an amendment of FASB Statement No. 133" ("SFAS 138"). In June 1999,
+the FASB issued Statement of Financial Accounting Standards No. 137, "Accounting
+for Derivative Instruments and Hedging Activities" ("SFAS 137"). SFAS 137 is an
+amendment to Statement of Financial Accounting Standards No. 133, "Accounting
+for Derivative Instruments and Hedging Activities". SFAS 137 and 138 establish
+accounting and reporting standards for all derivative instruments. SFAS 137 and
+138 are effective for fiscal years beginning after June 15, 2000. The Company
+adopted the pronouncements in the first quarter of 2001 and the adoption did not
+have a material impact on its financial position or results of operations.
+
+                                       14
+
+<PAGE>
+
+Forward-Looking Statements
+
+This Management's Discussion and Analysis of Financial Condition and Results of
+Operations contain forward-looking statements within the meaning of the
+Securities Litigation Reform Act of 1995 that are based on current expectations,
+estimates and projections about the Company's business, management's beliefs,
+and assumptions made by management. Words such as "expects," "anticipates,"
+"intends," "plans," "believes," "sees," "estimates" and variations of such words
+and similar expressions are intended to identify such forward-looking
+statements. These statements are not guarantees of future performance and
+involve risks, uncertainties and assumptions that are difficult to predict.
+Therefore, actual outcomes and results may differ materially from what is
+expressed or forecasted in such forward-looking statements due to numerous
+factors, including, but not limited to, those discussed in this Management's
+Discussion and Analysis of Financial Condition and Results of Operations, as
+well as those discussed from time to time in the Company's Securities and
+Exchange Commission fillings and reports. In addition, such statements could be
+affected by general industry and market conditions and growth rates, and general
+domestic and international economic conditions. Such forward-looking statements
+speak only as of the date on which they are made and the Company does not
+undertake any obligation to update any forward-looking statement to reflect
+events or circumstances after the date of this report. If the Company does
+update or correct one or more forward-looking statement, investors and others
+should not conclude that the Company will make additional updates or corrections
+with respect thereto or with respect to other forward-looking statements.
+
+                                       15
+
+<PAGE>
+
+PART II.   OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+See Note 5 to the notes to the consolidated financial statements.
+
+Item 2.  Changes in Securities
+
+During the quarter ended June 30, 2001, the Company sold securities without
+registration under the Securities Act of 1933, as amended (the "Securities Act")
+upon the exercise of certain stock options granted under the Company's 1984
+Stock Incentive Plan. An aggregate of 20,720 shares of Common Stock were issued
+at an exercise price of $5.23. These transactions were effected in reliance upon
+the exemption from registration under the Securities Act provided by Rule 701
+promulgated by the Securities and Exchange Commission pursuant to authority
+granted under Section 3(b) of the Securities Act.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+  (a) Exhibits.
+
+                 Number            Description
+           -------------------     ---------------------------------------------
+                  none
+
+  (b)  During the three months ended June 30, 2001, the Company did not file any
+       reports on Form 8-K.
+
+                                       16
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                      FLIR SYSTEMS, INC.
+
+
+Date      August 13, 2001              /s/ Stephen M. Bailey
+     -------------------------        ------------------------------------------
+                                      Stephen M. Bailey
+                                      Sr. Vice President, Finance and Chief
+                                      Financial Officer (Principal Accounting
+                                      and Financial Officer and Duly Authorized
+                                        Officer)
+
+                                       17
+
+</TEXT>
+</DOCUMENT>

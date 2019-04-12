@@ -1,0 +1,1827 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>file001.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<PAGE>
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, DC 20549
+
+                                ----------------
+
+                                    FORM 10-Q
+
+
+
+
+             QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2001
+
+
+                 Commission file numbers 001-14141 and 333-46983
+
+
+
+
+
+                        L-3 COMMUNICATIONS HOLDINGS, INC.
+
+                                      AND
+
+                         L-3 COMMUNICATIONS CORPORATION
+
+
+
+                                600 Third Avenue
+                               New York, NY 10016
+                            Telephone: (212) 697-1111
+                        State of incorporation: Delaware
+              IRS identification numbers: 13-3937434 and 13-3937436
+
+
+
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the proceeding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  X  Yes      No
+                                          ---      ---
+
+     There were 38,966,724 shares of L-3 Communications Holdings, Inc. common
+stock with a par value of $0.01 outstanding as of the close of business on July
+31, 2001.
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+
+                     L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                        L-3 COMMUNICATIONS CORPORATION
+                        FORM 10-Q QUARTERLY REPORT FOR
+                          QUARTER ENDED JUNE 30, 2001
+
+                       PART I -- FINANCIAL INFORMATION:
+
+<TABLE>
+<CAPTION>
+                                                                                 PAGE NO.
+                                                                                ---------
+<S>       <C>                                                                   <C>
+ITEM 1.   Financial Statements
+          Condensed Consolidated Balance Sheets as of June 30, 2001 and
+           December 31, 2000 ..................................................      1
+
+          Condensed Consolidated Statements of Operations for the Three and Six
+           Months ended June 30, 2001 and June 30, 2000 .......................      2
+
+          Condensed Consolidated Statements of Cash Flows for the Six Months
+           ended June 30, 2001 and June 30, 2000 ..............................      4
+
+          Notes to Unaudited Condensed Consolidated Financial Statements ......      5
+
+ITEM 2.   Management's Discussion and Analysis of Results of Operations and
+           Financial Condition ................................................     15
+
+ITEM 3.   Quantitative and Qualitative Disclosures About Market Risk ..........     23
+
+                          PART II -- OTHER INFORMATION:
+
+ITEM 6.   Exhibits and Reports on Form 8-K ....................................     23
+</TABLE>
+
+<PAGE>
+
+                        L-3 COMMUNICATIONS HOLDINGS, INC.
+                       AND L-3 COMMUNICATIONS CORPORATION
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+
+                 (IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                        JUNE 30,       DECEMBER 31,
+                                                                          2001             2000
+                                                                     --------------   -------------
+                              ASSETS
+<S>                                                                  <C>              <C>
+Current assets:
+ Cash and cash equivalents .......................................     $   68,333      $   32,680
+ Contracts in process ............................................        749,805         700,133
+ Deferred income taxes ...........................................         80,296          89,732
+ Other current assets ............................................         11,679           7,025
+                                                                       ----------      ----------
+   Total current assets ..........................................        910,113         829,570
+                                                                       ----------      ----------
+Property, plant and equipment, net ...............................        171,765         156,128
+Intangibles, primarily goodwill ..................................      1,525,002       1,371,368
+Deferred income taxes ............................................         61,448          57,111
+Other assets .....................................................         59,758          49,367
+                                                                       ----------      ----------
+   Total assets ..................................................     $2,728,086      $2,463,544
+                                                                       ==========      ==========
+                  LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable, trade .........................................     $  147,970      $  159,901
+ Accrued employment costs ........................................        115,479         102,606
+ Accrued expenses ................................................         41,484          55,576
+ Customer advances ...............................................         62,226          55,203
+ Accrued interest ................................................         14,706          16,335
+ Income taxes ....................................................          5,299           7,251
+ Other current liabilities .......................................         66,768          71,797
+                                                                       ----------      ----------
+   Total current liabilities .....................................        453,932         468,669
+                                                                       ----------      ----------
+Pension and postretirement benefits ..............................        110,085         105,523
+Other liabilities ................................................         58,096         101,783
+Long-term debt ...................................................        905,000       1,095,000
+Minority interest ................................................         69,555              --
+Commitments and contingencies
+Shareholders' equity:
+ L-3 Holdings' common stock $.01 par value; authorized 100,000,000
+   shares, issued and outstanding 38,944,962 and 33,606,645 shares
+   (L-3 Communications common stock: $.01 par value, 100 shares
+   authorized, issued and outstanding) ...........................        915,818         515,926
+ Retained earnings ...............................................        223,766         186,272
+ Unearned compensation ...........................................         (4,054)         (2,457)
+ Accumulated other comprehensive loss ............................         (4,112)         (7,172)
+                                                                       ----------      ----------
+Total shareholders' equity .......................................      1,131,418         692,569
+                                                                       ----------      ----------
+   Total liabilities and shareholders' equity ....................     $2,728,086      $2,463,544
+                                                                       ==========      ==========
+</TABLE>
+
+            See notes to condensed consolidated financial statements.
+
+                                       1
+<PAGE>
+
+                       L-3 COMMUNICATIONS HOLDINGS, INC.
+                      AND L-3 COMMUNICATIONS CORPORATION
+
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                             THREE MONTHS ENDED JUNE 30,
+                                                            -----------------------------
+                                                                 2001            2000
+                                                            -------------   -------------
+<S>                                                         <C>             <C>
+Sales ...................................................     $ 561,560       $ 460,976
+Costs and expenses ......................................       501,093         411,323
+                                                              ---------       ---------
+Operating income ........................................        60,467          49,653
+Interest and other income ...............................           972           1,722
+Interest expense ........................................        22,031          24,703
+Minority interest .......................................         1,585              --
+                                                              ---------       ---------
+Income before income taxes ..............................        37,823          26,672
+Provision for income taxes ..............................        14,487          10,213
+                                                              ---------       ---------
+Net income ..............................................     $  23,336       $  16,459
+                                                              =========       =========
+L-3 Holdings' earnings per common share:
+ Basic ..................................................     $    0.62       $    0.49
+                                                              =========       =========
+ Diluted ................................................     $    0.60       $    0.47
+                                                              =========       =========
+L-3 Holdings' weighted average common shares outstanding:
+ Basic ..................................................        37,385          33,271
+                                                              =========       =========
+ Diluted ................................................        39,013          34,855
+                                                              =========       =========
+</TABLE>
+
+            See notes to condensed consolidated financial statements.
+
+                                       2
+<PAGE>
+
+                        L-3 COMMUNICATIONS HOLDINGS, INC.
+                       AND L-3 COMMUNICATIONS CORPORATION
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                               SIX MONTHS ENDED JUNE 30,
+                                                            -------------------------------
+                                                                  2001             2000
+                                                            ---------------   -------------
+<S>                                                         <C>               <C>
+Sales ...................................................     $ 1,023,461       $ 838,028
+Costs and expenses ......................................         916,125         753,706
+                                                              -----------       ---------
+Operating income ........................................         107,336          84,322
+Interest and other income ...............................           1,454           2,557
+Interest expense ........................................          46,436          42,291
+Minority interest .......................................           1,585              --
+                                                              -----------       ---------
+Income before income taxes ..............................          60,769          44,588
+Provision for income taxes ..............................          23,275          17,200
+                                                              -----------       ---------
+Net income ..............................................     $    37,494       $  27,388
+                                                              ===========       =========
+L-3 Holdings' earnings per common share:
+ Basic ..................................................     $      1.05       $    0.83
+                                                              ===========       =========
+ Diluted ................................................     $      1.00       $    0.79
+                                                              ===========       =========
+L-3 Holdings' weighted average common shares outstanding:
+ Basic ..................................................          35,743          33,158
+                                                              ===========       =========
+ Diluted ................................................          37,395          34,681
+                                                              ===========       =========
+</TABLE>
+
+            See notes to condensed consolidated financial statements.
+
+                                       3
+<PAGE>
+
+                        L-3 COMMUNICATIONS HOLDINGS, INC.
+                       AND L-3 COMMUNICATIONS CORPORATION
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                         SIX MONTHS ENDED JUNE 30,
+                                                                        ----------------------------
+                                                                             2001           2000
+                                                                        -------------   ------------
+<S>                                                                     <C>             <C>
+OPERATING ACTIVITIES:
+Net income ..........................................................    $   37,494      $   27,388
+Depreciation and amortization .......................................        21,959          19,025
+Goodwill amortization ...............................................        20,677          15,152
+Amortization of deferred debt issue costs ...........................         3,642           2,485
+Deferred income taxes ...............................................        16,467          10,492
+Minority interest ...................................................         1,585              --
+Other noncash items .................................................         8,306           7,048
+Changes in operating assets and liabilities, net of amounts acquired:
+ Contracts in process ...............................................       (36,848)        (21,033)
+ Other current assets ...............................................        (2,584)         (1,279)
+ Other assets .......................................................        (5,293)            184
+ Accounts payable and accrued expenses ..............................       (18,661)          9,908
+ Customer advances ..................................................         5,982         (12,977)
+ Other current liabilities ..........................................       (25,899)        (10,700)
+ Pension and postretirement benefits ................................         3,864          (3,587)
+ Other liabilities ..................................................         2,534             334
+ All other operating activities, net ................................          (547)           (714)
+                                                                         ----------      ----------
+Net cash from operating activities ..................................        32,678          41,726
+                                                                         ----------      ----------
+INVESTING ACTIVITIES:
+Acquisition of businesses, net of cash acquired .....................      (211,019)       (515,461)
+Proceeds from sale of interest in subsidiary ........................        72,060              --
+Capital expenditures ................................................       (20,517)        (13,397)
+Disposition of property, plant and equipment ........................           247           2,531
+Other investing activities ..........................................        (5,001)         16,099
+                                                                         ----------      ----------
+Net cash used in investing activities ...............................      (164,230)       (510,228)
+                                                                         ----------      ----------
+FINANCING ACTIVITIES:
+Borrowings under revolving credit facilities ........................       235,200         627,000
+Repayment of borrowings under revolving credit facilities ...........      (425,200)       (156,000)
+Proceeds from sale of common stock, net .............................       353,783              --
+Proceeds from exercise of stock options .............................        10,044           3,581
+Debt issuance costs .................................................        (3,813)         (3,250)
+Other financing activities, net .....................................        (2,809)           (370)
+                                                                         ----------      ----------
+Net cash from financing activities ..................................       167,205         470,961
+                                                                         ----------      ----------
+Net increase in cash ................................................        35,653           2,459
+Cash and cash equivalents, beginning of the period ..................        32,680          42,788
+                                                                         ----------      ----------
+Cash and cash equivalents, end of the period ........................    $   68,333      $   45,247
+                                                                         ==========      ==========
+</TABLE>
+
+            See notes to condensed consolidated financial statements.
+
+                                       4
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+1. DESCRIPTION OF BUSINESS
+
+     L-3 Communications Holdings, Inc. derives all its operating income and
+cash flow from its wholly owned subsidiary L-3 Communications Corporation ("L-3
+Communications"). L-3 Communications Holdings, Inc. ("L-3 Holdings" and
+together with its subsidiaries, "L-3" or "the Company") is a merchant supplier
+of sophisticated secure communication systems and specialized communication
+products. The Company produces secure, high data rate communication systems,
+training and simulation systems, avionics and ocean products, telemetry,
+instrumentation and space products and microwave components. These systems and
+products are critical elements of virtually all major communication, command
+and control, intelligence gathering and space systems. The Company's systems
+and specialized products are used to connect a variety of airborne, space,
+ground and sea-based communication systems and are used in transmission,
+processing, recording, monitoring and dissemination functions of these
+communication systems. The Company's customers include the U.S. Department of
+Defense ("DoD"), certain U.S. Government intelligence agencies, major aerospace
+and defense contractors, foreign governments, commercial customers and certain
+other U.S. Government agencies. The Company has two reportable segments, Secure
+Communication Systems and Specialized Communication Products.
+
+     Secure Communication Systems.  This segment provides secure, high data
+rate communications systems for military and other U.S. Government
+reconnaissance and surveillance applications. The major secure communication
+programs and systems include:
+
+    o secure data links for airborne, satellite, ground and sea-based remote
+      platforms for real time information collection and dissemination to
+      users;
+
+    o strategic and tactical signal intelligence systems that detect, collect,
+      identify, analyze and disseminate information;
+
+    o secure telephone and network equipment and encryption management;
+
+    o communication software support services; and
+
+    o communication systems for surface and undersea vessels and manned space
+      flights.
+
+     The Secure Communication Systems segment includes the training and
+simulation business, which produces advanced simulation and training products,
+with high-fidelity representations of cockpits and operator stations for
+aircraft and vehicle system simulation. This segment also provides a full range
+of teaching, training, logistic and training device support services to
+domestic and international military customers, and custom ballistic targets for
+the DoD.
+
+     Specialized Communication Products.  This segment supplies products to
+military and commercial customers, and focuses on niche markets in which the
+Company believes it can achieve a market leadership position. This reportable
+segment includes three product categories:
+
+    o avionics and ocean products including aviation recorders, airborne
+      collision avoidance products, displays, antennas, acoustic undersea
+      warfare products and naval power distribution, conditioning, switching
+      and protection equipment;
+
+    o telemetry, instrumentation and space products including commercial
+      off-the-shelf, real-time data collection and transmission products and
+      components for missile, aircraft and space-based electronic systems; and
+
+    o microwave components including commercial off-the-shelf,
+      high-performance microwave components and frequency monitoring equipment.
+
+
+
+                                        5
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+2. BASIS OF PRESENTATION
+
+     The accompanying unaudited condensed consolidated financial statements
+comprise the unaudited condensed consolidated financial statements of L-3
+Holdings and L-3 Communications. L-3 Holdings' only asset is its investment in
+L-3 Communications. The only debt obligation of L-3 Holdings is the 5.25%
+Convertible Senior Subordinated Notes due 2009 (the "Convertible Notes"). L-3
+Holdings has also guaranteed the borrowings under the senior credit facilities
+of L-3 Communications. Because the Convertible Notes of L-3 Holdings have been
+jointly, severally, fully and unconditionally guaranteed by L-3 Communications
+and certain of its domestic subsidiaries, the Convertible Notes have been
+reported as debt of L-3 Communications in its unaudited condensed consolidated
+financial statements in accordance with the Securities and Exchange
+Commission's Staff Accounting Bulletin No. 54. In addition, all issuances of
+equity securities including grants of stock options and restricted stock by L-3
+Holdings to employees of L-3 Communications have also been reported in the
+unaudited condensed consolidated financial statements of L-3 Communications. As
+a result, the unaudited condensed consolidated financial positions, results of
+operations and cash flows of L-3 Holdings and L-3 Communications are
+substantially the same.
+
+     L-3 Holdings has no independent assets or operations other than through
+its wholly owned subsidiary L-3 Communications. L-3 Communications and all of
+the guarantor subsidiaries of L-3 Communications are guarantor subsidiaries of
+L-3 Holdings. All of the non-guarantor subsidiaries of L-3 Communications are
+indirect non-guarantor subsidiaries of L-3 Holdings. Financial information of
+the subsidiaries of L-3 Communications is presented in Note 11.
+
+     The accompanying unaudited condensed consolidated financial statements
+have been prepared in accordance with accounting principles generally accepted
+in the United States of America for interim financial information and with the
+instructions to Form 10-Q and Article 10 of Regulation S-X of the Securities
+and Exchange Commission; accordingly, they do not include all of the
+information and notes required by accounting principles generally accepted in
+the United States of America for a complete set of financial statements. In the
+opinion of management, all adjustments (consisting of normal recurring
+accruals) considered necessary for a fair presentation of the results for the
+interim periods presented have been included. The results of operations for the
+interim periods are not necessarily indicative of results for the full year.
+
+     The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America require
+management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of sales and
+costs and expenses during the reporting period. The most significant of these
+estimates and assumptions relate to contract estimates of sales and costs,
+estimated costs in excess of billings to complete contracts in process,
+estimates of pension and postretirement benefit obligations, recoverability of
+recorded amounts of fixed assets and goodwill, income taxes, litigation and
+environmental obligations. Actual results could differ from these estimates.
+
+     Certain reclassifications have been made to conform prior period amounts
+to the current period presentation.
+
+     For further information, these interim financial statements should be read
+in conjunction with the Consolidated Financial Statements of L-3 Holdings and
+L-3 Communications for the fiscal year ended December 31, 2000, included in
+their Annual Reports on Form 10-K for the fiscal year ended December 31, 2000.
+
+
+                                        6
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+3. ACQUISITIONS AND DIVESTITURES
+
+     On February 10, 2000, the Company acquired the assets of the Training
+Devices and Training Services ("TDTS") business of the Raytheon Company for
+$160,000 in cash plus expenses, subject to adjustment based on closing date net
+working capital, as defined. On April 28, 2000, the Company acquired the
+Traffic Alert and Collision Avoidance System ("TCAS") product line from
+Honeywell for a purchase price of $239,594 in cash, including expenses. On June
+30, 2000, the Company acquired all the outstanding stock of MPRI Inc. ("MPRI")
+for $35,686 in cash including expenses, plus additional consideration of $4,000
+in cash based on the financial performance of MPRI for the year ended June 30,
+2001 to be paid in the second half of 2001. On December 29, 2000, the Company
+acquired all of the outstanding common stock of Coleman Research Corporation
+("Coleman"), a subsidiary of Thermo Electron Corporation for $60,911 in cash
+including expenses, and additional consideration not to exceed $5,000 based on
+the financial performance of Coleman for the year ending December 31, 2001.
+
+     On May 4, 2001, the Company acquired all of the outstanding common stock
+of KDI Precision Products ("KDI") for $79,512 in cash plus expenses, reflecting
+a purchase price increase of $12,000 based on preliminary closing date net
+assets, as defined, of KDI which is subject to final adjustment. On May 16,
+2001, the Company acquired all of the outstanding common stock of EER Systems
+("EER") for $118,728 in cash plus expenses, reflecting a purchase price
+increase of $13,728 based on preliminary closing date net assets, as defined,
+of EER which is subject to final adjustment, and additional consideration up to
+$10,000 based on the financial performance of EER for the years ending December
+31, 2001 and 2002.
+
+     All of the acquisitions were financed with cash on hand or borrowings on
+bank credit facilities.
+
+     All of the Company's acquisitions have been accounted for as purchase
+business combinations and are included in the Company's results of operations
+from their respective effective dates. The assets and liabilities of $292,286
+and $33,135 recorded in connection with the purchase price allocations for the
+acquisitions of Coleman, KDI and EER are based upon preliminary estimates of
+fair values for contracts in process, estimated costs in excess of billings to
+complete contracts in process, inventories, and deferred taxes. Actual
+adjustments will be based on the final purchase prices and final appraisals and
+other analyses of fair values which are in process. The Company has valued
+acquired contracts in process at contract price, less the estimated costs to
+complete and an allowance for normal profit on the Company's effort to complete
+such contracts. The Company does not expect the differences between the
+preliminary and final purchase price allocations for the acquisitions to be
+material.
+
+     Had the acquisition of EER and the related financing transaction occurred
+on January 1, 2001, the unaudited pro forma sales, net income and diluted
+earnings per share for the six months ended June 30, 2001 would have been
+$1,072,800, $33,700 and $0.90. Had the acquisitions of TDTS, TCAS, Coleman,
+MPRI and EER and the related financing transactions occurred on January 1,
+2000, the unaudited pro forma sales, net income and diluted earnings per share
+for the six months ended June 30, 2000 would have been $1,053,300, $30,200, and
+$0.87. The pro forma results are based on various assumptions and are not
+necessarily indicative of the results of operations that would have occurred
+had the acquisitions and the related financing transactions occurred on January
+1, 2001 and January 1, 2000.
+
+     On May 31, 2001, the Company sold a 30% interest in Aviation
+Communications and Surveillance Systems LLC ("ACSS") which comprises the
+Company's TCAS business to Thales Avionics, a wholly owned subsidiary of Thales
+(formerly Thomson-CSF), for $72,060 of cash. L-3 will continue to consolidate
+the financial statements of ACSS.
+
+     Interest and other income for the six months ended June 30, 2001 includes
+an after-tax gain of $4,298 from the sale of a 30% interest in ACSS which was
+largely offset by a $3,912 after-tax write-down in the
+
+
+                                        7
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                 (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+carrying amount of an investment in common stock. Interest and other income for
+the six months ended June 30, 2000 includes an after-tax gain of $8,754 from
+the sale of the Company's interests in two businesses. These gains were largely
+offset by after-tax losses of $7,574 on the write-down in the carrying value of
+certain investments and intangible assets. The net proceeds from the sales are
+reported in "Other investing activities" on the Condensed Consolidated
+Statements of Cash Flows.
+
+     In March 2001, the Company settled certain items with a third party
+provider related to an existing services agreement which expires in April 2002.
+In connection with the settlement, L-3 received a net cash payment of $14,200.
+The payment represents a credit for fees being paid over the term of the
+services agreement and incremental costs incurred and to be incurred by the
+Company over the same period arising from performance deficiencies under the
+services agreement. These incremental costs include additional operating costs
+for material management, vendor replacement, rework, warranty, manufacturing
+and engineering support, and administrative activities. The credit is being
+amortized as a reduction to costs and expenses over the period in which the
+services are provided.
+
+4. CONTRACTS IN PROCESS
+
+     The components of contracts in process are presented in the table below.
+
+<TABLE>
+<CAPTION>
+                                                        JUNE 30, 2001     DECEMBER 31, 2000
+                                                       ---------------   ------------------
+<S>                                                    <C>               <C>
+   Billed receivables ..............................      $ 275,406          $ 310,185
+                                                          ---------          ---------
+   Unbilled contract receivables, gross ............        312,467            277,026
+   Less: unliquidated progress payments ............        (97,873)           (69,529)
+                                                          ---------          ---------
+    Unbilled contract receivables, net .............        214,594            207,497
+                                                          ---------          ---------
+   Inventoried contract costs, gross ...............        128,604             83,808
+   Less: unliquidated progress payments ............        (18,953)            (5,685)
+                                                          ---------          ---------
+    Inventoried contract costs, net ................        109,651             78,123
+   Inventories at lower of cost or market ..........        150,154            104,328
+                                                          ---------          ---------
+    Total contracts in process .....................      $ 749,805          $ 700,133
+                                                          =========          =========
+</TABLE>
+
+5. DEBT
+
+     The components of long-term debt are presented in the table below.
+
+<TABLE>
+<CAPTION>
+                                                         JUNE 30, 2001     DECEMBER 31, 2000
+                                                        ---------------   ------------------
+<S>                                                     <C>                <C>
+   Borrowings under Senior Credit Facilities ..........     $     --        $  190,000
+   103/8% Senior Subordinated Notes due 2007 ..........      225,000           225,000
+   81/2% Senior Subordinated Notes due 2008 ...........      180,000           180,000
+   8% Senior Subordinated Notes due 2008 ..............      200,000           200,000
+   51/4% Convertible Senior Subordinated Notes due
+     2009 .............................................      300,000           300,000
+                                                            --------        ----------
+    Total long-term debt ..............................     $905,000        $1,095,000
+                                                            ========        ==========
+</TABLE>
+
+     Available borrowings under the Company's senior credit facilities at June
+30, 2001 were $503,664, after reductions for outstanding letters of credit of
+$96,336. There were no outstanding borrowings under the Senior Credit
+Facilities at June 30, 2001.
+
+     During the second quarter of 2001, L-3 Communications restructured its
+senior credit facilities. The restructured senior credit facilities are
+comprised of a $400,000 five year revolving credit facility maturing
+
+
+                                        8
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                        L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+on May 15, 2006 and a $200,000 364-day revolving facility maturing on May 15,
+2002 under which at the maturity date L-3 Communications may, (i) at its
+request and subject to approval of the lenders, be extended, in whole or in
+part, for an additional 364 day period, or (ii) at its election, convert the
+outstanding principal amount thereunder into a term loan which would be
+repayable in a single payment two years from the maturity date. Additionally,
+the senior credit facilities provides L-3 Communications the ability to
+increase, on an uncommitted basis, the size of either the five year revolving
+credit facility or the 364-day revolving credit facility up to an additional
+$150,000 in the aggregate.
+
+
+     On April 5, 2001, pursuant to a registration rights agreement that L-3
+Holdings entered into with the initial purchaser of the Convertible Notes, L-3
+Holdings filed a registration statement with the SEC to cover resales by
+holders of the Convertible Notes and the Guarantees and the 3,680,982 shares of
+L-3 Holdings common stock issuable upon conversion of the Convertible Notes.
+This registration statement became effective on April 12, 2001.
+
+
+6. COMPREHENSIVE INCOME
+
+
+     Comprehensive income for the six and three months ended June 30, 2001 and
+2000 is presented in the tables below.
+
+<TABLE>
+<CAPTION>
+                                                                SIX MONTHS ENDED
+                                                                    JUNE 30,
+                                                             -----------------------
+                                                                2001         2000
+                                                             ----------   ----------
+<S>                                                          <C>          <C>
+   Net income ............................................    $37,494       $27,388
+   Other comprehensive income (loss), net of tax:
+     Foreign currency translation adjustments ............       (540)         (714)
+    Unrealized gains (losses) on securities:
+     Unrealized losses arising during the period .........       (180)       (1,059)
+     Reclassification adjustment for losses included in
+       net income ........................................      3,632            --
+     Unrealized gains (losses) on hedging instruments:
+       Cumulative adjustment at January 1, 2001 ..........        (41)           --
+       Unrealized gains arising during the period ........        189            --
+                                                              -------       -------
+   Comprehensive income ..................................    $40,554       $25,615
+                                                              =======       =======
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                               THREE MONTHS ENDED
+                                                                    JUNE 30,
+                                                             -----------------------
+                                                                2001         2000
+                                                             ----------   ----------
+<S>                                                          <C>          <C>
+   Net income ............................................    $23,336       $16,459
+   Other comprehensive income (loss), net of tax:
+     Foreign currency translation adjustments ............       (242)         (116)
+    Unrealized gains (losses) on securities:
+     Unrealized losses arising during the period .........        (66)       (2,084)
+     Reclasssification adjustment for losses included
+       in net income .....................................      3,743            --
+     Unrealized gains on hedging instruments:
+       Unrealized gains arising during the period ........        213            --
+                                                              -------       -------
+   Comprehensive income ..................................    $26,984       $14,259
+                                                              =======       =======
+</TABLE>
+
+
+
+                                        9
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+     Accumulated other comprehensive balances as of June 30, 2001 and December
+31, 2000 are presented in the table below.
+
+<TABLE>
+<CAPTION>
+                                      FOREIGN                        UNREALIZED       MINIMUM      ACCUMULATED
+                                      CURRENCY      UNREALIZED     GAINS (LOSSES)     PENSION         OTHER
+                                    TRANSLATION   GAINS (LOSSES)     ON HEDGING      LIABILITY    COMPREHENSIVE
+                                    ADJUSTMENTS    ON SECURITIES     INSTRUMENTS    ADJUSTMENTS   INCOME (LOSS)
+                                   ------------- ---------------- ---------------- ------------- --------------
+<S>                                <C>           <C>              <C>              <C>           <C>
+    JUNE 30, 2001
+    Balance January 1, 2001 ......    $(2,584)       $(3,698)           $ --          $(890)        $(7,172)
+    Period change ................       (540)         3,452             148             --           3,060
+                                      -------        -------            ----          -----         -------
+    Balance June 30, 2001 ........    $(3,124)       $  (246)           $148          $(890)        $(4,112)
+                                      =======        =======            ====          =====         =======
+    DECEMBER 31, 2000
+    Balance January 1, 2000 ......    $(1,362)       $  (970)           $ --          $ (71)        $(2,403)
+    Period change ................     (1,222)        (2,728)             --           (819)         (4,769)
+                                      -------        -------            ----          -----         -------
+    Balance December 31, 2000.....    $(2,584)       $(3,698)           $ --          $(890)        $(7,172)
+                                      =======        =======            ====          =====         =======
+</TABLE>
+
+7. L-3 HOLDINGS EARNINGS PER SHARE
+
+     A reconciliation of basic and diluted earnings per share ("EPS") is
+presented in the table below.
+
+<TABLE>
+<CAPTION>
+                                                                 SIX MONTHS ENDED           THREE MONTHS ENDED
+                                                                     JUNE 30,                    JUNE 30,
+                                                            --------------------------  --------------------------
+                                                                2001          2000          2001          2000
+                                                            ------------  ------------  ------------  ------------
+<S>                                                         <C>           <C>           <C>           <C>
+   Basic:
+     Net income ..........................................     $37,494       $27,388       $23,336       $16,459
+     Weighted average common shares outstanding ..........      35,743        33,158        37,385        33,271
+                                                               -------       -------       -------       -------
+     Basic earnings per share ............................     $  1.05       $  0.83       $  0.62       $  0.49
+                                                               =======       =======       =======       =======
+   Diluted:
+     Net income ..........................................     $37,494       $27,388       $23,336       $16,459
+                                                               -------       -------       -------       -------
+     Common and potential common shares:
+      Weighted average common shares outstanding .........      35,743        33,158        37,385        33,271
+      Assumed exercise of stock options ..................       3,817         4,018         3,735         4,076
+      Assumed purchase of common shares for
+        treasury .........................................      (2,165)       (2,495)       (2,107)       (2,492)
+                                                               -------       -------       -------       -------
+     Common and potential common shares ..................      37,395        34,681        39,013        34,855
+                                                               =======       =======       =======       =======
+     Diluted earnings per share ..........................     $  1.00       $  0.79       $  0.60       $  0.47
+                                                               =======       =======       =======       =======
+</TABLE>
+
+     The 3,680,982 shares of L-3 Holdings common stock that are issuable upon
+conversion of the Convertible Notes were not included in the computation of
+diluted EPS for the six and three month periods ended June 30, 2001 because the
+effect of the assumed conversion would have been anti-dilutive.
+
+     On May 2, 2001, L-3 Holdings sold 6,900,000 shares of its common stock in
+a public offering for $80.00 per share, including shares related to an
+over-allotment option that was granted to the underwriters. Of this amount, L-3
+Holdings sold 4,575,000 shares and other selling stockholders including
+affiliates of Lehman Brothers Inc. sold 2,325,000 secondary shares. Upon
+closing, L-3 Holdings received net proceeds after expenses of $353,783. The net
+proceeds were used to repay borrowings outstanding under the Company's senior
+credit facilities, pay for the KDI and EER acquisitions and to increase cash
+and cash equivalents. Following the offering, affiliates of Lehman Brothers
+Inc. owned approximately 8.3% of L-3 Holdings common stock.
+
+8. CONTINGENCIES
+
+     The Company is engaged in providing products and services under contracts
+with the U.S. Government and to a lesser degree, under foreign government
+contracts, some of which are funded by the
+
+
+                                       10
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+U.S. Government. All such contracts are subject to extensive legal and
+regulatory requirements, and, from time to time, agencies of the U.S.
+Government investigate whether such contracts were and are being conducted in
+accordance with these requirements. Under U.S. Government procurement
+regulations, an indictment of the Company by a federal grand jury could result
+in the Company being suspended for a period of time from eligibility for awards
+of new government contracts. A conviction could result in debarment from
+contracting with the federal government for a specified term. Additionally, in
+the event that U.S. Government expenditures for products and services of the
+type manufactured and provided by the Company are reduced, and not offset by
+greater commercial sales or other new programs or products, or acquisitions,
+there may be a reduction in the volume of contracts or subcontracts awarded to
+the Company.
+
+     Management continually assesses the Company's obligations with respect to
+applicable environmental protection laws. While it is difficult to determine
+the timing and ultimate cost to be incurred by the Company in order to comply
+with these laws, based upon available internal and external assessments, with
+respect to those environmental loss contingencies of which management is aware,
+the Company believes that even without considering potential insurance
+recoveries, if any, there are no environmental loss contingencies that,
+individually or in the aggregate, would be material to the Company's results of
+operations. The Company accrues for these contingencies when it is probable
+that a liability has been incurred and the amount of the loss can be reasonably
+estimated.
+
+     The Company has been periodically subject to litigation, claims or
+assessments and various contingent liabilities incidental to its business. With
+respect to those investigative actions, items of litigation, claims or
+assessments of which they are aware, management of the Company is of the
+opinion that the probability is remote that, after taking into account certain
+provisions that have been made with respect to these matters, the ultimate
+resolution of any such investigative actions, items of litigation, claims or
+assessments will have a material adverse effect on the financial position or
+results of operations of the Company.
+
+
+9. SEGMENT INFORMATION
+
+     The Company has two reportable segments, Secure Communication Systems and
+Specialized Communication Products which are described in Note 1. The Company
+evaluates the performance of its operating divisions and reportable segments
+based on sales and operating income. The table below presents sales, operating
+income and assets by reportable segment.
+
+<TABLE>
+<CAPTION>
+                                                THREE MONTHS ENDED         SIX MONTHS ENDED
+                                                     JUNE 30,                  JUNE 30,
+                                              ----------------------- --------------------------
+                                                  2001        2000         2001          2000
+                                              ----------- ----------- -------------- -----------
+<S>                                           <C>         <C>         <C>            <C>
+SALES:
+ Secure Communication Systems ...............  $284,256    $203,044     $  521,121    $365,220
+ Specialized Communication Products .........   278,972     260,949        505,051     476,633
+ Elimination of intersegment sales ..........    (1,668)     (3,017)        (2,711)     (3,825)
+                                               --------    --------     ----------    --------
+   Consolidated total .......................  $561,560    $460,976     $1,023,461    $838,028
+                                               ========    ========     ==========    ========
+OPERATING INCOME:
+ Secure Communication Systems ...............  $ 30,163    $ 19,569     $   51,258    $ 38,695
+ Specialized Communication Products .........    30,304      30,084         56,078      45,627
+                                               --------    --------     ----------    --------
+   Consolidated total .......................  $ 60,467    $ 49,653     $  107,336    $ 84,322
+                                               ========    ========     ==========    ========
+</TABLE>
+
+                                       11
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+<TABLE>
+<CAPTION>
+                                                 JUNE 30, 2001     DECEMBER 31, 2000
+                                                ---------------   ------------------
+<S>                                             <C>               <C>
+ASSETS:
+ Secure Communication Systems ...............      $  911,389         $  792,949
+ Specialized Communication Products .........       1,564,649          1,480,790
+ Corporate ..................................         252,048            189,805
+                                                   ----------         ----------
+   Consolidated total .......................      $2,728,086         $2,463,544
+                                                   ==========         ==========
+</TABLE>
+
+10. NEW ACCOUNTING PRONOUNCEMENTS
+
+
+     In September 2000, the Financial Accounting Standards Board ("FASB")
+issued Statement of Financial Accounting Standards ("SFAS") No. 140, Accounting
+for Transfers and Servicing of Financial Assets and Extinguishments of
+Liabilities, which replaces SFAS No. 125 Accounting for Transfers and Servicing
+of Financial Assets and Extinguishments of Liabilities. SFAS No. 140 revises
+the standards for accounting for securitizations and other transfers of
+financial assets and collateral and requires certain disclosures, but it
+carries over most of SFAS No. 125's provisions without reconsideration. SFAS
+No. 140 is effective for transfers and servicing of financial assets and
+extinguishments of liabilities occurring after March 31, 2001. The adoption of
+SFAS No. 140 is not expected to have a material impact on the Company's
+consolidated results of operations or financial position.
+
+
+     In July 2001, the FASB issued SFAS No. 141, Business Combinations, which
+supercedes Accounting Principles Board Opinion ("APB") No. 16, Business
+Combinations. SFAS No. 141 requires that the purchase method of accounting be
+used for all business combinations initiated after June 30, 2001 and
+establishes specific criteria for the recognition of intangible assets
+separately from goodwill. In July 2001, the FASB also issued SFAS No. 142,
+Goodwill and Other Intangible Assets, which supercedes APB No. 17, Intangible
+Assets. SFAS No. 142 revises the standards for accounting for goodwill and
+intangible assets. SFAS No. 142 requires that goodwill and indefinite lived
+intangible assets no longer be amortized, but be tested for impairment at least
+annually. SFAS No. 142 also requires that the amortization period of intangible
+assets with finite lives be no longer limited to forty years. The provisions of
+SFAS No. 142 will be effective for fiscal years beginning after December 15,
+2001. The Company has not yet determined the impact of SFAS No. 141 and SFAS
+No. 142 on its consolidated results of operations or financial position.
+
+
+11. UNAUDITED FINANCIAL INFORMATION OF L-3 COMMUNICATIONS AND ITS SUBSIDIARIES
+
+
+     L-3 Communications is a wholly owned subsidiary of L-3 Holdings. The debt
+of L-3 Communications, including the Senior Subordinated Notes and borrowings
+under amounts drawn against the Senior Credit Facilities are guaranteed, on a
+joint and several, full and unconditional basis, by certain of its wholly owned
+domestic subsidiaries (the "Guarantor Subsidiaries"). The foreign subsidiaries
+and certain domestic subsidiaries of L-3 Communications (the "Non-Guarantor
+Subsidiaries") do not guarantee the debt of L-3 Communications. None of the
+debt of L-3 Communications has been issued by its subsidiaries. There are no
+restrictions on the payment of dividends from the Guarantor Subsidiaries to L-3
+Communications.
+
+
+     The following unaudited condensed combining financial information present
+the results of operations, financial position and cash flows of (i) L-3
+Communications excluding its consolidated subsidiaries (the "Parent") (ii) the
+Guarantor Subsidiaries, (iii) the Non-Guarantor Subsidiaries and (iv) the
+eliminations to arrive at the information for L-3 Communications on a
+consolidated basis.
+
+
+                                       12
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                            GUARANTOR    NON-GUARANTOR                     CONSOLIDATED
+                                               PARENT     SUBSIDIARIES    SUBSIDIARIES   ELIMINATIONS   L-3 COMMUNICATIONS
+                                           ------------- -------------- --------------- -------------- -------------------
+<S>                                        <C>           <C>            <C>             <C>            <C>
+CONDENSED COMBINING BALANCE SHEETS:
+----------------------------------
+AS OF JUNE 30, 2001
+-------------------
+Total current assets .....................  $  528,362     $  208,890      $ 172,861      $      --         $  910,113
+Other long-term assets ...................     804,458        427,276        586,239             --          1,817,973
+Investment in and amounts due from
+  (to) consolidated subsidiaries .........   1,168,487       (261,770)       (46,794)      (859,923)                --
+                                            ----------     ----------      ---------      ---------         ----------
+   Total assets ..........................  $2,501,307     $  374,396      $ 712,306      $(859,923)        $2,728,086
+                                            ==========     ==========      =========      =========         ==========
+Total current liabilities ................  $  300,647     $   55,491      $  97,794      $      --         $  453,932
+Other long-term liabilities ..............      94,687         69,978          3,516             --            168,181
+Long-term debt ...........................     905,000             --             --             --            905,000
+Minority interest ........................      69,555             --             --             --             69,555
+Shareholders' equity .....................   1,131,418        248,927        610,996       (859,923)         1,131,418
+                                            ----------     ----------      ---------      ---------         ----------
+   Total liabilities and shareholders'
+    equity ...............................  $2,501,307     $  374,396      $ 712,306      $(859,923)        $2,728,086
+                                            ==========     ==========      =========      =========         ==========
+AS OF DECEMBER 31, 2000
+-----------------------
+Total current assets .....................  $  530,672     $  229,531      $  69,367      $      --         $  829,570
+Other long-term assets ...................   1,110,082        433,763         90,129             --          1,633,974
+Investment in and amounts due
+from (to) consolidated subsidiaries ......     613,153         55,805        (27,022)      (641,936)                --
+                                            ----------     ----------      ---------      ---------         ----------
+   Total assets ..........................  $2,253,907     $  719,099      $ 132,474      $(641,936)        $2,463,544
+                                            ==========     ==========      =========      =========         ==========
+Total current liabilities ................  $  365,123     $   71,948      $  31,598      $      --         $  468,669
+Other long-term liabilities ..............     101,215        103,173          2,918             --            207,306
+Long-term debt ...........................   1,095,000             --             --             --          1,095,000
+Shareholders' equity .....................     692,569        543,978         97,958       (641,936)           692,569
+                                            ----------     ----------      ---------      ---------         ----------
+   Total liabilities and shareholders'
+    equity ...............................  $2,253,907     $  719,099      $ 132,474      $(641,936)        $2,463,544
+                                            ==========     ==========      =========      =========         ==========
+CONDENSED COMBINING STATEMENTS OF
+---------------------------------
+OPERATIONS:
+----------
+FOR THE SIX MONTHS ENDED JUNE 30, 2001
+--------------------------------------
+Sales ....................................  $  597,558     $  165,947      $ 262,195      $  (2,239)        $1,023,461
+                                            ----------     ----------      ---------      ---------         ----------
+Operating income (loss) ..................      88,913         (7,729)        26,152             --            107,336
+Interest and other income (expense) ......       7,997           (306)        (6,237)            --              1,454
+Interest expense .........................      46,415             17              4             --             46,436
+Minority interest ........................       1,585             --             --             --              1,585
+Provision for income taxes ...............      18,733         (3,084)         7,626             --             23,275
+Equity in net income of
+ consolidated subsidiaries ...............       7,317             --             --         (7,317)                --
+                                            ----------     ----------      ---------      ---------         ----------
+Net income (loss) ........................  $   37,494     $   (4,968)     $  12,285      $  (7,317)        $   37,494
+                                            ==========     ==========      =========      =========         ==========
+</TABLE>
+
+                                       13
+<PAGE>
+
+                      L-3 COMMUNICATIONS HOLDINGS, INC. AND
+                         L-3 COMMUNICATIONS CORPORATION
+
+        NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS--
+                                    CONTINUED
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                             GUARANTOR    NON-GUARANTOR                     CONSOLIDATED
+                                                PARENT     SUBSIDIARIES    SUBSIDIARIES   ELIMINATIONS   L-3 COMMUNICATIONS
+                                            ------------- -------------- --------------- -------------- -------------------
+<S>                                         <C>           <C>            <C>             <C>            <C>
+FOR THE SIX MONTHS ENDED JUNE 30, 2000
+--------------------------------------
+Sales .....................................  $  564,263     $ 197,368      $   78,812      $  (2,415)        $ 838,028
+                                             ----------     ---------      ----------      ---------         ---------
+Operating income ..........................      74,307         7,043           2,972             --            84,322
+Interest and other income .................       2,289           178              90             --             2,557
+Interest expense ..........................      42,158           126               7             --            42,291
+Provision for income taxes ................      13,396         2,789           1,015             --            17,200
+Equity in net income of
+ consolidated subsidiaries ................       6,346            --              --         (6,346)               --
+                                             ----------     ---------      ----------      ---------         ---------
+Net income ................................  $   27,388     $   4,306      $    2,040      $  (6,346)        $  27,388
+                                             ==========     =========      ==========      =========         =========
+CONDENSED COMBINING STATEMENTS OF
+---------------------------------
+CASH FLOWS:
+----------
+FOR THE SIX MONTHS ENDED JUNE 30, 2001
+--------------------------------------
+Net cash from (used in) operating
+ activities ...............................  $   20,806     $ (23,583)     $   35,455      $      --         $  32,678
+                                             ----------     ---------      ----------      ---------         ---------
+Net cash used in investing activities .....    (151,123)       (5,232)       (216,621)       208,746          (164,230)
+                                             ----------     ---------      ----------      ---------         ---------
+Net cash from financing activities ........     160,929        26,974         188,048       (208,746)          167,205
+                                             ----------     ---------      ----------      ---------          ---------
+Net increase (decrease) in cash ...........      30,612        (1,841)          6,882             --            35,653
+Cash and cash equivalents, beginning
+ of period ................................      18,708         4,911           9,061             --            32,680
+                                             ----------     ---------      ----------      ---------         ---------
+Cash and cash equivalents, end of
+ period ...................................  $   49,320     $   3,070      $   15,943      $      --         $  68,333
+                                             ==========     =========      ==========      =========         =========
+FOR THE SIX MONTHS ENDED JUNE 30, 2000
+--------------------------------------
+Net cash from (used in) operating
+ activities ...............................  $   43,552     $  (5,194)     $    3,368      $      --         $  41,726
+                                             ----------     ---------      ----------      ---------         ---------
+Net cash used in investing activities .....    (505,239)       (2,757)           (503)        (1,729)         (510,228)
+                                             ----------     ---------      ----------      ---------         ---------
+Net cash from (used in) financing
+ activities ...............................     464,235         9,258          (4,261)         1,729           470,961
+                                             ----------     ---------      ----------      ---------         ---------
+Net increase (decrease) in cash ...........       2,548         1,307          (1,396)            --             2,459
+Cash and cash equivalents, beginning
+ of period ................................      34,037         5,164           3,587             --            42,788
+                                             ----------     ---------      ----------      ---------         ---------
+Cash and cash equivalents, end of
+ period ...................................  $   36,585     $   6,471      $    2,191      $      --         $  45,247
+                                             ==========     =========      ==========      =========         =========
+</TABLE>
+
+                                       14
+<PAGE>
+
+ITEM 2.
+
+                     MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                  RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+GENERAL
+
+     We are a leading merchant supplier of sophisticated secure communication
+systems and specialized communication products. These systems and products are
+critical elements of virtually all major communication, command and control,
+intelligence gathering and space systems. Our customers include the U.S.
+Department of Defense ("DoD"), certain U.S. Government agencies, major
+aerospace and defense contractors, foreign governments and commercial
+customers. We have two reportable segments: Secure Communication Systems and
+Specialized Communication Products.
+
+     Our Secure Communication Systems segment provides secure, high data rate
+communications systems for military and other U.S. Government reconnaissance
+and surveillance applications. The Secure Communication Systems segment also
+produces advanced simulation and training products, and provides communication
+software support services and a full range of teaching, training, logistic and
+training device support services to domestic and international military
+customers and custom ballistic targets for the DoD. Our Specialized
+Communication Products segment includes three product categories: avionics and
+ocean products, telemetry, instrumentation and space products and microwave
+components.
+
+     All of our domestic government contracts and subcontracts are subject to
+audit and various cost controls, and include standard provisions for
+termination for the convenience of the U.S. Government. Multiyear U.S.
+Government contracts and related orders are subject to cancellation if funds
+for contract performance for any subsequent year become unavailable. Foreign
+government contracts generally include comparable provisions relating to
+termination for the convenience of the relevant foreign government.
+
+     The U.S. defense industry has also undergone dramatic consolidation
+resulting in the emergence of four dominant prime system contractors: The
+Boeing Company, Lockheed Martin Corporation, Northrop Grumman Corporation and
+Raytheon Company. We believe that one outcome of this consolidation is that the
+DoD wants to ensure that vertical integration does not further diminish the
+fragmented, yet critical DoD vendor base. Additionally, it has become
+economically unfeasible for the prime contractors to design, develop or
+manufacture numerous essential products, components and systems for their own
+use. This situation creates opportunities for merchant suppliers such as L-3.
+As the prime contractors continue to evaluate their core competencies and
+competitive position, focusing their resources on larger programs and
+platforms, we expect the prime contractors to continue to exit non-strategic
+business areas and procure these needed elements on more favorable terms from
+independent, commercially-oriented merchant suppliers. Recent examples of this
+trend include divestitures of certain non-core defense-related businesses by
+Lockheed Martin and Raytheon.
+
+RESULTS OF OPERATIONS
+
+     The following information should be read in conjunction with the Unaudited
+Condensed Consolidated Financial Statements as of June 30, 2001. Our results of
+operations for the periods presented are impacted significantly by our
+acquisitions (see Note 3 to the Condensed Consolidated Financial Statements).
+The tables below provide our selected statement of operations data for the
+three-month period ended June 30, 2001 (which we refer to as the 2001 Second
+Quarter) and the three-month period ended June 30, 2000 (which we refer to as
+the 2000 Second Quarter) and for the six-month period ended June 30, 2001
+(which we refer to as the 2001 First Half) and the six-month period ended June
+30, 2000 (which we refer to as the 2000 First Half). Prior period reported
+segment information has been reclassified to conform with the 2001
+presentation.
+
+
+                                       15
+<PAGE>
+
+THREE MONTHS ENDED JUNE 30, 2001 COMPARED WITH THREE MONTHS ENDED JUNE 30, 2000
+
+<TABLE>
+<CAPTION>
+                                                                        THREE MONTHS ENDED JUNE
+                                                                                  30,
+                                                                       -------------------------
+                                                                           2001          2000
+                                                                       -----------   -----------
+                                                                             (in millions)
+<S>                                                                    <C>           <C>
+Sales(1):
+ Secure Communication Systems ......................................      $284.1        $200.4
+ Specialized Communication Products ................................       277.5         260.6
+                                                                          ------        ------
+   Total ...........................................................      $561.6        $461.0
+                                                                          ======        ======
+Operating income:
+ Secure Communication Systems ......................................      $ 30.2        $ 19.6
+ Specialized Communication Products ................................        30.3          30.1
+                                                                          ------        ------
+   Total ...........................................................      $ 60.5        $ 49.7
+                                                                          ======        ======
+Depreciation and amortization expenses included in operating income:
+ Secure Communication Systems ......................................      $  8.7        $  6.2
+ Specialized Communication Products ................................        13.6          12.2
+                                                                          ------        ------
+   Total ...........................................................      $ 22.3        $ 18.4
+                                                                          ======        ======
+EBITDA(2)
+ Secure Communication Systems ......................................      $ 38.9        $ 25.8
+ Specialized Communication Products ................................        43.9          42.3
+                                                                          ------        ------
+   Total ...........................................................      $ 82.8        $ 68.1
+                                                                          ======        ======
+</TABLE>
+
+----------
+(1)   Sales are after intersegment eliminations. See Note 9 to the Unaudited
+      Condensed Consolidated Financial Statements.
+
+(2)   EBITDA is defined as operating income plus depreciation expense and
+      amortization expense (excluding the amortization of debt issuance costs).
+      EBITDA is not a substitute for operating income, net income or cash flows
+      from operating activities as determined in accordance with accounting
+      principles generally accepted in the United States of America as a
+      measure of profitability or liquidity. EBITDA is presented as additional
+      information because the Company believes it to be a useful indicator of
+      the Company's ability to meet debt service and capital expenditure
+      requirements. EBITDA as defined by the Company may differ from similarly
+      named measures used by other entities.
+
+     Sales increased $100.6 million to $561.6 million in the 2001 Second
+Quarter from $461.0 million in the 2000 Second Quarter. Sales grew $83.7
+million in our Secure Communication Systems segment and $16.9 million in our
+Specialized Communication Products segment. Operating income increased $10.8
+million to $60.5 million in the 2001 Second Quarter. Operating income as a
+percentage of sales ("operating margin") remained unchanged at 10.8%.
+Depreciation and amortization expenses increased $3.9 million to $22.3 million
+in the 2001 Second Quarter, due to increased goodwill amortization associated
+with our acquisitions and additional depreciation related to our capital
+expenditures and acquired businesses. EBITDA for the 2001 Second Quarter
+increased $14.7 million to $82.8 million. EBITDA as a percentage of sales
+("EBITDA margin") also remained relatively unchanged at 14.7% in the 2001
+Second Quarter. Basic earnings per common share ("EPS") grew 26.5% to $0.62 and
+diluted EPS grew 27.7% to $0.60 in the 2001 Second Quarter. The increases in
+basic and diluted weighted-average common shares outstanding were principally
+related to our sale of 4.6 million shares of our common stock, which was
+completed on May 2, 2001.
+
+     Interest expense decreased $2.7 million to $22.0 million in the 2001
+Second Quarter because of the lower average outstanding debt during the 2001
+Second Quarter.
+
+     Included in interest and other income for the 2001 Second Quarter is a net
+pre-tax gain of $0.6 million ($0.01 per diluted share), consisting of an
+after-tax gain of $4.3 million from the sale of a 30% interest in ACSS to
+Thales Avionics and an after-tax charge of $3.9 million on the write-down in
+the carrying amount of an investment in common stock. Interest and other income
+for the 2000 Second Quarter includes a net pre-tax gain of $1.3 million ($0.02
+per diluted share), consisting of an after-tax gain of $2.0 million from the
+sale of our interest in a business and an after-tax charge of $1.2 million on
+the write-down in the carrying value of certain investments and intangible
+assets. Excluding these net gains from both the 2001 Second Quarter and 2000
+Second Quarter, diluted EPS increased 31.1% to $0.59 in the 2001 Second Quarter
+from $0.45 in the 2000 Second Quarter.
+
+
+                                       16
+<PAGE>
+
+     The income tax provision for the 2001 Second Quarter is based on our
+estimated effective income tax rate for 2001 of 38.3%, which is the same as the
+effective tax rate of 38.3% for the 2000 Second Quarter.
+
+
+     Sales within our Secure Communication Systems segment increased $83.7
+million or 41.8% to $284.1 million in the 2001 Second Quarter compared with the
+2000 Second Quarter. Operating income increased $10.6 million to $30.2 million.
+Operating margin increased to 10.6% from 9.8%. We attribute the increase in
+sales principally to the Coleman Research, MPRI and EER acquired businesses and
+growth in sales in our training and simulation businesses, secure data links
+and wireless products. These increases in sales were partially offset by an
+expected decline in shipments of secure telephone equipment ("STE"). We plan to
+release our next STE product incorporating certain software enhancements in the
+second half of 2001, after which shipments of STE are expected to increase as
+compared with the prior year period. The increase in operating margin was
+principally attributable to improving margins from the training and simulation
+businesses and the Coleman Research acquired business, partially offset by
+increased expenditures associated with our Prime Wave business. EBITDA
+increased $13.1 million to $38.9 million in the 2001 Second Quarter and EBITDA
+margin increased to 13.7% from 12.9%.
+
+
+     Sales within our Specialized Communication Products segment increased
+$16.9 million or 6.5% to $277.5 million in the 2001 Second Quarter compared
+with the 2000 Second Quarter. Operating income increased $0.2 million and
+operating margin declined to 10.9% from 11.6%. The increase in sales was
+principally attributable to volume increases on aviation products and microwave
+components and to the KDI acquired business. These increases in sales were
+partially offset by decreases in sales of telemetry and space products and
+lower shipments of naval power systems. Sales of our telemetry and space
+products declined due to continued softness in the space and broadband
+commercial communications market. We expect sales of our telemetry and space
+products for 2001 to remain essentially unchanged as compared to 2000. The
+decline in operating margin was principally attributable to lower sales volume
+on telemetry and space products and ocean products partially offset by higher
+margins for aviation products and microwave components attributable to
+increased sales volume. EBITDA increased $1.6 million to $43.9 million and
+EBITDA margin declined to 15.8% from 16.2%.
+
+
+     In March 2001, we settled certain items with a third party provider
+related to an existing services agreement which expires in April 2002. In
+connection with the settlement, we received a net cash payment of $14.2
+million. The payment represents a credit for fees being paid over the term of
+the services agreement and incremental costs incurred and to be incurred by us
+over the same period arising from performance deficiencies under the services
+agreement. These incremental costs include additional operating costs for
+material management, vendor replacement, rework, warranty, manufacturing and
+engineering support, and administrative activities. The credit is being
+amortized as a reduction to costs and expenses over the period in which
+services are being provided.
+
+
+                                       17
+<PAGE>
+
+SIX MONTHS ENDED JUNE 30, 2001 COMPARED WITH SIX MONTHS ENDED JUNE 30, 2000
+
+<TABLE>
+<CAPTION>
+                                                                       SIX MONTHS ENDED JUNE 30,
+                                                                       --------------------------
+                                                                           2001           2000
+                                                                       ------------   -----------
+                                                                             (in millions)
+<S>                                                                    <C>            <C>
+Sales(1):
+ Secure Communication Systems ......................................     $  520.9        $362.4
+ Specialized Communication Products ................................        502.6         475.6
+                                                                         --------        ------
+  Total ............................................................     $1,023.5        $838.0
+                                                                         ========        ======
+Operating income:
+ Secure Communication Systems ......................................     $   51.2        $ 38.7
+ Specialized Communication Products ................................         56.1          45.6
+                                                                         --------        ------
+  Total ............................................................     $  107.3        $ 84.3
+                                                                         ========        ======
+Depreciation and amortization expenses included in operating income:
+ Secure Communication Systems ......................................     $   16.4        $ 11.8
+ Specialized Communication Products ................................         26.2          22.4
+                                                                         --------        ------
+  Total ............................................................     $   42.6        $ 34.2
+                                                                         ========        ======
+EBITDA(2)
+ Secure Communication Systems ......................................     $   67.6        $ 50.5
+ Specialized Communications Products ...............................         82.3          68.0
+                                                                         --------        ------
+  Total ............................................................     $  149.9        $118.5
+                                                                         ========        ======
+</TABLE>
+
+----------
+(1)   Sales are after intersegment eliminations. See Note 9 to the Unaudited
+      Condensed Consolidated Financial Statements.
+
+(2)   EBITDA is defined as operating income plus depreciation expense and
+      amortization expense (excluding the amortization of debt issuance costs).
+      EBITDA is not a substitute for operating income, net income or cash flows
+      from operating activities as determined in accordance with accounting
+      principles generally accepted in the United States of America as a
+      measure of profitability or liquidity. EBITDA is presented as additional
+      information because the Company believes it to be a useful indicator of
+      the Company's ability to meet debt service and capital expenditure
+      requirements. EBITDA as defined by the Company may differ from similarly
+      named measures used by other entities.
+
+     Sales increased $185.5 million to $1,023.5 million in the 2001 First Half
+from $838.0 million in the 2000 First Half. Sales grew $158.5 million in our
+Secure Communication Systems segment and $27.0 million in our Specialized
+Communication Products segment. Operating income increased $23.0 million to
+$107.3 million in the 2001 First Half. Operating income as a percentage of
+sales ("operating margin") improved to 10.5% from 10.1%. Depreciation and
+amortization expenses increased $8.4 million to $42.6 million in the 2001 First
+Half, due to increased goodwill amortization associated with our acquisitions
+and additional depreciation related to our capital expenditures and acquired
+businesses. EBITDA for the 2001 First Half increased $31.4 million to $149.9
+million. EBITDA as a percentage of sales ("EBITDA margin") improved to 14.6% in
+the 2001 First Half from 14.1% in the 2000 First Half. Basic earnings per
+common share ("EPS") grew 26.5% to $1.05 and diluted EPS grew 26.6% to $1.00 in
+the 2001 First Half. The increases in basic and diluted weighted-average common
+shares outstanding were principally related to our sale of 4.6 million shares
+of our common stock, which was completed on May 2, 2001.
+
+     Interest expense increased $4.1 million to $46.4 million in the 2001 First
+Half because of the higher average outstanding debt during the 2001 First
+Quarter.
+
+     Included in interest and other income for the 2001 First Half is a net
+pre-tax gain of $0.6 million ($0.01 per diluted share), consisting of an
+after-tax gain of $4.3 million from the sale of a 30% interest in
+
+
+                                       18
+<PAGE>
+
+ACSS to Thales Avionics and an after-tax charge of $3.9 million on the
+write-down in the carrying amount of an investment in common stock. Interest
+and other income for the 2000 First Half includes a net pre-tax gain of $1.9
+million ($0.03 per diluted share), consisting of an after-tax gain of $8.8
+million from the sale of our interests in two businesses and an after-tax
+charge of $7.6 million on the write-down in the carrying value of certain
+investments and intangible assets. Excluding these net gains from both the 2001
+First Half and 2000 First Half, diluted EPS increased 30.3% to $0.99 in the
+2001 First Half from $0.76 in the 2000 First Half.
+
+     The income tax provision for the 2001 First Half is based on our estimated
+effective income tax rate for 2001 of 38.3%, compared with the effective tax
+rate of 38.6% for the 2000 First Half.
+
+     Sales within our Secure Communication Systems segment increased $158.5
+million or 43.7% to $520.9 million in the 2001 First Half compared with the
+2000 First Half. Operating income increased $12.5 million to $51.2 million.
+Operating margin declined to 9.8% from 10.7%. We attribute the increase in
+sales principally to the Coleman Research, MPRI and EER acquired businesses and
+growth in sales in our training and simulation businesses and secure data
+links. These increases in sales were partially offset by an expected decline in
+shipments of STE compared with the 2000 First Half. The decline in operating
+margin was principally attributable to increased expenditures associated with
+our Prime Wave business, which we expected, and was partially offset by
+improved margins from our training and simulation businesses. EBITDA increased
+$17.1 million to $67.6 million in the 2001 First Half and EBITDA margin
+declined to 13.0% from 13.9%.
+
+     Sales within our Specialized Communication Products segment increased
+$27.0 million or 5.7% to $502.6 million in the 2001 First Half compared with
+the 2000 First Half. Operating income increased $10.5 million and operating
+margin improved to 11.2% from 9.6%. The increase in sales was principally
+attributable to volume increases on aviation products and microwave components
+and to the KDI acquired business. These increases in sales were partially
+offset by decreases in sales of telemetry and space products and lower
+shipments of naval power systems. The increase in operating margin was
+principally attributable to increased sales volumes for aviation products and
+microwave components. EBITDA increased $14.3 million to $82.3 million and
+EBITDA margin increased to 16.4% from 14.3%.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+BALANCE SHEET
+
+     Contracts in process increased $49.7 million from December 31, 2000 to
+June 30, 2001 of which $12.9 million was related to businesses acquired during
+the 2001 First Half. The remaining increase of $36.8 million was principally
+attributable to planned increases of inventories for the Prime Wave business
+related to a new contract and on certain other programs and products including
+STE in advance of shipments expected to occur in the second half of 2001.
+During the 2001 First Half receivables declined, as we expected, because
+collections exceeded billings.
+
+     The increase in intangibles was primarily related to goodwill for the KDI
+and EER acquistions.
+
+     The decrease in other liabilities was related to common stock which we
+issued in April 2001 to satisfy our $17.7 million obligation for the additional
+consideration for the ILEX acquisitions. The decrease was also related to a
+reclassification of the current portion of estimated costs in excess of
+billings to other current liabilities.
+
+OPERATING ACTIVITIES
+
+     During the 2001 First Half, we generated $32.7 million of cash from our
+operating activities, a decrease of 21.6% compared to the $41.7 million
+generated during the 2000 First Half. Earnings adjusted for non-cash items and
+deferred taxes increased $28.5 million to $110.1 million in the 2001 First Half
+from $81.6 million in the 2000 First Half. During the 2001 First Half, our
+working capital and operating assets and liabilities increased $77.4 million
+compared with an increase of $39.9 million in the 2000 First Half. Our cash
+flows from operating activities during the 2001 First Half include uses of cash
+for a planned increase in inventory related to the Prime Wave business and STE
+program reported in the change in
+
+
+                                       19
+<PAGE>
+
+contracts in process and the continued effort on the AVCATT contract for costs
+in excess of billings reported in the change in other current liabilities.
+These uses of cash were partially offset by an adjustment on a services
+agreement related to a business acquired in 2000. Overall, we expect the rate
+of increase in working capital to decline during the second half of 2001, and
+as a result cash flow is expected to improve. We also expect to continue
+increasing inventories for the Prime Wave business and the STE product until
+the fourth quarter of 2001 when we expect shipments to begin to exceed
+production. We also expect to continue to incur costs in excess of billings on
+the AVCATT contract during the remainder of 2001, but at a declining rate.
+
+     The quarterly cash interest payments on our Senior Subordinated Notes and
+Convertible Notes, based on their terms, are $8.0 million in the first quarter
+and third quarter and $27.6 million in the second quarter and fourth quarter.
+
+INVESTING ACTIVITIES
+
+     The Company continued to pursue its acquisition strategy during the 2001
+First Half and invested $211.0 million to acquire businesses and product lines,
+as compared with the $515.5 million invested in the 2000 First Half.
+
+     On May 31, 2001, we sold a 30% interest in ACSS to Thales Avionics for
+$72.1 million in cash.
+
+     We make capital expenditures for improvement of manufacturing facilities
+and equipment. We expect that capital expenditures for 2001 will be between
+$40.0 million and $45.0 million.
+
+     In March 2000, we sold our interest in the Network Security business for
+net proceeds of $13.4 million. In May 2000, we sold our interest in the Cardio
+Vascular Computer Systems business for net proceeds of $5.6 million. The
+proceeds from these sales are included in other investing activities.
+
+FINANCING ACTIVITIES
+
+     On May 2, 2001, we sold 6.9 million shares of our common stock in a public
+offering for $80.00 per share, including shares related to an over-allotment
+option that was granted to the underwriters. Of this amount, we sold 4.6
+million shares and other selling stockholders including affiliates of Lehman
+Brothers Inc. sold 2.3 million secondary shares. Upon closing, we received net
+proceeds of $353.8 million. The net proceeds of this offering were used to
+repay existing indebtedness under our senior credit facilities, pay for the KDI
+and EER acquisitions and to increase cash and cash equivalents. Following the
+offering, affiliates of Lehman Brothers Inc. owned approximately 8.3% of L-3
+Holdings common stock.
+
+     At June 30, 2001, available borrowings under our senior credit facilities
+were $503.7 million after reductions for outstanding letters of credit of $96.3
+million. There were no outstanding borrowings under our Senior Credit
+Facilities at June 30, 2001.
+
+     In May 2001, we restructured our senior credit facilities. The
+restructured senior credit facilities are comprised of a $400.0 million five
+year revolving credit facility maturing on May 15, 2006 and a $200.0 million
+364-day revolving facility maturing on May 15, 2002 under which at the maturity
+date we may, (i) at our request and subject to approval of the lenders, be
+extended, in whole or in part, for an additional 364 day period, or (ii) at our
+election, convert the outstanding principal amount thereunder into a term loan
+which would be repayable in a single payment two years from the maturity date.
+Additionally, the senior credit facilities provide us the ability to increase,
+on an uncommitted basis, the size of either the five year revolving credit
+facility or the 364-day revolving credit facility up to an additional $150.0
+million in the aggregate.
+
+     The senior credit facilities, Senior Subordinated Notes and Convertible
+Notes contain financial covenants which remain in effect so long as we owe any
+amount or any commitment to lend exists thereunder. As of June 30, 2001, L-3
+Communications had been in compliance with the covenants of the agreements
+governing those loans at all times. The borrowings under the senior credit
+facilities are guaranteed by L-3 Holdings and by substantially all of the
+domestic subsidiaries of L-3 Communications. The payments of principal and
+premium, if any, and interest on the Senior Subordinated Notes are
+
+
+                                       20
+<PAGE>
+
+unconditionally guaranteed, on an unsecured senior subordinated basis, jointly
+and severally, by L-3 Holdings and substantially all of its direct and indirect
+wholly owned subsidiaries, including L-3 Communications. The Convertible Notes
+are jointly and severally guaranteed on a full and unconditional basis, by
+certain existing direct and indirect domestic subsidiaries of L-3 Holdings,
+including L-3 Communications and are subordinated in right of payment to all
+existing and future senior debt of the guarantors and rank pari passu with the
+other senior subordinated indebtedness of the guarantors. See Note 7 to our
+consolidated financial statements for fiscal year ended December 31, 2000,
+included in our Annual Report on Form 10-K for the fiscal year ended December
+31, 2000 for a description of our debt and related financial covenants at
+December 31, 2000.
+
+     Based upon our current level of operations, we believe that our cash from
+operating activities, together with available borrowings under the senior
+credit facilities, will be adequate to meet our anticipated requirements for
+working capital, capital expenditures, research and development expenditures,
+program and other discretionary investments, and interest payments for the
+foreseeable future including at least the next three years. There can be no
+assurance, however, that our business will continue to generate cash flow at or
+above current levels or that currently anticipated improvements will be
+achieved. If we are unable to generate sufficient cash flow from operations to
+service our debt, we may be required to sell assets, reduce capital
+expenditures, refinance all or a portion of our existing debt or obtain
+additional financing. Our ability to make scheduled principal payments, to pay
+interest on or to refinance our indebtedness depends on our future performance
+and financial results, which, to a certain extent, are subject to general
+conditions in or affecting the defense industry and to general economic,
+political, financial, competitive, legislative and regulatory factors beyond
+our control. There can be no assurance that sufficient funds will be available
+to enable us to service our indebtedness, or make necessary capital
+expenditures and to make discretionary investments.
+
+CONTINGENCIES
+
+     See Note 8 to the Condensed Consolidated Financial Statements.
+
+
+RECENTLY ISSUED AND PROPOSED ACCOUNTING STANDARDS
+
+     In September 2000, the Financial Accounting Standards Board ("FASB")
+issued Statement of Financial Accounting Standards ("SFAS") No. 140, Accounting
+for Transfers and Servicing of Financial Assets and Extinguishments of
+Liabilities, which replaces SFAS No. 125 Accounting for Transfers and Servicing
+of Financial Assets and Extinguishment of Liabilities. SFAS No. 140 revises the
+standards for accounting for securitizations and other transfers of financial
+assets and collateral and requires certain disclosures, but it carries over
+most of SFAS No. 125's provisions without reconsideration. SFAS No. 140 is
+effective for transfers and servicing of financial assets and extinguishments
+of liabilities occurring after March 31, 2001. The adoption of SFAS No. 140 is
+not expected to have a material impact on our consolidated results of
+operations or financial position.
+
+     In July 2001, the FASB issued SFAS No.141, Business Combinations, which
+supercedes Accounting Principles Board Opinion ("APB") No. 16, Business
+Combinations, SFAS No. 141 requires that the purchase method of accounting be
+used for all business combinations initiated after June 30, 2001 and
+establishes specific criteria for the recognition of intangible assets
+separately from goodwill. In July 2001, the FASB also issued SFAS No. 142,
+Goodwill and Other Intangible Assets, which supersedes APB No. 17, Intangible
+Assets. SFAS No. 142 revises the standards for accounting for goodwill and
+intangible assets. SFAS No. 142 requires that goodwill and indefinite lived
+intangible assets shall no longer be amortized, but be tested for impairment at
+least annually. SFAS No. 142 also requires that the amortization period of
+intangible assets with finite lives be no longer limited to forty years. The
+provisions of SFAS No. 142 will be effective for fiscal years beginning after
+December 15, 2001. We have not yet determined the impact of SFAS No. 141 and
+SFAS No. 142 on our consolidated results of operations or financial position.
+
+
+FORWARD-LOOKING STATEMENTS
+
+     Certain of the matters discussed concerning our operations, cash flows,
+financial position, economic performance, and financial condition, including in
+particular, the likelihood of our success in developing
+
+
+                                       21
+<PAGE>
+
+and expanding our business and the realization of sales from backlog, include
+forward-looking statements within the meaning of section 27A of the Securities
+Act and Section 21E of the Exchange Act.
+
+
+     Statements that are predictive in nature, that depend upon or refer to
+events or conditions or that include words such as "expects," "anticipates,"
+"intends," "plans," "believes," "estimates" and similar expressions are
+forward-looking statements. Although we believe that these statements are based
+upon reasonable assumptions, including projections of orders, sales, operating
+margins, earnings, cash flow, research and development costs, working capital,
+capital expenditures and other projections, they are subject to several risks
+and uncertainties, and therefore, we can give no assurance that these
+statements will be achieved.
+
+     Our forward-looking statements will also be influenced by factors such as:
+
+    o our dependence on the defense industry and the business risks peculiar
+      to that industry including changing priorities or reductions in the U.S.
+      Government defense budget;
+
+    o our reliance on contracts with a limited number of agencies of, or
+      contractors to, the U.S. Government and the possibility of termination of
+      government contracts by unilateral government action or for failure to
+      perform;
+
+    o our ability to obtain future government contracts on a timely basis;
+
+    o the availability of government funding and changes in customer
+      requirements for our products and services;
+
+    o our significant amount of our debt and the restrictions contained in our
+      debt agreements;
+
+    o collective bargaining agreements and labor disputes;
+
+    o economic conditions, competitive environment, international business and
+      political conditions, timing of international awards and contracts;
+
+    o our extensive use of fixed price contracts as compared to cost plus
+      contracts;
+
+    o our ability to identify future acquisition candidates or to integrate
+      acquired operations;
+
+    o the rapid change of technology and high level of competition in the
+      communication equipment industry;
+
+    o our introduction of new products into commercial markets or our
+      investments in commercial products or companies; and
+
+    o pension, environmental or legal matters or proceedings and various other
+      market, competitive and industry factors, many of which are beyond our
+      control.
+
+     Readers of this document are cautioned that our forward-looking statements
+are not guarantees of future performance and the actual results or developments
+may differ materially from the expectations expressed in the forward-looking
+statements.
+
+
+     As for the forward-looking statements that relate to future financial
+results and other projections, actual results will be different due to the
+inherent uncertainties of estimates, forecasts and projections and may be
+better or worse than projected. Given these uncertainties, you should not place
+any reliance on these forward-looking statements. These forward-looking
+statements also represent our estimates and assumptions only as of the date
+that they were made. We expressly disclaim a duty to provide updates to these
+forward-looking statements, and the estimates and assumptions associated with
+them, after the date of this filing to reflect events or changes or
+circumstances or changes in expectations or the occurrence of anticipated
+events
+
+
+                                       22
+<PAGE>
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     See Part II, Item 7, "Management's Discussion and Analysis of Results of
+Operations and Financial Condition--Liquidity and Capital Resources--Market
+Risks", of the Company's Annual Report on Form 10-K for the fiscal year ended
+December 31, 2000 for a discussion of the Company's exposure to market risks.
+There was no significant change in those risks during the six months ended June
+30, 2001.
+
+PART II -- OTHER INFORMATION
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+   (a) Exhibits
+
+       *11   L-3 Communications Holdings, Inc. Computation of Basic Earnings Per
+             Share and Diluted Earnings Per Share
+
+        12.1 Ratio of Earnings to Fixed Charges
+
+   *The information required on this exhibit is presented in Note 7 to the
+    Condensed Consolidated Financial Statements as of June 30, 2001 in
+    accordance with the provisions of FASB SFAS No. 128, Earnings Per Share.
+
+     (b) Reports on Form 8-K
+
+     None
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrants have duly caused this report to be signed on their behalf by the
+undersigned thereunto duly authorized.
+
+                                   L-3 Communications Holdings, Inc. and
+                                   L-3 Communications Corporation
+                                   --------------------------------------------
+                                   Registrants
+
+Date: August 9, 2001
+
+                                   /s/ Robert V. LaPenta
+                                   --------------------------------------------
+                                   Name: Robert V. LaPenta
+                                   Title: President and Chief Financial Officer
+                                          (Principal Financial Officer)
+
+
+
+                                       23
+<PAGE>
+
+                                                                    EXHIBIT 12.1
+
+
+                        L-3 COMMUNICATIONS HOLDINGS, INC.
+                         L-3 COMMUNICATIONS CORPORATION
+
+                       RATIO OF EARNINGS TO FIXED CHARGES
+
+                                ($ IN THOUSANDS)
+
+                                                      SIX MONTHS ENDED
+                                                       JUNE 30, 2001
+                                                     -----------------
+   Earnings:
+    Income before income taxes ...................        $ 60,769
+    Add:
+      Interest expense ...........................          46,436
+      Amortization of debt expense ...............           3,642
+      Interest component of rent expense .........           6,227
+                                                          --------
+    Earnings .....................................        $117,074
+                                                          --------
+   Fixed Charges:
+      Interest expense ...........................          46,436
+      Amortization of debt expense ...............           3,642
+      Interest component of rent expense .........           6,227
+                                                          --------
+    Fixed Charges ................................          56,305
+                                                          --------
+   Ratio of earnings to fixed charges ............             2.1x
+                                                          ========
+
+
+
+
+</TEXT>
+</DOCUMENT>

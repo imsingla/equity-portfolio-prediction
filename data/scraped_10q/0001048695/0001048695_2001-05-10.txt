@@ -1,0 +1,1019 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>v72331e10-q.txt
+<DESCRIPTION>FORM 10-Q QUARTER ENDED MARCH 31, 2001
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                 --------------
+                                    FORM 10-Q
+                                 --------------
+
+           [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                  For the quarterly period ended March 31, 2001
+
+                                       OR
+
+          [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+             For the transition period from __________ to __________
+
+                        Commission File Number 000-26041
+
+                                F5 NETWORKS, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+              WASHINGTON                              91-1714307
+    (State or other jurisdiction of      (I.R.S. Employer Identification No.)
+    incorporation or organization)
+
+
+                             401 ELLIOTT AVENUE WEST
+                            SEATTLE, WASHINGTON 98119
+              (Address of principal executive offices and zip code)
+
+                                 (206) 272-5555
+              (Registrant's telephone number, including area code)
+
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days: Yes [X] No [ ].
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock as of the latest practicable date: 22,173,843 shares of common
+stock, no par value, as of May 1, 2001.
+
+================================================================================
+
+                               Page 1 of 16 Pages
+
+<PAGE>   2
+                                F5 NETWORKS, INC.
+
+                                    FORM 10-Q
+
+                      FOR THE QUARTER ENDED MARCH 31, 2001
+
+                                TABLE OF CONTENTS
+
+PART I.      FINANCIAL INFORMATION
+
+                                                                          Page
+                                                                          ----
+Item 1.      Financial Statements
+
+             Condensed Consolidated Balance Sheets as of
+
+                March 31, 2001 and September 30, 2000...............       3
+
+             Condensed Consolidated Statements of Operations for the
+                three and six months ended March 31, 2001 and 2000..       4
+
+             Condensed Consolidated Statements of Cash Flows for the
+                six months ended March 31, 2001 and 2000............       5
+
+             Notes to Condensed Consolidated Financial Statements...       6
+
+Item 2.      Management's Discussion and Analysis of Financial
+                Condition and Results of Operations.................       9
+
+Item 3.      Quantitative and Qualitative Disclosures about Market
+             Risk...................................................       14
+
+
+PART II.     OTHER INFORMATION
+
+Item 1.      Legal Proceedings......................................      None
+
+Item 2.      Changes in Securities and Use of Proceeds..............      None
+
+Item 3.      Defaults upon Securities...............................      None
+
+Item 4.      Submission of Matters to a Vote of Security Holders....       15
+
+Item 5.      Other Information......................................      None
+
+Item 6.      Exhibits and Reports on Form 8-K.......................      None
+
+Signatures   .......................................................       16
+
+
+                                       2
+<PAGE>   3
+                                     PART I
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                                F5 NETWORKS, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                 MARCH 31,   SEPTEMBER 30,
+                                                                   2001         2000
+                                                                -----------  -------------
+                                                                (unaudited)
+                             ASSETS
+
+<S>                                                              <C>          <C>
+Current assets:
+  Cash and cash equivalents ..................................   $  30,279    $  53,017
+  Accounts receivable, net of allowances of $3,801 and $1,666       25,113       38,237
+  Inventories ................................................       8,845        5,231
+  Other current assets .......................................       3,887        2,290
+  Deferred income taxes ......................................       4,282        1,858
+                                                                 ---------    ---------
+    Total current assets .....................................      72,406      100,633
+                                                                 ---------    ---------
+
+Restricted cash ..............................................       6,347        6,182
+Property and equipment, net ..................................      17,812       13,524
+Other assets, net ............................................         502          541
+Deferred income taxes ........................................       3,015        1,540
+                                                                 ---------    ---------
+    Total assets .............................................   $ 100,082    $ 122,420
+                                                                 =========    =========
+
+              LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+    Accounts payable .........................................   $   3,905    $  10,561
+    Accrued liabilities ......................................       9,915        7,975
+    Deferred revenue .........................................      13,628       16,199
+                                                                 ---------    ---------
+      Total current liabilities ..............................      27,448       34,735
+                                                                 ---------    ---------
+
+Commitments and Contingencies:
+
+Shareholders' equity:
+Common stock, no par value; 100,000,000 shares authorized
+  21,997,000 and 21,613,000 shares issued and outstanding ....      87,620       87,419
+Note receivable from shareholder .............................        (469)        (469)
+Accumulated other comprehensive income (loss) ................         297          (52)
+Unearned compensation ........................................        (990)      (3,061)
+Retained earnings (deficit) ..................................     (13,824)       3,848
+                                                                 ---------    ---------
+    Total shareholders' equity ...............................      72,634       87,685
+                                                                 ---------    ---------
+      Total liabilities and shareholders' equity .............   $ 100,082    $ 122,420
+                                                                 =========    =========
+</TABLE>
+
+         The accompanying notes are an integral part of these condensed
+                       consolidated financial statements.
+
+
+                                       3
+<PAGE>   4
+                                F5 NETWORKS, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                 (unaudited, in thousands except per share data)
+
+
+
+<TABLE>
+<CAPTION>
+                                             THREE MONTHS ENDED      SIX MONTHS ENDED
+                                                  MARCH 31,              MARCH 31,
+                                            --------------------   --------------------
+                                              2001        2000       2001        2000
+                                            --------    --------   --------    --------
+<S>                                         <C>         <C>        <C>         <C>
+Net revenues:
+    Products ............................   $ 19,772    $ 18,532   $ 37,497    $ 34,814
+    Services ............................      7,295       5,072     14,303       7,963
+                                            --------    --------   --------    --------
+        Total net revenues ..............     27,067      23,604     51,800      42,777
+                                            --------    --------   --------    --------
+
+Cost of net revenues:
+    Products ............................      7,753       5,053     15,839       9,677
+    Services ............................      3,238       1,792      6,822       2,851
+    Provision for excess inventory ......      4,910          --      4,910          --
+                                            --------    --------   --------    --------
+        Total cost of net revenues ......     15,901       6,845     27,571      12,528
+                                            --------    --------   --------    --------
+    Gross profit ........................     11,166      16,759     24,229      30,249
+                                            --------    --------   --------    --------
+
+Operating expenses:
+    Sales and marketing .................     12,877       8,452     26,405      14,194
+    Research and development ............      4,652       2,761      9,596       4,986
+    General and administrative ..........      4,251       1,748      8,998       3,226
+    Restructuring charge ................        (96)         --        975          --
+    Amortization of unearned compensation      1,595         470      2,171       1,013
+                                            --------    --------   --------    --------
+        Total operating expenses ........     23,279      13,431     48,145      23,419
+                                            --------    --------   --------    --------
+
+Income (loss) from operations ...........    (12,113)      3,328    (23,916)      6,830
+Other income, net .......................      1,111         818      1,547       1,559
+                                            --------    --------   --------    --------
+Income (loss) before income taxes .......    (11,002)      4,146    (22,369)      8,389
+
+Income tax benefit ......................      2,260          --      4,697          --
+                                            --------    --------   --------    --------
+    Net income (loss) ...................   $ (8,742)   $  4,146   $(17,672)   $  8,389
+                                            ========    ========   ========    ========
+
+Net income (loss) per share - basic .....   $  (0.40)   $   0.20   $  (0.81)   $   0.40
+                                            ========    ========   ========    ========
+Weighted average shares - basic .........     21,917      21,198     21,796      20,811
+                                            ========    ========   ========    ========
+
+Net income (loss) per share - diluted ...   $  (0.40)   $   0.18   $  (0.81)   $   0.36
+                                            ========    ========   ========    ========
+Weighted average shares - diluted .......     21,917      23,105     21,796      23,092
+                                            ========    ========   ========    ========
+</TABLE>
+
+         The accompanying notes are an integral part of these condensed
+                       consolidated financial statements.
+
+
+                                       4
+<PAGE>   5
+                                F5 NETWORKS, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                            (unaudited, in thousands)
+
+<TABLE>
+<CAPTION>
+                                                             SIX MONTHS ENDED
+                                                                 MARCH 31,
+                                                           --------------------
+                                                             2001        2000
+                                                           --------    --------
+<S>                                                        <C>         <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income (loss) ....................................   $(17,672)   $  8,389
+  Adjustments to reconcile net income (loss) to net cash
+    provided by (used
+    in) operating activities:
+  Restructuring charges ................................        975          --
+  Provisions for asset write downs .....................        378          --
+  Gain/Loss on sale of assets ..........................        120          --
+  Provision for inventory write down ...................      4,910          --
+  Unrealized gain/loss on investments ..................        186          87
+  Amortization of unearned compensation ................      2,171       1,013
+  Provision for doubtful accounts and sales returns ....      8,908         702
+  Depreciation and amortization ........................      2,385         870
+  Deferred income taxes ................................     (3,891)         --
+  Changes in operating assets and liabilities:
+      Accounts receivable ..............................      4,245     (11,506)
+      Inventories ......................................     (6,631)       (950)
+      Other assets .....................................     (2,345)       (889)
+      Accounts payable and accrued liabilities .........     (6,700)      2,546
+      Deferred revenue .................................     (2,537)      5,543
+                                                           --------    --------
+       Net cash provided by (used in) operating
+          activities ...................................    (15,498)      5,805
+                                                           --------    --------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+  Proceeds from the sale of property and equipment .....         90
+  Investment in restricted cash ........................       (165)        (66)
+  Purchases of property and equipment ..................     (7,232)     (3,288)
+                                                           --------    --------
+       Net cash used in investing activities ...........     (7,307)     (3,354)
+                                                           --------    --------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+  Proceeds from the secondary offering, net of issuance
+  costs ................................................         --      31,475
+  Proceeds from the exercise of stock options and
+       warrants ........................................      1,183       2,322
+  Proceeds from payments on shareholder loan ...........         --         187
+  Repurchase of common stock ...........................     (1,082)         --
+                                                           --------    --------
+       Net cash provided by financing activities .......        101      33,984
+                                                           --------    --------
+       Net increase (decrease) in cash and cash
+        equivalents ....................................    (22,704)     36,435
+      Effect of exchange rate changes on cash and
+        cash equivalents ...............................        (34)         (7)
+                                                           --------    --------
+  Cash and cash equivalents, at beginning of period ....     53,017      24,797
+                                                           --------    --------
+  Cash and cash equivalents, at end of period ..........   $ 30,279    $ 61,225
+                                                           ========    ========
+</TABLE>
+
+         The accompanying notes are an integral part of these condensed
+                       consolidated financial statements.
+
+
+                                       5
+<PAGE>   6
+
+                                F5 NETWORKS, INC.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1.      THE COMPANY AND BASIS OF PRESENTATION:
+
+        The accompanying unaudited condensed consolidated financial statements
+have been prepared by F5 Networks, Inc. ("F5") in accordance with the rules and
+regulations of the Securities and Exchange Commission for interim financial
+statements. Accordingly, certain information and footnote disclosures, normally
+included in consolidated financial statements prepared in accordance with
+accounting principles generally accepted in the United States, have been
+condensed or omitted pursuant to such rules and regulations. In the opinion of
+management of the Company, the unaudited consolidated financial statements
+reflect all adjustments, consisting only of normal recurring adjustments,
+necessary for a fair presentation of the Company's financial position at March
+31, 2001, its operating results for the three and six months ended March 31,
+2001 and 2000 and cash flows for the six months ended March 31, 2001 and 2000.
+The condensed consolidated balance sheet at September 30, 2000 has been derived
+from audited financial statements as of that date. These consolidated financial
+statements and the notes should be read in conjunction with the Company's
+consolidated financial statements and notes thereto contained in the Company's
+annual report on Form 10-K filed with the Securities and Exchange Commission on
+December 13, 2000.
+
+2.      SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+PRINCIPLES OF CONSOLIDATION
+
+        The financial statements consolidate the accounts of F5 Networks, Inc.
+and its wholly owned subsidiaries F5 Networks, Ltd., F5 Networks, Singapore Pte.
+Ltd. and F5 Networks, Japan K.K. and are collectively hereinafter referred to as
+the "Company". All intercompany transactions have been eliminated.
+
+USE OF ESTIMATES
+
+        The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities as of the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+REVENUE RECOGNITION
+
+        The Company recognizes software revenue under Statement of Position
+97-2, "Software Revenue Recognition," and SOP 98-9 "Modification of SOP 97-2,
+Software Revenue Recognition, with Respect to Certain Transactions."
+
+        The Company sells products through resellers, original equipment
+manufacturers and other channel partners, as well as to end users, under similar
+terms. The Company generally combines software license, hardware, installation
+and customer support elements into a package with a single "bundled" price. The
+Company allocates a portion of the sales price to each element of the bundled
+package based on their respective fair values when the individual elements are
+sold separately. Revenues from the license of software, net of an allowance for
+estimated returns, are recognized when the product has been shipped and the
+customer is obligated to pay for the product. Installation revenue is recognized
+when the product has been installed at the customer's site. Revenues for
+customer support are recognized on a straight-line basis over the service
+contract terms. Estimated sales returns are based on historical experience by
+product and are recorded at the time revenues are recognized.
+
+                                       6
+<PAGE>   7
+CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+
+        Cash equivalents are highly liquid investments, consisting of
+investments in money market funds and marketable securities which are readily
+convertible to cash without penalty and subject to insignificant risk of changes
+in value. The Company's cash and cash equivalents balance consists of the
+following:
+
+<TABLE>
+<CAPTION>
+                                                    MARCH 31,     SEPTEMBER 30,
+                                                      2001            2000
+                                                  ------------    -------------
+                                                         (IN THOUSANDS)
+<S>                                               <C>             <C>
+Cash.........................................       $ 6,839          $18,354
+Short-term investments.......................        23,440           34,663
+                                                    -------          -------
+                                                    $30,279          $53,017
+                                                    =======          =======
+</TABLE>
+
+CONCENTRATION OF CREDIT RISK
+
+        The Company places its temporary cash investments with five major
+financial institutions. As of March 31, 2001, all of the Company's temporary
+cash investments were placed with five institutions.
+
+        The Company's customers are from diverse industries and geographic
+locations. The majority of net revenues from international customers are
+denominated in U.S. dollars and were approximately $9.0 million for the three
+months ended March 31, 2001, and $6.6 million for the three months ended March
+31, 2000. For the six months ended March 31, 2001 and 2000, one customer
+accounted for 9.5% and 19.6% of net revenues, respectively. One customer
+accounted for 4.8% and 10.6% of the Company's accounts receivable balance at
+March 31, 2001 and 2000, respectively.
+
+INVENTORIES
+
+        Inventories consist of hardware, software and related component parts
+and are recorded at the lower of cost or market (as determined by the first-in,
+first-out method).
+
+Inventories are comprised of the following:
+
+<TABLE>
+<CAPTION>
+                                                    MARCH 31,     SEPTEMBER 30,
+                                                      2001            2000
+                                                  ------------    -------------
+                                                         (IN THOUSANDS)
+<S>                                               <C>             <C>
+   Finished goods..............................     $ 8,370          $2,045
+   Raw materials...............................       3,515           3,186
+   Less: Provision for excess of inventory......     (3,040)             --
+                                                    -------          ------
+                                                    $ 8,845          $5,231
+                                                    =======          ======
+</TABLE>
+
+
+        Due to changes in current market conditions, and a revision of our sales
+forecast, a review was made of our inventory needs and an assessment of our
+future purchase commitments as of March 31, 2001. As a result, we determined a
+provision for excess inventory and future purchase commitments would be
+recorded. The provision for excess inventory was charged to cost of revenues in
+the amount of $3.8 million as of March 31, 2001, which consisted of a $3.0
+million inventory valuation allowance and $800,000 of future purchase
+commitments. An additional $1.1 million was included in the provision for excess
+inventory in the statement of operations. The charge is associated with changes
+in the configuration of our EDGE-FX Cache product, which will increase the
+functionality of the product. These costs are associated with updating both
+existing inventory and product previously sold to customers, as well as costs to
+fulfill existing purchase commitments, have been included in cost of revenues at
+March 31, 2001.
+
+
+                                       7
+<PAGE>   8
+COMPREHENSIVE INCOME (LOSS)
+
+    The following table sets forth a reconciliation of net income (loss) to
+comprehensive income (loss), net of tax:
+
+<TABLE>
+<CAPTION>
+                                                      THREE MONTHS ENDED     SIX MONTHS ENDED
+                                                           MARCH 31,             MARCH 31,
+                                                      ------------------    -------------------
+                                                        2001       2000       2001        2000
+                                                      -------     ------    --------     ------
+                                                         (IN THOUSANDS)       (IN THOUSANDS)
+<S>                                                   <C>         <C>       <C>          <C>
+   Net income (loss)..............................    $(8,742)    $4,146    $(17,672)    $8,389
+
+   Unrealized gain (loss) on investments..........        564         31        (186)        87
+   Foreign currency translation adjustment........        (48)        (6)       (162)        (7)
+                                                      -------     ------    --------     ------
+   Comprehensive income (loss)....................    $(8,226)    $4,171    $(18,020)    $8,469
+                                                      =======     ======    ========     ======
+</TABLE>
+
+
+NET INCOME (LOSS) PER SHARE
+
+        Basic net income (loss) per share is computed by dividing net income
+(loss) by the weighted average number of common shares outstanding during the
+period. Diluted net income per share is computed by dividing net income by the
+weighted average number of common and dilutive common stock equivalent shares
+outstanding during the period. The Company excluded the impact of dilutive
+common stock equivalent shares from the calculation of diluted net loss per
+share as the inclusion of such elements would be antidilutive.
+
+        The following table sets forth the computation of basic and diluted net
+income (loss) per share for the three and six months ended March 31, 2001 and
+2000 (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                 THREE MONTH ENDED         SIX MONTH ENDED
+                                                     MARCH 31,                MARCH 31,
+                                                --------------------     --------------------
+                                                  2001        2000         2001        2000
+                                                --------    --------     --------    --------
+<S>                                             <C>         <C>          <C>         <C>
+NUMERATOR:
+  Net income (loss) .........................   $ (8,742)   $  4,146     $(17,672)   $  8,389
+                                                ========    ========     ========    ========
+DENOMINATOR:
+  Weighted average shares outstanding - basic     21,917      21,198       21,796      20,811
+  Dilutive effect of common shares from stock
+    options .................................         --       1,896           --       2,034
+  Dilutive effect of common shares from
+    warrants ................................         --          11           --         247
+                                                --------    --------     --------    --------
+  Weighted average shares outstanding -
+    diluted .................................     21,917      23,105       21,796      23,092
+                                                ========    ========     ========    ========
+Basic net income (loss) per share ...........   $  (0.40)   $   0.20     $  (0.81)   $   0.40
+                                                ========    ========     ========    ========
+Diluted net income (loss) per share .........   $  (0.40)   $   0.18     $  (0.81)   $   0.36
+                                                ========    ========     ========    ========
+</TABLE>
+
+
+RESTRUCTURING CHARGE
+
+        During the first fiscal quarter of 2001, F5 recorded a restructuring
+charge of $1.1 million in connection with management's decision to bring
+operating expenses in line with the business revenue growth model. As a result
+of changes in the business revenue growth model, the Company terminated 96
+employees throughout all divisions of the Company. In January 2001, all
+identified employees had been terminated. During the quarter ended March 31,
+2001, the Company reversed $96,000 of the original accrual due to a revision of
+previous estimates. As of March 31, 2001, substantially all of the restructuring
+charge accrued during the first fiscal quarter of 2001 has been paid.
+
+                                       8
+<PAGE>   9
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+        In June 1998, the FASB issued Statement of Financial Accounting
+Standards No. 133, "Accounting for Derivative Instruments and Hedging
+Activities." This statement requires that all derivative instruments be recorded
+on the balance sheet at their fair value. Changes in the fair value of
+derivatives are recorded each period in current earnings or other comprehensive
+income, depending on whether a derivative is designated as part of a hedge
+transaction and, if it is, the type of hedge transaction. In July 1999, the FASB
+issued SFAS No. 137, "Accounting for Derivative Instruments and Hedging
+Activities Deferral of the Effective Date of FASB Statement No. 133." SFAS No.
+137 deferred the effective date of SFAS No. 133 until fiscal years beginning
+after June 15, 2000. The Company does not use derivative instruments, therefore
+the adoption of this statement will not have any effect on the Company's results
+of operations or its financial position.
+
+        In December 1999, SEC Staff Accounting Bulletin No. 101 ("SAB 101"),
+"Revenue Recognition in Financial Statements," was issued. This pronouncement
+summarizes certain of the SEC staff's views in applying generally accepted
+accounting principles to revenue recognition. SAB 101 is required to be adopted
+by the Company for the year ended September 30, 2001. The Company implemented
+SAB 101 in the first quarter of the fiscal year 2001 and there was no material
+impact on the Company's financial statements.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS.
+
+        The following Management's Discussion and Analysis of Financial
+Condition and Results of Operations should be read in conjunction with our
+Financial Statements and Notes. Our discussion contains forward-looking
+statements based upon current expectations. These forward-looking statements
+include, but are not limited to, statements about our plans, objectives,
+expectations and intentions and other statements that are not historical facts.
+Because these forward-looking statements involve risks and uncertainties, our
+actual results and the timing of certain events could differ materially from
+those anticipated in these forward-looking statements as a result of certain
+factors, including those set forth under "Risk Factors" and "Business" in the
+Company's Form 10-K for the fiscal year ended September 30, 2000, and elsewhere
+in this report.
+
+OVERVIEW
+
+        F5 Networks, Inc. ("F5") is a leading provider of integrated Internet
+traffic and content management solutions designed to improve the availability
+and performance of Internet-based servers and applications. Our products monitor
+and manage local and geographically dispersed servers and intelligently direct
+traffic to the server best able to handle a user's request. Our content
+management products enable network managers to increase access to content by
+capturing and storing it at points between production servers and end-users and
+ensure that newly published or updated files and applications are replicated
+uniformly across all target servers. When combined with our network management
+tools, these products help organizations optimize their network server
+availability and performance and cost-effectively manage their Internet
+infrastructure.
+
+        Currently, we derive approximately 57% of our net revenues from sales of
+BIG-IP, and we expect to derive a significant portion of our net revenues from
+sales of BIG-IP in the future. For the three months ended March 31, 2001, no
+individual customer represented more than 10% of our total revenues.
+
+        Net revenues derived from customers located outside of the United States
+were $9.0 million and $4.4 million for the three months ended March 31, 2001 and
+2000, respectively. We plan to continue expanding our international operations,
+primarily in the European and the Asia Pacific markets, because we believe
+international markets represent significant growth opportunity.
+
+        Customers who purchase our products have the option to receive
+installation services and an initial customer support contract, typically
+covering a 12-month period. We generally combine the software license,
+installation, and customer support elements of our products into a package with
+a single price. We allocate a portion of the sales price to each element of the
+bundled package based on their respective fair values as determined when the
+individual elements are sold separately. Customers may also purchase consulting
+services and renew their initial customer support contract.
+
+                                       9
+<PAGE>   10
+        Revenues from the sale of our products and software licenses are
+recognized, net of allowances for estimated returns, when the product has been
+shipped and the reseller or end user is obligated to pay for the product.
+Estimated sales returns are based on historical experience by product and are
+recorded at the time revenues are recognized. Services revenue for installation
+is recognized when the product has been installed at the customer's site.
+Revenues for customer support are recognized on a straight-line basis over the
+service contract term. Consulting services are customarily billed at fixed
+rates, plus out-of-pocket expenses, and revenues from consulting services are
+recognized when completed.
+
+        Our ordinary payment terms to our domestic customers are net 30 days,
+but we have extended payment terms beyond net 30 days to some customers. For
+these arrangements, revenue is recognized ratably over the terms of the
+arrangement. Our ordinary payment terms to our international customers are net
+60 days.
+
+        In view of the rapidly changing nature of our business, our limited
+operating history and the current economic conditions, we believe that
+period-to-period comparisons of net revenues and operating results are not
+necessarily meaningful and should not be relied upon as indicators of future
+performance. To achieve profitability we will need to increase our net revenues
+and manage operating expenses.
+
+        We have recorded a total of $8.3 million of stock compensation costs
+since our inception through March 31, 2001. These charges represent the
+difference between the exercise price and the deemed fair value of certain stock
+options granted to our employees and outside directors. These options generally
+vest ratably over a four-year period. We are amortizing these costs using an
+accelerated method as prescribed by FASB interpretation No. 28 ("FIN No. 28")
+and have recorded stock compensation charges of $2.1 million, $2.5 million and
+$420,000 for the years ended September 30, 2000, 1999 and 1998, respectively and
+$1.6 million and $470,000 for the three months ended March 31, 2001 and 2000.
+
+        We expect to recognize amortization expense related to unearned
+compensation of approximately $2.6 million, $400,000, $60,000 and $0 during the
+years ended September 30, 2001, 2002, 2003 and 2004, respectively. We cannot
+guarantee, however, that we will not accrue additional stock compensation costs
+in the future or that our current estimate of these costs will prove accurate.
+
+                                       10
+<PAGE>   11
+RESULTS OF OPERATIONS
+
+        The following table sets forth financial data as a percentage of total
+net revenues for the periods indicated.
+
+<TABLE>
+<CAPTION>
+                                                    THREE MONTHS ENDED       SIX MONTHS ENDED
+                                                        MARCH 31,                MARCH 31,
+                                                    ------------------       -----------------
+                                                      2001       2000        2001        2000
+                                                     ------     ------       ------     ------
+                                                        (UNAUDITED)             (UNAUDITED)
+<S>                                                 <C>         <C>          <C>        <C>
+STATEMENT OF OPERATIONS DATA:
+Net revenues:
+   Products ....................................      73.0%       78.5%        72.4%      81.4%
+   Services ....................................      27.0        21.5         27.6       18.6
+                                                     -----       -----        -----      -----
+           Total net revenues ..................     100.0       100.0        100.0      100.0
+                                                     -----       -----        -----      -----
+Cost of net revenues:
+   Products ....................................      28.6        21.4         30.6       22.6
+   Services ....................................      12.0         7.6         13.2        6.7
+   Provision for excess inventory...............      18.1          --          9.4         --
+                                                     -----       -----        -----      -----
+           Total cost of net revenues ..........      58.7        29.0         53.2       29.3
+                                                     -----       -----        -----      -----
+           Gross margin ........................      41.3        71.0         46.8       70.7
+                                                     -----       -----        -----      -----
+Operating expenses:
+   Sales and marketing .........................      47.6        35.8         51.0       33.2
+   Research and development ....................      17.2        11.7         18.5       11.7
+   General and administrative ..................      15.7         7.4         17.4        7.5
+   Restructuring charges........................       (.4)         --          1.9         --
+   Amortization of unearned compensation .......       5.9         2.0          4.2        2.3
+                                                     -----       -----        -----      -----
+           Total operating expenses ............      86.0        56.9         93.0       54.7
+Income (loss) from operations ..................     (44.7)       14.1        (46.2)      16.0
+Other income, net ..............................       1.6         3.5          0.1        3.6
+Interest income (expense), net..................       2.5          --          2.6         --
+                                                     -----       -----        -----      -----
+Income (loss) before income taxes...............     (40.6)       17.6        (43.2)      19.6
+Income tax provision............................      (8.4)         --         (9.1)        --
+                                                     -----       -----        -----      -----
+Net income (loss) ..............................     (32.2)%      17.6%        34.1%      19.6%
+                                                     =====       =====        =====      =====
+</TABLE>
+
+NET REVENUES:
+
+        Net revenues consist of sales of our products and services, which
+include software licenses and services. Services include revenue from service
+and support agreements provided as part of the initial product sale, sales of
+extended service and support contracts and consulting services.
+
+        Product revenues. Product revenues increased by 6.7% from $18.5 million
+for the three months ended March 31, 2000 to $19.8 million for the three months
+ended March 31, 2001. Product revenues increased 7.7% from $34.8 million for the
+six months ended March 31, 2000 to $37.5 million for the six months ended March
+31, 2001. The increase in product revenues were due primarily to an increase in
+the quantity of our products sold through our international indirect sales
+channels. This increase also reflects the addition of new customers, as well as
+repeat sales to existing customers.
+
+        Service revenues. Service revenues increased by 43.8% from $5.1 million
+for the three months ended March 31, 2000 to $7.3 million for the three months
+ended March 31, 2001. Service revenues increased 79.6% from $8.0 million for the
+six months ended March 31, 2000 to $14.3 million for the six months ended March
+31, 2001. The increase was due primarily to an increase in the installed base
+of our products and the renewal of service and support contracts.
+
+
+                                       11
+<PAGE>   12
+
+        International revenues represented 32.6% and 18.48% of net revenues for
+the three months ended March 31, 2001 and 2000, respectively. International
+revenues represented 31.7% and 15.5% for the six months ended March 31, 2001 and
+2000. We expect international sales will continue to represent a significant
+portion of net revenues, although we cannot assure you that international sales
+as a percentage of net revenues will remain at current levels.
+
+        We anticipate our average selling prices to decrease primarily as a
+result of a shift in our channel mix and, to a lesser extent, increased
+competition. This decrease may have a negative impact on our gross margin. In
+order to maintain our gross margin, we must continually manage our cost of
+revenues to offset the decrease in our average sales price.
+
+COST OF NET REVENUES:
+
+        Cost of net revenues consists primarily of out-sourced hardware
+components and manufacturing, fees for third-party software products integrated
+into our products, service and support personnel, an allocation of our
+facilities and depreciation expenses.
+
+        Cost of product revenues. Cost of product revenues increased by 53.4%,
+from $5.0 million for the three months ended March 31, 2000 to $7.8 million for
+the three months ended March 31, 2001 and increased as a percentage of product
+revenues from 27.3% to 39.2% for the same periods. Cost of product revenues
+increased by 63.7% from $9.7 million for the six months ended March 31, 2000 to
+$15.8 million for the six months ended March 31, 2001 and increased as a
+percentage of product revenues from 27.8% to 42.2% for the same periods. The
+increases as a percentage of product revenues was due to component enhancements
+of our products and a decrease in our average selling price as a result of a
+change in our channel mix.
+
+        Due to changes in current market conditions, and a revision of our sales
+forecast, a review was made of our inventory needs and an assessment of our
+future purchase commitments as of March 31, 2001. As a result, we determined a
+provision for excess inventory and future purchase commitments would be
+recorded. The provision for excess inventory was charged to cost of revenues in
+the amount of $3.8 million as of March 31, 2001, which consisted of a $3.0
+million inventory valuation allowance and $800,000 of future purchase
+commitments. An additional $1.1 million was included in the provision for excess
+inventory in the statement of operations. The charge is associated with changes
+in the configuration of our EDGE-FX Cache product, which will increase the
+functionality of the product. These costs are associated with updating both
+existing inventory and product previously sold to customers, as well as costs to
+fulfill existing purchase commitments, have been included in cost of revenues at
+March 31, 2001.
+
+        Cost of service revenues. Cost of service revenues increased by 80.7%,
+from $1.8 million for the three months ended March 31, 2000 to $3.2 million for
+the three months ended March 31, 2001 and increased as a percentage of service
+revenues from 35.3% to 44.4% for the same periods. Cost of service revenues
+increased by 139.3% from $2.9 million for the six months ended March 31, 2000 to
+6.8 million for the six months ended March 31, 2001 and increased as a
+percentage of service revenues from 35.8% to 47.7% for the same periods. The
+increases as a percentage of cost of service revenues was due to increased
+personnel costs related to hiring. The personnel associated with cost of service
+revenues increased from 43 as of March 31, 2000 to 95 as of March 31, 2001.
+
+        Sales and marketing. Our sales and marketing expenses consist primarily
+of salaries, commissions and related benefits of our sales and marketing staff,
+costs of our marketing programs, including public relations, advertising and
+trade shows and an allocation of our facilities and depreciation expenses. Sales
+and marketing expenses increased by 52.3%, from $8.5 million for the three
+months ended March 31, 2000 to $12.9 million for the three months ended March
+31, 2001. Sales and marketing expenses increased by 86% from $14.2 million for
+the six months ended March 31, 2000 to $26.4 million for the six months ended
+March 31, 2001. These increases were due to an increase in sales and marketing
+and professional services personnel from 170 to 212, increased commissions, and
+increased advertising and promotional activities. We expect to continue
+increasing the number of commissioned sales staff in order to grow our revenues.
+
+                                       12
+<PAGE>   13
+        Research and development. Our research and development expenses consist
+primarily of salaries and related benefits for our product development personnel
+and an allocation of our facilities and depreciation expenses. Research and
+development expenses increased by 68.5%, from $2.8 million for the three months
+ended March 31, 2000 to $4.7 million for the three months ended March 31, 2001.
+Research and development expenses increased by 92.5% from $5.0 million for the
+six months ended March 31, 2000 to $9.6 million for the six months ended March
+31, 2001. These increases were due primarily to an increase in product
+development personnel from 89 to 115. Our future success is dependent in a large
+part on the continued enhancement of our current products and our ability to
+develop new, technologically advanced products that meet the sophisticated needs
+of our customers. We expect research and development expenses to increase in
+future periods.
+
+        General and administrative. Our general and administrative expenses
+consist primarily of salaries, benefits and related costs of our executive,
+finance, information technology, human resource and legal personnel, third-party
+professional service fees, and an allocation of our facilities and depreciation
+expenses. General and administrative expenses increased by 143.2% from $1.8
+million for the three months ended March 31, 2000 to $4.3 million for the three
+months ended March 31, 2001. General and administrative expenses increased by
+178.9% from $3.2 million for the six months ended March 31, 2000 to $9.0 million
+for the six months ended March 31, 2001. These increases were due primarily to
+an increase in general and administrative personnel from 48 to 67.
+
+        Restructuring charge. During the first fiscal quarter of 2001, F5
+recorded a restructuring charge of $1.1 million in connection with management's
+decision to bring operating expenses in line with the business revenue growth
+model. As a result of change in the business revenue growth model, the Company
+terminated 96 employees throughout all divisions of the Company. In January
+2001, all identified employees had been terminated. During the quarter ended
+March 31, 2001, the Company reversed $96,000 of the original accrual due to a
+revision of previous estimates. As of March 31, 2001, substantially all of the
+restructuring charge accrued during the first fiscal quarter of 2001, has been
+paid.
+
+        Stock compensation. We recorded stock compensation charges of $470,000
+for the three months ended March 31, 2000 and $1.6 million for the three months
+ended March 31, 2001. The increase was the result of stock granted below fair
+market value to an executive officer. For the six months ended March 31, 2000
+and 2001, stock compensation was $1.0 million and $2.2 million, respectively.
+
+        Other income, net. Other income consists primarily of earnings on our
+cash and cash equivalent balances. Other income, net was $818,000 for the three
+months ended March 31, 2000 and $1.1 million for the three months ended March
+31, 2001. The decrease in other income is due to a decline in our cash and cash
+equivalent balances which were used for investment in the building of our
+corporate facilities and our global business. For the six months ended March 31,
+2000 and 2001, other income, net, was $1.6 million and $1.5 million,
+respectively.
+
+        Income taxes. At March 31, 2001 the Company had net operating loss
+carryforwards of approximately $10.9 million, which begin to expire in 2011.
+Until June 30, 2000, the Company had provided a full valuation allowance against
+deferred tax assets. Based upon available evidence, which included a review of
+historical operating performance, the Company determined that certain of these
+deferred tax assets were more likely than not realized and therefore reduced the
+valuation allowance related to those deferred tax assets.
+
+        An increase from $4.9 million to $10.9 million in the valuation
+allowance was recorded against the deferred tax assets as a result of the
+operating losses incurred during the six months ended March 31, 2001.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+        Cash and cash equivalents, short-term investments, and restricted cash
+decreased from $53.0 million at September 30, 2000 to $30.3 million at March 31,
+2001, a decrease of $22.7 million. This decrease is primarily due to increases
+in inventory and working capital requirements necessary to fund our operations.
+Inventory levels increased 69% from September 30, 2000 to March 31, 2001.
+Inventory management remains an area of focus as we balance the need to maintain
+strategic inventory levels to ensure competitive lead times. Any such increases
+in inventory can be expected to reduce cash and cash equivalents, and short-term
+investments.
+
+                                       13
+<PAGE>   14
+        Cash used in investing activities was $7.3 million for the six months
+ended March 31, 2001, and $3.4 million for the six months ended March 31, 2000.
+The increase in investing activities was primarily the result of capital
+expenditures associated with the completion of the new corporate facilities.
+
+        As of March 31, 2001, our principal commitments consisted of obligations
+outstanding under operating leases. In April 2000, we entered into a lease
+agreement on two buildings for a new corporate headquarters. The lease commenced
+in July 2000 on the first building; and the lease on the second building
+commenced in October 2000. The lease for both buildings expires in 2012 with an
+option for renewal. In April 2001, we signed an agreement to sublease the second
+building. The sublease will substantially cover our monthly costs as the primary
+tenant. The company established a restricted escrow account in connection with
+this lease agreement. Under the term of the lease, a $6 million irrevocable
+standby letter of credit is required through November 2012, unless the lease is
+terminated before then. This amount has been included on the Company's balance
+sheet as of March 31, 2001 as a component of restricted cash. In the future we
+may also require a larger inventory of products in order to provide better
+availability to customers and achieve purchasing efficiencies. Any such increase
+can be expected to reduce cash, cash equivalents and short-term investments. We
+expect that our existing cash balances and cash from operations will be
+sufficient to meet our anticipated working capital and capital expenditures for
+the foreseeable future.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK.
+
+        Interest Rate Risk. We do not hold derivative financial instruments or
+equity securities in our investment portfolio. Our cash equivalents consist of
+high-quality securities, as specified in our investment policy guidelines. The
+policy limits the amount of credit exposure to any one issue or issuer to a
+maximum of 20% of the total portfolio with the exception of treasury securities,
+commercial paper and money market funds, which are exempt from size limitation.
+The policy limits all short-term investments to mature in two years or less,
+with the average maturity being one year or less. These securities are subject
+to interest rate risk and will decrease in value if interest rates increase.
+
+<TABLE>
+<CAPTION>
+                                                               MATURING IN
+                                    ---------------------------------------------------------------
+MARCH 31, 2001:                     THREE MONTHS  THREE MONTHS  GREATER THAN
+                                      OR LESS      TO ONE YEAR    ONE YEAR      TOTAL    FAIR VALUE
+                                    ------------  ------------  ------------  ---------  ----------
+                                                            (IN THOUSANDS)
+<S>                                 <C>           <C>           <C>           <C>       <C>
+Included in cash and cash
+  equivalents.....................    $ 1,728            --          --        $  1,728   $  1,728
+  Weighted average interest rate         6.04%           --          --              --         --
+Included in short-term
+  investments.....................         --       $24,006          --        $ 24,006   $ 24,006
+  Weighted average interest
+  rates...........................         --          5.96%         --              --         --
+</TABLE>
+
+
+        Foreign Currency Risk. The majority of our sales and expenses are
+denominated in U.S. dollars and as a result, we have not experienced significant
+foreign exchange gains and losses to date. While we have conducted some
+transactions in foreign currencies during the fiscal year ended September 30,
+2000 and the six months ended March 31, 2001 and expect to continue to do so, we
+do not anticipate that foreign exchange gains and losses will be significant. We
+have not engaged in foreign currency hedging to date, however we may do so in
+the future.
+
+
+                                       14
+<PAGE>   15
+                                     PART II
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        The Company held its Annual Meeting of Shareholders on April 20, 2001 to
+elect two class II directors and amend the Company's 1998 Equity Incentive Plan
+to increase the number of shares issuable by an additional 2,000,000 shares. At
+the Annual Meeting, the following nominees were elected as follows:
+
+<TABLE>
+<CAPTION>
+                                                         VOTES
+                                                         -----
+                                              FOR                   AGAINST
+                                              ---                   -------
+<S>                                       <C>                       <C>
+          John McAdam                     18,037,258                177,821
+          Alan J. Higginson               18,036,658                178,421
+</TABLE>
+
+         The shareholders voted in favor of amending the Company's 1998 Equity
+Incentive Plan to increase the number of shares issuable by an additional
+2,000,000 shares, with voting as follows: 6,595,764 for, 1,242,679 against, and
+45,134 abstain.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+          (a)  Exhibits:
+
+               None
+
+          (b)  Reports on Form 8-K:
+
+               No reports on Form 8-K were filed by the Company during the
+               period ended March 31, 2001.
+
+                                       15
+<PAGE>   16
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized on this 10th day of May, 2001.
+
+                                     F5 Networks, Inc.
+                                     (Registrant)
+
+                                     By /s/ Robert J. Chamberlain
+                                     -------------------------------
+                                     Robert J. Chamberlain
+                                     Chief Financial Officer
+
+                                     (Duly Authorized Officer and
+                                     Principal Financial and Accounting Officer)
+
+</TEXT>
+</DOCUMENT>

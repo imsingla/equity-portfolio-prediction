@@ -1,0 +1,1014 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>b38676ade10-q.txt
+<DESCRIPTION>ANALOG DEVICES INC.
+<TEXT>
+
+<PAGE>   1
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(MARK ONE)
+[X]         QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+                 FOR THE QUARTERLY PERIOD ENDED FEBRUARY 3, 2001
+                                       OR
+[ ]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+        FOR THE TRANSITION PERIOD FROM_______________ TO ________________
+
+                           COMMISSION FILE NO. 1-7819
+
+
+                              ANALOG DEVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+              MASSACHUSETTS                                    04-2348234
+     (State or other jurisdiction of                        (I.R.S. Employer
+      incorporation or organization)                       Identification No.)
+
+
+     ONE TECHNOLOGY WAY, NORWOOD, MA                           02062-9106
+(Address of principal executive offices)                       (Zip Code)
+
+
+                                 (781) 329-4700
+              (Registrant's telephone number, including area code)
+
+                             ----------------------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES [X]  NO [ ]
+
+     The number of shares outstanding of each of the issuer's classes of Common
+Stock as of March 3, 2001 was 359,845,682 shares of Common Stock.
+
+================================================================================
+
+
+<PAGE>   2
+
+
+
+
+                                     PART I
+                              FINANCIAL INFORMATION
+
+
+
+ITEM 1.     FINANCIAL STATEMENTS
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+(thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+
+
+                                                                                            THREE MONTHS ENDED
+                                                                                   --------------------------------------
+                                                                                   FEBRUARY 3, 2001      JANUARY 29, 2000
+                                                                                   ----------------      ----------------
+<S>                                                                                   <C>                  <C>
+Net sales                                                                             $   772,274          $   490,277
+
+Cost of sales                                                                             320,020              225,087
+                                                                                      -----------          -----------
+
+Gross margin                                                                              452,254              265,190
+
+Operating expenses:
+      Research and development                                                            121,710               82,516
+      Purchased in-process research and development                                         9,500                   --
+      Amortization of intangibles                                                          10,306                  496
+      Selling, marketing, general and administrative                                       85,553               64,524
+                                                                                      -----------          -----------
+                                                                                          227,069              147,536
+
+Operating income                                                                          225,185              117,654
+
+Nonoperating (income) expenses:
+      Interest expense                                                                     16,869                1,681
+      Interest income                                                                     (41,248)             (11,906)
+      Other, net                                                                          (28,116)                 814
+                                                                                      -----------          -----------
+                                                                                          (52,495)              (9,411)
+                                                                                      -----------          -----------
+
+Income before income taxes                                                                277,680              127,065
+
+Provision for income taxes                                                                 87,303               34,058
+                                                                                      -----------          -----------
+
+Net income                                                                            $   190,377          $    93,007
+                                                                                      ===========          ===========
+
+Shares used to compute earnings per share - basic                                         357,070              349,352
+                                                                                          =======              =======
+
+Shares used to compute earnings per share - diluted                                       383,392              374,458
+                                                                                          =======              =======
+
+Earnings per share - basic                                                                  $0.53                $0.26
+                                                                                            =====                =====
+
+Earnings per share - diluted                                                                $0.50                $0.25
+                                                                                            =====                =====
+</TABLE>
+
+
+See accompanying notes.
+
+                                       2
+<PAGE>   3
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(thousands)
+
+<TABLE>
+<CAPTION>
+
+Assets                                                             FEBRUARY 3, 2001    OCTOBER 28, 2000    JANUARY 29, 2000
+                                                                   ----------------    ----------------    ----------------
+<S>                                                                   <C>                <C>                 <C>
+Cash and cash equivalents                                             $  1,191,920       $  1,736,421        $    409,516
+Short-term investments                                                   1,158,381            498,844             485,706
+Accounts receivable, net                                                   421,219            463,912             298,246
+Inventories:
+    Raw materials                                                           22,593             17,505              13,176
+    Work in process                                                        197,992            179,918             157,655
+    Finished goods                                                         136,491            134,671              79,353
+                                                                      ------------       ------------        ------------
+                                                                           357,076            332,094             250,184
+Deferred tax assets                                                        113,000            108,989              99,300
+Prepaid expenses and other current assets                                   29,378             27,754              16,009
+                                                                      ------------       ------------        ------------
+    Total current assets                                                 3,270,974          3,168,014           1,558,961
+                                                                      ------------       ------------        ------------
+
+Property, plant and equipment, at cost:
+    Land and buildings                                                     262,076            238,550             171,977
+    Machinery and equipment                                              1,363,641          1,260,572           1,116,344
+    Office equipment                                                        91,091             86,930              76,355
+    Leasehold improvements                                                 128,063            120,710             110,953
+                                                                      ------------       ------------        ------------
+                                                                         1,844,871          1,706,762           1,475,629
+
+Less accumulated depreciation and amortization                             964,443            927,536             826,844
+                                                                      ------------       ------------        ------------
+    Net property, plant and equipment                                      880,428            779,226             648,785
+                                                                      ------------       ------------        ------------
+
+Investments                                                                213,202            217,755             199,070
+Intangible assets, net                                                     269,164            192,698              35,337
+Other assets                                                                55,453             53,644              47,180
+                                                                      ------------       ------------        ------------
+    Total other assets                                                     537,819            464,097             281,587
+                                                                      ------------       ------------        ------------
+                                                                      $  4,689,221       $  4,411,337        $  2,489,333
+                                                                      ============       ============        ============
+</TABLE>
+
+
+See accompanying notes.
+
+                                       3
+
+<PAGE>   4
+
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(thousands)
+
+<TABLE>
+<CAPTION>
+
+
+Liabilities and Stockholders' Equity                               FEBRUARY 3, 2001    OCTOBER 28, 2000    JANUARY 29, 2000
+                                                                   ----------------    ----------------    ----------------
+<S>                                                                   <C>                <C>                 <C>
+Short-term borrowings and current
+  portion of long-term debt                                           $        131       $      5,752        $     84,810
+Obligations under capital leases                                             9,041              9,938              14,089
+Accounts payable                                                           171,349            213,196             125,027
+Deferred income on shipments to distributors                               146,155            140,369             113,523
+Income taxes payable                                                       156,831             86,625             106,319
+Accrued liabilities                                                        179,755            194,017             121,864
+                                                                      ------------       ------------        ------------
+      Total current liabilities                                            663,262            649,897             565,632
+                                                                      ------------       ------------        ------------
+
+Long-term debt                                                           1,200,648          1,200,261                  --
+Non-current obligations under capital leases                                10,210             12,699              13,218
+Deferred income taxes                                                       52,420             51,205              62,600
+Other non-current liabilities                                              223,021            193,625             101,538
+                                                                      ------------       ------------        ------------
+      Total non-current liabilities                                      1,486,299          1,457,790             177,356
+                                                                      ------------       ------------        ------------
+
+Commitments and Contingencies
+
+Stockholders' equity:
+    Preferred stock, $1.00 par value, 471,934 shares authorized,
+      none outstanding                                                          --                --                   --
+    Common stock, $.16 2/3 par value, 600,000,000 shares
+      authorized, 360,269,511 shares issued
+      (357,969,010 in October 2000 and 179,361,743
+      in January 2000)                                                      60,046             59,663              29,893
+Capital in excess of par value                                             594,445            526,820             538,274
+Retained earnings                                                        1,908,320          1,717,943           1,203,818
+Accumulated other comprehensive income                                       2,430              2,841              38,488
+                                                                      ------------       ------------        ------------
+                                                                         2,565,241          2,307,267           1,810,473
+Less 467,114 shares in treasury, at cost (45,186 in
+    October 2000 and 3,213,403 in January 2000)                             25,581              3,617              64,128
+                                                                      ------------       ------------        ------------
+      Total stockholders' equity                                         2,539,660          2,303,650           1,746,345
+                                                                      ------------       ------------        ------------
+                                                                      $  4,689,221       $  4,411,337        $  2,489,333
+                                                                      ============       ============        ============
+</TABLE>
+
+
+See accompanying notes.
+
+                                       4
+<PAGE>   5
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(thousands)
+
+<TABLE>
+<CAPTION>
+
+                                                                                             THREE MONTHS ENDED
+                                                                                     -------------------------------------
+                                                                                     FEBRUARY 3, 2001     JANUARY 29, 2000
+                                                                                     ----------------     ----------------
+<S>                                                                                   <C>                  <C>
+OPERATIONS
+Cash flows from operations:
+    Net income                                                                        $   190,377          $    93,007
+    Adjustments to reconcile net income
+      to net cash provided by operations:
+        Depreciation and amortization                                                      49,284               35,872
+        Gain on sale of investment                                                        (28,084)                  --
+        Write-off of purchased research and development                                     9,500                   --
+        Deferred income taxes                                                              (2,983)             (10,011)
+        Other non-cash expense                                                                728                  440
+        Changes in operating assets and liabilities                                        34,495               45,199
+                                                                                      -----------          -----------
+    Total adjustments                                                                      62,940               71,500
+                                                                                      -----------          -----------
+Net cash provided by operations                                                           253,317              164,507
+                                                                                      -----------          -----------
+
+INVESTMENTS
+Cash flows from investments:
+    Purchase of short-term investments
+      available for sale                                                                 (935,221)            (207,486)
+    Maturities of short-term investments
+      available for sale                                                                  275,684              128,333
+    Payments for acquisitions, net of cash acquired                                       (36,424)              (1,176)
+    Proceeds from sale of investment                                                       60,936                   --
+    Change in long-term investments                                                            --                  348
+    Additions to property, plant and equipment, net                                      (138,945)             (40,677)
+    Decrease in other assets                                                               (3,028)              (1,713)
+                                                                                      -----------          -----------
+Net cash used for investments                                                            (776,998)            (122,371)
+                                                                                      -----------          -----------
+
+FINANCING ACTIVITIES
+Cash flows from financing activities:
+    Proceeds from employee stock plans                                                      6,123                9,981
+    Repurchase of common stock                                                            (21,831)                  --
+    Payments on capital lease obligations                                                  (3,532)              (3,622)
+    Net (decrease) increase in variable rate borrowings                                    (5,128)               2,488
+                                                                                      -----------          -----------
+Net cash (used for) provided by financing activities                                      (24,368)               8,847
+                                                                                      -----------          -----------
+Effect of exchange rate changes on cash                                                     3,548                2,642
+                                                                                      -----------          -----------
+
+Net (decrease) increase in cash and cash equivalents                                     (544,501)              53,625
+Cash and cash equivalents at beginning of period                                        1,736,421              355,891
+                                                                                      -----------          -----------
+Cash and cash equivalents at end of period                                            $ 1,191,920          $   409,516
+                                                                                      ===========          ===========
+</TABLE>
+
+
+See accompanying notes.
+
+                                       5
+<PAGE>   6
+
+
+Analog Devices, Inc.
+Notes to Condensed Consolidated Financial Statements
+For the three months ended February 3, 2001
+(all tabular amounts in thousands except per share amounts)
+
+
+Note 1 - In the opinion of management, the information furnished in the
+accompanying condensed consolidated financial statements reflects all normal
+recurring adjustments that are necessary to fairly state the results for this
+interim period and should be read in conjunction with the Company's Annual
+Report to Stockholders on Form 10-K for the fiscal year ended October 28, 2000
+(2000 Annual Report).
+
+The Company has a 52-53 week fiscal year that ends on the Saturday closest to
+the last day in October. Fiscal 2001 is a 53-week fiscal year, with the
+additional week occurring in the first quarter ended February 3, 2001.
+
+Note 2 - Certain amounts reported in the previous year have been reclassified to
+conform to the fiscal 2001 presentation.
+
+Note 3 - Comprehensive Income
+
+Total comprehensive income, i.e., net income plus available-for-sale securities
+valuation adjustments, net gain or loss on derivative instruments designated as
+cash flow hedges and currency translation adjustments to stockholders' equity,
+for the first quarters of fiscal 2001 and fiscal 2000 was $190 million and $119
+million, respectively.
+
+Note 4 - Earnings Per Share
+
+Basic earnings per share is computed based only on the weighted average number
+of common shares outstanding during the period. Diluted earnings per share is
+computed using the weighted average number of common shares outstanding during
+the period, plus the dilutive effect of future issues of common stock relating
+to stock option programs and other potentially dilutive securities. In
+calculating diluted earnings per share, the dilutive effect of stock options is
+computed using the average market price for the period. Shares related to
+convertible debt financing are excluded because the effect would be
+anti-dilutive. The following table sets forth the computation of basic and
+diluted earnings per share:
+
+<TABLE>
+<CAPTION>
+
+                                                                      THREE MONTHS ENDED
+                                                              --------------------------------------
+                                                              FEBRUARY 3, 2001      JANUARY 29, 2000
+                                                              ----------------      ----------------
+<S>                                                              <C>                  <C>
+Basic:
+    Net income                                                   $  190,377           $   93,007
+                                                                 ==========           ==========
+
+    Weighted shares outstanding                                     357,070              349,352
+                                                                 ==========           ==========
+
+    Earnings per share                                                $0.53                $0.26
+                                                                      =====                =====
+
+Diluted:
+    Net income                                                   $  190,377           $   93,007
+                                                                 ==========           ==========
+
+    Weighted shares outstanding                                     357,070              349,352
+    Assumed exercise of common stock equivalents                     26,322               25,106
+                                                                 ----------           ----------
+    Weighted average common and common equivalent shares            383,392              374,458
+                                                                 ==========           ==========
+
+    Earnings per share                                                $0.50                $0.25
+                                                                      =====                =====
+</TABLE>
+
+                                       6
+<PAGE>   7
+
+
+
+Note 5 - Investments
+
+On December 27, 2000, the Company sold its investment in WaferTech, LLC to
+Taiwan Semiconductor Manufacturing Company. The Company received approximately
+$61 million in cash and realized a pretax gain of approximately $28 million. The
+realized gain is included in other nonoperating income.
+
+Note 6 - Acquisitions
+
+During the first quarter of fiscal 2001, the Company completed several
+acquisitions. On October 31, 2000, the Company acquired Thomas Neuroth AG
+(Neuroth) of Vienna, Austria for approximately $4 million in cash, with
+additional contingent cash consideration of up to $4 million payable if certain
+operational objectives are achieved. Neuroth is a developer of highly integrated
+circuits for symmetric DSL broadband access. On November 10, 2000, the Company
+acquired Signal Processing Associates Pty. Ltd., (SPA) of Victoria, Australia
+for approximately $3 million in cash, with additional contingent cash
+consideration of up to $1.5 million payable if certain operational objectives
+are achieved. SPA is a leading developer and supplier of voice processing and
+fax/data relay software for telecommunications applications. On December 18,
+2000, the Company acquired Integrated Micro Instruments, Inc. (IMI) of Berkeley,
+California for approximately $1 million in cash and 13,750 shares of common
+stock (valued at approximately $746,000), with an additional 50,000 shares of
+common stock issuable over the next five years upon the satisfaction of certain
+conditions. IMI develops leading edge MEMS process designs. On January 4, 2001,
+the Company acquired ChipLogic, Inc. (ChipLogic) of Santa Clara, California for
+cash of approximately $4 million and approximately 1 million shares of common
+stock (valued at approximately $60 million), with 489,375 shares of additional
+common stock issuable if certain operational objectives are achieved. ChipLogic
+is a developer of high-performance integrated circuits and software focused on
+the convergence of voice, broadband access and network protocol processing. In
+connection with the acquisition of ChipLogic, the Company recorded a charge of
+$9.5 million for the write-off of in-process research and development. On
+January 16, 2001, the Company acquired Staccato Systems, Inc. (Staccato) of
+Mountain View, California for approximately $23 million in cash, with additional
+contingent cash consideration of up to $7 million payable if certain operational
+objectives are achieved. Staccato is a leader in the field of audio synthesis
+technology. Any contingent consideration paid to Staccato will be accounted for
+as additional goodwill. Of the $4 million of contingent consideration payable to
+Neuroth, $3 million will be allocated to goodwill and $1 million will be
+accounted for as acquisition-related expense. All other contingent consideration
+will be accounted for as acquisition-related expense. These acquisitions were
+accounted for as purchases, and the excess of the purchase price over the fair
+value of the assets acquired was allocated to goodwill, which is being amortized
+on the straight-line basis over five years.
+
+Pro forma results of operations for Neuroth, SPA, IMI, ChipLogic and Staccato
+have not been provided herein as they were not material to the Company on either
+an individual or an aggregate basis. The results of operations of each
+acquisition are included in the Company's consolidated statement of income from
+the date of each acquisition.
+
+Note 7 - Segment Information
+
+The Company operates in two segments: the design, manufacture and marketing of a
+broad range of integrated circuits, which comprises approximately 98% of the
+Company's revenue, and the design, manufacture and marketing of a range of
+assembled products, which accounts for the remaining 2% of the Company's
+revenue. Effectively, the Company operates in one reportable segment.
+
+
+Note 8 - New Accounting Standards
+
+Revenue Recognition
+
+In December 1999, the Securities and Exchange Commission issued Staff Accounting
+Bulletin 101, (SAB 101), "Revenue Recognition in Financial Statements." SAB 101
+summarizes the application of generally accepted accounting principles to
+revenue recognition in financial statements. The Company will adopt SAB 101 in
+the fourth quarter of fiscal 2001 and does not expect SAB 101 to have a material
+effect on its financial position or results of operation.
+
+                                       7
+<PAGE>   8
+
+Derivatives
+
+Effective October 29, 2000, the Company adopted Statement of Financial
+Accounting Standards No. 133, (FAS 133), "Accounting for Derivative Instruments
+and Hedging Activities," as amended by Statement of Financial Accounting
+Standards No. 138, (FAS 138), "Accounting for Certain Instruments and Certain
+Hedging Activities". FAS 133 requires that an entity recognize all derivatives
+as either assets or liabilities and measure such instruments at fair market
+value. Under certain circumstances, a portion of the derivative's gain or loss
+is initially reported as a component of other comprehensive income (OCI) until
+the hedged transaction affects earnings. For a derivative not designated as a
+hedging instrument, the gain or loss is recognized in income in the period of
+change. The adoption of FAS 133 on October 29, 2000 did not have a material
+impact on operations; however, it resulted in a $5 million loss recognized in
+other comprehensive income. This loss will be reclassified into earnings during
+fiscal 2001.
+
+Foreign Exchange Exposure Management - The Company has significant international
+sales and purchase transactions in foreign currencies and has a policy of
+hedging forecasted and actual foreign currency risk with forward foreign
+exchange contracts. The Company's forward foreign exchange contracts are
+primarily denominated in Japanese yen and certain European currencies and are
+for periods consistent with the terms of the underlying transactions, generally
+one year or less. Derivative instruments are employed to eliminate or minimize
+certain foreign currency exposures that can be confidently identified and
+quantified. In accordance with FAS 133, hedges related to anticipated
+transactions are designated and documented at the inception of the respective
+hedge as cash flow hedges and evaluated for effectiveness monthly. As the terms
+of the forward contract and the underlying transaction are matched at inception,
+forward contract effectiveness is calculated by comparing the fair value of the
+contract to the change in the forward value of the anticipated transaction, with
+the effective portion of the gain or loss on the derivative instrument reported
+as a component of OCI in stockholders' equity and reclassified into earnings in
+the same period during which the hedged transaction affects earnings. Any
+residual change in fair value of the instruments, or ineffectiveness, is
+recognized immediately in Other expense. No ineffectiveness was recognized in
+the first quarter of fiscal 2001.
+
+Additionally, the Company enters into foreign currency forward contracts to
+hedge the gains and losses generated by the remeasurement of certain recorded
+assets and liabilities in a non-functional currency. Changes in the fair value
+of these undesignated hedges are recognized in Other expense immediately as an
+offset to the changes in the fair value of the asset or liability being hedged.
+
+Interest Rate Risk Management - The Company enters into interest rate swap and
+cap agreements to manage its exposure to interest rate movements by effectively
+converting a portion of its debt and certain financing arrangements from fixed
+to variable rates. Maturity dates of interest rate swap and cap agreements
+generally match those of the underlying debt or financing arrangements. These
+agreements, which have maturities of up to seven years, involve the exchange of
+fixed rate payments for variable rate payments without the exchange of the
+underlying principal amounts. Variable rates are based on six-month U.S. dollar
+LIBOR and are reset on a semiannual basis. The differential between fixed and
+variable rates to be paid or received is accrued as interest rates change in
+accordance with the agreements and recognized over the life of the agreements as
+an adjustment to interest expense. Given the insignificant value of the current
+interest rate swap and cap agreements, the Company has not designated these
+instruments as hedges. The change in fair value related to these instruments is
+recognized immediately in Other expense.
+
+Derivative financial instruments involve, to a varying degree, elements of
+market and credit risk not recognized in the consolidated financial statements.
+The market risk associated with these instruments resulting from currency
+exchange rate or interest rate movements is expected to offset the market risk
+of the underlying transactions, assets and liabilities being hedged. The
+counterparties to the agreements relating to the Company's foreign exchange and
+interest rate instruments consist of a number of major international financial
+institutions with high credit ratings. The Company does not believe that there
+is significant risk of nonperformance by these counterparties because the
+Company continually monitors the credit ratings of such counterparties, and
+limits the financial exposure and the amount of agreements entered into with any
+one financial institution. While the contract or notional amounts of derivative
+financial instruments provide one measure of the volume of these transactions,
+they do not represent the amount of the Company's exposure to credit risk. The
+amounts potentially subject to credit risk (arising from the possible inability
+of counterparties to meet the terms of their contracts) are generally limited to
+the amounts, if any, by which the counterparties' obligations under the
+contracts exceed the obligations of the Company to the counterparties.
+
+                                       8
+
+<PAGE>   9
+
+
+Accumulated Derivative Gains or Losses
+
+The following table summarizes activity in other comprehensive income related to
+derivatives classified as cash flow hedges held by the Company during the period
+of October 29, 2000 (the date of adoption of FAS 133) through February 3, 2001:
+
+Cumulative effect of adopting FAS 133 as of
+ October 29, 2000                                                      $  5,200
+Less: Reclassifications into earnings from other
+ comprehensive income                                                     2,800
+                                                                       --------
+                                                                          2,400
+Changes in fair value of derivatives - (gain) loss                       (2,500)
+                                                                       --------
+Accumulated (gain) loss included in other comprehensive income         $   (100)
+                                                                       ========
+
+Note 9 - Stock Split
+
+On February 15, 2000, the Company's Board of Directors approved a 2-for-1 split
+of the Company's common stock, effected as a 100% stock dividend on March 15,
+2000 by the distribution of one share of common stock for every share held on
+the record date of February 28, 2000. All historical per share amounts in this
+report have been restated to reflect the split.
+
+
+                                       9
+<PAGE>   10
+
+
+ITEM 2. Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+This information should be read in conjunction with the unaudited condensed
+consolidated financial statements and related notes included in Item 1 of this
+Quarterly Report and the audited consolidated financial statements and related
+notes and Management Analysis for the fiscal year ended October 28, 2000,
+contained in the our 2000 Annual Report.
+
+The following discussion and analysis may contain forward-looking statements.
+Such statements are subject to certain risks and uncertainties, including those
+discussed below or in our 2000 Annual Report, which could cause actual results
+to differ materially from our expectations. Readers are cautioned not to place
+undue reliance on any forward-looking statements, as they reflect management's
+current analysis. We undertake no obligation to release the results of any
+revision to these forward-looking statements that may be made to reflect events
+or circumstances after the date of this report or to reflect the occurrence of
+unanticipated events.
+
+Results of Operations
+
+         Net sales for the first quarter of fiscal 2001 increased by $282
+million, or 58%, to $772 million from $490 million for the first quarter of
+fiscal 2000. Analog IC product sales grew by 61% and DSP IC product sales grew
+by 48% over the same quarter last year. Sales to OEM customers increased 65%
+over the first quarter of fiscal 2000. Sales into the distribution channel
+increased 46% over the same quarter last year. Sales increased in all
+end-markets with the communications market representing the largest growth area.
+These year-over-year sales increases were attributable to growth in the markets
+we serve along with increased demand for our newest products.
+
+         Sales increased in all geographic regions with the largest increase
+occurring in North America. International sales for the first quarter of fiscal
+2001 and fiscal 2000 represented 56% of sales.
+
+         Our net sales for the first quarter of fiscal 2001 declined 4% from the
+fourth quarter of fiscal 2000 as a result of rapidly decreasing demand in the
+latter half of the first quarter of fiscal 2001. The decrease in demand was
+primarily the result of significant order cancellations and adjustments from
+computer and telecommunications customers and contract manufacturers in North
+America and Southeast Asia in response to an inventory build-up in both the OEM
+and distributor channels. We anticipate further revenue reductions in the second
+quarter of fiscal 2001 as this downward trend in demand has continued and has
+been exacerbated by a significant drop in consumer confidence in response to a
+pessimistic economic picture in the U.S. and Southeast Asia.
+
+         The gross margin for the first quarter of fiscal 2001 was 58.6%, an
+improvement of 450 basis points from the 54.1% gross margin realized in the
+first quarter of fiscal 2000. The improvement in gross margin was primarily due
+to the favorable effect of fixed costs allocated across a higher sales base and
+improved manufacturing efficiencies at our wafer fabrication, assembly and test
+facilities.
+
+         Research and development (R&D) expenses were $122 million for the three
+months ended February 3, 2001 compared to $83 million for the corresponding
+period of fiscal 2000. As a percentage of sales, R&D spending decreased during
+the first quarter of fiscal 2001 to 15.8%, down from 16.8% in the first quarter
+of fiscal 2000. In absolute dollar terms, R&D spending increased by $39 million
+in the first quarter of fiscal 2001 as compared to the first quarter of fiscal
+2000 as a result of our continued investment in opportunities in our served
+markets. Additional expenses associated with increased engineering headcount,
+combined with the effect of increased bonus accruals in the first quarter of
+fiscal 2001, were the main reasons for the year-over-year increase. We expect to
+continue the development of innovative technologies and processes for new
+products targeted for broadband and wireless communications applications,
+imaging, audio and high-performance power and thermal management products for
+computer and consumer product applications. We believe that a continued
+commitment to research and development is essential in order to maintain product
+leadership with our existing products and to provide innovative new product
+offerings, and therefore we expect to continue to make significant R&D
+investments in the future.
+
+         During the first quarter of fiscal 2001, we recorded a charge of $9.5
+million for the write-off of in-process R&D in connection with the acquisition
+of ChipLogic, Inc., of Santa Clara, California. The total cost of the
+acquisition was approximately $60 million in common stock and $4 million in
+cash, with additional contingent consideration of 489,375 shares of common stock
+payable if ChipLogic achieves certain operational objectives. The contingent
+consideration is expected to be accounted for as acquisition-related expense.
+
+                                       10
+<PAGE>   11
+
+         Amortization of intangibles was $10 million in the first quarter of
+fiscal 2001 as compared with $0.5 million recorded in the first quarter of
+fiscal 2000. The year-over-year increase was primarily due to the amortization
+of goodwill related to the purchase of BCO Technologies plc, Ltd. in the fourth
+quarter of fiscal 2000.
+
+         Selling, marketing, general and administrative (SMG&A) expenses for the
+first quarter of fiscal 2001 were $86 million, an increase of $21 million from
+the $65 million reported for the first quarter of fiscal 2000. As a percentage
+of sales, SMG&A decreased to 11.1% for the first quarter of fiscal 2001 from
+13.2% for the first quarter of fiscal 2000 as a result of increased sales and
+continued control over spending.
+
+         The combination of higher sales, higher gross margins and a reduction
+in operating expense ratios provided strong operating leverage that improved the
+operating margin to 29.2% of sales, compared to 24.0% in the first quarter of
+fiscal 2000.
+
+         Interest expense was $17 million for the first quarter of fiscal 2001
+and $2 million for the first quarter of fiscal 2000. The increase in interest
+expense was due to the issuance in the fourth quarter of fiscal 2000 of $1.2
+billion of 4.75% convertible subordinated notes.
+
+         Interest income was $41 million for the first quarter of fiscal 2001
+and $12 million for the first quarter of fiscal 2000. The increase in interest
+income was attributable to the interest earned on higher cash balances resulting
+from increased cash flow from operations as well as the unused portion of the
+funds from our 4.75% convertible subordinated notes.
+
+         During the first quarter of fiscal 2001, we sold our investment in
+WaferTech, LLC to Taiwan Semiconductor Manufacturing Company for $61 million in
+cash. As a result of this transaction, we recorded a pretax gain of
+approximately $28 million, which is included in other nonoperating income.
+
+         Our effective income tax rate increased to 31% for the first quarter of
+fiscal 2001 from 27% for the first quarter of fiscal 2000 primarily due to a
+shift in the mix of worldwide profits as well as a taxable capital gain from the
+sale of our WaferTech investment in the first quarter of fiscal 2001.
+
+Liquidity and Capital Resources
+
+         At February 3, 2001, we had $2,350 million of cash, cash equivalents
+and short-term investments, an increase of $115 million from the fourth quarter
+of 2000 and $1,455 million from the first quarter of fiscal 2000. The sequential
+increase in cash, cash equivalents and short-term investments was primarily due
+to operating cash inflows of $253 million, partially offset by increased capital
+expenditures. The year-over-year increase in cash, cash equivalents and
+short-term investments was primarily due to $1,172 million of proceeds from the
+issuance of our 4.75% convertible subordinated notes in the fourth quarter of
+fiscal 2000.
+
+         Accounts receivable totaled $421 million at the end of the first
+quarter of fiscal 2001, a decrease of $43 million from the fourth quarter of
+fiscal 2000 primarily due to a 4% sequential decline in sales. Accounts
+receivable increased $123 million from the first quarter of fiscal 2000 due to
+higher sales levels. Days sales outstanding improved from 56 days at January 29,
+2000 to 49 days at February 3, 2001.
+
+         Inventories of $357 million at February 3, 2001 increased by $25
+million from the fourth quarter of fiscal 2000 and $107 million from the first
+quarter of fiscal 2000. Days cost of sales in inventory remained flat
+year-over-year despite increased inventory levels in response to a 58% increase
+in sales and higher demand for our products. The sequential increase in
+inventory levels was due to a general economic slowdown during the first quarter
+of fiscal 2001 that is constraining demand for technology products.
+
+         Net additions to property, plant and equipment of $139 million for the
+first quarter of fiscal 2001 were funded with a combination of cash on hand and
+cash generated from operations. Capital spending in the first quarter of fiscal
+2001 increased over the $41 million spent in the first quarter of fiscal 2000,
+primarily attributable to the expansion of manufacturing capability to meet
+sales growth during fiscal 2000. We currently plan to make capital expenditures
+of approximately $400 million in fiscal 2001.
+
+
+                                       11
+<PAGE>   12
+
+         During the first quarter of fiscal 2001, we completed several
+acquisitions. On October 31, 2000, we acquired Thomas Neuroth AG (Neuroth) of
+Vienna, Austria for approximately $4 million in cash, with additional contingent
+cash consideration of up to $4 million payable if certain operational objectives
+are achieved. Neuroth is a developer of highly integrated circuits for symmetric
+DSL broadband access. On November 10, 2000, we acquired Signal Processing
+Associates Pty. Ltd., (SPA) of Victoria, Australia for approximately $3 million
+in cash, with additional contingent cash consideration of up to $1.5 million
+payable if certain operational objectives are achieved. SPA is a leading
+developer and supplier of voice processing and fax/data relay software for
+telecommunications applications. On December 18, 2000, we acquired Integrated
+Micro Instruments, Inc. (IMI) of Berkeley, California for approximately $1
+million in cash and 13,750 shares of our common stock, with an additional 50,000
+shares of common stock issuable over the next five years upon the satisfaction
+of certain conditions. IMI develops leading edge MEMS process designs. On
+January 4, 2001, we acquired ChipLogic, Inc. (ChipLogic) of Santa Clara,
+California for approximately 1 million shares of our common stock, with 489,375
+shares of additional common stock issuable if certain operational objectives are
+achieved. ChipLogic is a developer of high-performance integrated circuits and
+software focused on the convergence of voice, broadband access and network
+protocol processing. On January 16, 2001, we acquired Staccato Systems, Inc.
+(Staccato) of Mountain View, California for approximately $23 million in cash,
+with additional contingent cash consideration of up to $7 million payable if
+certain operational objectives are achieved. Staccato is a leader in the field
+of audio synthesis technology.
+
+         At February 3, 2001, our principal sources of liquidity were $2,350
+million of cash, cash equivalents and short-term investments.
+
+         We believe that our existing sources of liquidity and cash expected to
+be generated from future operations, together with current and anticipated
+available long-term financing, will be sufficient to fund operations, capital
+expenditures and research and development efforts for the foreseeable future.
+
+
+                                       12
+<PAGE>   13
+
+
+Factors Which May Affect Future Results
+
+We may experience material fluctuations in future operating results.
+
+Our future operating results are difficult to predict and may be affected by a
+number of factors including the timing of new product announcements or
+introductions by us and our competitors, competitive pricing pressures,
+fluctuations in manufacturing yields, adequate availability of wafers and
+manufacturing capacity, the effects of adverse changes in overall economic
+conditions, the risk that our backlog could decline significantly, our ability
+to continue hiring engineers and other qualified employees needed to meet the
+expected demands of our largest customers and changes in product mix and
+economic conditions in the United States and international markets. In addition,
+the semiconductor market has historically been cyclical and subject to
+significant economic downturns at various times. Our business is subject to
+rapid technological changes and there can be no assurance, depending on the mix
+of future business, that products stocked in inventory will not be rendered
+obsolete before we ship them. As a result of these and other factors, there can
+be no assurance that we will not experience material fluctuations in future
+operating results on a quarterly or annual basis.
+
+Our future success depends upon our ability to develop and market new products
+and enter new markets.
+
+Our success depends in part on our continued ability to develop and market new
+products. There can be no assurance that we will be able to develop and
+introduce new products in a timely manner or that new products, if developed,
+will achieve market acceptance. In addition, our growth is dependent on our
+continued ability to penetrate new markets where we have limited experience and
+competition is intense. There can be no assurance that the markets we serve will
+grow in the future; that our existing and new products will meet the
+requirements of these markets; that our products will achieve customer
+acceptance in these markets; that competitors will not force prices to an
+unacceptably low level or take market share from us; or that we can achieve or
+maintain profits in these markets. Also, some of our customers in these markets
+are less well established, which could subject us to increased credit risk.
+
+We may not be able to compete successfully in the semiconductor industry in the
+future.
+
+The semiconductor industry is intensely competitive. Some of our competitors
+have greater technical, marketing, manufacturing and financial resources than we
+do. Our competitors also include emerging companies attempting to sell products
+to specialized markets such as those that we serve. Our competitors have, in
+some cases, developed and marketed products having similar design and
+functionality as our products. There can be no assurance that we will be able to
+compete successfully in the future against existing or new competitors or that
+our operating results will not be adversely affected by increased price
+competition.
+
+We may not be able to satisfy increasing demand for our products, and increased
+production may lead to overcapacity and lower prices.
+
+The cyclical nature of the semiconductor industry has resulted in sustained or
+short-term periods when demand for our products has increased or decreased
+rapidly. We and the semiconductor industry have experienced a period of rapid
+increases in demand during the past two fiscal years. We have increased our
+manufacturing capacity over the past three years through both expansion of our
+production facilities and increased access to third-party foundries. However, we
+cannot be sure that we will not encounter unanticipated production problems at
+either our own facilities or at third-party foundries, or that the increased
+capacity will be sufficient to satisfy demand for our products. We believe that
+other semiconductor manufacturers have expanded their production capacity over
+the past several years. This expansion by us and our competitors could lead to
+overcapacity in our target markets, which could lead to price erosion that would
+adversely affect our operating results.
+
+We rely on third-party subcontractors and manufacturers for some
+industry-standard wafers and therefore cannot control their availability or
+conditions of supply.
+
+We rely, and plan to continue to rely, on assembly and test subcontractors and
+on third-party wafer fabricators to supply most of our wafers that can be
+manufactured using industry-standard digital processes. This reliance involves
+several risks, including reduced control over delivery schedules, manufacturing
+yields and costs.
+
+                                       13
+<PAGE>   14
+
+Our revenues may not increase enough to offset the expense of additional
+capacity.
+
+Our capacity additions resulted in a significant increase in operating expenses.
+If revenue levels do not increase enough to offset these additional expense
+levels, our future operating results could be adversely affected. In addition,
+asset values could be impaired if the additional capacity is underutilized for
+an extended period of time.
+
+We rely on manufacturing capacity located in geologically unstable areas, which
+could affect the availability of supplies and services.
+
+We and many companies in the semiconductor industry rely on internal
+manufacturing capacity located in California and Taiwan as well as wafer
+fabrication foundries in Taiwan and other sub-contractors in geologically
+unstable locations around the world. This reliance involves risks associated
+with the impact of earthquakes on us and the semiconductor industry, including
+temporary loss of capacity, availability and cost of key raw materials and
+equipment, and availability of key services including transport.
+
+We are exposed to economic and political risks through our significant
+international operations.
+
+During the first quarter of fiscal 2001, 56% of our revenues were derived from
+customers in international markets. We have manufacturing facilities outside the
+United States in Ireland, the United Kingdom, the Philippines and Taiwan. In
+addition to being exposed to the ongoing economic cycles in the semiconductor
+industry, we are also subject to the economic and political risks inherent in
+international operations, including the risks associated with the ongoing
+uncertainties in many developing economies around the world. These risks include
+air transportation disruptions, expropriation, currency controls and changes in
+currency exchange rates, tax and tariff rates and freight rates. Although we
+engage in hedging transactions to reduce our exposure to currency exchange rate
+fluctuations, there can be no assurance that our competitive position will not
+be adversely affected by changes in the exchange rate of the U.S. dollar against
+other currencies.
+
+We are involved in frequent litigation regarding intellectual property rights,
+which could be costly to undertake and could require us to redesign products or
+pay significant royalties.
+
+The semiconductor industry is characterized by frequent claims and litigation
+involving patent and other intellectual property rights. We have from time to
+time received, and may in the future receive, claims from third parties
+asserting that our products or processes infringe their patents or other
+intellectual property rights. In the event a third party makes a valid
+intellectual property claim and a license is not available on commercially
+reasonable terms, we could be forced either to redesign or to stop production of
+products incorporating that intellectual property, and our operating results
+could be materially and adversely affected. Litigation may be necessary to
+enforce patents or other of our intellectual property rights or to defend us
+against claims of infringement, and this litigation can be costly and divert the
+attention of key personnel. See Note 11 of the Notes to our Consolidated
+Financial Statements for the fiscal year ended October 28, 2000 for information
+concerning pending litigation involving us. An adverse outcome in this
+litigation could have a material adverse effect on our consolidated financial
+position or on our consolidated results of operations or cash flows in the
+period in which the litigation is resolved.
+
+Leverage and debt service obligations may adversely affect our cash flow.
+
+We have a substantial amount of outstanding indebtedness. There is the
+possibility that we may be unable to generate cash sufficient to pay the
+principal of, interest on and other amounts due in respect of this indebtedness
+when due. Our substantial leverage could have significant negative consequences.
+This substantial leverage could increase our vulnerability to general adverse
+economic and industry conditions. It may require the dedication of a substantial
+portion of our expected cash flow from operations to service the indebtedness,
+thereby reducing the amount of our expected cash flow available for other
+purposes, including capital expenditures. It may also limit our flexibility in
+planning for, or reacting to, changes in our business and the industry in which
+we operate.
+
+                                       14
+<PAGE>   15
+
+
+ITEM 3. Quantitative and Qualitative Disclosures About Market Risk
+
+The information required by this item is incorporated herein by reference to the
+"Management Analysis" set forth on pages 18 through 25 of the 2000 Annual Report
+to Shareholders.
+
+ITEM 6. Exhibits and reports on Form 8-K
+
+    (a) Exhibits
+
+        None
+
+    (b) Report on Form 8-K
+
+        Form 8-K, dated December 7, 2000, as amended by Form 8-K/A dated
+December 13, 2000, reporting under Item 7 selected consolidated financial data
+for the five-year period ended October 30, 1999 and description of capital
+stock.
+
+        Items 1, 2, 3, 4 and 5 of PART II are not applicable and have been
+omitted.
+
+                                       15
+<PAGE>   16
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+                                        ANALOG DEVICES, INC.
+                                        --------------------
+                                           (Registrant)
+
+
+
+Date:   March 19, 2001                  By:   /s/ Jerald G. Fishman
+                                              ----------------------------------
+                                              Jerald G. Fishman
+                                              President and
+                                              Chief Executive Officer
+                                              (Principal Executive Officer)
+
+
+Date:   March 19, 2001                  By:   /s/ Joseph E. McDonough
+                                              ----------------------------------
+                                              Joseph E. McDonough
+                                              Vice President-Finance
+                                              and Chief Financial Officer
+                                              (Principal Financial and
+                                              Accounting Officer)
+
+
+
+                                       16
+</TEXT>
+</DOCUMENT>
