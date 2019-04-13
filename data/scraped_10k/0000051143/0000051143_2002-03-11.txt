@@ -1,0 +1,962 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>a2071411z10-k405.txt
+<DESCRIPTION>10-K405
+<TEXT>
+<Page>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                   FORM 10-K
+
+                                 ANNUAL REPORT
+
+                    PURSUANT TO SECTION 13 OR 15 (D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+                      FOR THE YEAR ENDED DECEMBER 31, 2001
+
+                                     1-2360
+
+                            (Commission file number)
+
+                  INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+             (Exact name of registrant as specified in its charter)
+
+<Table>
+<S>                                       <C>
+                NEW YORK                               13-0871985
+        (State of Incorporation)          (IRS Employer Identification Number)
+
+            ARMONK, NEW YORK                             10504
+(Address of principal executive offices)               (Zip Code)
+</Table>
+
+                                  914-499-1900
+                        (Registrant's telephone number)
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+<Table>
+<Caption>
+                                         VOTING SHARES OUTSTANDING    NAME OF EACH EXCHANGE
+TITLE OF EACH CLASS                          AT MARCH 1, 2002          ON WHICH REGISTERED
+-------------------                      -------------------------   -----------------------
+<S>                                      <C>                         <C>
+Capital stock, par value $.20 per share        1,716,941,848         New York Stock Exchange
+                                                                     Chicago Stock Exchange
+                                                                     Pacific Stock Exchange
+
+7.25% Notes due 2002                                                 New York Stock Exchange
+6.45% Notes due 2007                                                 New York Stock Exchange
+5.375% Notes due 2009                                                New York Stock Exchange
+7.50% Debentures due 2013                                            New York Stock Exchange
+8.375% Debentures due 2019                                           New York Stock Exchange
+7.00% Debentures due 2025                                            New York Stock Exchange
+6.22% Debentures due 2027                                            New York Stock Exchange
+6.50% Debentures due 2028                                            New York Stock Exchange
+7.00% Debentures due 2045                                            New York Stock Exchange
+7.125% Debentures due 2096                                           New York Stock Exchange
+</Table>
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/   No / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. /X/
+
+    The aggregate market value of the voting stock held by non-affiliates of the
+registrant at March 1, 2002 was $176.9 billion.
+
+Documents incorporated by reference:
+
+    Portions of IBM's Annual Report to Stockholders for the year ended
+December 31, 2001 into Parts I, II and IV of Form 10-K.
+
+    Portions of IBM's definitive Proxy Statement dated March 11, 2002 into
+Part III of Form 10-K.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<Page>
+                                     PART I
+
+ITEM 1. BUSINESS:
+
+    International Business Machines Corporation (IBM) was incorporated in the
+State of New York on June 16, 1911, as the Computing-Tabulating-Recording Co.
+(C-T-R), a consolidation of the Computing Scale Co. of America, the Tabulating
+Machine Co., and The International Time Recording Co. of New York. In 1924,
+C-T-R adopted the name International Business Machines Corporation.
+
+    IBM uses advanced information technology to provide customer solutions. The
+company operates primarily in a single industry using several segments that
+create value by offering a variety of solutions that include, either singularly
+or in some combination, technologies, systems, products, services, software and
+financing.
+
+    Organizationally, the company's major operations comprise a Global Services
+segment; three hardware product segments--Enterprise Systems, Personal and
+Printing Systems and Technology; a Software segment; a Global Financing segment
+and an Enterprise Investments segment. The segments are determined based on
+several factors, including customer base, homogeneity of products, technology
+and delivery channels.
+
+    IBM offers its products through its global sales and distribution
+organizations. The sales and distribution organizations have both a geographic
+focus (in the Americas, Europe/Middle East/Africa, and Asia Pacific) and a
+specialized and global industry focus. In addition, these organizations include
+a global sales and distribution effort devoted exclusively to small and medium
+businesses. IBM also offers its products through a variety of third party
+distributors and resellers, as well as through its on-line channels.
+
+    While the company's various proprietary intellectual property rights are
+important to its success, IBM believes its business as a whole is not materially
+dependent on any particular patent or license, or any particular group of
+patents or licenses. IBM owns or is licensed under a number of patents, which
+vary in duration, relating to its products. Licenses under patents owned by IBM
+have been and are being granted to others under reasonable terms and conditions.
+These protections may not prevent competitors from independently developing
+products and services similar to or duplicative of the company's nor can there
+be any assurance that these protections will adequately deter misappropriation
+or improper use of the company's technology. Also, there can be no assurances
+that IBM will be able to obtain from third parties the licenses it needs in the
+future.
+
+    IBM's businesses employ a wide variety of components, supplies and raw
+materials from a substantial number of suppliers around the world. Certain of
+the company's businesses rely on a single or limited number of suppliers,
+although the company makes every effort to assure that alternative sources are
+available if the need arises. The failure of the company's suppliers to deliver
+components, supplies and raw materials in sufficient quantities and in a timely
+manner could adversely affect the company's business.
+
+    IBM's revenues are affected by such factors as the introduction of new
+products, the length of the sales cycles and the seasonality of technology
+purchases. As a result, the company's results are difficult to predict. These
+factors historically have resulted in lower revenue in the first quarter than in
+the immediately preceding fourth quarter.
+
+    The value of unfilled orders is not a meaningful indicator of future
+revenues from the company's product offerings due to the significant proportion
+of revenue from services, the volume of products delivered from shelf
+inventories, and the shortening of product delivery schedules. With respect to
+the company's Global Services segment, in 2001 the company signed contracts
+totaling $51 billion, which contributed to a services backlog at December 31,
+2001 of $102 billion, compared with $85 billion at the end of 2000.
+
+    The company operates in businesses that are subject to intense competitive
+pressures. The company's businesses face a significant number of competitors,
+ranging from Fortune 50 companies to
+
+                                       1
+<Page>
+an increasing number of relatively small, rapidly growing and highly specialized
+organizations. The company believes that its combination of technology,
+performance, quality, reliability, price and the breadth of products and service
+offerings are important competitive factors.
+
+    Intense competitive pressures could affect prices or demand for the
+company's products and services, resulting in reduced profit margins and /or
+loss of market opportunity. Unlike many of its competitors, the company has a
+portfolio of businesses and must allocate resources across these businesses
+while competing with companies that specialize in one or more of these product
+lines. As a result, the company may not fund or invest in certain of its
+businesses to the same degree that its competitors do and these competitors may
+have greater financial, technical and marketing resources available to them than
+the businesses against which they compete.
+
+    The company operates in more than 150 countries worldwide and derives more
+than half of its revenues from sales outside the United States. Changes in the
+laws or policies of the countries in which the company operates could affect the
+company's business in that country and the company's results of operations. The
+company's results of operations also could be affected by economic and political
+changes in those countries and by macroeconomic changes, including recessions
+and inflation.
+
+    The following information is included in IBM's 2001 Annual Report to
+Stockholders and is incorporated herein by reference:
+
+    Segment information and revenue by classes of similar products or
+services--Pages 100 through 105.
+
+    Financial information by geographic areas--Page 105.
+
+    Amount spent during each of the last three years on research and development
+activities--Page 91.
+
+    Financial information regarding environmental activities--Page 88.
+
+    The number of persons employed by the registrant--Page 69.
+
+    The management discussion overview--Pages 55 and 56.
+
+    Forward-looking and Cautionary Statements: Certain statements contained in
+this Annual Report may constitute "forward-looking statements" within the
+meaning of the Private Securities Litigation Reform Act of 1995 ("Reform Act").
+The company may also make forward-looking statements in other reports filed with
+the Securities and Exchange Commission, in materials delivered to stockholders
+and in press releases. In addition, the company's representatives may from time
+to time make oral forward-looking statements. Forward-looking statements provide
+current expectations of future events based on certain assumptions and include
+any statement that does not directly relate to any historical or current fact.
+Words such as "anticipates," "believes," "expects," "estimates," "intends,"
+"plans," "projects," and similar expressions, may identify such forward-looking
+statements. The company assumes no obligation to update or revise any
+forward-looking statements. In accordance with the Reform Act, set forth below
+are cautionary statements that accompany those forward-looking statements.
+Readers should carefully review these cautionary statements as they identify
+certain important factors that could cause actual results to differ materially
+from those in the forward-looking statements and from historical trends. The
+following cautionary statements are not exclusive and are in addition to other
+factors discussed elsewhere in this Annual Report, in the company's filings with
+the Securities and Exchange Commission or in materials incorporated therein by
+reference.
+
+    New Products and the Pace of Technological Change: The company's results of
+operations depend on the continued successful development and marketing of new
+and innovative products and services. The development of new products and
+services requires significant capital investments by the company's various
+businesses and the success of these products and services depends on their
+acceptance by customers and business partners. Further, the company's businesses
+are characterized by rapid technological changes and corresponding shifts in
+customer demand, resulting in unpredictable product transitions and shortened
+life cycles and increasing emphasis on being first to market with new products
+and services.
+
+                                       2
+<Page>
+    There can be no assurance that the company will successfully introduce new
+products and services, that these products and services will be accepted by
+customers, or that the company's businesses will recoup or realize a return on
+their capital investments. In addition, from time to time the company may
+experience difficulties or delays in the development, production or marketing of
+new products and services.
+
+    Volatility of Stock Prices: The company's stock price is affected by a
+number of factors, including quarterly variations in results, the competitive
+landscape, general economic and market conditions and estimates and projections
+by the investment community. As a result, like other technology companies, the
+company's stock price is subject to significant volatility.
+
+    Dependence on and Compensation of Key Personnel: Much of the future success
+of the company depends on the continued service and availability of skilled
+personnel, including technical, marketing and staff positions. Experienced
+personnel in the information technology industry are in high demand and
+competition for their talents is intense. There can be no assurance that the
+company will be able to successfully retain and attract the key personnel it
+needs. Many of the company's key personnel receive a total compensation package
+that includes stock options and other equity awards. New regulations, volatility
+in the stock market and other factors could diminish the value of the company's
+equity awards, putting the company at a competitive disadvantage or forcing the
+company to use more cash compensation.
+
+    Currency and Customer Financing Risks: The company derives a significant
+percentage of its non-U.S. revenues from its affiliates operating in local
+currency environments and its results are affected by changes in the relative
+values of non-U.S. currencies and the U.S. dollar. Further, inherent in the
+company's customer financing business are risks related to the concentration of
+credit risk and the creditworthiness of the customer, interest rate and currency
+fluctuations on the associated debt and liabilities and the determination of
+residual values. The company employs a number of strategies to manage these
+risks, including the use of derivative financial instruments. Derivatives
+involve the risk of non-performance by the counterparty. In addition, there can
+be no assurance that the company's efforts to manage these risks will be
+successful.
+
+    Distribution Channels: The company offers its products directly and through
+a variety of third party distributors and resellers. Changes in the financial or
+business condition of these distributors and resellers could subject the company
+to losses and affect its ability to bring its products to market.
+
+    Acquisitions and Alliances: The company has made and expects to continue to
+make acquisitions or enter into alliances from time to time. Acquisitions and
+alliances present significant challenges and risks relating to the integration
+of the business into the company, and there can be no assurances that the
+company will manage acquisitions and alliances successfully.
+
+ITEM 2. PROPERTIES:
+
+    At December 31, 2001, IBM's manufacturing and development facilities in the
+United States had aggregate floor space of 40.8 million square feet, of which
+31.5 million was owned and 9.3 million was leased. Of these amounts,
+2.4 million square feet was vacant and 1.9 million square feet was being leased
+to non-IBM businesses. Similar facilities in 15 other countries totaled
+15.2 million square feet, of which 10.7 million was owned and 4.5 million was
+leased. Of these amounts, 0.6 million square feet was vacant and 0.9 million
+square feet was being leased to non-IBM businesses.
+
+    Although improved production techniques, productivity gains and
+infrastructure reduction actions have resulted in reduced manufacturing floor
+space, continuous upgrading of facilities is essential to maintain technological
+leadership, improve productivity, and meet customer demand. For additional
+information on expenditures for plant, rental machines and other property, refer
+to "Investments" on pages 65 and 66 of IBM's 2001 Annual Report to Stockholders
+which is incorporated herein by reference.
+
+                                       3
+<Page>
+EXECUTIVE OFFICERS OF THE REGISTRANT (AT MARCH 11, 2002):
+
+<Table>
+<Caption>
+                                                                         OFFICER
+                                                                AGE       SINCE
+                                                              --------   --------
+<S>                                                           <C>        <C>
+Chairman of the Board
+Louis V. Gerstner, Jr.(1)...................................     60        1993
+
+President and Chief Executive Officer
+Samuel J. Palmisano(1)......................................     50        1997
+
+Vice Chairman of the Board
+John M. Thompson(1).........................................     59        1989
+
+Senior Vice Presidents:
+Nicholas M. Donofrio, Group Executive.......................     56        1995
+Douglas T. Elix, Group Executive............................     53        1999
+J. Bruce Harreld, Strategy..................................     51        1995
+Paul M. Horn, Research......................................     55        1996
+Jon C. Iwata, Communications................................     39        2002
+John R. Joyce, Chief Financial Officer......................     48        1999
+John E. Kelly III, Group Executive..........................     48        2000
+Abby F. Kohnstamm, Marketing................................     48        1998
+Joseph C. Lane, Group Executive.............................     48        2001
+J. Michael Lawrie, Group Executive..........................     48        2001
+Edward M. Lineen, General Counsel...........................     61        2002
+J. Randall MacDonald, Human Resources.......................     53        2000
+Steven A. Mills, Group Executive............................     50        2000
+Robert W. Moffat, Jr., Group Executive......................     45        2002
+Lawrence R. Ricciardi, General Counsel......................     61        1995
+Linda S. Sanford, Group Executive...........................     49        2000
+William M. Zeitler, Group Executive.........................     54        2000
+
+Vice Presidents:
+Mark Loughridge, Controller.................................     48        1998
+Daniel E. O'Donnell, Secretary..............................     54        1998
+Robert F. Woods, Treasurer..................................     46        2000
+</Table>
+
+------------------------
+
+(1) Member of the Board of Directors.
+
+    All executive officers are elected by the Board of Directors and serve until
+the next election of officers in conjunction with the annual meeting of the
+stockholders as provided in the By-laws. Each executive officer named above,
+with the exception of Joseph C. Lane and J. Randall MacDonald have been an
+executive of IBM or its subsidiaries during the past five years.
+
+    Mr. Lane was with GATX Capital, a subsidiary of GATX Corporation, a holding
+company which provides railcar leasing and management, financial services,
+terminals and pipelines, and shipping and warehousing services, as president and
+CEO for four years prior to joining IBM in 1998. In previous assignments at GATX
+Capital, Mr. Lane led operations including five offices in Europe, two in
+Canada, four in Asia and two in Australia; was responsible for the newly created
+Technology Services Group, Corporate Finance Group, the Rail Group and GATX Air;
+was responsible for development of joint ventures and strategic alliances; and
+was responsible for sales, marketing and syndications.
+
+    Mr. MacDonald was with GTE (now Verizon Communications), a
+telecommunications company, as executive vice president of human resources and
+administration until joining IBM in 2000. He was with GTE for 17 years holding
+positions of increasing responsibility. Before joining GTE, Mr. MacDonald held
+human resources positions at Ingersoll-Rand Corporation and Sterling Drug, Inc.
+
+                                       4
+<Page>
+ITEM 3. LEGAL PROCEEDINGS:
+
+    Refer to note n "Contingencies and Commitments" on page 89 of IBM's 2001
+Annual Report to Stockholders which is incorporated herein by reference.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS:
+
+    Not applicable.
+
+                                    PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+  MATTERS:
+
+    Refer to pages 106 and 107 of IBM's 2001 Annual Report to Stockholders which
+are incorporated herein by reference solely as they relate to this item.
+
+    IBM common stock is listed on the New York Stock Exchange, Chicago Stock
+Exchange and Pacific Stock Exchange. There were 677,418 common stockholders of
+record at March 1, 2002.
+
+ITEM 6. SELECTED FINANCIAL DATA:
+
+    Refer to page 106 of IBM's 2001 Annual Report to Stockholders which is
+incorporated herein by reference.
+
+    ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS:
+
+    Refer to pages 55 through 69 of IBM's 2001 Annual Report to Stockholders
+which are incorporated herein by reference.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS:
+
+    Refer to the section titled "Market Risk" on pages 68 and 69 of IBM'S 2001
+Annual Report to Stockholders which is incorporated herein by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA:
+
+    Refer to page 54 and 70 through 105 of IBM's 2001 Annual Report to
+Stockholders which are incorporated herein by reference. Also refer to the
+Financial Statement Schedule on page S-1 of this Form.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+  FINANCIAL DISCLOSURE:
+
+    Not applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT:
+
+    Refer to pages 5 through 8 of IBM's definitive Proxy Statement dated
+March 11 2002, which are incorporated herein by reference. Also refer to Item 2
+entitled "Executive Officers of the Registrant" in Part I of this Form.
+
+ITEM 11. EXECUTIVE COMPENSATION:
+
+    Refer to pages 13 through 21 of IBM's definitive Proxy Statement dated
+March 11, 2002, which are incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT:
+
+    (a) Security Ownership of Certain Beneficial Owners:
+
+        Not applicable.
+
+                                       5
+<Page>
+    (b) Security Ownership of Management:
+
+        Refer to the section entitled "Ownership of Securities--Common Stock and
+        Total Stock-Based Holdings" appearing on pages 11 and 12 of IBM's
+        definitive Proxy Statement dated March 11, 2002, which are incorporated
+        herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS:
+
+    Refer to the section entitled "Other Relationships" appearing on page 10 of
+IBM's definitive Proxy Statement dated March 11, 2002, which is incorporated
+herein by reference.
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K:
+
+    (a) The following documents are filed as part of this report:
+
+       1.  Financial statements from IBM's 2001 Annual Report to Stockholders
+           which are incorporated herein by reference:
+
+           Report of Independent Accountants (page 54).
+
+           Consolidated Statement of Earnings for the years ended December 31,
+           2001, 2000 and 1999 (page 70).
+
+           Consolidated Statement of Financial Position at December 31, 2001 and
+           2000 (page 71).
+
+           Consolidated Statement of Stockholders' Equity at December 31, 2001,
+           2000 and 1999 (pages 72 and 73).
+
+           Consolidated Statement of Cash Flows for the years ended
+           December 31, 2001, 2000 and 1999 (page 74).
+
+           Notes to Consolidated Financial Statements (pages 75 through 105).
+
+       2.  Financial statement schedules required to be filed by Item 8 of this
+           Form:
+
+<Table>
+<Caption>
+        SCHEDULE
+PAGE     NUMBER
+----   -----------
+<C>    <C>           <S>
+ 10                  Report of Independent Accountants on Financial
+                     Statement Schedules.
+
+S-1            II    Valuation and Qualifying Accounts and Reserves.
+</Table>
+
+    All other schedules are omitted as the required matter is not present, the
+amounts are not significant or the information is shown in the consolidated
+financial statements or the notes thereto.
+
+       3.  Exhibits:
+
+       Included in this Form 10-K:
+
+<Table>
+            <S>  <C>        <C>                     <C>
+            I    --         Computation of Ratio of Earnings to Fixed Charges and Earnings to
+                            Combined Fixed Charges and Preferred Stock Dividends.
+
+            II   --         Parents and Subsidiaries.
+
+            III  --         Consent of Independent Accountants.
+
+            IV   --         Additional Exhibits     (a) Quarterly Consolidated Statement of Earnings--
+                                                       Restated 2001
+                                                    (b) Quarterly Consolidated Statement of Earnings--
+                                                       Restated 2000
+
+            V    --         IBM's 2001 Annual Report to Stockholders, certain sections of
+                            which have been incorporated herein by reference.
+
+            VI   --         Powers of Attorney.
+</Table>
+
+                                       6
+<Page>
+    Not included in this Form 10-K:
+
+<Table>
+<S>  <C>        <C>
+     --         The Certificate of Incorporation of IBM is
+                Exhibit (3)(i) to Form 8-K filed April 28, 1999, and is
+                hereby incorporated by reference.
+
+     --         The By-laws of IBM as amended through January 1, 2001, is
+                Attachment III to Form 8-K dated January 17, 2001, and is
+                hereby incorporated by reference.
+
+     --         The IBM 1999 Long-Term Performance Plan, a compensatory
+                plan, is contained in Registration Statement No. 333-30424
+                on Form S-8, filed on February 15, 2000, and is hereby
+                incorporated by reference.
+
+     --         The IBM 1997 Long-Term Performance Plan, a compensatory
+                plan, is contained in Registration Statement No. 333-31305
+                on Form S-8, filed on July 15, 1997, and is hereby
+                incorporated by reference.
+
+     --         Board of Directors compensatory plans, as described under
+                "Directors' Compensation" on pages 10 and 11 of IBM's
+                definitive Proxy Statement dated March 11, 2002, and is
+                hereby incorporated by reference.
+
+     --         IBM Board of Directors Deferred Compensation and Equity
+                Award Plan is Exhibit X to Form 10-K for the year ended
+                December 31, 1996, and is hereby incorporated by reference.
+
+     --         The IBM Non-Employee Directors Stock Option Plan is
+                Appendix B to IBM's definitive Proxy Statement dated
+                March 14, 1995, and is hereby incorporated by reference.
+
+     --         The IBM Executive Deferred Compensation Plan is contained in
+                Registration Statement No. 333-33692 as Exhibit 4 on
+                Form S-8, filed March 31, 2000, and is hereby incorporated
+                by reference.
+
+     --         The IBM Supplemental Executive Retention Plan is
+                Exhibit VII to Form 10-K for the year ended December 31,
+                1999, and is hereby incorporated by reference.
+
+     --         The IBM Extended Tax Deferred Savings Plan is Exhibit X to
+                Form 10-K for the year ended December 31, 1994, and is
+                hereby incorporated by reference.
+
+     --         The Employment Agreement for L. V. Gerstner, Jr. Is
+                Exhibit 19 to Form 10-Q dated March 31, 1993, and is hereby
+                incorporated by reference.
+
+     --         Amendment to Employment Agreement for L. V. Gerstner, Jr.
+                dated as of January 1, 1996, is Exhibit XI to Form 10-K for
+                the year ended December 31, 1995, and is hereby
+                incorporated by reference.
+
+     --         Second Amendment to Employment Agreement for L. V. Gerstner,
+                Jr. dated as of November 17, 1997, is Exhibit VI to
+                Form 10-K for the year ended December 31, 1997, and is
+                hereby incorporated by reference.
+
+     --         The instruments defining the rights of the holders of the
+                7.25% Notes due 2002 are Exhibits 4(a) through 4(l) to
+                Registration Statement No. 33-33590 on Form S-3, filed on
+                February 22, 1990, and are hereby incorporated by reference.
+</Table>
+
+                                       7
+<Page>
+<Table>
+<S>  <C>        <C>
+     --         The instruments defining the rights of the holders of the
+                7.50% Debentures due 2013 are Exhibits 4(a) through 4(l) to
+                Registration Statement No. 33-49475(1) on Form S-3, filed
+                May 24, 1993, and are hereby incorporated by reference.
+
+     --         The instruments defining the rights of holders of the 8.375%
+                Debentures due 2019 are Exhibits 4(a)(b)(c) and (d) to
+                Registration Statement 33-31732 on Form S-3, filed on
+                October 24, 1989, and are hereby incorporated by reference.
+
+     --         The instruments defining the rights of holders of the 7.00%
+                Debentures due 2025 and the 7.00% Debentures due 2045 are
+                Exhibit 2 and 3 to Form 8-K, filed on October 30, 1995, and
+                are hereby incorporated by reference.
+
+     --         The instrument defining the rights of holders of the 7.125%
+                Debentures due 2096 is Exhibit 2 to Form 8-K/A, filed on
+                December 6, 1996, and is hereby incorporated by reference.
+
+     --         The instruments defining the rights of the holders of the
+                6.45% Notes due 2007 and the 6.22% Debentures due 2027 are
+                Exhibits 2 and 3 to Form 8-K, filed on August 1, 1997, and
+                is hereby incorporated by reference.
+
+     --         The instruments defining the rights of the holders of the
+                6.50% Debentures due 2028 is Exhibit 2 to Form 8-K, filed on
+                January 8, 1998, and is hereby incorporated by reference.
+
+     --         The instruments defining the rights of the holders of the
+                5.375% Notes due 2009 is Exhibit 2 to Form 8-K, filed on
+                January 29, 1999, and is hereby incorporated by reference.
+
+     --         IBM's definitive Proxy Statement dated March 11, 2002,
+                certain sections of which have been incorporated herein by
+                reference.
+</Table>
+
+    (b) Reports on Form 8-K:
+
+        The company filed Form 8-K on October 16, 2001, with respect to the
+    company's financial results for the periods ended September 30, 2001, and
+    included unaudited Consolidated Statement of Earnings, Consolidated
+    Statement of Financial Position and Segment Data for the periods ended
+    September 30, 2001. In addition, IBM's Chief Financial Officer John R.
+    Joyce's third quarter earnings presentation to securities analysts on
+    Tuesday, October 16, 2001, was filed as Attachment II of the Form 8-K.
+
+                                       8
+<Page>
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                  INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+                                                   (Registrant)
+
+                                  By: __________/s/ SAMUEL J. PALMISANO_________
+                                                (Samuel J. Palmisano)
+                                                 PRESIDENT AND CHIEF
+                                                  EXECUTIVE OFFICER
+
+                                                Date: March 11, 2002
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<Table>
+<Caption>
+                      SIGNATURE                                    TITLE                    DATE
+                      ---------                                    -----                    ----
+<C>                                                    <S>                             <C>
+
+                  /s/ JOHN R. JOYCE                    Senior Vice President, Chief
+                   (John R. Joyce)                     Financial Officer               March 11, 2002
+
+                 /s/ MARK LOUGHRIDGE
+                  (Mark Loughridge)                    Vice President and Controller   March 11, 2002
+</Table>
+
+<Table>
+<S>                         <C>                         <C>
+CATHLEEN BLACK              Director
+KENNETH I. CHENAULT         Director
+JUERGEN DORMANN             Director
+LOUIS V. GERSTNER, JR.      Chairman of the Board
+NANNERL O. KEOHANE          Director
+CHARLES F. KNIGHT           Director
+MINORU MAKIHARA             Director                             By: /s/ DANIEL E. O'DONNELL
+LUCIO A. NOTO               Director                                (Daniel E. O'Donnell)
+JOHN B. SLAUGHTER           Director                                  ATTORNEY-IN-FACT
+SIDNEY TAUREL               Director
+JOHN M. THOMPSON            Vice Chairman of the Board                 March 11, 2002
+ALEX TROTMAN                Director
+LODEWIJK C. VAN WACHEM      Director
+CHARLES M. VEST             Director
+</Table>
+
+                                       9
+<Page>
+                      REPORT OF INDEPENDENT ACCOUNTANTS ON
+                         FINANCIAL STATEMENT SCHEDULES
+
+To the Stockholders and Board of Directors of
+International Business Machines Corporation
+
+    Our audits of the consolidated financial statements referred to in our
+report dated January 17, 2002, appearing on page 54 of the 2001 Annual Report to
+Stockholders of International Business Machines Corporation, (which report and
+consolidated financial statements are incorporated by reference in this Annual
+Report on Form 10-K) also included an audit of the Financial Statement Schedule
+listed in Item 14(a)2 of this Form 10-K. In our opinion, this Financial
+Statement Schedule present fairly, in all material respects, the information set
+forth therein when read in conjunction with the related consolidated financial
+statements.
+
+/s/ PricewaterhouseCoopers LLP
+PricewaterhouseCoopers LLP
+New York, New York
+January 17, 2002
+
+                                       10
+<Page>
+                                                                     SCHEDULE II
+
+      INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES
+                 VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+                        FOR THE YEARS ENDED DECEMBER 31:
+                             (DOLLARS IN MILLIONS)
+
+<Table>
+<Caption>
+                                                                ADDITIONS
+                                                  BALANCE AT     CHARGED                               BALANCE AT
+                                                  BEGINNING      TO COSTS                                 END
+DESCRIPTION                                       OF PERIOD    AND EXPENSES   WRITE-OFFS   OTHER (A)   OF PERIOD
+------------------------------------------------  ----------   ------------   ----------   ---------   ----------
+<S>                                               <C>          <C>            <C>          <C>         <C>
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+  2001
+    --Current...................................     $860          $418          $269        $(25)        $984
+                                                     ====          ====          ====        ====         ====
+
+    --Noncurrent................................     $ 87          $ 73          $ 49        $(14)        $ 97
+                                                     ====          ====          ====        ====         ====
+
+  2000
+    --Current...................................     $854          $286          $247        $(33)        $860
+                                                     ====          ====          ====        ====         ====
+
+    --Noncurrent................................     $158          $(15)         $ 45        $(11)        $ 87
+                                                     ====          ====          ====        ====         ====
+
+  1999
+    --Current...................................     $794          $285          $202        $(23)        $854
+                                                     ====          ====          ====        ====         ====
+
+    --Noncurrent................................     $195          $ 34          $ 28        $(43)        $158
+                                                     ====          ====          ====        ====         ====
+
+ALLOWANCE FOR INVENTORY LOSSES
+  2001..........................................     $695          $590          $582        $ 23         $726
+                                                     ====          ====          ====        ====         ====
+
+  2000..........................................     $869          $527          $643        $(58)        $695
+                                                     ====          ====          ====        ====         ====
+
+  1999..........................................     $723          $644          $514        $ 16         $869
+                                                     ====          ====          ====        ====         ====
+</Table>
+
+------------------------
+
+(A) Primarily comprises currency translation adjustments.
+
+                                      S-1
+<Page>
+                                 EXHIBIT INDEX
+
+<Table>
+<Caption>
+   REFERENCE
+  NUMBER PER
+  ITEM 601 OF                                                                  EXHIBIT NUMBER
+ REGULATION SK                     DESCRIPTION OF EXHIBITS                    IN THIS FORM 10-K
+---------------   ----------------------------------------------------------  -----------------
+<C>               <S>                                                         <C>
+        (2)       Plan of acquisition, reorganization, arrangement,
+                  liquidation or succession.................................  Not applicable
+
+        (3)       Certificate of Incorporation and By-laws..................
+
+                  The Certificate of Incorporation of IBM is Exhibit (3)(i)
+                  to Form 8-K filed April 28, 1999, and is hereby
+                  incorporated by reference.................................
+
+                  The By-laws of IBM as amended through January 1, 2001, is
+                  Attachment III to Form 8-K dated January 17, 2001, and is
+                  hereby incorporated by reference..........................
+
+        (4)       Instruments defining the rights of security holders.......
+
+                  The instruments defining the rights of the holders of the
+                  7.25% Notes due 2002 are Exhibits 4(a) through 4(l) to
+                  Registration Statement No. 33-33590 on Form S-3, filed
+                  February 22, 1990, and are hereby incorporated by
+                  reference.................................................
+
+                  The instruments defining the rights of the holders of the
+                  7.50% Debentures due 2013 are Exhibits 4(a) through 4(l)
+                  to Registration Statement No. 33-49475(1) on Form S-3,
+                  filed May 24, 1993, and are hereby incorporated by
+                  reference.................................................
+
+                  The instruments defining the rights of the holders of the
+                  8.375% Debentures due 2019 are Exhibits 4(a)(b)(c) and (d)
+                  to Registration Statement No. 33-31732 on Form S-3, filed
+                  on October 24, 1989, and are hereby incorporated by
+                  reference.................................................
+
+                  The instruments defining the rights of the holders of the
+                  7.00% Debentures due 2025 and the 7.00% Debentures due
+                  2045 are Exhibits 2 and 3 to Form 8-K, filed on
+                  October 30, 1995, and are hereby incorporated by
+                  reference.................................................
+
+                  The instrument defining the rights of the holders of the
+                  7.125% Debentures due 2096 is Exhibit 2 to Form 8-K/A,
+                  filed on December 6, 1996, and is hereby incorporated by
+                  reference.................................................
+
+                  The instruments defining the rights of the holders of the
+                  6.45% Notes due 2007 and the 6.22% Debentures due 2027 are
+                  Exhibit 2 and 3 to Form 8-K, filed on August 1, 1997, and
+                  is hereby incorporated by reference.......................
+
+                  The instrument defining the rights of the holders of the
+                  6.50% Debentures due 2028 is Exhibit 2 to Form 8-K, filed
+                  on January 8, 1998, and is hereby incorporated by
+                  reference.................................................
+
+                  The instrument defining the rights of the holders of the
+                  5.375% Notes due 2009 is Exhibit 2 to Form 8-K, filed on
+                  January 29, 1999, and is hereby incorporated by
+                  reference.................................................
+
+        (9)       Voting trust agreement....................................  Not applicable
+</Table>
+
+<Page>
+
+<Table>
+<Caption>
+   REFERENCE
+  NUMBER PER
+  ITEM 601 OF                                                                  EXHIBIT NUMBER
+ REGULATION SK                     DESCRIPTION OF EXHIBITS                    IN THIS FORM 10-K
+---------------   ----------------------------------------------------------  -----------------
+<C>               <S>                                                         <C>
+       (10)       Material contracts........................................
+
+                  The IBM 1999 Long-Term Performance Plan, a compensatory
+                  plan, is contained in Registration Statement No. 333-30424
+                  on Form S-8, filed on February 15, 2000, and is hereby
+                  incorporated by reference.................................
+
+                  The IBM 1997 Long-Term Performance Plan, a compensatory
+                  plan, is contained in Registration Statement No. 33-331305
+                  on Form S-8, filed on July 15, 1997, and is hereby
+                  incorporated by reference.................................
+
+                  Board of Directors compensatory arrangements as described
+                  under "Directors' Compensation" on pages 10 and 11 of
+                  IBM's definitive Proxy Statement dated March 11, 2002, and
+                  is hereby incorporated by reference.......................
+
+                  The IBM Supplemental Executive Retention Plan is Exhibit
+                  VII to Form 10-K for the year ended December 31, 1999, and
+                  is hereby incorporated by reference.......................
+
+                  The IBM Executive Deferred Compensation Plan is contained
+                  in Registration Statement No. 333-33692 as Exhibit 4 on
+                  Form S-8, filed March 31, 2000, and is hereby incorporated
+                  by reference..............................................
+
+                  The IBM Board of Directors Deferred Compensation and
+                  Equity Award Plan is Exhibit X to Form 10-K for the year
+                  ended December 31, 1996, and is hereby incorporated by
+                  reference.................................................
+
+                  The IBM Non-Employee Directors Stock Option Plan is
+                  Appendix B to IBM's definitive Proxy Statement dated
+                  March 14, 1995, and is hereby incorporated by
+                  reference.................................................
+
+                  The IBM Extended Tax Deferred Savings Plan is Exhibit X to
+                  Form 10-K for the year ended December 31, 1994, and is
+                  hereby incorporated by reference..........................
+
+                  The Employment Agreement for L. V. Gerstner, Jr. is
+                  Exhibit 19 to Form 10-Q dated March 31, 1993, and is
+                  hereby incorporated by reference..........................
+
+                  Amendment to Employment Agreement for L. V. Gerstner, Jr.
+                  dated as of January 1, 1996, is Exhibit XI to Form 10-K
+                  for the year ended December 31, 1995, and is hereby
+                  incorporated by reference.................................
+
+                  Second Amendment to Employment Agreement for
+                  L. V. Gerstner, Jr. dated as of November 17, 1997, is
+                  Exhibit VI to Form 10-K for the year ended December 31,
+                  1997, and is hereby incorporated by reference.............
+
+       (11)       Statement re computation of per share earnings............
+
+                  The statement re computation of per share earnings is
+                  note r, "Earnings Per Share of Common Stock" on page 93
+                  of IBM's 2001 Annual Report to Stockholders, and is hereby
+                  incorporated by reference.................................
+</Table>
+
+<Page>
+
+<Table>
+<Caption>
+   REFERENCE
+  NUMBER PER
+  ITEM 601 OF                                                                  EXHIBIT NUMBER
+ REGULATION SK                     DESCRIPTION OF EXHIBITS                    IN THIS FORM 10-K
+---------------   ----------------------------------------------------------  -----------------
+<C>               <S>                                                         <C>
+       (12)       Statement re computation of ratios........................         I
+
+       (13)       Annual report to security holders.........................         V
+
+       (18)       Letter re change in accounting principles.................  Not applicable
+
+       (19)       Previously unfiled documents..............................  Not applicable
+
+       (21)       Subsidiaries of the registrant............................        II
+
+       (22)       Published report regarding matters submitted to vote of
+                  security holders..........................................  Not applicable
+
+       (23)       Consents of experts and counsel...........................        III
+
+       (24)       Powers of attorney........................................        VI
+
+       (28)       Information from reports furnished to state insurance
+                  regulatory authorities....................................  Not applicable
+
+       (99)       Additional exhibits.......................................        IV
+</Table>
+
+</TEXT>
+</DOCUMENT>

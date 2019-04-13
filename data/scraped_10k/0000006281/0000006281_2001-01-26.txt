@@ -1,0 +1,1322 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>b37980ade10-k.txt
+<DESCRIPTION>ANALOG DEVICES
+<TEXT>
+
+<PAGE>   1
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K
+
+(MARK ONE)
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                   FOR THE FISCAL YEAR ENDED OCTOBER 28, 2000
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+             FOR THE TRANSITION PERIOD FROM           TO
+
+                           COMMISSION FILE NO. 1-7819
+
+                              ANALOG DEVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                            <C>
+                MASSACHUSETTS                                   04-2348234
+       (State or other jurisdiction of                       (I.R.S. Employer
+       incorporation or organization)                       Identification No.)
+
+       ONE TECHNOLOGY WAY, NORWOOD, MA                          02062-9106
+  (Address of principal executive offices)                      (Zip Code)
+</TABLE>
+
+                                 (781) 329-4700
+              (Registrant's telephone number, including area code)
+                            ------------------------
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+<TABLE>
+<S>                                            <C>
+       COMMON STOCK $.16 2/3 PAR VALUE                    NEW YORK STOCK EXCHANGE
+             Title of Each Class                 Name of Each Exchange on Which Registered
+</TABLE>
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+
+                                      NONE
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES [X]  NO
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+    The aggregate market value of the voting stock held by non-affiliates of the
+registrant was approximately $18,099,985,739 based on the closing price of the
+Common Stock on the New York Stock Exchange Composite Tape reporting system on
+December 31, 2000.
+
+    As of December 31, 2000, there were 358,137,276 shares of $0.16 2/3 par
+value Common Stock outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+<TABLE>
+<CAPTION>
+                    DOCUMENT DESCRIPTION                      10-K PART
+                    --------------------                      ---------
+<S>                                                           <C>
+Portions of Annual Report to Shareholders for the fiscal
+  year ended October 28, 2000                                 I and II
+Portions of the Registrant's Proxy Statement for the Annual
+  Meeting of Stockholders to be held March 13, 2001                III
+</TABLE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>   2
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+COMPANY OVERVIEW
+
+     We are a world leader in the design, manufacture and marketing of
+high-performance analog, mixed-signal and digital signal processing (DSP)
+integrated circuits (ICs) used in signal processing applications.
+
+     We produce a wide array of products for a variety of customers and markets.
+Applications for our products include communications, cellular telephones,
+computers and computer peripherals, consumer electronics, automotive
+electronics, factory automation, process control and military and space systems.
+
+     A growing market for our communications products has emerged due to the
+rapid development of broadband and wireless communications infrastructure around
+the world combined with the development of the Internet. Our expertise in
+combining analog and digital functionality on a single chip has allowed us to
+develop products that fulfill the technological challenges of this complex and
+rapidly changing market.
+
+     Increased interface between users and the PC through monitors, printers,
+scanners and audio devices and the increasing need for power and thermal
+management capability in PCs have provided us with many opportunities in the
+computer market. Our ability to integrate analog, DSP and mixed-signal
+functionality on ICs has enabled us to supply many critical high-performance
+components required by PC manufacturers.
+
+     The acquisition and display of signals combined with the requirement for
+digital processing of these signals has allowed us to combine analog and digital
+design capability to provide solutions that conform to the rigorous cost, size
+and reliability constraints of the consumer electronics market. Examples of
+products that incorporate our technology are compact disc players, DVD players
+and digital camcorders and cameras.
+
+     We serve the industrial market by providing data acquisition systems,
+automatic process control systems, robotics, environmental control systems and
+automatic test equipment. We also provide products to the instrumentation market
+for use in engineering, medical and scientific instruments.
+
+     Our products are sold worldwide through a direct sales force, third-party
+industrial distributors and independent sales representatives. We have direct
+sales offices in 19 countries, including the United States.
+
+     We are headquartered near Boston, in Norwood, Massachusetts, and have
+manufacturing facilities in Massachusetts, California, North Carolina, Ireland,
+the United Kingdom, the Philippines and Taiwan. Founded in 1965, we employ
+approximately 9,100 people worldwide. Our stock is listed on the New York Stock
+Exchange under the symbol ADI and is included in the Standard & Poor's 500
+Index.
+
+INDUSTRY BACKGROUND
+
+     Real-world phenomena, such as temperature, pressure, sound, images, speed
+and acceleration are inherently analog in nature, consisting of continuously
+varying information. This information can be detected and measured using analog
+sensors, which represent real-world phenomena by generating continuously varying
+voltages and currents. The signals from these sensors are initially processed
+using analog methods, such as amplification, filtering and shaping. They are
+then usually converted to digital form for storage, display or further
+manipulation. The further manipulation of the signals after conversion to
+digital form is called "digital signal processing," or DSP. In addition, digital
+signals are frequently converted to analog form to provide signals for functions
+such as analog display, audio output or control. These manipulations and
+transformations are known collectively as "real-world signal processing."
+
+     Significant advances in semiconductor technology in recent years have led
+to substantial increases in the performance and functionality of ICs used in
+signal processing applications. These advances include the ability to combine
+analog and digital signal processing capability on a single chip to offer much
+more highly integrated solutions. The convergence of computing and
+communications requires end products that incorporate state-of-the-art
+signal-processing capability with as few chips as possible. Our products are
+used as
+
+                                        1
+<PAGE>   3
+
+components in equipment and systems to achieve higher performance, which
+includes higher speed and higher accuracy, and more efficient signal processing,
+while minimizing power consumption.
+
+PRINCIPAL PRODUCTS
+
+     We are engaged in the design, manufacture and marketing of a broad line of
+high-performance ICs that incorporate analog, mixed-signal and digital signal
+processing technologies that address a wide range of real-world signal
+processing applications. We have a generic list of approximately 2,000 products,
+with the highest revenue product accounting for approximately 4% of our revenue
+for fiscal 2000. Many of our products are proprietary, while equivalents to
+other products are available from a limited number of other suppliers. We also
+design, manufacture and market a range of assembled products.
+
+MARKETS AND APPLICATIONS
+
+     The following describes some of the characteristics of, and products
+supplied to, each of our major markets:
+
+     COMMUNICATIONS -- The rapid development of broadband and wireless
+communications infrastructure around the world combined with the development of
+the Internet has created a rapidly growing market for our products.
+Communications technology involves the acquisition of analog signals that are
+converted from analog to digital and digital to analog form as they are
+processed and transmitted. Our expertise in combining analog and digital
+functionality on a single chip has enabled us to develop products that fulfill
+the technological challenges of this complex and rapidly expanding market space.
+The need for ever higher speed and reduced power consumption, coupled with more
+reliable, more bandwidth-efficient communications, is creating increasing demand
+for our products which are used in systems that include digital, analog and
+mixed-signal processing capability. The products are used in the full spectrum
+of signal processing for audio, data, image or video communication. In broadband
+and wireless communication applications, our products are incorporated into data
+and digital subscriber line (DSL) modems, cellular telephones, base station
+equipment and remote access servers. We are also engaged in the development of
+micromachined products that may result in all-optical switching elements for use
+in optical networks.
+
+     COMPUTERS AND COMPUTER PERIPHERALS -- Increased interface between users and
+the PC through monitors, printers, scanners and audio devices and the increasing
+need for power and thermal management capability in PCs have provided many
+opportunities in the computer market. Our ability to integrate analog, DSP and
+mixed-signal functionality on ICs has enabled us to supply many high performance
+critical components required by PC manufacturers. The computer industry requires
+smaller, lighter personal computers, creating increased demand for high
+performance ICs to monitor power usage thereby allowing manufacturers to use
+smaller batteries and extend battery life between charges. We currently supply a
+variety of ICs used in this market for functions such as graphic displays,
+interfaces between PCs and peripherals such as modems and printers, power and
+battery management, and enhanced audio input and output capability for business
+and entertainment applications.
+
+     CONSUMER ELECTRONICS -- The acquisition and display of signals combined
+with the requirement for digital processing of these signals have allowed us to
+combine analog and digital design capability to provide solutions that conform
+to the rigorous cost, size and reliability constraints of the consumer
+electronics market. The emergence of high-performance consumer products, such as
+compact disc players, DVD players and digital camcorders and cameras, has led to
+the need for high-performance system-level ICs with a high level of specific
+functionality. The addition of monitoring and motor control devices on many
+consumer products has also created new opportunities for us.
+
+     INDUSTRIAL -- Our industrial market includes data acquisition systems,
+automatic process control systems, robotics, environmental control systems and
+automatic test equipment. These products generally require ICs that offer
+performance greater than that available from commodity-level ICs, but generally
+do not have production volumes that warrant custom or application-specific ICs.
+Combinations of analog and mixed-signal ICs are usually employed to achieve the
+necessary functionality, except in automatic test equipment
+
+                                        2
+<PAGE>   4
+
+applications where the high level of electronic circuitry required per tester
+has created opportunities for the design of system-level ICs.
+
+     INSTRUMENTATION -- Our instrumentation market includes engineering, medical
+and scientific instruments. These products are usually designed using the
+highest performance analog and mixed-signal ICs available, where production
+volumes generally do not warrant custom or application-specific ICs.
+
+     MILITARY/AEROSPACE -- The military, commercial avionics and space markets
+all require high-performance ICs that meet rigorous environmental and
+reliability specifications. Nearly all of our analog ICs can be supplied in
+versions that meet appropriate military standards. In addition, many products
+can be supplied to meet the standards required for broadcast satellites and
+other commercial space applications. Most of our products sold in this market
+are derived from standard commercial grade ICs, although we sometimes develop
+products expressly for military/aerospace applications.
+
+     AUTOMOTIVE -- Although the automotive market has historically been served
+with low-cost, low-performance ICs, demand has emerged for higher performance
+devices for a wide range of applications. In response, we are developing
+products specifically for the automotive market. We supply a micromachined IC
+used as a crash sensor in airbag systems, which serves as an alternative to an
+electromechanical sensor. We believe that other micromachined devices derived
+from this product may be suitable for other automotive applications, such as
+roll-over sensing, global positioning satellite (GPS) automotive navigation
+systems, anti-lock brakes and "smart" suspension systems and other applications
+including earthquake detectors and high-end computer joysticks.
+
+RESEARCH AND DEVELOPMENT
+
+     The market we serve are characterized by rapid technological changes and
+advances. Accordingly, we make substantial investments in the design and
+development of new products and processes, and for significant improvement of
+existing products and processes. We incurred $401 million during fiscal 2000
+related to the design, development and improvement of new and existing products
+and processes, compared to $257 million and $219 million during fiscal 1999 and
+fiscal 1998, respectively.
+
+     In support of our research and development activities, we employ hundreds
+of engineers involved in product and process development at several design
+centers and manufacturing sites located throughout the world.
+
+     As of October 28, 2000, we owned approximately 595 U.S. patents and had 211
+patent applications on file with the United States patent office. We believe
+that while our patents may provide some advantage, our competitive position is
+largely determined by such factors as the knowledge, ability and experience of
+our personnel, new product development, market recognition and ongoing marketing
+efforts, customer service and technical support.
+
+IC TECHNOLOGY
+
+  Analog Technology
+
+     Analog IC technology has been the foundation of our business for more than
+25 years, and we believe we are one of the world's largest suppliers of analog
+ICs. Our analog ICs are primarily high-performance, single-function devices. The
+majority of our analog IC product revenue is attributable to sales of data
+converters (analog-to-digital and digital-to-analog) and amplifiers. Other
+analog IC products offered by us include analog signal processing devices (such
+as analog multipliers), voltage references and comparators. Over the past few
+years we have been expanding our analog IC product offerings into product areas
+where our focus was previously limited, principally interface circuits and power
+management ICs. We are also expanding our analog IC product line to include a
+much larger number of products designed to operate from single-supply 3 or 5
+volt power sources to better meet the needs of customers designing portable
+battery-operated equipment.
+
+     Our analog IC products tend to be general purpose in nature, which allows
+customers to incorporate them in a wide variety of equipment and systems. Our
+product portfolio includes several hundred analog ICs, any
+
+                                        3
+<PAGE>   5
+
+one of which can have as many as several hundred customers. Analog ICs typically
+have long product life cycles. Our analog IC customers include both OEMs and
+customers who build equipment for their own use. Historically, most analog ICs
+have been purchased by OEMs that serve the instrumentation, industrial and
+military/aerospace markets, but they are now also being used for applications in
+communications, computers, camcorders, scanners, automatic test equipment,
+imaging and other consumer applications requiring high-performance real-world
+signal processing. By using standard, high-performance, readily available,
+off-the-shelf components in their designs, our customers can reduce the time
+required to develop and bring new products to market. Given the high cost of
+developing customized ICs, analog ICs usually provide the most cost-effective
+solutions for low to medium volume applications. In addition, combinations of
+analog ICs connected together on a printed circuit board can provide
+functionality not currently achievable using a single IC.
+
+     Other analog ICs include circuits that are designed to serve the needs of
+particularly demanding applications, e.g. very high speed analog timing and pin
+driver circuits needed by OEMs in the automatic test equipment business.
+Manufacturers of portable instrumentation need analog ICs designed to address
+demanding battery life requirements, and need similar kinds of functions
+available in analog IC products integrated into a single, very low-power chip.
+Other principal requirements can include higher accuracy, lower cost per
+function, smaller size, lower weight and fewer components for improved
+reliability. These application specific products allow our customers to design
+smaller, lighter, higher performance, more power-efficient and lower-cost end
+products. We believe that these benefits have become more important to our OEM
+customers as they increase their focus on high-performance, small, lightweight
+products, many of which are battery-powered.
+
+  General Purpose DSP Technology
+
+     Our products that include DSP technology are designed to efficiently
+execute specialized programs (algorithms) associated with processing digitized
+real-time, real-world data. General-purpose DSP IC customers typically write
+their own algorithms using software tools provided by us and software tools
+obtained from third-party suppliers. All of these devices share a common
+architecture which allows system designers to address cost, performance and
+time-to-market constraints. We support these products with specialized
+applications and easy-to-use, low-cost design tools, which reduce product
+development costs and time to market.
+
+  Mixed-Signal Technology
+
+     Our product range also includes multi-function mixed-signal devices which
+incorporate combinations of analog and digital technology. The growing need to
+allow user interface with computers and consumer products as well as the
+development of communications systems has created new opportunities for these
+mixed-signal devices. Examples of these devices include chipsets for
+communication applications (GSM cellular phones, remote access servers, data and
+fax modems), audio input/output devices and power and thermal management devices
+for computer applications and motor control devices.
+
+  Micromachined Technology
+
+     Our technology base includes a number of new products using an advanced IC
+technology known in the industry as surface micromachining. This technology
+enables extremely small mechanical structures to be built on the surface of a
+chip along with supporting circuitry. In addition to incorporating an electro-
+mechanical structure, these devices also have analog circuitry for conditioning
+signals obtained from the micromachined sensing element.
+
+     Our micromachined products are accelerometers used in a wide variety of
+applications. The majority of current revenue from micromachined products is
+derived from accelerometers used by automotive manufacturers in airbag
+applications. Emerging applications include GPS automobile navigation systems,
+earthquake detectors and high-end computer joysticks. We are also engaged in the
+development of micromachined products that may result in all-optical switching
+elements for use in optical networks.
+
+                                        4
+<PAGE>   6
+
+  General Purpose and Custom Products
+
+     Across the entire range of ICs designed and manufactured by us there are
+general purpose products and custom products designed for specific applications
+for specific customers. In many of the new emerging markets in communications,
+computer and consumer products there is a tendency to work with selected large
+customers to design application-specific solutions which can combine elements of
+analog, digital, mixed-signal and micromachined functionality.
+
+ASSEMBLED PRODUCT TECHNOLOGY
+
+     Our assembled products technology includes multi-chip modules (MCMs),
+hybrids and printed circuit board modules. An MCM is a device made up of several
+IC chips assembled in an automated fashion in a multilayer package that provides
+high interconnect density at low cost. A hybrid consists of several chips and
+discrete components mounted and wired together on a substrate, which is then
+enclosed in a package. A printed-board module consists of surface-mount
+components assembled on a small printed board that is then encapsulated in a
+small plastic case.
+
+     Revenues from this product group have been declining for several years,
+primarily because hybrids are being replaced in many new designs with smaller,
+lower-cost monolithic ICs that offer higher levels of performance and
+integration. Sales of these products have declined to approximately 2% of our
+total sales.
+
+SALES CHANNELS
+
+     We sell our products in both North America and internationally through a
+direct sales force, third-party distributors and independent sales
+representatives. Approximately 45% of our fiscal 2000 net sales came from
+customers in North America. As of December 1, 2000, we had 13 sales offices in
+the United States, and our third-party distribution channel consisted of six
+national and regional third-party distributors and several independent sales
+representatives at numerous locations throughout the U.S. and Canada.
+
+     Approximately 19% of our fiscal 2000 net sales came from sales to customers
+in Europe; 14% to customers in Japan; and 22% to customers in other
+international markets. As of December 1, 2000, we had direct sales offices in
+Australia, Austria, Canada, China, Denmark, France, Germany, Hong Kong, India,
+Israel, Italy, Japan, Korea, the Netherlands, Singapore, Sweden, Taiwan and the
+United Kingdom. We also had sales representatives and/or distributors in
+approximately 40 countries outside North America, including countries where we
+also have direct sales offices. For further detail regarding geographic
+information, see Note 4 in the Notes to our Consolidated Financial Statements
+incorporated herein by reference to the 2000 Annual Report to Shareholders and
+filed herewith as part of Exhibit 13.2.
+
+     Approximately 40% of our fiscal 2000 revenue was derived from sales made
+through distributors. These distributors typically maintain an inventory of our
+products. Some of them also sell products competitive with our products,
+including those for which we are an alternate source. Sales to certain
+distributors are made under agreements which provide protection to the
+distributors for their inventory of our products against price reductions and
+products that are slow-moving or that we have discontinued.
+
+     Our worldwide sales efforts are supported by an extensive promotional
+program that includes editorial coverage and paid advertising in trade
+publications; direct mail programs; promotional brochures; technical seminars
+and participation in trade shows. We publish and distribute full-length
+databooks, short-form catalogs, applications guides, technical handbooks and
+detailed data sheets for individual products. We also provide product and
+application information via our worldwide web site on the Internet and we
+started to sell products on the Internet in the fourth quarter of fiscal 1999.
+We also maintain a staff of application engineers who aid customers in
+incorporating our products into their products during their product development
+cycles.
+
+     For fiscal 2000, our 20 largest customers accounted for approximately 36%
+of our net sales. The largest single customer represented approximately 8% of
+net sales.
+
+                                        5
+<PAGE>   7
+
+PRODUCTION AND RAW MATERIALS
+
+     Monolithic integrated circuit components are manufactured in a sequence of
+semiconductor production steps that include wafer fabrication, wafer testing,
+cutting the wafer into individual "chips" (or dice), assembly of the dice into
+packages and electrical testing of the devices in final packaged form. The raw
+materials used to manufacture these devices include silicon wafers, processing
+chemicals (including liquefied gases), precious metals, ceramic packages and
+plastic used for packaging.
+
+     We employ a wide variety of Company-developed proprietary processes
+specifically tailored for use in fabricating high-performance linear,
+mixed-signal and system-level ICs. We also use industry-standard bipolar and
+CMOS wafer fabrication processes.
+
+     Our IC products are fabricated both at our production facilities and by
+third-party wafer fabricators. We rely primarily on our own facilities for
+fabricating wafers that require linear and mixed-signal processes. We operate
+wafer fabrication facilities in Wilmington and Cambridge, Massachusetts; Santa
+Clara and Sunnyvale, California; Belfast, Northern Ireland and Limerick,
+Ireland. We also operate assembly and test facilities located in the United
+States, Ireland, the Philippines and Taiwan and also use third-party
+subcontractors. We have agreements with Taiwan Semiconductor Manufacturing
+Company, (TSMC), and Chartered Semiconductor Manufacturing Pte., Ltd., (CSM),
+for the production of digital and very large scale integration mixed-signal
+devices. To provide access to advanced process technology at competitive costs,
+we participated in a joint venture agreement (WaferTech, LLC) with TSMC, Altera,
+Integrated Silicon Solutions and several individual investors that built a
+fabrication facility for eight-inch wafers in Camas, Washington. Originally we
+had an 18% equity ownership in WaferTech. In January 1999, we concluded an
+agreement to sell to other WaferTech partners 78% of our equity ownership in
+WaferTech for cash equal to our carrying value at October 31, 1998. Subsequent
+to our fiscal year ended October 28, 2000 we realized approximately $61 million
+from the sale of our remaining interest in WaferTech to TSMC, realizing a net
+pretax gain of approximately $28 million.
+
+     Hybrid products are manufactured by mounting and connecting together
+several integrated circuit chips in a single package. Some of the chips used in
+our hybrids are manufactured by us and some are purchased from outside
+suppliers. The production process for modular components, subsystems and systems
+consists primarily of assembly, packaging and testing. Some of our assembled
+products are assembled and tested within our U.S. manufacturing facilities,
+while others are assembled and tested at our facilities outside the United
+States or by subcontractors, principally in the Far East.
+
+     To respond to production capacity requirements, we significantly expanded
+our manufacturing capacity over the past several years. Major wafer fabrication
+expansions were completed in Wilmington, Massachusetts, Santa Clara, California,
+and Limerick, Ireland. Also, in fiscal 2000 we began construction of an
+additional assembly and test facility in Cavite, Philippines. We expect that our
+capital expenditures for fiscal 2001 will be approximately $450 million.
+
+BACKLOG
+
+     Backlog at the end of fiscal 2000 was approximately $1,062 million, up from
+approximately $446 million at the end of fiscal 1999. The increase in the
+backlog is a result of the rapid increase in demand for our products from the
+year earlier period. This is the result of increased demand for our products in
+the rapidly growing communications, computer and consumer products markets. In
+periods of increased demand there is a tendency towards longer lead times which
+has the effect of increasing backlog and, in some instances, we may not have
+manufacturing capacity sufficient to fulfill all orders. As is customary in the
+semiconductor industry, we include customers' forecast orders in backlog and
+allow such orders to be canceled or deliveries delayed by customers without
+significant penalty. Accordingly, we believe that our backlog at any time should
+not be used as an indication of future revenues.
+
+                                        6
+<PAGE>   8
+
+GOVERNMENT CONTRACTS
+
+     We estimate that approximately 4% of our fiscal 2000 total worldwide
+revenue was attributable to sales to the U.S. government and government
+contractors and subcontractors. Our government contract related business is
+predominantly in the form of negotiated, firm fixed-price subcontracts. All such
+contracts and subcontracts contain standard provisions relating to termination
+at the election of the United States government.
+
+COMPETITION
+
+     We compete with a large number of semiconductor companies in markets that
+are highly competitive. We believe we are one of the largest suppliers of
+high-performance linear and mixed-signal signal-processing components.
+Competitors for our analog, mixed-signal and DSP products include Cirrus Logic
+Inc., Harris Corp., Linear Technology Corp., Lucent Technologies Inc., Maxim
+Integrated Products, Inc., Motorola Semiconductor Products, National
+Semiconductor Corp., Sierra Semiconductor Corp., Siliconix Inc. and Texas
+Instruments, Inc. Sales of our micromachined products currently comprise
+acceleration sensors, and our main competitors are Bosch, Motorola and Denso,
+which use a multichip solution whereas we use a single chip solution that we
+believe provides cost, reliability and functional advantages in the marketplace.
+
+     Many other companies offer components that compete with our products; some
+also offer other electronic products, and some have financial resources
+substantially larger than ours. Also, some formerly independent competitors have
+been purchased by larger companies. However, to our knowledge, no manufacturer
+competes with us across all of the product types offered by us in our
+signal-processing components product line.
+
+     We believe that competitive performance in the marketplace for real-world
+signal-processing components depends upon several factors, including product
+price, technical innovation, product quality and reliability, range of products,
+customer service and technical support. We believe our aggressive technical
+innovation emphasizing product performance and reliability, supported by our
+commitment to strong customer service and technical support, enables us to
+continue to compete successfully in our chosen markets against both foreign and
+domestic semiconductor manufacturers.
+
+ENVIRONMENT
+
+     Our manufacturing facilities are subject to numerous environmental laws and
+regulations, particularly with respect to industrial waste and emissions.
+Compliance with these laws and regulations has not had a material impact on our
+capital expenditures, earnings or competitive position.
+
+EMPLOYEES
+
+     As of October 28, 2000, we employed approximately 9,100 persons. Our future
+success depends in large part on the continued service of our key technical and
+senior management personnel, and on our ability to continue to attract, retain
+and motivate qualified employees, particularly those highly skilled design,
+process and test engineers involved in the manufacture of existing products and
+the development of new products and processes. The competition for such
+personnel is intense, and the loss of key employees could have a material
+adverse effect on us. We believe that relations with our employees are good.
+
+                                        7
+<PAGE>   9
+
+ITEM 2.  PROPERTIES
+
+     Our corporate headquarters is located in Norwood, Massachusetts.
+Manufacturing and other operations are conducted in several locations worldwide.
+The following tables provide certain information about our principal general
+offices and manufacturing facilities:
+
+<TABLE>
+<CAPTION>
+     PLANT LOCATION
+         OWNED:                                      USE                               FLOOR SPACE
+     --------------       ---------------------------------------------------------  ---------------
+<S>                       <C>                                                        <C>
+Wilmington,               Wafer fabrication, components assembly and testing,        265,200 sq. ft.
+  Massachusetts           engineering and administrative offices
+Wilmington,               Engineering, marketing and administrative offices          108,000 sq. ft.
+  Massachusetts
+Wilmington,               Components engineering, marketing and administrative        65,500 sq. ft.
+  Massachusetts           offices
+Westwood, Massachusetts   Engineering and administrative offices                     100,500 sq. ft.
+Limerick, Ireland         Wafer fabrication, wafer probe and testing, engineering    315,400 sq. ft.
+                          and administrative offices
+Greensboro, North         Components and board assembly and testing, engineering     140,600 sq. ft.
+  Carolina                and administrative offices
+Cavite, Philippines       Components assembly and testing, engineering and           414,000 sq. ft.
+                          administrative offices
+Manila, Philippines       Components assembly and testing, engineering and            81,300 sq. ft.
+                          administrative offices
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       PRINCIPAL
+       PROPERTIES                                                                     LEASE
+        LEASED:                           USE                     FLOOR SPACE      EXPIRATION      RENEWALS
+       ----------         ------------------------------------  ---------------   -------------   -----------
+                                                                                  (FISCAL YEAR)
+<S>                       <C>                                   <C>               <C>             <C>
+Norwood, Massachusetts    Corporate headquarters, engineering,  129,900 sq. ft.       2007        3, five-yr.
+                          components testing, sales and                                               periods
+                          marketing offices
+Cambridge, Massachusetts  Wafer fabrication, components         116,000 sq. ft.       2001        2, five-yr.
+                          testing and assembly engineering,                                           periods
+                          marketing and administrative offices
+Santa Clara, California   Wafer fabrication, components          72,800 sq. ft.       2002        3, five-yr.
+                          assembly and testing, engineering                                           periods
+                          and administrative offices
+Santa Clara, California   Engineering and administrative         43,500 sq. ft.       2002        3, five-yr.
+                          offices                                                                     periods
+Sunnyvale, California     Wafer fabrication                      38,700 sq. ft.       2005        2, five-yr.
+                                                                                                      periods
+Taipei, Taiwan            Components testing, engineering and    45,700 sq. ft.       2001         1, five to
+                          administrative offices                                                    seven yr.
+                                                                                                       period
+</TABLE>
+
+                                        8
+<PAGE>   10
+
+     In addition to the principal leased properties listed in the previous
+table, we also lease sales offices and other premises at 22 locations in the
+United States and 36 locations overseas under operating lease agreements. These
+leases expire at various dates through the year 2030. We anticipate no
+difficulty in retaining occupancy of any of our manufacturing, office or sales
+facilities through lease renewals prior to expiration or through month-to-month
+occupancy, or in replacing them with equivalent facilities. For information
+concerning our obligations under all operating and capital leases see Note 10 in
+the Notes to our Consolidated Financial Statements incorporated herein by
+reference to the 2000 Annual Report to Shareholders and filed herewith as part
+of Exhibit 13.2.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The information required by this item is set forth in Note 11 in the Notes
+to our Consolidated Financial Statements incorporated herein by reference to the
+2000 Annual Report to Shareholders and filed herewith as part of Exhibit 13.2.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of our security holders during the last
+quarter of the fiscal year ended October 28, 2000.
+
+                                        9
+<PAGE>   11
+
+                       EXECUTIVE OFFICERS OF THE COMPANY
+
+     The following table sets forth (i) the name and age of each present
+executive officer; (ii) the position(s) presently held by each person named; and
+(iii) the principal occupations held by each person named for at least the past
+five years. There is no family relationship among the named officers.
+
+<TABLE>
+<CAPTION>
+        EXECUTIVE OFFICER           AGE          POSITION(S)                 BUSINESS EXPERIENCE
+        -----------------           ---   --------------------------  ---------------------------------
+<S>                                 <C>   <C>                         <C>
+Ray Stata.........................  66    Chairman of the Board       Chairman of the Board since 1973;
+                                                                      Chief Executive Officer from 1973
+                                                                      to November 1996; President from
+                                                                      1971 to November 1991.
+Jerald G. Fishman.................  55    President, Chief Executive  Chief Executive Officer since
+                                          Officer and Director        November 1996; President and
+                                                                      Director since November 1991;
+                                                                      Executive Vice President from
+                                                                      1988 to November 1991; Group Vice
+                                                                      President -- Components from 1982
+                                                                      to 1988.
+Ross Brown........................  56    Vice President, Human       Vice President, Human Resources
+                                          Resources                   since May 1993; U.S. Personnel
+                                                                      Manager for Digital Equipment
+                                                                      Corp. from 1990 to 1993; Senior
+                                                                      Group Personnel Manager at
+                                                                      Digital Equipment Corp. from 1986
+                                                                      to 1990.
+Samuel H. Fuller..................  54    Vice President, Research    Vice President, Research and
+                                          and Development             Development since March 1998;
+                                                                      Vice President of Research and
+                                                                      Chief Scientist of Digital
+                                                                      Equipment Corp. from 1983 to
+                                                                      1998.
+Russell K. Johnsen................  46    Vice President and General  Vice President and General
+                                          Manager, Communications     Manager, Communications Products
+                                          Products                    since May 1994; Vice President
+                                                                      and General Manager, Analog
+                                                                      Devices Semiconductor Division
+                                                                      from November 1993 to May 1994;
+                                                                      General Manager of the Wide Area
+                                                                      Networks Division of National
+                                                                      Semiconductor Corp. from 1992 to
+                                                                      1993.
+Robert R. Marshall................  46    Vice President, Worldwide   Vice President, Worldwide
+                                          Manufacturing               Manufacturing since February
+                                                                      1994; Vice President,
+                                                                      Manufacturing, Limerick Site,
+                                                                      Analog Devices, B.V. -- Limerick,
+                                                                      Ireland from November 1991 to
+                                                                      February 1994; Plant Manager,
+                                                                      Analog Devices, B.V. -- Limerick,
+                                                                      Ireland from January 1991 to
+                                                                      November 1991.
+</TABLE>
+
+                                       10
+<PAGE>   12
+
+<TABLE>
+<CAPTION>
+        EXECUTIVE OFFICER           AGE          POSITION(S)                 BUSINESS EXPERIENCE
+        -----------------           ---   --------------------------  ---------------------------------
+<S>                                 <C>   <C>                         <C>
+William A. Martin.................  41    Treasurer                   Treasurer since March 1993;
+                                                                      Assistant Treasurer from October
+                                                                      1991 to March 1993; Manager of
+                                                                      Treasury Finance from March 1987
+                                                                      to October 1991; Manager of
+                                                                      International Treasury from
+                                                                      October 1985 to March 1987.
+Robert McAdam.....................  50    Vice President and General  Vice President and General
+                                          Manager, Analog             Manager, Analog Semiconductor
+                                          Semiconductor Components    Components since February 1994;
+                                                                      Vice President and General
+                                                                      Manager, Analog Devices,
+                                                                      B.V. -- Limerick, Ireland from
+                                                                      January 1991 to February 1994;
+                                                                      Product Line Manager, Analog
+                                                                      Devices, B.V. -- Limerick,
+                                                                      Ireland from October 1988 to
+                                                                      January 1991.
+Brian P. McAloon..................  50    Vice President, Sales       Vice President, Sales since May
+                                                                      1992; Vice President, Sales and
+                                                                      Marketing -- Europe and Southeast
+                                                                      Asia from 1990 to 1992; General
+                                                                      Manager, Analog Devices, B.V. --
+                                                                      Limerick, Ireland from 1987 to
+                                                                      1990.
+Joseph E. McDonough...............  53    Vice President, Finance     Vice President, Finance and Chief
+                                          and Chief Financial         Financial Officer since November
+                                          Officer                     1991; Vice President since 1988
+                                                                      and Treasurer from 1985 to March
+                                                                      1993; Director of Taxes from 1983
+                                                                      to 1985.
+Franklin Weigold..................  61    Vice President and General  Vice President and General
+                                          Manager, Micromachined      Manager, Micromachined Products
+                                          Products                    since November 1999; Vice
+                                                                      President and General Manager,
+                                                                      Transportation and Industrial
+                                                                      Products Division from March 1992
+                                                                      to November 1999; President and
+                                                                      Chief Operating Officer of
+                                                                      Unitrode from June 1990 to March
+                                                                      1992.
+</TABLE>
+
+                                       11
+<PAGE>   13
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+     Our Common Stock is listed on the New York Stock Exchange ("NYSE") under
+the symbol ADI. The table below sets forth the NYSE high and low sale prices of
+our Common Stock during the two most recent fiscal years.
+
+<TABLE>
+<CAPTION>
+                                                 FISCAL 2000        FISCAL 1999
+                                               ----------------   ---------------
+PERIOD                                         HIGH      LOW      HIGH     LOW
+------                                         -------   ------   ------   ------
+<S>                                            <C>       <C>      <C>      <C>
+First Quarter                                  $ 52.63   $27.00   $16.13   $ 9.66
+Second Quarter                                 $ 94.69   $43.00   $19.19   $12.19
+Third Quarter                                  $100.00   $54.00   $25.50   $17.53
+Fourth Quarter                                 $103.00   $56.06   $30.22   $20.81
+</TABLE>
+
+     We have never paid any cash dividends on our Common Stock and currently
+have no intentions to do so.
+
+     The approximate number of holders of record of our Common Stock at December
+31, 2000 was 4,600. This number does not include shareholders for whom shares
+are held in a "nominee" or "street" name.
+
+     On February 5, 2000, we issued and delivered an aggregate of 13,568 shares
+(equivalent to 27,136 shares after giving effect to the 2-for-1 stock split we
+effected on March 15, 2000) of our common stock to three individuals in partial
+fulfillment of the payment by us of consideration to the three former
+stockholders of White Mountain DSP, Inc., which we acquired on February 5, 1999.
+We issued and delivered these shares in reliance upon an exemption from
+registration under Section 4(2) of the Securities Act of 1933, as amended.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+(THOUSANDS EXCEPT PER SHARE AMOUNTS)      2000         1999         1998         1997         1996
+------------------------------------   ----------   ----------   ----------   ----------   ----------
+<S>                                    <C>          <C>          <C>          <C>          <C>
+Statement of Operations data:
+  Net sales..........................  $2,577,547   $1,450,379   $1,230,571   $1,243,494   $1,193,786
+  Net income before cumulative effect
+     of change in accounting
+     principle.......................     607,132      196,819      119,488      178,219      171,901
+  Cumulative effect of change in
+     accounting principle............          --           --       37,080           --           --
+                                       ----------   ----------   ----------   ----------   ----------
+  Net income after cumulative
+     effective of change in
+     accounting principle............  $  607,132   $  196,819   $   82,408   $  178,219   $  171,901
+                                       ----------   ----------   ----------   ----------   ----------
+  Net income per share:
+     Basic...........................        1.71         0.58         0.26         0.57         0.56
+     Diluted.........................        1.59         0.55         0.25         0.52         0.52
+Pro forma amounts with the change in
+  accounting principle related to
+  revenue recognition applied
+  retroactively:
+  Net sales..........................          --           --   $1,230,571   $1,214,602   $1,183,186
+  Net income.........................          --           --      119,488      167,515      168,328
+  Net income per share:
+     Basic...........................          --           --         0.37         0.53         0.55
+     Diluted.........................          --           --         0.36         0.49         0.51
+Balance Sheet data:
+  Total assets.......................  $4,411,337   $2,218,354   $1,861,730   $1,763,853   $1,508,272
+  Long-term debt and non-current
+     obligations under capital
+     leases..........................   1,212,960       16,214      340,758      348,852      353,666
+</TABLE>
+
+                                       12
+<PAGE>   14
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+     The information required by this item is incorporated herein by reference
+to the "Management Analysis" set forth on pages 18 through 25 of the 2000 Annual
+Report to Shareholders and is filed herewith as part of Exhibit 13.1.
+
+ITEM 7A.  QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The information required by this item is incorporated herein by reference
+to the "Management Analysis" set forth on pages 18 through 25 of the 2000 Annual
+Report to Shareholders and is filed herewith as part of Exhibit 13.1.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The information required by this item is incorporated herein by reference
+to our 2000 Annual Report to Shareholders under the headings "Financial
+Section -- Consolidated Statements of Income, -- Consolidated Balance Sheets,
+-- Consolidated Statements of Stockholders' Equity, -- Consolidated Statements
+of Cash Flows, -- Notes to Consolidated Financial Statements, -- Report of Ernst
+& Young LLP, Independent Auditors and -- Supplementary Financial Information,"
+and is filed herewith as Exhibit 13.2.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The response to this item is contained in part under the caption "EXECUTIVE
+OFFICERS OF THE COMPANY" in Part I hereof, and the remainder is contained in the
+our Proxy Statement for the Annual Meeting of Stockholders to be held on March
+13, 2001 (the "2001 Proxy Statement") under the caption "Election of Directors,"
+and is incorporated herein by reference.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     The response to this item is contained in our 2001 Proxy Statement under
+the captions "Directors' Compensation," "Information About Executive
+Compensation," and "Severance and Other Agreements," and is incorporated herein
+by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The response to this item is contained in our 2001 Proxy Statement under
+the caption "Ownership by Management and Principal Stockholders," and is
+incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The response to this item is contained in our 2001 Proxy Statement under
+the caption "Information About Certain Insider Relationships," and is
+incorporated herein by reference.
+
+                                       13
+<PAGE>   15
+
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) 1.  FINANCIAL STATEMENTS
+
+     The following consolidated financial statements are included in our 2000
+Annual Report to Shareholders and are incorporated herein by reference pursuant
+to Item 8:
+
+     -- Consolidated Statements of Income for the years ended October 28, 2000,
+        October 30, 1999 and October 31, 1998
+
+     -- Consolidated Balance Sheets as of October 28, 2000 and October 30, 1999
+
+     -- Consolidated Statements of Stockholders' Equity for the years ended
+        October 28, 2000, October 30, 1999 and October 31, 1998
+
+     -- Consolidated Statements of Cash Flows for the years ended October 28,
+        2000, October 30, 1999 and October 31, 1998
+
+(a) 2.  FINANCIAL STATEMENT SCHEDULES
+
+     The following consolidated financial statement schedule is included in Item
+14(d):
+
+     Schedule II -- Valuation and Qualifying Accounts
+
+     All other schedules have been omitted since the required information is not
+present, or not present in amounts sufficient to require submission of the
+schedule, or because the information required is included in the consolidated
+financial statements or the notes thereto.
+
+(a) 3.  LISTING OF EXHIBITS
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+  NO.                              DESCRIPTION
+-------                            -----------
+<C>        <S>
+   3.1     Restated Articles of Organization of Analog Devices, Inc.,
+           as amended, filed as an exhibit to the Company's quarterly
+           report on Form 10-Q (Commission File No. 1-7819) for the
+           quarterly period ended January 30, 1999 as filed with the
+           Commission on March 15, 1999 and incorporated herein by
+           reference.
+   3.2     By-laws of Analog Devices, Inc., as amended, filed as an
+           exhibit to the Company's annual report on Form 10-K
+           (Commission File No. 1-7819) for the fiscal year ended
+           November 1, 1997, as filed with the Commission on January
+           28, 1998 and incorporated herein by reference.
+  *4.1     Analog Devices, Inc. Deferred Compensation Plan, filed as an
+           exhibit to a Form S-8 filed on December 8, 1995 and
+           incorporated herein by reference, as amended by Amendment
+           No. 1 and Amendment No. 2, filed as Exhibits to
+           Post-Effective Amendment No. 1 to Form S-8 filed on April
+           15, 1997, and Amendment No. 3, filed as an Exhibit to
+           Post-Effective Amendment No. 2 to Form S-8 filed on November
+           12, 1997.
+   4.2     Rights Agreement, dated as of March 18, 1998 between Analog
+           Devices Inc. and BankBoston, N.A., as Rights Agent, filed as
+           an exhibit and incorporated herein by reference to Analog
+           Devices Inc.'s Registration Statement on Form 8-K (File No.
+           001-07819) filed on March 19, 1998, as amended by Amendment
+           No. 1 filed as an exhibit to the Company's Form 8-K/A (File
+           No. 001-07819) filed on November 11, 1999 and incorporated
+           herein by reference.
+   4.3     Indenture dated October 2, 2000 between Analog Devices, Inc.
+           and State Street Bank and Trust Company, as Trustee, related
+           to the Company's 4.75% Convertible Subordinated Notes due
+           2005, filed as an exhibit to the Company's Form S-3 (File
+           No. 333-48928) filed with the Commission on October 30,
+           2000.
+   4.4     Registration Rights Agreement dated October 2, 2000 by and
+           between Analog Devices Inc., Goldman, Sachs & Co., SG Cowen
+           Securities Corporation and Salomon Smith Barney Inc.
+           relating to the Company's 4.75% Convertible Subordinated
+           Notes due 2005, filed as an exhibit to the Company's Form
+           S-3 (File No. 333-48928) filed with the Commission on
+           October 30, 2000.
+*+10.1     Bonus Plan of Analog Devices, Inc.
+</TABLE>
+
+                                       14
+<PAGE>   16
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+  NO.                              DESCRIPTION
+-------                            -----------
+<C>        <S>
+ *10.2     1991 Restricted Stock Plan of Analog Devices, Inc., filed as
+           an exhibit to the Company's Form 10-K for the fiscal year
+           ended November 1, 1997 and incorporated herein by reference.
+ *10.3     1998 Stock Option Plan of Analog Devices Inc., filed on
+           February 6, 1998 as an appendix to the Registrant's
+           Definitive Proxy Statement on Schedule 14A and incorporated
+           herein by reference.
+ *10.4     Restated 1988 Stock Option Plan of Analog Devices, Inc.,
+           filed as an exhibit to the Company's Form 10-Q for the
+           fiscal quarter ended May 3, 1997 and incorporated herein by
+           reference.
+ *10.5     1989 Director Stock Option Plan of Analog Devices, Inc., as
+           amended, filed as an exhibit to the Company's Form 10-K for
+           the fiscal year ended November 2, 1996 and incorporated
+           herein by reference.
+ *10.6     1992 Director Option Plan of Analog Devices, Inc., filed as
+           an exhibit to the Company's Form 10-K for the fiscal year
+           ended November 1, 1997 and incorporated herein by reference.
+ *10.7     1994 Director Option Plan of Analog Devices, Inc., as
+           amended, filed as an exhibit to the Company's Form 10-Q for
+           the fiscal quarter ended February 1, 1997 and incorporated
+           herein by reference, as amended by Amendment No. 2, filed as
+           an exhibit to the Company's Form S-8 (File No. 333-47789)
+           filed on March 11, 1998 and incorporated herein by
+           reference.
+  10.8     Amended and restated lease agreement dated May 1, 1992
+           between Analog Devices, Inc. and the trustees of Everett
+           Street Trust relating to the premises at 3 Technology Way,
+           Norwood, Massachusetts, filed as an exhibit to the Company's
+           Form 10-K for the fiscal year ended November 1, 1997 and
+           incorporated herein by reference.
+  10.9     Guaranty dated as of May 1, 1994 between Analog Devices,
+           Inc. and Metropolitan Life Insurance Company relating to the
+           premises at 3 Technology Way, Norwood, Massachusetts, filed
+           as an exhibit to the Company's Form 10-K for the fiscal year
+           ended October 30, 1999 and incorporated herein by reference.
+  10.10    Letter Agreement dated as of May 18, 1994 between Analog
+           Devices, Inc. and Metropolitan Life Insurance Company
+           relating to the premises at 3 Technology Way, Norwood,
+           Massachusetts, filed as an exhibit to the Company's Form
+           10-K for the fiscal year ended October 30, 1999 and
+           incorporated herein by reference.
+  10.11    Reimbursement Agreement dated May 18, 1992 between Analog
+           Devices, Inc. and the trustees of Everett Street Trust,
+           filed as an exhibit to the Company's Form 10-K for the
+           fiscal year ended November 1, 1997 and incorporated herein
+           by reference.
+  10.12    Lease agreement dated August 8, 1990 between Precision
+           Monolithics, Inc. and Bourns, Inc. relating to the premises
+           at 1525 Comstock Road, Santa Clara, California, filed as an
+           exhibit to the Company's Form 10-K for the fiscal year ended
+           November 2, 1996 and incorporated herein by reference.
+  10.13    Lease amendment dated May 1, 1996 to the Lease Agreement
+           dated August 8, 1990 between Analog Devices, Inc. and
+           Bourns, Inc., relating to premises located at 1525 Comstock
+           Road, Santa Clara, California, filed as an exhibit to the
+           Company's Form 10-Q for the fiscal quarter ended May 4, 1996
+           and incorporated herein by reference.
+  10.14    Lease agreement dated August 8, 1990, as amended, between
+           Precision Monolithics, Inc. and Bourns, Inc. relating to the
+           premises at 1500 Space Park Drive, Santa Clara, California,
+           filed as an exhibit to the Company's Form 10-K for the
+           fiscal year ended November 2, 1996 and incorporated herein
+           by reference.
+  10.15    Lease amendment dated May 1, 1996 to the Lease Agreement
+           dated August 8, 1990 between Analog Devices, Inc. and
+           Bourns, Inc., relating to premises located at 1500 Space
+           Park Drive, Santa Clara, California, filed as an exhibit to
+           the Company's Form 10-Q for the fiscal quarter ended May 4,
+           1996 and incorporated herein by reference.
+ *10.16    Form of Employee Retention Agreement, as amended, filed as
+           an exhibit to the Company's Form 10-K for the fiscal year
+           ended November 1, 1997 and incorporated herein by reference.
+ *10.17    Employee Change in Control Severance Policy of Analog
+           Devices, Inc., as amended, filed as an exhibit to the
+           Company's Form 10-K for the fiscal year ended October 30,
+           1999 and incorporated herein by reference.
+ *10.18    Senior Management Change in Control Severance Policy of
+           Analog Devices, Inc., as amended, filed as an exhibit to the
+           Company's Form 10-K for the fiscal year ended October 30,
+           1999 and incorporated herein by reference.
+</TABLE>
+
+                                       15
+<PAGE>   17
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+  NO.                              DESCRIPTION
+-------                            -----------
+<C>        <S>
+*+10.19    Letter agreement between Analog Devices Inc. and Jerald G.
+           Fishman dated June 21, 2000 relating to acceleration of
+           stock options upon the occurence of certain events.
+ *10.20    Description of Consulting Arrangement between Analog
+           Devices, Inc. and John L. Doyle, filed as an exhibit to the
+           Company's Form 10-K for the fiscal year ended November 2,
+           1996 and incorporated herein by reference.
+  10.21    Lease Agreement dated June 16, 1995 between Analog Devices,
+           Inc. and Ferrari Brothers, relating to the premises at 610
+           Weddell Drive, Sunnyvale, California, filed as an exhibit to
+           the Company's Form 10-K for the fiscal year ended November
+           2, 1996 and incorporated herein by reference.
+  10.22    Lease amendment dated March 1, 1996 to the Lease Agreement
+           dated June 16, 1995 between Analog Devices, Inc. and Ferrari
+           Brothers, relating to premises located at 610 Weddell Drive,
+           Sunnyvale, California, filed as an exhibit to the Company's
+           Form 10-Q for the fiscal quarter ended May 4, 1996 and
+           incorporated herein by reference.
+  10.23    Lease Agreement dated February 8, 1996 between Analog
+           Devices, Inc. and Massachusetts Institute of Technology,
+           relating to premises located at 21 Osborn Street, Cambridge,
+           Massachusetts, filed as an exhibit to the Company's Form
+           10-Q for the fiscal quarter ended February 3, 1996 and
+           incorporated herein by reference.
+**10.24    Amended and Restated Limited Liability Company Agreement of
+           WaferTech, LLC, a Delaware limited liability company, dated
+           as of August 9, 1996, filed as Exhibit 10.47 to the Form
+           10-Q of Altera Corporation (File No. 0-16617) for the fiscal
+           quarter ended June 30, 1996, and incorporated herein by
+           reference.
+**10.25    Purchase Agreement by and between Taiwan Semiconductor
+           Manufacturing Co., Ltd., as seller and Analog Devices, Inc.,
+           Altera Corporation and Integrated Silicon Solutions, Inc.,
+           as buyers dated as of June 25, 1996, filed as Exhibit 10.48
+           to the Form 10-Q of Altera Corporation (File No. 0-16617)
+           for the fiscal quarter ended June 30, 1996, and incorporated
+           herein by reference.
+ *10.26    Trust Agreement for Deferred Compensation Plan, filed as an
+           exhibit to the Company's Post Effective Amendment No. 2 to
+           Form S-3 filed November 12, 1997 and incorporated herein by
+           reference.
+  10.27    Lease agreement dated September 19, 1996 between Ren Min
+           Company Limited and Analog Devices Taiwan, Limited relating
+           to the premises at Five-Kung-Five Road, Taipei, Taiwan,
+           filed as an exhibit to the Company's Form 10-K for the
+           fiscal year ended November 1, 1997 and incorporated herein
+           by reference.
+  10.28    BCO Technologies plc Unapproved Share Option Scheme, filed
+           as an exhibit to the Company's Form S-8 (File No. 333-50092)
+           filed with the Commission on November 16, 2000 and
+           incorporated herein by reference.
+  10.29    BCO Technologies plc Approved Share Option Scheme, filed as
+           an exhibit to the Company's Form S-8 (File No. 333-50092)
+           filed with the Commission on November 16, 2000 and
+           incorporated herein by reference.
+ +13.1     Management Analysis corresponding to pages 18 through 25 of
+           the 2000 Annual Report to Shareholders, for the fiscal year
+           ended October 28, 2000.
+ +13.2     Financial Statements and Notes thereto, Report of Ernst &
+           Young LLP, Independent Auditors and Supplementary Financial
+           Information, corresponding to pages 26 through 51 of the
+           2000 Annual Report to Shareholders, for the fiscal year
+           ended October 28, 2000.
+ +21       Subsidiaries of the Company.
+</TABLE>
+
+                                       16
+<PAGE>   18
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+  NO.                              DESCRIPTION
+-------                            -----------
+<C>        <S>
+ +23       Consent of Ernst & Young LLP.
+</TABLE>
+
+---------------
+ + Filed Herewith.
+
+ * Management contracts and compensatory plan or arrangements required to be
+   filed as an Exhibit pursuant to Item 14(c) of Form 10-K.
+
+** Confidential treatment has been granted as to certain portions of these
+   Exhibits.
+
+(b) REPORTS ON FORM 8-K
+
+     Form 8-K, dated September 26, 2000, reporting the Company had priced a new
+issue of $1 billion ($1.2 billion including the over-allotment option) of
+Convertible Subordinated Notes due in 2005, which are convertible into shares of
+the Company's common stock, $.16 2/3 par value, at a conversion price of $129.78
+per share.
+
+                                       17
+<PAGE>   19
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+ANALOG DEVICES, INC.
+(Registrant)
+
+<TABLE>
+<S>                                                         <C>
+
+           By: /s/ JERALD G. FISHMAN                                  By: /s/ JOSEPH E. MCDONOUGH
+------------------------------------------------            ------------------------------------------------
+               Jerald G. Fishman                                          Joseph E. McDonough
+                   President,                                            Vice President-Finance
+            Chief Executive Officer                                   and Chief Financial Officer
+                  and Director                                          (Principal Financial and
+         (Principal Executive Officer)                                    Accounting Officer)
+
+             Date: January 26, 2001                                      Date: January 26, 2001
+</TABLE>
+
+     Pursuant to the requirements of the Securities and Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+                    NAME                                         TITLE                      DATE
+                    ----                                         -----                      ----
+<S>                                                <C>                                <C>
+                /s/ RAY STATA                      Chairman of the Board              January 26, 2001
+---------------------------------------------
+                  Ray Stata
+
+            /s/ JERALD G. FISHMAN                  President,Chief Executive Officer  January 26, 2001
+---------------------------------------------      and Director
+              Jerald G. Fishman
+
+              /s/ JOHN L. DOYLE                    Director                           January 26, 2001
+---------------------------------------------
+                John L. Doyle
+
+           /s/ CHARLES O. HOLLIDAY                 Director                           January 26, 2001
+---------------------------------------------
+             Charles O. Holliday
+
+               /s/ JOEL MOSES                      Director                           January 26, 2001
+---------------------------------------------
+                 Joel Moses
+
+            /s/ F. GRANT SAVIERS                   Director                           January 26, 2001
+---------------------------------------------
+              F. Grant Saviers
+
+            /s/ LESTER C. THUROW                   Director                           January 26, 2001
+---------------------------------------------
+              Lester C. Thurow
+</TABLE>
+
+                                       18
+<PAGE>   20
+
+                              ANALOG DEVICES, INC.
+                           ANNUAL REPORT ON FORM 10-K
+                          YEAR ENDED OCTOBER 28, 2000
+                                   ITEM 14(d)
+                          FINANCIAL STATEMENT SCHEDULE
+<PAGE>   21
+
+                              ANALOG DEVICES, INC.
+
+                SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS
+
+      YEARS ENDED OCTOBER 28, 2000, OCTOBER 30, 1999 AND OCTOBER 31, 1998
+                                  (THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                   BALANCE AT        ADDITION                    BALANCE AT
+                                                  BEGINNING OF      CHARGED TO                     END OF
+                  DESCRIPTION                        PERIOD      INCOME STATEMENT   DEDUCTIONS     PERIOD
+                  -----------                     ------------   ----------------   ----------   ----------
+<S>                                               <C>            <C>                <C>          <C>
+ACCOUNTS RECEIVABLE RESERVES AND ALLOWANCES:
+Year ended October 31, 1998.....................    $40,007           $3,023         $10,698*     $32,332
+                                                    =======           ======         =======      =======
+Year ended October 30, 1999.....................    $32,332           $  313         $18,407      $14,238
+                                                    =======           ======         =======      =======
+Year ended October 28, 2000.....................    $14,238           $5,940         $ 7,022      $13,156
+                                                    =======           ======         =======      =======
+</TABLE>
+
+---------------
+* Amount reflects reclassification of certain reserves from accounts receivable
+  to accrued liabilities made in connection with the Company's accounting change
+  (see Notes 2(n) and 5 to the consolidated financial statements).
+
+                                       S-1
+</TEXT>
+</DOCUMENT>

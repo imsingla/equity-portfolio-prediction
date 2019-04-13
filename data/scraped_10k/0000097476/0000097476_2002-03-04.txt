@@ -1,0 +1,3506 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the Fiscal Year Ended December 31, 2001
+                          Commission File Number 1-3761
+
+                         TEXAS INSTRUMENTS INCORPORATED
+
+              -----------------------------------------------------
+             (Exact name of Registrant as specified in its charter)
+
+               Delaware                             75-0289970
+       ------------------------       ------------------------------------
+       (State of Incorporation)       (I.R.S. Employer Identification No.)
+
+      12500 TI Boulevard, P.O. Box 660199, Dallas, Texas         75266-0199
+   --------------------------------------------------------------------------
+   (Address of principal executive offices)                      (Zip Code)
+
+         Registrant's telephone number, including area code 972-995-3773
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                                       Name of each exchange on
+    Title of each class                                     which registered
+  -----------------------------                        ------------------------
+  Common Stock, par value $1.00                        New York Stock Exchange
+                                                       The Swiss Exchange
+  Preferred Stock Purchase Rights                      New York Stock Exchange
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X   No
+                                      ---      ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. X
+                            ---
+
+The aggregate market value of voting stock held by non-affiliates of the
+Registrant was approximately $53,500,000,000 as of January 31, 2002.
+
+                                  1,736,248,062
+      ---------------------------------------------------------------------
+      (Number of shares of common stock outstanding as of January 31, 2002)
+
+Parts I, II, III and IV hereof incorporate information by reference to the
+Registrant's proxy statement for the 2002 annual meeting of stockholders.
+
+
+<PAGE>
+
+
+                                     PART I
+
+ITEM  1.   Business.
+
+General  Information
+--------------------
+
+Texas Instruments Incorporated ("TI" or the "company," including subsidiaries
+except where the context indicates otherwise) is headquartered in Dallas, Texas,
+and has manufacturing, design or sales operations in more than 25 countries.
+TI's largest geographic markets are in the United States, Asia, Japan and
+Europe. TI has been in operation since 1930.
+
+The financial information with respect to TI's business segments and operations
+outside the United States, which is contained in the note to the financial
+statements captioned "Business Segment and Geographic Area Data" on pages C-25
+through C-27 of TI's proxy statement for the 2002 annual meeting of
+stockholders, is incorporated herein by reference to such proxy statement.
+
+Semiconductor
+-------------
+
+TI is a global semiconductor company and a leading designer and supplier of
+digital signal processors and analog integrated circuits, the engines driving
+the digitization of electronics. These two types of semiconductor products work
+together in digital electronic devices such as digital cellular phones. Digital
+signal processors and analog integrated circuits enable a wide range of new
+products and features for TI's more than 30,000 customers in commercial,
+industrial and consumer markets.
+
+TI also is a world leader in the design and manufacturing of other semiconductor
+products. Those products include standard logic devices, application-specific
+integrated circuits, reduced instruction-set computing microprocessors,
+microcontrollers and digital imaging devices.
+
+The semiconductor business comprised 83% of TI's 2001 revenues. TI's
+semiconductor products are used in a diverse range of electronic systems,
+including cellular telephones, personal computers, servers, communications
+infrastructure equipment, digital cameras, digital audio players, motor
+controls, automobiles and digital imaging systems including projector and
+television systems. Products are sold to original-equipment manufacturers,
+contract manufacturers and distributors. TI's semiconductor patent portfolio has
+been established as an ongoing contributor to semiconductor revenues. Revenues
+generated from sales to TI's top five semiconductor customers accounted for
+approximately 29% of total semiconductor revenues in 2001.
+
+The semiconductor business is intensely competitive, subject to rapid
+technological change and pricing pressures, and requires high rates of
+investment. TI faces strong competition in all of its semiconductor product
+lines. The rapid pace of change and technological breakthroughs constantly
+create new opportunities for existing competitors and start-ups, which can
+quickly render existing technologies less valuable. In digital signal
+processors, TI competes with a growing number of large and small companies, both
+U.S.-based and international. New product development capabilities, applications
+
+
+                                        2
+<PAGE>
+
+
+support, software knowledge and advanced semiconductor process technology are
+the primary competitive factors in this business.
+
+The market for analog integrated circuits is highly fragmented. TI competes with
+many large and small companies, both U.S.-based and international. Primary
+competitive factors in this business are the availability of innovative designs
+and designers, a broad range of process technologies and applications support
+and, particularly in the standard products area, price.
+
+
+Other TI Businesses
+-------------------
+
+In addition to semiconductors, TI has two other principal segments. The largest,
+representing 12% of TI's 2001 revenues, is Sensors & Controls. This business
+sells electrical and electronic controls, sensors and radio-frequency
+identification systems into commercial and industrial markets. Typically the top
+supplier in targeted product areas, Sensors & Controls faces strong
+multinational and regional competitors. The primary competitive factors in this
+business are product reliability, manufacturing costs and engineering expertise.
+The products of the business are sold to original equipment manufacturers and
+distributors. Revenues generated from sales to TI's top five Sensors & Controls
+customers accounted for approximately 24% of total Sensors & Controls revenues
+in 2001.
+
+Educational & Productivity Solutions (E&PS) represents 5% of TI's 2001 revenues
+and is a leading supplier of graphing and educational calculators. This business
+sells primarily through retailers and to schools through instructional dealers.
+TI's principal competitors in this business are Japan- and U.S.-based companies.
+Technology expertise, price and infrastructure for education and market
+understanding are primary competitive factors in this business. Revenues
+generated from sales to TI's top five E&PS customers accounted for approximately
+44% of total E&PS revenues in 2001.
+
+
+Acquisitions  and  Divestitures
+-------------------------------
+
+From time to time TI considers acquisitions and divestitures that may strengthen
+its business portfolio. TI may effect one or more of these transactions at such
+time or times as it determines to be appropriate. In the third quarter of 2001,
+TI acquired Graychip, a developer of digital up- and down-converters. This
+acquisition strengthened TI's product offering for high-speed signal processing
+applications such as digital radio, wireless basestations, point-to-point
+microwave communications, broadband wireless access, cable modem head-ends, and
+digital video systems. Graychip also provided expertise in data conversion
+across multiple cellular standards.
+
+
+Backlog
+-------
+
+The dollar amount of backlog of orders believed by TI to be firm was $1036
+million as of December 31, 2001 and $2411 million as of December 31, 2000.
+Backlog orders are, under certain circumstances, subject to cancellation. Also,
+there is generally a short cycle between order and shipment. Accordingly, the
+company believes that its backlog as of any particular date may not be
+indicative of revenue for any future period.
+
+
+                                        3
+<PAGE>
+
+
+Raw  Materials
+--------------
+
+TI purchases materials, parts and supplies from a number of suppliers. The
+materials, parts and supplies essential to TI's business are generally available
+at present and TI believes at this time that such materials, parts and supplies
+will be available in the foreseeable future.
+
+
+Patents  and  Trademarks
+------------------------
+
+TI owns many patents in the United States and other countries in fields relating
+to its business. The company has developed a strong, broad-based patent
+portfolio. TI also has several agreements with other companies involving license
+rights and anticipates that other licenses may be negotiated in the future. TI
+does not consider its business materially dependent upon any one patent or
+patent license, although taken as a whole, the rights of TI and the products
+made and sold under patents and patent licenses are important to TI's business.
+
+TI owns trademarks that are used in the conduct of its business. These
+trademarks are valuable assets, the most important of which are "Texas
+Instruments" and TI's corporate monogram.
+
+
+Research  and  Development
+--------------------------
+
+TI's research and development expense was $1598 million in 2001, compared with
+$1747 million in 2000 and $1379 million in 1999. Included is a charge for the
+value of acquisition-related purchased in-process research and development of
+zero in 2001, $112 million in 2000 and $79 million in 1999.
+
+
+Seasonality
+-----------
+
+TI's revenues and operating results are subject to some seasonal variation.
+
+
+Employees
+---------
+
+The information concerning the number of persons employed by TI at December 31,
+2001 on page C-31 of TI's proxy statement for the 2002 annual meeting of
+stockholders is incorporated herein by reference to such proxy statement.
+
+
+Cautionary Statements Regarding Future Results of Operations
+------------------------------------------------------------
+
+You should read the following cautionary statements in conjunction with the
+factors discussed elsewhere in this and other of TI's filings with the
+Securities and Exchange Commission (SEC) and in materials incorporated by
+reference in these filings. These cautionary statements are intended to
+
+
+                                        4
+<PAGE>
+
+
+highlight certain factors that may affect the financial condition and results of
+operations of TI and are not meant to be an exhaustive discussion of risks that
+apply to companies with broad international operations, such as TI. Like other
+businesses, TI is susceptible to macroeconomic downturns in the United States or
+abroad that may affect the general economic climate and performance of TI or its
+customers. Similarly, the price of TI's securities is subject to volatility due
+to fluctuations in general market conditions, differences in TI's results of
+operations from estimates and projections generated by the investment community
+and other factors beyond TI's control.
+
+
+Further Weakening or Delayed Recovery in the Semiconductor Market May Adversely
+-------------------------------------------------------------------------------
+Affect TI's Performance.
+-----------------------
+
+TI's semiconductor business represents its largest business segment and the
+principal source of its revenues. The semiconductor market has historically been
+cyclical and subject to significant economic downturns. After strong growth in
+1999 and 2000, the semiconductor market declined significantly in 2001. Further
+weakening or delayed recovery in the semiconductor market could adversely affect
+TI's results of operations and have an adverse effect on the market price of its
+securities. In particular, TI's strategic focus in this business is on the
+development and marketing of digital signal processors and analog integrated
+circuits. While TI believes that focusing its efforts on digital signal
+processors and analog integrated circuits offers the best opportunity for TI to
+achieve its strategic goals and that TI has developed, and will continue to
+develop, a wide range of innovative and technologically advanced products, the
+results of TI's operations may be adversely affected in the future if demand for
+digital signal processors or analog integrated circuits decreases or if these
+markets or key end-equipment markets such as telecommunications and computers
+grow at a pace significantly less than that expected by management.
+
+
+The Technology Industry is Characterized by Rapid Technological Change that
+---------------------------------------------------------------------------
+Requires TI to Develop New Technologies and Products.
+----------------------------------------------------
+
+TI's results of operations depend in part upon its ability to successfully
+develop, manufacture and market innovative products in a rapidly changing
+technological environment. TI requires significant capital to develop new
+technologies and products to meet changing customer demands that, in turn, may
+result in shortened product lifecycles. Moreover, expenditures for technology
+and product development are generally made before the commercial viability for
+such developments can be assured. As a result, there can be no assurance that TI
+will successfully develop and market these new products, that the products TI
+does develop and market will be well received by customers or that TI will
+realize a return on the capital expended to develop such products.
+
+
+TI Faces Substantial Competition that Requires TI to Respond Rapidly to Product
+-------------------------------------------------------------------------------
+Development and Pricing Pressures.
+---------------------------------
+
+
+TI faces intense technological and pricing competition in the markets in which
+it operates. TI expects that the level of this competition will increase in the
+
+
+                                        5
+<PAGE>
+
+
+future from large, established semiconductor and related product companies, as
+well as from emerging companies serving niche markets also served by TI. Certain
+of TI's competitors possess sufficient financial, technical and management
+resources to develop and market products that may compete favorably against
+those products of TI that currently offer technological and/or price advantages
+over competitive products. Competition results in price and product development
+pressures, which may result in reduced profit margins and lost business
+opportunities in the event that TI is unable to match price declines or
+technological, product, applications support, software or manufacturing advances
+of its competitors.
+
+
+TI's Performance Depends upon its Ability to Enforce Its Intellectual Property
+------------------------------------------------------------------------------
+Rights and to Develop or License New Intellectual Property.
+----------------------------------------------------------
+
+TI benefits from royalties generated from various license agreements that will
+generally be in effect through the year 2005. Access to worldwide markets
+depends on the continued strength of TI's intellectual property portfolio.
+Future royalty revenue depends on the strength of TI's portfolio and enforcement
+efforts, and on the sales and financial stability of TI's licensees. TI actively
+enforces and protects its intellectual property rights, but there can be no
+assurance that TI's efforts will be adequate to prevent the misappropriation or
+improper use of the protected technology. Moreover, there can be no assurance
+that, as TI's business expands into new areas, TI will be able to independently
+develop the technology, software or know-how necessary to conduct its business
+or that it can do so without infringing the intellectual property rights of
+others. TI may have to rely increasingly on licensed technology from others. To
+the extent that TI relies on licenses from others, there can be no assurance
+that it will be able to obtain all of the licenses it desires in the future on
+terms it considers reasonable or at all.
+
+
+A Decline in Demand in Certain End-User Markets Could Have a Material Adverse
+-----------------------------------------------------------------------------
+Effect on the Demand for TI's Products and Results of Operations.
+----------------------------------------------------------------
+
+TI's customer base includes companies in a wide range of industries, but TI
+generates a significant amount of revenues from sales to customers in the
+telecommunications and computer-related industries. Within these industries, a
+large portion of TI revenues is generated by the sale of digital signal
+processors and analog integrated circuits to customers in the cellular phone,
+personal computer and communications infrastructure markets. Many of TI's
+end-user markets declined significantly in 2001. Further decline in any one or
+several of these end-user markets could have a material adverse effect on the
+demand for TI's products and its results of operations.
+
+
+TI's Global Manufacturing, Design and Sales Activities Subject It to Risks
+--------------------------------------------------------------------------
+Associated with Legal, Political, Economic or Other Changes.
+-----------------------------------------------------------
+
+TI operates in more than 25 countries worldwide and in 2001 more than 72% of its
+revenues came from sales to locations outside the United States. Operating
+internationally exposes TI to changes in the laws or policies, as well as the
+
+
+                                        6
+<PAGE>
+
+
+general economic conditions, security risks and possible disruptions in
+transportation networks, of the various countries in which it operates, which
+could result in an adverse effect on TI's business operations in such countries
+and its results of operations. Also, as discussed in more detail on pages C-12
+and C-37 of TI's proxy statement for the 2002 annual meeting of stockholders, TI
+uses forward currency exchange contracts to minimize the adverse earnings impact
+from the effect of exchange rate fluctuations on the company's non-U.S. dollar
+net balance sheet exposures. Nevertheless, in periods when the U.S. dollar
+strengthens in relation to the non-U.S. currencies in which TI transacts
+business, the remeasurement of non-U.S. dollar transactions can have an adverse
+effect on TI's non-U.S. business.
+
+
+The Loss of or Significant Curtailment of Purchases by any of TI's Largest
+--------------------------------------------------------------------------
+Customers Could Adversely Affect TI's Results of Operations.
+-----------------------------------------------------------
+
+While TI generates revenues from thousands of customers worldwide, the loss of
+or significant curtailment of purchases by one or more of its top customers,
+including curtailments due to a change in the design or manufacturing sourcing
+policies or practices of these customers, or the timing of customer inventory
+adjustments may adversely affect TI's results of operations.
+
+
+TI's Performance Depends on the Availability of Raw Materials and Critical
+--------------------------------------------------------------------------
+Manufacturing Equipment.
+-----------------------
+
+Limited or delayed access to key raw materials used in the manufacturing process
+or critical manufacturing equipment could adversely impact TI's results of
+operations.
+
+
+TI's Continued Success Depends Upon Its Ability to Retain and Recruit a
+-----------------------------------------------------------------------
+Sufficient Number of Qualified Employees in a Competitive Environment.
+---------------------------------------------------------------------
+
+TI's continued success depends on the retention and recruitment of skilled
+personnel, including technical, marketing, management and staff personnel.
+Experienced personnel in the electronics industry are in high demand and
+competition for their skills is intense. There can be no assurance that TI will
+be able to successfully retain and recruit the key personnel that it requires.
+
+
+Available Information
+---------------------
+
+TI files annual, quarterly and special reports, proxy statements and other
+information with the SEC. You may read and copy any reports, statements and
+other information filed by TI at the SEC's public reference rooms at 450 Fifth
+Street, N.W., Washington, D.C. 20549, or at the SEC offices in New York, New
+York and Chicago, Illinois. Please call (800) SEC-0330 for further information
+on the public reference rooms. TI's filings are also available to the public
+from commercial document retrieval services and at the web site maintained by
+the SEC at http://www.sec.gov.
+
+
+                                        7
+<PAGE>
+
+
+ITEM 2.  Properties.
+
+TI's principal executive offices are located at 12500 TI Boulevard, Dallas,
+Texas. TI owns and leases facilities in the United States and 16 other countries
+for manufacturing, design and related purposes. The following table indicates
+the general location of TI's principal manufacturing and design operations and
+the business segments which make major use of them. Except as otherwise
+indicated, these facilities are owned by TI.
+
+                                        Sensors
+                       Semiconductor   & Controls       E&PS
+                       -------------   ------------     ----
+Dallas,  Texas(1)              X                          X
+Houston,  Texas                X
+Sherman,  Texas(1)(2)          X
+Tucson,  Arizona               X
+Attleboro,                     X             X
+  Massachusetts
+Bangalore,  India              X
+Hiji,  Japan                   X
+Miho,  Japan                   X
+Tokyo,  Japan                  X
+Kuala  Lumpur,                 X             X
+  Malaysia(3)
+Baguio,                        X
+  Philippines(4)
+Taipei,  Taiwan                X
+Nice,  France                  X
+Freising,  Germany             X             X
+Aguascalientes,  Mexico        X             X
+--------------------
+
+(1)  Certain facilities or portions thereof in Dallas and Sherman are leased to
+     Raytheon Company or Raytheon-related entities in connection with the sale
+     in 1997 of TI's defense systems and electronics business.
+(2)  Leased.
+(3)  Approximately half of this site is owned on leased land; the remainder is
+     leased.
+(4)  Owned on leased land.
+
+
+TI's facilities in the United States contained approximately 15,800,000 square
+feet as of December 31, 2001, of which approximately 2,400,000 square feet were
+leased. TI's facilities outside the United States contained approximately
+5,900,000 square feet as of December 31, 2001, of which approximately 1,500,000
+square feet were leased.
+
+TI believes that its existing properties are in good condition and suitable for
+the manufacture of its products. At the end of 2001, the company utilized
+substantially all of the space in its facilities.
+
+Leases covering TI's leased facilities expire at varying dates generally within
+the next 10 years. TI anticipates no difficulty in either retaining occupancy
+through lease renewals, month-to-month occupancy or purchases of leased
+facilities, or replacing the leased facilities with equivalent facilities.
+
+
+                                        8
+<PAGE>
+
+
+ITEM  3.  Legal Proceedings.
+
+Italian government auditors have substantially completed a review, conducted in
+the ordinary course, of approximately $250 million of grants from the Italian
+government to TI's former memory operations in Italy. The auditors have raised a
+number of issues relating to compliance with grant requirements and the
+eligibility of specific expenses for the grants. As part of a government
+reorganization with respect to program contracts, responsibility for review of
+the auditor's findings was transferred from the Ministry of the Treasury to the
+Ministry of Economics and Finance. Depending on the Ministry of Economics and
+Finance's decision, the review may result in a demand from the Italian
+government that TI repay a portion of the grants. The company believes that the
+grants were obtained and used in compliance with applicable law and contractual
+obligations.
+
+TI is involved in various investigations and proceedings conducted by the
+federal Environmental Protection Agency and certain state environmental agencies
+regarding disposal of waste materials. Although the factual situations and the
+progress of each of these matters differ, the company believes that the amount
+of its liability will not have a material adverse effect upon its financial
+position or results of operations.
+
+
+ITEM  4.  Submission of Matters to a Vote of Security Holders.
+
+Not applicable.
+
+
+                                        9
+<PAGE>
+
+
+                                     PART II
+
+
+ITEM  5.  Market for Registrant's Common Equity and Related Stockholder Matters.
+
+The information which is contained in the note to the financial statements
+captioned "Common Stock Prices and Dividends" on page C-44 of TI's proxy
+statement for the 2002 annual meeting of stockholders, and the information
+concerning the number of stockholders of record at December 31, 2001 on page
+C-31 of such proxy statement, are incorporated herein by reference to such proxy
+statement.
+
+
+ITEM  6.  Selected Financial Data.
+
+The "Summary of Selected Financial Data" for the years 1997 through 2001 which
+appears on page C-31 of TI's proxy statement for the 2002 annual meeting of
+stockholders is incorporated herein by reference to such proxy statement.
+
+
+ITEM  7.  Management's Discussion and Analysis of Financial Condition and
+          Results of Operations.
+
+The information contained under the caption "Management Discussion and Analysis
+of Financial Condition and Results of Operations" on pages C-32 through C-42 of
+TI's proxy statement for the 2002 annual meeting of stockholders is incorporated
+herein by reference to such proxy statement.
+
+
+ITEM  7A.  Quantitative and Qualitative Disclosures About Market Risk.
+
+Information concerning market risk is contained on pages C-37 and C-38 of
+TI's proxy statement for the 2002 annual meeting of stockholders and is
+incorporated by reference to such proxy statement.
+
+
+ITEM  8.  Financial Statements and Supplementary Data.
+
+The consolidated financial statements of the company at December 31, 2001 and
+2000 and for each of the three years in the period ended December 31, 2001, and
+the report thereon of the independent auditors, on pages C-1 through C-30 of
+TI's proxy statement for the 2002 annual meeting of stockholders, are
+incorporated herein by reference to such proxy statement.
+
+The "Quarterly Financial Data" on pages C-43 and C-44 of TI's proxy statement
+for the 2002 annual meeting of stockholders is also incorporated herein by
+reference to such proxy statement.
+
+
+ITEM  9.   Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+Not applicable.
+
+
+                                       10
+<PAGE>
+
+
+                                    PART III
+
+
+ITEM  10. Directors and Executive Officers of the Registrant.
+
+The information with respect to directors' names, ages, positions, term of
+office and periods of service, which is contained under the caption "Nominees
+for Directorship" in the company's proxy statement for the 2002 annual meeting
+of stockholders, is incorporated herein by reference to such proxy statement.
+
+The following is an alphabetical list of the names and ages of the executive
+officers of the company and the positions or offices with the company presently
+held by each person named:
+
+       Name                   Age               Position
+
+William A. Aylesworth         59         Senior  Vice  President  and
+                                         Chief  Financial  Officer
+
+Gilles Delfassy               46         Senior Vice President
+
+Thomas J. Engibous            49         Director, Chairman of the
+                                         Board, President and
+                                         Chief Executive Officer
+
+Michael J. Hames              43         Senior  Vice  President
+
+Joseph F. Hubach              44         Senior Vice President,
+                                         Secretary and
+                                         General Counsel
+
+Chung-Shing (C.S.) Lee        47         Senior Vice President
+
+Stephen H. Leven              50         Senior Vice President
+
+Gregg A. Lowe                 39         Senior Vice President
+
+Syrus P. Madavi               52         Senior Vice President
+
+Philip J. Ritter              43         Senior Vice President
+
+Richard J. Schaar             56         Senior Vice President
+                                         (President, Educational &
+                                         Productivity Solutions)
+
+M. Samuel Self                62         Senior Vice President
+
+Richard K. Templeton          43         Executive Vice President and
+                                         Chief Operating Officer (President,
+                                         Semiconductor)
+
+Teresa L. West                41         Senior Vice President
+
+Thomas Wroe                   51         Senior Vice President
+                                         (President, Sensors & Controls)
+
+
+                                       11
+<PAGE>
+
+
+The term of office of the above listed officers is from the date of their
+election until their successor shall have been elected and qualified. Messrs.
+Lee, Lowe and Ritter were elected to their offices on April 19, 2001, February
+21, 2002 and September 20, 2001, respectively; each has been an employee of the
+company for more than five years. Mr. Madavi was elected to his office on April
+19, 2001 and became an employee of the company in August 2000 in connection with
+the company's acquisition of Burr-Brown Corporation. Mr. Madavi had been
+president and chief executive officer of Burr-Brown since 1994 and chairman
+since 1998. Messrs. Aylesworth, Engibous and Templeton have served as executive
+officers of the company for more than five years. Ms. West and Messrs. Leven,
+Schaar, Self and Wroe have served as executive officers of the company since
+1998 and have been employees of the company for more than five years. Messrs.
+Delfassy, Hames and Hubach have served as executive officers of the company
+since 2000 and have been employees of the company for more than five years.
+
+
+ITEM  11.  Executive Compensation.
+
+The information which is contained under the captions "Director Compensation"
+and "Executive Compensation" in the company's proxy statement for the 2002
+annual meeting of stockholders is incorporated herein by reference to such proxy
+statement.
+
+
+ITEM 12.   Security Ownership of Certain Beneficial Owners and Management.
+
+The information concerning (a) the only persons that have reported beneficial
+ownership of more than 5% of the common stock of TI, and (b) the ownership of
+TI's common stock by the Chief Executive Officer and the four other most highly
+compensated executive officers, and all executive officers and directors as a
+group, which is contained under the caption "Voting Securities" in the company's
+proxy statement for the 2002 annual meeting of stockholders, is incorporated
+herein by reference to such proxy statement. The information concerning
+ownership of TI's common stock by each of the directors, which is contained
+under the caption "Nominees for Directorship" in such proxy statement, is also
+incorporated herein by reference to such proxy statement.
+
+
+ITEM  13. Certain Relationships and Related Transactions.
+
+The information which is contained under the caption "Certain Business
+Relationships" in the company's proxy statement for the 2002 annual meeting of
+stockholders is incorporated herein by reference to such proxy statement.
+
+
+                                       12
+<PAGE>
+
+
+                                     PART IV
+
+ITEM  14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+(a) 1 and 2. Financial Statements and Financial Statement Schedules:
+
+The financial statements and financial statement schedules are listed in the
+index on page 22 hereof.
+
+
+                                       13
+<PAGE>
+
+
+    3.  Exhibits:
+
+
+ Designation of
+ Exhibit in
+ this Report     Description  of  Exhibit
+ --------------  ------------------------------------------------------------
+
+     2           Agreement and Plan of Merger, dated as of June 21, 2000, by
+                 and among the Registrant, Burr-Brown Corporation and Burma
+                 Acquisition Corp. (disclosure schedules omitted; Registrant
+                 agrees to provide the Commission, upon request, copies of
+                 such schedules) (incorporated by reference to Texas
+                 Instruments Tucson Corporation's Current Report on Form 8-K
+                 dated June 22, 2000).
+
+     3(a)        Restated Certificate of Incorporation of the Registrant
+                 (incorporated by reference to Exhibit 3(a) to the
+                 Registrant's Annual Report on Form 10-K for the year 1993).
+
+     3(b)        Certificate of Amendment to Restated Certificate of
+                 Incorporation of the Registrant (incorporated by reference
+                 to Exhibit 3(b) to the Registrant's Annual Report on Form
+                 10-K for the year 1993).
+
+     3(c)        Certificate of Amendment to Restated Certificate of
+                 Incorporation of the Registrant (incorporated by reference
+                 to Exhibit 3(c) to the Registrant's Annual Report on Form
+                 10-K for the year 1993).
+
+     3(d)        Certificate of Amendment to Restated Certificate of
+                 Incorporation of the Registrant (incorporated by
+                 reference to Exhibit 3 to the Registrant's Quarterly
+                 Report on Form 10-Q for the quarter ended June 30, 1996).
+
+     3(e)        Certificate of Ownership merging Texas Instruments
+                 Automation Controls, Inc. into the Registrant (incorporated
+                 by reference to Exhibit 3(e) to the Registrant's Annual
+                 Report on Form 10-K for the year 1993).
+
+     3(f)        Certificate of Elimination of Designations of Preferred Stock
+                 of the Registrant (incorporated by reference to Exhibit
+                 3(f) to the Registrant's Annual Report on Form 10-K for the
+                 year 1993).
+
+     3(g)        Certificate of Ownership and Merger merging Tiburon Systems,
+                 Inc. into the Registrant (incorporated by reference to
+                 Exhibit 4(g) to the Registrant's Registration Statement
+                 No. 333-41919 on Form S-8).
+
+
+                                       14
+<PAGE>
+
+
+     3(h)        Certificate of Ownership and Merger merging Tartan, Inc.
+                 into the Registrant (incorporated by reference to Exhibit
+                 4(h) to the Registrant's Registration Statement
+                 No. 333-41919 on Form S-8).
+
+     3(i)        Certificate of Designation relating to the Registrant's
+                 Participating Cumulative Preferred Stock (incorporated
+                 by reference to Exhibit 4(a) to the Registrant's
+                 Quarterly Report on Form 10-Q for the quarter ended
+                 September 30, 1998).
+
+     3(j)        Certificate of Elimination of Designation of Preferred Stock
+                 of the Registrant (incorporated by reference to Exhibit 3(j)
+                 to the Registrant's Annual Report on Form 10-K for the year
+                 1998).
+
+     3(k)        Certificate of Ownership and Merger merging Intersect
+                 Technologies, Inc. into the Registrant (incorporated by
+                 reference to Exhibit 3(k) to the Registrant's Annual Report
+                 on Form 10-K for the year 1999).
+
+     3(l)        Certificate of Ownership and Merger merging Soft Warehouse,
+                 Inc. into the Registrant (incorporated by reference to
+                 Exhibit 3(l) to the Registrant's Annual Report on Form
+                 10-K for the year 1999).
+
+     3(m)        Certificate of Ownership and Merger merging Silicon Systems,
+                 Inc. into the Registrant (incorporated by reference to Exhibit
+                 3(m) to the Registrant's Annual Report on Form 10-K for the
+                 year 1999).
+
+     3(n)        Certificate of Amendment to Restated Certificate of
+                 Incorporation (incorporated by reference to Exhibit 3(n)
+                 to the Registrant's Registration Statement on Form S-4
+                 No. 333-41030 filed on July 7, 2000).
+
+     3(o)        Certificate of Ownership and Merger merging Power Trends,
+                 Inc. with and into the Registrant.
+
+     3(p)        Certificate of Ownership and Merger merging Amati
+                 Communications Corporation with and into the Registrant.
+
+     3(q)        By-Laws of the Registrant (incorporated by reference to
+                 Exhibit 3(n) to the  Registrant's Annual Report on Form
+                 10-K for the year 1999).
+
+     4(a)(i)     Rights Agreement dated as of June 18, 1998 between the
+                 Registrant and Harris Trust and Savings Bank as Rights Agent,
+                 which includes as Exhibit B the form of Rights Certificate
+                 (incorporated by reference to Exhibit 1 to the Registrant's
+                 Registration Statement on Form 8-A dated June 23, 1998).
+
+
+                                       15
+<PAGE>
+
+
+     4(a)(ii)    Amendment dated as of September 18, 1998 to the Rights
+                 Agreement (incorporated by reference to Exhibit 2 to the
+                 Registrant's Amendment No. 1 to Registration Statement on
+                 Form 8-A dated September 23, 1998).
+
+     4(b)        The Registrant agrees to provide the Commission, upon request,
+                 copies of instruments defining the rights of holders of
+                 long-term debt of the Registrant and its subsidiaries.
+
+     10(a)(i)    Amended and Restated TI Deferred Compensation Plan
+                 (incorporated by reference to Exhibit 10(a)(i) to the
+                 Registrant's Annual Report on Form 10-K for the year 1999).*
+
+     10(a)(ii)   First Amendment to Restated TI Deferred Compensation Plan
+                 (incorporated by reference to Exhibit 10(a)(ii) to the
+                 Registrant's Annual Report on Form 10-K for the year 1999).*
+
+    10(a)(iii)   Second Amendment to Restated TI Deferred Compensation Plan
+                 (incorporated by reference to Exhibit 10(a)(iii) to the
+                 Registrant's Annual Report on Form 10-K for the year 1999).*
+
+     10(a)(iv)   Third Amendment to Restated TI Deferred Compensation Plan
+                 (incorporated by reference to Exhibit 10(a)(iv) to the
+                 Registrant's Annual report on Form 10-K for the year 2000).*
+
+     10(a)(v)    Fourth Amendment to Restated TI Deferred Compensation Plan.*
+
+     10(a)(vi)   Severance Benefit Agreement between Burr-Brown Corporation and
+                 Syrus P. Madavi dated October 30, 1996.*
+
+    10(a)(vii)   Change in Control Severance Benefit Agreement between
+                 Burr-Brown Corporation and Syrus P. Madavi dated
+                 October 30, 1996.*
+
+   10(a)(viii)   Letter Agreement between Texas Instruments Incorporated and
+                 Syrus P. Madavi dated October 21, 2000.*
+
+     10(b)(i)    TI Employees Supplemental Pension Plan (incorporated by
+                 reference to Exhibit 10(b)(i) to the Registrant's Annual
+                 Report on Form 10-K for the year 1999).*
+
+     10(b)(ii)   First Amendment to TI Supplemental Pension Plan (incorporated
+                 by reference to Exhibit 10(b)(ii) to the Registrant's Annual
+                 Report on Form 10-K for the year 1999).*
+
+
+                                       16
+<PAGE>
+
+
+     10(c)     Texas Instruments Long-Term Incentive Plan (incorporated by
+               reference to Exhibit 10(a)(ii) to the Registrant's Annual
+               Report on Form 10-K for the year 1993).*
+
+     10(d)     Texas Instruments 1996 Long-Term Incentive Plan (incorporated by
+               reference to Exhibit 10 to the Registrant's Quarterly Report on
+               Form 10-Q for the quarter ended June 30, 1996).*
+
+     10(e)     Texas Instruments 2000 Long-Term Incentive Plan (incorporated by
+               reference to Exhibit 10(e) to the Registrant's Registration
+               Statement on Form S-4 No. 333-41030 filed on July 7, 2000).*
+
+     10(f)     Texas Instruments Executive Officer Performance Plan
+               (incorporated by reference to the Registrant's Quarterly
+               Report on Form 10-Q for the quarter ended March 31, 1997).*
+
+     10(g)     Texas Instruments Restricted Stock Unit Plan for Directors
+               (incorporated by reference to Exhibit 10(e) to the Registrant's
+               Quarterly Report on Form 10-Q for the quarter ended
+               March 31, 1998).
+
+     10(h)     Texas Instruments Directors Deferred Compensation Plan
+               (incorporated by reference to Exhibit 10(f) to the Registrant's
+               Quarterly Report on Form 10-Q for the quarter ended March 31,
+               1998).
+
+     10(i)     Texas Instruments Stock Option Plan for Non-Employee Directors
+               (incorporated by reference to Exhibit 10(i) to the Registrant's
+               Annual Report on Form 10-K for the year 2000.
+
+     10(j)     Acquisition Agreement dated as of June 18, 1998 between Texas
+               Instruments Incorporated and Micron Technology, Inc. (Exhibit C
+               omitted) (incorporated by reference to Exhibit 2.1 to the
+               Registrant's Current Report on Form 8-K dated June 18, 1998).
+
+     10(k)     Second Amendment to Acquisition Agreement dated as of September
+               30, 1998 between Texas Instruments Incorporated and Micron
+               Technology, Inc. (incorporated by  reference to Exhibit 2.2 to
+               the Registrant's Current Report on Form 8-K dated October
+               15, 1998).
+
+     10(l)     Securities Rights and Restrictions Agreement dated as of
+               September 30, 1998 between Texas Instruments Incorporated and
+               Micron Technology, Inc. (incorporated by reference to Exhibit
+               10(k) to the Registrant's Annual Report on Form 10-K for
+               the year 1998).
+
+     11        Computation of Earnings (Loss) Per Common and Dilutive Potential
+               Common Share.
+
+     12        Computation of Ratio of Earnings to Fixed Charges.
+
+
+                                       17
+<PAGE>
+
+
+     13        Portions of Registrant's Proxy Statement for 2002 Annual Meeting
+               of Stockholders Incorporated by Reference Herein (incorporated
+               by reference to Exhibit C to the Registrant's Proxy Statement
+               for the 2002 Annual Meeting of Stockholders).
+
+     21        List of Subsidiaries of the Registrant.
+
+     23        Consent of Ernst & Young LLP.
+
+----------------
+
+*  Executive Compensation Plans and Arrangements.
+
+
+(b) Reports on Form 8-K:
+
+During the quarter ended December 31, 2001, the Registrant filed a report on
+Form 8-K dated November 12, 2001, confirming its outlook for the fourth quarter
+of 2001 as set forth in the outlook section included in Item 2 of its Form 10-Q
+for the quarter ended September 30, 2001.
+
+
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of
+1995:
+
+This report includes "forward-looking statements" intended to qualify for the
+safe harbor from liability established by the Private Securities Litigation
+Reform Act of 1995. These forward-looking statements generally can be identified
+by phrases such as TI or its management "believes," "expects," "anticipates,"
+"foresees," "forecasts," "estimates" or other words or phrases of similar
+import. Similarly, statements herein that describe TI's business strategy,
+outlook, objectives, plans, intentions or goals also are forward-looking
+statements. All such forward-looking statements are subject to certain risks and
+uncertainties that could cause actual results to differ materially from those in
+forward-looking statements.
+
+We urge you to carefully consider the following important factors that could
+cause actual results to differ materially from the expectations of TI or its
+management:
+
+-  Market demand for semiconductors, particularly for digital signal
+   processors and analog chips in key markets, such as
+   telecommunications and computers.
+
+-  TI's ability to develop, manufacture and market innovative products
+   in a rapidly changing technological environment.
+
+-  TI's ability to compete in products and prices in an intensely competitive
+   industry.
+
+-  TI's ability to maintain and enforce a strong intellectual property
+   portfolio and obtain needed licenses from third parties.
+
+-  Timely completion and successful integration of announced acquisitions.
+
+
+                                       18
+<PAGE>
+
+
+-  Economic, social and political conditions in the countries in which TI, its
+   customers or its suppliers operate, including security risks, possible
+   disruptions in the transportation networks and fluctuations in foreign
+   currency exchange rates.
+
+-  Losses or curtailments of purchases from key customers or the timing of
+   customer inventory adjustments.
+
+-  TI's ability to recruit and retain skilled personnel.
+
+-  Availability of raw materials and critical manufacturing equipment.
+
+For a more detailed discussion of these factors see the text under the heading
+"Cautionary Statements Regarding Future Results of Operations" in Item 1 of
+this report. The forward-looking statements included in this report are made
+only as of the date of this report and TI undertakes no obligation to update
+the forward-looking statements to reflect subsequent events or circumstances.
+
+
+                                    SIGNATURE
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this Report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                             TEXAS INSTRUMENTS INCORPORATED
+
+
+
+                                             By: /s/ WILLIAM A. AYLESWORTH
+                                                 --------------------------
+                                                 William A. Aylesworth
+                                                 Senior Vice President
+                                                 and Chief Financial Officer
+
+
+Date: February 28, 2002
+
+
+Each person whose signature appears below constitutes and appoints each of
+Thomas J. Engibous, William A. Aylesworth and Joseph F. Hubach, or any of them,
+each acting alone, his or her true and lawful attorneys-in-fact and agents, with
+full power of substitution and resubstitution, for such person and in his or her
+name, place and stead, in any and all capacities in connection with the annual
+report on Form 10-K of Texas Instruments Incorporated for the year ended
+December 31, 2001, to sign any and all amendments to the Form 10-K, and to file
+the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting
+
+
+                                       19
+<PAGE>
+
+
+unto said attorneys-in-fact and agents, each acting alone, full power and
+authority to do and perform each and every act and thing requisite and necessary
+to be done in and about the premises, as fully to all intents and purposes as he
+or she might or could do in person, hereby ratifying and confirming all that
+said attorneys-in-fact and agents, or their substitutes or substitute, may
+lawfully do or cause to be done by virtue hereof. Pursuant to the requirements
+of the Securities Exchange Act of 1934, this Report has been signed below by the
+following persons on behalf of the Registrant and in the capacities indicated on
+the 21st day of February 2002.
+
+             Signature                                 Title
+
+
+        /s/ JAMES R. ADAMS                           Director
+------------------------------------
+        James R. Adams
+
+
+         /s/ DAVID L. BOREN                          Director
+------------------------------------
+         David L. Boren
+
+
+        /s/ JAMES B. BUSEY IV                        Director
+------------------------------------
+        James B. Busey IV
+
+
+        /s/ DANIEL A. CARP                           Director
+------------------------------------
+        Daniel A. Carp
+
+
+                                                     Chairman of the Board;
+                                                     President; Chief Executive
+        /s/ THOMAS J. ENGIBOUS                       Officer; Director
+------------------------------------
+        Thomas J. Engibous
+
+
+        /s/ GERALD W. FRONTERHOUSE                   Director
+------------------------------------
+        Gerald W. Fronterhouse
+
+
+        /s/ DAVID R. GOODE                           Director
+------------------------------------
+        David R. Goode
+
+
+                                       20
+<PAGE>
+
+
+        /s/ WAYNE R. SANDERS                         Director
+------------------------------------
+        Wayne R. Sanders
+
+
+        /s/ RUTH J. SIMMONS                          Director
+------------------------------------
+        Ruth J. Simmons
+
+
+        /s/ WILLIAM A. AYLESWORTH                    Senior Vice President and
+------------------------------------                 Chief Financial Officer
+        William A. Aylesworth
+
+
+                                       21
+
+
+<PAGE>
+
+
+                 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+
+                          INDEX TO FINANCIAL STATEMENTS
+                        AND FINANCIAL STATEMENT SCHEDULES
+                                  (Item 14(a))
+
+                                                          Page Reference
+                                                          --------------
+                                                          Proxy Statement
+                                                           for the 2002
+                                                          Annual Meeting
+                                            Form 10-K     of Stockholders
+                                            ---------     ---------------
+Information incorporated by reference
+to the Registrant's Proxy Statement for
+the 2002 Annual Meeting of Stockholders
+
+
+Consolidated Financial Statements:
+
+     Operations for each of the three
+     years in the period ended
+     December 31, 2001                                           C-1
+
+     Balance sheet at December 31,
+     2001 and 2000                                               C-2
+
+     Cash flows for each of the
+     three years in the period
+     ended December 31, 2001                                     C-3
+
+     Stockholders' equity for
+     each of the three years in the
+     period ended December 31, 2001                              C-4
+
+     Notes to financial statements                               C-5 - C-29
+
+     Report of Independent Auditors                              C-30
+
+
+Consolidated Schedule for each of the three years in the period ended December
+31, 2001:
+
+
+     II.   Allowance for Losses
+
+All other schedules have been omitted since the required information is not
+present or not present in amounts sufficient to require submission of the
+schedule, or because the information required is included in the consolidated
+financial statements or the notes thereto.
+
+
+                                       22
+<PAGE>
+
+
+                                                             Schedule  II
+
+
+                 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                              ALLOWANCE FOR LOSSES
+                            (Millions of Dollars)
+                    Years Ended December 31, 2001, 2000, 1999
+
+
+                          Additions
+           Balance at     Charged to                      Balance
+           Beginning      Operating                       at End
+           of Year         Results        Usage           of Year
+
+2001         $54            $50           $(43)            $61
+             ===            ===           =====            ===
+
+2000         $56            $79           $(81)            $54
+             ===            ===           =====            ===
+
+1999         $60            $83           $(87)            $56
+             ===            ===           =====            ===
+
+Allowances for losses from uncollectible accounts, returns, etc., are deducted
+from accounts receivable in the balance sheet.
+
+
+                                       23
+<PAGE>
+
+                                                                    Exhibit 3(o)
+                                                                    ------------
+
+
+                       CERTIFICATE OF OWNERSHIP AND MERGER
+                                     MERGING
+                               POWER TRENDS, INC.
+                                  WITH AND INTO
+                         TEXAS INSTRUMENTS INCORPORATED
+
+                         Pursuant to Section 253 of the
+                           General Corporation of Law
+                            of the State of Delaware
+
+     Texas Instruments Incorporated, a Delaware corporation (the "Company"),
+does hereby certify to the following facts relating to the merger (the "Merger")
+of Power Trends, Inc., an Illinois corporation (the "Subsidiary"), with and into
+the Company, with the Company remaining as the surviving corporation:
+
+     FIRST: The Company is incorporated pursuant to the General Corporation Law
+of the State of Delaware (the "DGCL"). The Subsidiary is incorporated pursuant
+to the laws of the State of Illinois.
+
+     SECOND: The Company owns all of the outstanding shares of each class of
+capital stock of the Subsidiary.
+
+     THIRD: The Board of Directors of the Company, by the following resolutions
+duly adopted at a meeting of the Board on April 18, 2001, determined to merge
+the Subsidiary with and into the Company pursuant to Section 253 of the DGCL:
+
+     RESOLVED, that the Board of Directors of the Company has deemed it
+     advisable that Power Trends, Inc. (the "Subsidiary") be merged with and
+     into the Company pursuant to Section 253 of the General Corporation Law of
+     the State of Delaware and Section 11.30 of the Illinois Business
+     Corporation Act; and it is
+
+     FURTHER RESOLVED, that the Subsidiary be merged with and into the
+     Company (the "Merger"); and it is
+
+
+<PAGE>
+
+
+     FURTHER RESOLVED, that by virtue of the Merger and without any action on
+     the part of the holder thereof, each then outstanding share of common stock
+     of the Company shall remain unchanged and continue to remain outstanding as
+     one share of common stock of the Company, held by the person who was the
+     holder of such share of common stock of the Company immediately prior to
+     the Merger; and it is
+
+     FURTHER RESOLVED, that by virtue of the Merger and without any action on
+     the part of the holder thereof, each then outstanding share of common stock
+     of the Subsidiary shall be cancelled and no consideration shall be issued
+     in respect thereof; and it is
+
+     FURTHER RESOLVED, that the appropriate officers of the Company be and they
+     hereby are authorized and directed to make, execute and acknowledge, in the
+     name and under the corporate seal of the Company, Articles of Merger for
+     the purpose of effecting the merger and to file the same in the office of
+     the Secretary of State of the State of Illinois; and it is
+
+     FURTHER RESOLVED, that the appropriate officers of the Company be and they
+     hereby are authorized and directed to make, execute and acknowledge, in the
+     name and under the corporate seal of the Company, a Certificate of
+     Ownership and Merger for the purpose of effecting the Merger and to file
+     the same in the office of the Secretary of State of the State of Delaware,
+     and to do all other acts and things that may be necessary to carry out and
+     effectuate the purpose and intent of the resolutions relating to the
+     Merger; and it is
+
+     FURTHER RESOLVED, that the Merger shall be effective on May 31, 2001; and
+     it is
+
+     FURTHER RESOLVED, that the appropriate officers of the Company be, and each
+     hereby is, authorized on behalf of the Company to do all things and to take
+     any other actions in furtherance of the foregoing resolutions as such
+     officer may deem necessary or appropriate.
+
+     FOURTH: The Company shall be the surviving corporation of the Merger.
+
+     FIFTH: The Restated Certificate of Incorporation of the Company as in
+effect Immediately prior to the effective time of the Merger shall be the
+Certificate of Incorporation of the surviving corporation.
+
+     IN WITNESS WHEREOF, the Company has caused this Certificate of Ownership
+and Merger to be executed by its duly authorized officer this 31st day of May,
+2001.
+
+
+           TEXAS  INSTRUMENTS  INCORPORATED
+
+
+
+     By:       /s/ CYNTHIA H. HAYNES
+               ---------------------
+     Name:     Cynthia H. Haynes
+     Office:   Vice President and Assistant
+               Secretary
+
+
+<PAGE>
+
+
+                                                                    Exhibit 3(p)
+                                                                    ------------
+
+
+                       CERTIFICATE OF OWNERSHIP AND MERGER
+                                     MERGING
+                        AMATI COMMUNICATIONS CORPORATION
+                                  WITH AND INTO
+                         TEXAS INSTRUMENTS INCORPORATED
+
+                         Pursuant to Section 253 of the
+                           General Corporation of Law
+                            of the State of Delaware
+
+     Texas Instruments Incorporated, a Delaware corporation, (the "Company")
+does hereby certify to the following facts relating to the merger (the "Merger")
+of Amati Communications Corporation, a Delaware corporation, (the "Subsidiary")
+with and into the Company, with the Company remaining as the surviving
+corporation:
+
+     FIRST: The Company is incorporated pursuant to the General Corporation Law
+of the State of Delaware (the "DGCL"). The Subsidiary is incorporated pursuant
+to the DGCL.
+
+     SECOND: The Company owns all of the outstanding shares of each class of
+capital stock of the Subsidiary.
+
+     THIRD: The Board of Directors of the Company, by the following resolutions
+duly adopted at a meeting of the Board on July 19, 2001, determined to merge the
+Subsidiary with and into the Company pursuant to Section 253 of the DGCL:
+
+     RESOLVED, that the Board of Directors of the Company has deemed it
+     advisable that Amati Communications Corporation (the "Subsidiary") be
+     merged with and into the Company pursuant to Section 253 of the General
+     Corporation Law of the State of Delaware; and it is
+
+     FURTHER RESOLVED, that the Subsidiary be merged with and into the Company
+    (the "Merger"); and it is
+
+
+<PAGE>
+
+
+     FURTHER  RESOLVED,  that  by virtue of the Merger and without any action on
+     the part of the holder thereof, each then outstanding share of common stock
+     of the Company shall remain unchanged and continue to remain outstanding as
+     one  share  of  common stock of the Company, held by the person who was the
+     holder  of  such  share of common stock of the Company immediately prior to
+     the  Merger;  and  it  is
+
+     FURTHER  RESOLVED,  that  by virtue of the Merger and without any action on
+     the part of the holder thereof, each then outstanding share of common stock
+     of  the  Subsidiary shall be cancelled and no consideration shall be issued
+     in  respect  thereof;  and  it  is
+
+     FURTHER  RESOLVED, that the appropriate officers of the Company be and they
+     hereby are authorized and directed to make, execute and acknowledge, in the
+     name  and  under  the  corporate  seal  of  the  Company,  a Certificate of
+     Ownership  and  Merger  for the purpose of effecting the Merger and to file
+     the  same in the office of the Secretary of State of the State of Delaware,
+     and  to do all other acts and things that may be necessary to carry out and
+     effectuate  the  purpose  and  intent  of  the  resolutions relating to the
+     Merger;  and  it  is
+
+     FURTHER  RESOLVED,  that  the  Merger  shall  be effective upon the date of
+     filing  of  the Certification of Ownership and Merger with the Secretary of
+     State  of  the  State  of  Delaware;  and  it  is
+
+     FURTHER RESOLVED, that the appropriate officers of the Company be, and each
+     hereby is, authorized on behalf of the Company to do all things and to take
+     any  other  actions  in  furtherance  of  the foregoing resolutions as such
+     officer  may  deem  necessary  or  appropriate.
+
+     FOURTH:  The  Company  shall  be  the  surviving corporation of the Merger.
+
+     FIFTH:  The  Restated  Certificate  of  Incorporation  of the Company as in
+effect  immediately  prior  to  the  effective  time  of the Merger shall be the
+Certificate  of  Incorporation  of  the  surviving  corporation.
+
+     IN  WITNESS  WHEREOF,  the Company has caused this Certificate of Ownership
+and  Merger  to  be  executed  by its duly authorized officer this 28th day of
+September,  2001.
+
+        TEXAS  INSTRUMENTS  INCORPORATED
+
+
+   By:     /s/ DANIEL M. DRORY
+           -------------------
+   Name:   Daniel  M.  Drory
+   Office: Assistant  Secretary
+
+
+<PAGE>
+
+
+                                                               Exhibit 10(a)(v)
+                                                               ---------------
+
+
+                                FOURTH AMENDMENT
+
+                                   TO RESTATED
+
+                          TI DEFERRED COMPENSATION PLAN
+
+
+     TEXAS INSTRUMENTS INCORPORATED, a Delaware corporation with its principal
+offices in Dallas, Texas (hereinafter referred to as "TI" or the "Company")
+hereby adopts this Fourth Amendment to the restated TI Deferred Compensation
+Plan (the "Plan").
+
+     This Fourth Amendment to the restated TI Deferred Compensation Plan shall
+be effective as of the dates specified. Except as hereby amended by this Fourth
+Amendment, the Plan, as previously amended, shall continue in full force and
+effect.
+
+1.   Effective January 1, 1998, the definition appearing as Section 1-4, Benefit
+     Restoration Account, is amended to correct the cross reference therein from
+     "Section  3-4"  to  "Section  3-3."
+
+2.   Effective  July 1, 2000, Section 1-14 is hereby amended and restated in the
+     entirety,  to  read  as  follows:
+
+          "Sec.  1-14.  Election Period. "Election Period" means the one or more
+          periods  determined by the Administrator, in its sole discretion, when
+          Participants  may  enter  into  new,  or  amend  existing,  Deferred
+          Compensation Agreements; provided that a Designated Employee may defer
+          Compensation  pursuant  to  Section  3.2(iv)  any  time  after  being
+          designated  for  participation  as  a  Designated  Employee."
+
+3.   Effective April 1, 2001, Section 3-5 is amended and restated in the
+     entirety,  to  read  as  follows:
+
+          "Sec.  3-5.  Withdrawal  of  Contributions  During  a  Plan  Year,  a
+          Participant  may withdraw funds credited to the Participant's Deferred
+          Compensation  Account.  A Participant who makes such an election shall
+          forfeit  10%  of  the  amount withdrawn and the Participant's Deferred
+          Contribution  Account  shall  be  adjusted to reflect such forfeiture.
+          Withdrawals  shall  be  made  as  soon  as  practicable  after  the
+          Administrator  receives  a  request  for  a  withdrawal  of  funds.  A
+          Participant may not withdraw funds credited to the Benefit Restoration
+          Account  until  after  the  date  of  the Participant's Termination of
+          Employment,  in  which  event  distribution  shall be made pursuant to
+          Section  3-6."
+
+
+<PAGE>
+
+
+4.   Effective  April  1,  2001,  Section  3-11  is  amended and restated in the
+     entirety,  to  read  as  follows:
+
+          "Sec.  3-11.  Alternate  Payee  Claims. Any claim against any benefits
+          hereunder  for child support, spousal maintenance, property settlement
+          or  alimony  (an "Alternate Payee Claim") shall be treated in the same
+          manner  as  would  a  claim  for corresponding benefits under the U.S.
+          Retirement  Plan  or  the  Universal Plan, and shall be subject to all
+          claims  provisions and restrictions of those plans; provided, however,
+          that  the  distribution  of  benefits  hereunder in satisfaction of an
+          Alternate  Payee  Claim shall be made in a lump-sum payment as soon as
+          practicable  after  the determination of the validity of the claim. No
+          order  issued  pursuant  to  an  Alternative  Payee  Claim may require
+          payment  in  any other form than a full lump sum distribution equal to
+          the  present  value  (as  determined  by  the  Administrator)  of  the
+          Alternate  Payee  Claim.  The  Administrator  may  delegate  the
+          administration  of  Alternate  Payee  Claims  to  the  Administration
+          Committee  under  the  U.S.  Retirement  Plan  or the Universal Plan."
+
+5.   Effective  April  1,  2001, Section 3-7 (iv) is amended by adding
+     the  following  clause  at the end of the first sentence thereof:
+
+          "  ;  provided,  however,  that  if  the  amount  credited  to  the
+          Participant's  Accounts at the time of the Participant's death is less
+          than  $25,000,  the  entire  amount  credited  to those Accounts shall
+          distributed  in  a  single  lump  sum."
+
+6.   Effective January 1, 1998, Section 5-2 is hereby amended and
+     restated  in  the  entirety,  to  read  as  follows:
+
+          "Sec.  5-2. Number and Selection. The Plan shall be administered by an
+          Administrator  or  Administrators  appointed  by  the  Compensation
+          Committee.  Each  Administrator  shall  serve without compensation for
+          services rendered in connection with the administration of this Plan."
+
+7.   Effective  January 1, 1998, Section 5-4 is hereby amended by
+     addition  of  the  following  sentence  at  the  end:
+
+          "The  Administrator  in its discretion shall determine whether, and to
+          what extent, Participant accounts will be charged with the expenses of
+          administration  of  the  Plan.  Expenses  charged  against Participant
+          accounts shall be charged as adjustments under Section 3-4 and Section
+          3-7,  as  applicable.  Expenses of the Plan not charged to Participant
+          accounts  shall  be  paid  by  TI."
+
+8.   Except  as  amended by this Fourth Amendment, the Company hereby ratifies
+     the  Plan  as  last  amended  and  restated  in the entirety effective
+     January  1,  1998,  and  as  amended  thereafter.
+
+
+<PAGE>
+
+
+IN WITNESS WHEREOF, Texas Instruments Incorporated has caused this
+instrument to be executed by its duly authorized officer.
+
+
+Texas  Instruments  Incorporated
+
+
+By:       /s/ STEPHEN H. LEVEN
+          --------------------
+          Stephen  H.  Leven
+Its:      Senior Vice President - Human  Resources
+
+
+<PAGE>
+
+
+                                                              Exhibit 10(a)(vi)
+                                                              -----------------
+
+
+                           SEVERANCE BENEFIT AGREEMENT
+                           ---------------------------
+
+SEVERANCE BENEFIT AGREEMENT (the "Agreement") executed this 30th day of October
+1996 (the "Effective Date") by and between BURR-BROWN CORPORATION, a Delaware
+corporation (the "Company"), and SYRUS P. MADAVI, the Company's President and
+Chief Executive Officer (the "Executive").
+
+                                 R E C I T A L S
+                                 - - - - - - - -
+
+     A. The Executive is currently employed on an "at-will" basis by the Company
+as the Company's President and Chief Executive Officer.
+
+     B. The Company and the Executive wish to enter into a formal agreement
+under which the Executive will be provided with certain defined severance
+benefits in the event his employment were to terminate under specified
+circumstances.
+
+
+NOW THEREFORE, the Company and Executive mutually agree as follows:
+
+                                   ARTICLE ONE
+
+                                   DEFINITIONS
+                                   -----------
+
+     For purposes of this Agreement, the following definitions shall be in
+effect:
+
+     1.1 AVERAGE ANNUAL COMPENSATION means the sum of the following dollar
+amounts: (i) the average rate of base salary in effect for the Executive over
+the three (3)-year period ending with the date of Executive's termination of
+employment with the Company plus (ii) the average bonus earned or accrued by
+Executive on the basis of corporate and personal performance over the three (3)
+fiscal years of the Company immediately preceding the fiscal year of Executive's
+termination, whether or not the actual payment of those bonuses occurred within
+that three (3)-year period.
+
+     1.2 BENEFICIARY means any person or persons designated from time to time by
+Executive pursuant to Section 5.2 to receive any benefits under this Agreement
+which may become due and payable to Executive following his death.
+
+     1.3 BOARD means the Board of Directors of the Company.
+
+     1.4 COMPETE means directly or indirectly to engage in activities for,
+render services to, or otherwise participate in the ownership (other than
+ownership of less than five percent (5%) of the outstanding equity or capital or
+profit interests in any entity) of, any business competitive with any line of
+business engaged in by the Company.
+
+
+<PAGE>
+
+
+     1.5 CONFIDENTIAL INFORMATION means any non-public proprietary or
+confidential information of the Company or its parent or subsidiary companies,
+including (without limitation) trade secrets; customer lists and information
+concerning vendors, suppliers, licensors or licensees; records or research,
+proposals, reports, methods, techniques, financial information and other data,
+and other non-public information regarding the Company and its parent or
+subsidiary companies or the existing and planned businesses, properties or
+affairs of the Company and its parent or subsidiary companies.
+
+     1.6 CONTRACT PAYOUT EVENT means any one of the following events, as
+further detailed in ARTICLE FOUR:
+
+     (i) the termination of Executive's employment by reason of his
+         death;
+
+     (ii) the termination of Executive's employment by reason of his Long-Term
+          Disability;
+
+     (iii) the  termination of Executive's employment by the Company for
+           Justifiable Reason;  or
+
+     (iv)  the Company's termination of Executive's employment Without Cause.
+
+     Should the Executive's employment be terminated by the Company for
+Misconduct or should the Executive voluntarily terminate his employment with the
+Company, then no benefits shall become payable under this Agreement in
+connection with such termination, and such termination shall not constitute a
+Contract Payout Event.
+
+     1.7 HEALTH CARE COVERAGE means the continued health care coverage under the
+Company's group health plans to which Executive and his eligible dependents will
+become entitled under this Agreement upon a Contract Payout Event.
+
+     1.8 JUSTIFIABLE REASON means the Company's termination of Executive's
+employment for one or more of the following reasons: (i) Executive's willful
+refusal to carry out the reasonable directives of the Board or (ii) Executive's
+failure to correct one or more material performance deficiencies within a
+reasonable period after receipt of written notice from the Board identifying
+those deficiencies. The reasonableness of the correction period for the
+identified deficiencies shall be determined on the basis of the nature and scope
+of those particular deficiencies.
+
+
+                                        2
+<PAGE>
+
+
+     1.9 LONG-TERM DISABILITY shall have the meaning assigned to that term from
+time to time in the disability income policy or policies which the Company is to
+maintain on behalf of Executive pursuant to the provisions of Section 4.3.
+
+     1.10 MISCONDUCT means Executive's (i) commission of any act of fraud,
+dishonesty or embezzlement; (ii) commission of any other willful and malicious
+act which has a materially adverse financial impact upon the Company; (iii)
+habitual neglect of his duties by reason of substance abuse or other repeated
+unexcused absences; or (iv) conviction of a felony which has a materially
+adverse financial impact upon the Company.
+
+     1.11 NEW OPTION means any option to purchase shares of the Company's common
+stock which is granted to Executive at any time after the Effective Date by the
+Company and which remains outstanding at the time Executive's employment with
+the Company terminates.
+
+     1.12 PLAN means the Company's 1993 Stock Incentive Plan, as amended from
+time to time, and any successor equity incentive plan maintained by the Company.
+
+     1.13 WITHOUT CAUSE means the Company's termination of Executive's
+employment for any reason other than Misconduct or Justifiable Reason.
+
+
+                                        3
+<PAGE>
+
+
+                                  ARTICLE TWO
+
+                               GENERAL PROVISIONS
+                              -------------------
+
+     2.1 TERM. This Agreement shall remain in effect through December 31, 1999.
+The term of this Agreement shall be automatically renewed for each subsequent
+calendar year during which Executive continues in the Company's employ, unless
+the Company terminates this Agreement as of the first day of any calendar year
+beginning after December 31, 1999 by providing Executive with written notice of
+such termination at least one hundred (180) days prior to the start of that
+calendar year. In the event the Company elects to so terminate this Agreement,
+then the following provisions shall become effective:
+
+     -    The  Company  and  Executive  shall  in  good  faith.  negotiate a new
+          severance  benefits  agreement to replace this Agreement, effective as
+          of  the  termination  date  of  this  Agreement.
+
+     -    If  agreement cannot be reached as to the terms and conditions of such
+          a  replacement  agreement,  then  Executive  shall  have  the right to
+          terminate  his  employment within six (6) months after the termination
+          date  of  this  Agreement  and  shall  thereupon  become  entitled  to
+          severance  benefits  to  be  reasonably agreed upon by the Company and
+          Executive  on  the  basis  of  severance  packages  in  effect  for
+          similarly-situated  chief  executive  officers  in  the  industry.
+
+     2.2 OPTION GRANTS. Any New Options granted to Executive under the Plan
+during the term of this Agreement shall incorporate the following terms and
+provisions:
+
+     -    Each  Option  shall  become immediately exercisable for twenty percent
+          (20%)  of  the  number  of  option  shares for which the Option is not
+          otherwise  at  the  time  exercisable  should  Executive's  employment
+          terminate  by  reason  of  his  death
+
+     -    Each  Option  shall  become  immediately exercisable for fifty percent
+          (50%)  of  the  number  of  option  shares for which the Option is not
+          otherwise  at  the  time  exercisable  should  Executive's  employment
+          terminate  by  reason  of  his  Long-Term  Disability.
+
+     -    Each  Option  shall  become immediately exercisable for eighty percent
+          (80%)  of  the  number  of  option  shares for which the Option is not
+          otherwise  at  the  time  exercisable  should  the  Company  terminate
+          Executive's  employment  Without  Cause.
+
+
+                                        4
+<PAGE>
+
+
+     -    Each  Option  shall continue to vest and become exercisable for one or
+          more  installments  of  the  underlying  option  shares for so long as
+          Executive  renders  services  to  the Company as an officer, employee,
+          non-employee  Board  member  or  an  independent consultant (including
+          services  rendered pursuant to the consulting arrangement set forth in
+          Section  3.2).
+
+     -    Each  Option  shall  remain  exercisable  for  a period of twelve (12)
+          months  following  the  termination  of  Executive's  employment  in
+          connection  with  a  Contract Payout Event, but in no event beyond the
+          expiration  date  of  the  option  term.
+
+
+                                        5
+<PAGE>
+
+
+                                  ARTICLE THREE
+
+                       COVENANTS AND CONSULTING AGREEMENT
+                       ----------------------------------
+
+     3.1 COVENANTS. Executive shall be subject to the following covenants and
+obligations:
+
+     3.1.1 RETURN OF DOCUMENTS. Upon the termination of Executive's employment
+for any reason, Executive shall promptly relinquish and return to the Company
+all Confidential Information and all files, correspondence, memoranda, diaries
+and other records, minutes, notes, manuals, papers and other documents and data,
+however prepared or memorialized, and all copies thereof, belonging to or
+relating to the business of the Company, that are in Executive's custody or
+control, whether or not they contain Confidential Information.
+
+     3.1.2 NON-COMPETITION COVENANT. While employed by the Company, Executive
+shall not Compete or plan or prepare to Compete with the Company. To the extent
+obligated pursuant to the provisions of ARTICLE FOUR, Executive shall not, for a
+period of twelve (12) months following the termination of his employment,
+Compete with any line of business in which (i) the Company is engaged at the
+time his employment terminates or (ii) the Company is preparing to engage
+pursuant to plans or proposals approved by the Board prior to such termination.
+
+     3.1.3 NON-SOLICITATION COVENANT. For a period of twenty-four (24) months
+following the termination of Executive's employment with the Company for any
+reason, Executive shall not, directly or indirectly, solicit the services of any
+Company employees or otherwise induce or attempt to induce any Company employees
+to sever their employment relationship with the Company.
+
+     3.1.4 SCOPE AND DURATION: SEVERABILITY. The Company and Executive
+understand and agree that the scope and duration of the covenants contained in
+this Section 3.1 are reasonable both in time and geographical area and are
+fairly necessary to protect the business of the Company. Such covenants shall
+survive the termination of Executive's employment, except that the Section 3.1.2
+non-competition covenant shall remain in effect following such termination of
+employment only to extent required pursuant to the provisions of ARTICLE FOUR.
+It is further agreed that such covenants shall be regarded as divisible and
+shall be operative as to time and geographical area to the extent that they may
+be made so operative, and should any portion of such covenants be declared
+invalid or unenforceable, the validity and enforceability of the remainder shall
+not be affected.
+
+
+                                        6
+<PAGE>
+
+
+     3.1.5 ASSIGNMENT. Except as otherwise provided to the contrary in ARTICLE
+FOUR, Executive agrees that the covenants contained in this Section 3.1 shall
+inure to the benefit of any successor or assign of the Company, with the same
+force and effect as if such covenant had been made by Executive with such
+successor or assign.
+
+     3.2 CONSULTING AGREEMENT. Upon the termination of Executive's
+employment-other than in connection with (i) a voluntary termination by
+Executive under Section 4.5 or (ii) a termination by the Company for Misconduct,
+Executive hereby agrees to make himself available to perform, for a period not
+to exceed twelve (12) months following such termination of employment, such
+consulting services for the Company within his area of expertise as may from
+time to time be reasonably requested by the Board, and the Company may not
+terminate the consulting arrangement during such twelve (12)-month other than
+for Misconduct or a breach by Executive of his non-competition covenant under
+Section 3.1.2. However, Executive shall not be required to perform more than ten
+(10) hours of consulting services per month during the period of such consulting
+arrangement.
+
+     3.2.1 COMPENSATION Executive shall not receive any cash compensation for
+the consulting services rendered pursuant to this Section 3.2 if Executive is
+otherwise to receive salary continuation payments (or disability income
+payments) under ARTICLE FOUR in connection with his termination of employment.
+However, if Executive is required under Section 3.2 to render one or more hours
+of consulting services following a termination of employment in which he is not
+entitled to any salary continuation payments (or disability income payments)
+under ARTICLE FOUR, then Executive shall receive cash compensation for such
+services at the hourly rate to be negotiated in good faith with the Company at
+the time of each project assignment.
+
+     3.2.2 EXPENSE REIMBURSEMENT. Executive shall be entitled to reimbursement
+of all reasonable out-of-pocket expenses incurred in connection with the
+performance of his consulting services pursuant to this Section 3.2 upon
+presentation to the Company of appropriate documentation evidencing those
+expenses.
+
+
+                                        7
+<PAGE>
+
+
+                                  ARTICLE FOUR
+
+                           PAYOUT OF CONTRACT BENEFITS
+                           ---------------------------
+
+     4.1 TERMINATION OF EMPLOYMENT. Executive's employment may be terminated by
+either Executive or the Company at any time for the reasons and with the
+consequences set out below. In the event of such termination, Executive may
+become entitled to certain severance benefits under this Agreement in accordance
+with the provisions of this ARTICLE FOUR.
+
+     4.2 DEATH. Executive's employment shall terminate upon his death.
+
+     4.2.1 SEVERANCE BENEFITS. In such event, the Company shall provide the
+following severance benefits:
+
+     -    Salary  continuation  payments  at  the monthly rate of base salary in
+          effect  for  Executive  at  the  time  of  his  death shall be paid to
+          Executive's  designated  Beneficiary  for a period of three (3) months
+          following the date of Executive's death. The payments shall be made in
+          accordance  with  the  Company's normal payroll practices and shall be
+          subject  to  the  Company's  collection  of all applicable withholding
+          taxes.
+
+     -    The  Company  shall,  at  its  expense,  provide Executive's surviving
+          spouse  and  other  eligible  dependents  with  continued  Health Care
+          Coverage  until the earlier of (i) eighteen (18) months after the date
+          of  Executive's death or (ii) the first date that such individuals are
+          covered under another employer's health benefit program which provides
+          substantially  the  same  level  of  benefits  without  exclusion  for
+          pre-existing  medical  conditions.  Such  coverage  will  be  in  full
+          satisfaction  of  any  continued  health  care  coverage  to  which
+          Executive's surviving spouse or dependents would otherwise be entitled
+          pursuant  to  the  requirements  of  Code  Section  4980B by reason of
+          Executive's termination of employment ("COBRA Continuation Coverage").
+
+     4.3 LONG-TERM DISABILITY. Either the Company or Executive may terminate
+Executive's employment, upon thirty (30) days prior written notice, by reason of
+his Long-Term Disability. Any such termination by the Company, however, shall be
+subject to the Company's compliance with the applicable requirements of the
+Americans with Disabilities Act.
+
+
+                                        8
+<PAGE>
+
+
+     4.3.1 COVENANTS. Following such termination of employment, Executive shall
+remain subject to the covenants and obligations set forth in Section 3.1 and
+Section 3.2 (but only the extent Executive is physically able to perform any
+consulting services in accordance therewith).
+
+     4.3.2 DISABILITY INCOME. Executive shall be entitled to receive short-term
+and long-term disability income benefits from the following sources in
+connection with the termination of his employment under this Section 4.3:
+
+     -    Executive  shall be entitled to receive short-term disability benefits
+          in  the  form  of salary continuation payments, at one hundred percent
+          (100%)  of  his  base  salary,  for  the  first  six (6) months of his
+          disability  period.  Such payments shall be made pursuant to the terms
+          of  the  Company's  Short-Term Disability Income Plan, and Executive's
+          eligibility for such payments shall be determined solely in accordance
+          with  the  terms  of  that  Plan.
+
+     -    Upon  the  expiration  of  the  salary  continuation  period under the
+          Short-Term  Disability Income Plan, Executive shall become entitled to
+          receive  salary  continuation  payments  in  the  monthly  amount  of
+          Twenty-Five Thousand Dollars ($25,000.00) pursuant to the terms of the
+          special  long-term  disability income policies which the Company shall
+          maintain  on  Executive's behalf. Such monthly payments shall continue
+          until the earliest to occur of (i) Executive's attainment of age sixty
+          five  (65)  or  (ii)  his  failure to qualify for continued disability
+          income  payments under the terms of those policies or (iii) his return
+          to  full-time  employment with the Company or other business entity in
+          substantially  the  same  position  he  held  immediately prior to his
+          disability.  Should  Executive's  attainment of age sixty five (65) be
+          the  earliest  event,  then such salary continuation payments shall be
+          reduced  to  the  amount  of Fifteen Thousand Dollars ($15,000.00) per
+          month  and shall continue at that level until the earliest to occur of
+          (i)  Executive's  death  or  (ii) his failure to qualify for continued
+          disability  income payments under the terms of those policies or (iii)
+          his  return to full-time employment with the Company or other business
+          entity in substantially the same position he held immediately prior to
+          his  disability.
+
+     The  long-term  disability  income  policies shall be purchased from one or
+     more  insurance companies mutually acceptable to the Company and Executive,
+     and  all  premiums  on  those  policies  shall  be paid by the Company. The
+     Company  shall, throughout the term of this Agreement, continue to maintain
+     the  existing  long-term income policies currently in effect for Executive.
+     Such policies shall, however, be reviewed at least annually in terms of the
+     financial  stability  of  the  insurer,  and the Company shall use its best
+     efforts  to  obtain  replacement  policies  from  one  or  more  other
+     financially-solvent  insurance  companies,  to  the  extent  the  insurance
+
+
+                                       9
+<PAGE>
+
+
+     company  issuing  one  or  more  of  the  current policies is deemed by the
+     Company  or  Executive to pose an unacceptable risk of insolvency. However,
+     should  Executive be unable to qualify to qualify for coverage under one or
+     more  replacement  policies  needed to provide the benefits contemplated by
+     this  Section  4.3.2,  then  Executive's  entitlement  to disability income
+     payments  hereunder  shall  be  reduced  to the actual dollar amount of the
+     income  payments provided by the remaining policies and shall be reduced to
+     zero  if  there  are  no  remaining  policies.
+
+     Executive  shall  look  exclusively  to the Company's Short-Term Disability
+     Income  Plan and any long-term disability income policies maintained on his
+     behalf  pursuant  to  this  Section 4.3.2 for the payment of his disability
+     benefits hereunder, and the Company shall have no obligation to provide any
+     long-term  disability  income  payments  out of the Company's own funds and
+     shall  not  be the guarantor of the disability income benefits contemplated
+     by  this  Section  4.3.2.
+
+     4.3.3 HEALTH CARE COVERAGE. The Company shall, at its expense, provide
+Executive and his eligible dependents with continued Health Care Coverage until
+the earliest to occur of (i) the Executive's death or (ii) the first date that
+such individuals are covered under another employer's health benefit program
+which provides substantially the same level of benefits without exclusion for
+pre-existing medical conditions or (iii) his return to full-time employment with
+the Company or other business entity in substantially the same position he held
+immediately prior to his disability. The period of such Company-paid coverage
+shall be credited against any period of COBRA Continued Care Coverage to which
+Executive and his eligible dependents may, at their sole cost, be entitled by
+reason of Executive's termination of employment and shall not be in addition to
+such period of COBRA Continued Care Coverage.
+
+     4.4 TERMINATION BY THE COMPANY FOR MISCONDUCT. The Company may terminate
+Executive's employment for Misconduct.
+
+     4.4.1 NO CONTRACT BENEFITS. Should Executive's employment be terminated for
+Misconduct, Executive shall have no right to receive any severance benefits
+under this Agreement. However, Executive shall be entitled to receive (i) any
+unpaid compensation earned for services rendered through the date of such
+termination and (ii) any accrued but unpaid vacation benefits or sick days.
+
+     4.4.2 COVENANTS. Following such termination for Misconduct, Executive shall
+comply with his covenants and obligations under Section 3.1 but shall not be
+subject to any consulting agreement under Section 3.2.
+
+     4.5 VOLUNTARY TERMINATION BY EXECUTIVE. Executive may, upon thirty (30)
+days prior written notice to the Company, voluntarily terminate his employment
+at any time.
+
+
+                                       10
+<PAGE>
+
+
+     4.5.1 NO CONTRACT BENEFITS. Following Executive's termination of employment
+under this Section 4.5, Executive shall have no right to receive any severance
+benefits under this Agreement, but he and his eligible dependents shall be
+entitled, at their sole cost, to receive COBRA Continuation Coverage. In
+addition, Executive shall be entitled to receive (i) any unpaid compensation
+earned for services rendered through the date of such termination and (ii) any
+accrued but unpaid vacation benefits or sick days.
+
+    4.5.2 COVENANTS. Following such termination of employment, Executive shall
+comply with his covenants and obligations under Section 3.1 (other than Section
+3.1.2) but shall not be subject to any consulting agreement under Section 3.2.
+
+     4.6 TERMINATION BY THE COMPANY FOR JUSTIFIABLE REASON. The Company may
+terminate Executive's employment at any time for Justifiable Reason.
+
+    4.6.1 SEVERANCE BENEFITS. Upon the Company's termination of Executive's
+employment under this Section 4.6, the Company shall provide the following
+severance benefits:
+
+     -    Executive shall be entitled to receive an immediate lump sum severance
+          payment  equal  to  one (1) times his Average Annual Compensation. The
+          payment  shall  be  made  within  thirty  (30)  days  following  the
+          Executive's  termination  date  and  shall be subject to the Company's
+          collection  of  all  applicable  withholding  taxes
+
+     -    Executive  shall  be entitled to receive salary continuation payments,
+          at  the  monthly  rate of base salary in effect for him at the time of
+          his termination of employment, for a period of twelve (12) months. The
+          payments shall be made in accordance with the Company's normal payroll
+          practices  and  shall  be  subject  to the Company's collection of all
+          applicable  withholding  taxes. Payments shall commence with the first
+          payday  following  Executive's  termination  date.  However,  should
+          Executive  obtain a position of full-time employment during the salary
+          continuation period, then the dollar amount of the salary continuation
+          payments  shall  be  reduced  by the salary earned by Executive during
+          such  period  for  services  rendered  to  his  new  employer.
+
+     -    The  Company shall, at its expense, provide Executive and his eligible
+          dependents with continued Health Care Coverage until the earlier of
+          (i) twelve (12) months after the Executive's termination date or (ii)
+          the first date that such individuals are covered under another
+          employer's health  benefit program which provides substantially the
+          same level of benefits  without  exclusion  for pre-existing medical
+          conditions. The period  of  such  Company-paid  coverage shall be
+          credited against any period of COBRA Continued Care Coverage to which
+
+
+                                       11
+<PAGE>
+
+
+          Executive and his eligible dependents may, at their sole cost, be
+          entitled by .reason of Executive's termination of employment and shall
+          not be in addition to such period of COBRA Continued Care Coverage.
+
+     4.6.2 COVENANTS. Following the termination of Executive's employment
+pursuant to this Section 4.6, Executive shall comply with all his covenants and
+obligations under Section 3.1 and Section 3.2.
+
+     4.7 TERMINATION BY THE COMPANY WITHOUT CAUSE. The Company may terminate
+Executive's employment at any time Without Cause.
+
+     4.7.1 SEVERANCE  BENEFITS.  Upon the Company's termination of Executive's
+employment  under this Section 4.7, the Company shall provide the following
+severance  benefits:
+
+     -    Executive shall be entitled to receive an immediate lump sum severance
+          payment equal to one (1) times his Average Annual Compensation. The
+          payment shall be made within thirty (30) days following the
+          Executive's termination date and shall be subject to the Company's
+          collection of all applicable withholding taxes.
+
+     -    Executive  shall  be  entitled  to receive an additional benefit in an
+          amount  equal  to  one (1) times his Average Annual Compensation. This
+          additional  benefit  shall  be  paid in equal increments over a twelve
+          (12)-month  period  in  accordance  with  the Company's normal payroll
+          practices  and  shall  be  subject  to the Company's collection of all
+          applicable  withholding  taxes.  Payment shall commence with the first
+          payday  following  Executive's  termination  date.
+
+     -    The  Company shall, at its expense, provide Executive and his eligible
+          dependents with continued Health Care Coverage until the earlier of
+          (i) twelve (12) months after the date of Executive's termination or
+          (ii) the first date that such individuals  are  covered  under another
+          employer's  health  benefit  program  which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions. The period of such Company-paid coverage shall be credited
+          against any period of COBRA Continued Care Coverage to which Executive
+          and  his  eligible  dependents may, at their sole cost, be entitled by
+          reason  of  Executive's  termination of employment and shall not be in
+          addition  to  such  period  of  COBRA  Continued  Care  Coverage.
+
+
+                                       12
+<PAGE>
+
+
+     4.7.2 Covenants. Following the termination of Executive's employment
+pursuant to this Section 4.7, Executive shall comply with all his covenants and
+obligations under Sections 3.1 and 3.2.
+
+
+                                       13
+<PAGE>
+
+
+                                  ARTICLE FIVE
+
+                             MISCELLANEOUS PROVISIONS
+                             ------------------------
+
+     5.1 TERMINATION OF HEALTH COVERAGE. Any Health Care Coverage to which
+Executive or his eligible dependents may become entitled pursuant to the
+provisions of ARTICLE FOUR or any COBRA Continuation Coverage to which such
+individuals are otherwise entitled by law shall immediately terminate upon the
+occurrence of any of the following events:
+
+     -    Executive  and  his  eligible  dependents become covered under another
+          employer's  health  benefit  program, which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions;
+
+     -    The individual fails to pay the applicable premium for the Health Care
+          Coverage prior the expiration of any applicable grace period following
+          the  due  date  for  such  premium;
+
+     -    Any  Company-paid  coverage  will  immediately  terminate  should  the
+          Executive  fail to perform his obligations under ARTICLE THREE, to the
+          extent  those obligations are applicable pursuant to the provisions of
+          ARTICLE  FOUR  following  his  termination  of  employment;  or
+
+     -    The  Company discontinues all health care coverage programs for active
+          employees.
+
+     5.2 DESIGNATION OF BENEFICIARY. Executive may designate from time to time
+the person or persons who are to be his designated Beneficiary under this
+Agreement. Each such designation shall be evidenced by a written, signed
+document delivered to the Company's Corporate Secretary, and each new
+designation shall automatically supersede and revoke the prior existing
+designation. In the absence of any such designation, the Beneficiary shall be
+the Executive's estate.
+
+     5.3 ENTIRE AGREEMENT. This Agreement, together with the contemporaneous
+Change in Control Severance Benefit Agreement between the Company and Executive
+(the "Change in Control Benefit Agreement"), contains the entire agreement and
+understanding between Executive and the Company regarding the severance benefits
+to which Executive may become entitled upon his cessation of employment and
+supersedes and replaces all prior contracts, understandings and representations
+(whether oral or written) regarding the terms and conditions of such severance
+benefits. Neither this Agreement nor the Change in Control Benefit Agreement may
+be modified except by a writing executed by both Executive and the Company.
+
+
+                                       14
+<PAGE>
+
+
+     5.4 ASSIGNMENT BY THE COMPANY. This Agreement shall be binding upon and
+shall inure to the benefit of any successors or assigns of the Company. As used
+in this Agreement, the term "successor" includes any person or group of persons
+acting in concert who at any time in any form or manner acquires all or
+substantially all of the assets or business of the Company or more than thirty
+(30%) of the outstanding voting securities of the Company. Accordingly, this
+Agreement, together with the Change in Control Benefit Agreement, shall
+continue in full force and effect following any such assignment to the successor
+entity.
+
+     5.5. GENERAL CREDITOR STATUS The benefits to which Executive may become
+entitled under this Agreement (except those attributable to his options) shall
+be paid, when due, from the general assets of the Company. The right of the
+Executive (or his Beneficiary) to receive any such payments shall at all times
+be that of a general creditor of the Company and will have no priority over the
+claims of other general creditors of the Company.
+
+     5.6. DEATH. Should Executive die before receipt of all benefits to which he
+may become entitled under this Agreement, then the payment of such benefits
+shall be made, on the due date or dates hereunder had Executive survived, to his
+Beneficiary. Should Executive die before he has exercised all his outstanding
+vested Options, then each such Option may be exercised, during the applicable
+exercise period in effect for such Option, by the executors or administrators of
+Executive's estate or by the Person to whom the Option is transferred pursuant
+to the Executive's will or in accordance with the laws of inheritance.
+
+     5.7. MISCELLANEOUS. The provisions of this Agreement shall be construed and
+interpreted under the laws of the State of Arizona. If any provision of this
+Agreement as applied to any party or to any circumstance should be adjudged by a
+court of competent jurisdiction to be void or unenforceable for any reason, the
+invalidity of that provision shall in no way affect (to the maximum extent
+permissible by law) the application of such provision under circumstances
+different from those adjudicated by the court, the application of any other
+provision of this Agreement, or the enforceability or invalidity of this
+Agreement as a whole.
+
+     5.8 ARBITRATION. Any controversy which may arise between Executive and the
+Company with respect to the construction, interpretation or application of any
+of the terms, provisions or conditions of this Agreement or any monetary-claim
+arising from or relating to this Agreement shall be submitted to final and
+binding arbitration in Tucson, Arizona in accordance with the rules of the
+American Arbitration Association then in effect.
+
+
+                                       15
+<PAGE>
+
+
+     5.9. NO EMPLOYMENT OR SERVICE CONTRACT. Nothing in this Agreement shall
+confer upon Executive any right to continue in the employment of the Company for
+any period of specific duration or interfere with or otherwise restrict in any
+way the rights of the Company or Executive, which rights are hereby expressly
+reserved by each, to terminate Executive's employment at any time for any reason
+whatsoever, with or without cause.
+
+     5.10 NOTICES. Any notice provided for by this Agreement and any other
+notice, demand, designation or communication which either party may wish to send
+to the other ("Notices") shall be in writing and shall be deemed to have been
+properly given if served by (i) personal delivery, (ii) registered or certified
+mail, return receipt requested in a sealed envelope, postage and other charges
+prepaid, or (iii) telegram, telecopy, telex, facsimile or other similar form of
+transmission followed by delivery pursuant to clause (i) or (ii), in each case
+addressed to the party for which such Notice is intended as follows:
+
+If to the Company: Board of Directors
+                   Burr-Brown  Corporation
+                   6730  South  Tucson  Boulevard
+                   Tucson,  AZ  85706
+                   FAX:  (520)  746-7752
+
+If to Executive:   Syrus  P.  Madavi
+                   __________________
+                   __________________
+                   FAX:  (520)_________
+
+     5.10.1 CHANGE OF ADDRESS. Any address or specified in this Section 5.10 may
+be changed by a Notice given by the addressee to the other party in accordance
+with this Section 5.10.
+
+     5.10.2 EFFECTIVE DATE OF NOTICE. All Notices shall be given and effective
+as of the date of personal delivery thereof or the date of receipt set forth on
+the return receipt. The inability to deliver because of a changed address of
+which no Notice was given or rejection or other refusal to accept any Notice
+shall be deemed to be the receipt of the Notice as of the date of such inability
+to deliver or rejection or refusal to accept.
+
+                                       16
+
+
+<PAGE>
+
+
+     IN WITNESS WHEREOF, this Severance Benefit Agreement has been executed and
+delivered by the parties as of the date first set forth above.
+
+
+/s/ SYRUS P. MADAVI
+-----------------------------
+Syrus P. Madavi, Executive
+
+
+BURR-BROWN  CORPORATION
+
+By: /s/ THOMAS R. BROWN, JR.
+    ------------------------
+Title: Chairman  of  the  Board
+
+
+                                       17
+<PAGE>
+
+
+                                                              Exhibit 10(a)(vii)
+                                                              ------------------
+
+
+
+                  CHANGE IN CONTROL SEVERANCE BENEFIT AGREEMENT
+                  ---------------------------------------------
+
+
+CHANGE IN CONTROL SEVERANCE BENEFIT AGREEMENT (the "Agreement") executed this
+30th day of October 1996 (the "Effective Date") by and between BURR-BROWN
+CORPORATION, a Delaware corporation (the "Company"), and SYRUS P. MADAVI, the
+Company's President and Chief Executive Officer (the "Executive").
+
+                                 R E C I T A L S
+                                 - - - --- - - -
+
+     A. The Executive is currently employed on an "at-will" basis by the Company
+as the Company's President and Chief Executive Officer.
+
+     B. The Company and the Executive wish to enter into a formal agreement
+under which the Executive will be provided with certain defined severance
+benefits in the event his employment were to terminate under specified
+circumstances following a change in control or ownership of the Company.
+
+       NOW THEREFORE, the Company and Executive mutually agree as follows:
+
+
+                                  ARTICLE ONE
+
+                                  DEFINITIONS
+                                  -----------
+
+   For purposes of this Agreement, the following definitions shall be in effect:
+
+     1.1 ACTUAL FIVE-YEAR AVERAGE COMPENSATION means Executive's average W-2
+wages and other compensation received from the Company for the five (5) calendar
+years completed immediately prior to the calendar year in which a Parachute
+Event occurs. Any W-2 wages or other compensation for a partial year of
+employment with the Company will be annualized, in accordance with the frequency
+with which such wages are paid during such partial year, before inclusion within
+Executive's Actual Five-Year Average Compensation. If any of Executive's
+compensation from the Company during such five (5)-year or shorter period was
+not included in his W-2 wages for U.S. income tax purposes because such
+compensation was excludible from income as foreign earned income under Code
+Section 911 or as pre-tax income under Code Section 125 or 402(g), then such
+compensation shall nevertheless be included in Executive's Actual Five-Year
+Average Compensation to the same extent as if it were part of his W-2 wages.
+
+
+<PAGE>
+
+
+     1.2 AVERAGE ANNUAL COMPENSATION means the sum of the following dollar
+amounts: (i) the average rate of base salary in effect for the Executive over
+the three (3)-year period ending with the date of his termination of employment
+with the Company or, if greater, over the three (3) year period ending
+immediately prior to the Parachute Event plus (ii) the average bonus earned or
+accrued by Executive on the basis of corporate and personal performance over the
+three (3) fiscal years of the Company immediately preceding the fiscal year of
+Executive's termination, or if greater, over the three (3)-year, period
+immediately preceding the fiscal year of the Parachute Event, whether or not the
+actual payment of those bonuses occurred within that three (3) year period.
+
+     1.3 BENEFICIARY means any person or persons designated from time to time by
+Executive pursuant to Section 6.2 to receive any benefits under this Agreement
+which may become due and payable to Executive following his death.
+
+     1.4 BOARD means the Board of Directors of the Company.
+
+     1.5 CHANGE OF CONTROL means a change of ownership or control of the Company
+(other than a Hostile Take-Over under Section 1.12) effected pursuant to one or
+more of the following events:
+
+     (i)  the  acquisition by any person (or any group of related persons acting
+          in  concert)  of  beneficial ownership (as defined in Rule 13d-3 under
+          the  Securities  Exchange Act) of securities of the Company possessing
+          more  than  fifty  percent (50%) of the total combined voting power of
+          the  Company's  then  outstanding  securities;  or
+
+     (ii) a  merger  or  consolidation  in  which  securities  of  the  Company
+          possessing  more than fifty percent (50%) of the total combined voting
+          power  of the Company's then outstanding securities are transferred to
+          a  person  or  persons  different  from  the  persons  holding  those
+          securities  immediately  prior  to  such  merger  or consolidation; or
+
+    (iii) the  sale  of  all  or  substantially all of the Company's assets in
+          complete  liquidation  or  dissolution  of  the  Company.
+
+     1.6 CODE means the Internal Revenue Code of 1986 as amended.
+
+     1.7 COMPETE means directly or indirectly to engage in activities for,
+render services to or otherwise participate in the ownership (other than
+ownership of less than five percent (5%) of the outstanding equity or capital or
+profit interests in any entity) of any business competitive with any line of
+business engaged in by the Company.
+
+
+                                        2
+<PAGE>
+
+
+     1.8 CONFIDENTIAL INFORMATION means any non-public proprietary or
+confidential information of the Company or its parent or subsidiary companies,
+including (without limitation) trade secrets; customer lists and information
+concerning vendors, suppliers, licensors or licensees; records or research,
+proposals, reports, methods, techniques, financial information and other data,
+and other non-public information regarding the Company and its parent or
+subsidiary companies or the existing and planned businesses, properties or
+affairs of the Company and its parent or subsidiary companies.
+
+     1.9 CONSTRUCTIVE TERMINATION means Executive's resignation from employment
+with the Company at any time after a Change in Control but within six (6) months
+after the occurrence of one or more of the following events:
+
+     (i)  the assignment to Executive of any duties of materially lesser status,
+          dignity  and  character  than  his  duties on the Effective Date, or a
+          substantial  reduction in the nature or status of his responsibilities
+          from  those  in  effect  on  the  Effective-Date;
+
+     (ii) a  greater  than  ten percent (10%) reduction in Executive's level of
+          compensation  (including  base  salary,  fringe  benefits  and  target
+          bonuses  (to the extent those targets are expressed as a percentage of
+          base  salary)  under  any  Company performance-based incentive plans);
+
+    (iii) a  relocation  of  Executive's principal place of employment by more
+          than  fifty  (50)  miles;  or
+
+     Any reduction in compensation which occurs in connection with an across-the
+board reduction in the level of compensation payable to the Company's executive
+officers or senior management shall not constitute grounds for a clause (ii)
+resignation, unless implemented within twelve (12) months after a Change in
+Control.
+
+     1.10 CONTRACT PAYOUT EVENT means any one of the following events which
+transpire after a Change in Control or Hostile Take-Over, as further detailed in
+ARTICLE FOUR:
+
+     (i)  Executive's  voluntary  termination of employment within two (2) years
+          after  the  effective  date  of  such  Change  in  Control  or Hostile
+          Take-Over;
+
+     (ii) Executive's  termination  of employment within six (6) months after an
+          event  of  Constructive  Termination;  or
+
+   (iii)  the  Company's  termination of Executive's employment Without Cause.
+
+
+                                        3
+<PAGE>
+
+
+     1.11 HEALTH CARE COVERAGE means the continued health care coverage under
+the Company's group health plans to which Executive and his eligible dependents
+will become entitled under this Agreement upon a Contract Payout Event.
+
+     1.12 HOSTILE TAKE-OVER means either of the following events:
+
+     (i)  the  acquisition  by any person (or related group of persons), whether
+          by  tender  or  exchange  offer  made  directly  to  the  Company's
+          stockholders,  private  purchases  from  one  or more of the Company's
+          stockholders,  open  market  purchases  or  any  other transaction, of
+          beneficial  ownership of securities possessing more than fifty percent
+          (50%)  of the total combined voting power of the Company's outstanding
+          securities  pursuant  to a tender offer made directly to the Company's
+          stockholders  which  the Board does not recommend such stockholders to
+          accept,  or
+
+     (ii) a  change in the composition of the Board over a period of twenty-four
+          (24)  consecutive  months  or  less  such that a majority of the Board
+          members ceases, by reason of one or more contested elections for Board
+          membership,  to  be  comprised of individuals who either (a) have been
+          Board  members  continuously since the beginning of such period or (b)
+          have  been  elected  or nominated for election as Board members during
+          such  period  by at least a majority of the Board members described in
+          clause  (a)  who  were  still  in  office at the time such election or
+          nomination  was  approved  by  the  Board.
+
+     1.13 JUSTIFIABLE REASON means the Company's termination of Executive's
+employment for one or more of the following reasons: (i) Executive's willful
+refusal to carry out the reasonable directives of the Board or (ii) Executive's
+failure to correct one or more material performance deficiencies within a
+reasonable period after receipt of written notice from the Board identifying
+those deficiencies. The reasonableness of the correction period for the
+identified deficiencies shall be determined on the basis of the nature and scope
+of those particular deficiencies.
+
+     1.14 MISCONDUCT means Executive's (i) commission of any act of fraud,
+dishonesty or embezzlement; (ii) commission of any other willful and malicious
+act which has a materially adverse financial impact upon the Company; (iii)
+habitual neglect of his duties by reason of substance abuse or other repeated
+unexcused absences; or (iv) conviction of a felony which has a materially
+adverse financial impact upon the Company.
+
+     1.15 OPTION means any option to purchase shares of the Company's common
+stock granted to Executive by the Company and outstanding at the time of a
+Parachute Event.
+
+
+                                        4
+<PAGE>
+
+
+     1.16 OPTION PARACHUTE PAYMENT means, with respect to each Option
+accelerated in whole or in part in connection with a Parachute Event or the
+subsequent termination of Executive's employment, the portion of that Option
+deemed to be a parachute payment under Code Section 280G and the Treasury
+Regulations issued thereunder. The portion of such Option which is categorized
+as an Option Parachute Payment shall be calculated in accordance with the
+valuation provisions established under Code Section 280G and the applicable
+Treasury Regulations and shall include an appropriate dollar adjustment to
+reflect the lapse of Executive's obligation to remain in the Company's employ as
+a condition to the vesting of the accelerated installment. In no event, however,
+shall the Option Parachute Payment attributable to any Option (or accelerated
+installment) exceed the spread (the excess of the fair market value of the
+accelerated option shares over the option exercise price payable for those
+shares) existing at the time of acceleration.
+
+     1.17 OTHER PARACHUTE PAYMENT means any payment in the nature of
+compensation (other than an Option Parachute Payment) which is made to Executive
+in connection with a Parachute Event or the subsequent termination of his
+employment and which accordingly qualifies as a parachute payment within the
+meaning of Code Section 280G(b)(2) and the Treasury Regulations issued
+thereunder.
+
+     1.18 PARACHUTE EVENT means a Change in Control or Hostile Take-Over, to the
+extent such transaction constitutes a change in ownership or control of the
+Company under Code Section 280G and the Treasury Regulations issued thereunder.
+
+     1.19 PRESENT VALUE means the value, determined as of the date of the
+applicable Parachute Event, of any payment in the nature of compensation to
+which Executive becomes entitled in connection with either the Parachute Event
+or the subsequent termination of his employment. The Present Value of each such
+payment shall be determined in accordance with the provisions of Code Section
+280G(d)(4), utilizing a discount rate equal to one hundred twenty percent (120%)
+of the applicable Federal rate in effect at the time of such determination,
+compounded semi-annually to the effective date of the Parachute Event.
+
+     1.20 PLAN means the Company's 1993 Stock Incentive Plan, as amended from
+time to time, and any successor equity incentive plan maintained by the Company.
+
+     1.21 SEVERANCE BENEFIT AGREEMENT means the Severance Benefit Agreement
+which the Company and Executive will execute contemporaneously with this
+Agreement or any successor or replacement agreement, to the extent any such
+agreement is in effect at the time.
+
+     1.22 WITHOUT CAUSE means the Company's termination of Executive's
+employment for any reason other than Misconduct or Justifiable Reason.
+
+
+                                        5
+<PAGE>
+
+
+                                   ARTICLE TWO
+
+                               GENERAL PROVISIONS
+                               ------------------
+
+     2.1 TERM. This Agreement shall remain in effect through December 31, 1999.
+The term of this Agreement shall be automatically renewed for each subsequent
+calendar year during which Executive continues in the Company's employ, unless
+the Company terminates this Agreement as of the first day of any calendar year
+beginning after December 31, 1999 by providing Executive with written notice of
+such termination at least one hundred (180) days prior to the start of that
+calendar year. In the event the Company elects to so terminate this Agreement
+prior to a Change in Control or Hostile Take-Over, then the following provisions
+shall become effective:
+
+     -    The  Company  and Executive shall in good faith negotiate a new change
+          in  control  severance  benefits  agreement to replace this Agreement,
+          effective  as  of  the  termination  date  of  this  Agreement.
+
+     -    If  agreement cannot be reached as to the terms and conditions of such
+          a  replacement  agreement,  then  Executive  shall  have  the right to
+          terminate  his  employment within six (6) months after the termination
+          date  of  this  Agreement  and  shall  thereupon  become  entitled  to
+          severance  benefits  to  be  reasonably agreed upon by the Company and
+          Executive  on  the  basis  of  severance  packages  in  effect  for
+          similarly-situated  chief  executive  officers  in  the  industry.
+
+     If the Company elects to terminate this Agreement after a Change in Control
+or Hostile Take-Over, then Executive shall, upon his termination of employment
+within six (6) months after the effective date on which this Agreement is so
+terminated, be treated as if his termination of employment were a termination by
+the Company Without Cause, and all the provisions of Section 4.3 shall
+accordingly apply to such termination of employment.
+
+     2.2 OPTION GRANTS. Any new Options granted to Executive under the Plan
+during the term of this Agreement shall incorporate the following terms and
+provisions:
+
+     -    Each Option shall become immediately exercisable for all of the option
+          shares  as  fully-vested shares upon a Change in Control in which that
+          Option is not assumed by the successor entity (or the parent company).
+          Any Option so assumed in a Change in Control shall subsequently become
+          exercisable  for  all  the  option  shares  as  fully-vested shares if
+          Executive's  employment  is terminated within two (2) years after such
+          Change  in Control either by the Company Without Cause or by Executive
+          in  connection  with  a  Constructive  Termination.
+
+
+                                        6
+<PAGE>
+
+
+     -    Each Option shall, subject to the benefit limitations of ARTICLE FIVE,
+          become  immediately  exercisable  for  all  of  the  option  shares as
+          fully-vested  shares  upon  the  occurrence  of  a  Hostile Take-Over.
+
+     -    Each  Option  shall  remain  exercisable  for  a period of twelve (12)
+          months  following  the  termination  of  Executive's  employment  in
+          connection  with  a  Contract Payout Event, but in no event beyond the
+          expiration  date  of  the  option  term.
+
+
+                                        7
+<PAGE>
+
+
+                                  ARTICLE THREE
+
+                       COVENANTS AND CONSULTING AGREEMENT
+                      -------------------------------------
+
+     3.1 COVENANTS. Executive shall be subject to the following covenants and
+obligations:
+
+     3.1.1 RETURN OF DOCUMENTS. Upon the termination of Executive's employment
+for any reason, Executive shall promptly relinquish and return to the Company
+all Confidential Information and all files, correspondence, memoranda, diaries
+and other records, minutes, notes, manuals, papers and other documents and data,
+however prepared or memorialized, and all copies thereof, belonging to or
+relating to the business of the Company, that are in Executive's custody or
+control, whether or not they contain Confidential Information.
+
+     3.1.2 NON-COMPETITION COVENANT. While employed by the Company, Executive
+shall not Compete or plan or prepare to Compete with the Company. To the extent
+obligated pursuant to the provisions of ARTICLE FOUR. Executive shall not, for a
+period of twelve (12) months following the termination of his employment,
+Compete with any line of business in which (i) the Company is engaged at the
+time his employment terminates or (ii) the Company is preparing to engage
+pursuant to plans or proposals approved by the Board prior to such termination.
+
+     3.1.3 NON-SOLICITATION COVENANT. For a period of twenty-four (24) months
+following the termination of Executive's employment with the Company for any
+reason other than in connection with a Hostile Take-Over, Executive shall not,
+directly or indirectly, solicit the services of any Company employees or
+otherwise induce or attempt to induce any Company employees to sever their
+employment relationship with the Company.
+
+     3.1.4 SCOPE AND DURATION; SEVERABILITY. The Company and Executive
+understand and agree that the scope and duration of the covenants contained in
+this Section 3.1 are reasonable both in time and geographical area and are
+fairly necessary to protect the business of the Company. Such covenants shall
+survive the termination of Executive's employment, except that the Section 3.1.2
+non-competition covenant shall remain in effect following such termination of
+employment only to extent required pursuant to the provisions of ARTICLE FOUR.
+It is further agreed that such covenants shall be regarded as divisible and
+shall be operative as to time and geographical area to the extent that they may
+be made so operative, and should any portion of such covenants be declared
+invalid or unenforceable, the validity and enforceability of the remainder shall
+not be affected.
+
+
+                                        8
+<PAGE>
+
+
+     3.1.5 ASSIGNMENT. Except as otherwise provided to the contrary in ARTICLE
+FOUR, Executive agrees that the covenants contained in this Section 3.1 shall
+inure to the benefit of any successor or assign of the Company, with the same
+force and effect as if such covenant had been made by Executive with such
+successor or assign.
+
+     3.2 CONSULTING AGREEMENT. Should Executive's employment terminate within
+two (2) years following a Change in Control, then Executive shall make himself
+available to perform, for a period not to exceed twelve (12) months following
+such termination of employment, such consulting services for the Company within
+his area of expertise as may from time to time be reasonably requested by the
+Board, and the Company may not terminate the consulting arrangement during such
+twelve (12)-month other than for Misconduct or breach by Executive of his
+non-competition covenant under Section 3.1.2. However, Executive shall not be
+required to perform more than ten (10) hours of consulting services per month
+during the period of such consulting arrangement. Such consulting, agreement
+shall not be applicable in the event Executive's employment terminates after a
+Hostile Take-Over.
+
+     3.2.1 COMPENSATION. Executive shall not receive any cash compensation for
+the consulting services rendered pursuant to this Section 3.2 if Executive is
+otherwise to receive salary continuation payments under ARTICLE FOUR in
+connection with his termination of employment. However, should Executive be
+required under Section 3.2 to render one or more hours of consulting services
+following a termination of employment in which he is not entitled to any salary
+continuation payments under ARTICLE FOUR, then Executive shall receive cash
+compensation for such services at the hourly rate to be negotiated in good faith
+with the Company at the time of each project assignment.
+
+     3.2.2 EXPENSE REIMBURSEMENT. Executive shall be entitled to reimbursement
+of all reasonable out-of-pocket expenses incurred in connection with the
+performance of his consulting services pursuant to this Section 3.2 upon
+presentation to the Company of appropriate documentation evidencing those
+expenses.
+
+     3.3 CONSIDERATION FOR COVENANTS AND CONSULTING AGREEMENT. Should
+Executive's employment terminate in connection with a Change in Control, then
+the value of his non-competition covenant under Section 3.1.2 and his consulting
+agreement under Section 3.2 shall be determined by independent appraisal, and
+the severance benefits payable to Executive under ARTICLE FOUR shall, to the
+extent of such appraised value, be allocated as reasonable compensation for such
+covenant and consulting agreement. Executive and the Company shall, within ten
+(10) business days following such Change in Control, select an independent third
+party (either an experienced tax counsel or a nationally recognized accounting
+firm) to perform the appraisal required under this Section 3.3. Should Executive
+and the Company be unable to mutually agree upon the selection of such third
+party, then Executive shall designate a nationally recognized accounting firm to
+perform such appraisal, provided such firm has not previously served as the
+
+
+                                        9
+<PAGE>
+
+
+Company's independent auditors or provided prior tax advice to Executive on
+personal matters.
+
+
+                                        10
+<PAGE>
+
+
+                                  ARTICLE FOUR
+
+                           PAYOUT OF CONTRACT BENEFITS
+                           ---------------------------
+
+     4.1 CHANGE OF CONTROL. Executive may voluntarily terminate his employment
+in connection with a Change of Control, provided such termination is, pursuant
+to written notice delivered to the Company, effected within two (2) years after
+such Change in Control.
+
+     4.1.1 COVENANTS. Following such termination of employment, Executive shall
+comply with all his covenants and obligations under Sections 3.1 and 3.2.
+
+     4.1.2 SEVERANCE BENEFITS. Upon the termination of Executive's employment in
+connection with the Change in Control, the Company shall provide the following
+severance benefits:
+
+     -    Executive shall be entitled to receive an immediate lump sum severance
+          payment  equal  to  one (1) times his Average Annual Compensation. The
+          payment  shall  be  made  within  thirty  (30)  days  following  the
+          Executive's  termination  date  and  shall be subject to the Company's
+          collection  of  all  applicable  withholding  taxes.
+
+     -    Executive  shall  be  entitled  to receive an additional benefit in an
+          amount  equal  to  one (1) times his Average Annual Compensation. This
+          additional  benefit  shall  be  paid in equal increments over a twelve
+          (12)-month  period  in  accordance  with  the Company's normal payroll
+          practices  and  shall  be  subject  to the Company's collection of all
+          applicable  withholding  taxes.  Payment shall commence with the first
+          payday  following  Executive's  termination  date.
+
+     -    The  Company shall, at its expense, provide Executive and his eligible
+          dependents  with  continued  Health Care Coverage until the earlier of
+          (i)  twelve (12) months after the Executive's termination date or (ii)
+          the  first  date  that  such  individuals  are  covered  under another
+          employer's  health  benefit  program  which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions. The period of such Company-paid coverage shall be credited
+          against any period of COBRA Continued Care Coverage to which Executive
+          and  his  eligible  dependents may, at their sole cost, be entitled by
+          reason  of  Executive's  termination of employment and shall not be in
+          addition  to  such  period  of  COBRA  Continued  Care  Coverage.
+
+
+                                       11
+<PAGE>
+
+
+     4.2 CONSTRUCTIVE TERMINATION. Executive may, following a Change in Control,
+terminate his employment within six (6) months after any event qualifying as a
+Constructive Termination under Section 1.9.
+
+     4.2.1 COVENANTS. Following such termination of employment, Executive shall
+comply with all his covenants and obligations under Sections 3.1 and 3.2.
+
+     4.2.2 SEVERANCE BENEFITS. Upon Executive's termination of employment under
+this Section 4.7, the Company shall provide the following severance benefits:
+
+     -    Executive shall be entitled to receive an immediate lump sum severance
+          payment  equal  to  two (2) times his Average Annual Compensation. The
+          payment  shall  be  made  within  thirty  (30)  days  following  the
+          Executive's  termination  date  and  shall be subject to the Company's
+          collection  of  all  applicable  withholding  taxes.
+
+     -    Executive  shall  be  entitled  to receive an additional benefit in an
+          amount  equal  to  one (1) times his Average Annual Compensation. This
+          additional  benefit  shall  be  paid in equal increments over a twelve
+          (12)-month  period  in  accordance  with  the Company's normal payroll
+          practices  and  shall  be  subject  to the Company's collection of all
+          applicable  withholding  taxes.  Payment shall commence with the first
+          payday  following  Executive's  termination  date.
+
+     -    The  Company shall, at its expense, provide Executive and his eligible
+          dependents  with  continued  Health Care Coverage until the earlier of
+          (i)  twelve (12) months after the Executive's termination date or (ii)
+          the  first  date  that  such  individuals  are  covered  under another
+          employer's  health  benefit  program  which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions. The period of such Company-paid coverage shall be credited
+          against any period of COBRA Continued Care Coverage to which Executive
+          and  his  eligible  dependents may, at their sole cost, be entitled by
+          reason  of  Executive's  termination of employment and shall not be in
+          addition  to  such  period  of  COBRA  Continued  Care  Coverage.
+
+     4.3 TERMINATION BY THE COMPANY WITHOUT CAUSE. The Company may, at any time
+following a Change in Control, terminate Executive's employment Without Cause.
+
+     4.3.1 SEVERANCE BENEFITS. Upon the Company's termination of Executive's
+employment under this Section 4.3, the Company shall provide the following
+severance benefits:
+
+
+                                       12
+<PAGE>
+
+
+     -    Executive shall be entitled to receive an immediate lump sum severance
+          payment  equal to three (3) times his Average Annual Compensation. The
+          payment  shall  be  made  within  thirty  (30)  days  following  the
+          Executive's  termination  date  and  shall be subject to the Company's
+          collection  of  all  applicable  withholding  taxes.
+
+     -    Executive  shall  be  entitled  to receive an additional benefit in an
+          amount  equal  to  one (1) times his Average Annual Compensation. This
+          additional  benefit  shall  be  paid in equal increments over a twelve
+          (12)-month  period  in  accordance  with  the Company's normal payroll
+          practices  and  shall  be  subject  to the Company's collection of all
+          applicable  withholding  taxes.  Payment shall commence with the first
+          payday  following  Executive's  termination  date.
+
+     -    The  Company shall, at its expense, provide Executive and his eligible
+          dependents  with  continued  Health Care Coverage until the earlier of
+          (i)  twelve  (12) months after the date of Executive's termination or
+          (ii)  the  first  date that such individuals are covered under another
+          employer's  health  benefit  program  which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions. The period of such Company-paid coverage shall be credited
+          against any period of COBRA Continued Care Coverage to which Executive
+          and  his  eligible  dependents may, at their sole cost, be entitled by
+          reason  of  Executive's  termination of employment and shall not be in
+          addition  to  such  period  of  COBRA  Continued  Care  Coverage.
+
+     4.3.2 COVENANTS. Following the termination of Executive's employment
+pursuant to this Section 4.3, Executive shall comply with all his covenants and
+obligations under Sections 3.1 and 3.2.
+
+     4.4 HOSTILE TAKEOVER. Executive may terminate his employment in connection
+with a Hostile Takeover, provided such termination is, pursuant to written
+notice delivered to the Company, effected within two (2) years after such
+Hostile Takeover.
+
+     4.4.1 COVENANTS. Following such termination of employment, Executive shall
+have no obligation to perform his covenants under Section 3.1.2 or his
+consulting agreement under Section 3.2.
+
+     4.4.2 SEVERANCE BENEFITS. Upon the termination of Executive's employment in
+connection with the Hostile Take-Over, the Company shall provide the following
+severance benefits:
+
+
+                                       13
+<PAGE>
+
+
+     -    Executive  shall,  within  ten  (10)  business  days  following  his
+          termination of employment, receive a lump sum payment equal to two (2)
+          times  his Average Annual Compensation. Such lump sum payment shall be
+          subject  to  the  Company's  collection  of all applicable withholding
+          taxes.
+
+     -    The  Company shall, at its expense, provide Executive and his eligible
+          dependents  with  continued  Health Care Coverage until the earlier of
+          (i)  twelve (12) months after the Executive's termination date or (ii)
+          the  first  date  that  such  individuals  are  covered  under another
+          employer's  health  benefit  program  which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions. The period of such Company-paid coverage shall be credited
+          against any period of COBRA Continued Care Coverage to which Executive
+          and  his  eligible  dependents may, at their sole cost, be entitled by
+          reason  of  Executive's  termination of employment and shall not be in
+          addition  to  such  period  of  COBRA  Continued  Care  Coverage.
+
+     4.4.3 OPTION ACCELERATION. Whether or not Executive terminates his
+employment pursuant to this Section 4.4, all Options outstanding at the time of
+the Hostile Takeover shall, subject to the benefit limitations of ARTICLE FIVE,
+vest and become exercisable for all of the underlying shares of the Company's
+common stock immediately prior to the effective date of such Hostile Takeover.
+Executive may exercise his Options for such vested shares at any time until the
+earlier of (i) the specified expiration date of the option term or (ii) the
+expiration of the twelve (12)-month period measured from his termination date,
+and any Options not exercised prior to the applicable expiration date shall
+lapse.
+
+
+                                       14
+<PAGE>
+
+
+                                  ARTICLE FIVE
+
+                               BENEFIT LIMITATION
+                              -------------------
+
+
+     5.1. LIMITATION ON SEVERANCE BENEFITS. In the event of a Parachute Event,
+the following limitations shall become applicable to the benefits payable to
+Executive pursuant to this Agreement:
+
+     5.1.1 BENEFIT REDUCTION. If the Parachute Event constitutes a Change in
+Control, then the dollar amount of the severance benefits to which Executive
+becomes entitled under ARTICLE FOUR shall be reduced to the extent necessary to
+assure that the present value of those payments will not, when added to the
+present value of the Option Parachute Payment and Other Parachute Payments to
+which Executive may also be entitled upon such Change in Control, exceed 2.99
+times Executive's Actual Five-Year Average Compensation (the "Parachute Limit").
+Any acceleration of Executive's unvested Options, whether at the time of the
+Change in Control or upon the subsequent termination of Executive's employment
+within two (2) years after such Change in Control, shall only be limited to the
+extent necessary to provide Executive with the maximum after-tax benefit
+available, after taking into account any parachute excise tax which might
+otherwise be payable by Executive under Code Section 4999 (and any analogous
+State income tax provision) with respect to his total benefit package. However,
+if the Parachute Event constitutes a Hostile Take-Over, then no reduction shall
+be made to the Executive's severance benefits under ARTICLE FOUR and no
+limitation shall be imposed upon the acceleration of Executive's outstanding
+Options, except to the extent (if any) necessary to provide Executive with the
+maximum after-tax benefit available, after taking into account any parachute
+excise tax which might otherwise be payable by Executive under Code Section 4999
+(and any analogous State income tax provision) with respect to his total benefit
+package.
+
+     5.1.2 RESOLUTION OF DISPUTES. Should there arise any dispute between
+Executive and the Company as to whether one or more benefits to which Executive
+becomes entitled (whether under this Agreement, the Options or otherwise) in
+connection with a Parachute Event constitute Option Parachute Payments or Other
+Parachute Payments, such dispute is to be resolved as follows:
+
+     -    In  the  event  temporary,  proposed  or final Treasury Regulations in
+          effect  at  the  time under Code Section 280G specifically address the
+          status  of  such  benefits  or  the  method  for  their valuation, the
+          characterization  afforded  to  such  benefits  by  the  Regulations,
+          together  with  the  methods  prescribed for their valuation, shall be
+          controlling.
+
+     -    In  the  event  such  Regulations  do  not  address  the status of the
+          benefits  in  dispute, the matter shall be submitted for resolution to
+          independent  counsel  mutually acceptable to Executive and the Company
+
+
+                                       15
+<PAGE>
+
+
+          ("Independent Counsel"). The resolution reached by Independent Counsel
+          shall  be  final  and  controlling.  However,  should  the Independent
+          Counsel  determine  that  the status of the benefits in dispute can be
+          resolved  through  the  obtainment of a private letter ruling from the
+          Internal  Revenue Service, a formal and proper request for such ruling
+          shall  be  prepared  and  submitted  by  Independent  Counsel, and the
+          determination  made  by  the  Internal  Revenue  Service in the issued
+          ruling  shall be controlling. All expenses incurred in connection with
+          the  retention  of  Independent  Counsel  and  (if  applicable)  the
+          preparation  and submission of the ruling request shall be paid by the
+          Company.
+
+     -    The  present  value  of  each Option Parachute Payment and each of the
+          Other  Parachute  Payments (including any salary continuation payments
+          and  Health  Care  Coverage under ARTICLE FOUR) shall be determined in
+          accordance  with  the  provisions  of  Code Section 280G(d)(4) and the
+          Treasury  Regulations  issued  thereunder.
+
+     5.1.3 HOLD-BACK OF BENEFITS. Any severance benefits to which Executive may
+become entitled under ARTICLE FOUR shall not be paid to Executive until any
+amounts in dispute under Section 5.1.2 have been resolved in accordance
+herewith. However, any portion of such severance benefits which would not
+otherwise exceed the benefit limitation of Section 5.1.1 even if all amounts in
+dispute under Section 5.1.2 were to be resolved against Executive shall be paid
+to Executive in accordance with the applicable provisions of ARTICLE FOUR
+
+     5.1.4 OVERRIDING LIMITATION. Executive shall in all events be entitled to
+receive the full amount of his severance benefits under ARTICLE FOUR, to the
+extent those benefits, when added to the present value of his Option Parachute
+Payment and Other Parachute Payments (excluding such severance benefits), will
+nevertheless qualify as reasonable compensation within the standards established
+under Code Section 280G(b)(4).
+
+
+                                       16
+<PAGE>
+
+
+                                  ARTICLE SIX
+
+                            MISCELLANEOUS PROVISIONS
+                            ------------------------
+
+
+     6.1 TERMINATION OF HEALTH COVERAGE. Any Health Care Coverage to which
+Executive or his eligible dependents may become entitled pursuant to the
+provisions of ARTICLE FOUR or any COBRA Continuation Coverage to which such
+individuals are otherwise entitled by law shall immediately terminate upon the
+occurrence of any of the following events:
+
+     -    Executive  and  his  eligible  dependents become covered under another
+          employer's  health  benefit  program  which provides substantially the
+          same  level  of  benefits  without  exclusion for pre-existing medical
+          conditions;
+
+     -    The individual fails to pay the applicable premium for the Health Care
+          Coverage prior the expiration of any applicable grace period following
+          the  due  date  for  such  premium;
+
+     -    Any Company-paid coverage will immediately terminate should the
+          Executive-fail to perform his obligations under ARTICLE THREE, to the
+          extent those obligations are applicable pursuant to the provisions of
+          ARTICLE FOUR following his termination of employment; or
+
+     -    The  Company discontinues all health care coverage programs for active
+          employees.
+
+     6.2 DESIGNATION OF BENEFICIARY. Executive may designate from time to time
+the person or persons who are to be his designated Beneficiary under this
+Agreement. Each such designation shall be evidenced by a written, signed
+document delivered to the Company's Corporate Secretary, and each new
+designation shall automatically supersede and revoke the prior existing
+designation. In the absence of any such designation, the Beneficiary shall be
+the Executive's estate.
+
+     6.3 ENTIRE AGREEMENT. This Agreement, together with the Severance Benefit
+Agreement (to the extent in effect at the time), contains the entire agreement
+and understanding between Executive and the Company regarding the severance
+benefits to which Executive may become entitled upon his cessation of employment
+and supersedes and replaces all prior contracts, understandings and
+representations (whether oral or written) regarding the terms and conditions of
+such severance benefits. Neither this Agreement nor the Severance Benefit
+Agreement may be modified except by a writing executed by both Executive and the
+Company.
+
+
+                                       17
+<PAGE>
+
+
+     6.4 ASSIGNMENT BY THE COMPANY. This Agreement shall be binding upon and
+shall inure to the benefit of any successors or assigns of the Company. As used
+in this Agreement, the term "successor" includes any person or group of persons
+acting in concert who at any time in any form or manner acquires all or
+substantially all of the assets or business of the Company or more than thirty
+(30%) of the outstanding voting securities of the Company. Accordingly, this
+Agreement, together with the Severance Benefit Agreement (to the extent
+otherwise in effect at the time), shall continue in full force and effect
+following any such assignment to the successor entity.
+
+     6.5. GENERAL CREDITOR STATUS. The benefits to which Executive may become
+entitled under this Agreement (except those attributable to his Options) shall
+be paid, when due, from the general assets of the Company.  The right of the
+Executive (or his Beneficiary) to receive any such payments shall at all times
+be that of a general creditor of the Company and will have no priority over the
+claims of other general creditors of the Company.
+
+     6.6. DEATH. Should Executive die before receipt of all benefits to which he
+may become entitled under this Agreement, then the payment of such benefits
+shall be made, on the due date or dates hereunder had Executive survived, to his
+Beneficiary. Should Executive die before he has exercised all his outstanding
+vested Options, then each such Option may be exercised, during the applicable
+exercise period in effect for such Option, by the executors or administrators of
+Executive's estate or by the Person to whom the Option is transferred pursuant
+to the Executive's will or in accordance with the laws of inheritance.
+
+     6.7. MISCELLANEOUS. The provisions of this Agreement shall be construed and
+interpreted under the laws of the State of Arizona. If any provision of this
+Agreement as applied to any party or to any circumstance should be adjudged by a
+court of competent jurisdiction to be void or unenforceable for any reason, the
+invalidity of that provision shall in no way affect (to the maximum extent
+permissible by law) the application of such provision under circumstances
+different from those adjudicated by the court, the application of any other
+provision of this Agreement, or the enforceability or invalidity of this
+Agreement as a whole.
+
+     6.8 ARBITRATION. Any controversy which may arise between Executive and the
+Company with respect to the construction, interpretation or application of any
+of the terms, provisions or conditions of this Agreement or any monetary claim
+arising from or relating to this Agreement shall be submitted to final and
+binding arbitration in Tucson, Arizona in accordance with the rules of the
+American Arbitration Association then in effect.
+
+
+                                       18
+<PAGE>
+
+
+     6.9 NO EMPLOYMENT OR SERVICE CONTRACT. Nothing in this Agreement shall
+confer upon Executive any right to continue in the employment of the Company for
+any period of specific duration or interfere with or otherwise restrict in any
+way the rights of the Company or Executive, which rights are hereby expressly
+reserved by each, to terminate Executive's employment at any time for any reason
+whatsoever, with or without cause.
+
+     6.10 NOTICES. Any notice provided for by this Agreement and any other
+notice, demand, designation or communication which either party may wish to send
+to the other ("Notices") shall be in writing and shall be deemed to have been
+properly given if served by (i) personal delivery, (ii) registered or certified
+mail, return receipt requested in a sealed envelope, postage and other charges
+prepaid, or (iii) telegram, telecopy, telex, facsimile or other similar form of
+transmission followed by delivery pursuant to clause (i) or (ii) in each case
+addressed to the party for which such Notice is intended as follows:
+
+If to the Company:  Board of Directors
+                    Burr-Brown Corporation
+                    6730 South Tucson Boulevard
+                    Tucson, AZ  85706
+                    FAX: (520) 746-7752
+
+If to Executive:   Syrus P. Madavi
+                   _________________
+                   _________________
+                   FAX:  (520)________
+
+     6.10.1 CHANGE OF ADDRESS. Any address or specified in this Section 6.10 may
+be changed by a Notice given by the addressee to the other party in accordance
+with this Section 6.10.
+
+     6.10.2 EFFECTIVE DATE OF NOTICE. All Notices shall be given and effective
+as of the date of personal delivery thereof or the date of receipt set forth on
+the return receipt. The inability to deliver because of a changed address of
+which no Notice was given or rejection or other refusal to accept any Notice
+shall be deemed to be the receipt of the Notice as of the date of such inability
+to deliver or rejection or refusal to accept.
+
+
+                                       19
+<PAGE>
+
+
+     IN WITNESS WHEREOF, this Severance Benefit Agreement has been executed and
+delivered by the parties as of the date first set forth above.
+
+
+/s/ SYRUS P. MADAVI
+--------------------------
+Syrus P. Madavi, Executive
+
+
+BURR-BROWN  CORPORATION
+
+       /s/ THOMAS R. BROWN, JR.
+By:    -----------------------
+Title: Chairman of the Board
+
+
+                                       20
+<PAGE>
+
+
+                                                             Exhibit 10(a)(viii)
+                                                             -------------------
+
+
+                                TEXAS INSTRUMENTS
+
+                                October 24, 2000
+
+To: Mr. Syrus Madavi
+
+Re: Letter Agreement
+
+This letter confirms our agreement on the following matters with respect to your
+employment with Texas Instruments Incorporated or any of its Subsidiaries
+("Company").
+
+Effective 1/1/01, you shall receive a base salary at an annual rate of $425,000,
+payable in accordance with the applicable payroll practices and subject to
+increases at the sole discretion of TI. You will be eligible to participate in
+employee benefit plans generally provided to similarly situated employees in
+accordance with the terms thereof from time to time. You will be entitled to and
+shall abide by all applicable employment and personnel policies in effect from
+time to time.
+
+In recognition of both your continued employment for one year post-close of the
+Burr-Brown acquisition, and your agreement to the competitive and
+non-solicitation restrictions in your existing Change in Control Severance
+Benefit Agreement dated October 30, 1996, the Company will pay you a Special
+Payment. The Special Payment ("Special Payment") will be $3.5 million less
+compensation paid to you or for your benefit (including base salary, profit
+sharing and retirement plan contributions other than your salary deferral
+contributions) with respect to the period 1/1/01 through 8/23/01. This Special
+Payment will be paid to you in four (4) substantially equal installments payable
+on 11/30/00, 2/28/01, 5/31/01 and 8/31/01. In the event you resign before one of
+the payment dates listed above, you will not be eligible for the remaining
+Special Payment(s). In case of Involuntary termination, however, all remaining
+payments will become due and payable to you on the respective payment dates. The
+amount of the fourth Special Payment installment may be estimated by the Company
+in anticipation of your profit sharing entitlement for the period of 1/1 through
+8/23 of year 2001. You agree to reimburse the Company for any overpayment of the
+fourth Special Payment no later than 30 days after you are notified of any such
+overpayment. The Company agrees to pay you for any underpayment of the Special
+Payment no later than 3/31/02. The four Special Payment installments will not be
+considered eligible earnings for purposes of TI profit sharing, 401 (k) and
+other retirement benefits.
+
+For the portion of the calendar year after August 24, 2001, you will be entitled
+to receive a prorated bonus equal to at least 80% of the normal performance
+bonus paid in cash to respect of such period to TI's 5th highest paid executive
+officer, as will be reported in TI's 2002 proxy statement. This bonus will be
+paid during the first quarter of 2002 provided you are employed by the Company
+on the payment date. For example, if TI's 5th highest executive officer at the
+end of 2001 earned a normal performance bonus of $100,000 for all of 2001, then
+you will receive a bonus of at least $28,274 ($100,000 x.8 x 129/365).
+
+For year 2002, you will be entitled to receive a bonus equal to at least 80% of
+the normal performance bonus paid in crash in respect of such period to TI's 5th
+highest paid executive officer, as will be reported In TI's 2003 proxy
+statement. Should you terminate before 8/15/02, you will not be eligible to
+receive such bonus. Should your employment be terminated after 8/15/02 but
+before the end of the year, your bonus would be prorated to reflect 2002
+calendar days employed. This bonus will be paid during the first quarter of
+2003. Beginning 1/1/2003, you will be eligible, during your continued
+employment, to participate in the Company's normal bonus programs as
+commensurate with similarly situated employees.
+
+
+<PAGE>
+
+
+Upon your agreement to the terms of this letter, we will recommend to the
+Compensation Committee of the Board of Directors of TI that you immediately be
+awarded a non-qualified option under the Texas Instruments 2000 Long-Term
+Incentive Plan (the "Plan") to purchase an aggregate of 250,000 shares of common
+stock of TI, par value of $1.00 ("TI Stock'), at an exercise price equal to the
+fair market value of TI Stock as of the date of grant. Each stock option shall
+have a term of ten (10) years and shall vest 50% on 11/01/01 and 50% on 8/01/02,
+provided you remain employed by the Company on each date. The vested portion of
+such stock option shall be exercisable for the remainder of the full term
+regardless of your termination of employment. The Company agrees that your
+option agreement will not include any provisions requiring a repayment to the
+company for any profit (spread between Option Price and market price of the TI
+Stock on the date of exercise) realized from the exercising of such options. The
+stock options will include a non-competition provision for the same period and
+with respect to the same companies as set forth in the last paragraph of this
+letter. The stock options granted pursuant to this paragraph shall be subject to
+the remainder of the terms of the Plan. The stock options granted pursuant to
+this paragraph will not fully vest upon your termination of employment as a
+result of the change of control in connection with the Burr-Brown acquisition.
+
+As a condition of continued employment with the Company, you shall promptly
+execute and deliver to the Company an Employee Trade Secrets Information
+Acknowledgement, an Assignment of Invention and Company Information Agreement, a
+Release of Records and such other documents as TI reasonably may require from
+time to time with respect to its new employees or similarly situated employees,
+if you have not otherwise done so.
+
+Effective beginning six months after August 24, 2000, should either you or the
+Company terminate your employment, such termination will be considered Without
+Cause for the purpose of severance calculation as outlined in your Change In
+Control Severance Benefit Agreement. It is agreed that the options granted to
+you by Burr-Brown, which remain unvested, will vest in full upon such
+termination, given that such termination occurs on or before August 23, 2002.
+For purposes of clarification. It is agreed that with regard to the acceleration
+of vesting of options, any services performed as a consultant will not
+constitute employment.
+
+The Change In Control Severance Benefit Agreement dated October 30, 1996 Is
+modified as provided in the immediately preceding paragraph. To the extent there
+may be a conflict, the terms of this letter will govern. This letter, also,
+supercedes and voids your June 20, 2000 letter agreement signed by Tom Engibous.
+In addition to your obligations under the aforesaid severance agreement, you
+agree not to provide services, directly or indirectly, as an employee or
+otherwise for a period of one year following your termination of employment to
+Analog Devices, Incorporated, Linear Technology Corporation & Maxim Integrated
+Products, Incorporated.
+
+
+Very truly yours,
+
+TEXAS INSTRUMENTS INCORPORATED
+
+
+/s/ RICHARD K. TEMPLETON
+------------------------
+Richard K. Templeton
+Chief Operating Officer
+Executive Vice President
+
+
+                            I agree to the foregoing terms and conditions:
+
+                              /s/ SYRUS MADAVI                10-24-2000
+                              ----------------                ----------
+                              Syrus  Madavi                   Date
+
+
+<PAGE>
+
+
+                                                                      Exhibit 11
+                                                                      ----------
+
+
+                 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+         EARNINGS (LOSS) PER COMMON AND DILUTIVE POTENTIAL COMMON SHARE
+                 (Millions of Dollars, Except Per-share Amounts)
+
+<TABLE>
+<CAPTION>
+
+                                                             Years ended December 31
+                                                             -----------------------
+                                                           2001       2000         1999
+                                                           ----       ----         ----
+
+<S>                                                 <C>          <C>          <C>
+Income (loss) before cumulative effect of an
+  accounting change .. . . . . . . . . . . . . . .  $     (201)  $    3,087   $    1,451
+Add:  Interest, net of tax effect, on convertible
+        debentures assumed converted . . . . . . .          --            6           --
+                                                    -----------  -----------  ----------
+
+Adjusted income (loss) before cumulative
+  effect of an accounting change . . . . . . . . .        (201)       3,093        1,451
+Cumulative effect of an accounting change. . . . .          --          (29)          --
+                                                    -----------  -----------  ----------
+Adjusted net income (loss) . . . . . . . . . . . .  $     (201)  $    3,064   $    1,451
+                                                    ===========  ===========  ==========
+
+Diluted earnings (loss) per common and dilutive
+  potential common share:
+Weighted average common shares outstanding
+  (in thousands) . . . . . . . . . . . . . . . . .   1,734,506    1,717,484    1,680,282
+  Weighted average dilutive potential common
+    shares:
+    Stock option and compensation plans. . . . . .          --       69,367       69,377
+    Convertible debentures . . . . . . . . . . . .          --        4,779           --
+                                                    -----------  -----------  ----------
+Weighted average common and dilutive potential
+  common shares. . . . . . . . . . . . . . . . . .   1,734,506    1,791,630    1,749,659
+                                                    ===========  ===========  ==========
+
+Diluted earnings (loss) per common share:
+  Income (loss) before cumulative effect
+    of an accounting change. . . . . . . . . . . .  $     (.12)  $     1.73   $      .83
+  Cumulative effect of an accounting change. . . .          --         (.02)          --
+                                                    -----------  -----------  ----------
+  Net income (loss) .. . . . . . . . . . . . . . .  $     (.12)  $     1.71   $      .83
+                                                    ===========  ===========  ==========
+
+Basic earnings (loss) per common share:
+Weighted average common shares outstanding
+  (in thousands) . . . . . . . . . . . . . . . . .   1,734,506    1,717,484    1,680,282
+                                                    ===========  ===========  ==========
+
+Basic earnings (loss) per common share:
+  Income (loss) before cumulative effect
+    of an accounting change. . . . . . . . . . . .  $     (.12)  $     1.80   $      .86
+  Cumulative effect of an accounting change. . . .          --         (.02)          --
+                                                    -----------  -----------  ----------
+  Net income (loss) .. . . . . . . . . . . . . . .  $     (.12)  $     1.78   $      .86
+                                                    ===========  ===========  ==========
+
+</TABLE>
+
+
+<PAGE>
+
+
+                                                                    Exhibit 12
+                                                                    ----------
+
+                 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+                              (Dollars in Millions)
+
+<TABLE>
+<CAPTION>
+
+
+                                           2001    2000    1999    1998   1997
+                                           ----    ----    ----    ----   ----
+<S>                                        <C>      <C>     <C>     <C>    <C>
+Income from continuing operations
+  before income taxes plus fixed charges
+  and amortization of capitalized
+  interest less interest capitalized. . . ($316)  $4,702  $2,205   $815   $973
+                                           ====   ======  ======   ====   ====
+
+
+Fixed charges:
+   Total interest on loans (expensed
+      and capitalized). . . . . . . . . .   $74      $98     $84    $86   $115
+   Interest attributable to rental
+      and lease expense . . . . . . . . .    33       32      30     41     44
+                                            ---      ---     ---    ---    ---
+Fixed charges . . . . . . . . . . . . . .  $107     $130    $114   $127   $159
+                                           ====     ====    ====   ====   ====
+
+
+Ratio of earnings to fixed charges. . . .     *     36.2    19.3    6.4    6.1
+                                                    ====    ====    ===    ===
+
+</TABLE>
+
+
+*The ratio is not meaningful. The coverage deficiency was $423 million in 2001.
+
+
+<PAGE>
+
+
+                                                                      Exhibit 21
+                                                                      ----------
+
+
+                 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                     LIST OF SUBSIDIARIES OF THE REGISTRANT
+
+
+The following are current subsidiaries of the Registrant.
+
+Subsidiary and Name Under Which Business is Done              Where Organized
+------------------------------------------------              ---------------
+
+Auto Circuits, Inc.                                            Massachusetts
+Automotive Sensors & Controls Dresden GmbH                     Germany
+Benchmarq Microelectronics Corporation of South Korea          Delaware
+Burr-Brown AG                                                  Switzerland
+Burr-Brown Europe Limited                                      United Kingdom
+Burr-Brown Foreign Sales Corporation                           Barbados
+Burr-Brown International Holding Corporation                   Delaware
+Burr-Brown Ltd.                                                Cayman Islands
+Burr-Brown Pte Ltd.                                            Singapore
+Butterfly Communications Inc.                                  Delaware
+European Engineering and Technologies S.p.A.                   Italy
+Fast Forward Technologies Limited                              United Kingdom
+ICOT International Limited                                     United Kingdom
+I.I.I. Foreign Sales Corporation                               Barbados
+Intelligent Instrumentation GmbH                               Germany
+Intelligent Instrumentation, Inc.                              Arizona
+Intelligent Instrumentation S.A.                               France
+Intelligent Instrumentation S.R.L.                             Italy
+Silicon Systems (Singapore) Pte Ltd.                           Singapore
+Telogy Networks, Inc.                                          Delaware
+Texas Instrumentos Eletronicos do Brasil Limitada              Brazil
+Texas Instruments A/S, Denmark                                 Denmark
+Texas Instruments Asia Limited                                 Delaware
+Texas Instruments Australia Pty Limited                        Australia
+Texas Instruments Automotive Sensors and Controls              Delaware
+     San Jose Inc.
+Texas Instruments (Bahamas) Limited                            Bahamas
+Texas Instruments Belgium S.A.                                 Belgium
+Texas Instruments Burlington Incorporated                      Delaware
+Texas Instruments Business Expansion GmbH                      Germany
+Texas Instruments Canada Limited                               Canada
+Texas Instruments (China) Company Limited                      China
+Texas Instruments China Incorporated                           Delaware
+Texas Instruments Copenhagen ApS                               Denmark
+Texas Instruments de Mexico, S. de R.L. de C.V.                Mexico
+Texas Instruments Deutschland GmbH                             Germany
+Texas Instruments Electronic Systems Sdn. Bhd.                 Malaysia
+Texas Instruments Espana, S.A.                                 Spain
+Texas Instruments Finance GmbH & Co. KG                        Germany
+Texas Instruments Foreign Sales Corporation                    Barbados
+Texas Instruments France S.A.                                  France
+Texas Instruments Gesellschaft m.b.H.                          Austria
+Texas Instruments Holland B.V.                                 Netherlands
+Texas Instruments Hong Kong Limited                            Hong  Kong
+Texas Instruments (India) Private Limited                      India
+Texas Instruments Insurance (Bermuda) Limited                  Bermuda
+Texas Instruments International Capital Corporation            Delaware
+Texas Instruments International (Overseas) Limited             United Kingdom
+Texas Instruments International Trade Corporation              Delaware
+Texas Instruments (Ireland) Limited                            Ireland
+Texas Instruments Israel Ltd.                                  Israel
+Texas Instruments Italia S.p.A.                                Italy
+Texas Instruments Japan Limited                                Japan
+Texas Instruments Korea Limited                                Korea
+Texas Instruments Limited                                      United Kingdom
+Texas Instruments Malaysia Sdn. Bhd.                           Malaysia
+Texas Instruments Oy                                           Finland
+Texas Instruments Palo Alto Incorporated                       California
+Texas Instruments (Philippines) Incorporated                   Delaware
+Texas Instruments Richardson LLC                               Delaware
+Texas Instruments San Diego Incorporated                       California
+Texas Instruments Santa Rosa Incorporated                      California
+Texas Instruments (Shanghai) Co., Ltd.                         China
+Texas Instruments Singapore (Pte) Limited                      Singapore
+Texas Instruments Supply Company                               Texas
+Texas Instruments Taiwan Limited                               Taiwan
+Texas Instruments Trade & Investment Company S.A.              Panama
+Texas Instruments Tucson Corporation                           Delaware
+TI Europe Limited                                              United Kingdom
+TI Information Engineering International Incorporated          Delaware
+TI Mexico Trade, S.A. de C.V.                                  Mexico
+TI (Philippines), Inc.                                         Philippines
+Unitrode Corporation                                           Maryland
+Unitrode Electronics Asia Limited                              Hong Kong
+Unitrode Electronics GmbH                                      Germany
+Unitrode Electronics (Singapore) Pte Ltd.                      Singapore
+Unitrode-Maine                                                 Maine
+
+
+<PAGE>
+
+
+                                                                     Exhibit 23
+                                                                     ----------
+
+
+CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in this Annual Report on Form 10-K
+of Texas Instruments Incorporated of our report dated January 28, 2002, included
+in the proxy statement for the 2002 annual meeting of stockholders of Texas
+Instruments Incorporated.
+
+Our audits also included the financial statement schedule of Texas Instruments
+Incorporated listed in Item 14(a). This schedule is the responsibility of the
+Registrant's management. Our responsibility is to express an opinion based on
+our audits. In our opinion, the financial statement schedule referred to above,
+when considered in relation to the basic financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+We also consent to the incorporation by reference in the following registration
+statements, and in the related prospectuses thereto, of our report dated January
+28, 2002 with respect to the consolidated financial statements and schedule of
+Texas Instruments Incorporated, included in or incorporated by reference in this
+Annual Report on Form 10-K for the year ended December 31, 2001: Registration
+Statements (Forms S-8) No. 33-61154, No. 33-21407 (as amended), No. 33-42172,
+No. 33-54615, No. 333-07127 (as amended), No. 333-41913, No. 333-41919, No.
+333-31319, No.333-31321 (as amended), No. 333-31323, No. 333-48389, and
+No. 333-44662, and Registration Statements (Forms S-3) No. 333-03571,
+No. 333-93011, No. 333-37208, and No. 333-44572 (as amended), and Registration
+Statements (Forms S-4) No. 333-89433, No. 333-89097, No. 333-87199,
+No. 333-80157, and No. 333-41030 (as amended).
+
+
+Dallas, Texas                              ERNST & YOUNG LLP
+February 27, 2002
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

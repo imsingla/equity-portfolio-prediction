@@ -1,0 +1,3078 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>b39786aie10-k.txt
+<DESCRIPTION>ALPHA INDUSTRIES, INC.
+<TEXT>
+
+<PAGE>   1
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+                                      1934
+
+                     For the fiscal year ended April 1, 2001
+
+                          Commission file number 1-5560
+
+                             ALPHA INDUSTRIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+          DELAWARE                                               04-2302115
+(State or other jurisdiction of                               (I.R.S. Employer
+ incorporation or organization)                              Identification No.)
+
+ 20 SYLVAN ROAD, WOBURN, MASSACHUSETTS                             01801
+(Address of principal executive offices)                         (Zip Code)
+
+Registrant's telephone number, including area code:            (781) 935-5150
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.25 par value
+
+Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+     Yes _X_ No ___
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The aggregate market value of the Registrant's Common Stock held by
+non-affiliates of the Registrant at May 27, 2001 was approximately $1.102
+billion.
+
+The number of shares of Common Stock outstanding at May 27, 2001 was 43,593,725.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Company's Proxy Statement, to be filed within 120 days of the
+end of the Registrant's fiscal year are incorporated by reference into Part III
+of this report.
+
+                    The Exhibit Index is located on page 44.
+                               Page 1 of 50 pages.
+
+
+<PAGE>   2
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+                                     PART I
+
+Item 1 Business
+
+OVERVIEW
+
+We design, develop, manufacture and market proprietary radio frequency,
+microwave frequency and millimeter wave frequency integrated circuits and
+discrete semiconductors for wireless voice and data and broadband
+communications. The primary applications for our products include wireless
+handsets, wireless infrastructure and broadband communications equipment. We
+also produce integrated circuits, discrete components, electrical ceramics and
+ferrites used in wireless base station equipment, cable television, cable modems
+and other broadband applications, wireless local loop, wireless personal digital
+assistants and wireless local area networks.
+
+We offer a broad range of products, including integrated circuit (IC) switches
+and controls, power amplifiers, discrete semiconductors and multi-chip modules
+that comprise a significant part of the radio frequency devices used in wireless
+telephone handsets. We use a range of technologies, processes and materials to
+meet our customers' performance requirements, including gallium arsenide metal
+semiconductor field effect transistor (GaAs MESFET), gallium arsenide
+pseudomorphic high electron mobility transistor (GaAs PHEMT), silicon and
+electrical ceramic. Through our acquisition of Network Device, Inc. (NDI) in
+April 2000, we offer power amplifiers and other devices made with a gallium
+arsenide heterojunction bipolar transistor (GaAs HBT) process and an indium
+gallium phosphide HBT process (InGaP HBT). In May 2001, we announced the
+introduction of the world's first tri-band power amplifier module employing
+InGaP HBT process technology. The AP134 module is designed for use in existing
+dual-mode wireless handsets and is fully General Packet Radio Service (GPRS)
+compliant. We also announced the shipment of our first volume order of a new
+family of broadband amplifiers utilizing our InGaP HBT technology.
+
+During fiscal 2001, we announced the introduction of our Alpha Integration
+Platform(TM) (aiIP(TM)), a breakthrough manufacturing, packaging and design
+technique, combining various radio frequency (RF) components in a single
+module-based platform. The aiIP satisfies the market's demand for RF solutions
+that will reduce design complexity and improve the OEMs' overall time to market
+for new products. Utilizing this technique, we introduced state-of-the-art
+switch/filter technology for wireless handsets. These switch/filter products
+combine multiple functions in a single, module-based platform.
+
+We also announced the introduction of our Alpha-2(TM) multi-chip module
+packaging technology, which will dramatically reduce the cost of manufacturing
+high-speed and high-frequency data communications equipment. Alpha-2 technology
+provides the first surface-mounted package specifically designed for
+high-frequency and high-speed ICs. The Alpha-2 package is compatible with
+standard tape-and-reel manufacturing, making it ideal for use in high-speed data
+communications equipment.
+
+We divide our operations into two segments to address the distinct dynamics of
+different markets:
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------
+                         SEMICONDUCTOR PRODUCTS             CERAMIC PRODUCTS
+----------------------------------------------------------------------------------
+<S>                     <C>                              <C>
+Primary Products        GaAs Integrated Circuits         Electrical Ceramics
+                        Discrete Semiconductors          Ferrites
+                        Multi-Chip Modules
+----------------------------------------------------------------------------------
+Primary Markets         Wireless Handsets                Wireless Infrastructure
+                        Wireless Infrastructure          Broadband Communications
+                        Broadband Communications
+----------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       2
+<PAGE>   3
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+Our Semiconductor Products segment supplies GaAs integrated circuits and
+discrete semiconductors in high volume for wireless telephone handsets and
+wireless data applications. These products are used in equipment incorporating
+the leading digital standards, Global System for Mobile Communications, or GSM,
+Code Division Multiple Access, or CDMA (IS95), and Time Division Multiple
+Access, or TDMA (IS136).
+
+Our Ceramic Products segment uses electrical ceramic and ferrite technologies to
+supply resonators and filters, primarily for wireless base station equipment.
+
+Financial information about segments and geographic areas can be found in Note
+10 to the consolidated financial statements filed as part of this report.
+
+We were incorporated in 1962 under the laws of the state of Delaware.
+
+PRODUCTS AND APPLICATIONS
+
+We offer a broad array of radio frequency, microwave frequency and millimeter
+wave frequency products to the wireless and broadband markets, including GaAs IC
+switches and controls, GaAs integrated circuit power amplifiers, silicon
+discrete semiconductors, ceramic resonators and multi-chip modules. A typical
+end product for wireless communications, such as a handset, contains radio
+frequency, baseband and digital signal processing components. Radio frequency
+components convert, switch, process and amplify the high frequency signals that
+carry the information to be transmitted or received. Baseband components process
+signals into and from their original electrical form (low frequency voice or
+data). The digital components control the overall circuitry and process the
+voice or other data to be transmitted and received.
+
+The table below identifies the major product categories and markets we serve.
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------------------------
+                                 POWER       SMALL SIGNAL &                                                      MILLIMETER
+                               AMPLIFIER     MULTIFUNCTION                         DISCRETE        CERAMIC         WAVE
+        MARKETS                   ICS             ICS           SWITCH ICS      SEMICONDUCTORS     PRODUCTS      PRODUCTS
+----------------------------------------------------------------------------------------------------------------------------
+<S>                            <C>           <C>                <C>             <C>                <C>           <C>
+   WIRELESS VOICE & DATA
+     Handsets                      -                                 -                -
+     PDAs                          -                                 -                -
+     Infrastructure                -               -                 -                -                -             -
+----------------------------------------------------------------------------------------------------------------------------
+   BROADBAND
+     Wireless                                      -                 -                -                -             -
+     Cable TV & Modems             -               -                 -                -                -             -
+     Fiber                                         -                 -                -                -             -
+----------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       3
+<PAGE>   4
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+SEMICONDUCTOR PRODUCTS
+
+The diagram below illustrates the role of many of our Semiconductor Products in
+a dual band and dual mode wireless telephone handset.
+
+
+                     [DUAL BAND/DUAL MODE HANDSET DIAGRAM]
+
+
+Power Amplifiers. Wireless communications systems require amplification in
+receiving and transmitting signals. Relatively weak incoming signals must be
+amplified without adding background noise. GaAs power amplifiers are used in
+handsets because they use battery power more efficiently than silicon
+amplifiers, and battery life is a critical system feature in these portable
+applications. We have been a leader in innovative GaAs power amplifier ICs. We
+were the first merchant semiconductor company to offer a three volt,
+high-efficiency PHEMT power amplifier IC for GSM operating at three different
+frequencies. This product has been in continuous production for more than a
+year. We were also the first to deliver a three volt MESFET GaAs power amplifier
+IC, which has now been in continuous, high-volume production for more than three
+years. In addition, our acquisition of NDI has provided us with GaAs HBT process
+technology, which has opened new power amplifier opportunities and complements
+our strength in the GaAs PHEMT and GaAs MESFET processes.
+
+Integrated Circuit Switches and Controls. Switching and control functions route
+and adjust signal levels between the receiver and transmitter and other
+processing devices. The number of switching functions increases with the
+complexity of the handset design. In the dual band/dual mode handset
+illustrated, the switches perform three different routing functions, including:
+signal routing to transmitter or receiver; signal routing to cellular or PCS
+frequency; and signal routing to digital or analog mode.
+
+Our GaAs integrated circuit switches are used in handsets to provide lower
+signal loss and better signal isolation than comparable products. Our
+ultra-high-efficiency GaAs PHEMT switch ICs integrate logic elements, making
+their usage even easier for our OEM customers. The GaAs HBT process has not been
+suitable for switches.
+
+
+                                       4
+<PAGE>   5
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+Discrete Semiconductors. Discrete semiconductors, especially diodes, are used
+for signal tuning and switching functions in the handset. We draw on our
+microwave frequency and millimeter wave frequency experience to produce diodes
+with better circuit performance. We manufacture these products in very high
+volumes for several handset OEMs.
+
+Multi-Chip Modules. Multi-chip modules combine various semiconductor processes,
+such as HBT, PHEMT and RF discrete semiconductors, in a single module-based
+platform. The result is an easy-to-manufacture solution that enables broadband
+and wireless OEMs to reduce design complexity and dramatically shorten their
+product development cycle.
+
+CERAMIC PRODUCTS
+
+Our ceramic products play a critical role in the signal selection, or filtering
+process, that is essential to processing communications signals. Ceramic
+materials allow improved power efficiency and miniaturization, and are being
+increasingly used in wireless communications infrastructure. Additionally,
+ceramic products are essential to the broadband market through their presence in
+point-to-point radios, fiber optics and CATV HFC (cable television hybrid fiber
+coax system) networks. Ceramic products are also critical in the
+frequency-determining portions of DBS/VSAT (digital broadcast satellite/very
+small aperture terminal) receivers, radar detectors and intrusion alarms.
+
+MARKETING AND DISTRIBUTION
+
+We sell our products through independent manufacturers' representatives and
+distribution partners, and through a direct sales staff. We sell through 12
+domestic and 19 international independent manufacturers' representative
+organizations. We also distribute product through a global organization that is
+franchised throughout portions of the world, and through two organizations that
+focus primarily on the North American market. Our field support management staff
+oversees our manufacturers' representatives and distributors and provides them
+with sales direction and support. Our direct sales staff manages key customer
+accounts and worldwide customer support and identifies and targets sales in
+emerging wireless and broadband markets.
+
+We maintain an internal marketing organization that is responsible for
+developing sales and advertising literature, such as product announcements,
+catalogs, brochures and magazine articles in trade and other publications. Our
+internal marketing organization also prepares technical presentations for
+industry conferences.
+
+We believe that the technical and complex nature of our products and markets
+demands an extraordinary commitment to close ongoing relationships with our
+customers. We strive to maintain close contact with our customers' design,
+engineering, manufacturing, purchasing and project management personnel. We
+employ a team approach in developing close relationships by combining the
+support of design and applications engineers, manufacturing personnel, sales and
+marketing staff and senior management. We believe that maintaining close contact
+with our customers improves their level of satisfaction, assists us in
+anticipating their future product needs and enhances our opportunities for
+design wins.
+
+RESEARCH AND DEVELOPMENT
+
+Our products and markets are subject to continued technological advances.
+Recognizing this, we maintain a high level of R&D activities to remain
+competitive in certain areas and to be an industry leader in other areas. We
+maintain close collaborative relationships with many of our customers to help us
+identify market demands and target our development efforts to meet those
+demands. We are focusing our development efforts on new products, design tools
+and manufacturing processes in our Semiconductor Products segment using our core
+technologies. We strive to improve existing product performance, improve design
+and manufacturing processes and reduce costs. The introduction of our aiIP
+technique and Alpha-2 multi-chip
+
+
+                                       5
+<PAGE>   6
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+module packaging technology during fiscal 2001 is evidence of our focus in this
+area. Further evidence of our commitment to R&D is our introduction of the
+world's first tri-band power amplifier module employing InGaP HBT process
+technology and the introduction of breakthrough switch/filter technology for
+wireless handsets. The switch/filter products combine multiple functions in a
+single, module-based platform and utilize our aiIP technique.
+
+GaAs HBT Capabilities. On April 24, 2000, we acquired NDI of Sunnyvale,
+California. The acquisition provided a production-ready InGaP HBT process,
+enabling the production of high efficiency HBT power amplifiers for wireless
+telephone handsets. GaAs HBT process technology works at higher frequencies and
+requires less power to transmit signals than traditional silicon semiconductors,
+and it provides greater efficiency and linearity than GaAs MESFET devices. For
+cellular telephones, this permits smaller handsets and longer talk-time between
+battery charges. HBT power amplifiers are also particularly well suited for use
+in the emerging wireless and broadband markets. The addition of a line of GaAs
+HBT products has complemented our existing GaAs PHEMT and GaAs MESFET devices,
+enabling us to offer our customers the full range of currently available GaAs
+processes for use in wireless telephone handsets, wireless data applications and
+broadband data applications.
+
+During the second quarter of fiscal 2001, we shipped our first volume order of a
+new family of broadband amplifiers, the first products based on our advanced
+InGap HBT technology, for use in a wide range of wireless and broadband
+applications.
+
+Our R&D expenditures for fiscal 2001, 2000 and 1999 were $36.0 million, $25.3
+million and $15.9 million, respectively.
+
+RAW MATERIALS
+
+Raw materials for our products and manufacturing processes are generally
+available from several sources. It is our policy not to depend on a sole source
+of supply. However, there are limited situations where we procure certain
+components and services for our products from single or limited sources. We
+purchase these materials and services on a purchase order basis. We do not carry
+significant inventories and have long-term supply contracts with only a limited
+number of our vendors.
+
+WORKING CAPITAL
+
+Our business is not seasonal, and there are no special practices with respect to
+working capital for us or the industry in general. We provide a limited warranty
+on our products against defects in material and workmanship. Payment terms are
+generally 30 days in the domestic market and 60 days in foreign markets.
+
+CUSTOMERS
+
+During fiscal 2001, Motorola, Inc. and Ericsson accounted for approximately 26%
+and 11%, respectively, of our total sales.
+
+COMPETITIVE CONDITIONS
+
+We compete on the basis of price, performance, quality, reliability, size,
+ability to meet delivery requirements and customer service and support. However,
+we experience intense competition worldwide from a number of multinational
+companies that offer a variety of competitive products and broader product
+lines, and which have substantially greater financial resources and production,
+marketing, manufacturing, engineering and other capabilities than we do. We also
+face competition from a number of smaller companies. In addition, our customers,
+particularly our largest customers, may have or could acquire the
+
+
+                                       6
+<PAGE>   7
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+capability to develop or manufacture products competitive with those that have
+been or may be developed or manufactured by us.
+
+PATENTS AND TRADEMARKS
+
+We own certain patents and have other patent applications under preparation or
+pending. However, we believe that our technological position depends primarily
+on our ability to develop new innovative products through the technical
+competence of our engineering personnel.
+
+BACKLOG
+
+Our policy is to book only the next three months of commercial orders consistent
+with customer short-term requirements. Many commercial orders cover
+substantially more than three months of performance, but such orders can be
+easily modified or cancelled by the customer and we believe it is a better
+practice to limit bookings in this manner. On this basis, we believe all orders
+in our backlog to be firm. However, current market conditions make predictions
+about future operations particularly difficult. While we believe all orders in
+our backlog to be firm, our operating results have been materially and adversely
+affected in the past by deferral and cancellation of orders as a result of
+changes in customer requirements.
+
+We have backlog of undelivered orders on April 1, 2001 of approximately $38.7
+million compared with $55.7 million on April 2, 2000.
+
+ENVIRONMENTAL REGULATIONS
+
+In our opinion, compliance with federal, state, and local environmental
+protection regulations does not and will not have a material effect on our
+capital expenditures, earnings and competitive position.
+
+EXECUTIVE OFFICERS
+
+The following table sets forth certain information with respect to our executive
+officers during fiscal 2001:
+
+<TABLE>
+<CAPTION>
+      NAME                           AGE     POSITION
+
+<S>                                  <C>     <C>
+      George S. Kariotis             78      Chairman Emeritus and Director
+      Thomas C. Leonard              66      Chairman of the Board of Directors
+      David J. Aldrich               44      President, Chief Executive Officer and Director
+      Paul E. Vincent                53      Vice President, Treasurer, Secretary and Chief Financial Officer
+      Jean-Pierre Gillard            57      Vice President
+      Richard Langman                54      Vice President and President of Trans-Tech, Inc.
+      Bruce Nonnemaker               54      Vice President
+</TABLE>
+
+All officers serve until the next Board of Directors meeting following the
+Annual Meeting of Stockholders scheduled for September 10, 2001, or until their
+successors are elected and qualified. No officer was elected pursuant to any
+arrangement or understanding.
+
+George S. Kariotis was elected Chairman Emeritus in April 2000. Prior to this
+election, Mr. Kariotis served as Chairman of the Board and Chief Executive
+Officer from our inception in 1962 to 1978, and, from 1974 to 1978, he was also
+our Treasurer. From 1979 to 1983, Mr. Kariotis was the Secretary of Manpower
+Development and Economic Affairs for the Commonwealth of Massachusetts. He was
+re-elected Chairman
+
+
+                                       7
+<PAGE>   8
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+of the Board in 1983 and Chief Executive Officer in 1985. Mr. Kariotis resigned
+as Chief Executive Officer in July 1986 while he campaigned for public office.
+He resumed his position as Chief Executive Officer in November 1986, and served
+in that capacity until 1991. Mr. Kariotis served as Chairman of the Board since
+his re-election in 1983 up until his election to Chairman Emeritus in April
+2000. Mr. Kariotis has been a Director since 1962 and continues to serve in that
+capacity.
+
+Thomas C. Leonard was elected Chairman of the Board in April 2000. Prior to his
+election, Mr. Leonard served as Chief Executive Officer since July 1996. Mr.
+Leonard also served as our President from July 1996 to September 1999. In August
+1996, Mr. Leonard was elected a Director. Mr. Leonard joined us in 1992 as a
+division General Manager, and, in 1994, he was elected a Vice President. Mr.
+Leonard has over 30 years experience in the microwave industry, having held a
+variety of executive and senior level management and marketing positions at
+M/A-COM, Inc., Varian Associates, Inc. and Sylvania.
+
+David J. Aldrich was elected President, Chief Executive Officer and a member of
+the Board of Directors in April 2000. Mr. Aldrich joined us in 1995 as Vice
+President, Chief Financial Officer and Treasurer. He served as Vice President
+and General Manager of the Semiconductor Products segment until his election in
+September 1999 to President and Chief Operating Officer. From 1989 to 1995, Mr.
+Aldrich held senior management positions at M/A-COM, Inc., including Manager
+Integrated Circuits Active Products, Corporate Vice President Strategic
+Planning, Director of Finance and Administration, and Director of Strategic
+Initiatives with the Microelectronics Division.
+
+Paul E. Vincent joined us as Controller in 1979 and has been Vice President and
+Chief Financial Officer since January 1997. Mr. Vincent was elected Secretary in
+September 1999. Prior to joining us, Mr. Vincent worked at Applicon Incorporated
+and, prior to that, Arthur Andersen & Co. Mr. Vincent is a CPA.
+
+Richard Langman joined us in January 1997 as Vice President, and as President
+and General Manager of our Trans-Tech, Inc. subsidiary. Prior to joining us, Mr.
+Langman worked for Coors Ceramics Company for 23 years, holding senior executive
+positions in operations and sales.
+
+Jean-Pierre Gillard joined us in 1992 as Manager of GaAs integrated circuit
+operations and has been Vice President of Business Development since June 1996.
+Before 1992, he held a number of management positions at M/A-COM, Inc. in both
+marketing and sales.
+
+Bruce Nonnemaker joined us in 1997 as Director of Operations for the
+Semiconductor Products segment. Mr. Nonnemaker served in this capacity until his
+election to Vice President, Operations in September 1999. Prior to joining us,
+Mr. Nonnemaker held senior operations management positions at Digital Equipment
+Corporation. Before this, he held senior operations positions at Western
+Digital, Commodore Computer and Solid State Scientific.
+
+EMPLOYEES
+
+As of April 1, 2001, we employed approximately 1,120 persons, compared with
+1,090 persons as of April 2, 2000.
+
+ITEM 2 PROPERTIES
+
+The following information describes the major facilities we own and lease.
+We believe we have adequate production capacity to meet our current business
+needs, but we are adding the capacity required to better serve the wireless and
+broadband markets as demand continues to grow. In September 1999, we announced
+the completion of the first phase of a major expansion program to enhance and
+expand the available clean room space in our GaAs IC fabrication facility in
+Woburn, Massachusetts. The new clean room space is complete and in use, and
+additional manufacturing equipment has been installed and brought to full
+
+
+                                       8
+<PAGE>   9
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+operation. The second phase, which involved the installation of additional
+production equipment within the existing facility, has also been completed. The
+third phase of the expansion program involves the creation of a GaAs IC line
+that will allow the manufacture of product on six-inch wafers. We are in the
+initial stages of development of this production line and expect to complete
+this phase within twelve to fifteen months.
+
+a) We own a 158,000 square foot building in Woburn, Massachusetts. This facility
+houses our primary GaAs IC fabrication facility and our corporate headquarters.
+We doubled output capacity in this facility in 1999 and again in 2000. The
+completion of the six-inch GaAs IC production line will enable us to double
+capacity for a third time at this location.
+
+b) We own a 125,000 square foot facility in Haverhill, Massachusetts. This
+facility was purchased in September 2000 and provides additional manufacturing
+and office space. Initial operations at this site commenced in January 2001 and
+include design engineering as well as GaAs IC, silicon semiconductor and
+multi-chip module assembly and testing.
+
+c) We lease a 27,000 square foot building in Sunnyvale, California. This
+facility houses our second GaAs IC fabrication facility and was acquired in our
+purchase of Network Device, Inc. in April 2000.
+
+d) We own a 92,000 square foot facility in Adamstown, Maryland. This facility is
+occupied by a subsidiary, and is our primary electrical ceramic product
+manufacturing facility. During 2000, we began expanding the capacity of this
+facility to meet increased demand for its products. We are in the final stages
+of this expansion project and expect to complete the project by the end of
+calendar year 2001.
+
+e) We lease a 33,000 square foot facility in Frederick, Maryland. This building
+is used to manufacture ceramic components, including filters.
+
+ITEM 3 LEGAL PROCEEDINGS
+
+We do not have any material pending legal proceedings other than routine
+litigation incidental to our business.
+
+We have been notified by federal and state environmental agencies of our
+potential liability with respect to the Spectron, Inc. Superfund site in Elkton,
+Maryland. Several hundred other companies have also been notified about their
+potential liability regarding this site. We continue to deny that we have any
+responsibility with respect to this site other than as a de minimis party.
+Management is of the opinion that the outcome of this environmental matter will
+not have a material effect on our operations.
+
+ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+There were no matters submitted to a vote of security holders during the fiscal
+quarter ended April 1, 2001.
+
+
+                                       9
+<PAGE>   10
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+                                     PART II
+
+ITEM 5 MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+In April 2000, we issued an aggregate 2.67 million shares of common stock to all
+shareholders of NDI in exchange for all outstanding shares of NDI, pursuant to
+an exemption from registration under Section 3(a)(10) of the Securities Act of
+1933, as amended.
+
+Our common stock is traded on the NASDAQ National Market under the symbol AHAA.
+The number of stockholders of record as of May 31, 2001 was approximately 950.
+
+We have not paid cash dividends on our common stock since fiscal 1986, and we do
+not anticipate paying cash dividends in the foreseeable future. Our current
+practice is to retain all of our earnings to finance future growth. We are
+subject to financial and operating covenants, including restrictions on the
+payment of cash dividends, under our bank financing agreement. See Notes 4 and 6
+to the Consolidated Financial Statements beginning on pages 30 and 34,
+respectively, for information regarding dividend restrictions and the stock
+split.
+
+The following table sets forth high and low market prices for our common stock
+for the periods indicated.
+
+<TABLE>
+<CAPTION>
+                                                           HIGH           LOW
+ -------------------------------------------------------------------------------
+<S>                                                      <C>           <C>
+ FISCAL YEAR ENDED APRIL 1, 2001:
+     First quarter....................................   $63.875       $35.000
+     Second quarter................................       50.438        32.000
+     Third quarter...................................     54.000        24.750
+     Fourth quarter.................................      35.938        13.938
+ FISCAL YEAR ENDED APRIL 2, 2000:
+     First quarter....................................   $23.125       $ 8.938
+     Second quarter..................................     28.906        21.500
+     Third quarter...................................     33.125        23.875
+     Fourth quarter..................................     74.734        27.016
+ -------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       10
+<PAGE>   11
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+ITEM 6 SELECTED FINANCIAL DATA
+
+You should read the data set forth below in conjunction with Item 7,
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and our consolidated financial statements and related notes
+appearing elsewhere in this Annual Report on Form 10-K. The selected
+consolidated financial data set forth below as of April 1, 2001 and April 2,
+2000 and for the fiscal years ended April 1, 2001, April 2, 2000 and March 28,
+1999 has been derived from our audited consolidated financial statements and are
+included elsewhere in this Annual Report on Form 10-K. The selected consolidated
+financial data set forth below as of March 28, 1999, March 29, 1998 and March
+30, 1997 and for the years ended March 29, 1998 and March 30, 1997 has been
+derived from our consolidated financial statements that are not included in this
+Annual Report on Form 10-K.
+
+On April 24, 2000, we completed our acquisition of privately-held NDI. The
+acquisition has been accounted for as a pooling-of-interests and accordingly,
+all prior period consolidated financial data set forth below has been restated
+to include the combined results of operations, financial position and cash flows
+of NDI.
+
+<TABLE>
+<CAPTION>
+                                                                                      FISCAL YEAR
+                                                        2001             2000             1999             1998              1997
+------------------------------------------------------------------------------------------------------------------------------------
+(In thousands, except per share amounts
+ and financial ratios)
+
+<S>                                                   <C>              <C>              <C>              <C>              <C>
+RESULTS OF OPERATIONS
+    Sales .......................................     $271,568         $186,402         $126,413         $116,881         $ 85,253
+    Net income (loss) ...........................       33,373           17,982           19,263           10,161          (15,572)
+    Per share data
+      Net income (loss) basic ...................     $   0.78         $   0.44         $   0.56         $   0.31         $  (0.48)
+      Net income (loss) diluted .................     $   0.75         $   0.42         $   0.54         $   0.30         $  (0.48)
+      Weighted average common shares basic ......       43,029           40,659           34,314           33,268           32,208
+      Weighted average common shares diluted ....       44,752           42,822           35,406           34,088           32,208
+FINANCIAL RATIOS
+    Return (based on net income (loss))
+      On sales ..................................         12.3%             9.6%            15.2%             8.7%           (18.3)%
+      On average assets .........................         10.8%             9.0%            18.1%            12.4%           (21.1)%
+      On average equity .........................         12.3%            10.7%            23.3%            16.7%           (28.9)%
+    Current ratio ...............................         6.94             6.15             3.45             3.24             3.35
+    Long-term debt to equity ....................          0.1%             0.1%             0.8%             2.3%             7.2%
+FINANCIAL POSITION
+    Working capital .............................     $188,288         $170,357         $ 51,154         $ 38,620         $ 32,647
+    Additions to property, plant and equipment...       54,748           39,660           20,793           13,037            7,963
+    Total assets ................................      337,019          281,024          120,683           92,524           71,979
+    Long-term debt ..............................          235              345              713            1,625            3,606
+    Long-term capital lease obligations .........           --               --               --               --                8
+    Stockholders' equity ........................      299,178          242,093           94,252           71,287           50,108
+OTHER STATISTICS
+    New orders (net of cancellations) ...........      254,600          203,500          126,500          121,100           81,300
+    Backlog at year end .........................     $ 38,700         $ 55,700         $ 36,900         $ 36,800         $ 32,500
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       11
+<PAGE>   12
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+ITEM 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+       OF OPERATIONS
+
+OVERVIEW
+
+We design, develop, manufacture and market proprietary radio frequency,
+microwave frequency and millimeter wave frequency integrated circuits and
+discrete semiconductors for the wireless and broadband communications markets.
+During our second quarter ended October 1, 2000, we reorganized into two
+reportable segments based on management's methods of evaluating operations and
+performance. Our reportable segments are: Semiconductor Products and Ceramic
+Products.The Semiconductor Products segment is comprised of two of the Company's
+former segments: Wireless Semiconductor Products and Application Specific
+Products. A description of the reportable segments follows:
+
+The Semiconductor Products segment designs and manufactures gallium arsenide
+integrated circuits, other discrete semiconductors and multi-chip modules
+primarily for the global wireless communications and broadband markets. This
+segment represented 82.7% of our total sales in fiscal 2001.
+
+The Ceramic Products segment designs and manufactures technical ceramic and
+magnetic products primarily for the global wireless infrastructure and broadband
+markets. This segment represented 17.3% of our total sales in fiscal 2001.
+
+On April 24, 2000, we completed our acquisition of privately-held Network
+Device, Inc. (NDI) of Sunnyvale, California. Approximately 2.67 million shares
+of common stock of the Company were exchanged for all outstanding shares of NDI.
+Approximately 185,000 shares of Company stock were reserved for the conversion
+of NDI stock options into Company options. The acquisition has been accounted
+for as a pooling-of-interests and accordingly, all prior period consolidated
+financial statements and related notes to the consolidated financial statements
+have been restated to include the combined results of operations, financial
+position and cash flows of NDI.
+
+Our customers include leading OEMs in the wireless and broadband communications
+industry and their principal suppliers. During fiscal 2001, sales to our 15
+largest customers accounted for 69.1% of our total sales. During that period,
+sales to Motorola and Ericsson accounted for 26.0% and 11.3%, respectively, of
+total sales.
+
+RESULTS OF OPERATIONS
+
+The following table shows our statement of operations data expressed as a
+percentage of sales for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                                                                         YEARS ENDED
+                                                                    ---------------------------------------------------
+                                                                    APRIL 1, 2001       APRIL 2, 2000    MARCH 28, 1999
+                                                                    -------------       -------------    --------------
+<S>                                                                 <C>                 <C>              <C>
+Sales............................................................       100.0%              100.0%            100.0%
+Cost of sales....................................................        55.8                56.6              56.4
+                                                                        -----               -----             -----
+Gross margin.....................................................        44.2                43.4              43.6
+Research and development expenses................................        13.3                13.6              12.6
+Selling and administrative expenses..............................        15.9                18.3              18.8
+                                                                        -----               -----             -----
+Operating income.................................................        15.0                11.5              12.2
+Other income, net................................................         3.2                 3.1               1.0
+                                                                        -----               -----             -----
+Income before income taxes.......................................        18.1                14.6              13.2
+Provision (benefit) for income taxes.............................         5.9                 5.0              (2.0)
+                                                                        -----               -----             -----
+Net income.......................................................        12.3%                9.6%             15.2%
+                                                                        =====               =====             =====
+</TABLE>
+
+
+                                       12
+<PAGE>   13
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+FISCAL YEARS ENDED APRIL 1, 2001, APRIL 2, 2000 AND MARCH 28, 1999
+
+Sales. Sales increased 45.7% to $271.6 million in fiscal 2001 from $186.4
+million in fiscal 2000. The increase is principally the result of high growth
+experienced by our Semiconductor and Ceramic Products segments during the first
+nine months of fiscal 2001 as demand for wireless and broadband products
+increased during this period. During the fourth quarter of fiscal 2001, a
+downturn in the wireless and broadband markets resulted in lower quarterly
+sales, reducing the overall increase in sales during fiscal 2001 when compared
+to fiscal 2000. Sales increased 47.5% to $186.4 million in fiscal 2000 from
+$126.4 million in fiscal 1999. The increase was primarily attributable to
+increased demand for wireless products, as well as demand for products in
+emerging broadband data applications. Sales of products for the defense market
+decreased to 6.5% of total sales in fiscal 2001 from 7.7% in fiscal 2000 and
+17.2% in 1999, as we continue to exit the defense market by offering last time
+buys to our customers and concluding existing contracts. Deliveries to Motorola
+represented 26.0% of our total sales in fiscal 2001 compared to 34.1% in fiscal
+2000 and 28.1% in fiscal 1999. Deliveries to Ericsson represented 11.3% of our
+total sales in fiscal 2001 and represented less than 10% of our total sales in
+fiscal 2000 and fiscal 1999.
+
+Gross Profit. Gross profit increased 48.4% to $119.9 million in fiscal 2001 from
+$80.8 million in fiscal 2000. Gross margin increased to 44.2% in fiscal 2001
+from 43.4% in fiscal 2000. These increases were primarily attributable to our
+continued ability to leverage capacity and improve operating efficiencies in
+both our Semiconductor and Ceramic Products segments during the first nine
+months of fiscal 2001, offset by the effect of high fixed costs on lower sales
+experienced in the fourth quarter of fiscal 2001. Gross profit increased 46.6%
+to $80.8 million in fiscal 2000 from $55.1 million in fiscal 1999. The increase
+in gross profit was primarily a result of increased sales, as well as improved
+operating efficiencies in our Semiconductor and Ceramic Products segments, as
+both continued to leverage capacity and improve yields. Gross margin decreased
+slightly to 43.4% in fiscal 2000 from 43.6% in fiscal 1999. The slight decrease
+in gross margin was attributable to our acquisition of NDI on April 24, 2000.
+NDI experienced a negative gross margin during fiscal 2000 as it initiated a
+ramp in production during this period without the offsetting sales volume.
+
+Research and Development Expenses. Research and development expenses increased
+42.2% to $36.0 million or 13.3% of sales in fiscal 2001 from $25.3 million or
+13.6% of sales in fiscal 2000. The increase in research and development expenses
+is primarily attributable to our ongoing development of processes and
+applications within our Semiconductor Products segment in order to address our
+targeted markets: wireless and broadband. More than 90% of our total research
+and development spending in fiscal 2001 was within the Semiconductor Products
+segment. Research and development expenses increased 58.9% to $25.3 million or
+13.6% of sales in fiscal 2000 from $15.9 million or 12.6% of sales in fiscal
+1999. The increase in research and development expenses was primarily
+attributable to the development of processes and applications in the
+Semiconductor Products segment.
+
+Selling and Administrative Expenses. Selling and administrative expenses
+increased 26.8% to $43.3 million or 15.9% of sales in fiscal 2001 from $34.1
+million or 18.3% of sales in fiscal 2000. Included in the $43.3 million is
+approximately $1.8 million in one-time transaction costs associated with the
+acquisition of NDI on April 24, 2000. Excluding these one-time costs, selling
+and administrative expenses for fiscal 2001 would have totaled $41.5 million or
+15.3% of sales, an increase of 21.6% compared to fiscal 2000. The increase in
+selling and administrative expenses was primarily attributable to increased
+direct selling costs resulting from higher sales volumes, as well as increased
+costs related to training and recruiting employees. Due to our continued ability
+to support our sales growth without incurring substantial additional costs,
+selling and administrative expenses as a percentage of sales declined in fiscal
+2001 when compared to fiscal 2000.
+
+
+                                       13
+<PAGE>   14
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+Selling and administrative expenses increased 43.7% to $34.1 million or 18.3% of
+sales in fiscal 2000 from $23.7 million or 18.8% of sales in fiscal 1999. The
+increase in selling and administrative expenses was attributable to increased
+sales commissions and direct selling costs resulting from higher sales volumes,
+as well as increased expenses related to training, recruiting and an increased
+sales force. As a result of our ability to support our sales growth without
+incurring substantial additional costs, selling and administrative expenses as a
+percentage of sales declined in fiscal 2000 over fiscal 1999.
+
+Other Income, Net. Other income, net, increased 47.1% to $8.6 million or 3.2% of
+sales in fiscal 2001 from $5.9 million or 3.1% of sales in fiscal 2000. The
+increase in other income, net, was primarily attributable to an increase in
+interest income as a result of higher average levels of cash, cash equivalents
+and short-term investments. Other income, net, more than quadrupled to $5.9
+million or 3.1% of sales in fiscal 2000 from $1.2 million or 1.0% of sales in
+fiscal 1999. The increase was also primarily the result of considerably higher
+levels of cash, cash equivalents and short-term investments.
+
+Provision (Benefit) for Income Taxes. The provision for income taxes in fiscal
+2001 was $15.9 million compared to $9.3 million in fiscal 2000. The fiscal 2001
+provision reflects a tax rate of approximately 32% compared to a tax rate of 34%
+in fiscal 2000. The decrease in the fiscal 2001 tax rate is primarily the result
+of research and development tax credits utilized in fiscal 2001. The $2.6
+million benefit reflected in fiscal 1999 reflects a 10% tax rate offset by a
+$3.3 million tax benefit. The tax benefit of $3.3 million resulted from a
+reduction in the valuation allowance against deferred tax assets because of the
+expected use of net operating loss carryforwards in future periods.
+
+BUSINESS SEGMENTS
+
+The table below displays sales and operating income by business segment for
+fiscal 2001, 2000 and 1999. See Note 10 to the consolidated financial
+statements.
+
+<TABLE>
+<CAPTION>
+                                                     YEARS ENDED
+                                     APRIL 1,          APRIL 2,          MARCH 28,
+                                       2001              2000              1999
+                                     --------          --------          ---------
+                                                    (in thousands)
+<S>                                  <C>               <C>               <C>
+SALES
+Semiconductor Products.....          $224,560          $150,348          $100,873
+Ceramic Products ..........            47,008            36,054            25,540
+                                     --------          --------          --------
+                                     $271,568          $186,402          $126,413
+                                     ========          ========          ========
+
+OPERATING INCOME
+Semiconductor Products.....          $ 33,496          $ 16,761          $ 13,580
+Ceramic Products ..........             7,164             4,632             1,879
+                                     --------          --------          --------
+                                     $ 40,660          $ 21,393          $ 15,459
+                                     ========          ========          ========
+</TABLE>
+
+Semiconductor Products. Sales for the Semiconductor Products segment increased
+49.4% to $224.6 million in fiscal 2001 from $150.3 million in fiscal 2000. The
+increase was primarily attributable to increased demand and penetration into our
+two targeted markets, wireless communications and broadband during the first
+nine months of fiscal 2001. During the fourth quarter of fiscal 2001, a downturn
+in the wireless and broadband markets resulted in lower quarterly sales,
+reducing the overall increase in sales during fiscal 2001. Sales for the
+Semiconductor Products segment increased 49.0% to $150.3 million in fiscal 2000
+from $100.9 million in fiscal 1999. The increase reflects a growing wireless
+market to include data, increased market penetration and gains in market share.
+
+Operating income for the Semiconductor Products segment increased 99.8% to $33.5
+million in fiscal 2001 from $16.8 million in fiscal 2000. Included in the $33.5
+million is approximately $1.8 million in one-time transaction costs associated
+with the acquisition of NDI. Excluding these one-time costs, operating income
+
+
+                                       14
+<PAGE>   15
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+for fiscal 2001 would have totaled $35.3 million, an increase of 110.5% when
+compared to fiscal 2000. The increase was primarily attributable to increased
+sales and improved operating efficiencies as this segment continued to leverage
+capacity, improve yields and control selling and administrative costs. Operating
+income for the Semiconductor Products segment increased 23.4% to $16.8 million
+in fiscal 2000 from $13.6 million in fiscal 1999. The increase was primarily
+attributable to increased sales and improved operating efficiencies as this
+segment continued to leverage capacity and control material costs. Additionally,
+as this segment continued its development of processes and applications for the
+wireless and broadband markets, it was able to control administrative costs.
+
+Ceramic Products. Sales for the Ceramic Products segment increased 30.4% to
+$47.0 million in fiscal 2001 from $36.1 million in fiscal 2000. The increase was
+primarily due to growth in demand and increased penetration in the wireless
+infrastructure and broadband markets for the first nine months of fiscal 2001.
+During the fourth quarter of fiscal 2001, a downturn in the wireless and
+broadband markets resulted in lower quarterly sales, reducing the overall
+increase in sales during fiscal 2001. Sales for the Ceramic Products segment
+increased 41.2% to $36.1 million in fiscal 2000 from $25.5 million in fiscal
+1999. The increase in sales was primarily attributable to growth in wireless
+infrastructure combined with added customer penetration, as well as an
+increasing demand from emerging broadband customers.
+
+Operating income for the Ceramic Products segment increased 54.7% to $7.2
+million in fiscal 2001 from $4.6 million in fiscal 2000. The increase in
+operating income was primarily the result of increased sales and improved
+operating efficiencies, including the leveraging of existing capacity and the
+investment in more cost-effective equipment. Operating income for the Ceramic
+Products segment more than doubled to $4.6 million in fiscal 2000 from $1.9
+million in fiscal 1999. The increase in operating income was primarily
+attributable to an increase in sales and improved operating efficiencies,
+including the leveraging of capacity and increased manufacturing automation.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+As of April 1, 2001, we had working capital of $188.3 million, including $153.8
+million in cash, cash equivalents and short-term investments. In fiscal 2001,
+operations generated $57.6 million of cash primarily attributable to net income
+of $33.4 million. In addition, we effectively managed working capital as
+evidenced by an increase in average annual inventory turns to 11.0 in fiscal
+2001 compared to 10.2 in fiscal 2000, and by a decrease in average annual days
+sales outstanding to 48 days in fiscal 2001 compared to 56 days in fiscal 2000.
+
+Capital expenditures during fiscal 2001 totaled $54.7 million. Of the $54.7
+million, approximately $48.4 million was related to the Semiconductor Products
+segment as we continued our investment in the semiconductor GaAs wafer
+fabrication operation and the integrated circuit and discrete semiconductor
+assembly and test areas. Of the $48.4 million, $12.3 million relates to the
+purchase of a 125,000 square foot facility in Haverhill, Massachusetts. This
+facility was purchased in September 2000 and provides additional manufacturing
+and office space. Initial operations at this site commenced in January 2001 and
+include design engineering as well as GaAs IC, silicon semiconductor and
+multi-chip module assembly and testing. The relocation of these operations to
+the Haverhill facility has provided additional space for the expansion of
+fabrication operations at our facility in Woburn, Massachusetts.
+
+In September 1999, we announced the completion of the first phase of a major
+expansion program to enhance and expand the available clean room space in our
+GaAs IC facility in Woburn, Massachusetts. The new clean room space is complete
+and in use, and additional manufacturing equipment has been installed and
+brought to full operation. The second phase, which involved the installation of
+additional production equipment within the existing facility, has been
+completed. The third phase of the expansion program involves the creation of a
+GaAs IC line that will allow the manufacture of product on six-inch wafers. We
+are in the initial stages of development of this six-inch wafer production line,
+which we estimate will cost approximately $30 million dollars. We expect to
+complete this phase within twelve to fifteen months. Once
+
+
+                                       15
+<PAGE>   16
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+this new six-inch wafer production line is in operation, we plan to convert our
+existing four-inch wafer production areas to six-inch, as future demand
+requires. Improvements in manufacturing capabilities at our ceramics facilities
+accounted for approximately $6.3 million of capital expenditures.
+
+In November 2000, we extended our $10 million revolving credit agreement through
+November 15, 2002. The revolving credit agreement had an initial expiration date
+of October 31, 2000. There were no borrowings under this agreement at April 1,
+2001. We expect to continue to maintain a debt facility upon expiration of the
+existing credit agreement.
+
+In June 1999, we completed a public offering of our common stock that raised net
+proceeds of $109.4 million. Substantially all of the proceeds were invested in
+commercial paper and securities issued by various federal agencies and
+corporations. The net proceeds may be used for the purchase of equipment, the
+expansion of facilities and the acquisition of businesses, technologies or
+products that complement our business.
+
+On April 24, 2000, we announced the completion of our acquisition of
+privately-held Network Device, Inc. based in Sunnyvale, California.
+Approximately 2.67 million shares of common stock of the Company were exchanged
+for all outstanding shares of NDI. Approximately 185,000 shares of Company stock
+were reserved for the conversion of NDI stock options into Company options. The
+acquisition has been accounted for as a pooling-of-interests.
+
+We believe that anticipated cash from operations, available funds and borrowings
+under our revolving credit agreement, together with the net proceeds from our
+fiscal 1999 stock offering, will be adequate to fund our currently planned
+working capital and capital expenditure requirements at least through fiscal
+2002.
+
+OTHER MATTERS
+
+Inflation did not have a significant impact upon our results of operations
+during the three-year period ended April 1, 2001.
+
+On April 1, 2001, the Company adopted Statement of Financial Accounting
+Standards (SFAS) No. 133, "Accounting for Derivative Instruments and Hedging
+Instruments" and SFAS No. 138, "Accounting for Certain Derivative Instruments
+and Certain Hedging Activities," an amendment to SFAS No. 133. The adoption of
+these statements had no material effect on our consolidated financial position,
+results of operations or cash flows.
+
+FORWARD-LOOKING STATEMENTS
+
+This report and other documents we have filed with the Securities and Exchange
+Commission contain forward-looking statements made pursuant to the safe harbor
+provisions of the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements represent our judgment regarding future events.
+Although we would not make forward-looking statements unless we believe we have
+a reasonable basis for doing so, we cannot guarantee their accuracy and actual
+results may differ materially from those we anticipated due to a number of
+uncertainties. We urge you to consider the risks and uncertainties discussed
+below and elsewhere in this report and in the other documents filed with the SEC
+in evaluating our forward-looking statements. We have no plans to update our
+forward-looking statements to reflect events or circumstances after the date of
+this report. We generally identify forward-looking statements with the words
+"plans," "expects," "anticipates," "estimates," "will," "should" and similar
+expressions.
+
+
+                                       16
+<PAGE>   17
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+CURRENT MARKET CONDITIONS MAKE IT ESPECIALLY DIFFICULT TO PREDICT OPERATING
+RESULTS. Our operating results have been materially and adversely affected in
+the past by the failure of anticipated orders to be realized and by deferrals
+and cancellations of orders as a result of changes in customer requirements.
+Current market conditions make predictions of future operations particularly
+difficult. These factors include, but are not limited to, the following:
+     -    significant variations in and unpredictability of customer orders;
+     -    more frequent customer requests for order cancellations and deferrals
+     -    customers' inability to make accurate forecasts or predictions of
+          their future requirements; and
+     -    customers' increased efforts to minimize their inventories and attain
+          just-in-time delivery.
+
+OUR RELIANCE ON A SMALL NUMBER OF CUSTOMERS FOR A LARGE PORTION OF OUR SALES
+COULD HAVE A MATERIAL ADVERSE EFFECT ON OUR RESULTS OF OPERATIONS. A significant
+portion of our sales in each fiscal period has been concentrated among a limited
+number of customers. If we lost one or more of these major customers, or if one
+or more major customers significantly decreases its orders, our business would
+be materially and adversely affected. In fiscal 2001, sales to our five largest
+customers accounted for 52.9% of our sales, with Motorola and Ericsson
+accounting for 26.0% and 11.3% of sales, respectively. Our future operating
+results depend on the success of these customers and our success in selling
+products to them.
+
+OUR SALES VOLUME IS AFFECTED BY OUR OEM CUSTOMERS' SALES VOLUME. A substantial
+portion of our sales is derived from sales of products to OEMs. These OEMs
+demand highly reliable products and often require up to several months to
+evaluate and test our integrated circuits and devices before deciding to design
+them into their products. If our products are designed into an OEM's product,
+our sales volume will depend upon the commercial success and the length and
+timing of the product cycle of the OEM's product. We are also subject to sales
+variations arising from our OEM customers' inventory management. Our operating
+results have been materially affected and will probably be affected in the
+future by unexpected changes in our OEM customers' order patterns.
+
+DIFFICULTIES IN PRODUCTION WOULD ADVERSELY AFFECT OUR OPERATING RESULTS. Our
+products are very complex, have sophisticated designs and are manufactured using
+complex process technologies. Difficulties in production can occur which would
+limit our ability to ship product and adversely affect our operating results. In
+most cases, our products are customized for our customers who insist that our
+products meet their exact specifications for quality, performance and
+reliability. If we are unable to manufacture to our customers' specifications,
+our operating results will suffer.
+
+OUR OPERATING RESULTS ARE DEPENDENT ON THE DEVELOPMENT OF NEW PRODUCTS AND ON
+OUR ABILITY TO INCREASE PRODUCT REVENUE PER PLATFORM. Our future success will
+depend on our ability to develop new products in a timely and cost-effective
+manner and on our continued ability to increase product revenue per platform.
+The development of our new products is highly complex. We have sometimes
+experienced delays in completing the development and introduction of new
+products. The successful development and introduction of new products depends on
+a number of factors, including our timely completion of product designs and
+development, our ability to develop manufacturing processes for new products,
+and commercial acceptance of our new products and enhancements.
+
+OUR FAILURE TO KEEP PACE WITH RAPID TECHNOLOGICAL CHANGES IN THE WIRELESS AND
+BROADBAND COMMUNICATIONS INDUSTRY WOULD IMPAIR OUR GROWTH. The wireless and
+broadband communications markets are characterized by frequent introductions of
+new products, services and protocols. New products, services and protocols
+respond to evolving product and process technologies and consumer demand for
+greater functionality, lower costs, smaller products and better performance. As
+a result, we have experienced, and will continue to experience, product design
+obsolescence. We must continue to improve our product designs and develop new
+products with new technologies to meet our customers' demands.
+
+WE OPERATE IN VERY COMPETITIVE INDUSTRIES AND WE MAY BE UNABLE TO COMPETE
+SUCCESSFULLY. Competition in the markets for our products is intense. We compete
+with several companies primarily
+
+
+                                       17
+<PAGE>   18
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+engaged in the business of designing, manufacturing and selling integrated
+circuits, discrete semiconductors and ceramic products, as well as suppliers of
+other discrete products. For example, we compete with our largest customer in
+the production of power amplifiers. Our competitors could develop new process
+technologies that may be superior to ours. In addition, many of our existing and
+potential customers manufacture or assemble wireless communications devices and
+have substantial in-house technological capabilities. If one of our large
+customers decided to design and manufacture integrated circuits internally, it
+could have an adverse effect on our operating results.
+
+Many of our existing and potential competitors have strong market positions,
+considerable internal manufacturing capacity, established intellectual property
+rights and substantial technological capabilities. Moreover, a number of our
+existing and potential competitors have greater financial, technical,
+manufacturing and marketing resources than we do. We cannot guarantee that we
+will be able to compete successfully with our competitors.
+
+We expect competition to increase. This could mean lower prices for our products
+or reduced demand for our products. Any of these developments would have an
+adverse effect on our operating results.
+
+AVERAGE SELLING PRICES FOR OUR PRODUCTS TYPICALLY DECLINE OVER TIME. Average
+selling prices for our products decline over time. Many of our manufacturing
+costs are fixed. For a given level of sales, when our manufacturing costs
+decline, our gross margins improve, and when our manufacturing costs increase,
+our gross margins decline. Our operating results suffer when gross margins
+decline. We may experience these problems in the future and we cannot predict
+when they may occur or their severity.
+
+OUR OPERATING RESULTS WOULD SUFFER IF ONE OF OUR KEY SUPPLIERS FAILS TO DELIVER
+MATERIALS OR SERVICES FOR THE FABRICATION OF OUR PRODUCTS. We obtain certain
+materials and services for our products from one or a limited number of
+suppliers. For example, we procure GaAs substrates, a critical raw material,
+from a small number of suppliers. In addition, we obtain some GaAs wafers from a
+single external foundry, and we buy silicon substrates for semiconductors and
+certain chemical powders for ceramic manufacturing from single sources. We
+purchase these materials and services on a purchase order basis. We do not carry
+significant inventories and have long-term supply contracts with only a limited
+number of our vendors. Our inability to obtain critical materials or services in
+required quantities or in acceptable quality would result in significant delays
+or reductions in product shipments. This would materially and adversely affect
+our operating results.
+
+OUR OPERATING RESULTS MAY FLUCTUATE SIGNIFICANTLY. Our quarterly and annual
+sales, earnings and other operating results have fluctuated significantly in the
+past and may fluctuate significantly in the future primarily as a result of
+variations in our customers' orders and the potential for delay or deferral of
+customer implementation of our technology into their products.
+
+THE BENEFITS OF OUR GaAs PRODUCTS COMPARED TO SILICON ALTERNATIVES MAY NOT
+CONTINUE. The production of GaAs integrated circuits is more costly than the
+production of silicon circuits. As a result, we must offer GaAs products that
+provide superior performance to that of silicon for specific applications to be
+competitive with silicon products. If we do not continue to offer products that
+provide sufficiently superior performance to offset the cost differential, our
+operating results may be materially and adversely affected. We believe our costs
+of producing GaAs integrated circuits will continue to exceed the costs
+associated with the production of silicon circuits. The costs differ because of
+higher costs of raw materials for GaAs, lower production yields in GaAs
+technology and higher unit costs associated with lower production volumes.
+Silicon semiconductor technologies are widely used process technologies for
+certain integrated circuits and these technologies continue to improve in
+performance. We cannot assure you that we will continue to identify products and
+markets that require performance superior to that offered by silicon solutions.
+
+WE FACE SIGNIFICANT CHALLENGES MANAGING OUR GROWTH. We have experienced periods
+of significant growth, and expect to do so in the future. To manage our growth
+effectively, we must continue to:
+
+
+                                       18
+<PAGE>   19
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+     -    improve operational systems;
+     -    maintain adequate physical plant, manufacturing facilities and
+          equipment to meet customer demand;
+     -    add experienced senior level managers; and
+     -    attract and retain qualified people with experience in engineering,
+          design and manufacturing.
+
+We will spend substantial amounts of money in connection with our growth and may
+have additional unexpected costs. Our manufacturing equipment may not be
+adequate to support rapid increases in orders for our products, and we may not
+be able to expand quickly enough to exploit potential market opportunities. If
+we cannot attract qualified people or manage growth effectively, our business,
+operating results and financial condition could be adversely affected.
+
+THERE MAY BE UNANTICIPATED COSTS ASSOCIATED WITH INCREASING OUR CAPACITY. We
+anticipate that any future growth of our business will require increased
+manufacturing capacity. In response to this need, we have begun the
+implementation of a conversion of our Woburn, Massachusetts GaAs IC fabrication
+facility that will allow the manufacture of product on six-inch wafers. We also
+purchased a 125,000 square foot facility in Haverhill, Massachusetts, which
+provides additional manufacturing and office space for our Massachusetts
+operations. We may be required to purchase significant additional equipment or
+further expand our facilities in the future. Expansion activities such as these
+are subject to a number of risks, including:
+
+     -    unavailability or late delivery of the advanced, and often customized,
+          equipment used in the production of our products;
+     -    delays in bringing new production equipment on-line;
+     -    work stoppages and delays in supplying products for our existing
+          customers during expansion activities; and
+     -    unforeseen environmental or engineering problems relating to existing
+          or new facilities.
+
+These and other risks may affect the ultimate cost and timing of our present
+expansion or any future expansion of our capacity.
+
+OUR INTERNATIONAL SALES COULD DECLINE AS A RESULT OF CURRENCY EXCHANGE
+FLUCTUATIONS AND OTHER FACTORS. Our sales outside of the United States were
+approximately $133.7 million in fiscal 2001, $84.8 million in fiscal 2000, and
+$45.8 million in fiscal 1999. Because most of our foreign sales are denominated
+in United States dollars, our products, particularly our ceramic products,
+become less price competitive with products manufactured by competitors based in
+countries whose currencies decline in value against the dollar. International
+sales involve a number of additional risks, including:
+
+     -    imposition of government controls;
+     -    potential insolvency of international distributors and
+          representatives;
+     -    fluctuation of economies outside the United States;
+     -    political instability outside the United States;
+     -    generally longer receivables collection periods for foreign customers;
+          and
+     -    tariffs and other trade barriers.
+
+In addition, due to the technological advantage provided by GaAs in many
+military applications, a portion of our sales outside of North America are
+subject to export controls. Although we have not experienced any difficulty in
+obtaining necessary export licenses, failure to obtain such licenses in the
+future could have a material adverse effect on our operating results.
+
+OUR COMPLIANCE WITH ENVIRONMENTAL REGULATIONS MAY BE COSTLY. We are subject to a
+variety of federal, state and local requirements governing the protection of the
+environment. These requirements relate to the use, storage, handling, discharge
+and disposal of toxic or otherwise hazardous materials used in our manufacturing
+processes. We may incur significant expense in complying with these
+requirements, and these requirements may become more stringent in the future. In
+the past, compliance with environmental
+
+
+                                       19
+<PAGE>   20
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+regulations and our response to environmental claims and litigation has been
+costly. Failure to comply with environmental regulations could subject us to
+substantial liability or force us to change our manufacturing operations. In
+addition, under some of these regulations, we could be held financially
+responsible for remedial measures if our properties are contaminated, even if we
+did not cause the contamination.
+
+WE MAY HAVE DIFFICULTY IN PROTECTING OUR INTELLECTUAL PROPERTY. Our ability to
+compete is affected by our ability to protect our intellectual property. A
+significant aspect of our intellectual property is our product and process
+technology. We rely primarily on trade secret laws, confidentiality procedures
+and licensing arrangements to protect our trade secrets and intellectual
+property. The laws of certain foreign countries in which our products are or may
+be developed, manufactured or sold may not protect our trade secrets or
+intellectual property rights to the same extent as do the laws of the United
+States. This may make the possibility of misappropriation of our technology and
+trade secrets more likely. We cannot assure you that the steps taken by us to
+protect our trade secrets and intellectual property will be adequate to prevent
+misappropriation of our technology.
+
+OUR OPERATIONS COULD INFRINGE ON THE INTELLECTUAL PROPERTY RIGHTS OF OTHERS.
+Aspects of our technology could be found to infringe on the intellectual
+property rights or patents of others. Other companies may hold or obtain patents
+on inventions or may otherwise claim proprietary rights to technology necessary
+to our business. We cannot predict the extent to which we may be required to
+seek licenses. We cannot guarantee that the terms of any licenses we may be
+required to seek will be reasonable.
+
+WE MAY HAVE DIFFICULTY IN MANAGING AND INTEGRATING ACQUISITIONS. From time to
+time, we explore opportunities to acquire businesses to expand our production
+capacity and our product offerings, such as our acquisition of NDI. Acquisitions
+involve numerous risks, including:
+
+     -    difficulties in integrating operations, products and corporate
+          cultures;
+     -    difficulties in completing the development of acquired technologies;
+     -    difficulties in managing different geographic units;
+     -    entering markets or businesses in which we have limited experience;
+          and
+     -    the loss of key employees of the acquired businesses.
+
+Moreover, any delay or failure to integrate an acquired company, technology or
+product line could result in the additional expenditure of money and in
+increased demands on our management's time. These expenditures and demands could
+have a material adverse effect on our business, financial condition and results
+of operations. Acquisitions may involve expending significant funds and the
+issuance of additional securities, which may be dilutive to stockholders.
+
+ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk represents the risk of changes in the value of short-term
+investments and financial instruments caused by fluctuations in investment
+prices and interest rates.
+
+INVESTMENT PRICE RISK
+The fair value of the Company's short-term investment portfolio at April 1,
+2001, approximated carrying value due to its short-term duration. Market risk,
+estimated as the potential decrease in fair value resulting from a hypothetical
+10% decrease in interest rates for the issues contained in the investment
+portfolio, is not considered to be material because of the short-term nature of
+the investments.
+
+INTEREST RATE RISK
+The carrying value of the Company's long-term debt, including current
+maturities, was $235,000 at April 1, 2001. Due to the nature of the debt
+instruments, management has determined that the fair value was not materially
+different from the year-end carrying value.
+
+
+                                       20
+<PAGE>   21
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+ITEM 8 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+INDEX TO FINANCIAL STATEMENTS
+
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                                         Page
+<S>                                                                                                   <C>
+Consolidated Balance Sheets - April 1, 2001 and April 2, 2000...........................................  22
+
+Consolidated Statements of Operations - Years ended April 1, 2001,
+April 2, 2000 and March 28, 1999........................................................................  23
+
+Consolidated Statements of Cash Flows - Years ended April 1, 2001,
+April 2, 2000 and March 28, 1999........................................................................  24
+
+Consolidated Statements of Stockholders' Equity - Years ended April 1, 2001,
+April 2, 2000 and March 28, 1999........................................................................  25
+
+Notes to Consolidated Financial Statements..............................................................  26
+
+Independent Auditors' Report............................................................................  43
+</TABLE>
+--------------------------------------------------------------------------------
+
+
+                                       21
+<PAGE>   22
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                             APRIL 1, 2001     APRIL 2, 2000
+------------------------------------------------------------------------------------------------------------
+<S>                                                                          <C>               <C>
+ASSETS
+      Current assets
+         Cash and cash equivalents ...................................          $ 68,802          $ 21,620
+         Short-term investments ......................................            84,982           124,990
+         Accounts receivable, trade, less allowance
+             for doubtful accounts of $921 and $796 ..................            36,984            33,844
+         Inventories (Note 3) ........................................            15,661            11,916
+         Prepayments and other current assets ........................             3,169             2,583
+         Prepaid income taxes ........................................               735             1,191
+         Deferred income taxes .......................................             9,668             7,261
+                                                                                --------          --------
+                  Total current assets ...............................           220,001           203,405
+                                                                                --------          --------
+      Property, plant and equipment
+         Land, building and improvements .............................            50,328            32,456
+         Machinery and equipment .....................................           142,115           110,106
+                                                                                --------          --------
+                                                                                 192,443           142,562
+         Less-accumulated depreciation and amortization ..............            78,247            67,042
+                                                                                --------          --------
+                                                                                 114,196            75,520
+                                                                                --------          --------
+      Other assets ...................................................             2,822             2,099
+                                                                                --------          --------
+                  Total assets .......................................          $337,019          $281,024
+                                                                                ========          ========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+      Current liabilities
+         Current maturities of long-term debt (Note 4) ...............          $    129          $  3,011
+         Accounts payable ............................................            20,820            20,537
+         Accrued liabilities
+             Payroll and related expenses ............................             7,283             6,975
+             Other ...................................................             3,481             2,525
+                                                                                --------          --------
+                  Total current liabilities ..........................            31,713            33,048
+                                                                                --------          --------
+      Long-term debt (Note 4) ........................................               235               345
+      Other long-term liabilities ....................................             2,081             2,237
+      Deferred income taxes ..........................................             3,812             3,301
+                                                                                --------          --------
+                  Total liabilities ..................................            37,841            38,931
+                                                                                --------          --------
+
+      Commitments and contingencies (Note 8)
+      Stockholders' equity (Notes 4 and 6)
+         Common stock par value $0.25 per share; authorized
+             100,000,000 shares; issued 43,520,880 and 42,576,518.....            10,880            10,644
+         Additional paid-in capital ..................................           221,147           197,711
+         Retained earnings ...........................................            67,179            33,806
+                                                                                --------          --------
+                                                                                 299,206           242,161
+         Less - Treasury shares 26,539 and 64,786 at cost ............                28                68
+                                                                                --------          --------
+                  Total stockholders' equity .........................           299,178           242,093
+                                                                                --------          --------
+                  Total liabilities and stockholders' equity .........          $337,019          $281,024
+                                                                                ========          ========
+
+------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+                                       22
+<PAGE>   23
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+
+
+<TABLE>
+<CAPTION>
+                                                                              YEARS ENDED
+                                                             APRIL 1,            APRIL 2,           MARCH 28,
+                                                               2001                2000                1999
+--------------------------------------------------------------------------------------------------------------
+
+<S>                                                         <C>                 <C>                 <C>
+Sales ............................................          $ 271,568           $ 186,402           $ 126,413
+                                                            ---------           ---------           ---------
+
+Cost of sales ....................................            151,632             105,566              71,280
+Research and development expenses ................             36,026              25,336              15,947
+Selling and administrative expenses ..............             43,250              34,107              23,727
+                                                            ---------           ---------           ---------
+            Total operating expenses .............            230,908             165,009             110,954
+                                                            ---------           ---------           ---------
+Operating income .................................             40,660              21,393              15,459
+Other income (expense)
+    Interest expense .............................                (56)               (223)               (267)
+    Interest income ..............................              8,733               6,685               1,552
+    Other expense, net ...........................                (67)               (608)                (42)
+                                                            ---------           ---------           ---------
+            Total other income, net ..............              8,610               5,854               1,243
+                                                            ---------           ---------           ---------
+Income before income taxes .......................             49,270              27,247              16,702
+Provision (benefit) for income taxes (Note 5).....             15,897               9,265              (2,561)
+                                                            ---------           ---------           ---------
+Net income .......................................          $  33,373           $  17,982           $  19,263
+                                                            =========           =========           =========
+
+Basic earnings per share .........................          $    0.78           $    0.44           $    0.56
+                                                            =========           =========           =========
+Diluted earnings per share .......................          $    0.75           $    0.42           $    0.54
+                                                            =========           =========           =========
+
+Shares used in computing:
+Basic earnings per share .........................             43,029              40,659              34,314
+                                                            =========           =========           =========
+Diluted earnings per share .......................             44,752              42,822              35,406
+                                                            =========           =========           =========
+
+--------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+                                       23
+<PAGE>   24
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+<TABLE>
+<CAPTION>
+                                                                                                       YEARS ENDED
+                                                                                      APRIL 1,          APRIL 2,           MARCH 28,
+                                                                                        2001              2000               1999
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                 <C>                <C>                <C>
+CASH PROVIDED BY OPERATIONS:
+      Net income ..........................................................         $  33,373          $  17,982          $  19,263
+      Adjustments to reconcile net income to net cash provided
+             by operations:
+         Depreciation and amortization of property, plant and equipment:...            16,010             10,681              8,257
+         Deferred income taxes ............................................            (1,896)               658             (4,618)
+         Amortization of unearned compensation - restricted stock .........                --                 14                 90
+         Gain on sales of property, plant and equipment ...................               (61)                --                 --
+         Loss on sales and retirements of property, plant and equipment ...                 3                544                 12
+         (Increase) decrease in other assets ..............................              (723)              (605)               469
+         Increase (decrease) in other long-term liabilities ...............              (156)               573               (706)
+         Issuance of treasury stock to 401(k) plan ........................             1,512              1,120                960
+         Changes in operating assets and liabilities:
+             Accounts receivable ..........................................            (3,140)           (10,791)            (4,553)
+             Inventories ..................................................            (3,745)            (3,117)              (858)
+             Prepayments and other current assets .........................              (130)            (2,853)                (6)
+             Accounts payable .............................................               283              9,321              5,491
+             Accrued liabilities ..........................................            16,263              9,902               (196)
+                                                                                    ---------          ---------          ---------
+         Net cash provided by operations ..................................            57,593             33,429             23,605
+                                                                                    ---------          ---------          ---------
+CASH USED IN INVESTING:
+      Additions to property, plant and equipment excluding capital leases .           (54,748)           (39,660)           (20,793)
+      Purchases of short-term investments .................................          (134,813)          (226,242)           (24,167)
+      Maturities of short-term investments ................................           174,821            117,523             18,195
+      Proceeds from sale of property, plant and equipment .................               120                 60                 34
+                                                                                    ---------          ---------          ---------
+         Net cash used in investing .......................................           (14,620)          (148,319)           (26,731)
+                                                                                    ---------          ---------          ---------
+CASH PROVIDED BY FINANCING:
+      Payments on notes payable ...........................................               (92)            (1,169)            (1,876)
+      (Payments on) proceeds from line of credit ..........................            (2,900)             2,900                 --
+      Payments on capital lease obligations ...............................                --                 --                 (8)
+      Deferred charges related to long-term debt ..........................                --                 28                 16
+      Exercise of stock options ...........................................             6,579              3,393              1,724
+      Proceeds from sale of stock .........................................               622            116,196                225
+                                                                                    ---------          ---------          ---------
+         Net cash provided by financing ...................................             4,209            121,348                 81
+                                                                                    ---------          ---------          ---------
+      Net increase (decrease) in cash and cash equivalents ................            47,182              6,458             (3,045)
+      Cash and cash equivalents, beginning of year ........................            21,620             15,162             18,207
+                                                                                    ---------          ---------          ---------
+      Cash and cash equivalents, end of year ..............................         $  68,802          $  21,620          $  15,162
+                                                                                    =========          =========          =========
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Supplemental disclosure of non-cash operating activities:
+      Tax benefit from the exercise of stock options ......................         $  14,840          $   7,027          $     703
+                                                                                    =========          =========          =========
+      Compensation expense ................................................         $     159          $   2,109          $      --
+                                                                                    =========          =========          =========
+
+Supplemental cash flow disclosures:
+      Cash paid for income taxes ..........................................         $   2,380          $   3,300          $     915
+                                                                                    =========          =========          =========
+      Cash paid for interest ..............................................         $     119          $     191          $     265
+                                                                                    =========          =========          =========
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+                                       24
+<PAGE>   25
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(In thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                            RETAINED                      UNEARNED
+                                                                            ADDITIONAL      EARNINGS                    COMPENSATION
+                                                    COMMON STOCK             PAID-IN      (ACCUMULATED     TREASURY      RESTRICTED
+                                                SHARES       PAR VALUE       CAPITAL        DEFICIT)        STOCK          STOCK
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>            <C>            <C>            <C>            <C>            <C>
+Balance, March 29, 1998 as previously
+reported ................................        31,635      $   7,908      $  51,486      $  (3,214)     $    (315)     $     (43)
+  Adjustment for pooling of interests ...         2,665            666         21,614           (225)            --             --
+                                              ---------      ---------      ---------      ---------      ---------      ---------
+Balance, March 29, 1998 as restated .....        34,300          8,574         73,100         (3,439)          (315)           (43)
+
+Net income ..............................            --             --             --         19,263             --             --
+Employee Stock Purchase Plan ............            52             13            212             --             --             --
+Issuance of restricted stock ............            12              3             58             --             --            (61)
+Amortization of unearned compensation
+  restricted stock ......................            --             --             --             --             --             90
+Issuance of 175,828 treasury shares
+  to 401(k) plan ........................            --             --            778             --            182             --
+Exercise of stock options ...............           404            102          1,622             --             --             --
+Tax benefit from the exercise of
+  stock options .........................            --             --            703             --             --             --
+                                              ---------      ---------      ---------      ---------      ---------      ---------
+Balance at March 28, 1999 ...............        34,768          8,692         76,473         15,824           (133)           (14)
+
+Net income ..............................            --             --             --         17,982             --             --
+Employee Stock Purchase Plan ............            21              5            283             --             --             --
+Amortization of unearned compensation
+  restricted stock ......................            --             --             --             --             --             14
+Issuance of 59,972 treasury shares to
+  401(k) plan ...........................            --             --          1,055             --             65             --
+Exercise of stock options ...............         1,159            290          3,103             --             --             --
+Tax benefit from the exercise of
+  stock options .........................            --             --          7,027             --             --             --
+Compensation expense ....................            --             --          2,109             --             --             --
+Proceeds from stock offering ............         6,629          1,657        107,661             --             --             --
+                                              ---------      ---------      ---------      ---------      ---------      ---------
+Balance at April 2, 2000 ................        42,577         10,644        197,711         33,806            (68)            --
+
+Net income ..............................            --             --             --         33,373             --             --
+Employee Stock Purchase Plan ............            21              5            617             --             --             --
+Issuance of 38,247 treasury shares to
+  401(k) plan ...........................            --             --          1,472             --             40             --
+Exercise of stock options ...............           923            231          6,348             --             --             --
+Tax benefit from the exercise of stock
+  options ...............................            --             --         14,840             --             --             --
+Compensation expense ....................            --             --            159             --             --             --
+                                              ---------      ---------      ---------      ---------      ---------      ---------
+Balance at April 1, 2001 ................        43,521      $  10,880      $ 221,147      $  67,179      $     (28)     $      --
+                                              =========      =========      =========      =========      =========      =========
+
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+                                       25
+<PAGE>   26
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Principles of Consolidation:
+     The financial statements include the accounts of the Company and its
+     subsidiaries. All significant intercompany accounts and transactions have
+     been eliminated in consolidation.
+
+Fiscal Year:
+     The Company's fiscal year ends on the Sunday closest to March 31. There
+     were 52 weeks in fiscal 2001 and 1999. There were 53 weeks in fiscal 2000.
+
+Use of Estimates:
+     The preparation of consolidated financial statements in conformity with
+     generally accepted accounting principles requires management to make
+     estimates and assumptions that affect the reported amounts of assets and
+     liabilities and disclosure of contingent assets and liabilities at the date
+     of the financial statements and the reported amounts of revenues and
+     expenses. Actual results could differ from those estimates.
+
+Revenue Recognition:
+     Revenue from product sales is recorded when the product is shipped, when
+     persuasive evidence of an arrangement exists, when the price to the buyer
+     is fixed or determinable, and collectibility of the sales price is
+     reasonably assured. Provisions for product returns and allowances are
+     recorded in the same period as the related revenue.
+
+Foreign Currency Translation:
+     The accounts of foreign subsidiaries are translated in accordance with
+     Statement of Financial Accounting Standards ("SFAS") No. 52. Foreign
+     operations are remeasured as if the functional currency were the U.S.
+     dollar. Monetary assets and liabilities are translated at the year end
+     rates of exchange. Revenues and expenses (except cost of sales and
+     depreciation) are translated at the average rate for the period.
+     Non-monetary assets, equity, cost of sales and depreciation are remeasured
+     at historical rates. Remeasurement gains and losses are reflected currently
+     in operations and are not material.
+
+Research and Development Expenditures:
+     Research and development expenditures are charged to income as incurred.
+
+Cash, Cash Equivalents and Short-Term Investments
+     Cash and cash equivalents include cash deposited in demand deposits at
+     banks and highly liquid investments with original maturities of 90 days or
+     less.
+
+     The Company's short-term investments are classified as held-to-maturity.
+     These investments consist primarily of commercial paper and securities
+     issued by various federal agencies and corporations with original
+     maturities of more than 90 days. Such short-term investments are carried at
+     amortized cost, which approximates fair value, due to the short period of
+     time to maturity. Gains and losses are included in investment income in the
+     period they are realized.
+
+Inventories:
+     Inventories are stated at the lower of cost, determined on a first-in,
+     first-out basis, or market.
+
+
+                                       26
+<PAGE>   27
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+Property, Plant and Equipment:
+     Property, plant and equipment are carried at cost. Depreciation is
+     calculated using the straight-line method for financial reporting and
+     accelerated methods for tax purposes.
+
+     Estimated useful lives used for depreciation purposes are 5 to 30 years for
+     buildings and improvements and 3 to 10 years for machinery and equipment.
+
+     During fiscal 2001 and 2000, the Company removed $4.4 million and $6.0
+     million, respectively, of fully depreciated fixed assets from the related
+     property, plant and equipment and accumulated depreciation accounts.
+
+Fair Value of Financial Instruments:
+     Financial instruments of the Company consist of cash, cash equivalents,
+     accounts receivable, accounts payable and accrued liabilities. The carrying
+     value of these financial instruments approximates their fair value because
+     of the short maturity of these instruments. Based upon borrowing rates
+     currently available to the Company for issuance of similar debt with
+     similar terms and remaining maturities, the estimated fair value of
+     long-term debt approximates its carrying amount. The Company does not
+     currently use derivative instruments.
+
+Income Taxes:
+     The Company uses the asset and liability method of accounting for income
+     taxes. Under the asset and liability method, deferred tax assets and
+     liabilities are recognized for the estimated future tax consequences
+     attributable to differences between the financial statement carrying
+     amounts of existing assets and liabilities and their respective tax bases.
+     This method also requires the recognition of future tax benefits such as
+     net operating loss carryforwards, to the extent that realization of such
+     benefits is more likely than not. Deferred tax assets and liabilities are
+     measured using enacted tax rates expected to apply to taxable income in the
+     years in which those temporary differences are expected to be recovered or
+     settled. The effect on deferred tax assets and liabilities of a change in
+     tax rates is recognized in income in the period that includes the enactment
+     date.
+
+Earnings Per Share:
+     Basic earnings per share is calculated by dividing net income by the
+     weighted average number of common shares outstanding. Diluted earnings per
+     share includes the dilutive effect of stock options, if their effect is
+     dilutive, using the treasury stock method.
+
+     A reconciliation of the weighted average number of shares outstanding used
+     in the computation of the basic and diluted earnings per share for each of
+     the following years is as follows:
+
+<TABLE>
+<CAPTION>
+                                                             YEARS ENDED
+                                               -----------------------------------------
+                                               APRIL 1,        APRIL 2,        MARCH 28,
+                                                 2001            2000            1999
+                                               --------        --------        ---------
+                                                            (in thousands)
+<S>                                            <C>             <C>             <C>
+Weighted average shares (basic) ......          43,029          40,659          34,314
+Effect of dilutive stock options .....           1,723           2,163           1,092
+                                                ------          ------          ------
+Weighted average shares (diluted).....          44,752          42,822          35,406
+                                                ======          ======          ======
+</TABLE>
+
+
+                                       27
+<PAGE>   28
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+     At April 1, 2001, April 2, 2000 and March 28, 1999, options to purchase
+     approximately 2.5 million, 7,000 and 3,000 shares, respectively, were
+     outstanding but not included in the computation of diluted earnings per
+     share because the exercise prices of the options were greater than the
+     average market prices of the Company's common stock during those periods.
+
+Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed of:
+     The Company accounts for impairment of long-lived assets in accordance with
+     SFAS No. 121, "Accounting for the Impairment of Long-Lived Assets and for
+     Long-Lived Assets to be Disposed of." This statement requires that
+     long-lived assets and certain identifiable intangibles be reviewed for
+     impairment whenever events or changes in circumstances indicate that the
+     carrying amount of an asset may not be recoverable. Recoverability of
+     assets to be held and used is measured by a comparison of the carrying
+     amount of an asset to undiscounted future net cash flows expected to be
+     generated by the asset. If such assets are considered to be impaired, the
+     impairment to be recognized is measured by the amount by which the carrying
+     amount of the assets exceeds the fair value of the assets. Assets to be
+     disposed of are reported at the lower of the carrying amount or fair value
+     less costs to sell. This Statement has not had a material impact on the
+     Company's financial position, results of operations, or liquidity.
+
+Stock Option Plans:
+     The Company accounts for its stock-based compensation under the provisions
+     of Accounting Principles Board Opinion No. 25, "Accounting for Stock Issued
+     to Employees" and related interpretations and provides disclosure related
+     to its stock-based compensation under the provisions of SFAS No. 123,
+     "Accounting for Stock-Based Compensation."
+
+Comprehensive Income:
+     During fiscal 1999, the Company adopted the provisions of SFAS No. 130,
+     "Reporting Comprehensive Income." SFAS No. 130 is a financial statement
+     presentation standard, which requires the Company to disclose non-owner
+     changes included in equity but not included in net income or loss. There
+     were no differences between net income and comprehensive income for fiscal
+     2001, 2000 and 1999.
+
+Recent Accounting Pronouncements:
+     On April 1, 2001, the Company adopted SFAS No. 133, "Accounting for
+     Derivative Instruments and Hedging Instruments" and SFAS No. 138,
+     "Accounting for Certain Derivative Instruments and Certain Hedging
+     Activities," an amendment to SFAS No. 133. The adoption of these standards
+     had no material effect on our consolidated financial position, results of
+     operations or cash flow.
+
+
+                                       28
+<PAGE>   29
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 2 ACQUISITION OF NETWORK DEVICE, INC.
+
+On April 24, 2000, the Company completed its acquisition of privately-held
+Network Device, Inc. ("NDI") based in Sunnyvale, California. Approximately 2.67
+million shares of common stock of the Company were exchanged for all outstanding
+shares of NDI. Approximately 185,000 shares of Company stock were reserved for
+the conversion of NDI stock options into Company options.
+
+The acquisition has been accounted for as a pooling-of-interests and
+accordingly, all prior period consolidated financial statements and related
+notes to the consolidated financial statements have been restated to include the
+combined results of operations, financial position and cash flows of NDI.
+
+Prior to the merger, NDI's fiscal year ended on September 30. In recording the
+business combination, NDI's prior period financial statements have been restated
+to conform with the Company's year end.
+
+The following information presents certain income statement data of the separate
+companies for the prior periods reflected:
+
+<TABLE>
+<CAPTION>
+                                                    YEARS ENDED
+                                            -----------------------------
+                                            APRIL 2,            MARCH 28,
+                                              2000                 1999
+                                            --------            ---------
+                                                   (in thousands)
+<S>                                         <C>                 <C>
+Net sales:
+     Alpha Industries, Inc. ......          $ 184,705           $ 126,339
+     Network Device, Inc. ........              2,642                  74
+     Adjustments/ Eliminations....               (945)                 --
+                                            ---------           ---------
+                                            $ 186,402           $ 126,413
+                                            =========           =========
+Net income (loss):
+     Alpha Industries, Inc. ......          $  24,380           $  21,490
+     Network Device, Inc. ........             (9,299)             (3,515)
+     Adjustments/Eliminations ....              2,901               1,288
+                                            ---------           ---------
+                                            $  17,982           $  19,263
+                                            =========           =========
+</TABLE>
+
+The effects of conforming NDI's accounting policies to those of the Company were
+not material.
+
+NOTE 3 INVENTORIES
+
+<TABLE>
+<CAPTION>
+                                             APRIL 1,        APRIL 2,
+Inventories consisted of the following:        2001            2000
+                                             --------        --------
+                                                   (in thousands)
+
+<S>                                          <C>              <C>
+Raw materials .....................          $ 5,187          $ 3,473
+Work-in-process....................            7,868            7,397
+Finished goods.....................            2,606            1,046
+                                             -------          -------
+                                             $15,661          $11,916
+                                             =======          =======
+</TABLE>
+
+
+                                       29
+<PAGE>   30
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 4 BORROWING ARRANGEMENTS AND COMMITMENTS
+
+LINES OF CREDIT
+
+In November 1999, the Company entered into a $10.0 million unsecured Revolving
+Credit Agreement that was scheduled to expire on October 31, 2000. In November
+2000, the Company extended the agreement through November 15, 2002. The
+agreement includes various covenants that require maintenance of certain
+financial ratios and balances and restrict creation of funded debt and payment
+of dividends. There were no borrowings under this Agreement at April 1, 2001.
+
+LONG-TERM DEBT
+
+<TABLE>
+<CAPTION>
+                                                APRIL 1,       APRIL 2,
+Long-term debt consisted of the following:        2001           2000
+                                                --------       --------
+                                                    (in thousands)
+<S>                                             <C>            <C>
+Line of credit (a) ...................          $   --          $2,900
+CDBG Grant (b) .......................             364             456
+                                                ------          ------
+                                                   364           3,356
+    Less - current maturities.........             129           3,011
+                                                ------          ------
+                                                $  235          $  345
+                                                ======          ======
+</TABLE>
+
+     a)   Network Device, Inc. had a $3.0 million line of credit at April 2,
+          2000 with a maturity date of May 31, 2000. Borrowings under this
+          agreement totaled $2.9 million at April 2, 2000. The line of credit
+          was paid in full during the first quarter of fiscal 2001.
+
+     b)   The Company obtained a ten-year $960,000 loan from the State of
+          Maryland under the Community Development Block Grant program.
+          Quarterly payments are due through December 2003 and represent
+          principal plus interest at 5% of the unamortized balance.
+
+Aggregate annual maturities of long-term debt are as follows:
+
+<TABLE>
+<CAPTION>
+          FISCAL YEAR
+                                        (in thousands)
+     <S>                                     <C>
+          2002.....................          $129
+          2003.....................           136
+          2004.....................            99
+                                             ----
+                                             $364
+                                             ====
+</TABLE>
+
+
+                                       30
+<PAGE>   31
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 5 INCOME TAXES
+
+Income before income taxes consisted of:
+
+<TABLE>
+<CAPTION>
+                                                YEARS ENDED
+                                 ------------------------------------------
+                                 APRIL 1,         APRIL 2,        MARCH 28,
+                                   2001             2000             1999
+                                 --------         --------        ---------
+                                              (in thousands)
+<S>                              <C>              <C>             <C>
+     Domestic..........          $49,270          $26,929          $15,920
+     Foreign ..........               --              318              782
+                                 -------          -------          -------
+     Total ............          $49,270          $27,247          $16,702
+                                 =======          =======          =======
+</TABLE>
+
+The income tax provision (benefit) consisted of the following:
+
+<TABLE>
+<CAPTION>
+     FISCAL 2001                CURRENT          DEFERRED           TOTAL
+     -----------                -------          --------           -----
+                                             (in thousands)
+<S>                             <C>              <C>               <C>
+     Federal..........          $16,921          $(1,757)          $15,164
+     State ...........              872             (139)              733
+                                -------          -------           -------
+     Total ...........          $17,793          $(1,896)          $15,897
+                                =======          =======           =======
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+     FISCAL 2000                CURRENT        DEFERRED           TOTAL
+     -----------                -------        --------           -----
+                                            (in thousands)
+<S>                             <C>             <C>              <C>
+     Federal..........          $8,202          $  760           $8,962
+     State ...........             305            (101)             204
+     Foreign..........              99              --               99
+                                ------          ------           ------
+     Total ...........          $8,606          $  659           $9,265
+                                ======          ======           ======
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+     FISCAL 1999                CURRENT          DEFERRED           TOTAL
+     -----------                -------          --------           -----
+                                             (in thousands)
+<S>                             <C>              <C>               <C>
+     Federal..........          $   447          $(3,826)          $(3,379)
+     State ...........              670              (97)              573
+     Foreign..........              245               --               245
+                                -------          -------           -------
+     Total ...........          $ 1,362          $(3,923)          $(2,561)
+                                =======          =======           =======
+</TABLE>
+
+
+                                       31
+<PAGE>   32
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 5 INCOME TAXES (CONTINUED)
+
+Income tax expense (benefit) for income taxes is different from that which would
+be obtained by applying the statutory federal income tax rate of 35% to pretax
+income as a result of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                    YEARS ENDED
+                                                                    -----------------------------------------------
+                                                                    APRIL 1,           APRIL 2,           MARCH 28,
+                                                                      2001               2000                1999
+                                                                    --------           --------           ---------
+                                                                                     (in thousands)
+<S>                                                                 <C>                <C>                <C>
+Tax expense at U.S. statutory rate .......................          $ 17,245           $  9,536           $  5,846
+Loss on foreign investment ...............................              (560)                --                 --
+Foreign sales corporation ................................              (600)              (416)                --
+Foreign tax rate difference ..............................                --                (12)               (29)
+Nondeductible transaction expenses .......................               625                 --                 --
+Utilization of research and development credit ...........            (1,883)                --                 --
+State income taxes, net of federal benefit ...............               477                133                372
+Change in valuation allowance ............................             1,011                 40             (9,298)
+Net U.S. tax on distribution of foreign earnings..........                --                216                 --
+Other, net ...............................................              (418)              (232)               548
+                                                                    --------           --------           --------
+Total ....................................................          $ 15,897           $  9,265           $ (2,561)
+                                                                    ========           ========           ========
+</TABLE>
+
+Total income tax expense (benefit) was allocated as follows:
+
+
+                                                           YEAR ENDED
+                                                 -------------------------------
+                                                 APRIL 1,   APRIL 2,   MARCH 28,
+                                                   2001       2000       1999
+                                                 --------   --------   ---------
+                                                         (in thousands)
+Income from continuing operations .............  $ 15,897   $ 9,265     $2,561
+Stockholders equity, for compensation expense
+  for tax purposes in excess of amounts
+  recognized for financial reporting
+  purposes ....................................   (14,840)   (7,027)      (703)
+                                                 --------   -------     ------
+Total .........................................  $  1,057   $ 2,238     $3,264
+                                                 ========   =======     ======
+
+
+                                       32
+<PAGE>   33
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 5 INCOME TAXES (CONTINUED)
+
+The tax effects of temporary differences that give rise to significant portions
+of the deferred tax assets and deferred tax liabilities are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                                     APRIL 1,          APRIL 2,
+                                                                                                       2001              2000
+                                                                                                     --------          --------
+                                                                                                           (in thousands)
+<S>                                                                                                 <C>                <C>
+Deferred tax assets:
+  Accounts receivable due to bad debts ...................................................          $    340           $    234
+  Inventories due to reserves and inventory capitalization ...............................             2,786                981
+  Accrued liabilities ....................................................................             2,101                965
+  Deferred compensation ..................................................................               889                777
+  Federal net operating loss carryforwards ...............................................             2,883              4,463
+  Minimum tax credit, state tax credit and state tax net operating loss carryforwards.....             4,825              1,819
+                                                                                                    --------           --------
+    Total gross deferred tax assets ......................................................            13,824              9,239
+    Less valuation allowance .............................................................            (1,881)              (870)
+                                                                                                    --------           --------
+    Net deferred tax assets ..............................................................            11,943              8,369
+                                                                                                    --------           --------
+Deferred tax liabilities:
+  Property, plant and equipment due to depreciation ......................................            (5,871)            (4,193)
+  Net U.S. tax on distribution of foreign earnings .......................................              (216)              (216)
+                                                                                                    --------           --------
+    Total gross deferred tax liability ...................................................            (6,087)            (4,409)
+                                                                                                    --------           --------
+Net deferred tax assets ..................................................................          $  5,856           $  3,960
+                                                                                                    ========           ========
+</TABLE>
+
+Deferred income taxes are presented in the accompanying consolidated balance
+sheets as follows:
+
+<TABLE>
+<CAPTION>
+                                                  APRIL 1,        APRIL 2,
+                                                    2001            2000
+                                                  --------        --------
+                                                       (in thousands)
+<S>                                               <C>             <C>
+Current deferred tax assets .............          $9,668          $7,261
+Non-current deferred tax liabilities.....           3,812           3,301
+                                                   ------          ------
+    Net deferred tax assets .............          $5,856          $3,960
+                                                   ======          ======
+</TABLE>
+
+The valuation allowance for deferred tax assets as of April 1, 2001 and April 2,
+2000 was $1.9 million and $870,000, respectively. The net change in the total
+valuation allowance for the years ended April 1, 2001 and April 2, 2000 was an
+increase of $1.0 million and $40,000, respectively. The increase in the
+valuation allowance during fiscal 2001 reflects the estimated amount of deferred
+tax asset which may not be realized due to the expiration of state net operating
+loss carryforwards. As of April 1, 2001, the Company has available for income
+tax purposes approximately $8.2 million in federal net operating loss
+carryforwards (NOLs). The NOLs relate to operating losses of NDI, which was
+acquired on April 24, 2000. These losses are subject to an annual limitation and
+begin to expire in fiscal year 2019. In addition, the Company has minimum
+federal and state tax credit carryforwards of approximately $699,000 and
+$870,000 respectively, that are available to reduce future federal and state
+regular income taxes over an indefinite period. The Company also has research
+and development credits of approximately $1.9 million that will begin to expire
+in fiscal year 2012.
+
+
+                                       33
+<PAGE>   34
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6 COMMON STOCK
+
+COMMON STOCK SPLIT
+
+On January 27, 2000, the Board of Directors approved a two-for-one split of the
+Company's common stock, subject to stockholder approval of an increase in the
+Company's authorized shares from 30 million to 100 million. On March 28, 2000,
+the increase in authorized shares was approved at a Special Meeting of
+Stockholders. The two-for-one split was effected in the form of a stock dividend
+paid on April 19, 2000 to shareholders of record as of March 29, 2000. All
+agreements concerning stock options and other commitments payable in shares of
+the Company's common stock provide for the issuance of additional shares due to
+the declaration of the stock split. An amount equal to the par value of the
+common shares issued was transferred from additional paid-in capital to the
+common stock account. All share and per share data in these consolidated
+financial statements and related footnotes has been restated to reflect the
+stock split on a retroactive basis for all periods presented.
+
+LONG-TERM INCENTIVE PLANS
+
+The Company adopted a long-term incentive plan in 1999 pursuant to which
+non-qualified stock options may be granted. The Company also adopted a long-term
+incentive plan in 1996 pursuant to which stock options, with or without stock
+appreciation rights, may be granted and restricted stock awards and book value
+awards may be made.
+
+     Common Stock Options
+     These options may be granted in the form of incentive stock options or
+     non-qualified stock options. The option price may vary but shall not be
+     less than the greater of fair market value or par value. The option term
+     may not exceed ten years. The options may be exercised in cumulative annual
+     increments commencing one year after the date of grant. A total of
+     13,314,250 shares are authorized for grant under the Company's long-term
+     incentive plans. The number of common shares reserved for granting of
+     future awards was 3,076,551 at April 1, 2001.
+
+     Restricted Stock Awards
+     No restricted shares of the Company's common stock were issued during
+     fiscal 2001 and 2000. During fiscal 1999, a total of 12,132 restricted
+     shares of the Company's common stock were granted to certain employees. The
+     market value of these shares was $61,000 and the vesting period was one
+     year. This amount was recorded as unearned compensation - restricted stock
+     and is shown as a separate component of stockholders' equity. Unearned
+     compensation was amortized to expense over the vesting period. Unearned
+     compensation - restricted stock was fully amortized at April 2, 2000.
+     Unearned compensation expense amounted to $14,000 and $90,000 in fiscal
+     2000 and 1999, respectively.
+
+
+                                       34
+<PAGE>   35
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6 COMMON STOCK (CONTINUED)
+
+     A summary of stock option and restricted stock award transactions follows:
+
+<TABLE>
+<CAPTION>
+                                                                WEIGHTED AVERAGE
+                                                                EXERCISE PRICE OF
+                                                 SHARES         SHARES UNDER PLAN
+                                                 ------         -----------------
+
+<S>                                             <C>             <C>
+Balance outstanding at March 29, 1998.....      2,786,332           $ 2.83
+                                                ---------
+
+    Granted ..............................      1,047,184             4.03
+    Exercised ............................       (358,910)            2.53
+    Restricted ...........................        (32,008)              --
+    Cancelled ............................        (85,500)            3.26
+                                                ---------
+
+Balance outstanding at March 28, 1999.....      3,357,098             3.20
+                                                ---------
+
+    Granted ..............................      1,441,400            17.37
+    Exercised ............................     (1,075,106)            2.79
+    Restricted ...........................        (32,134)              --
+    Cancelled ............................       (168,620)            6.57
+                                                ---------
+
+Balance outstanding at April 2, 2000            3,522,638             8.99
+                                                ---------
+
+    Granted ..............................      2,403,497            37.57
+    Exercised ............................       (884,458)            6.88
+    Cancelled ............................       (274,604)           27.20
+                                                ---------
+
+ Balance outstanding at April 1, 2001.....      4,767,073           $22.75
+                                                =========
+</TABLE>
+
+Options exercisable at the end of each fiscal year:
+
+<TABLE>
+<CAPTION>
+                                                                                            WEIGHTED AVERAGE
+                                                                             SHARES          EXERCISE PRICE
+                                                                             ------         ----------------
+
+<S>                                                                         <C>             <C>
+2001...................................................................     794,275               $ 6.86
+2000...................................................................     858,346               $ 5.81
+1999...................................................................     830,638               $ 2.40
+</TABLE>
+
+
+                                       35
+<PAGE>   36
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6 COMMON STOCK (CONTINUED)
+
+The following table summarizes information concerning currently outstanding and
+exercisable options as of April 1, 2001:
+
+<TABLE>
+<CAPTION>
+                                           WEIGHTED
+                                            AVERAGE          WEIGHTED
+                                           REMAINING          AVERAGE                                WEIGHTED
+   RANGE OF                  NUMBER       CONTRACTUAL       OUTSTANDING              OPTIONS          AVERAGE
+EXERCISE PRICES            OUTSTANDING    LIFE (YEARS)      OPTION PRICE           EXERCISABLE     EXERCISE PRICE
+---------------            -----------    ------------      ------------           -----------     --------------
+<S>                        <C>            <C>               <C>                    <C>             <C>
+$ 0.92 - $10.00             1,649,052         6.72             $ 3.80                646,725           $ 3.54
+$10.01 - $20.00               672,090         8.21             $16.68                 96,210           $16.77
+$20.01 - $30.00               468,215         9.18             $27.86                 37,800           $26.41
+$30.01 - $40.00               834,466         9.40             $31.99                  7,500           $30.53
+$40.01 - $50.00             1,112,750         9.07             $44.47                  3,400           $44.44
+$50.01 - $60.00                21,400         9.05             $54.92                  1,040           $55.68
+$60.01 - $67.00                 9,100         8.96             $65.40                  1,600           $66.06
+                            ---------                                                -------
+                            4,767,073                                                794,275
+                            =========                                                =======
+</TABLE>
+
+The Company applies Accounting Principles Board Opinion No. 25, "Accounting for
+Stock Issued to Employees" and related interpretations in accounting for its
+stock option and employee stock purchase plans. Had compensation cost for the
+Company's stock option plans been determined based upon the fair value at the
+grant date for awards under these plans consistent with the methodology
+prescribed under SFAS No. 123, "Accounting for Stock-based Compensation," the
+Company's net income would have been as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                    YEARS ENDED
+                                                                    -----------------------------------------------
+                                                                   APRIL 1,           APRIL 2,           MARCH 28,
+                                                                     2001               2000                1999
+                                                                   --------           --------           ---------
+                                                                                  (in thousands)
+
+<S>                                                                <C>                <C>                <C>
+  Net income ................................ As reported          $33,373            $17,982            $ 19,263
+                                                                   =======            =======            ========
+                                              Pro forma            $25,958            $15,088            $ 18,181
+                                                                   =======            =======            ========
+
+  Net income per share diluted .............. As reported          $  0.75            $  0.42            $   0.54
+                                                                   =======            =======            ========
+                                              Pro forma            $  0.58            $  0.35            $   0.51
+                                                                   =======            =======            ========
+</TABLE>
+
+
+                                       36
+<PAGE>   37
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6 COMMON STOCK (CONTINUED)
+
+The effect of applying SFAS No. 123 as shown in the above pro forma disclosure
+is not representative of the pro forma effect on net income in future years
+because it does not take into consideration pro forma compensation expense
+related to grants made prior to fiscal year 1996.
+
+The fair value of each option grant was estimated on the grant date using the
+Black Scholes Option Pricing Model with the following weighted average
+assumptions:
+
+<TABLE>
+<CAPTION>
+                                           2001          2000          1999
+                                           ----          ----          ----
+
+<S>                                        <C>            <C>           <C>
+Expected volatility .............          125%           69%           85%
+Risk free interest rate .........            5%            6%            5%
+Dividend yield ..................           --            --            --
+Expected option life (years).....            3             3             4
+</TABLE>
+
+
+Weighted average fair value of options granted during the year:
+
+<TABLE>
+<S>                                    <C>
+2001.............................       $ 7.46
+2000.............................       $ 5.02
+1999.............................       $ 1.89
+</TABLE>
+
+STOCK OPTION PLANS FOR NON-EMPLOYEE DIRECTORS
+
+The Company has two stock option plans for non-employee directors -- the 1994
+Non-Qualified Stock Option Plan and the 1997 Non-Qualified Stock Option Plan.
+Under the two plans, a total of 450,000 shares have been authorized for option
+grants. The two plans have substantially similar terms and conditions and are
+structured to provide options to non-employee directors as follows: a new
+Director receives a total of 45,000 options upon becoming a member of the Board;
+and continuing Directors receive 15,000 options after each Annual Meeting of
+Shareholders. Under both of these plans the option price is the fair market
+value at the time the option is granted. Options granted during fiscal 2001
+become exercisable 25% per year beginning one year from the date of grant.
+Options granted prior to fiscal 2001 become exercisable at a rate of 20% per
+year beginning one year from the date of grant. During fiscal 2001, 45,000
+options were granted under these plans at a price of $36.50. During fiscal 2000,
+105,000 options were granted with 45,000 granted at a price of $16.36 and 60,000
+granted at a price of $27.28. During fiscal 1999, 60,000 shares were granted at
+a price $6.59. At April 1, 2001, a total of 441,000 options, net of
+cancellations, have been granted under these two plans. During fiscal 2001,
+39,000 options were exercised at a weighted average exercise price of $4.60. At
+April 1, 2001, 54,000 shares were exercisable.
+
+
+                                       37
+<PAGE>   38
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6 COMMON STOCK (CONTINUED)
+
+STOCK PURCHASE PLAN
+
+The Company maintains an employee stock purchase plan. Under the plan, eligible
+employees may purchase common stock through payroll deductions of up to 10% of
+compensation. The price per share is the lower of 85% of the market price at the
+beginning or end of each six-month offering period. The plan provides for
+purchases by employees of up to an aggregate of 900,000 shares through December
+31, 2001. Shares of 20,904, 21,086 and 51,506 were purchased under this plan in
+fiscal 2001, 2000 and 1999, respectively.
+
+NOTE 7 EMPLOYMENT BENEFIT PLAN
+
+The Company maintains a 401(k) plan covering substantially all of its employees.
+All of the Company's employees who are at least 21 years old are eligible to
+receive a Company contribution. Discretionary Company contributions are
+determined by the Board of Directors and may be in the form of cash or the
+Company's stock. The Company contributes a match of 100% of the first 1% and a
+50% match on the next 4% of an employee's salary for employees with 5 years or
+less of service. For employees with more than 5 years of service, the Company
+contributes a 100% match on the first 1% and a 75% match on the next 5% of an
+employee's salary. For fiscal 2001, 2000 and 1999, the Company contributed
+55,500, 39,374 and 161,336 shares, respectively, of the Company's common stock
+valued at $1.5 million, $1.2 million and $995,000, to fund the Company's
+obligation under the 401(k) plan.
+
+NOTE 8 COMMITMENTS AND CONTINGENCIES
+
+The Company has various operating leases primarily for computer equipment and
+buildings. Rent expense amounted to $1.4 million in fiscal 2001 and $1.7 million
+in fiscal 2000 and fiscal 1999, respectively. Purchase options may be exercised
+at various times for some of these leases. Future minimum payments under these
+leases are as follows:
+
+<TABLE>
+<CAPTION>
+     FISCAL YEAR                                                                (IN THOUSANDS)
+     -----------                                                                --------------
+<S>                                                                             <C>
+     2002  ...................................................................     $  1,788
+     2003  ...................................................................        1,437
+     2004  ...................................................................          926
+     2005  ...................................................................          843
+     2006  ...................................................................          758
+     Thereafter...............................................................        1,255
+                                                                                   --------
+                                                                                   $  7,007
+                                                                                   ========
+</TABLE>
+
+The Company has been notified by federal and state environmental agencies of its
+potential liability with respect to the Spectron, Inc. Superfund site in Elkton,
+Maryland. Several hundred other companies have also been notified about their
+potential liability regarding this site. The Company continues to deny that it
+has any responsibility with respect to this site other than as a de minimis
+party. Management is of the opinion that the outcome of this environmental
+matter will not have a material effect on the Company's operations or financial
+position.
+
+The Company is party to suits and claims arising in the normal course of
+business. Management believes these are adequately provided for or will result
+in no significant additional liability to the Company.
+
+
+                                       38
+<PAGE>   39
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 9 RELATED PARTY TRANSACTIONS
+
+The Company has had transactions in the normal course of business with various
+related parties. Scientific Components Corporation, a beneficial owner of the
+Company's common stock during fiscal 2000 and fiscal 1999, purchased
+approximately $7.4 million of products during fiscal 2000 and 1999,
+respectively. Scientific Components Corporation was not a beneficial owner of
+the Company's common stock during fiscal 2001.
+
+NOTE 10 SEGMENT INFORMATION
+
+The Company is engaged in the design and manufacture of discrete semiconductors,
+integrated circuits and electrical ceramic components for a wide range of
+applications in the wireless and broadband communications markets.
+
+The Company has adopted SFAS No. 131, "Disclosures About Segments of an
+Enterprise and Related Information." SFAS No. 131 establishes standards for the
+way public business enterprises report information about operating segments in
+annual financial statements and in interim reports to shareholders. The method
+for determining what information to report is based on the way that management
+organizes the segments within the Company for making operating decisions and
+assessing financial performance. In evaluating financial performance, management
+uses sales and operating profit as the measure of the segments' profit or loss.
+
+During the Company's second quarter ended October 1, 2000, the Company
+reorganized into two reportable segments based on management's methods of
+evaluating operations and performance. The new reportable segments are:
+Semiconductor Products and Ceramic Products. The Semiconductor Products segment
+is comprised of two of the Company's former segments: Wireless Semiconductor
+Products and Application Specific Products. A description of the reportable
+segments follows:
+
+Semiconductor Products:
+The Semiconductor Products segment designs and manufactures gallium arsenide
+integrated circuits, other discrete semiconductors and multi-chip modules
+primarily for the global wireless communications and broadband markets.
+
+Ceramic Products:
+The Ceramic Products segment designs and manufactures technical ceramic and
+magnetic products for the global wireless infrastructure and broadband markets.
+
+
+                                       39
+<PAGE>   40
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 10 SEGMENT INFORMATION (CONTINUED)
+
+The table below presents selected financial data by business segment for fiscal
+2001, 2000 and 1999. The accounting policies of the segments are the same as
+those described in the "Summary of Significant Accounting Policies."
+
+<TABLE>
+<CAPTION>
+                                                           YEARS ENDED
+                                          ---------------------------------------------
+                                          APRIL 1,          APRIL 2,          MARCH 28,
+                                            2001              2000              1999
+                                          --------          --------          ---------
+                                                         (in thousands)
+<S>                                       <C>               <C>               <C>
+     Sales
+     -----
+     Semiconductor Products.....          $224,560          $150,348          $100,873
+     Ceramic Products ..........            47,008            36,054            25,540
+                                          --------          --------          --------
+                                          $271,568          $186,402          $126,413
+                                          ========          ========          ========
+     Operating Income
+     ----------------
+     Semiconductor Products.....          $ 33,496          $ 16,761          $ 13,580
+     Ceramic Products ..........             7,164             4,632             1,879
+                                          --------          --------          --------
+                                          $ 40,660          $ 21,393          $ 15,459
+                                          ========          ========          ========
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                          APRIL 1,          APRIL 2,
+                                            2001              2000
+                                          --------          --------
+                                                (in thousands)
+<S>                                       <C>               <C>
+     Net Long-lived Assets
+     ---------------------
+     Semiconductor Products.....          $ 97,568          $ 62,459
+     Ceramic Products ..........            16,628            13,061
+                                          --------          --------
+                                          $114,196          $ 75,520
+                                          ========          ========
+     Total Assets
+     ------------
+     Semiconductor Products.....          $138,614          $108,443
+     Ceramic Products ..........            29,217            25,892
+     Corporate .................           169,188           146,689
+                                          --------          --------
+                                          $337,019          $281,024
+                                          ========          ========
+</TABLE>
+
+Customer Concentration:
+
+During fiscal year 2001, two customers accounted for 26% and 11%, respectively
+of the Company's total sales. In fiscal 2000 and 1999, one customer accounted
+for 34% and 28%, respectively, of the Company's total sales. In fiscal 2001,
+sales to the Company's 15 largest customers accounted for 69% of total sales. In
+fiscal 2000 and 1999, sales to these customers accounted for 65% and 64%,
+respectively.
+
+
+                                       40
+<PAGE>   41
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 10 SEGMENT INFORMATION (CONTINUED)
+
+Geographic Information
+
+Sales include export sales primarily to Europe and Asia of $133.7 million, $84.8
+million and $45.8 million, in fiscal 2001, 2000 and 1999, respectively. During
+fiscal 2001, the Company closed its sales subsidiary in the United Kingdom. This
+sales subsidiary was in operation during fiscal 2000 and 1999. The following
+table shows certain financial information relating to the Company's operations
+in various geographic areas:
+
+<TABLE>
+<CAPTION>
+                                                     YEARS ENDED
+                                   ------------------------------------------------
+                                   APRIL 1,            APRIL 2,           MARCH 28,
+                                     2001                2000               1999
+                                   --------            --------           ---------
+                                                    (in thousands)
+<S>                               <C>                 <C>                 <C>
+Sales
+  United States
+     Customers .........          $ 271,510           $ 180,576           $ 118,534
+     Intercompany ......                 18               4,698               6,497
+  Europe
+     Customers .........                 58               5,826               7,879
+  Eliminations .........                (18)             (4,698)             (6,497)
+                                  ---------           ---------           ---------
+Net sales ..............          $ 271,568           $ 186,402           $ 126,413
+                                  =========           =========           =========
+
+Income before taxes
+  United States.........          $  49,260           $  26,929           $  15,920
+  Europe ...............                 10                 318                 782
+                                  ---------           ---------           ---------
+Income before taxes ....          $  49,270           $  27,247           $  16,702
+                                  =========           =========           =========
+
+Assets
+  United States ........          $ 333,626           $ 276,540           $ 115,214
+  Europe ...............              3,393               4,484               5,469
+                                  ---------           ---------           ---------
+Total assets ...........          $ 337,019           $ 281,024           $ 120,683
+                                  =========           =========           =========
+</TABLE>
+
+Substantially all of the Company's long-lived assets were located in the United
+States as of April 1, 2001.
+
+
+                                       41
+<PAGE>   42
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 11 QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+(In thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                     FIRST         SECOND         THIRD        FOURTH
+                                    QUARTER        QUARTER       QUARTER       QUARTER           YEAR
+---------------------------------------------------------------------------------------------------------
+
+<S>                                 <C>            <C>           <C>           <C>             <C>
+FISCAL 2001
+  Sales .....................       $65,688        $73,201       $78,684       $53,995         $271,568
+  Gross profit ..............        29,538         33,747        36,358        20,293          119,936
+  Net income ................         7,841         10,567        11,580         3,385           33,373
+  Per share data (1)
+      Net income basic ......           .18            .25           .27           .08              .78
+      Net income diluted.....           .18            .24           .26           .08              .75
+  Market price range
+     High ...................        63.875         50.438        54.000        35.938           63.875
+     Low ....................        35.000         32.000        24.750        13.938           13.938
+
+FISCAL 2000
+  Sales .....................       $38,653        $41,921       $48,043       $57,785         $186,402
+  Gross profit ..............        16,997         18,035        20,955        24,849           80,836
+  Net income ................         3,319          4,313         5,451         4,899           17,982
+  Per share data
+      Net income basic ......           .09            .10           .13           .12              .44
+      Net income diluted.....           .09            .10           .12           .11              .42
+  Market price range
+     High ...................        23.125         28.906        33.125        74.734           74.734
+     Low ....................         8.938         21.500        23.875        27.016            8.938
+
+---------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The Company's common stock is traded on the NASDAQ National Market under the
+symbol AHAA. The number of stockholders of record as of May 31, 2001 was
+approximately 950.
+
+     (1)  Earnings per share calculations for each of the quarters are based on
+          the weighted average number of shares outstanding and included common
+          stock equivalents in each period. Therefore, the sums of the quarters
+          do not necessarily equal the full year earnings per share.
+
+
+                                       42
+<PAGE>   43
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors and Stockholders
+Alpha Industries, Inc.:
+
+We have audited the consolidated financial statements of Alpha Industries, Inc.
+and subsidiaries as listed in the accompanying index under Item 8. In connection
+with our audits of the consolidated financial statements, we have also audited
+the financial statement schedule as listed in the accompanying index under Item
+14. These consolidated financial statements and financial statement schedule are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these consolidated financial statements and financial statement
+schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Alpha Industries,
+Inc. and subsidiaries at April 1, 2001 and April 2, 2000, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended April 1, 2001 in conformity with accounting principles generally
+accepted in the United States of America. Also, in our opinion, the related
+financial statement schedule, when considered in relation to the basic
+consolidated financial statements taken as a whole, presents fairly, in all
+material respects, the information set forth therein.
+
+
+KPMG LLP
+Boston, Massachusetts
+May 1, 2001
+
+
+<PAGE>   44
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+ITEM 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+       DISCLOSURE
+
+None.
+
+                                    PART III
+
+ITEM 10 DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+See the section entitled "Election of Directors" appearing in the Company's
+Proxy Statement for the Annual Meeting of Stockholders to be held on September
+10, 2001, to be filed within 120 days of the end of the Company's fiscal year,
+which section is incorporated herein by reference, and the section entitled
+"Executive Officers" under Item 1 of this Annual Report on Form 10-K.
+
+ITEM 11 EXECUTIVE COMPENSATION
+
+See the section entitled "Executive Compensation" appearing in the Company's
+Proxy Statement for the Annual Meeting of Stockholders to be held on September
+10, 2001, which section is incorporated herein by reference.
+
+ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+See the section entitled "Securities Beneficially Owned by Certain Persons"
+appearing in the Company's Proxy Statement for the Annual Meeting of
+Stockholders to be held on September 10, 2001, which section is incorporated
+herein by reference.
+
+ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+See the section entitled "Certain Relationships and Related Transactions"
+appearing in the Company's Proxy Statement for the Annual Meeting of
+Stockholders to be held on September 10, 2001, which section is incorporated
+herein by reference.
+
+                                     PART IV
+
+ITEM 14 EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) 1. Index to Financial Statements
+
+       The financial statements filed as part of this report are listed on the
+       index appearing on page 21.
+
+    2. Index to Financial Statement Schedules
+
+       The following financial statement schedule is filed as part of this
+       report (page reference is to this report):
+
+          Schedule II   Valuation and Qualifying Accounts (page 48)
+
+       Other schedules have been omitted because of the absence of conditions
+       under which they are required or because the required information is
+       presented in the financial statements or notes thereto.
+
+
+                                       44
+<PAGE>   45
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+     3. Exhibits
+
+<TABLE>
+<CAPTION>
+        NO.      DESCRIPTION
+        ---      -----------
+
+<S>              <C>
+         2.a     Agreement and Plan of Merger, dated as of February 10, 2000, by and among Alpha
+                 Industries, Inc., Aries Acquisition Corporation and Network Device, Inc. (1)
+         3.a     Restated Certificate of Incorporation (2)
+         3.b     Amended and restated By-laws of the Corporation dated April 30, 1992 (3)
+         3.c     Certificate of Amendment of Restated Certificate of Incorporation of Alpha Industries, Inc.,
+                 dated March 30, 2000 (17)
+         4.a     Specimen Certificate of Common Stock (2)
+         4.b     Loan and Security Agreement dated December 15, 1993 between Trans-Tech, Inc., and
+                 County Commissioners of Frederick County (4)
+         4.c     Revolving Credit Agreement dated November 1, 1999 between Alpha Industries, Inc.,
+                 Trans-Tech, Inc., Fleet Bank of Massachusetts  and Silicon Valley Bank (5); as amended by
+                 that Agreement and Amendment No 1. dated November 16, 2000 between Alpha Industries,
+                 Inc., Trans-Tech, Inc., Fleet Bank of Massachusetts and Silicon Valley Bank (6)
+        10.a     Alpha Industries, Inc., 1986 Long-Term Incentive Plan as amended (7)*
+        10.b     Alpha Industries, Inc., Long-Term  Compensation Plan dated September 24, 1990 (8);
+                 amended March 28, 1991 (9); and as further amended October 27, 1994 (10)*
+        10.c     Severance Agreement dated May 20, 1997 between the Registrant and David J. Aldrich
+                 (11)*
+        10.d     Severance Agreement dated January 14, 1997 between the Registrant and Richard Langman
+                 (11)*
+        10.e     Consulting Agreement dated August 13, 1992 between the Registrant and Sidney Topol
+                 (12)*
+        10.f     Alpha Industries, Inc., 1994 Non-Qualified Stock Option Plan for Non-Employee Directors
+                 (7)*
+        10.g     Alpha Industries Executive Compensation Plan dated January 1, 1995 and Trust for the
+                 Alpha Industries Executive Compensation Plan dated January 3, 1995 (10)*
+        10.h     Severance Agreement dated September 4, 1998 between the Registrant and Paul E. Vincent
+                 (13)*
+        10.i     Alpha Industries, Inc., 1997 Non-Qualified Stock Option Plan for Non-Employee Directors
+                 (14)*
+        10.j     Severance Agreement dated September 13, 1999 between the Registrant and Thomas C.
+                 Leonard (15)*
+        10.k     Purchase and Sale Agreement dated July 27, 2000 between the Registrant and C.R. Bard,
+                 Inc. (16)
+        10.l     Severance Agreement dated May 30, 2000 between the Registrant and Jean-Pierre Gillard*
+        10.m     Alpha Industries, Inc. 1996 Long-Term Incentive Plan*
+        11       Statement regarding computation of per share earnings. See Note 1 to the Consolidated
+                 Financial Statements
+        21       Subsidiaries of the Registrant
+        23       Consent of Independent Auditors
+</TABLE>
+
+
+                      ------------------------------------
+
+*Management contract or compensatory plan
+
+
+                                       45
+<PAGE>   46
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+     (1)  Incorporated by reference to the exhibit filed with our Form 8-K dated
+          May 8, 2000.
+     (2)  Incorporated by reference to the exhibit filed with our Registration
+          Statement on Form S-3 (Registration No. 33-63857).
+     (3)  Incorporated by reference to the exhibit filed with our Annual Report
+          on Form 10-K for the fiscal year ended March 29, 1992.
+     (4)  Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended July 3,1994.
+     (5)  Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended December 26, 1999.
+     (6)  Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended December 31, 2000.
+     (7)  Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended October 2, 1994.
+     (8)  Incorporated by reference to the exhibit filed with our Annual Report
+          on Form 10-K for the fiscal year ended March 29, 1992.
+     (9)  Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended June 27, 1993.
+     (10) Incorporated by reference to the exhibit filed with our Annual Report
+          on Form 10-K for the fiscal year ended April 2, 1995.
+     (11) Incorporated by reference to the exhibit filed with our Annual Report
+          on Form 10-K for the fiscal year ended March 30, 1997.
+     (12) Incorporated by reference to the exhibit filed with our Annual Report
+          on Form 10-K for the fiscal year ended April 3, 1994.
+     (13) Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended September 27, 1998.
+     (14) Incorporated by reference to the exhibit filed with our Annual Report
+          on Form 10-K for the fiscal year ended March 29, 1998.
+     (15) Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended September 26, 1999.
+     (16) Incorporated by reference to the exhibit filed with our Quarterly
+          Report on Form 10-Q for the fiscal quarter ended October 1, 2000.
+     (17) Incorporated by reference to the exhibit filed with our Registration
+          Statement on Form S-8 (Registration No. 33-63818).
+
+(b)  Reports on Form 8-K
+
+          No reports on Form 8-K were filed with the Securities and Exchange
+          Commission during the fiscal quarter ended April 1, 2001.
+
+(c)  Exhibits
+
+          The exhibits required by Item 601 of Regulation S-K are FILED HEREWITH
+          and INCORPORATED BY REFERENCE herein. The response to this portion of
+          Item 14 is submitted under Item 14(a)(3).
+
+
+                                       46
+<PAGE>   47
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.
+
+                             ALPHA INDUSTRIES, INC.
+                                  (REGISTRANT)
+
+                            BY: /s/ DAVID J. ALDRICH
+                                --------------------
+                                DAVID J. ALDRICH, PRESIDENT
+
+Date:  June 27, 2001
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated on June 27, 2001.
+
+<TABLE>
+<CAPTION>
+       SIGNATURE AND TITLE                                                                SIGNATURE AND TITLE
+
+<S>                                                                         <C>
+/s/ THOMAS C. LEONARD                                                       /s/ TIMOTHY R. FUREY
+------------------------------------------                                  ----------------------------------------------
+Thomas C. Leonard                                                           Timothy R. Furey
+Chairman of the Board                                                       Director
+
+
+/s/ DAVID J. ALDRICH                                                        /s/ JAMES W. HENDERSON
+------------------------------------------                                  ----------------------------------------------
+David J. Aldrich                                                            James W. Henderson
+Chief Executive Officer                                                     Director
+President and Director
+
+
+/s/ PAUL E. VINCENT                                                         /s/ GEORGE S. KARIOTIS
+------------------------------------------                                  ----------------------------------------------
+Paul E. Vincent                                                             George S. Kariotis
+Chief Financial Officer                                                     Director
+Principal Financial Officer
+Principal Accounting Officer
+Secretary                                                                   /s/ DAVID MCLACHLAN
+                                                                            ----------------------------------------------
+                                                                            David McLachlan
+                                                                            Director
+
+
+                                                                            /s/ ARTHUR PAPPAS
+                                                                            ----------------------------------------------
+                                                                            Arthur Pappas
+                                                                            Director
+
+
+                                                                            /s/ SIDNEY TOPOL
+                                                                            ----------------------------------------------
+                                                                            Sidney Topol
+                                                                            Director
+</TABLE>
+
+
+                                       47
+<PAGE>   48
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+                                   SCHEDULE II
+
+VALUATION AND QUALIFYING ACCOUNTS
+(In thousands)
+
+<TABLE>
+<CAPTION>
+                                                                        CHARGED
+                                                      BALANCE AT        TO COSTS                        BALANCE AT
+                                                       BEGINNING           AND                            END OF
+   DESCRIPTION                                          OF YEAR         EXPENSES         DEDUCTIONS        YEAR
+----------------------------------------------------------------------------------------------------------------------
+
+<S>                                                   <C>               <C>              <C>            <C>
+Year Ended April 1, 2001
+ Allowance for doubtful accounts ................        $796             $434              $309            $921
+
+Year Ended April 2, 2000
+ Allowance for doubtful accounts ................        $741             $418              $363            $796
+
+
+Year Ended March 28, 1999
+ Allowance for doubtful accounts ................        $634             $295              $188           $741
+ Allowance for estimated losses on contracts.....        $ 36             $ --              $ 36           $ --
+</TABLE>
+
+
+                                       48
+
+
+
+</TEXT>
+</DOCUMENT>
